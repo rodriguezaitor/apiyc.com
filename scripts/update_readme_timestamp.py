@@ -8,10 +8,12 @@ from pathlib import Path
 def update_readme_timestamp() -> None:
     """Update the README.md file with the current timestamp"""
     readme_path = Path("README.md")
-    timestamp_file = Path("data/last_update.txt")
+    data_dir = Path("data")
+    timestamp_file = data_dir / "last_update.txt"
     
-    # Read current timestamp
+    # Check if timestamp file exists
     if not timestamp_file.exists():
+        print("Warning: No timestamp file found, skipping README update")
         return
         
     timestamp = datetime.fromisoformat(timestamp_file.read_text().strip())

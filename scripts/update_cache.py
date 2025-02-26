@@ -20,7 +20,10 @@ def update_timestamp(timestamp: datetime) -> None:
     Args:
         timestamp: Current update timestamp
     """
-    timestamp_file = Path("data/last_update.txt")
+    data_dir = Path("data")
+    data_dir.mkdir(exist_ok=True)
+    
+    timestamp_file = data_dir / "last_update.txt"
     timestamp_file.write_text(timestamp.isoformat())
 
 def validate_data(companies_count: int, facets_count: int) -> bool:
