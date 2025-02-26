@@ -12,6 +12,7 @@ A Python client for accessing Y Combinator companies data through their Algolia 
 - Intelligent caching system for both facets and companies
 - Configurable cache timeouts
 - Batch-specific data storage
+- Automated data updates every 6 hours
 
 ## Installation
 
@@ -70,6 +71,9 @@ client.refresh_facet_data("regions")
 
 # Fetch and cache all facets
 client.fetch_and_save_all_facets()
+
+# Get all companies and facets
+companies, facets = client.get_all_data()
 ```
 
 ### Data Storage Structure
@@ -133,6 +137,11 @@ The caching system is designed to:
 - Support configurable timeouts per operation
 - Allow forced refresh of specific data
 - Handle JSON serialization of complex types (e.g., datetime)
+- Automatically update every 6 hours via GitHub Actions
+
+## Last Updated
+
+Data last updated at: Initializing...
 
 ## License
 

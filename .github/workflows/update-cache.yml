@@ -1,0 +1,32 @@
+name: Update YC Data Cache
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  workflow_dispatch: # Manual trigger option
+
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Update cache
+        run: python scripts/update_cache.py
+
+      - name: Update README timestamp
+        run: python scripts/update_readme_timestamp.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ README.md
+          TIMESTAMP=$(cat data/last_update.txt)
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update YC data cache - $TIMESTAMP [skip ci]"
+          git push
