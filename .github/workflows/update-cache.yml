@@ -24,9 +24,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "soy@aitor.me"
+          git config --local user.name "rodriguezaitor"
           git add data/ README.md
           TIMESTAMP=$(cat data/last_update.txt)
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update YC data cache - $TIMESTAMP [skip ci]"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Data Update - $TIMESTAMP [skip ci]"
           git push
