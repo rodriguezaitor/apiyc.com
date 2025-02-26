@@ -1,0 +1,32 @@
+Python package for Y Combinator companies data.
+Uses Algolia API with intelligent caching.
+Type-safe with TypedDict for API responses and dataclasses for models.
+
+Structure:
+src/apiyc/
+  clients/ - API clients (YCClient, AlgoliaClient)
+  types/ - Type definitions
+  utils/ - Cache management
+
+Cache in data/:
+  companies/ - Per-batch JSON files
+  facets/ - Facet statistics
+  metadata.json - Version info
+
+Rules:
+- Type hint everything
+- Google docstrings
+- PEP 8 (100 chars)
+- Handle all errors
+- Test all functions
+
+Key types:
+- Company (dataclass)
+- AlgoliaResponse (TypedDict)
+- FacetCounts (TypedDict)
+
+Features:
+- Batch-specific caching
+- Configurable timeouts
+- Type-safe responses
+- Clean error handling
