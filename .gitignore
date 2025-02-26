@@ -34,9 +34,12 @@ src/apiyc.egg-info/
 .DS_Store
 
 # Project specific
-data/
 *.log
 .coverage
 htmlcov/
 .pytest_cache/
-.mypy_cache/ 
+.mypy_cache/
+
+# Allow data directory
+!data/
+!data/** 

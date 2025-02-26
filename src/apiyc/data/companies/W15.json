@@ -1,0 +1,3700 @@
+{
+  "data": [
+    {
+      "id": 810,
+      "name": "GitLab",
+      "slug": "gitlab",
+      "website": "http://gitlab.com/",
+      "description": "GitLab is the first single application for the entire DevOps lifecycle. Only GitLab enables Concurrent DevOps, unlocking organizations from the constraints of today\u2019s toolchain. GitLab provides unmatched visibility, radical new levels of efficiency and comprehensive governance to significantly compress the time between planning a change and monitoring its effect. This makes the software lifecycle 200% faster, radically improving the speed of business.\r\n\r\nGitLab and Concurrent DevOps collapses cycle times by driving higher efficiency across all stages of the software development lifecycle. For the first time, Product, Development, QA, Security, and Operations teams can work concurrently in a single application. There\u2019s no need to integrate and synchronize tools, or waste time waiting for handoffs. Everyone contributes to a single conversation, instead of managing multiple threads across disparate tools. And only GitLab gives teams complete visibility across the lifecycle with a single, trusted source of data to simplify troubleshooting and drive accountability. All activity is governed by consistent controls, making security and compliance first-class citizens instead of an afterthought.\r\n\r\nBuilt on Open Source, GitLab leverages the community contributions of thousands of developers and millions of users to continuously deliver new DevOps innovations. More than 100,000 organizations from startups to global enterprise organizations, including Ticketmaster, Jaguar Land Rover, NASDAQ, Dish Network and Comcast trust GitLab to deliver great software at new speeds.",
+      "one_liner": "A complete DevOps platform delivered as a single application.",
+      "batch": "W15",
+      "status": "Public",
+      "team_size": 2000,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "DevSecOps",
+        "Open Source"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1416307238.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af0d32f65e9007b7edbde422787633e338fa9bff.png"
+    },
+    {
+      "id": 739,
+      "name": "Notable Labs",
+      "slug": "notable-labs",
+      "website": "http://notablelabs.com",
+      "description": "Notable Labs is building a personalized drug discovery platform to identify treatment options for relapsed and refractory cancer patients \u2014 starting with blood cancer \u2014 to address the long tail of cancer treatment. We look at a person\u2019s actual cancer cells, test combinations of FDA approved drugs, and see which combinations kill the cancer cells and leave the healthy cells alive. We focus on combinations because cancer is often difficult to target with just one drug and starting with a single drug can lead to resistant clones or relapse. We're building a highly automated lab in Foster City running on our custom software and are currently testing relapsed/refractory cancer patients as well as samples from a variety of pharma/biotech partnerships.\r\n\r\nhttps://www.notablelabs.com/careers",
+      "one_liner": "Personalized drug discovery for blood cancer.",
+      "batch": "W15",
+      "status": "Public",
+      "team_size": 40,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Foster City, CA, USA",
+      "tags": [
+        "Biotech",
+        "Drug discovery",
+        "Oncology"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1407578442.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2bf47d120c3bdde2a9ad11d9f05f1c08a72ca0e.png"
+    },
+    {
+      "id": 805,
+      "name": "Lucira Health",
+      "slug": "lucira-health",
+      "website": "https://www.lucirahealth.com/",
+      "description": "Diassess Inc. is revolutionizing the way infectious diseases are prevented, diagnosed, and monitored by developing the tools necessary to empower people to become knowledgeable about their health. We produce inexpensive, disposable health diagnostic hardware that transforms any smartphone into a portable, real-time health-monitoring device for rapid, accessible, multiplexed analysis of bodily fluids anywhere in the world.",
+      "one_liner": "Next generation infectious disease test kits",
+      "batch": "W15",
+      "status": "Public",
+      "team_size": 43,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Emeryville, CA, USA",
+      "tags": [
+        "Health Tech",
+        "Diagnostics"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416306600.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c16f624e7c7aac96877a792583de496fc66b4a02.png"
+    },
+    {
+      "id": 809,
+      "name": "EquipmentShare",
+      "slug": "equipmentshare",
+      "website": "https://www.equipmentshare.com",
+      "description": "EquipmentShare delivers cloud solutions for the construction industry. We provide a better equipment rental experience, fleet tracking software and hardware security solutions to help contractors work smarter. ",
+      "one_liner": "Cloud solutions for the construction industry.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 5400,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Construction",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Columbia, MO, USA",
+      "tags": [
+        "Construction"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1416306934.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad05853522c217d92c372ba8883ff6b45dd83d99.png"
+    },
+    {
+      "id": 767,
+      "name": "GrubMarket",
+      "slug": "grubmarket",
+      "website": "http://grubmarket.com",
+      "description": "GrubMarket is the AI-powered technology enabler and digital transformer of American Food Supply Chain industry. Our mission is to build and provide the eCommerce and software technologies to this industry, to transform this completely offline and highly manual industry into modernized online industry powered by software technologies, and improve the efficiency of American food supply chain.\r\n",
+      "one_liner": "AI-powered technology enabler and digital transformer of American\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 4548,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "E-commerce",
+        "Supply Chain",
+        "Food Tech",
+        "Agriculture"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1416220249.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a10cd6dd027a6f9927f0c0574be6404d3ed0c014.png"
+    },
+    {
+      "id": 827,
+      "name": "Razorpay",
+      "slug": "razorpay",
+      "website": "https://razorpay.com",
+      "description": "The journey of building Razorpay started in 2014, when Harshil Mathur (CEO & Co-Founder) and Shashank Kumar (MD & Co-Founder) witnessed the dismal state of the online payments industry in India then and understood that they have a larger and more important issue to solve. And That was democratizing online payments for Indian businesses, particularly the underserved market, Startups and SMEs. Over the last 9 years, Razorpay has evolved from a single-product company to a multi-product company, from an online payment gateway to India\u2019s only full-stack financial solutions company, offering payments and banking solutions to businesses.  Razorpay today is transforming age-old complexities and changing every known paradigm of money movement for disruptive businesses.\r\n\r\nOver the last couple of years, Razorpay\u2019s growth has evolved to be an index of India\u2019s digital economy. From a kirana shop in Kashmir collecting payments on our POS device to a textile exporter in Kanyakumari accepting dollars through our International Payments product, Razorpay has revolutionised how businesses have traditionally transacted and interacted with money. \r\n\r\nRazorpay became the first and only Indian fintech to build a full-stack international Payment Gateway \u2018Curlec by Razorpay\u2019 and evolved into a comprehensive provider of payment solutions, leveraging the synergy between cutting-edge technological capabilities and a profound understanding of the local payment ecosystem. The introduction of the new Curlec Payment Gateway aims to cater to a wide spectrum of businesses, expanding its reach to over 5,000 establishments. \r\n\r\nBe it for international expansion or solving for Indian businesses, for Razorpay, the customer has always been at the core of all disruption, from addressing evolving needs to delivering new solutions. This hyperfocus helped bring Razorpay\u2019s several industry-first innovations into the market since 2014. Razorpay became the first to launch a completely digital on-boarding process for startups, first to launch support for UPI, first to launch support for Bharath QR, first to introduce recurring payments for businesses through Razorpay Route, automating payment receipts and later automate payouts and making the entire process seamless and optimized and many more were introduced aling the way. Other firsts include: - First to launch India\u2019s Multi-Network Tokenisation solution, TokenHQ - Razorpay became India\u2019s first payment gateway to support credit cards on UPI - Razorpay also became India\u2019s largest omnichannel payment gateway for businesses post acquiring Ezetap which is India\u2019s leading offline POS company that was founded with the aim to simplify the in-person offline payments experience.\r\n\r\nOver the years, Razorpay\u2019s valuation has jumped from $1 billion to $7.5 billion and has added a host of marquee investors to its captable. Razorpay is also the second Indian company to be a part of Silicon Valley\u2019s largest tech accelerator, Y Combinator. Marquee investors such as Lone Pine Capital, Alkeon Capital, TCV, GIC, Tiger Global, Sequoia Capital India, Ribbit Capital, Matrix Partners, Salesforce Ventures, Y Combinator, and MasterCard have invested a total of $741.5 Mn through Series A, B, C, D, E and F funding. The last financing round of Series F led the company\u2019s valuation to $7.5 Billion signaling one of the fastest increases in valuation for an Indian Unicorn. \r\n\r\nRazorpay has also made acquisitions with like-minded companies over the last 9 years. In total, till date, Razorpay has made eight acquisitions, Billme in 2023 - A Digital invoice and customer Engagement, Ezetap in 2022 - India\u2019s leading offline POS company, PoshVine in 2022 - India\u2019s leading loyalty and reward management platform, IZealiant in 2022 - A mobile-first, API-enabled, and cloud-ready payment solution and made its first international foray in South-East Asia by announcing its acquisition of Curlec in 2022 - A recurring payments platform. TeraFin Labs in 2021 - the AI-based SaaS platform that facilitates digital financing solutions, Opfin (Now RazorpayX Payroll) in 2019 -  The payroll management solution and Thirdwatch in 2019, the first acquisition - The AI-powered fraud detection platform.\r\n\r\nAll these efforts are being done in collaboration with banks, regulators, and stakeholders so that India can build a better place for small and big businesses. Today, Razorpay powers online payments for 76 Of 100 startup unicorns and millions of businesses in India. The core premise of what Razorpay was founded in 2014 and what it is today hasn\u2019t changed. It is to make money movement simpler and easier, whether it is for businesses to receive money, send money, or manage money. \r\n\r\n",
+      "one_liner": "India's only full-stack financial solutions company for businesses.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 2700,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Bengaluru, KA, India",
+      "tags": [
+        "Banking as a Service",
+        "Fintech",
+        "Payments",
+        "India"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1416309883.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6a6aaf9a84fa4b7ddb53cabda7443c142a5a154.png"
+    },
+    {
+      "id": 857,
+      "name": "Shasqi",
+      "slug": "shasqi",
+      "website": "",
+      "description": "Shasqi is leading the development of therapeutics leveraging click chemistry to get active cancer treatments to tumors with its proprietary CAPAC\u2122 platform. Our technology is based on localizing a click chemistry reagent in the tumor area, which then activates a second agent, a systemically infused protodrug. When the two 'click', a powerful localized therapy is activated at the tumor, while keeping its systemic exposure levels below toxic thresholds.",
+      "one_liner": "Targeting Cancer with Click Chemistry",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 28,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Biotech",
+        "Therapeutics"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1421189619.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc67fc2138abb0d2b24dd42fa7b056c024ad80a.png"
+    },
+    {
+      "id": 856,
+      "name": "Mashgin",
+      "slug": "mashgin",
+      "website": "http://mashgin.com",
+      "description": "Mashgin creates better retail experiences through visual automation. \r\n\r\nWe\u2019ve built a self-checkout kiosk that uses computer vision to scan multiple items without barcodes, reducing checkout time by 10x. We\u2019re completely recreating the checkout experience in an industry that\u2019s had little innovation in decades.\r\n\r\nOur clients see dramatic reductions in lines and revenue increases of as much as 400% as a result.",
+      "one_liner": "Self-Checkout using Computer Vision.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 75,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Cashierless Checkout",
+        "Deep Learning",
+        "Hardware",
+        "Computer Vision",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1421189374.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd7ff2b3db9bbbc82a79afababdad873d16b6e54.png"
+    },
+    {
+      "id": 851,
+      "name": "NimbleRx",
+      "slug": "nimblerx",
+      "website": "http://nimblerx.com",
+      "description": "We enable people to live their best lives. As we succeed, there is more convenience, healthier communities and thriving businesses. We get medications to those who need them and improve information, access and management of their care and enable businesses to move online and gain access to consumers who need their services \r\n",
+      "one_liner": "On-demand prescription delivery.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 130,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Redwood City, CA, USA; Menlo Park, CA, USA",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816980.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef7a61ca3801604838ec463e1179fb823f2670c.png"
+    },
+    {
+      "id": 849,
+      "name": "Replika",
+      "slug": "replika",
+      "website": "https://replika.ai/",
+      "description": "Luka is a software development company based in San Francisco, California.\r\n\r\nThe company created Luka app, a new messenger with AI-powered chatbots. They help you find places to eat, do web search, make plans together, pick places to eat, play trivia games and lots of other things in a messenger.\r\n\r\nIn 2016 Luka launched a closed testing of Replika, a new app that allows to create a personal AI friend that helps people deal with loneliness. The app is powered by a proprietary deep learning architecture.",
+      "one_liner": "Replika is an AI friend that you can talk to designed to make you\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 28,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Mental Health",
+        "Conversational AI"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816871.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bb8d74afb0e05a227b84f8652f03f05258ec34b.png"
+    },
+    {
+      "id": 848,
+      "name": "Tara AI",
+      "slug": "tara-ai",
+      "website": "http://www.tara.ai",
+      "description": "Tara AI helps engineering leaders measure and improve engineering efficiency, with fine-tuned, secure LLMs trained on source control and project data. \r\n\r\nOur customers include MongoDB, Clearbit and Prometric. Our platform generates all-in-one views on cycle times, benchmarks, investments and overall size and velocity of engineering activity. We're helping customers achieve 30% reduction in time to customer deployment.",
+      "one_liner": "Meet Tara AI, your new engineering efficiency co-pilot.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 13,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Jose, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "SaaS",
+        "DevOps",
+        "AI"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816809.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5150a8797d7be6783f61a5e2ea17ea19cd3721a3.png"
+    },
+    {
+      "id": 847,
+      "name": "Flip",
+      "slug": "flip",
+      "website": "http://justflip.com",
+      "description": "FLIP is everyone\u2019s sneaker connect\u200a\u2014\u200athe premier specialty destination where people find and sell hard to find, rare, limited edition sneakers. They have created a community where their members can buy and sell with confidence and ease. Never miss out on an opportunity to place your bid on hard to find sneakers in 90 minutes from a curated list of quality sellers who really care. Their mobile only platform is currently available for your iPhone and coming soon to Android. They strive to keep an open and trusted environment for their community.",
+      "one_liner": "Community-driven marketplace for sneakers.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": null,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Apparel and Cosmetics",
+      "industries": [
+        "Consumer",
+        "Apparel and Cosmetics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Marketplace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816775.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2867a53daf101deac05cf2b659c168e70357e5ad.png"
+    },
+    {
+      "id": 840,
+      "name": "X-Zell",
+      "slug": "x-zell",
+      "website": "http://www.x-zell.com",
+      "description": "X-ZELL\u2122 is a global start-up specialising in rare cell detection technology. \r\n\r\nBacked by Y Combinator and various high-profile angel investors from around the globe \u2013 among them Gmail creator Paul Buchheit \u2013 X-ZELL\u2122 has developed a world-first platform technology capable of isolating and visualizing rare and abnormal cells such as Circulating Endothelial Cells (CEC).\r\n\r\nX-ZELL\u2122\u2019s platform technology is based on four core modules covering the entire spectrum from blood processing through to cell analysis and reporting \u2013 with every step performed in-house using patented and proprietary technology.\r\n\r\nBy combining the wisdom of 4,000 years of pathologic research with X-ZELL\u2122\u2019s own, cutting-edge technology, \r\nX-ZELL\u2122 ensures robust results and maximum clinical utility across a broad range of medical applications \u2013 from research through to medication management, companions diagnostics, relapse control and diagnostic decision-making.\r\n\r\nMore information on www.x-zell.com and @XZELLInc",
+      "one_liner": "Early, pain-free cancer detection. ",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 19,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "Singapore",
+        "Thailand",
+        "Germany",
+        "Southeast Asia",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Singapore, Singapore; Bangkok, Thailand; D\u00fcsseldorf, NRW, Germany",
+      "tags": [
+        "Medical Devices"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416312163.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fafbc0fbed91c91e5664f3b665740b3a037febe.png"
+    },
+    {
+      "id": 835,
+      "name": "Transcriptic",
+      "slug": "transcriptic",
+      "website": "http://transcriptic.com",
+      "description": "Founded in 2012, Transcriptic has developed the first robotic cloud lab platform for on-demand life science research. It\u2019s powered by the Transcriptic Common Lab Environment (TCLE) a scalable, digital infrastructure that integrates laboratory processes, instruments and IoT technologies into a single user interface. Researchers can carry out scalable, reproducible and rapid experimentation from anywhere in the world. \r\n\r\nTop ten pharmaceutical companies, as well as emerging biotech companies, are using the platform to gain more reproducibility and flexibility in the design and control of their experiments. By leveraging cloud-based technologies, users can access the power of a fully automated laboratory \u2013 whether in their own labs through an on-premise deployment of TCLE or through Transcriptic\u2019s Bioassays services \u2013 all through a simple web-based interface. \r\n\r\nTranscriptic is transforming drug discovery and synthetic biology research by helping scientists focus on accelerating discoveries instead of labor-intensive bench work.",
+      "one_liner": "The robotic cloud laboratory for the life sciences.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 13,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Menlo Park, CA, USA",
+      "tags": [
+        "Robotics",
+        "Biotech"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416311312.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/04d24967c3e4ff77621b1783e6234eaa80f83fa2.png"
+    },
+    {
+      "id": 834,
+      "name": "Zenflow",
+      "slug": "zenflow",
+      "website": "http://zenflow.com",
+      "description": "Forty million men in the US and over 500 million worldwide suffer from urinary obstruction related to benign prostatic hyperplasia (BPH). The majority of men will experience symptoms of this disease at some point in life. BPH, also known as prostate enlargement, leads to urinary straining, frequency, urgency, and sleep disruption. Despite the high prevalence and significant quality of life burden of BPH, established treatments are limited to drugs, which have limited effectiveness, and surgery, which carries a high risk of sexual side effects. The Zenflow Spring is a small implant delivered in the urologist's office in a simple procedure that provides quick and long-lasting symptom relief.",
+      "one_liner": "Medical device that provides a more effective, less invasive\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 18,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Medical Devices",
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "South San Francisco, CA, USA",
+      "tags": [
+        "Medical Devices"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416311220.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/39dafe5a7c09ff15739f0bf0dfb5ef1902393913.png"
+    },
+    {
+      "id": 833,
+      "name": "Tab",
+      "slug": "tab",
+      "website": "https://www.tab.travel",
+      "description": "At Tab, we\u2019re revolutionising the way travellers discover, plan and book a trip.\r\n\r\nThe Guide lets travellers find and book anywhere \u2014 with helpful recommendations from friends & local experts, rather than bland listings with endless reviews. Planning your trip should be a joy, not a chore! We help people to travel responsibly, by booking direct instead of using traditional booking sites. Travellers get the best price and they help local businesses avoid unnecessary fees. \r\n\r\nTravel experts, content creators and the friends you always ask for recommendations can use The Guide to showcase their favourite places to stay and things to do. When you book one of their recommendations, you\u2019ll get a discount from the business and they receive bonus credit to say thanks.\r\n\r\nThe Tab platform gives independent tourism businesses the tools to improve their online presence, be discovered, take direct bookings \u2014 and also to take payments. Our payment platform is uniquely designed for tourism businesses, handling over 100 currencies natively, and every payment type securely and easily.\r\n\r\nAs travel returns after a difficult period, it\u2019s time for a fresh approach. That\u2019s why we\u2019re building a social commerce platform for tourism \u2014 helping to spread the benefits of tourism far and wide, and helping travellers make the most of their precious time abroad. \r\n\r\nWe're headquartered in London, and backed by Y Combinator (the investors behind Airbnb, Dropbox and Stripe).",
+      "one_liner": "Revolutionising the way travellers discover, plan and book a trip",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 9,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Travel, Leisure and Tourism",
+      "industries": [
+        "Consumer",
+        "Travel, Leisure and Tourism"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Fintech",
+        "Marketplace",
+        "Travel"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416311007.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8f02178e3ddf46bafbfb385e35e6ddbd748c98d.png"
+    },
+    {
+      "id": 826,
+      "name": "Priime",
+      "slug": "priime",
+      "website": "https://priime.com",
+      "description": "Priime's founding team of lifetime photographers are made up of Y Combinator alumni who are also seasoned developers and designers. Combining our passion in photography, with our experience and skills of product design and development, we are setting out to lead the world in improving the overall quality of shared photos.",
+      "one_liner": "Priime is a company dedicated to advancements in technology around\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416309670.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8c0c9c0757afc99617559c6402808a6e7d82e23.png"
+    },
+    {
+      "id": 817,
+      "name": "Meadow",
+      "slug": "meadow",
+      "website": "https://getmeadow.com",
+      "description": "Headquartered in San Francisco since 2014, Meadow builds powerful Point of Sale and eCommerce software for retailers in the legal cannabis industry. Meadow\u2019s all-in-one platform allows dispensaries to sell products, manage menus and inventory, reward customers, dispatch delivery and pick-up orders, and create exceptional in-store experiences for customers. Meadow powers dispensaries and delivery services of all sizes, utilizing technology to maintain compliance with local and state regulations, scale with the Adult Use market, and create operational efficiencies that allow these businesses to thrive in a regulated industry. Meadow\u2019s team is dedicated to making the best retail software in cannabis, and to creating a more collaborative and inclusive legal cannabis industry. To learn more about Meadow, visit getmeadow.com.",
+      "one_liner": "Point of Sale and Compliance SaaS for Cannabis Dispensaries",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 14,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Cannabis"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416308423.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0fa48b99116985657fd362e4dcb5948c48c050d.png"
+    },
+    {
+      "id": 815,
+      "name": "Level Frames",
+      "slug": "level-frames",
+      "website": "http://levelframes.com",
+      "description": "Level Frames is making it more convenient, affordable and intuitive to custom frame posters, prints, photos and more. By bringing the entire experience online and offering amazing support, we can help make your walls in your home or office look amazing at a fraction of the price and turnaround time of a traditional frame shop. \r\n\r\nLevel was founded in 2014 and is based in New York, United States.",
+      "one_liner": "Software eats custom framing",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "NY, USA; Atlanta, GA, USA; South Lake Tahoe, CA, USA",
+      "tags": [
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416308332.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e83f0ec0fd8eb57c92eb2af88daaf9a5888aa9fa.png"
+    },
+    {
+      "id": 813,
+      "name": "Industrial Microbes",
+      "slug": "industrial-microbes",
+      "website": "http://imicrobes.com",
+      "description": "At iMicrobes, we believe there are opportunities for biology to solve our biggest problems.  Our mission is to work with the world\u2019s largest companies to use new raw materials and recycle waste for chemical production, polymers, agriculture, and space exploration. ",
+      "one_liner": "We design and build microbes to make chemicals greener at lower cost.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 12,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Alameda, CA, USA",
+      "tags": [
+        "Carbon Capture and Removal",
+        "Bioplastic",
+        "Climate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416307876.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c3ae2e51b19cd9bcebdb9eca9dfe2161589c2e1.png"
+    },
+    {
+      "id": 811,
+      "name": "Giveffect",
+      "slug": "giveffect",
+      "website": "http://giveffect.com",
+      "description": "Giveffect provides a powerful all-in-one software platform exclusively for nonprofits. We offer fundraising, events, online donations, volunteer management, donor management, marketing, constituent relationship management software, and more. We are well positioned for rapid expansion in the coming years and have garnered top industry recognition for our platform.",
+      "one_liner": "Fundraising, Volunteer and Donor Management SaaS for nonprofits.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "SaaS",
+        "Nonprofit",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416307299.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d51c4927ae68d337b0287b118c889be90febd4b9.png"
+    },
+    {
+      "id": 808,
+      "name": "eBrandvalue",
+      "slug": "ebrandvalue",
+      "website": "https://www.ebrandvalue.com/",
+      "description": "eBrandValue, Inc. is a Mountain View, CA-based company that acts as a BI platform for brands and leverages social data to forecast sales and provide competitive intelligence. Its unique proprietary algorithm essentially captures consumer behaviour and brand affinities using social data to identify the most effective profile changing events. \u2028\u2028 \r\n\r\neBrandValue has become a de facto forecaster of sales in many industries by accurately predicting and reporting the real-time sales, ROI, brand performance and market share-impact of brands in comparison to all of their competitors. These predictions are confirmed by Nielsen\u2019s ScanTrack, which once again emphasises the catalytic impact of next-stage intelligent social media analysis to sales strategy.\u2028 \r\n\r\neBrandValue enables brands to measure the efficacy and ROI of their events and campaigns, and to track and analyse influencers within their industry. It also provides Meme-Based Netnographic Segmentation which reveals the dimensions that define a brand and encapsulate the nature of social media postings in the sector, thus allowing brands to track their positioning vis-\u00e0-vis competition in real-time.\u2028 \r\n\r\neBrandValue recently graduated from Y Combinator\u2019s Winter\u201915 batch, and received press coverage at VentureBeat. Additionally, eBrandValue was also showcased as part of the Start Up Academy during Cannes Lions as one of the ten globally selected startups that are currently disrupting the marketing/agency business.\u2028",
+      "one_liner": "Real-time Nielsen ratings for Brands.Accelerate marketing and product\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [
+        "Analytics",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416306873.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7687a266acc1565f2404a9e6053b41025b988e9.png"
+    },
+    {
+      "id": 807,
+      "name": "Quantierra",
+      "slug": "quantierra",
+      "website": "http://quantierra.com",
+      "description": "Quantierra sources real estate investments for developers.\r\n\r\nIt uses their database and algorithms to determine what can be built, its value, and the probability of it selling. Taking a 1.5% cut of any property they help sell, They\u2019ve made $141,000 in revenue in 3 months, and say they have $310,000 in signed term sheets.",
+      "one_liner": "Sourcing investment real estate",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Real Estate",
+        "Investing"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1604367576.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 802,
+      "name": "Cleanly",
+      "slug": "cleanly",
+      "website": "https://cleanly.com",
+      "description": "We started Cleanly to create an alternative to your typical laundry and dry cleaning experience.  An alternative where delivery occurs at the tap of a button and happens around your schedule. Where people are friendly and knowledgeable about the way your clothes are treated. \r\n\r\nCleanly checks one item off your to-do list: Laundry day, done. \r\n\r\nLearn more about Cleanly on our website: www.cleanly.com",
+      "one_liner": "Laundry & Dry Cleaning delivered.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 40,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Delivery",
+        "Logistics"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416305960.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8349634f7984abbf72ed4977ed18128b2cd5d9ad.png"
+    },
+    {
+      "id": 797,
+      "name": "Resolve",
+      "slug": "resolve",
+      "website": "https://www.resolvebim.com",
+      "description": "At Resolve we\u2019re building the future of simulations using immersive technology like VR and AR. Today, Resolve helps bridge the communication gap between people who operate buildings and those who design and build them. We've built the most robust application for reviewing industrial facilities on wireless VR devices like the Oculus Quest - our customers love it because it just works even with complex 3D building models.\r\n\r\nFrom data centers to cutting-edge biopharma facilities, Resolve provides a collaborative virtual environment for operations & maintenance teams to review and interact with 3D building models at full scale - decreasing late stage changes during the construction process and delivering a safer, more easily operable building.\r\n\r\nOur customers' facilities contain a multitude of complex systems which require careful coordination and review to ensure the building is completed on time and within budget. To prevent rework and increased building maintenance costs, Resolve fixes the broken system of screen-sharing 3D models and 2D floorplans with the operations teams that inherit the building and, instead, gives them easy access to their 3D building models before concrete is poured.",
+      "one_liner": "VR simulations for operations, maintenance and construction teams.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 9,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Construction",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Virtual Reality",
+        "Construction",
+        "Design Tools",
+        "Metaverse"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222759.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/389299d1c66fa893f4b70f857d4c48593bc491c6.png"
+    },
+    {
+      "id": 791,
+      "name": "Makrwatch",
+      "slug": "makrwatch",
+      "website": "https://www.makrwatch.com",
+      "description": "Makrwatch helps D2C companies scale user acquisition with YouTube creators. Our clients see us as an alternative growth channel to Google/Facebook, by reaching their audience at a more efficient cost per acquisition and obtaining high quality customers that are more engaged. \r\n\r\nMakrwatch has been growing 100%+ year over year, currently processes 2M-5M in billings and helps creators in over 60+ countries. We are reaching 20 team members in 6+ countries, have been fully remote for the past years and aim to reach 20M in billings with 10,000 sponsored videos within the next 18 months. ",
+      "one_liner": "Scale new user acquisition with YouTube Creators",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 19,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Marketplace",
+        "B2B",
+        "Social Media",
+        "Advertising",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222240.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d112d21825239851033ed226096467016755e57.png"
+    },
+    {
+      "id": 790,
+      "name": "TeamNote",
+      "slug": "teamnote",
+      "website": "http://teamnoteapp.com",
+      "description": "TeamNote as a company was conceived in 2014 after spinning off from AppTask, a Hong Kong mobile app development company specialized in enterprise mobile solution development. TeamNote\u2019s mission is to help corporations unleash the productivity of their mobile workforce and maximize their working efficiency that mobile technology brings about.\r\n\r\nTeamNote as a product started off its research and development in 2013 and was officially launched to the market in the first quarter of 2014. The first customer in Hong Kong is Cheung Kong (Holdings) Ltd.\r\n\r\nIn January 2015 TeamNote joined the renowned Silicon Valley accelerator Y Combinator as incubatee.",
+      "one_liner": "Mobile Productivity(Slack for mobile workforces)",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Hong Kong",
+        "East Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Hong Kong, Hong Kong",
+      "tags": [
+        "B2B"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222148.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e80f24cb6eb0be2ffe43f35c7a912d2e48af9eb.png"
+    },
+    {
+      "id": 789,
+      "name": "Tempo",
+      "slug": "tempo",
+      "website": "https://tempo.fit/",
+      "description": "SmartSpot is a post Series-A stealth startup backed by Founders Fund and Khosla Ventures that uses computer vision to deliver an unparalleled fitness training experience to your home. Our unique hardware solution gives amazing trainers the ability to see their class participants in real time and deliver detailed advice that was previously only possible in person.",
+      "one_liner": "Live home fitness training powered by computer vision.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 158,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Consumer Health Services"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222026.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d7bb4096474a73857a04dd3a797223c11e906d3.png"
+    },
+    {
+      "id": 787,
+      "name": "SIRUM",
+      "slug": "sirum",
+      "website": "http://sirum.org",
+      "description": "SIRUM uses technology to connect, prioritize and simplify various sources of medicine. We help safety-net clinics access this medicine for their patients.\r\n\r\nSIRUM is an innovative nonprofit organization committed to reducing barriers to health for underserved populations. Incubated at Stanford University, SIRUM draws from the academic and technology expertise of faculty and alumni to strengthen its impact and efficiency. \r\n\r\nSIRUM has become a leader in prescription drug donations, providing consulting and technical assistance to county governments, community clinics and multiple drug donor groups to establish redistribution programs",
+      "one_liner": "SIRUM is a \u201cmatch.com\u201d for unused medicine. We connect institutional\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "Unspecified",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Unspecified"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Consumer Health Services",
+        "Nonprofit"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": true,
+      "is_top_company": false,
+      "launched_at": 1416221874.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eaff4c9574450ebd693897cc2604edad7f9b0ce.png"
+    },
+    {
+      "id": 786,
+      "name": "Sails Co.",
+      "slug": "sails-co",
+      "website": "https://sailsjs.com/about",
+      "description": "The Sails Company was founded by the original author and maintainers of the Sails framework. In addition to free and open-source software, The Sails Company offers a full-service web & mobile studio and professional support for the tools we maintain.",
+      "one_liner": "Full-service web, mobile, & cloud studio providing professional\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Austin, TX, USA",
+      "tags": [
+        "Open Source",
+        "Web Development",
+        "Cloud Computing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221771.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/065c8c25c94a5b7288159539b52e8719bf30381d.png"
+    },
+    {
+      "id": 782,
+      "name": "ReadMe",
+      "slug": "readme",
+      "website": "http://readme.com",
+      "description": "ReadMe provides every company the ability to easily create beautiful documentation, and build loyal, productive developer communities.\r\n\r\nWith ReadMe, build developer portals that combine support, tutorials, topical guides and API exploration. ReadMe makes it trivial to keep docs up-to-date and has community oriented features that help drive adoption.\r\n\r\nWanna see what it'd look like to work at ReadMe? Our careers page takes a stab at it! https://readme.com/careers",
+      "one_liner": "Beautiful, personalized, interactive developer hubs",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 52,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA; New York, NY, USA",
+      "tags": [
+        "Developer Tools",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221436.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a8bd3afbbc73a7d4c44e873cf178a675ddaa19d.png"
+    },
+    {
+      "id": 781,
+      "name": "BuildScience",
+      "slug": "buildscience",
+      "website": "http://www.buildscience.com/",
+      "description": "Revolutionizing building management.\r\n\r\nOur platform allows building owners to deliver better customer service via custom software. We have deployed this in a 1M sq.ft. Class A office building, where we were able to lower operational expenses while improving tenant satisfaction.",
+      "one_liner": "The operating system for commercial buildings.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Niagara Falls, NY, USA; Remote",
+      "tags": [
+        "Sustainability",
+        "Proptech",
+        "Energy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221345.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea5b7ba5bf28f127304f4edff2198d051dc6e72f.png"
+    },
+    {
+      "id": 774,
+      "name": "Platzi",
+      "slug": "platzi",
+      "website": "https://platzi.com",
+      "description": "Platzi cracked online education. It teaches courses on design, marketing and programming with a 70% completion rate, to over one million students worldwide.\r\n\r\nThe classes include real-time collaboration among students and industry leaders as teachers. It aims to be the professional home for lifelong learning of advanced skills.",
+      "one_liner": "Latin America's School of Technology",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 300,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "Chile",
+        "Mexico",
+        "Spain",
+        "Argentina",
+        "Colombia",
+        "Peru",
+        "America / Canada",
+        "Latin America",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Madrid, Community of Madrid, Spain; Buenos Aires, CABA, Argentina; Bogot\u00e1, Bogota, Colombia; Lima, Callao Region, Peru; Remote",
+      "tags": [
+        "Education",
+        "eLearning",
+        "Video",
+        "HR Tech",
+        "Subscriptions"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220798.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b54bffd3bd06059fabfb2a7a0351e2e4c1e8e697.png"
+    },
+    {
+      "id": 773,
+      "name": "Labdoor",
+      "slug": "labdoor",
+      "website": "https://labdoor.com",
+      "description": "Labdoor is a marketplace where consumers research, find, and buy the best supplements.\r\n\r\nTo verify the purity and potency of these products, Labdoor first buys and tests actual dietary supplement samples:\r\n\u2022 We send each product to an FDA-registered laboratory for a detailed chemical analysis.\r\n\u2022 Our scientists then collect the laboratory results and use internal algorithms to translate this data into simple grades and rankings for consumers.\r\n\u2022 Find a product you love? Click \"buy it now\" to activate in-app purchases.",
+      "one_liner": "Labdoor is building the trusted online drugstore.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 11,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketplace",
+        "Consumer Health Services"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220707.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e41808a31c6cfaae68fee514481c62f71308c71.png"
+    },
+    {
+      "id": 764,
+      "name": "GiveMeTap",
+      "slug": "givemetap",
+      "website": "http://givemetap.com",
+      "description": "GiveMeTap is a social enterprise. Our mission is to make clean drinking water available to everyone, everywhere.\r\n\r\nWe create stainless steel water bottles, and each bottle funds 5 years of clean water for someone in Africa. When you get a GiveMeTap bottle, you also have access to the free-water network of cafes and shops who give free tap water to people on the go. No questions, no hassle.\r\n\r\nWe build water projects in remote villages and elect a water committee to run the maintenance of the water. So far we have made an impact in Namibia, Malawi, and Ghana to bring clean water for the first time.\r\n\r\nWe like to think of this as \u2018Water for You, Water for Everyone\u2019.\r\n\r\nWe help awesome companies create custom bottles for their staff, customers, and events so that they can stay hydrated, reduce plastic waste and help fund water projects. Our partners include:\r\n\r\nDeloitte\r\nHSBC\r\nYCombinator\r\nGoogle\r\nTED\r\nFlexport\r\nLegal & General\r\nRichard Branson's The Lodge, Switzerland\r\nCambridge University \r\n\r\nWant to get your company involved? Visit http://bit.ly/2j2Ef64\r\n\r\nWater for you. Water for everyone.",
+      "one_liner": "We produce & sell stainless steel water bottles that enables people\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "London, England, United Kingdom; Remote",
+      "tags": [
+        "Sustainability"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220066.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e12f171a4ea3c40c73ef3e8b77453a6deaec1f6e.png"
+    },
+    {
+      "id": 763,
+      "name": "Bankjoy",
+      "slug": "bankjoy",
+      "website": "http://bankjoy.com",
+      "description": "Bankjoy provides a full suite of modern digital banking software, including mobile banking, online banking, online account opening, loan applications, and conversational AI to banks and credit unions.",
+      "one_liner": "An end-to-end digital banking solution for banks and credit unions",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 60,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Troy, MI, USA; Remote",
+      "tags": [
+        "Banking as a Service",
+        "Conversational Banking",
+        "Fintech"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220006.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/134b12b221534d10b8b6f4ff8ae5da4a440320ad.png"
+    },
+    {
+      "id": 762,
+      "name": "Zeitview",
+      "slug": "zeitview",
+      "website": "https://www.zeitview.com/",
+      "description": "At Zeitview, our goal is to accelerate the transition to renewable energy and sustainable infrastructure. We do this by combining advanced inspection software with the ability to capture visual data in more than 60 countries. This allows us to deliver safer, faster, lower-cost inspections of energy and infrastructure assets with a high degree of accuracy and repeatability. We use artificial intelligence and machine learning to ingest and analyze vast amounts of visual data to provide objective insights that our customers can act on immediately.",
+      "one_liner": "Inspection software for renewable energy & sustainable infrastructure",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 200,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Drones",
+      "industries": [
+        "Industrials",
+        "Drones"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Santa Monica, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Drones",
+        "B2B",
+        "Climate",
+        "Renewable Energy"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416219854.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e32a7ff9f034ea9a91bf3c37be592aaf617047.png"
+    },
+    {
+      "id": 761,
+      "name": "The Human Utility",
+      "slug": "the-human-utility",
+      "website": "https://www.detroitwaterproject.org/",
+      "description": "Founded July 2014, The Human Utility (formerly known as the Detroit Water Project) matches families needing help with utility bills to people who want to help through payments directly to utility companies.\r\n\r\nFor over 40 million families in the United States, water and other essential utilities may be unaffordable. In order to afford utilities, families often forgo medication, food, and transportation. The Human Utility's platform divides a bill similar to a loan syndicate expanding the possible number of donors from around the world able to join together to ensure families never lose access to utility service. Donors are matched with a specific family or donate to a universal assistance fund.\r\n\r\nLater, we use utility data to design interventions addressing the root causes of why people need help with their utility bills with the goal of never having them lose service again.",
+      "one_liner": "The Human Utility seeks to eliminate water service disconnections for\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Unspecified",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Unspecified"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Oakland, CA, USA; Remote",
+      "tags": [
+        "Crowdfunding"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": true,
+      "is_top_company": false,
+      "launched_at": 1416219793.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddcada339c9ae420abc290b01a1f11ded7218d73.png"
+    },
+    {
+      "id": 760,
+      "name": "Democracy Earth",
+      "slug": "democracy-earth",
+      "website": "http://democracy.earth/",
+      "description": "Our mission is to build a sustainable democracy for the Information Age. We create censorship resistant, free and open source software that can deploy democracies anywhere there's an internet connection. We have implemented governance infrastructure for crypto networks; shadow referendums for activists in critical countries and the first Quadratic Voting implementation in the USA for the Colorado Legislative House.\r\n\r\nBacked by Templeton Foundation (2019), Y Combinator (2015) and Fast Forward (2016). Presented on TED Global (2014). Awarded by MIT Technology Review (2017) and Singularity University (2016). We did research for Alphabet, World Economic Forum and the University of Berkeley.",
+      "one_liner": "Censorship resistant democracies. ",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Unspecified",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Unspecified"
+      ],
+      "regions": [
+        "Spain",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Madrid, Community of Madrid, Spain; Remote",
+      "tags": [
+        "Crypto / Web3",
+        "Nonprofit"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": true,
+      "is_top_company": false,
+      "launched_at": 1416219702.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/31289c55d5f1228f43a9bcccfd0f7933fb63a58c.png"
+    },
+    {
+      "id": 756,
+      "name": "Atomwise",
+      "slug": "atomwise",
+      "website": "http://atomwise.com",
+      "description": "Atomwise is a preclinical tech-enabled biotech using machine learning for hit discovery, hit expansion, and lead optimization.  We were the first team to apply convolutional neural networks to drug discovery.  We focus on identifying and optimizing novel small molecule scaffolds and unlocking previously-undrugged protein targets.",
+      "one_liner": "Artificial intelligence for drug discovery.",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 67,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-powered Drug Discovery",
+        "Deep Learning",
+        "Biotech",
+        "Drug discovery",
+        "Oncology"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416219336.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc6810884fa3c539339f699bd31d9589c49898d2.png"
+    },
+    {
+      "id": 755,
+      "name": "Bright",
+      "slug": "bright",
+      "website": "https://www.thinkbright.mx",
+      "description": "Bright is Mexico\u2019s #1 residential solar provider (think Sunrun for the developing world, starting first in Mexico). We provide the financing and software that enable thousands of student ambassadors and retail promoters to offer cheaper electricity to homes at no upfront cost, and we work with our network of hundreds of local installers and distributors to satisfy the resulting demand. Our first market is Mexico, which has more sun, higher electricity rates, and lower labor costs than the US. Bright's investors include First Round Capital, Y Combinator, and other top Silicon Valley firms.",
+      "one_liner": "Sunrun for the developing world",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 100,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Mexico City, CDMX, Mexico; Remote",
+      "tags": [
+        "Fintech",
+        "Solar Power",
+        "Climate"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416219275.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f860d42183017f025fa2a44238b098217f8b456.png"
+    },
+    {
+      "id": 751,
+      "name": "Magic",
+      "slug": "magic",
+      "website": "https://getmagic.com/",
+      "description": "Magic is the most convenient way to access quality virtual assistants to scale your business.",
+      "one_liner": "Extremely talented assistants for busy people",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 350,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Washington, DC, USA; San Francisco, CA, USA; Remote",
+      "tags": [
+        "B2B",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416218819.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/776561775e16de7555470b2a89bb97649da650c3.png"
+    },
+    {
+      "id": 749,
+      "name": "Mezmo",
+      "slug": "mezmo",
+      "website": "https://www.mezmo.com/",
+      "description": "Mezmo, formerly LogDNA, is an observability platform to manage and take action on your data. It ingests, processes, and routes log data to fuel enterprise-level application development and delivery, security, and compliance use cases.\r\n\r\nMezmo was brought to life by three-time co-founders Chris Nguyen and Lee Liu and included in the Winter 2015 batch of Y Combinator. In 2018 the company partnered with tech giant, IBM, to become the sole logging provider for IBM Cloud.\r\n\r\nMezmo is on a mission to empower people who build solutions that shape the world. We\u2019re doing this by delivering a platform that enables enterprises to get more value from their observability data in real time, regardless of source, destination, use case, or scale. We\u2019re not the only ones working on this problem but we have a few things the others don\u2019t.\r\n\r\nWe\u2019re cloud-native and know how to make the most of modern technology like Kubernetes.\r\nWe have scaled a solution from zero to petabyte scale in a short amount of time, while supporting thousands of active users across multiple environments.\r\nWe are hungry for change and are surrounded by enterprises telling us they\u2019re hungry, too.\r\nWe have a kick-ass group of people who are thinking about the problem analytically and are excited to change the observability world for the better.\r\nMezmo has helped some of the world\u2019s most innovative companies transform how they manage their systems and applications. Still, we know that we can help them get more value from their observability data by providing more flexibility and control over how they use it. This will enable teams to spend less time switching between data silos so they can focus on shipping better, more resilient, and secure products.\r\n\r\nWe have momentum on our side. Last year we saw triple digit revenue growth and added 800 new customers to our roster. Recent accolades include being named to YC\u2019s Top Companies, CRN\u2019s 10 Hottest DevOps Startups, and EMA\u2019s Top 3 Observability Platforms.\r\n",
+      "one_liner": "Observability platform to control all of your log data",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 172,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Jose, CA, USA; Mountain View, CA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "DevSecOps",
+        "SaaS",
+        "Kubernetes",
+        "Data Engineering"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416218667.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3a71ea034c7bfc9aef393b47b27829a3413f0b3.png"
+    },
+    {
+      "id": 748,
+      "name": "Akido Labs",
+      "slug": "akido-labs",
+      "website": "http://akidolabs.com",
+      "description": "For the first time in history, technology exists to create a healthcare system that anticipates your needs and responds with precision, and is always accessible to all, regardless of financial means or geography.\r\n\r\nSince 2015, Akido Labs singular focus has been to make this vision a reality.",
+      "one_liner": "Unlocking data to tackle homelessness, chronic disease, and more",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 1000,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Healthcare",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416218485.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c312db8ea593be844305acc22a48eb2b87c24264.png"
+    },
+    {
+      "id": 740,
+      "name": "Qventus",
+      "slug": "qventus",
+      "website": "http://qventus.com",
+      "description": "Qventus\u2019 mission is to simplify how healthcare operates so it just works \u2014 for everyone. \r\n\r\nThe company offers an AI-based software platform that helps hospital teams make better operational decisions in real-time. Qventus addresses operational challenges across the hospital including emergency departments, perioperative areas, patient safety, in-patient, outpatient and pharmacy. \r\n\r\nLocated in Silicon Valley, Qventus is honored to be working with leading public, academic and community hospitals across the United States. \r\n\r\nFounded in 2012, Qventus was named among Fast Company\u2019s Most Innovative Companies for 2018. The company has also been recognized as a leader and innovator in operational excellence, with the 2016 Fierce Innovations Award in Healthcare and Healthcare Informatics 2017 Innovator Award. \r\n\r\nFor more information about Qventus, please visit www.qventus.com",
+      "one_liner": "We automate operations for hospitals and health systems",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 163,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Digital Health",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1415700034.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1defe75646f1d3885f2a5762f45c3977246f4ec8.png"
+    },
+    {
+      "id": 1434,
+      "name": "DemocracyOS",
+      "slug": "democracyos",
+      "website": "http://www.democracyos.org",
+      "description": "DemocracyOS is an online space for deliberation and voting on political proposals. It is a platform for a more open and participatory government.The software aims to stimulate better arguments and come to better rulings, as peers.",
+      "one_liner": "Online space for deliberation, policy making and democratic\u2026",
+      "batch": "W15",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "Argentina",
+        "Latin America"
+      ],
+      "locations": "Buenos Aires, CABA, Argentina",
+      "tags": [
+        "Civic Tech",
+        "GovTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": true,
+      "is_top_company": false,
+      "launched_at": 1465769416.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74f22bc34079364b8ce68dc36391a903a1d478b2.png"
+    },
+    {
+      "id": 855,
+      "name": "Lumi",
+      "slug": "lumi",
+      "website": "https://www.lumi.com",
+      "description": "Lumi.com provides packaging and shipping supplies to online brands, from small businesses to leading ecommerce companies shipping millions of orders per month.",
+      "one_liner": "Packaging for online brands.",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 67,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "E-Commerce",
+        "Supply Chain"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1420066772.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1688bb9b23736439a735b81f27fec6b88a2ebd.png"
+    },
+    {
+      "id": 853,
+      "name": "Spire Health",
+      "slug": "spire-health",
+      "website": "https://spirehealth.com/",
+      "description": "We are a B2B medical device and data company passionate about providing remote monitoring solutions for the proactive care of chronic disease patients.\r\nOur core expertise and IP is in continuous respiratory sensing. Spire Remote Patient Monitoring is used by pulmonologists and patients throughout the United States. To date our sensors have been worn by more than 150,000 people.",
+      "one_liner": "Remote patient monitoring for lung disease patients.",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 52,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Telehealth",
+        "Medical Devices",
+        "Digital Health"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419817218.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/03822a77bc23b29ebe750d7df159399111392ed8.png"
+    },
+    {
+      "id": 846,
+      "name": "Chariot",
+      "slug": "chariot",
+      "website": "http://chariot.com",
+      "description": "At Chariot, we're focused on creating the world's first self-sustainable mass-transit system that relieves congestion while offering a comfortable, personalized commuting experience.\r\n\r\nThe core of our mission is universal access to better transportation. We envision cities where every commuter takes Chariot to work and home \u2014 regardless of income or location \u2014 which is why we prioritize affordability and flexibility as we expand. When the world runs on smarter routes, lower costs, and better ride experiences, we'll collectively take cars off the road and transform our twice-daily frustration into a part of your day you actually look forward to.\r\n\r\nChariot + Ford Smart Mobility\r\n\r\nFord Smart Mobility (FSM) was formed by the Ford Motor Company in 2015 to acquire and invest in innovative mobility startups and technologies.\r\n\r\nChariot is proud to be FSM's first acquisition, making it a cornerstone of the company's mobility strategy. With all the resources and influence Ford provides, Chariot is accelerating accomplishing its Mission.",
+      "one_liner": "The world's first private mass transit service providing a commuting\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 501,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Transportation Services",
+      "industries": [
+        "Consumer",
+        "Transportation Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Transportation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816606.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bd3a05afc7a1aab41b19b06d5022dcd6fc20afb.png"
+    },
+    {
+      "id": 842,
+      "name": "Raven Tech",
+      "slug": "raven-tech",
+      "website": "http://raventech.com",
+      "description": "Raven Tech is a startup which focus on artificial intelligent, big data and the next generation operating system. Besides, Raven Tech is the fifth alumni of Microsoft Venture Accelerator and the only one startup team from mainland China in Y Combinator W15.",
+      "one_liner": "Our vision is to build the next generation of iOS or Android, to\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "China",
+        "East Asia"
+      ],
+      "locations": "Beijing, Beijing, China",
+      "tags": [],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416339377.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/478b0d63f1d899f9ce8c0bb8ba1bb2a8a7a42392.png"
+    },
+    {
+      "id": 837,
+      "name": "Vanhawks",
+      "slug": "vanhawks",
+      "website": "http://vanhawks.com",
+      "description": "Vanhawks is both a hardware and software company with a goal of changing up the urban commute. Technology impacts our lives in countless ways \u2013 you\u2019re connected, why shouldn\u2019t your bike be?\nOur product is the Valour, a connected, carbon fibre, commuter bicycle with built in GPS, blind-spot sensors, integrated front and back lights, and more. The Valour will radically change the way you ride.\nBuilt upon safety first in mind, a turn by turn navigation is incorporated in the handle bar to keep your eyes on the road. A LED indicator lets you know when you are approaching your next turn, and you're alerted of any object in your blind spot.\nTo further enhance your cycling experience, the application tracks your riding history including calories burned, distance traveled, and much more, to serve you better.\nThe data it acquires is used to provide you with suggestions on which route will get you to your destination safest and fastest or help you burn the most calories.",
+      "one_liner": "We are making the smart carbon fibre commuting bike and platform for\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Consumer Electronics",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "IoT",
+        "Transportation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416311677.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 836,
+      "name": "Valor Water Analytics",
+      "slug": "valor-water-analytics",
+      "website": "http://valorwater.com",
+      "description": "Today, water supplies are more scarce than ever before, requiring water utilities to operate more efficiently than anyone thought possible. That\u2019s where we come in.\r\n\r\nLike water, the flow of data from water utilities is both measurable and manageable. Valor helps utilities transform complicated data into simple solutions that can make a big difference. Some call it advanced water utility analytics. We call it all in a day\u2019s work.",
+      "one_liner": "Valor Water Analytics delivers a SaaS platform to utilities to detect\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Climate",
+      "industries": [
+        "Industrials",
+        "Climate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416311646.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/583613664c8a81edd29cf8564d1bd8e4b9d0b532.png"
+    },
+    {
+      "id": 830,
+      "name": "SigOpt",
+      "slug": "sigopt",
+      "website": "https://sigopt.com",
+      "description": "SigOpt is the optimization platform that amplifies your research. SigOpt takes any research pipeline and tunes it, right in place. Our cloud-based ensemble of optimization algorithms is proven and seamless to deploy, and is used by globally recognized leaders within the insurance, credit card, algorithmic trading and consumer packaged goods industries.",
+      "one_liner": "SigOpt is an Optimization-as-a-Service platform that seamlessly tunes\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 23,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "SaaS",
+        "AI"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416310491.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8587155629554384fccbdcf060b0568e458358d4.png"
+    },
+    {
+      "id": 829,
+      "name": "Seed",
+      "slug": "seed",
+      "website": "http://seed.co",
+      "description": "Seed is simply a better way to bank. As a mobile first banking service designed with the small business in mind, Seed empowers small businesses with modern, easy-to-use digital tools and customer-support resources for starting, running, and growing a business. With Seed, business banking has never been easier. Learn more at https://seed.co",
+      "one_liner": "Mobile banking for small business.",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416310217.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 825,
+      "name": "Pretty Instant",
+      "slug": "pretty-instant",
+      "website": "https://www.prettyinstant.com",
+      "description": "Pretty Instant was a Y Combinator-backed marketplace for professional photography and videography in the U.S., active from 2012 to 2020. Acquired by Snappr in 2021, the company served over 2,000 brands and non-profits, handling logistics, staffing, editing, and delivery. It became a go-to solution for companies seeking streamlined visual content creation.\r\n\r\nServices included photography and videography for Events, Portraits, Real Estate, Product, Food, and more. Photographers were thoroughly vetted 1099 contractors, ensuring quality and reliability. Pretty Instant aimed to simplify hiring processes for businesses needing professional visual content.",
+      "one_liner": "Professional Photographers. ",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Boston, MA, USA; Remote",
+      "tags": [
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416309579.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/daab09b4b1df76da1dab558a14974a19eaeaf1dc.png"
+    },
+    {
+      "id": 824,
+      "name": "Popular Pays",
+      "slug": "popular-pays",
+      "website": "http://popularpays.com",
+      "description": "Popular Pays is a platform connecting content Creators with Brands who want content to tell their stories. We\u2019re tech-forward, with an in-house built iOS and web app (for creators) and dashboard (for brands) that delivers direct communication & powerful statistics to help you run a multiplatform campaign. To find out what we\u2019re about, visit our website: www.popularpays.com.",
+      "one_liner": "Software for collaborating with content creators and influencers ",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 37,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Chicago, IL, USA",
+      "tags": [
+        "Advertising"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416309518.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/86ed9662f1f5dd97d9e9fcd4def24972e1fa3c3e.png"
+    },
+    {
+      "id": 820,
+      "name": "Outbound",
+      "slug": "outbound",
+      "website": "http://outbound.io",
+      "description": "Outbound organizes the messages you send around the actions your customers take. We allow non-technical marketers and product people to set up automated email, push notification, SMS or voice messages when you need your users to take an action, then test how well each message works.",
+      "one_liner": "Create automated messages -- email, iOS/Android push, SMS and web\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Messaging",
+        "Analytics",
+        "Notifications"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416308940.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 818,
+      "name": "Moltin",
+      "slug": "moltin",
+      "website": "https://moltin.com",
+      "description": "At Moltin, we believe that brand experiences should never be obscured by technology and that commerce development should be simple, lightweight and fun. \r\n\r\nMoltin is an API-first digital commerce solution that enables retailers to build distinctive shopping experiences and embed them into any consumer touchpoint. It combines an extremely flexible set of APIs, developer toolkits, pre-built applications and cloud infrastructure to make commerce development simple, lightweight and fast. Moltin APIs are the simplest, most powerful in the industry. Retailers can test new channels quickly, scale into new markets, and keep pace with ever-evolving consumer trends. With Moltin, commerce flows seamlessly across any channel, device and experience. \r\n\r\nMoltin has a rapidly growing community of more than 17,000 developers around the world, pushing the boundaries of traditional commerce.",
+      "one_liner": "eCommerce building blocks through simple APIs for websites & apps.\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 32,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Boston, MA, USA",
+      "tags": [
+        "Payments",
+        "E-commerce",
+        "API"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416308605.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f839e103f7e1028b0f7e89364155b4822a02357c.png"
+    },
+    {
+      "id": 814,
+      "name": "NexTravel",
+      "slug": "nextravel",
+      "website": "https://www.nextravel.com",
+      "description": "NexTravel is a platform for companies to manage and streamline travel. We help companies get access to corporate/group negotiated rates for hotels, cars - making booking travel easier and more cost-effective. Email us at travel@nextravel.com or go to https://www.nextravel.com/ to find out more.",
+      "one_liner": "NexTravel is a centralized travel booking platform that helps\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 17,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Travel",
+        "Booking"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416308028.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/183cd53deae661b3e0db77992dd32b60436e8c3c.png"
+    },
+    {
+      "id": 801,
+      "name": "WayUp",
+      "slug": "wayup",
+      "website": "http://wayup.com",
+      "description": "WayUp is the #1 way to hire the right students and recent grads. We are the leading digital solution for employers to reach, engage, and recruit students and recent grads for internships and jobs. \r\n\r\nFind out more information at: http://www.wayup.com",
+      "one_liner": "Marketplace for employers to recruit college students and recent grads",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 50,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Job and Career Services",
+      "industries": [
+        "Consumer",
+        "Job and Career Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Marketplace"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416305808.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa48ee0aa986966bd446e95157a6fd9a297d4dd2.png"
+    },
+    {
+      "id": 800,
+      "name": "Bonfire",
+      "slug": "bonfire",
+      "website": "http://GoBonfire.com",
+      "description": "Bonfire is the leading next-generation eSourcing / competitive bidding and RFx platform.  \r\n\r\nBonfire goes beyond the basic automation of eProcurement suites and older simple bidding tools, helping you to make better, faster decisions.  It\u2019s a collaborative, powerful, and insightful cloud-based platform for today\u2019s procurement needs.\r\n\r\nWe're focused on government procurement teams (which control ~18% of GDP) and enabling them to thrive in a world of crushing compliance requirements and very high workloads.\r\n\r\nBonfire streamlines the entire RFx and bidding process, helping to run projects >50% faster.  Bonfire empowers users with unparalleled evaluation features for deeper analysis, delivered through our distinctly intuitive and easy-to-use platform.\r\n\r\nBonfire is trusted with over a billion dollars of supplier selection decisions per month, and is one of the fastest growing new procurement technologies.\r\n",
+      "one_liner": "Bonfire is reimagining RFPs & bidding for gov procurement teams",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 95,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "ON, Canada",
+      "tags": [
+        "SaaS",
+        "GovTech",
+        "Procurement"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416305595.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 799,
+      "name": "Yhat",
+      "slug": "yhat",
+      "website": "https://www.yhat.com",
+      "description": " Yhat (YC W15, pronounced y-hat) was an end-to-end data science platform. Acquired by Alteryx (NYSE:AYX)",
+      "one_liner": "End-to-end data science lifecycle management platform. ",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 17,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "NY, USA; New York, NY, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Enterprise",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222882.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 798,
+      "name": "YesGraph",
+      "slug": "yesgraph",
+      "website": "http://yesgraph.com",
+      "description": "YesGraph helps your app grow by recommending exactly who a user should invite. We can help boost the performance of referral and invite flows in your app or web site.\r\n\r\nWe use machine learning and social graph analysis -- a lot like \"People You May Know\" on LinkedIn!",
+      "one_liner": "YesGraph recommends exactly who a user should invite to an app. Our\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Social",
+        "Referrals"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222851.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc6c9e2e62ba10ebe658902fcc0753dfef241bd1.png"
+    },
+    {
+      "id": 796,
+      "name": "Vest",
+      "slug": "vest",
+      "website": "http://www.vestfin.com",
+      "description": "Vest, on a mission to bring wider access to financial derivatives, manages investment products worth $40+ billion (as of 9/30/24). Backed by private equity, the firm has a strategic partnership with Cboe Global Markets, Inc. (NASDAQ: CBOE), and First Trust, a global asset manager. \r\n\r\nVest created Target Outcome Investments in 2013, which target a defined return profile, with an allowance for a specific level of risk, at a particular point in time. Today, Target Outcome Investments are available as mutual\u202ffunds, exchange-traded funds (ETFs), unit investment trusts (UITs), collective investment trusts (CITs), and customizable managed accounts / sub-advisory services. \r\n\r\nThe firm was launched and backed by preeminent venture firms such as Y-Combinator (Airbnb, Reddit, Dropbox), Payment Ventures (MicroVentures, CardFlight) and First Round Capital (Uber, Mint, Square).\r\n\r\nSee more at https://www.vestfin.com.",
+      "one_liner": "Bringing wider access to financial derivatives. ",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 43,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Asset Management",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "McLean, VA, USA; Remote",
+      "tags": [
+        "Fintech",
+        "Investing"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222636.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd4b6f473c25066fa0c35c5798c0454e3791144f.png"
+    },
+    {
+      "id": 793,
+      "name": "Remix",
+      "slug": "remix",
+      "website": "https://www.remix.com/",
+      "description": "Remix\u2019s mission is to help build more livable cities. Our software helps city planners understand their communities and design transportation systems that serve them. We\u2019ve partnered with over 325 cities across 20 countries on 4 continents \u2014 and were continually seeking to grow our impact around the world.\r\n\r\nUrban planning impacts everything from economic mobility to CO2 emissions, and our platform empowers local governments to transform their transportation systems, design safer streets, and implement new mobility options to better serve their communities.",
+      "one_liner": "We\u2019re building a platform to empower cities to plan the best possible\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 65,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Transportation",
+        "Mobility"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222331.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d61c2a371b31c9e15555407e966ec3992500d5d0.png"
+    },
+    {
+      "id": 792,
+      "name": "Mobydish",
+      "slug": "mobydish",
+      "website": "https://www.mobydish.com",
+      "description": "MobyDish, a tech-enabled service, allowing anyone to place a catering order online in less than 3min to feed people from 10 to 1,000 people. We select the best restaurants, hire and train our fleet of drivers who will deliver and setup and we're proud to have the best customer service in the space. We also offer on site catering host and premium service that can be requested in up to 48hours in advance. \r\nWe own our tech from online ordering, to manage and dispatch orders to drivers, and build customer relationship. \r\n\r\nWe're used by top companies in the biggest cities in the US and we help for our customers with any needs from breakfast, lunch, happy hour and dinner. We are known for our flexibility, reliability and provide recurring and last-minute catering orders. ",
+      "one_liner": "MobyDish, a tech-enabled service, allowing anyone to place a catering\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Austin, TX, USA; San Francisco, CA, USA; Remote",
+      "tags": [
+        "Food Service Robots & Machines",
+        "Food Tech"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222301.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1eda5fbe5161f15b09714a408c3288e4f948adf.png"
+    },
+    {
+      "id": 788,
+      "name": "Smarking",
+      "slug": "smarking",
+      "website": "http://smarking.com",
+      "description": "Smarking is a group of hyper-driven MIT PhDs, data scientists, engineers, transportation experts, and battle-tested business professionals working to solve the notorious parking problem via a unique enterprise approach. Smarking aims to enable highly efficient urban mobility by digitizing parking spaces and distributing parking inventory dynamically, in order to get the world ready for the connected, shared, and autonomous future. \r\n\r\nBacked by top VCs like Y Combinator and Khosla Ventures, Smarking has brought its solution to over 2,500 parking locations across North America. For the first time, cities, parking asset owners, and parking operators can make data-driven decisions easily. Smarking also launched the industry\u2019s first fully automatic dynamic pricing engine, producing 40%-400% revenue uplifts for online sales at at parking locations Chicago, NYC, Boston, and many other cities. ",
+      "one_liner": "Digitize $655B parking industry",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 17,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221965.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ebad8fcce5239d928f1d4d5d9a93312dd9a5c4f9.png"
+    },
+    {
+      "id": 785,
+      "name": "Shift Labs",
+      "slug": "shift-labs",
+      "website": "http://shiftlabs.com",
+      "description": "Shift Labs makes medical devices that place technology and design on equal footing to create affordable solutions. We emphasize simplicity and create devices that serve the fastest growing healthcare markets in the world.\r\n\r\nWe believe that every person in the world deserves quality healthcare -- whether they are receiving care in the home, in an outpatient infusion center, or in an emerging market. \r\n\r\nWe're a for-profit company committed to doing well, and doing good.\r\n\r\nWe believe Simple Saves Lives.\r\n___\r\n\r\nIn true startup fashion, we have a strategy that emphasizes early revenue. So check out our first product DripAssist, a low-cost IV fluid monitor and alarm. Get precision monitoring of blood transfusions or fluid delivery at a fraction of the cost of an infusion pump. Purchase at http://www.shiftlabs.com/purchase-dripassist",
+      "one_liner": "Makers of simple, affordable medical devices. Our award-winning\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 6,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Medical Devices",
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "Hardware",
+        "Medical Devices"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221710.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2246133183bed9d3422eac6444861816329babc9.png"
+    },
+    {
+      "id": 780,
+      "name": "Paperspace",
+      "slug": "paperspace",
+      "website": "https://www.paperspace.com",
+      "description": "Paperspace is a cloud computing company creating simple and scalable accelerated computing applications. Our goal is to allow individuals and professional teams to seamlessly build and deploy computationally complex products and services.\r\n\r\nPaperspace is backed by leading investors including Y Combinator and Initialized Capital.\r\n\r\nMission:\r\nOur mission is to make cloud computing more accessible through radical simplicity, community-driven technical resources, and straightforward pricing.\r\n\r\n--\r\nTo learn more about Paperspace, please visit https://www.paperspace.com/ or follow us on Twitter at: @hellopaperspace.",
+      "one_liner": "Paperspace is a cloud platform for building and scaling AI\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 50,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "NY, USA",
+      "tags": [
+        "Machine Learning",
+        "AI"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221193.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/71d8fe724bf62445db1e2f76ff63e411c7f74f2c.png"
+    },
+    {
+      "id": 778,
+      "name": "Pachyderm",
+      "slug": "pachyderm",
+      "website": "http://pachyderm.com",
+      "description": "Pachyderm is a tool for production data pipelines. If you need to chain together data scraping, ingestion, cleaning, munging, wrangling, processing, modeling, and analysis in a sane way, then Pachyderm is for you. If you have an existing set of scripts which do this in an ad-hoc fashion and you're looking for a way to \"productionize\" them, Pachyderm can make this easy for you.",
+      "one_liner": "Data Versioning, Data Pipelines, and Data Lineage",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 60,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221071.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/23351b36c00bacc651a4389386057c50f0690542.png"
+    },
+    {
+      "id": 777,
+      "name": "Open Listings",
+      "slug": "open-listings",
+      "website": "https://www.openlistings.com",
+      "description": "Open Listings was the all-in-one homebuying app designed to make buying a home simple and more affordable. We helped buyers purchase billions of dollars worth of homes and saved them over $25 million in commission fees.\r\n\r\nAcquired by Opendoor in 2018.",
+      "one_liner": "A better way to buy a home",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 48,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Marketplace",
+        "Real Estate"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220980.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cb771450cbbd7b08b3bb5a55835dc2448963273.png"
+    },
+    {
+      "id": 769,
+      "name": "HigherMe",
+      "slug": "higherme",
+      "website": "http://higherme.com",
+      "description": "HigherMe is all-in-one hiring software for restaurant and retail businesses to easily recruit, screen, interview, and onboard employees. Quickly review applications, schedule interviews, manage job board postings, and fill out employee paperwork from anywhere on any device. \r\n\r\nCreated by a former multi-unit franchisee, HigherMe reduces the time and cost of hiring using a mobile-first applicant tracking system, Text-To-Apply technology, one-click interview scheduling, video cover letters, and more. With over three million applications submitted using our cloud-based software, say goodbye to the stack of paper r\u00e9sum\u00e9s and easily fill open jobs anywhere, anytime.",
+      "one_liner": "Helping restaurant employers find & hire better employees faster",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 45,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Toronto, ON, Canada; Remote",
+      "tags": [
+        "SaaS",
+        "HR Tech",
+        "Restaurant Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220401.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/94e9b636b74d579c5321c7c9dcd9349d3ca2685b.png"
+    },
+    {
+      "id": 768,
+      "name": "WorkLife",
+      "slug": "worklife",
+      "website": "http://worklife.com",
+      "description": "WorkLife is a web app that helps teams have more productive meetings. There are over 3 Billion meetings/year in the U.S. and studies show 50% of that time is completely wasted. WorkLife helps you reclaim that time by helping you and your team adopt good meeting habits - create agendas, stay on track during the meeting, and ensure next steps get done afterwards.\n\nMost people spend the majority of their waking hours at work, and way too many of those hours in unproductive meetings. Your work life is a big portion of your life -- and the happier and more productive you are at work, the more fulfilled and energized you are in your life. Better Work = Better Life.",
+      "one_liner": "WorkLife is a SaaS application that helps teams have more effective\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Productivity",
+        "Collaboration",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220310.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 759,
+      "name": "CyberFend",
+      "slug": "cyberfend",
+      "website": "http://cyberfend.com",
+      "description": "Cyberfend offers a robust security solution to protect your web and mobile applications from sophisticated attacks and fraudulent activity. Cyberfend's solution detects account take-over, payment fraud and the use of stolen credentials. All of these problems are relevant to every consumer facing web and mobile product/service. \n\nCyberfend\u2019s solution uses a new security paradigm \u2013 human cognitive science coupled with advanced machine learning. The result is a robust detection system with near zero false positives and false negatives. Today Cyberfend protects nearly a billion login and payment transactions every month for many large e-commerce, web and payment customers. \n\nCyberfend's product is at the intersection of almost every single cutting edge technology today : a) Our core product employs heavy machine learning b) On the backed, our product is cloud based and deals with enormous scale (customers are directing significant portions of their traffic to us) c) On the front end we need to deal with both web and mobile (IOS, SDK) challenges.Please visit us at: www.cyberfend.com.\n\nCyberfend is backed by Y Combinator, SV Angel and A Capital. \n\nCyberfend was acquired by Akamai Technologies in December 2016.",
+      "one_liner": "Cyberfend delivers robust, real-time web and mobile security by\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Santa Clara, CA, USA",
+      "tags": [
+        "Cybersecurity",
+        "Fraud Prevention"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416219580.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 753,
+      "name": "Bluesmart",
+      "slug": "bluesmart",
+      "website": "http://bluesmart.com",
+      "description": "Bluesmart is a global travel company that became famous for creating the world's first smart connected luggage. Its first product, the Bluesmart Carry-on, launched in October 2014 through Indiegogo and raised more than $2M in pre-orders from more than 10,000 backers in 120 countries worldwide. It was named \"Top Innovative Product and Service\"\u200b by Forbes Magazine, awarded \"Best Travel Gear\"\u200b by Fast Company and \u201cBest of the Best\"\u200b Red Dot Design Award. The company is backed by Y Combinator and other top Silicon Valley venture investors. Bluesmart is headquartered in New York with offices in Hong Kong, China and Argentina.",
+      "one_liner": "Bluesmart makes smart luggage powered by an app to empower people to\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 51,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Consumer Electronics",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "IoT",
+        "Travel"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416219032.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 752,
+      "name": "Bizzy",
+      "slug": "bizzy",
+      "website": "http://bizzy.io",
+      "description": "Bizzy is an automated marketing platform designed to boost sales for ecommerce shops. Bizzy is the first tool to centralize a business\u2019 entire marketing portfolio around a single, dynamic set of customer data. As this centralized data updates based on customer behavior and marketing interactions, Bizzy adapts and executes a business'\u200b campaigns.",
+      "one_liner": "Bizzy is omni-channel marketing for ecommerce businesses.",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "E-Commerce",
+        "Marketing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416218971.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 750,
+      "name": "Smyte",
+      "slug": "smyte",
+      "website": "http://smyte.com",
+      "description": "Smyte stops spam, scams, harassment and credit card fraud for marketplaces and social networks.  We automatically classify your website and mobile app's event data and stop bad actors at scale.",
+      "one_liner": "Smyte stops bad actors on social networks and marketplaces.",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Security",
+        "Fraud Detection"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416218728.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 746,
+      "name": "Tech in Asia",
+      "slug": "tech-in-asia",
+      "website": "http://techinasia.com",
+      "description": "Tech in Asia (YC W15) is the largest English-language technology media company that focuses on Asia. From the latest news to the hottest trends and the boldest startups to the strongest titans, we cover everything tech in the region. Our goal is to build and serve Asia\u2019s tech and startup community.",
+      "one_liner": "Tech in Asia (YC W15) is the largest English-language technology\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 70,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "Singapore",
+        "Southeast Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Singapore, Singapore",
+      "tags": [
+        "Media"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1415700494.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/054014714327c1ca4a89093ff488ef0e91f04649.png"
+    },
+    {
+      "id": 744,
+      "name": "Pomello",
+      "slug": "pomello",
+      "website": "http://pomello.com",
+      "description": "Pomello maps your organizational culture on a team-by-team basis, and integrates with your existing recruiting process to allow you to find the candidates most likely to thrive within your organization. \r\n\r\nFounded at Stanford University, Pomello\u2019s technology is based on 30 years of research in Organizational Behavior, which has been validated over time across multiple industries.",
+      "one_liner": "Analytics software that helps companies measure organizational\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1415700310.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 743,
+      "name": "Final",
+      "slug": "final",
+      "website": "http://getfinal.com",
+      "description": "At Final, we are re-building the credit card from the ground up. \r\n\r\nFinal is issuing a credit card that gives consumers total control over their merchant relationships, transparency in their spending, and piece of mind across all payment experiences. Rather than a single, 16-digit card number, Final generates multiple card numbers and manages them automatically.\r\n\r\nIt works everywhere you buy; online, and offline, and integrates with digital wallets like Google Wallet and ApplePay with zero updates to the payment infrastructure. Bottom line - with Final, you\u2019ll never lose access to your spending ability from a breach, fraud, cancelled or stolen card ever again.",
+      "one_liner": "A credit card that drastically reduces payment fraud and gives\u2026",
+      "batch": "W15",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Oakland, CA, USA",
+      "tags": [
+        "Payments",
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1415700217.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9f9365e5ac7dcefbab5bfab9129637279050427.png"
+    },
+    {
+      "id": 854,
+      "name": "ThinAir",
+      "slug": "thinair",
+      "website": "http://thinair.com",
+      "description": "At ThinAir They are building the future of data security--and it's wrought with exciting engineering challenges!\r\n\r\nAs a cloud-based SaaS product, ThinAir is the first data security solution that allows everyone\u2014administrators and employees alike\u2014to take control over their most sensitive data in a way that enhances, not hinders their productivity.\r\n\r\nThey were the 2014 DEMO Enterprise's DEMOGod Winner and they completed Y Combinator as part of W15.",
+      "one_liner": "Intelligent data security for teams",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Cybersecurity",
+        "Enterprise"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419817287.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 852,
+      "name": "Nomiku",
+      "slug": "nomiku",
+      "website": "http://nomiku.com",
+      "description": "Founded in 2012, Nomiku invented the home sous vide immersion circulator and are make it connected. \r\n\r\nProudly manufactured in the United States, Nomiku\u2019s quality is renowned in the culinary world and put to the test in thousands of homes and the best restaurants in the world every night.\r\n\r\nChefs on Main Street, Michelin-starred restaurants, and most everywhere in between have been dazzling diners with their sous vide creations for years. Nomiku led the way for people to use it at home in 2012 with the invention of the home sous vide immersion circulator funded by two successful Kickstarter projects totaling over $1.3M raised. They turned this modernist gadget into a useful everyday kitchen tool by dramatically reducing the price of the machine and redesigning it from the bottom up for at-home functionality. Five years later, the sous vide machine is turning into a mainstream darling and the advent of the Nomiku Sous Chef Meal delivery program (launching on May 15, 2017) breaks the last barriers to make sous vide accessible to everybody.\r\n \r\nThe Nomiku Sous Chef launch comes at the heels of Samsung Ventures participating in an investment round in the startup. Nomiku is a partner of the Samsung Family Hub 2.0 program and allows for app integration into their smart kitchen offering.",
+      "one_liner": "Wave our food in front of your Nomiku and have dinner for everyone\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Food Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816984.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 850,
+      "name": "Automate Ads",
+      "slug": "automate-ads",
+      "website": "http://kuhcoon.com",
+      "description": "On a mission to automate, optimize, and unify your digital advertising campaigns with incredible software.",
+      "one_liner": "On a mission to programmatically automate, optimize, and unify your\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Mateo, CA, USA",
+      "tags": [
+        "Analytics",
+        "Advertising"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816904.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 845,
+      "name": "Lully",
+      "slug": "lully",
+      "website": "https://www.lullysleep.com/",
+      "description": "At Lully, we\u2019re building the children\u2019s sleep company. We create innovative, thoughtfully-designed, clinically-proven consumer products to help children, and their families, sleep better. \r\n\r\nOur first product, The Sleep Guardian is the only solution for night terrors. Based on our patented, clinically-proven technology, the Sleep Guardian goes under the mattress and uses precisely-timed vibrations to avoid night terror episodes completely. \r\n\r\nThe Sleep Guardian is just the initial product in a suite of smart solutions based on our process: combining a user-centric approach with a clinical understanding of sleep to solve unmet problems in children\u2019s sleep. \r\n\r\nBased in San Francisco, Lully was founded by Dr. Andy Rink, a doctor and father, and Varun Boriah, a medical device entrepreneur. \r\n\r\nLully was spun out of the Stanford Biodesign Fellowship and is backed by Y Combinator, Two Sigma Ventures, Stanford-StartX Fund and Highway1. We\u2019ve partnered with Stanford Sleep and Riley Children\u2019s Hospital in our goal to help families sleep better.",
+      "one_liner": "Lully is developing an under-the-mattress technology that precisely\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Sleep Tech",
+        "Health Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1419816598.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dccd9733589a8183a0d3d6488678781eec47b9d.png"
+    },
+    {
+      "id": 843,
+      "name": "Bagaveev Corporation",
+      "slug": "bagaveev-corporation",
+      "website": "http://bagaveev.com",
+      "description": "Bagaveev Corporation is a startup backed by Adam Draper's Boost accelerator (boost.vc)\r\n\r\nand advised by Tim Draper (dfj.com) is designing, building and testing\r\n\r\n3D printed aerospike rocket engines that will power both lower and upper stages\r\n\r\nof a 3-ton, 35 foot rocket, designed to deliver 10-12 kg nanosatellites\r\n\r\nto low Earth orbit and Sun-synchronous orbit.",
+      "one_liner": "Launch small satellites",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Mateo, CA, USA",
+      "tags": [
+        "Space Exploration",
+        "Satellites"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416391721.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/14f8db89f9d048abddf9030226e5fdf23183c1c4.png"
+    },
+    {
+      "id": 839,
+      "name": "Wink Health",
+      "slug": "wink-health",
+      "website": "http://winkhealth.com",
+      "description": "Wink Health is a simple and effective way to get treatment for sleep apnea online. About 90% of people with sleep apnea go untreated. Our goal is to remove the barriers to getting diagnosed and receiving treatment.\n\nWe do this through a combination of a smartphone app that 'listens' for sleep apnea risk, telehealth consultations with doctors, and treatments shipped to people's homes.",
+      "one_liner": "The digital sleep clinic",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Sleep Tech",
+        "Health Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416312102.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 838,
+      "name": "VetPronto",
+      "slug": "vetpronto",
+      "website": "http://vetpronto.com",
+      "description": "Currently servicing the San Francisco Bay Area, Los Angeles, New York, Chicago, Washington DC, Baltimore, Atlanta, New Orleans and Tampa Bay.\n\nVetPronto is a new type of Veterinary Service dedicated to providing the most quality, convenient and transparent veterinary care possible. We're empowering vets across the country to better serve their patients. \n\nWe treat pets at the home or workplace, saving them stress, and you time. We're using tech to provide a new standard of medical record management, client communication, and operational efficiency, including telemedicine and pharmacy integration.",
+      "one_liner": "On demand veterinary house calls. ",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 51,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416311920.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 832,
+      "name": "Standard Cyborg",
+      "slug": "standard-cyborg",
+      "website": "http://standardcyborg.com",
+      "description": "We are multiplying the potential of the real world by making computer vision accessible to all.\r\n\r\nWe create the cloud and edge tools that developers and non-developers require in order to build, deploy, and improve CV solutions quickly.\r\n\r\nstandardcyborg.com (YC W15)",
+      "one_liner": "Buid, test and deploy perception applications",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 9,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Medical Devices",
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Computer Vision",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416310916.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea641cf296beace7a7288415d4808dc519f3a987.png"
+    },
+    {
+      "id": 831,
+      "name": "Spoil",
+      "slug": "spoil",
+      "website": "https://www.spoil.co/",
+      "description": "Spoil fundamentally changes the way people interact with each other. Spoil brings people closer to on another through genuine gestures that are fueled by technology. \n\nWith a tool that empowers its users to engage in positive human interaction, Spoil inspire them to give, and enhances how they receive. Using technology, Spoil predicts what makes someone happy and leverages on-demand logistics to make it happen. \n\nWith Spoil you can make anyone happy as easily as calling an Uber.\n\nSpoil is all about the experience we provides to both the sender and the recipient. Focusing on how we want the recipient to feel, each step of the process leverages the right emotions and builds a story around the Spoil being received. This makes sending a Spoil a thoughtful gesture as opposed to just an exchange of items.\n\nSpoil help individuals and corporations acknowledge people around them through genuine gestures. It is the only medium accessible to everyone that builds simple, contagious and ubiquitous happiness. \n\nBecause, we believe that everyone should be Spoiled.",
+      "one_liner": "Spoil is gifting for the Snapchat generation.",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Berkeley, CA, USA",
+      "tags": [
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416310795.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 828,
+      "name": "Rescue Forensics",
+      "slug": "rescue-forensics",
+      "website": "http://rescueforensics.com",
+      "description": "Rescue Ops is a digital forensic that archives massive quantities of data from classified advertisement websites specializing in commercial sex ads for law enforcement agencies to use in anti-trafficking investigations.",
+      "one_liner": "Actionable human trafficking intelligence",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Nashville, TN, USA",
+      "tags": [
+        "Analytics",
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416310126.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 823,
+      "name": "Pigeonly",
+      "slug": "pigeonly",
+      "website": "http://pigeonly.com",
+      "description": "Pigeonly is a subscription-based platform that makes it easy for people to search, find, and communicate with an incarcerated loved from anywhere in the world.  Our technology cuts the cost of expensive prison calls by 80% and allows our customers to send their inmate printed photos, greeting cards, and more right from any cell phone, tablet, or computer. \r\n\r\nAt the core of the Pigeonly business is our proprietary inmate API, Haystac, that searches and organizes millions of Federal, State, and County records in real-time to determine the location of 2MM+ inmates across all prison facilities. This makes it possible for our users to easily search, find, and connect with their incarcerated loved one using one or all of our 6 consumer-facing products.\r\n\r\nPigoenly's target market usually has to settle for poor product design and is often the victim of predatory business practices. At Pigeonly, we focus on providing quality products at affordable prices; pair that with five-star customer service to achieve a superb customer experience never seen in the market. We understand just how important this is to our customer because we are our customer.",
+      "one_liner": "The affordable way to search, find & communicate with an incarcerated\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 40,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Las Vegas, NV, USA",
+      "tags": [
+        "GovTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416309335.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d6146b59ed02efa52a8b7b68f1045640961f621.png"
+    },
+    {
+      "id": 822,
+      "name": "Dabble",
+      "slug": "dabble",
+      "website": "https://dabble.so",
+      "description": "Dabble is a virtual photo studio for e-commerce powered by hyper-realistic CGI and computer vision. The demand for content in retail is skyrocketing due to the pandemic induced surge in online shopping, but product photography is still extremely slow, tedious and expensive. We\u2019re building a platform to scale and automate product photography for every e-commerce brand.",
+      "one_liner": "A synthetic photo studio for e-commerce",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Toronto, ON, Canada; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Augmented Reality",
+        "Computer Vision"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416309244.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ded86f0a0f49180c787803bef08563dd167f5851.png"
+    },
+    {
+      "id": 821,
+      "name": "Cinder",
+      "slug": "cinder",
+      "website": "https://cindercooks.com",
+      "description": "Cinder designs and manufactures premium smart cooking appliances that empower people who love great food to evolve the way they cook and eat at home.",
+      "one_liner": "The World\u2019s First Countertop Precision Grill \u2013  using two ceramic\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Consumer Electronics",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Hardware"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416309122.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 819,
+      "name": "Nextop",
+      "slug": "nextop",
+      "website": "http://nextop.io",
+      "description": "Nextop IO is a mobile content delivery network (CDN) that optimizes the path between mobile applications and back ends. It offers a client-side networking library that integrates with iOS and Android operating systems; network of proxies that speaks a custom protocol to optimize delivery times, throughput, and data and battery usage; and metrics to visually monitor and debug connection quality in its users\u2019 applications.\n\nNextop IO was launched in 2014.",
+      "one_liner": "Nextop optimizes the path between your app and backend. Client\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Developer Tools",
+        "DevOps"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416308666.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 812,
+      "name": "Glassjar",
+      "slug": "glassjar",
+      "website": "http://glassjar.co",
+      "description": "Glassjar designs and develops software that enables its users to manage their flat's shared expenses. It offers Flatting, a software product that enables its users to keep track of their flat's expenses, including flat account, flat-mates, and payments. The company offers a dashboard that provides an overview of their flat accounts, such as how much is available to spend, each person\u2019s ledger, and summaries of their previous spending.\n\nGlassjar was founded by Matthew Galloway and George Smith in 2013; and is headquartered in Wellington, New Zealand.",
+      "one_liner": "Clean app for check writing",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [
+        "Fintech",
+        "Payments"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416307421.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 804,
+      "name": "Dealyze",
+      "slug": "dealyze",
+      "website": "http://dealyze.com",
+      "description": "Dealyze is an in-store digital custom rewards and referral program with automated marketing tools for small businesses that is proven to bring back customers. Tailored to your specific needs, Dealyze ensures every transaction is a chance to build a relationship. Our mission is to bring a powerful digital marketing platform to any store. We hope to even the playing field by doing our part in building the next generation of business tools. Dealyze has the backing of top-tier investors including Y-Combinator. The company is headquartered in Silicon Valley.\r\n\r\nVisit www.Dealyze.com to learn more about the company, schedule a demo, or just inquire about joining us.",
+      "one_liner": "Dealyze helps national retailers build exceptional customer and\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Retail Tech",
+        "Retail"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416306327.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1374fe13d174c148fb1387b6b1974226f5411900.png"
+    },
+    {
+      "id": 795,
+      "name": "Underground Cellar",
+      "slug": "underground-cellar",
+      "website": "http://undergroundcellar.com",
+      "description": "Underground Cellar is a leading wine e-commerce company that is changing the way wine is bought and sold in the $70B consumer US wine market through \u2018gamification\u2019. We provide a unique and exciting experience that gives wine buyers a great value by using upgrades instead of discounts. Wine sellers love Underground Cellar too as it allows them to quickly sell bottles while protecting their brand.",
+      "one_liner": "Upgrading Your Wine Experience",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 26,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketplace",
+        "E-commerce",
+        "Food & Beverage"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1695699040.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2374ef712842b9bd394bdffe7701804a97fdaf2.png"
+    },
+    {
+      "id": 794,
+      "name": "Rare Door",
+      "slug": "rare-door",
+      "website": "http://raredoor.com",
+      "description": "Rare Door is an ecommerce platform that helps user discover and buy great products available in nearby stores.",
+      "one_liner": "Empowering brick-and-mortar retailers to sell more and engage shoppers",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "E-Commerce",
+        "Retail"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416222453.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 784,
+      "name": "Shift Messenger",
+      "slug": "shift-messenger",
+      "website": "http://shiftmessenger.com",
+      "description": "Messaging solution that retail employees use every day\n\nReduce employee turnover and save managers time",
+      "one_liner": "Real-time communication solution for retail and restaurant employees.",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Restaurant Tech",
+        "Retail"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221649.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 783,
+      "name": "ReSchedule Med",
+      "slug": "reschedule-med",
+      "website": "http://reschedulemed.com",
+      "description": "Rescheduling for residency programs. Rescheduling is one of the largest logistics pain points in hospitals and residency programs. Reschedule provides an end-to-end work flow to manage graduate medical education scheduling.",
+      "one_liner": "We help medical residency programs create and manage their schedules,\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Scheduling",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221497.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 779,
+      "name": "Pakible",
+      "slug": "pakible",
+      "website": "https://pakible.com",
+      "description": "2000+ customers use Pakible including Samsung, Reddit, Soylent, and the Golden State Warriors.\r\n\r\nWe make it insanely easy to design, price, and manufacture custom product packaging.\r\n\r\nLeveraging in house software to automate operations, an incredibly user-friendly customer-facing interface, plus amazing people + vendors. Pakible is an unbeatable experience and price compared to brokers or direct manufacturers.\r\n\r\nPackaging is the most slept-on market in the world, a $500B market just domestically representing over 2% of US GDP.\r\n\r\nWe're a startup of < 10 people. Come build something special with us, and have a huge role in doing so.",
+      "one_liner": "We make it insanely easy to design, price, and manufacture custom\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Manufacturing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416221132.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcb8f74b73307ed4303eceb91f55cc00e877aa35.png"
+    },
+    {
+      "id": 775,
+      "name": "Omniref",
+      "slug": "omniref",
+      "website": "http://omniref.com",
+      "description": "Omniref is a code-based reference, maintained by and for the programming community. Find questions, comments, links and documentation on the code that you're already using.",
+      "one_liner": "Sticky notes for code.\r\n\r\n(We're building a community-powered,\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220859.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 772,
+      "name": "Kickpay",
+      "slug": "kickpay",
+      "website": "https://kickpay.com",
+      "description": "Kickpay is transforming how companies finance their inventory.\r\n\r\nBy leveraging a client's data, we enable them to access financing that was previously unavailable, allowing them to grow faster.\r\n\r\nWith Kickpay, you only pay for inventory after it sells. Not months beforehand. ",
+      "one_liner": "A platform to finance inventory for e-commerce companies.",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220615.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc40f4ad7f1a4c8daf225ecefb4a4b061480c6e.png"
+    },
+    {
+      "id": 770,
+      "name": "Instavest",
+      "slug": "instavest",
+      "website": "http://goinstavest.com",
+      "description": "Investors can list their trades on Instavest, including the company, share amount and rationale behind the investment. Other users can invest alongside the people willing to share their own purchases and sales. Instavest encourages you to block out a portion of your profits \u2014 in the neighborhood of 5 percent \u2014 that might arise from the transaction for the original listing entity.",
+      "one_liner": "",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Asset Management",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220493.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 766,
+      "name": "GroupAhead",
+      "slug": "groupahead",
+      "website": "",
+      "description": "GroupAhead is a YC-backed company that allows groups to create their own dedicated smartphone apps. The easy-to-use, single-purpose app focuses solely on connecting an organization's members. With a dedicated,  specialized app, member involvement and event attendance goes up, and push notifications cut through the noise of email and Facebook.",
+      "one_liner": "Improve communications with your group's own mobile app.",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Messaging",
+        "Team Collaboration"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220188.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc62c7f765811725a1be28fa2f60f0afdf21ab3c.png"
+    },
+    {
+      "id": 765,
+      "name": "SparkGift",
+      "slug": "sparkgift",
+      "website": "http://sparkgift.com",
+      "description": "SparkGift is a Y Combinator backed technology startup that makes it easy to give investments as gifts.  \r\n\r\nThe founders came together with a common vision that it should be as easy to give someone an investment in the future, as it is to give someone a retail gift card.  SparkGift supports small dollar gifts and fractional shares, so you can give someone a $20 investment in Apple or a Vanguard index fund.\r\n\r\nSparkGift is creating products that make investing simple, enjoyable and accessible to the masses.  Our mission is to use gifts to create new savers & investors at scale.",
+      "one_liner": "SparkGift makes it easy to send stocks and index funds as gifts to\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Investing",
+        "Stocks"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416220097.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 758,
+      "name": "Cribspot",
+      "slug": "cribspot",
+      "website": "http://cribspot.com",
+      "description": "Cribspot is an online platform for college students and property managers that streamlines finding and leasing off-campus housing.",
+      "one_liner": "Tech-Enabled Real Estate Company (YC W15)",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Ann Arbor, MI, USA",
+      "tags": [
+        "Real Estate",
+        "Proptech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416219489.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 754,
+      "name": "Booktrope",
+      "slug": "booktrope",
+      "website": "http://booktrope.com",
+      "description": "** NO LONGER IN BUSINESS **\r\n\r\nBooktrope is reinventing the way books are published. We are not a self-publishing operation. What does that mean? At Booktrope we do not charge authors to publish nor do we accept all submissions.\r\n\r\nWe have pioneered a concept called \u201cTeam Publishing\u201d which addresses the way books are actually developed, not just the way they are distributed and read. We offer print, ebook, and web versions of all our books, in other words, we are format agnostic. We don\u2019t want to debate the death of print books, or the birth of ebooks, we love and support them all. \r\n\r\nA typical Publishing Team consists of an author, editor, designer and business/marketing manager for the book. You don\u2019t get assigned projects in our system; you choose the people you work with.  We work much more quickly than traditional publishers, taking advantage of new technologies to streamline the process of getting books into the hands of readers. Lastly, we use that same technology to keep overhead low, and we think that the bulk of the revenue from book sales should go back to the creative team that makes them happen.",
+      "one_liner": "Booktrope provides a software platform that makes it easy for\u2026",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 51,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Seattle, WA, USA; Remote",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416219184.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/62543fd96b43537ecbd9be593590310621e8dbfd.png"
+    },
+    {
+      "id": 747,
+      "name": "20n",
+      "slug": "20n",
+      "website": "http://20n.com",
+      "description": "The next decade is going to see a biotech revolution fueled by three technologies: ability to read DNA (sequencing), ability to write DNA (synthesis), and computational systems that predict what DNA to read and write. With sequencing and synthesis being mainstream now [1], 20n provides the computational systems that predict DNA design for novel industrial biotech and health applications.\n\nAt 20n, we are taking a fresh look at turning biological data into information. We approach it as a big data learning problem, and bring to bear techniques from machine learning, distributed systems, AI planning, program synthesis, data mining, and natural language processing. With the support of DARPA [2], we are building a team of computer scientists, and bioengineers to look at biology in fundamentally new ways.\n\nOur current customers include industrial biotech firms that are leading the charge in transitioning us from traditional unsustainable means of manufacturing to sustainable biological processes leading to advanced fuels, materials, therapeutics, and flavors and fragrances. 20n\u2019s technology helps them enter markets previously thought inaccessible for biology.\n\n[1] Sequencing DNA costs $4k/genome (http://www.genome.gov/sequencingcosts/) and is expected to go down to $1k/genome. Synthesizing DNA is at 20cents/bp, and is expected to go down to 0.1cents/bp.\n[2] DARPA in the past supported work that led to the internet, stealth planes, GPS, and even Douglas Engelbart\u2019s mother-of-all-demos.",
+      "one_liner": "Using AI to predict biochemistry for manufacturing and therapeutics",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416218423.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 742,
+      "name": "3dot",
+      "slug": "3dot",
+      "website": "http://3dot.com",
+      "description": "3dot is a think-tank company based in Ljubljana, Slovenia. Our core business is developing ideas, products and services based on newest technologies for our partner companies and their customers.\n\nThe companies we work with rely on us to provide them with the craziest new ideas, technological breakthrough services and amazing new products. Our usual daily job is brainstorming on new and polishing existing ideas that will soon enter the market.",
+      "one_liner": "",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "Slovenia",
+        "Europe"
+      ],
+      "locations": "Ljubljana, Ljubljana, Slovenia",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1415700156.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1166,
+      "name": "Direct Match",
+      "slug": "direct-match",
+      "website": "http://directmatchx.com",
+      "description": "Direct Match was a venture-backed startup building the first all-to-all US Treasury trading venue.",
+      "one_liner": "",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1455650193.0,
+      "logo_url": "/company/thumb/missing.png"
+    }
+  ],
+  "fetched_at": "2025-02-26T11:11:13.866909"
+}
