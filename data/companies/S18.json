@@ -1,0 +1,4414 @@
+{
+  "data": [
+    {
+      "id": 1993,
+      "name": "Momentus",
+      "slug": "momentus",
+      "website": "https://momentus.space",
+      "description": "Momentus is a space infrastructure services company. As a first mover, Momentus will offer the most basic, foundational services that enable businesses to flourish in space. With their experienced team of aerospace, propulsion, and robotics engineers, Momentus makes and operates cost-effective and energy-efficient in-space transport and service vehicles that utilize water plasma propulsion technology. Momentus has service agreements in place with numerous private satellite companies, government agencies, and research organizations.",
+      "one_liner": "The space infrastructure services company",
+      "batch": "S18",
+      "status": "Public",
+      "team_size": 125,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Santa Clara, CA, USA",
+      "tags": [
+        "Commercial Space Launch",
+        "Solar Power",
+        "Space Exploration"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1525748776.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9e04d61888abfae102ae9245cd5325c24e4bef5.png"
+    },
+    {
+      "id": 1886,
+      "name": "Honeylove",
+      "slug": "honeylove",
+      "website": "https://www.honeylove.com",
+      "description": "Honeylove is a DTC startup founded by EDM artist Betsie Larkin. After searching high and low for quality shapewear that made her feel confident on stage, Betsie decided to create her own line of stage-worthy shapewear and launched publicly in 2018. Since then, Honeylove has expanded to tops, bras, and many other garments that have set new standards in their verticals. We apply a technical and artistic approach to problems we see in the fashion industry, creating products that serve our customers of all shapes, sizes, and backgrounds.",
+      "one_liner": "Honeylove makes functional undergarments for women",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 100,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Apparel and Cosmetics",
+      "industries": [
+        "Consumer",
+        "Apparel and Cosmetics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA; San Francisco, CA, USA",
+      "tags": [
+        "Smart Clothing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1524535497.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/50726ec2a923dcdbc1976fc34ca5ae61e74a8d58.png"
+    },
+    {
+      "id": 2037,
+      "name": "Kunduz",
+      "slug": "kunduz",
+      "website": "https://kunduz.com/",
+      "description": "Kunduz is making test prep resources 10x faster and cheaper for students who prepare for university entrance tests. With its first mobile platform, Kunduz\u00a0provides instant answers to students\u2019 test prep questions through its 35,000 tutors. Kunduz currently serves students in Turkey and India. ",
+      "one_liner": "Kunduz provides instant answers to students' questions and makes\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 85,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "Turkey",
+        "Middle East and North Africa",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Istanbul, Istanbul, Turkey; Remote",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Artificial Intelligence",
+        "Education",
+        "Marketplace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1528211129.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4aa5d347be6e7c59289b2b79a76f9271de78f1c.png"
+    },
+    {
+      "id": 2034,
+      "name": "Aesthetic",
+      "slug": "aesthetic",
+      "website": "https://www.aesthetic.com",
+      "description": "Trained on your unique style, Aesthetic generates high-quality visuals that match your aesthetic in seconds.",
+      "one_liner": "Your AI-powered creative apprentice \ud83e\ude84",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1528157030.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af963059fbdc3975392ff966a4a4103c25893ce8.png"
+    },
+    {
+      "id": 2033,
+      "name": "Kinside",
+      "slug": "kinside",
+      "website": "https://www.kinside.com",
+      "description": "Kinside powers bookings and payments for the $648B care economy. We\u2019ve started with child care, a $136B category that despite being an essential and evergreen service, remains an undigitized space, driven mostly by cash. ",
+      "one_liner": "Powering the $648b Care Economy",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 18,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Fintech",
+        "Marketplace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1528157028.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ca1a8a7c946397f4ff4c2f6fb41d8ea5ebf33e.png"
+    },
+    {
+      "id": 2032,
+      "name": "OkCredit",
+      "slug": "okcredit",
+      "website": "https://www.okcredit.in",
+      "description": "Today, over 50 million SMBs issue informal credit in India, This is a hugely manual process which they spend hours tracking, reconciling, and collecting! \r\n\r\nThe 50M SMBs in India account for 40% of the nation\u2019s GDP. As much as 60% of their sales happen on credit. That\u2019s ~24% of the country\u2019s GDP (500B$) lying on paper!\r\n\r\nOKCREDIT as a company came into existence to start solving the most important problem of credit recovery in MSMEs. We as first movers developed a bookkeeping app that would help any merchant sitting at the remotest corner of the country with internet connectivity to record his transactions digitally. We helped them track the credit given to their customers and suppliers. With our Okcredit app a merchant can track the amount of credit given, monitor credit limit, send reminders and eventually can collect faster from their customers. So as a company our vision was to bring the data dark merchants onto the digital platform. We have changed the way the MSMEs record the transactions and eased their life today. \r\n\r\n",
+      "one_liner": "Simple and secure bookkeeping for Indian businesses.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 70,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Bengaluru, KA, India",
+      "tags": [
+        "FinOps",
+        "Fintech",
+        "Payments",
+        "Finance",
+        "India",
+        "SMB"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1528153427.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/319d958d1c1ed34dab6fa69de4c65c566d82fcc8.png"
+    },
+    {
+      "id": 2030,
+      "name": "Culdesac",
+      "slug": "culdesac",
+      "website": "http://culdesac.com",
+      "description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
+      "one_liner": "We build cities for people, not cars. ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 32,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Tempe, AZ, USA",
+      "tags": [
+        "Real Estate",
+        "Housing",
+        "Proptech",
+        "ClimateTech"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1575871649.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png"
+    },
+    {
+      "id": 2029,
+      "name": "Circumvent",
+      "slug": "circumvent",
+      "website": "https://www.circumventpharmaceuticals.com/",
+      "description": "",
+      "one_liner": "Utilizing monogenic disorders to inform and solve highly complex\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Neurotechnology",
+        "Biotech",
+        "Genomics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527534673.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5fd725fe8e2cac76ed87eacf3161d3f37da8f61.png"
+    },
+    {
+      "id": 2028,
+      "name": "Rejuvenation Technologies Inc.",
+      "slug": "rejuvenation-technologies-inc",
+      "website": "https://www.rejuvenationtech.com/",
+      "description": "Delivery of TERT mRNA extends telomeres sufficiently in a few days to reverse over a decade of telomere shortening during normal aging.  We are advancing TERT mRNA-based therapies to the clinic.",
+      "one_liner": "We extend telomeres to extend the human health span",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [
+        "Anti-Aging",
+        "Gene Therapy",
+        "Nanomedicine"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527534662.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8570f907143e200c57848585eb12a16271d3643f.png"
+    },
+    {
+      "id": 2027,
+      "name": "Dorian therapeutics",
+      "slug": "dorian-therapeutics",
+      "website": "http://www.doriantherapeutics.com",
+      "description": "",
+      "one_liner": "New therapeutics to rejuvenate tissue and treat age-related diseases ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Carlos, CA, USA",
+      "tags": [
+        "Anti-Aging",
+        "Biotech",
+        "Therapeutics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527534657.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2ba869954327a53b835f8f98ae03cf923b67fa1.png"
+    },
+    {
+      "id": 2026,
+      "name": "iLabService",
+      "slug": "ilabservice",
+      "website": "https://www.ilabservice.com/en",
+      "description": "We provide SaaS solution to boost your operational efficiency, enhance your safety management. One stop oversight of your lab operation and resource management, such as \" Man, Machine, Material, Method and Health and Safety\". ",
+      "one_liner": "AI powered Lab Operation Management SaaS Platform ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 50,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "China",
+        "East Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Shanghai, Shanghai, China",
+      "tags": [
+        "SaaS",
+        "IoT",
+        "Productivity"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527534631.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/61e5909632a59998a05ddf3639be15ca20ce6478.png"
+    },
+    {
+      "id": 2025,
+      "name": "LemonBox",
+      "slug": "lemonbox",
+      "website": "http://www.getlemonbox.com/",
+      "description": "LemonBox provides personalized daily vitamin packs for Chinese consumers, along with dietary advice from U.S. registered dietitians. All the products are made in the U.S. and shipped to customers within 7-10 days, based on a monthly subscription model.",
+      "one_liner": "Customized daily vitamin packs for consumers in China.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 50,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "China",
+        "East Asia"
+      ],
+      "locations": "Beijing, Beijing, China",
+      "tags": [
+        "Health Tech",
+        "China"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527526952.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png"
+    },
+    {
+      "id": 2024,
+      "name": "Enveritas",
+      "slug": "enveritas",
+      "website": "http://www.enveritas.org",
+      "description": "",
+      "one_liner": "We verify global supply chains for issues like child slavery and\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 60,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Agriculture",
+      "industries": [
+        "Industrials",
+        "Agriculture"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Sustainability",
+        "Supply Chain"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": true,
+      "is_top_company": false,
+      "launched_at": 1527105752.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/074ac1d57f3ba2ba147974418b410eb7f31b3067.png"
+    },
+    {
+      "id": 2023,
+      "name": "SPATE",
+      "slug": "spate",
+      "website": "https://www.spate.nyc",
+      "description": "Spate is your machine intelligence solution for finding the next big trend in Beauty and Food. For example, we spotted trends such as turmeric, face masks, and cold brew.",
+      "one_liner": "Trends prediction for marketers",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Machine Learning",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527062926.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7577742d36a89182bb27d25c3ad944da530cabbf.png"
+    },
+    {
+      "id": 2022,
+      "name": "Oxygen",
+      "slug": "oxygen",
+      "website": "http://getoxygen.com",
+      "description": "",
+      "one_liner": "A leading digital bank in the US offering personal and business\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 68,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Los Angeles, CA, USA; Remote",
+      "tags": [
+        "Fintech",
+        "Neobank"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527052080.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ac044a14a32245f624d5efa2cd41127c9f84b1c.png"
+    },
+    {
+      "id": 2020,
+      "name": "Mark Cuban Cost Plus Drug Company, PBC",
+      "slug": "mark-cuban-cost-plus-drug-company-pbc",
+      "website": "http://www.costplusdrugs.com",
+      "description": "",
+      "one_liner": "Making low cost versions of high cost generic drugs.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527048484.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/505f4f8a5a34c6839bee7c09bc0df2cc832c41f7.png"
+    },
+    {
+      "id": 2018,
+      "name": "AnnieCannons",
+      "slug": "anniecannons",
+      "website": "https://www.anniecannons.com",
+      "description": "AnnieCannons (AC) is a 501(c)3 nonprofit dedicated to training survivors of human trafficking and gender-based violence to be programmers, giving them both the economic and technological empowerment to invent solutions to overcome the hardships they have survived, and the capacity to support themselves and their families. \r\n",
+      "one_liner": "Connecting Survivors to Careers in Tech",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 14,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Oakland, CA, USA",
+      "tags": [
+        "Assistive Tech",
+        "SaaS",
+        "Civic Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": true,
+      "is_top_company": false,
+      "launched_at": 1527048482.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/324bfa1e5d16ce99b583a7336b9027c846e41503.png"
+    },
+    {
+      "id": 2017,
+      "name": "Leena AI",
+      "slug": "leena-ai",
+      "website": "https://www.leena.ai",
+      "description": "HR/IT/Finance professionals spend 50% of their time answering employees' questions and tickets. It\u2019s even worse on the employee side, they have to wait for a long time for simple answers.\r\n\r\nWe are live with 500 customers like Coca-Cola, Sony, Puma, Vodafone, Nestle, P&G, Airbnb, etc. We have raised over $40M from top VCs like Bessemer, Greycroft, Elad Gil, etc.\r\n\r\nLeena AI consumes company\u2019s enterprise knowledge & starts answering all employee questions just like a human would. It can even answer complex personalized questions like Why is my salary less this month?\r\n\r\nEmployees can access Leena AI from commonly used UIs like MS Teams or Slack.",
+      "one_liner": "We at Leena AI build a virtual assistant that answers employee's\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 500,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "India",
+        "America / Canada",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Redwood City, CA, USA; New Delhi, DL, India",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Chatbot",
+        "Enterprise Software",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527048478.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/94c28dea71127938b04b08e8639750865f5a274e.png"
+    },
+    {
+      "id": 2015,
+      "name": "Synkrino Biotherapeutics",
+      "slug": "synkrino-biotherapeutics",
+      "website": "http://www.synkrino.bio",
+      "description": "",
+      "one_liner": "Synkrino's AI, SATIS is a powerful, unbiased discovery system for\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Oakland, CA, USA",
+      "tags": [
+        "AI-powered Drug Discovery",
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526443476.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/075baf0892710c7766a502a96091aa7dc37059b8.png"
+    },
+    {
+      "id": 2014,
+      "name": "Mutiny",
+      "slug": "mutiny",
+      "website": "https://www.mutinyhq.com",
+      "description": "Today companies spend over $1T to bring customers to the door, but $19 of every $20 they spend does not convert to revenue. Companies have no choice other than to dedicate large engineering and data science teams to manually build more relevant, higher converting experiences for different customer segments.\r\n\r\nMutiny is a no-code AI platform that helps marketers convert their top of funnel demand into revenue, without engineers. Mutiny gives marketers everything they need to drive revenue and prove it \u2014 from data and analytics to AI-powered recommendations and content writing. We are backed by Sequoia Capital, Tiger Global, Insight Partners, Y Combinator and CMOs from some of today\u2019s fastest-growing tech companies including AngelList, Carta, Gong, Salesforce and Snowflake.",
+      "one_liner": "Uses AI and data to convert website visitors into customers",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 81,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526439893.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png"
+    },
+    {
+      "id": 2012,
+      "name": "Cowrywise",
+      "slug": "cowrywise",
+      "website": "https://cowrywise.com",
+      "description": "Cowrywise is a FinTech company democratizing access to premium financial services by making these services available to the mass market cheaply. We are leveraging technology and investment management to re-imagine how financial planning, savings and investment products are delivered to people. We do this by helping our customers achieve their savings and investments goals in a simple, secure and affordable manner.",
+      "one_liner": "Digitizing wealth management in Africa",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 40,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Asset Management",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "regions": [
+        "Nigeria",
+        "Africa",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Lagos, LA, Nigeria; LA, Nigeria",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526439889.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1be40958eef551178d608eaecb35f9c6882c4993.png"
+    },
+    {
+      "id": 2011,
+      "name": "Helicarrier (prev Buycoins)",
+      "slug": "helicarrier-prev-buycoins",
+      "website": "https://helicarrier.studio",
+      "description": "Helicarrier (previously Buycoins) is building cryptocurrency infrastructure for Africa. \r\n\r\nSendcash is an app that lets Africans in the diaspora send money back home. Buycoins is the easiest place to buy, sell, and manage your cryptocurrency portfolio.",
+      "one_liner": "Cryptocurrency infrastructure for Africa.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 30,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "Nigeria",
+        "Africa",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Lagos, LA, Nigeria; LA, Nigeria",
+      "tags": [
+        "Crypto / Web3"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526439888.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/43f6ad213b156602e95160d80103b0750e2abdef.png"
+    },
+    {
+      "id": 2007,
+      "name": "Khatabook",
+      "slug": "khatabook",
+      "website": "https://khatabook.com/",
+      "description": "Replace your traditional ledgers with new digital Khatabook and Avail financial services like Lending for your business. Business owners can use the app to record credit (Jama) and debit (Udhar) transactions for their trusted customers. It is 100% Free, Safe, and Secure for all types of businesses to maintain their customers'\u200b accounts.\r\n",
+      "one_liner": "Manage your ledgers and avail Financial Services like Lending on your\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 350,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "India",
+        "South Asia"
+      ],
+      "locations": "Bengaluru, KA, India",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526436265.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/66b2f57ed74a17802ce2f389dc5be76a7d2e0fe0.png"
+    },
+    {
+      "id": 2006,
+      "name": "BrainHi",
+      "slug": "brainhi",
+      "website": "https://www.brainhi.com",
+      "description": "BrainHi is an automated receptionist for local businesses.  Local businesses are in search of new clients and revenue, yet 25% of phone calls to local businesses are missed and 80% of potential clients don\u2019t leave voicemails.\r\n\r\nBrainHi uses AI to create an automated receptionist that answers  missed calls 24/7 and chats with clients to schedule appointments and answer admin questions, resulting in more business. Cofounders Emmanuel and Israel started BrainHi after Hurricane Maria made communicating with doctors offices nearly impossible on the island of Puerto Rico.\r\n",
+      "one_liner": "Automated receptionist that answers missed calls for local businesses ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 18,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "Puerto Rico",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Juan, San Juan, Puerto Rico",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526436262.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d5e51fdf1cb361f6b203c84acf2793b82ca95d5.png"
+    },
+    {
+      "id": 2005,
+      "name": "Four Growers",
+      "slug": "four-growers",
+      "website": "https://fourgrowers.com/",
+      "description": "Four Growers was founded to provide healthy, affordable, local produce by reducing the production costs of greenhouse growers through robotics technology. We are positioning ourselves to be the automated solutions provider for greenhouse crop management. We are working closely with various greenhouse growers to develop a tomato harvesting robot. Our technology relies on two layers of protection, patents filed protecting the physical design of the robot and a proprietary algorithm that controls the robot's decision making. Our solution is not only capable of harvesting the tomatoes, but also of performing a quality check and packaging.",
+      "one_liner": "Robots that feed the world - robotic harvesting and analytics",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 14,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Agriculture",
+      "industries": [
+        "Industrials",
+        "Agriculture"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Pittsburgh, PA, USA",
+      "tags": [
+        "Robotics",
+        "Analytics",
+        "Agriculture"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526346165.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a86e5aae41ca760baa70c54d2b6ae402c4f84280.png"
+    },
+    {
+      "id": 2004,
+      "name": "SkydropX",
+      "slug": "skydropx",
+      "website": "http://skydropx.com",
+      "description": "We automate the shipping process for businesses. Our \u201cAI Dispatch\u201d makes it easier to select, buy/print shipping labels, track, estimate drop-off times and handle returns. We enable \r\ncompanies to own the entire experience from shopping cart to delivery.\r\n",
+      "one_liner": "Logistic Management System for E-commerce & Retail in Mexico. ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 320,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Monterrey, N.L., Mexico",
+      "tags": [
+        "Marketplace",
+        "SaaS",
+        "Logistics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525888951.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c86b7bf10246fd23a57801537d0dc70f36504a2.png"
+    },
+    {
+      "id": 2003,
+      "name": "Eden",
+      "slug": "eden-2",
+      "website": "https://edenmed.com",
+      "description": "Using infrared technology, we provide a non-invasive, painless, private, and accurate adjunct breast cancer screening in under 10 minutes. Our Eva Centers are located in shopping centers. \r\n\r\n\r\n",
+      "one_liner": "Digital platforms that enable an outstanding patient experience ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 55,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mexico City, CDMX, Mexico",
+      "tags": [
+        "Digital Health",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525846177.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9ed624456ba1fbda4567d62416d80343145cd4d.png"
+    },
+    {
+      "id": 2001,
+      "name": "Shelf Engine",
+      "slug": "shelf-engine",
+      "website": "http://www.shelfengine.com",
+      "description": "Shelf Engine helps businesses increase sales by accurately predicting the perfect amount of perishable goods to order, thus reducing food waste. ",
+      "one_liner": "Transforms how grocery stores buy highly perishable foods.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 40,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "Machine Learning"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525810118.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/30d8273cf77bf9ee7c72f1c08b3457034ba910b3.png"
+    },
+    {
+      "id": 1998,
+      "name": "Nestor",
+      "slug": "nestor",
+      "website": "https://nestorup.com",
+      "description": "Nestor is a Skills-based talent management platform that helps HR and managers identify, activate, and strategically deploy skills in their organization to drive peak performance, innovation, and growth.\r\n\r\nWith a market library of over 20,000 skills enhanced by Nestor\u2019s AI skills suggestions, you gain unprecedented visibility into your people\u2019s capabilities and dynamic mapping of their skills.\r\n\r\nOur leading platform combines the tools, insights, and decision-making support you need to understand people's strengths and skill gaps and effectively guide them with personalized upskilling and reskilling initiatives aligned with career goals and company business priorities.\r\n\r\nNestor\u2019s Talent and Opportunity Marketplace helps connect talent with gigs, projects, or new open roles based on AI smart-matching, ensuring people with the right skills are in the right place at the right time.\r\n\r\nUsing the capabilities of the Nestor platform, HR and business leaders can benefit from:\r\n- Skills Mapping\r\n- Increased Performance\r\n- Upskilling & Reskilling\r\n- Talent Deployment\r\n- Growth & Retention\r\n- Internal Hiring\r\n- Succession Planning\r\n- Workforce Agility\r\n- Optimized learning ROI\r\n- Emerging Skills\r\n\r\nNestor is trusted by HR and people leaders in mid-to-large enterprises, including F500 companies, across the US, Latin America, Europe, and the Middle East.\r\n\r\nNestor is rated the #1st Easiest to Use Skills Management Software on G2.\r\n\r\nRequest a demo here: https://nestorup.com/demo.",
+      "one_liner": "Skills-based talent management solutions for a dynamic workforce.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 20,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Jose, CA, USA; Remote",
+      "tags": [
+        "SaaS",
+        "HR Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525756011.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bb0f1e6139ce028b1d8fef936eb1121108bc7da.png"
+    },
+    {
+      "id": 1995,
+      "name": "ZiffyHomes",
+      "slug": "ziffyhomes",
+      "website": "https://www.ziffyhomes.com/",
+      "description": "ZiffyHomes is a living solace for young professionals with beautiful living spaces, vibrant community, excellent services and full time support to all our customers. We work towards providing the highest standards of living for young professionals and saving them from woes of house hunt. We wish to provide a space for them where they can flourish. \r\n\r\nFounded by Saurabh Kumar & Sanchal Ranjan where they are fascinated about formation of communities around both living and working spaces in a country like India for the last 15 years of their educational and corporate lifetimes and now fostering India's first physical social network via co-living.\r\n\r\nJoin us on our journey of excited times ahead.\r\n\r\nVisit us at www.ziffyhomes.com or follow our progress on:\r\n\r\nFacebook: https://www.facebook.com/ziffyhomes/\r\nTwitter: https://twitter.com/ZiffyHomes\r\nInstagram: https://www.instagram.com/ziffyhomes/",
+      "one_liner": "ZiffyHomes is managed corporate housing for white collar employees in\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 57,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "India",
+        "South Asia"
+      ],
+      "locations": "Gurugram, HR, India",
+      "tags": [
+        "Real Estate",
+        "India"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525748782.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd61e2b44bb90e6f9b4169365ff16e3a68009d4.png"
+    },
+    {
+      "id": 1994,
+      "name": "Bot MD",
+      "slug": "bot-md",
+      "website": "https://www.botmd.io",
+      "description": "Bot MD is an A.I assistant for doctors. Our company's mission is to Empower Doctors around the world. Bot MD can be trained on any type of hospital content to provide instant answers to clinical questions.",
+      "one_liner": "AI Clinical Assistant for Doctors",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "Singapore",
+        "Southeast Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Singapore, Singapore",
+      "tags": [],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525748781.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f1e609dbf04a24cdb56fcd4771c47aa0ce6074.png"
+    },
+    {
+      "id": 1992,
+      "name": "Fintual",
+      "slug": "fintual",
+      "website": "https://fintual.com",
+      "description": "We allow people to invest.\r\n\r\nWe manage USD 1Bi from +150,000 customers. \r\n\r\nWe are regulated in Mexico and Chile.",
+      "one_liner": "Wealth manager",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 100,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "Chile",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Santiago, Santiago Metropolitan Region, Chile",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525745161.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbf5d38f9bacbb95da30894913569c413307b19d.png"
+    },
+    {
+      "id": 1991,
+      "name": "Names & Faces",
+      "slug": "names-and-faces",
+      "website": "http://www.namesandfaces.com",
+      "description": "Build a visual index of everyone in your organization that's instantly accessible, fully customizable, and always connected to your data. Help everyone from the CEO to the new joiner get to know who's who, get context for where people fit in and get in touch when they need to.",
+      "one_liner": "Technology to create fast, visual indexes of people and organizations.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 20,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525745159.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf701830a11ee7b44f7e149accbdf43a20eed525.png"
+    },
+    {
+      "id": 1990,
+      "name": "Tenderd",
+      "slug": "tenderd",
+      "website": "https://www.tenderd.com/",
+      "description": "The platform uses a combination of sensors and machine learning algorithms to increase the efficiency and sustainability of operations in the logistics, energy, and construction sector.\r\n",
+      "one_liner": "AI Platform for Efficient and Sustainable Operations",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 60,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United Arab Emirates",
+        "Middle East and North Africa",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Dubai, United Arab Emirates",
+      "tags": [
+        "Construction",
+        "Logistics"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525745157.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee2e6fd4d1cfa51f7b35ac4ebf653eb66c08723b.png"
+    },
+    {
+      "id": 1989,
+      "name": "Calii",
+      "slug": "calii",
+      "website": "https://calii.com",
+      "description": "Calii is building the future of grocery shopping in LatAm by delivering ultra-fresh produce and thousands of grocery items in less than two hours\u2013 with savings and less waste!\r\n\r\nFounded by Stanford engineers, Calii is taking a full-stack, tech-driven approach connecting directly with producers and brands, automating the food supply chain end-to-end, and delivering to users\u2019 doorsteps via a network of micro-fulfillment centers. By cutting middlemen and inefficiencies in the food supply chain, users get ultra-fresh groceries with savings, meanwhile helping the environment by reducing waste by up to 3X.\r\n\r\nEven though COVID-19 increased the use of grocery delivery apps, grocery shopping remains largely offline (~95%) and represents a multi-trillion dollar opportunity. Calii is already cracking the $1T groceries market in its path to become the next-gen Amazon in LatAm.",
+      "one_liner": "Full-stack grocery delivery in LatAm",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 750,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America"
+      ],
+      "locations": "Monterrey, N.L., Mexico; N.L., Mexico",
+      "tags": [
+        "Grocery",
+        "Marketplace",
+        "Logistics",
+        "Supply Chain"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525745156.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdc1dade5d599753363072ccca1f464b94be4308.png"
+    },
+    {
+      "id": 1988,
+      "name": "Prodigal",
+      "slug": "prodigal",
+      "website": "https://prodigaltech.com/",
+      "description": "Prodigal is a pioneer of Consumer Finance Intelligence, a new category of AI software that derives actionable insights from customer and patient interactions. Lenders and healthcare providers rely on Prodigal to boost profits, customer experience, and compliance by optimizing operations and quality assurance in their loan servicing and collection contact centers.\u00a0\r\n\r\nProdigal\u2019s global team, whose backgrounds intersect at financial services and data science, is headquartered in Mountain View, California. Backed by technical and industry experts, Prodigal\u2019s mission is to build the intelligence layer that powers Consumer Finance, becoming the next iconic vertical SaaS company. Nearly one in five U.S. borrowers have already engaged with Prodigal over more than 200 million interactions. ",
+      "one_liner": "Lending Intelligence Software",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 65,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Credit and Lending",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Consumer Finance"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525745154.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e46d97427184f51f49b12df6e51ecf8765104fa0.png"
+    },
+    {
+      "id": 1984,
+      "name": "The Supplant Company",
+      "slug": "stem-sugar",
+      "website": "https://supplant.com",
+      "description": "The Supplant Company is defining a new category of food ingredient: sugars from fiber. Supplant\u2122 sugars from fiber is a brand-new blend of sugars found naturally in plant fiber. With Supplant\u2122 sugars from fiber, your favorite treats can look, feel and taste like they\u2019re supposed to. Because it\u2019s made from fiber, Supplant\u2122 sugars from fiber is lower in calories, has a lower glycemic response (compared to glucose), and is prebiotic. It\u2019s made by upcycling agricultural side-streams. For example, in corn (maize), it\u2019s made from the cob, not the kernel. In wheat and rice, it\u2019s made from the straw, not the grain. These fiber-rich parts of crops are hugely abundant and don\u2019t typically make their way into the food system.",
+      "one_liner": "A brand-new blend of sugars \u2013 made from plant fiber!",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe"
+      ],
+      "locations": "Cambridge, England, United Kingdom; England, United Kingdom",
+      "tags": [
+        "Food Tech",
+        "Sustainable Agriculture"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525399784.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/18e7a0823393f62971b9785fbd0b3ec56de1b851.png"
+    },
+    {
+      "id": 1979,
+      "name": "Canary Technologies",
+      "slug": "canary-technologies",
+      "website": "https://www.canarytechnologies.com",
+      "description": "We bring paper based workflows in hospitality online.  Canary's solutions are trusted by hotels worldwide, including Ace Hotel Group, Four Season, Wyndham Hotels, Classic Hotels, and others. We are going to eat all of hospitality software. ",
+      "one_liner": "Modernizing the hospitality tech stack. ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 150,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525327684.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73e5d7e87b17b5d0be130664eecb7362c9ced88.png"
+    },
+    {
+      "id": 1978,
+      "name": "Papa",
+      "slug": "papa",
+      "website": "https://www.papa.com",
+      "description": "Papa is a one-stop-shop for flexible family care, providing companionship and a helping hand wherever it\u2019s needed. With wide-ranging industry, technology, and transformation experience, we share a vision for a world where no one has to go it alone. And a deep well of gratitude for the Papa People who move this vision forward.\r\n\r\n\r\nFounded in 2017 and headquartered in Miami, Papa is backed by Canaan, Tiger Global Management, Comcast Ventures, SoftBank Vision Fund 2, TCG, Initialized Capital, and Seven Seven Six, among other revered institutional and individual investors. \r\n\r\n\r\nPapa is an equal opportunity employer. We proudly support the ParityPledge\u00ae for gender and/or racial parity at the highest levels of business.\r\n\r\n",
+      "one_liner": "One-stop-shop for flexible family care",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 500,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Miami, FL, USA",
+      "tags": [
+        "Consumer Health Services",
+        "Digital Health"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525316920.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b6b5d357c2bb5599f3c6678242b725827948182.png"
+    },
+    {
+      "id": 1977,
+      "name": "MentalHappy",
+      "slug": "mentalhappy",
+      "website": "http://www.MentalHappy.com",
+      "description": "MentalHappy is a secure and compliant platform that leverages AI and data-driven analytics to enhance the group-based therapy experience and boost client/patient engagement. Our platform streamlines administrative tasks for providers, improves group participant self-management capabilities, automates group participant check-ins, and identifies group members who may be at risk. Additional features on the platform allow providers to schedule and host virtual sessions, engage members in secure chat, and share health resources, and offer support groups ",
+      "one_liner": "Group-Therapy Platform for Providers and Health Systems",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 7,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Mental Health Tech",
+        "Consumer Health Services"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525316917.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/da247ee06a3c14ecd2ef6e9e67fac5e015f08c68.png"
+    },
+    {
+      "id": 1970,
+      "name": "Alpha Vantage",
+      "slug": "alpha-vantage",
+      "website": "https://www.alphavantage.co/",
+      "description": "Alpha Vantage provides enterprise-grade financial market data through a set of powerful and developer-friendly data APIs and spreadsheets. Whether you need traditional asset classes (e.g., stocks, ETFs, commodities), economic metrics, foreign exchange rates, cryptocurrencies, fundamental data or even technical indicators, Alpha Vantage is your one-stop shop for global market data delivered through REST APIs.",
+      "one_liner": "Developer-friendly and enterprise-grade APIs for financial market\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Boston, MA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "SaaS",
+        "Analytics",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525316905.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fccb7b1e6dbde25d668a442439b79122df4f20cd.png"
+    },
+    {
+      "id": 1969,
+      "name": "BlueCargo",
+      "slug": "bluecargo",
+      "website": "http://www.bluecargo.io/",
+      "description": "BlueCargo provides real-time information for trucking companies that move cargo from marine ports to first warehouses. We are building a platform that will be a one-stop shop for truckers to dispatch, schedule their workload and move containers efficiently\r\n\r\nOur startup was founded by two female entrepreneurs, graduated from Y Combinator (2018 batch), and has raised a 4 million seed round. We are at the beginning of an exciting growth phase where we have already developed product-market fit, a working platform, and hundreds of daily active users. We are looking for a Senior Software Engineer to grow the team and deliver a product to bring us to the next level.\r\n\r\nIf working to bring technology to the logistics industry sounds exciting, then we\u2019d like to connect with you! We are looking for a highly experienced professional who has created several full stack web applications and has experience with AWS.",
+      "one_liner": "BlueCargo builds software for trucking companies to optimize their\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 35,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525313283.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/96b73225a7fdc8841c526bb16e3bc4cb32073599.png"
+    },
+    {
+      "id": 1967,
+      "name": "Mytos",
+      "slug": "cytera-cellworks",
+      "website": "https://www.mytos.bio",
+      "description": "Mytos builds machines that automate the growing of human cells for biotech and pharma companies. Our machines sit on-prem at customer sites, growing cells which they use for testing during early-stage drug development.\r\n\r\nEven though testing on cells is so critical for developing new drugs, today they're all grown totally manually, the same as 100 years ago! With our machines, for the first time our customers can hands-off manipulate and monitor batches of cells from the cloud.\r\n\r\nWe've already working with some of the biggest pharma companies. Mytos has the opportunity to change the way the entire industry works - join us and help us get there!",
+      "one_liner": "Automating the most manual process in biotech - growing cells",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 26,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525313281.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47b55852a1fff0b5b096b7decf0a07ed6cdb0636.png"
+    },
+    {
+      "id": 1966,
+      "name": "HappiLabs",
+      "slug": "happilabs",
+      "website": "https://www.happilabs.org/",
+      "description": "We're a SaaS company with emphasis on Service, and we have a mission:  to improve the happiness of scientists and the quality of their research. \r\n\r\nHappiLabs provides a service called the Virtual Lab Manager. We offer PhD level, former scientists to help with safety and regulatory, product research, lab shopping, negotiating, purchasing, inventory, and bookkeeping. Our software tools, such as the ETA Dashboard and the HappiApp, make it easy to request purchases, manage inventory, and check-in packages upon delivery. HappiLabs also has one of the most extensive databases of product prices. These tools, and experienced humans, make us the smartest lab managers in the world.\r\n\r\nAnother way to think of us is an outsourced purchasing department and/or a personal assistant for your scientists.  \r\n\r\nBased in Chicago, and some presence in San Francisco.\r\n\r\nIf you're a newly funded PI, a startup, small biotech, or work with purchasing as a big pharma/biotech, you can use our help.",
+      "one_liner": "Virtual Lab Managers for scientists and biotech, research Labs",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 14,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Chicago, IL, USA",
+      "tags": [
+        "Assistive Tech",
+        "Smart Home Assistants",
+        "Warehouse Management Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525313279.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74db772cdb6d5ff36bf91f3c639082d24c50ffd9.png"
+    },
+    {
+      "id": 1965,
+      "name": "Pine Park Health",
+      "slug": "pine-park-health",
+      "website": "http://pineparkhealth.com",
+      "description": "We're a primary care practice that helps residents of senior living communities lead healthier, happy lives.\r\n\r\nOur mission is to keep senior living residents healthy\u2014by keeping them away from hospitals where exposure to health risks is high. Through our new clinical care delivery model, we bring clinicians right into senior living communities, providing safer, more convenient primary care. Pine Park partners with senior living communities to provide primary care to their residents, building a value-based care model where we keep patients healthier. This allows us to provide comprehensive healthcare on-site, see patients regularly, and better support their holistic health.",
+      "one_liner": "We provide primary care in senior living communities.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 75,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Oakland, CA, USA",
+      "tags": [
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525309681.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3facf7f7379345c5f8e16d3059db45980ba0aa68.png"
+    },
+    {
+      "id": 1964,
+      "name": "CB Therapeutics",
+      "slug": "cb-therapeutics",
+      "website": "http://www.cbthera.com",
+      "description": "CB Therapeutics is a synthetic biology company focused on bringing cannabinoid and tryptamine therapeutics to the clinic and commercial markets to treat depression, PTSD, opioid addiction, alcoholism, pain, and other mental health problems.\r\n",
+      "one_liner": "Fermentation-derived natural products to solve health problems ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 18,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Diego, CA, USA",
+      "tags": [
+        "Cellular Agriculture",
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525302481.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/95cebc7f272bba7c432325c1ec6e9b828643bcb5.png"
+    },
+    {
+      "id": 1963,
+      "name": "Rain Neuromorphics",
+      "slug": "rain-neuromorphics",
+      "website": "http://www.rain-neuromorphics.com",
+      "description": "At Rain Neuromorphics, we envision a future where every device possesses a dynamic and continuously learning AI brain. Neural Networks are the most powerful engines behind today's AI, but simulations require massive amounts of power and time to learn all of the synaptic connections. As opposed to a simulation, our neuromorphic hardware is a physical artificial neural network, composed of spiking neurons and physical synapses. We combine unique electroceramic materials, nanofabrication techniques, and biologically plausible models of learning to create the Memristive Nanowire Neural Network (MN3), a new type of AI chip. The MN3 can possess over ten million spiking neurons per square centimeter, and uses far less power than conventional GPUs and CPUs.",
+      "one_liner": "We build artificial intelligence processors inspired by the brain.  ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 12,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Redwood City, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Hardware",
+        "Neurotechnology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525295278.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d8fe573409c782a57a9055002e8b6f07292ece3.png"
+    },
+    {
+      "id": 1961,
+      "name": "DreamCraft Entertainment, Inc.",
+      "slug": "dreamcraft-entertainment-inc",
+      "website": "https://www.dreamcraft.com/",
+      "description": "DreamCraft enables anyone to create, publish, and monetize video games. The company\u2019s core product is a code-free game creation platform, bundled with high quality art assets. DreamCraft is backed by March Capital, Makers Fund, Tencent Corporation, Y Combinator, and other top investors in the gaming space. The company was founded in 2018 and now has a global team of 20+ people with half remote and half based in Silicon Valley.",
+      "one_liner": "Platform that allows anyone to create and monetize video games.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 23,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Redwood City, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Entertainment",
+        "Gaming"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525237578.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5350e1545dde29c153c2bb23ad5d1fdb3f3bf68.png"
+    },
+    {
+      "id": 1960,
+      "name": "Ajaib",
+      "slug": "ajaib",
+      "website": "https://www.ajaib.co.id/",
+      "description": "Ajaib is an online brokerage that allows Indonesians to buy and sell stocks, ETFs and mutual funds. We are Indonesia's leading financial technology platform driven by a mission to educate the importance of investing for the future.\r\n\r\nGuided by the three principles; Everyone is an owner, a growth mindset, and a will to win, we aim to increase the number of financial inclusion within Indonesians through investment. Ajaib is committed to opening the door to access safe, trusted and affordable investment instruments. We transformed the way young generations invested when we first established in 2018.\r\n\r\nToday, Ajaib is the third-largest brokerage by the number of transactions in Indonesia, with over 1 million investors based on our platform and titled as the fastest-growing unicorn in South East Asia.",
+      "one_liner": "Consumer fintech for Indonesia",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 300,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "Indonesia",
+        "Southeast Asia",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Jakarta, Jakarta, Indonesia; Remote",
+      "tags": [
+        "Fintech",
+        "Consumer"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525233992.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1bf471cb1ca823b88101b2542b323bf09e743d5.png"
+    },
+    {
+      "id": 1959,
+      "name": "UBITS",
+      "slug": "ubits",
+      "website": "http://ubits.com",
+      "description": "We help Spanish-speaking companies create, execute and measure their online learning strategy. We offer more than 5.000 courses across three categories: Soft skills, business, and tech skills. ",
+      "one_liner": "Learning Hub for companies in Latam",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 300,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "Colombia",
+        "Chile",
+        "Mexico",
+        "Peru",
+        "Panama",
+        "Latin America",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Bogot\u00e1, Bogota, Colombia; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Lima, Callao Region, Peru; Panama City, Panama, Panama; Remote",
+      "tags": [
+        "Education",
+        "SaaS",
+        "eLearning",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525233977.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9a720aa5522e39c139f85f5dc94d1dd97fb3e5b.png"
+    },
+    {
+      "id": 1957,
+      "name": "Quickchat AI",
+      "slug": "quickchat-ai",
+      "website": "https://quickchat.ai/",
+      "description": "Quickchat AI empowers companies to build their own Multilingual AI Assistants powered by generative AI models such as GPT. Thanks to our powerful integrations and API they can add the power of conversational AI to any website, product, app, game or smart device. Backed by Y Combinator and other notable investors.",
+      "one_liner": "Conversation Design platform to build Al Assistants tailored to your\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 14,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Poland",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Warsaw, Masovian Voivodeship, Poland",
+      "tags": [
+        "Artificial Intelligence",
+        "Chatbot",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525230404.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/447c26098f201e96b72e35ef0e8866fe4310f08a.png"
+    },
+    {
+      "id": 1956,
+      "name": "Regology",
+      "slug": "regology",
+      "website": "http://regology.com",
+      "description": "Our AI engine helps your organization understand applicable laws and follow them through a collaborative platform. The unique combination of software and regulatory content simplify the compliance burden.",
+      "one_liner": "Regulatory compliance powered by AI",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 54,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525230401.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d64f3c4f837e97a80dc51e0a1c6f4bc76b3626e.png"
+    },
+    {
+      "id": 1954,
+      "name": "Impactive (formerly Outvote)",
+      "slug": "impactive",
+      "website": "https://www.impactive.io/",
+      "description": "Impactive, backed by YCombinator and Higher Ground Labs, was founded in 2017 as a get-out-the-vote tool for Democrats. The Impactive product has since expanded to become a full-service platform allowing any campaign or cause to engage in distributed organizing.\r\n\r\nIn the 2018 midterms, volunteers contacted over 1 million voters using Impactive. In 2020, we scaled significantly to meet the demand of this unprecedented election cycle. We\u2019ve worked with over 500 clients nationwide, and volunteers have sent over 100 million text messages on behalf of Planned Parenthood, the DCCC, SEIU, Community Change, When We All Vote, Greenpeace, and campaigns up and down the ballot. Our work has been featured in The New York Times, Washington Post, TechCrunch, Fast Company, and many more.\r\n\r\nIn 2021, Impactive will expand its platform further into nonprofit, advocacy, and additional markets. This will be an exciting time to play a critical role in helping shape the direction for what\u2019s coming next. We will continue to prioritize our progressive values while building a feature-rich platform that will broaden our reach across the impact space.",
+      "one_liner": "Political/civic tech helping progressive campaigns organize & mobilize",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Boston, MA, USA; Remote",
+      "tags": [
+        "Election Tech",
+        "Civic Tech",
+        "GovTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525230396.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/371003d912eebeb5c0de1c0b9e2e9ebd9d87ac80.png"
+    },
+    {
+      "id": 1953,
+      "name": "Duffel",
+      "slug": "duffel",
+      "website": "https://duffel.com/",
+      "description": "Any business - from travel startups to financial enterprises - can build with Duffel. Shop flights and accommodation, purchase extras, manage bookings and more.",
+      "one_liner": "The complete toolkit to sell travel.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 70,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Developer Tools",
+        "Airplanes",
+        "Travel",
+        "API",
+        "Transportation"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525230394.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ed3effeac481fb858f8cf67828524e20b606b12.png"
+    },
+    {
+      "id": 1950,
+      "name": "Corvus Robotics",
+      "slug": "corvus-robotics",
+      "website": "https://www.corvus-robotics.com",
+      "description": "Our software allows drones to fly indoors and collect analytics, helping warehouses automate inventory collection.",
+      "one_liner": "Autonomous drones to help warehouses scan inventory.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 20,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Drones",
+      "industries": [
+        "Industrials",
+        "Drones"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mountain View, CA, USA; Boston, MA, USA",
+      "tags": [
+        "Warehouse Management Tech",
+        "Robotics",
+        "Drones",
+        "Logistics",
+        "Supply Chain"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525226777.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a834aa68231adfb62bba1347854fb4089ce584f5.png"
+    },
+    {
+      "id": 1946,
+      "name": "Easol",
+      "slug": "easol",
+      "website": "http://www.easol.com",
+      "description": "Easol is the all-in-one platform for managing your entire experience business, on your terms. Sell directly on your own website with smart booking, payment, and marketing tools that all work together, brilliantly.\r\n\r\nWe believe that with the right tools, anyone can turn their passion into an empire. So we made them \u2013 and brought them together to work in sync, all in one place.\r\n\r\nWe call it Experience Commerce. It's e-commerce specially designed for selling experiences and especially designed for experience creators.\r\n",
+      "one_liner": "Shopify for experiences ",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 70,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Portugal",
+        "United States of America",
+        "Europe",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom; Lisbon, Lisbon, Portugal; New York, NY, USA",
+      "tags": [
+        "SaaS",
+        "Travel",
+        "E-commerce",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525147504.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ced7b33328e934d0dba3f16b4bd312b431da86b.png"
+    },
+    {
+      "id": 1942,
+      "name": "Tall Poppy",
+      "slug": "tall-poppy",
+      "website": "https://tallpoppy.com",
+      "description": "Tall Poppy is building tools and services to make personal digital safety accessible to everyone. Founded in 2018, we work both proactively to help prevent harassment from escalating, and also provide expert incident response services when people come under attack.",
+      "one_liner": "Protecting your employees against online harassment",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Ottawa, ON, Canada",
+      "tags": [
+        "Security",
+        "HR Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525143912.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dea1b3e7cb043f7da1f6f8f5cf22b81184391a3d.png"
+    },
+    {
+      "id": 1941,
+      "name": "Pocket Worlds",
+      "slug": "pocket-worlds",
+      "website": "https://pocketworlds.com",
+      "description": "We're the creators of Highrise, now featured in the iOS App Store with 50 million users and rapidly growing. We're building bleeding-edge technology for developers and amateurs to create immersive experiences and worlds inside our virtual universe.\r\n\r\nWe believe that the future of virtual worlds is bright, and we're excited to be at the forefront of this industry. As we continue to grow and expand our platform, we're looking for talented individuals to join us on this journey of innovation and creativity. If you're passionate about building the platform to power virtual experiences that bring people together and push the boundaries of what's possible, we want you on our team!",
+      "one_liner": "Our platform enables creators to build experiences, games, and worlds\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 100,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Austin, TX, USA; Remote",
+      "tags": [
+        "Gaming",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525143910.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb33e87a2697a70c09d13511e8b5a86ca7d0ef84.png"
+    },
+    {
+      "id": 1940,
+      "name": "Anima App",
+      "slug": "anima-app",
+      "website": "https://www.animaapp.com",
+      "description": "Anima is converting design to code, automatically.\r\n\r\nWhy does the world need Anima?\r\nTaking user-interface design to production is hard.\r\nAutomated design-to-code will change the way we build software.\r\n\r\nThe future of Front-end\r\nWith Anima, designers can translate design to code in a single click.\r\n- Need a website? Designers can create one directly from their design tool. Figma, Adobe XD,  or Sketch.\r\n- Need to go from a prototype to a PoC asap? No coding required here as well.\r\n- For engineers, it's a coding assistant, keeping developers in control. \r\n  Less grunt work, pushing-pixels, and design that is lost in translation.",
+      "one_liner": "AI-Powered Design to Code.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 20,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "SaaS",
+        "B2B",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525143908.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ac294c5898028a9f3fcb798baa22860c935493f.png"
+    },
+    {
+      "id": 1939,
+      "name": "64x Bio",
+      "slug": "64x-bio",
+      "website": "http://www.64xbio.com",
+      "description": "64x Bio is building a platform that radically increases the speed and scale of mammalian cell line discovery. Using a novel high throughput discovery and screening platform and an integrated computational design loop, we are developing new ways of generating highly optimized and otherwise unattainable cell lines for the manufacturing of viral vectors, with a specific focus on those used for cell and gene therapies. \r\n\r\nOur platform technology enables pharmaceutical and biotechnology companies to bring cell and gene therapies to patients more effectively, providing purpose-built genetically engineered cell lines to increase the efficiency of viral vector production and reduce the cost of manufacturing.",
+      "one_liner": "High throughput design of cells for therapeutics applications.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 25,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Gene Therapy",
+        "Machine Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1609711472.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19742afe098c42bc063afc58ef5bcbe750051380.png"
+    },
+    {
+      "id": 1938,
+      "name": "Embeddables (formerly Savvy)",
+      "slug": "embeddables",
+      "website": "https://embeddables.com",
+      "description": "We replace form builders like Typeform and custom code as the way you collect information from users using low code tools. For example you\u2019re a health tech startup and want an onboarding flow but don\u2019t want to use Typeform and don\u2019t have engineering bandwidth. You can use Embeddables to build a totally custom concierge flow and embed it in your app. Then make edits and view analytics, without writing code.",
+      "one_liner": "Custom, embeddable user flows for your website or app",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 14,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525143905.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2e7cc961daf91fd34139f65969fe6d1eb62c853.png"
+    },
+    {
+      "id": 1936,
+      "name": "Vimcal",
+      "slug": "vimcal",
+      "website": "http://www.vimcal.com",
+      "description": "",
+      "one_liner": "The world's fastest calendar, beautifully designed for remote teams.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "SaaS",
+        "Productivity",
+        "Scheduling",
+        "Calendar"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525143899.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b12cac9857ae502090bf009e94dffb302617cdf0.png"
+    },
+    {
+      "id": 1935,
+      "name": "Meru Health",
+      "slug": "meru-health",
+      "website": "http://www.meruhealth.com",
+      "description": "Meru Health is an online provider for greater mental health with remote clinicians (licensed therapists & psychiatrists), a smartphone-based treatment program, a biofeedback wearable and an anonymous peer-support group. Meru Health is committed to evidence-based care and has published groundbreaking clinical outcomes in several peer-reviewed medical journals with Harvard & UC Davis. Meru Health has offices in San Mateo CA, Denver CO and Helsinki, Finland.",
+      "one_liner": "An online provider for greater mental health",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 55,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "Finland",
+        "America / Canada",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Mateo, CA, USA; Helsinki, Finland",
+      "tags": [
+        "Mental Health Tech",
+        "Digital Health",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525140296.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff0e4ec05f88c63eda462c8b5d235f5b4a5e19c0.png"
+    },
+    {
+      "id": 1934,
+      "name": "Paladin",
+      "slug": "paladin",
+      "website": "http://paladindrones.io",
+      "description": "When a 911 call is received, our drone is autonomously dispatched from a fire station and flies to the scene. It streams a live video feed back to the first responders, providing them with key situational details, such as the size and exact location of a fire. ",
+      "one_liner": "We deploy autonomous drones to 911 calls. Our software gives first\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 12,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Drones",
+      "industries": [
+        "Industrials",
+        "Drones"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Houston, TX, USA",
+      "tags": [
+        "SaaS",
+        "Drones",
+        "GovTech"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525133083.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d5942ba09555d929f556c3c20d281485efbde5d.png"
+    },
+    {
+      "id": 1933,
+      "name": "Clear Gene",
+      "slug": "clear-gene",
+      "website": "https://cleargene.com",
+      "description": "",
+      "one_liner": "Our tests help eradicate cancer by telling doctors whether they got\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Carlos, CA, USA",
+      "tags": [
+        "Healthcare",
+        "Diagnostics",
+        "Women's Health",
+        "Oncology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1616188654.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3988b74387b722e9f7364d78e224dbb7a5e2f7.png"
+    },
+    {
+      "id": 1931,
+      "name": "Hepatx",
+      "slug": "hepatx",
+      "website": "http://www.hepatx.com",
+      "description": "Our vision is to provide regenerative medicine treatments that free patients from chronic liver disease and help usher in an era where diseased and damaged tissues can be repaired.",
+      "one_liner": "Replacing organ transplant with an infusion",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524801868.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de67131e3a59da3affe582ccd6f671eb18fb38f2.png"
+    },
+    {
+      "id": 1930,
+      "name": "The Good Food Institute",
+      "slug": "the-good-food-institute",
+      "website": "http://www.gfi.org",
+      "description": "The Good Food Institute is a nonprofit working internationally to accelerate alternative protein innovation.\r\n\r\nGlobally, meat consumption is the highest it\u2019s ever been. According to the UN, global meat production is projected to double by 2050.\r\n\r\nWith plant-based meat, cultivated meat, and fermentation, we can mitigate the environmental impact of our food system, decrease the risk of zoonotic disease, and ultimately feed more people with fewer resources. \r\n\r\nBy making meat from plants and cultivating meat from cells, we can modernize meat production. ",
+      "one_liner": "Building a world where alternative proteins are no longer alternative.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 110,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Washington, DC, USA",
+      "tags": [
+        "Climate",
+        "Plant-based Meat",
+        "Cultivated Meat"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": true,
+      "is_top_company": false,
+      "launched_at": 1524765800.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/329aa63027b5be79e5fb530982ddedf229ee326b.png"
+    },
+    {
+      "id": 1929,
+      "name": "Rebellyous Foods",
+      "slug": "rebellyous-foods",
+      "website": "https://rebellyous.com/",
+      "description": "Rebellyous Foods is a food manufacturing technology and production company defined solely to catapult meat alternative production toward price parity with animal-based meat.  Rebellyous implements novel food manufacturing equipment and processes in large-scale production to produce low-cost plant-based meat at high volumes.  These goals are achieved through uniquely designed food products, the use of high-throughput manufacturing automation and \u2018smart\u2019 production centers, and the development and utilization of new innovative low-energy manufacturing tools.  Working closely with industry partners, Rebellyous makes plant-based meat sustainable, affordable, and widely available.",
+      "one_liner": "Rebellyous Foods is a food manufacturing technology and production\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 12,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "Climate",
+        "Plant-based Meat"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524722586.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa274e976e92095b797b9e82efa82ff1863ea237.png"
+    },
+    {
+      "id": 1927,
+      "name": "AskMyClass",
+      "slug": "askmyclass",
+      "website": "https://goaskmyclass.com/",
+      "description": "AskMyClass, is a learning assistant that helps teachers save time and enhance learning, using smart speakers like Alexa, and help students get back-on-task quickly and build life skills through classroom management, social-emotional learning, and lesson support.",
+      "one_liner": "Audio learning assistant for teachers and students.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Menlo Park, CA, USA; Remote",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715384.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2177907760d08fb491a5c3607a0b5577d2629c98.png"
+    },
+    {
+      "id": 1924,
+      "name": "OpenPhone",
+      "slug": "openphone",
+      "website": "https://www.openphone.com",
+      "description": "OpenPhone is the modern business phone system. It comes with powerful calling, messaging, and a lightweight CRM. Works great for individuals and teams. It allows you to share a phone number with teammates, like an inbox. Available on Mac, Windows, Web, iOS, and Android.",
+      "one_liner": "The all-in-one business phone for teams.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 125,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715378.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7dc4fb1b8f55d66550d133ea97ffe7730d22ff4.png"
+    },
+    {
+      "id": 1923,
+      "name": "College Pulse",
+      "slug": "college-pulse",
+      "website": "https://collegepulse.com/",
+      "description": "College Pulse is the leading research and analytics company focused on college students. We have built the largest database of college student opinion with over 700K student panelists from 1500 universities in all 50 states, and we use our student panel to help our clients better understand the college demographic. Our ambition is to become a unique part of the global internet infrastructure - like Google for search, Facebook for social, Amazon for retail, we want it to be Pulse for public opinion.",
+      "one_liner": "Research and analytics company focused on college students.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Education",
+        "Analytics"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715377.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1196f6ffc28bd113ad56362e8ea7a54f092556f4.png"
+    },
+    {
+      "id": 1922,
+      "name": "Apprentice Health",
+      "slug": "apprentice-health",
+      "website": "https://www.apprenticehealth.com",
+      "description": "We deploy location beacons to track the movements of patients and doctors, measure the inefficiencies in the doctors\u2019 workflows, and then give the hospitals targeted recommendations on how to improve.",
+      "one_liner": "We deploy sensors and software that increase hospital efficiency.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Boston, MA, USA",
+      "tags": [
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715375.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bac8275fdcfe971bb93e76e851a743444aaf613.png"
+    },
+    {
+      "id": 1918,
+      "name": "JITX",
+      "slug": "jitx",
+      "website": "http://www.jitx.com",
+      "description": "",
+      "one_liner": "Automatic circuit board design.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 18,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Berkeley, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1663689383.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1917,
+      "name": "Inscribe",
+      "slug": "inscribe",
+      "website": "https://www.inscribe.ai/",
+      "description": "Inscribe\u2019s award-winning Risk Intelligence technology is the most effective way for fintechs and banks to automate manual reviews. Inscribe can reduce fraud losses and operational costs while increasing the accuracy and efficiency of risk decisions. Founded in 2017, Inscribe is trusted by leading fintechs like TripActions, Plaid, Bluevine, and Ramp. Inscribe is backed by Threshold Ventures, Uncork Capital, Y Combinator, Crosslink Capital, and Foundry, and is headquartered in San Francisco, CA. Learn more at inscribe.ai.",
+      "one_liner": "Risk Ops Automation",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 47,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Fraud Detection"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524711773.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c333bc20547915ff3daa523d6f51721837974bc.png"
+    },
+    {
+      "id": 1916,
+      "name": "Data Driven Bioscience",
+      "slug": "data-driven-bioscience",
+      "website": "http://datadrivenbioscience.com",
+      "description": "",
+      "one_liner": "Cancer Diagnosis 10X faster, 10X cheaper",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Durham, NC, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Biotech",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524711770.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1914,
+      "name": "Titan",
+      "slug": "titan",
+      "website": "http://www.titan.com",
+      "description": "We're a modern wealth manager. There are many solutions out there for how one can invest by themselves (e.g., DIY brokerages like Robinhood). But for those who want to have their money managed, they must turn to high fee, high minimum advisors (e.g., RIAs like Edward Jones). With LLMs, we can now offer personalized wealth management to many more people, more cheaply and with faster service. Our goal is to grow their wealth more than they'd do on their own.",
+      "one_liner": "We manage people's wealth",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 50,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Asset Management",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Fintech",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524711767.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19f24c2787f58320fe1255e16516516512e17575.png"
+    },
+    {
+      "id": 1910,
+      "name": "Activeloop",
+      "slug": "activeloop",
+      "website": "https://activeloop.ai/",
+      "description": "We provide a simple API for creating, storing, versioning, and collaborating on multi-modal AI datasets of any size. With Activeloop's open-core stack, you can rapidly transform and stream data while training models at scale. Deep Lake powers foundational model training by acting as a vector database with significant benefits, such as (1) the ability to use multi-modal datasets to fine-tune your own LLM models, (2) storing both the embeddings and the original data with automatic version control, so no embedding re-computation is needed (3) truly serverless service with no vendor lock-in. How cool is that?\r\n\r\nGitHub loves us - we're one of the fastest-growing libraries there, and we're used by little-known companies like Google, Waymo, and Intel. No big deal. \r\n\r\nOur founding team hails from places like Princeton, Stanford, Google, and Tesla, and we're backed by Y Combinator & other Silicon Valley heavyweights. \r\n\r\nActiveloop is hiring, and we want you! Check out our open roles on our YC page and join the fun.\r\n\r\n10-min demo: https://activeloop.wistia.com/medias/aibvo0dst2\r\nWhitepaper: https://www.deeplake.ai/whitepaper",
+      "one_liner": "Database for AI",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [
+        "Computational Storage",
+        "Deep Learning",
+        "Generative AI",
+        "Computer Vision",
+        "Open Source"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524690140.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c516ed5054847ecb1afb63f795f712b8d5c7f23d.png"
+    },
+    {
+      "id": 1908,
+      "name": "OpenWrench",
+      "slug": "openwrench",
+      "website": "https://www.useopenwrench.com",
+      "description": "We helps retail and restaurant chains big and small deliver great customer experiences, putting money back in their budget and time back in their day.",
+      "one_liner": "We help retailers and restaurant chains manage repairs and\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Enterprise"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524629147.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f836a5277913ddee3992bbdddad781155bb8eaf.png"
+    },
+    {
+      "id": 1907,
+      "name": "RevenueCat",
+      "slug": "revenuecat",
+      "website": "https://www.revenuecat.com/",
+      "description": "RevenueCat is a mobile SDK and API for managing in-app subscriptions\r\n\r\nWe take the sting out of supporting the complicated subscription systems of the App Store and Google Play Store, and help you focus on running your business. ",
+      "one_liner": "A simple API for managing in-app subscriptions",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 70,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "Subscriptions"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524629145.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8dc20fcc951e007754d6896f9f4c42ee9502a51.png"
+    },
+    {
+      "id": 1903,
+      "name": "Federacy",
+      "slug": "federacy",
+      "website": "http://www.federacy.com",
+      "description": "Penetration testing and bug bounty platform.",
+      "one_liner": "Penetration testing and bug bounty platform.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524625566.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/92f7e4043272afb2d32ff9d60730c4894c817ea3.png"
+    },
+    {
+      "id": 1901,
+      "name": "Verse Medical",
+      "slug": "jetlenses",
+      "website": "http://versemedical.com/",
+      "description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
+      "one_liner": "Software platform for in-home healthcare",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 95,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Consumer Health Services",
+        "Medical Devices"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524625564.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png"
+    },
+    {
+      "id": 1899,
+      "name": "Dinesafe",
+      "slug": "dinesafe",
+      "website": "https://dinesafe.org",
+      "description": "We provides tools, data and systems to facilitate real-time insights, decluttering outbreak detection and enhancing risk mitigation. Our surveillance is used by industry, public heath and consumers globally.",
+      "one_liner": "We crowdsource food safety reports & detect and prevent outbreaks.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Crowdsourcing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524621949.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5cbc1f0864200da751ce15f6aa12b4753bba138.png"
+    },
+    {
+      "id": 1893,
+      "name": "Modern Treasury",
+      "slug": "modern-treasury",
+      "website": "http://www.moderntreasury.com/",
+      "description": "Modern Treasury offers tools that automate the full cycle of money movement\u2014from payment initiation, through approvals, to reconciliation\u2014and are accessible through web application or API.",
+      "one_liner": "Payment operations tools for money movement.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 160,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524539157.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a530f58c560c991cc2b9487c24cfa90465e961d6.png"
+    },
+    {
+      "id": 1892,
+      "name": "C16 Biosciences",
+      "slug": "c16-biosciences",
+      "website": "https://www.c16bio.com/",
+      "description": "C16 Biosciences is decarbonizing consumer products supply chains by producing next-generation ingredients. The company's biomanufacturing platform produces better performing, more sustainable alternatives to oils and fats, and their first product is an alternative to palm oil. The company owns and operates Palmless\u2122 alternative fats and oils.",
+      "one_liner": "Next-gen ingredients to decarbonize consumer products, starting w/\u2026",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 35,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Biotech",
+        "Sustainability",
+        "Climate"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524539156.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c1ec14e5944503b574c2783312bcb19bad730fc.png"
+    },
+    {
+      "id": 1891,
+      "name": "Klarity",
+      "slug": "klarity",
+      "website": "http://klarity.ai",
+      "description": "Klarity is Enterprise AI that automates accounting and compliance processes for companies like DoorDash, CrowdStrike and Zoom. \r\n\r\nKlarity has two core capabilities: (1) understand documents like Orders, Invoices and Contracts to the same degree as a human, and (2) automate the following process - identifying outliers, matching, calculations and validations. Klarity reduces OpEx, delivers real-time turnaround and boosts accuracy. ",
+      "one_liner": "Enterprise AI that automates accounting and compliance processes",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 128,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "SaaS"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524539154.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d13acee4c0523585219ccc0ab42e8d16cbd5a287.png"
+    },
+    {
+      "id": 1889,
+      "name": "OWNY",
+      "slug": "owny",
+      "website": "https://www.owny.com",
+      "description": "Owny provides businesses with a turn-key portal to issue Funds, SAFEs and Notes. Your portal is fully equipped to manage investors, treasury, multi-currency accounts and ability to send and request ACH/Wire payments globally. Optional features include seamless crypto custody and solutions through Coinbase Institutional.",
+      "one_liner": "Manage capital, investors & banking in one place.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Banking as a Service",
+        "Fintech",
+        "Crypto / Web3",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524539152.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b73cfea31b6ff0a32c8d2664edc429dc8262268.png"
+    },
+    {
+      "id": 1884,
+      "name": "Curebase",
+      "slug": "curebase",
+      "website": "http://www.curebase.com",
+      "description": "Curebase is reinventing decentralized clinical trials to help the vast majority of potential patients that currently cannot access clinical research. Curebase\u2019s vision is that any patient, no matter where they are located, should be able to participate in clinical trials at home and with their own doctors. This is made possible through a unique suite of tools, including all-in-one eClinical software and virtual research sites, designed to engage patients in clinical trials across all settings, be it at home, at their local clinic, or other places in their community.",
+      "one_liner": "End-to-end clinical trial execution built on cutting-edge software.",
+      "batch": "S18",
+      "status": "Active",
+      "team_size": 118,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524535493.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9070d2918d98b995f163db656f1d59d390583b53.png"
+    },
+    {
+      "id": 2013,
+      "name": "Grin",
+      "slug": "grin",
+      "website": "http://www.ongrin.com",
+      "description": "A micromobility and payments company focused in Latin America with operations in Brazil, Mexico, Colombia, Chile, Uruguay, Argentina  and Peru",
+      "one_liner": "Mobility and payments platform for Latin America",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 300,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Transportation Services",
+      "industries": [
+        "Consumer",
+        "Transportation Services"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America"
+      ],
+      "locations": "Mexico City, CDMX, Mexico",
+      "tags": [
+        "Payments",
+        "Latin America",
+        "Mobility"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526439891.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/545aa7905bce45b76122eec22fc8ce59bb9e0398.png"
+    },
+    {
+      "id": 2002,
+      "name": "Nova",
+      "slug": "nova-2",
+      "website": "https://novahq.com",
+      "description": "Nova centralizes digital subscriptions, data room, and ongoing investor communication in a single investor management platform for private funds.",
+      "one_liner": "Digital subscriptions that delight investors.",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 12,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Dallas, TX, USA; San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525838958.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0364689423de527320c7ab191c89691067d7e91.png"
+    },
+    {
+      "id": 1981,
+      "name": "Coral Genomics",
+      "slug": "coral-genomics",
+      "website": "https://www.coralgenomics.com",
+      "description": "Coral integrates molecular, functional, and clinical factors to create new clinical laboratory tests that predict optimal treatments for autoimmune diseases.\r\n\r\nWe have also identified a unique subpopulation of patients who do not respond to current therapies and are working towards addressing this unmet medical need.",
+      "one_liner": "New clinical tests for managing autoimmune treatments.",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Genomics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1619016800.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cfcb3e53947ed36f22a2c26c110aeb2434b48f.png"
+    },
+    {
+      "id": 1976,
+      "name": "HeyDoctor",
+      "slug": "heydoctor",
+      "website": "https://heydoctor.com",
+      "description": "Waiting rooms suck. Insurance and the paperwork are worse. We are a team of doctors, developers, lawyers, designers, and more working to try to fix it. Using our app, and soon the website, you can access medical care online right now and be done in 5 minutes. No insurance, video, or phone calls necessary and most visits are under $20. You can chat with your doctor anytime and anywhere.\r\n\r\nOur services are currently available in Arizona, California, Connecticut, Florida, Georgia, Illinois, Montana, New York, Ohio, Pennsylvania, Rhode Island, Virginia and Washington, but don't worry the rest of the country coming soon. Here are the medical services we offer so far:\r\n\r\n-   Acne Diagnosis, Treatment, and Prevention\r\n-   High Cholesterol (Lipid) Testing and Treatment\r\n-   Start or Refill Birth Control\r\n-   Urinary Tract Infection (UTI) Testing and Treatment\r\n-   Vitamin D Screening and Treatment\r\n-   Pre-Diabetes Screening and Referral\r\n-   Hepatitis C Screening and Referral\r\n-   Female Condom Prescription\r\n-   Help Quitting Smoking\r\n-   Find Out Your Blood Type\r\n\r\nWe are adding new services every week, so if you don't see what you need let us know. We want HeyDoctor and our partner health systems to be your first stop for healthcare and be your personal medical record.",
+      "one_liner": "HeyDoctor provides online primary care (like refilling birth control,\u2026",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 50,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Telehealth",
+        "Digital Health",
+        "Primary Care"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525316916.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c51a4292c8ee46fff30d7035682e6a1c5761f58d.png"
+    },
+    {
+      "id": 1975,
+      "name": "hypcloud",
+      "slug": "hypcloud",
+      "website": "http://www.hypcloud.com",
+      "description": "",
+      "one_liner": "A tech-enabled commercial mortgage broker. hypcloud allows property\u2026",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 14,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "Germany",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Berlin, Berlin, Germany",
+      "tags": [
+        "Fintech",
+        "Real Estate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525316914.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/11c37762266e19ae06d56d6acbb5644eb70a26fb.png"
+    },
+    {
+      "id": 1955,
+      "name": "CSPA",
+      "slug": "cspa",
+      "website": "https://cspa.io",
+      "description": "The Computer Science Proficiency Assessment (CSPA\u2122) is a comprehensive standardized exam for software engineers. The CSPA assesses your technical knowledge, skills, and abilities across a broad array of topics.  We write the CSPA exam questions, software engineers take the test, and we share the results with employers and schools.\r\n\r\nMARKETING & SALES:\r\nWe actively find software engineers to take our test, whether direct or through partnerships.  On the other side, we actively partner with employers looking to hire.\r\n\r\nPRODUCT:\r\nWe build the exam content manage system, a proctoring framework, and autograding system, as well as a SaaS employer product to browse the candidate database.\r\n",
+      "one_liner": "The Computer Science Proficiency Assessment (CSPA\u2122) is a\u2026",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Education",
+        "Recruiting"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525230398.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df269d054283def1701cadd70dbd3e84f8ffa32f.png"
+    },
+    {
+      "id": 1951,
+      "name": "Berbix",
+      "slug": "berbix",
+      "website": "https://www.berbix.com",
+      "description": "Berbix\u2019s mission is to enable all individuals to prove who they are and control how their information gets shared. Founded by the former engineering and product leaders for Trust & Safety at Airbnb, we empower companies to confidently answer the question: \u201cAre you who you say you are?\"\u200b \r\n\r\nThis is a question many online platforms need to answer about their users. We solve that problem by offering best-in-class ID verification and proprietary fraud detection technology to our customers, which they can access through developer friendly SDKs. We serve customers in a broad variety of industries, recently raised our Series A led by Mayfield, and are actively growing our all-star team.\r\n",
+      "one_liner": "Convert more verified users. Instantly & accurately validate user IDs.",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 39,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Identity"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525226778.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/338d0bd017de21261fbe5bf2009d4e4e4a4b1ff3.png"
+    },
+    {
+      "id": 1949,
+      "name": "Scanwell Health",
+      "slug": "scanwell-health",
+      "website": "https://www.scanwellhealth.com",
+      "description": "Scanwell Health makes healthcare more accessible through smartphone-enabled, at-home diagnostics. Scanwell's innovative approach lets people test from anywhere, skip the waiting room and get same-day results. By quickly diagnosing acute illnesses, chronic diseases and rare conditions, Scanwell accelerates the path to treatment. Our first product is the only FDA-cleared over-the-counter app that provides testing and treatment for urinary tract infections (UTIs).",
+      "one_liner": "Smartphone-enabled, at-home diagnostics",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 13,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Los Angeles, CA, USA; Remote",
+      "tags": [
+        "Health Tech",
+        "Diagnostics"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525226775.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c239150be35c09cf1a917f12c84d7db6f28a85a6.png"
+    },
+    {
+      "id": 1947,
+      "name": "OneGraph",
+      "slug": "onegraph",
+      "website": "https://www.onegraph.com/",
+      "description": "Connect Twitter, GitHub, Stripe, Salesforce, and more through the power of GraphQL. Acquired by Netlify in Q4 2021.",
+      "one_liner": "GraphQL API to connect all of the internet's APIs. Join us at Netlify!",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "API",
+        "GraphQL"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525205152.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c737e9605e8441d79e97c3ae6c5b221915e552c9.png"
+    },
+    {
+      "id": 1925,
+      "name": "Optic",
+      "slug": "optic",
+      "website": "http://useoptic.com/",
+      "description": "We help developers collaborate at scale and build better APIs. Optic\u2019s open source tools makes it easy for developers to document API changes, review each other\u2019s API changes during code review, and catch breaking changes before they reach production. \r\n\r\n**tl;dr** It\u2019s version control but for behavior not code. We are taking the really successful ideas from Git / Code Review / CI  and applying them to API descriptions and (future) other non-code artifacts. \r\n\r\nEngineers at [Snyk](https://snyk.io/) use Optic daily to make the new Snyk API great. Read their engineering blog: [Snyk's shift left approach to API development | Snyk](https://snyk.io/blog/snyk-api-development-shift-left/)",
+      "one_liner": "Making APIs Developer-friendly ",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715380.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13e79085ad4efb3abef387683d79f4d78e55bb43.png"
+    },
+    {
+      "id": 1909,
+      "name": "Demeanor.co",
+      "slug": "demeanor-co",
+      "website": "https://www.demeanor.co",
+      "description": "",
+      "one_liner": "Now part of thentwrk.com",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Media",
+        "Advertising"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524629148.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/69a52a6127670bd5b12777ee62f92927bd18f31c.png"
+    },
+    {
+      "id": 1902,
+      "name": "Lowkey",
+      "slug": "lowkey",
+      "website": "https://lowkey.gg",
+      "description": "Lowkey was acquired on 11/30/2021 :)",
+      "one_liner": "Capture, create, & share gaming moments (Acquired by Niantic!)",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 10,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Gaming",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524625564.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f83cc7033e3c711891eb500aeff6dc699be4a9f.png"
+    },
+    {
+      "id": 1888,
+      "name": "Phiar",
+      "slug": "phiar",
+      "website": "https://www.phiar.net",
+      "description": "At Phiar, we are building the first AI-powered AR navigation driving software solution that runs on a smartphone and in-vehicle displays, utilizing our ultra-lightweight road understanding AI that runs completely at-the-edge, in real-time, all on just a smartphone-level compute.\r\n\r\nOur mission is to enhance driving safety, facilitate more intuitive wayfinding, and connect drivers with their surrounding environments.",
+      "one_liner": "We are developing a revolutionary AI-powered augmented reality\u2026",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 12,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Automotive",
+      "industries": [
+        "Industrials",
+        "Automotive"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Redwood City, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Augmented Reality"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524539151.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb16323014c9e8250a467c58cc43f377d1919cf9.png"
+    },
+    {
+      "id": 1883,
+      "name": "Allotrope Medical",
+      "slug": "allotrope-medical",
+      "website": "http://www.allotropemed.com",
+      "description": "Allotrope Medical is a Houston-based medical device company founded and run by the surgeon that created the technology.\r\n\r\nOur platform stimulation technology gives physicians control over the natural movements of the urinary and digestive systems. This control over smooth muscle tissues allows the surgeon to identify hidden anatomic structures (ureters, sphincters and others), determine tissue health, and even assist in diagnosing disease states. The technology is delivered through the surgeon's existing instruments (which have remained unchanged in over 30 years) giving a completely new capability to the surgeon while maintaining seamless workflow integration.\r\n\r\nWith an $600M (and growing)  initial market, the technology is future-proof and is readily able to be integrated into the continued advancements in the surgical space.",
+      "one_liner": "Advancing surgical precision through safe electrical stimulation. ",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Medical Devices",
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Houston, TX, USA",
+      "tags": [
+        "Hardware",
+        "Robotic Surgery",
+        "Medical Devices"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524535492.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 2031,
+      "name": "Gerostate Alpha",
+      "slug": "gerostate-alpha",
+      "website": "http://www.gerostatealpha.com",
+      "description": "",
+      "one_liner": "Developing novel therapeutics for aging and chronic disease",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 6,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Novato, CA, USA",
+      "tags": [
+        "Biotech",
+        "Therapeutics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527980791.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 2021,
+      "name": "Perception Biosystems",
+      "slug": "perception-biosystems",
+      "website": "https://www.perception.bio",
+      "description": "Perception Biosystems is democratizing gene therapy through lab automation. Our mission is to accelerate the clinical translation of gene therapy by reinventing its manufacturing and development processes.\r\n\r\nWe're building a robotic lab in the SF Bay Area to translate the large facilities, labor, and regulatory requirements of current gene therapy factories into automated flexible manufacturing systems and code. This enables us to produce gene therapies for use in human clinical trials an order of magnitude faster and cheaper than the current solution \u2013 opening up thousands of rare disease targets otherwise thought too rare to pursue.",
+      "one_liner": "Democratizing gene therapy by reinventing its manufacturing and\u2026",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Gene Therapy",
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1527048485.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6725a216e652408a9448418d0067920052e512a2.png"
+    },
+    {
+      "id": 2016,
+      "name": "dNovo",
+      "slug": "dnovo",
+      "website": "http://dnovobio.com/",
+      "description": "At dNovo, we are curing hair loss by creating new hair, de novo. We are doing this with cellular reprogramming technology that we pioneered at Stanford and Harvard. With this technology, we can take any patient derived cell, whether it be blood, skin or fat and reprogram (convert) them into medically relevant cell types. Our first objective is to cure hair loss by using our reprogramming technology to make new hair (patent pending).  This is different from everything currently available on the market because the hair loss industry is focused on maintaining the hair that you already have, but no one is trying to produce NEW hair, de novo.  After hair, we envision using our cellular reprogramming technique to make any cell, any tissue or any organ on demand to replace what is lost as we age.",
+      "one_liner": "The cure for hair loss.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Jose, CA, USA",
+      "tags": [
+        "Anti-Aging"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1635867695.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/22ea7b2ff1e1af9ded028f1c3a9d1ad91f17021f.png"
+    },
+    {
+      "id": 2009,
+      "name": "Kobo360",
+      "slug": "kobo360",
+      "website": "http://www.kobo360.com",
+      "description": "KOBO360 is powering African Enterprise through technology. The company was founded in 2018 to solve the inefficiencies in Africa\u2019s supply chain, by creating a platform that connects manufacturers and cargo owners with truck operators, to move their goods seamlessly across the continent.\r\n\r\nKOBO's key focus is to accelerate economic development and sustainable growth in Africa through a streamlined delivery process of raw materials from ports to the manufacturer, and finished goods from the manufacturer to the last-mile customer.\r\n\r\nThe company uses data analytics and artificial intelligence to reduce inefficiencies in last-mile delivery, provide transparency and visibility, reduce communication gaps within the entire ecosystem, optimize pick-ups and deliveries, and improve routes in real-time. Our predictive analysis also gives businesses valuable insights and enables them to make informed decisions, thereby enhancing productivity and improving customer experience.\r\n\r\nWe have a physical presence in 7 African countries; Nigeria, Benin, Ghana, Uganda, Kenya, C\u00f4te d'Ivoire, Burkina Faso.",
+      "one_liner": "Africa's leading supply chain technology platform. ",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 204,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "Nigeria",
+        "Uganda",
+        "Africa",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Lagos, LA, Nigeria; Kampala, Central Region, Uganda",
+      "tags": [
+        "Logistics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526436267.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3747c5c49f2601da338131da70e02c5d928efb09.png"
+    },
+    {
+      "id": 2008,
+      "name": "Goodly",
+      "slug": "goodly",
+      "website": "https://www.goodlyapp.com/",
+      "description": "",
+      "one_liner": "Student loan repayment as an employee benefit. ",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1526436266.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/473e5b973df006090e0a1b0fc932822a4b62f97f.png"
+    },
+    {
+      "id": 1973,
+      "name": "FameGame",
+      "slug": "famegame",
+      "website": "https://itunes.apple.com/us/app/famegame-become-a-star/id1343049421?mt=8",
+      "description": "",
+      "one_liner": "Live and interactive TV shows for mobile - starting with American\u2026",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Entertainment",
+        "Live"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525316910.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1972,
+      "name": "BHRD",
+      "slug": "bhrd",
+      "website": "http://bhrdglobal.com",
+      "description": "",
+      "one_liner": "BHRD (\"Be Heard\") helps public companies communicate with investors.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "Investing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525316908.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3037e37dd5abf61bfbcf9696b903b8d97809c9.png"
+    },
+    {
+      "id": 1958,
+      "name": "Purple Plate",
+      "slug": "purple-plate",
+      "website": "http://www.purpleplate.co",
+      "description": "We're a food delivery logistics and culinary company that empowers restaurants to tap into the explosive world of food delivery.\r\n\r\nWe build delivery-native, multi-restaurant virtual kitchens that allow our restaurant partners to expand their delivery footprint to reach new customers. Our fully staffed kitchens handle cooking, delivery, and fulfillment on behalf of restaurant partners so they can focus on what they do best.",
+      "one_liner": "We license brands for delivery and pick-up",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 45,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Ghost Kitchens",
+        "Delivery"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525233972.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f12f3d76ab6eaa96c5129b2fcfeca62980b539df.png"
+    },
+    {
+      "id": 1952,
+      "name": "The Buttermilk Company",
+      "slug": "the-buttermilk-company",
+      "website": "http://www.thebuttermilkco.com",
+      "description": "The Buttermilk Company is a direct-to-consumer business focused on bringing authentic and simple recipes from different cuisines to an American audience. We curate recipes from the local community and create packets filled with real, fresh ingredients and no preservatives. You can make a homemade meal in 5 minutes! We also give back a portion of our sales to the people who gave us the recipes.",
+      "one_liner": "Instant, fresh ethnic food that actually taste homemade. We're\u2026",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "Consumer",
+        "Food & Beverage"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525230393.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1948,
+      "name": "Avo",
+      "slug": "avo-2",
+      "website": "https://www.avonow.com/",
+      "description": "Avo is powering the future of \"building commerce\". We have found a way to embed consumer goods and services in the largest physical point of sale in the world - residential and office buildings. By offering a virtual marketplace solution for residential and commercial buildings as a world class amenity, Avo has unlocked a new channel to deliver everything from groceries to cleaning services to millions of people, while avoiding costly CAC and last mile delivery fees. By consolidating deliveries and services and leveraging the building operators to acquire their tenants as customers, Avo has driven exponential revenue growth in large cities across the US. We are backed by Y Combinator, Kleiner Perkins, Insight Partners, JLL Spark, Box Group and strong angel investors who backed Facebook, WeWork & Uber at an early stage. We currently operate in New York, Chicago, Houston, and Israel. Our rapidly expanding customer list includes Facebook, Apple, Microsoft, Dropbox, MongoDB, Calendly, Cushman&Wakefield, Extell, Related, LeFrak, and 1000+ more locations.",
+      "one_liner": "Online convenience store for residential and office buildings",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 10,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "Israel",
+        "Middle East and North Africa"
+      ],
+      "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "tags": [
+        "Grocery",
+        "E-commerce"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1660955196.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee0807cb6febcaa2c22dd16ba6bbaee02ad4e89.png"
+    },
+    {
+      "id": 1945,
+      "name": "LabelFlow",
+      "slug": "labelflow",
+      "website": "https://labelflow.ai/",
+      "description": "At LabelFlow, we build GitHub for visual data. Our mission is to facilitate and accelerate the development of AI at scale thanks to top-notch labeling tools and a dataset marketplace.",
+      "one_liner": "GitHub for visual data",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "France",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Nantes, Pays de la Loire, France; Remote",
+      "tags": [
+        "Computer Vision",
+        "Data Engineering",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525147499.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/799423cdb14bc1fbe4eb1d647eedf74d0a22e8c7.png"
+    },
+    {
+      "id": 1943,
+      "name": "Ixora",
+      "slug": "ixora",
+      "website": "http://www.ixora.org",
+      "description": "",
+      "one_liner": "We create the digital outdoor environment for a movie. ",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Virtual and Augmented Reality",
+      "industries": [
+        "Consumer",
+        "Virtual and Augmented Reality"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Entertainment",
+        "Media"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525147496.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1937,
+      "name": "Grabb-It",
+      "slug": "grabb-it",
+      "website": "https://grabb-it.io",
+      "description": "Social network, email aggregator",
+      "one_liner": "Grabb-It is a location based Dynamic Digital - OOH advertising\u2026",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Milpitas, CA, USA",
+      "tags": [
+        "Advertising",
+        "Location-based"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525143903.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1932,
+      "name": "Radix Labs",
+      "slug": "radix-labs",
+      "website": "http://radix.bio",
+      "description": "",
+      "one_liner": "Operating systems for biology labs",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Cambridge, MA, USA",
+      "tags": [
+        "IoT",
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524873814.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cac41291118dec8729ffc4b179a57d24f1c93ac.png"
+    },
+    {
+      "id": 1928,
+      "name": "Spero Foods",
+      "slug": "spero-foods",
+      "website": "https://www.sperofoods.co/",
+      "description": "Spero is affordable, clean, sustainable plant-based dairy.\r\n\r\nWith 21 global patent apps and novel process engineering for high throughput low cost plant dairy, Spero recreates staple foods you love, in ways that are good for you and the planet.",
+      "one_liner": "dairy reinvented from plants",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": null,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Oakland, CA, USA",
+      "tags": [
+        "Consumer",
+        "Climate",
+        "Food",
+        "Food Tech"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524718984.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/00f6e952bebbc75feba7484f32ab6f1010fc2c30.png"
+    },
+    {
+      "id": 1926,
+      "name": "Medinas Health",
+      "slug": "medinas-health",
+      "website": "https://www.medinas.com/",
+      "description": "We're a cloud-based asset management and remarketing platform for hospitals.",
+      "one_liner": "Medinas helps hospitals manage their inventory and buy and sell their\u2026",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 15,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Medical Devices",
+        "Healthcare",
+        "Supply Chain"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715382.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/08678e1bf47fc014ad5d6837aa4efa17273ae185.png"
+    },
+    {
+      "id": 1921,
+      "name": "INKHUNTER",
+      "slug": "inkhunter",
+      "website": "http://inkhunter.tattoo/",
+      "description": "",
+      "one_liner": "Augmented Reality mobile app to try and buy tattoos",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Virtual and Augmented Reality",
+      "industries": [
+        "Consumer",
+        "Virtual and Augmented Reality"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketplace",
+        "Augmented Reality"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715372.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c2f36a6fd0576c92cc4fe559b63417f375a86a1.png"
+    },
+    {
+      "id": 1920,
+      "name": "Mylk Guys",
+      "slug": "mylk-guys",
+      "website": "http://www.mylkguys.com/",
+      "description": "We are a national vegan specialty store. Starting with food, we are expanding to other categories like beauty, healthcare, home goods etc. \r\nWe use data to predict which products will succeed (and launch them exclusively) ",
+      "one_liner": "Amazon for Vegans",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 6,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "E-Commerce",
+        "Food & Beverage"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524715369.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba5aba95e2650735ce66141f5a8e408c53f4f7c3.png"
+    },
+    {
+      "id": 1915,
+      "name": "ShopWith",
+      "slug": "shopwith",
+      "website": "https://www.shopwith.co",
+      "description": "",
+      "one_liner": "ShopWith is mobile QVC for GenZ.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "E-Commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524711770.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a4ac65ed8679eb439b78227f5f9470cee178bdc.png"
+    },
+    {
+      "id": 1912,
+      "name": "Inokyo",
+      "slug": "inokyo",
+      "website": "https://www.inokyo.com",
+      "description": "",
+      "one_liner": "We bring physical stores to the digital age with cashierless checkout.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Cashierless Checkout",
+        "Retail Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524708162.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc7d9010a87027e6273b47d80643278ca2e03619.png"
+    },
+    {
+      "id": 1911,
+      "name": "Contrast",
+      "slug": "contrast",
+      "website": "https://mismatch.app/",
+      "description": "It's a better way to build frontend. It connects your Stories, Tokens, & Figma components. It lets you inspect designs with confidence and speed. And you can use it in Storybook.",
+      "one_liner": "Developer Handoff - Reimagined for Storybook",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Developer Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524708159.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/508f1978cc2dc172474c547c73cf0b9d8fd91bb0.png"
+    },
+    {
+      "id": 1905,
+      "name": "Xkit",
+      "slug": "xkit",
+      "website": "https://xkit.co",
+      "description": "Xkit helps B2B SaaS app developers to deliver deep integrations to all of their customers' CRMs with a single build. From allowing your users to interact with your app from inside the CRM to interacting with existing data including custom fields, objects, and workflows, Xkit gives you a standard API that works for every customer's setup, no matter how customized.",
+      "one_liner": "Universal CRM integration for B2B SaaS apps",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "Sales",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524625569.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5984eb88950299a63c1af0ce81d0d5c22f263fe0.png"
+    },
+    {
+      "id": 1904,
+      "name": "FREY",
+      "slug": "frey",
+      "website": "https://frey.com",
+      "description": "FREY is a line premium clothing care products meticulously designed to smell better, treat clothing better, and generally be better: for the user, for others, for the planet. FREY was is revolutionizing a long-standing industry. We are bringing clothing care and household products into the 21st century, breaking down outdated gender stereotypes, bringing fashion into a realm that has not experienced it before, and making a philanthropic impact all the while.\r\n\r\nFREY products use formulations that are safer for the environment, and has created a Wash for Wash program, where for every bottle purchased, the clothing of someone in need, from the homeless to low-income families, is washed, as part of our philanthropy-focused mission.",
+      "one_liner": "FREY is a line of exceptional laundry and clothing care products.\u2026",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Apparel and Cosmetics",
+      "industries": [
+        "Consumer",
+        "Apparel and Cosmetics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "CA, USA",
+      "tags": [
+        "Sustainability",
+        "Consumer Products"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524625567.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eadacbc7552902aff7514591899ed4a238c068b.png"
+    },
+    {
+      "id": 1900,
+      "name": "Satchel",
+      "slug": "satchel",
+      "website": "https://satchel.com/",
+      "description": "",
+      "one_liner": "",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524625562.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/804e5d168311f12d90d32904b63bf345c1856c27.png"
+    },
+    {
+      "id": 1897,
+      "name": "numericcal, inc.",
+      "slug": "numericcal-inc",
+      "website": "http://numericcal.com/",
+      "description": "Turn-key solutions for anomaly detection, asset detection and tracking, and workforce management in automotive and manufacturing operations. We leverage modern Machine Learning to work with unstructured sensory data, like video and audio. By distributing the solution across the edge (on-premises) and multiple clouds (Azure + AWS/GCP) we lower the operating costs by 100x, while processing 1,000x more data than any cloud-based solution and provide better reliability and safety.",
+      "one_liner": "Distributed AI for Industrial Process Monitoring and Optimization.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524621946.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccfbd600952a8de3c7c0c9a881996760a17d89c4.png"
+    },
+    {
+      "id": 1896,
+      "name": "Passenger AI",
+      "slug": "passenger-ai",
+      "website": "http://www.passenger.ai",
+      "description": "Software for robotaxi operations.",
+      "one_liner": "Software for robotaxi operations.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Automotive",
+      "industries": [
+        "Industrials",
+        "Automotive"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "Mobility"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524542730.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1894,
+      "name": "ExceptionALLY",
+      "slug": "exceptionally",
+      "website": "https://growexceptionally.com/",
+      "description": "",
+      "one_liner": "Affordable expertise for special needs parenting.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Atlanta, GA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524539158.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1890,
+      "name": "User Hero",
+      "slug": "user-hero",
+      "website": "https://www.userhero.io",
+      "description": "User Hero collects all your user research in one place. Organize studies, transcribe interviews, take notes collaboratively, tag and search observations, and more. We automatically generate reports and rainbow charts so your team can learn and build faster.",
+      "one_liner": "A hub for all your user research.",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524539153.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b781e87c10a59af660e4577dc230251e8092559.png"
+    },
+    {
+      "id": 1885,
+      "name": "Penta Medical",
+      "slug": "penta-medical",
+      "website": "http://pentavo.com",
+      "description": "At Penta Medical we are dedicated to providing an innovative solution to injury management. We work with the top athletic teams and doctors to help them reduce injury rates and improve healing times. While working with our team you will have access to up to date information on all of your athletes, preventative statistics benchmarked across the field, and customized treatments.",
+      "one_liner": "Smart hardware for injury recovery. \r\n\r\n",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Waterloo, ON, Canada",
+      "tags": [
+        "Hardware",
+        "Medical Devices"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1524535495.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 1873,
+      "name": "Warpdrive by Synthetic Minds",
+      "slug": "synthetic-minds",
+      "website": "http://warpdrive.co",
+      "description": "What if you could turn your screen recording into an unattended automation, or on-screen guides for your coworkers? That is exactly what we allow you to do. We take the recording, run a compiler to analyze it, synthesize a program from that analysis, and create an automation or guide within seconds.",
+      "one_liner": "From screen recordings to desktop automations using program synthesis",
+      "batch": "S18",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Hard Tech",
+        "Robotic Process Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1513364572.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
+    }
+  ],
+  "fetched_at": "2025-02-26T11:39:10.633327"
+}

@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "id": 307,
+      "name": "Machine Zone",
+      "slug": "machine-zone",
+      "website": "https://www.mz.com",
+      "description": "Live data powers everything we do\u2014from our global, multiplayer mobile games to our mobile ad buying to our live data ecosystem, Satori. MZ is creating new futures for people, enterprises, cities, and countries. The possibilities are endless.",
+      "one_liner": "Pioneers of mobile social gaming.",
+      "batch": "W08",
+      "status": "Acquired",
+      "team_size": 501,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Gaming"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1326791189.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8a10d341a50957a4b0c63d8f94e76f52fedfb9c.png"
+    },
+    {
+      "id": 311,
+      "name": "Heroku",
+      "slug": "heroku",
+      "website": "http://heroku.com",
+      "description": "Heroku, a Salesforce company and industry pioneer in platform as a service (PaaS), enables developers to build and run applications entirely in the cloud. Heroku provides companies from startups to Fortune 500 enterprises with a faster and more effective way to create, deploy, and manage apps.\r\n\r\nHeroku operates the world\u2019s largest PaaS, continuously delivering millions of apps with 6+ million container deployments, 60+ billion routing requests, and 10+ terabytes of application logs per day.",
+      "one_liner": "Enabling developers to build and run applications in the cloud.",
+      "batch": "W08",
+      "status": "Acquired",
+      "team_size": 300,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1326791220.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccf274d8a6c429ccf311e735490c66dee76ccace.png"
+    },
+    {
+      "id": 306,
+      "name": "Ninite",
+      "slug": "ninite",
+      "website": "http://ninite.com",
+      "description": "The BaseShield App Store is a distribution platform for Windows software. Users can download and install applications with one click, and each application runs in its own secure virtual space.\r\n\r\nIt is an open platform where third party developers can publish their applications. Developers who deploy their apps this way can rely on the built-in installer, update function, security and eventually payment processing.",
+      "one_liner": "Simple third-party app patching and deployment for Windows.",
+      "batch": "W08",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "DevOps"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791182.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d5d47c9434a30c40c44a4f5afd8ae9fc1cdd0c6.png"
+    },
+    {
+      "id": 304,
+      "name": "RescueTime",
+      "slug": "rescuetime",
+      "website": "http://rescuetime.com",
+      "description": "RescueTime helps you set boundaries, protect focused work time, and achieve work/life balance by shedding light on how you spend your time, improving your focus, and helping you find more time for the things that matter most.\r\n\r\nWe are a distributed company with members spread throughout the United States.",
+      "one_liner": "Take Back Control of your Time",
+      "batch": "W08",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Seattle, WA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS"
+      ],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791166.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8af96b82dfc6a218480e3c6ad5ac4747e3dec0b1.png"
+    },
+    {
+      "id": 312,
+      "name": "280 North",
+      "slug": "280-north",
+      "website": "http://280north.com",
+      "description": "280 North is a web application company based on their proprietary application framework, Cappuccino. Along with Objective-J, Cappuccino provides a complete toolkit to develop rich web applications. It's modeled after a proven desktop development environment, and has been released as an open source project under the LGPL.\r\n\r\n280 North's first application, 280 Slides, enables anyone with a web browser to quickly and easily create beautiful presentations. 280 Slides takes advantage of the web by making it trivial to find and include great media in your presentation. We also built in advanced features like importing and exporting PowerPoint documents, so your data is always portable.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791231.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/98ad9900ef7f6da311cde40df3e919b54084a4ba.png"
+    },
+    {
+      "id": 310,
+      "name": "Omnisio",
+      "slug": "omnisio",
+      "website": "http://omnisio.com",
+      "description": "Omnisio was founded in 2007 by Ryan Junee, Simon Ratner and Julian Frumar, and was subsquently acquired by YouTube in July 2008. Omnisio enabled users to annotate and share videos from any website, and enabled markup of the structure within a video.\n\nOn May 13, 2008, Omnisio launched a slide-syncing tool using SlideShare for slides and a host of video services.",
+      "one_liner": "Edit and enhance online video. Acquired by Google in July 2008.",
+      "batch": "W08",
+      "status": "Acquired",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Atherton, CA, USA",
+      "tags": [
+        "Video",
+        "Media"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791209.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 305,
+      "name": "A Thinking Ape",
+      "slug": "a-thinking-ape",
+      "website": "http://athinkingape.com",
+      "description": "Proudly recognized as one of CANADA'S TOP SMALL & MEDIUM EMPLOYERS for 2018!\r\n\r\nMission: We build communities.\r\n\r\nSurrounded by mountains and water in beautiful Vancouver, BC, we are smart people who like smart people. We create mobile games with a social core that engage players and provoke us with creative new problems. We value data, informal leadership and keeping it all balanced.\r\n\r\nWhen we set out to make games with massive online communities, we knew that we first had to create the ideal environment for building ambitious things: a place where brilliant and inspiring people come together to build games that make millions of players happy. We realized that we needed to find incredibly talented people and get out of their way. Since then we've paid careful attention to how we like to work together - these are some of our guiding principles: Ownership; Have Wonderful Arguments; The Best Ideas Win; Keep Growing.\r\n\r\nWe are artists, designers, and engineers. We leverage our talent with small, independent teams. And we know that a happy builder is an efficient builder.",
+      "one_liner": "We build communities through massively multiplayer mobile games",
+      "batch": "W08",
+      "status": "Acquired",
+      "team_size": 75,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Vancouver, BC, Canada; Remote",
+      "tags": [
+        "Gaming"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791175.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/26789e46d6456ae17e25d6e964c47f65717f0e92.png"
+    },
+    {
+      "id": 323,
+      "name": "BitSample",
+      "slug": "bitsample",
+      "website": null,
+      "description": null,
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791314.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 322,
+      "name": "Joberator",
+      "slug": "joberator",
+      "website": "http://joberator.com",
+      "description": "Joberator was formed to tackle head-on the growing challenges and connection-gap issues in the STEM employment and recruitment marketplace. Our goal is to help the right talent and right employers connect together through accelerated, streamlined and STEM-specialized search / matching tools and features.\n\nWith a Centralized end-to-end platform where Graduates and Professionals can showcase their skills, plus access a unique connection-pipeline that empowers job seekers at all levels and in every Science, Technology, Engineering and Math fields - to 'Pinpoint' the right businesses who have the highest STEM employment and hiring demand for their skills, thus creating improved and increased hiring opportunities.\n\nEmployers can post jobs with fully integrated social recruitment features plus extended reach job distribution channels, and search profiles of top-tier talent members, connect privately, arrange interviews and hire directly on the Joberator platform.\n\nBoth Job seekers and Employers can create a Free account.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791307.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 321,
+      "name": "Insoshi",
+      "slug": "insoshi",
+      "website": "http://insoshi.com",
+      "description": null,
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791299.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 320,
+      "name": "Snaptalent",
+      "slug": "snaptalent",
+      "website": "http://snaptalent.com",
+      "description": "Snaptalent powers a distributed job advertisement network primarily meant for developer listings.\n\nJob ads submitted to Snaptalent are displayed on the service's participating websites. A unique feature about the network is that it will detect the IP addresses of website visitors and attempt to identify whether they work for a particular company or attend a particular university. It will then serve up targeted ads that have been designated for, say, employees of Google or students of Carnegie Mellon.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791289.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 319,
+      "name": "YumDots",
+      "slug": "yumdots",
+      "website": "http://yumdots.com",
+      "description": "YumDots wants to be the go-to mobile application for finding places to eat when out on the town. Its emphasis on using interactive maps to display information about local restaurants makes it more efficient than other mobile review services like Yelp's. The service is launching soon.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791282.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 318,
+      "name": "Deluux",
+      "slug": "deluux",
+      "website": "http://deluux.com",
+      "description": "Deluux aims to become distributed Facebook, or inverted Ning, by relocating the center of people's online identities to their websites, which exist outside of any one social network. The service will facilitate the distribution of personalized content around the web and help drive traffic to websites. It has yet to launch.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Atlanta, GA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791275.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 317,
+      "name": "Kirkland North",
+      "slug": "kirkland-north",
+      "website": "http://kirklandnorth.com",
+      "description": "Kirkland North is taking an infectious campus-wide game that it ran at Yale and Harvard last year and spreading it to other campuses around the country.\n\nThe game, called Turf, pits sections of campuses against each other in a virtual battle for university-wide domination. The founders are currently rolling out individual versions of their online game as a service for institutions including Stanford and Harvard.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791268.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 316,
+      "name": "Tipjoy",
+      "slug": "tipjoy",
+      "website": "http://tipjoy.com",
+      "description": "Tipjoy was a simple, social payments engine that allowed merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another.\r\n\r\nTipjoy was a Winter '08 Y Combinator participant.",
+      "one_liner": "social micropayments",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Payments",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791261.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd401f9e4467d016fa8fbbd5917f2e2d0039c429.png"
+    },
+    {
+      "id": 315,
+      "name": "Mixwit",
+      "slug": "mixwit",
+      "website": "http://cloud.tv",
+      "description": "Mixwit describes itself as a combination of Slide and iTunes. While it has more ambitious plans, it currently provides an easy way to make sharable mix tapes with songs found through MP3 search engines Seeqpod and Skreamr.",
+      "one_liner": "Online mixtape service (create and share mixtapes). Launched as part\u2026",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Social",
+        "Music"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791254.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 314,
+      "name": "Socialbrowse",
+      "slug": "socialbrowse",
+      "website": "http://socialbrowse.com",
+      "description": "SocialBrowse is a Firefox extension for sharing links. It has been described as \"a Twitter for links\".",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791248.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 313,
+      "name": "Wundrbar",
+      "slug": "wundrbar",
+      "website": "http://wundrbar.com",
+      "description": "Wundrbar wants to improve upon the search bar experience by providing users with powerful inline commands. The idea is reminiscent of YubNub but Wundrbar strives to appeal to a larger audience and to incorporate functionality that helps people manage their personal online accounts in addition to searching the web.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791241.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 309,
+      "name": "FathomDB",
+      "slug": "fathomdb",
+      "website": "http://fathomdb.com",
+      "description": "FathomDB offers databases as a service, taking care of many of the day-to-day tasks database administrators have to deal with and letting them focus on more complex issues.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791206.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 308,
+      "name": "MightyQuiz",
+      "slug": "mightyquiz",
+      "website": "http://mightyquiz.com",
+      "description": "MightyQuiz powers a collection of user generated quiz questions that can be answered and rated on-site or through a distributable widget.",
+      "one_liner": "",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791199.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 303,
+      "name": "Trigger",
+      "slug": "trigger",
+      "website": "http://trigger.io",
+      "description": "Trigger makes the $15Bn mobile application market accessible by web developers. It's the simplest way to build amazing mobile apps using the best of HTML5 and native.\n\nTrigger has raised $1.8M in seed funding from top Silicon Valley investors including Y Combinator and SV Angel.",
+      "one_liner": "Better PhoneGap.",
+      "batch": "W08",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791154.0,
+      "logo_url": "/company/thumb/missing.png"
+    }
+  ],
+  "fetched_at": "2025-02-26T11:39:15.098219"
+}

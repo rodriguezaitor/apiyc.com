@@ -17,8 +17,9 @@ class DataManager:
     """
     
     def __init__(self):
-        # Get the package root directory
-        self.data_dir = Path(__file__).parent.parent / 'data'
+        # Get the root directory (where setup.py is)
+        root_dir = Path(__file__).parent.parent.parent.parent
+        self.data_dir = root_dir / 'data'
         self.facets_dir = self.data_dir / 'facets'
         self.companies_dir = self.data_dir / 'companies'
         self.metadata_file = self.data_dir / 'metadata.json'
