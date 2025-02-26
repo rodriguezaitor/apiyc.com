@@ -7062,12 +7062,12 @@
       "id": 13159,
       "name": "Openbase",
       "slug": "openbase",
-      "website": "https://openbase.com",
-      "description": "There are millions of open-source packages out there, and developers often spend hours researching and evaluating competing packages to find the right one.\r\nOpenbase is the first platform to offer user reviews for packages, powerful insights and categorization for open-source packages - so developers can choose the right package every time.",
-      "one_liner": "We help developers choose among millions of open-source packages",
+      "website": "",
+      "description": "Openbase was the leading platform for developers to discover and choose open-source libraries. It offered countless reviews, metrics, and insights enjoyed by millions of developers worldwide. Discontinued in 2023.",
+      "one_liner": "Open-source library discovery",
       "batch": "S20",
       "status": "Inactive",
-      "team_size": 8,
+      "team_size": 0,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7124,5 +7124,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-02-26T12:01:25.474107"
+  "fetched_at": "2025-02-26T18:01:09.370176"
 }

@@ -440,8 +440,8 @@
       "name": "Mercura",
       "slug": "mercura",
       "website": "https://www.mercura.ai",
-      "description": "Mercura automates sales quotation for building material suppliers. Our software lets sales teams process requests for quotations in seconds instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
-      "one_liner": "AI Quoting for Wholesale Distribution and Manufacturers",
+      "description": "Mercura automates sales quotations for HVAC and building material distributors. Our software lets sales teams process requests for quotations in minutes instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
+      "one_liner": "AI Quoting for HVAC and building material distributors",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -3900,6 +3900,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28f487260593082101d049c62573937f376006a.png"
     },
     {
+      "id": 30214,
+      "name": "Ovlo",
+      "slug": "ovlo",
+      "website": "https://ovlo.ai",
+      "description": "Ovlo is an AI shopping assistant that revolutionizes e-commerce discovery and conversion. Up to 68% of online shoppers abandon sites due to poor search experiences, leading to an estimated $2 trillion in lost sales annually.\r\n\r\nOvlo addresses this by offering natural, conversational search capabilities, bridging the gap between in-store personal assistance and online shopping. Unlike traditional search functions that often fail with simple queries, Ovlo understands and processes nuanced user requests, ensuring they find exactly what they need.\r\n\r\nOur solution integrates seamlessly within minutes, eliminating the need for complex setups or extensive developer resources. Founded by a team of experts from Meta, Google, and Amazon, Ovlo delivers enterprise-grade technology to merchants without the typical six-figure implementation costs.",
+      "one_liner": "AI Shopping Assistant for Ecommerce ",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Retail",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740586280.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d304cbd06b3802a658affb94ae4692a4af27ab10.png"
+    },
+    {
       "id": 30213,
       "name": "Truffle AI",
       "slug": "truffle-ai",
@@ -5099,5 +5132,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
     }
   ],
-  "fetched_at": "2025-02-26T12:01:25.819914"
+  "fetched_at": "2025-02-26T18:01:10.481470"
 }
