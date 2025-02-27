@@ -964,7 +964,7 @@
         "Enterprise Software"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737184010.0,
@@ -1445,7 +1445,7 @@
       "slug": "fuseai",
       "website": "https://tryfuse.ai/",
       "description": "We're building a new agentic operating system to enable enterprises to automate their entire go-to-market (GTM) organizations with vertical AI agents. You can think of the platform as Salesforce meets OpenAI Operator, specifically for GTM teams. We enable you to run your entire sales deal cycle through a simple AI-powered conversational interface, built on-top of an E2E product suite - use natural language to manage customer relationships, enrich B2B contacts, find high-intent leads, and engage with clients in seconds.",
-      "one_liner": "The world's first Agent Sales platform.",
+      "one_liner": "The world's first Agentic Sales platform.",
       "batch": "W25",
       "status": "Active",
       "team_size": 4,
@@ -1461,11 +1461,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Sales",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1782,7 +1782,7 @@
       "name": "Tire Swing",
       "slug": "tire-swing",
       "website": "https://gettireswing.com",
-      "description": "Tire Swing saves health care companies hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
+      "description": "Tire Swing saves health care companies thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
       "one_liner": "AI regulatory research and compliance for health care ",
       "batch": "W25",
       "status": "Active",
@@ -2727,8 +2727,8 @@
       "name": "Macadamia",
       "slug": "macadamia",
       "website": "https://macadamialab.com",
-      "description": "Macadamia builds AI agents that detect and fix design errors early in large engineering teams. Our primary users are engineering teams in civil and aerospace industry - tackling the toughest technical challenges.  The agents scan through all your technical datasheets, drawings and reports to detect errors early before they escalate. By integrating with the leading engineering software like Ansys CAE, our agents fix design issues automatically. ",
-      "one_liner": "AI Agents that fix design errors in large engineering teams",
+      "description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent fixes design issues automatically in complex workflows. ",
+      "one_liner": "AI Mechanical Engineer that fixes technical issues in complex projects",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4234,6 +4234,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e806fda08a2985d5611237545c62cc046d58b489.png"
     },
     {
+      "id": 30203,
+      "name": "Vocality Health",
+      "slug": "vocality-health",
+      "website": "https://www.vocalityhealth.com",
+      "description": "Our app allows doctors to speak any language, removing the need for human medical interpreters in hospitals and clinics. Hospitals spend billions on in-person and remote medical interpreters, yet non-English speaking patients still struggle to get the care they need. Furthermore, existing tech solutions make mistakes and aren't secure.\r\n\r\nWe're building the most accurate and compliant medical language interpretation system across voice and video modalities. ",
+      "one_liner": "AI medical interpreter for hospitals",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Healthcare",
+        "Health & Wellness",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740652526.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41da0485e955f2070020b3fb65cf8716d346525e.png"
+    },
+    {
       "id": 30202,
       "name": "Astro",
       "slug": "astro",
@@ -4627,8 +4659,8 @@
       "name": "NextByte",
       "slug": "nextbyte",
       "website": "https://trynextbyte.com",
-      "description": "NextByte\u2019s AI recruiter agent helps you identify top candidates faster, so your team can focus on what matters \u2013 building your product and hiring the best talent. Our platform understands the requirements for each role and tailors voice-driven technical and non-technical evaluations to surface candidates who are ready for your next onsite interview. \r\n\r\nNextByte can screen hundreds of candidates simultaneously and provides rubric-based, detailed evaluations in minutes. Our analytics dashboards provide a clear view of technical ability, problem-solving skills, and communication under pressure across your candidate pool, so you can confidently move the right candidates forward. With NextByte, hiring teams save time, reduce bias, and make faster, data-driven hiring decisions without sacrificing quality.",
-      "one_liner": "AI Recruiting Agent for Screening Technical Candidates",
+      "description": "NextByte\u2019s AI recruiter helps you identify top candidates faster, so your team can focus on what matters \u2013 building your product and hiring the best talent. Our platform understands the requirements for each role and tailors voice-driven technical and non-technical evaluations to surface candidates who are ready for your next onsite interview. \r\n\r\nNextByte can screen hundreds of candidates simultaneously and provides rubric-based, detailed evaluations in minutes. Our analytics dashboards provide a clear view of technical ability, problem-solving skills, and communication under pressure across your candidate pool, so you can confidently move the right candidates forward. With NextByte, hiring teams save time, reduce bias, and make faster, data-driven hiring decisions without sacrificing quality.",
+      "one_liner": "AI recruiter tuned to identify the best vibe coders",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -5233,5 +5265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
     }
   ],
-  "fetched_at": "2025-02-27T06:01:32.395172"
+  "fetched_at": "2025-02-27T12:01:41.451393"
 }
