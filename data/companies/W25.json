@@ -209,7 +209,7 @@
       "slug": "artifact-2",
       "website": "https://www.artifact.engineer/",
       "description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-      "one_liner": "A modern workspace for electrical design",
+      "one_liner": "AI copilot for electrical system design",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -874,8 +874,8 @@
       "name": "Roark",
       "slug": "roark",
       "website": "https://roark.ai",
-      "description": "Roark is an observability and testing platform for voice AI that shows whether your agent met its goals, tracks caller sentiment, and simulates replays of real calls to test changes before deploying them. We already process thousands of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
-      "one_liner": "Replay, Analyze, and Improve Your Voice AI",
+      "description": "Roark is an observability and testing platform for voice AI that shows whether your agent met its goals, tracks caller sentiment, and simulates real calls to test changes before deploying them. We already process thousands of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
+      "one_liner": "Observability and Testing for Voice AI",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -893,8 +893,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1208,8 +1208,8 @@
       "name": "Pinch",
       "slug": "pinch",
       "website": "https://startpinch.com",
-      "description": "Pinch is a video conferencing platform that delivers split-second translation with synchronized lip movements and natural expressions, so you can conduct calls and webinars in 20+ languages and appear as a native speaker.  Pinch creates an AI version of you in real-time, with a focus on presenting you accurately and professionally.  Unlock new markets and authentic connections \u2014 join Pinch!",
-      "one_liner": "Take video calls and host webinars in any language",
+      "description": "Pinch is a video conferencing platform with real-time voice translation, allowing anyone to conduct video calls and webinars in over 30 languages.  \r\n\r\nWe mimic your voice and synchronize your video to translated speech - enabling a face to face cross-lingual conversation.  Unlock new markets and authentic connections \u2014 join Pinch!",
+      "one_liner": "Video conferencing with real-time voice translation",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -3367,11 +3367,11 @@
       "name": "Rally",
       "slug": "rally-3",
       "website": "https://www.getrally.com/",
-      "description": "Rally is a financial platform for businesses that operate vehicle fleets in Europe. Over \u20ac1 trillion is spent annually on fuel, charging, maintenance and other fleet expenses, with most of it still running on legacy networks built in the 1960s.\r\n\r\nWe set a new standard for fleet finance by streamlining payments and automating workflows across bookkeeping, credit and driver payroll - helping real world businesses like delivery services, construction crews, and service technicians stay in control and operate efficiently.",
-      "one_liner": "Financial OS for European Fleets",
+      "description": "Rally is a financial platform for businesses that operate vehicle fleets. We're starting in Europe, where over \u20ac1 trillion is spent annually on fuel, charging, maintenance, and other fleet expenses - most of it still running on legacy networks built in the 1960s.\r\n\r\nWe set a new standard for fleet finance by streamlining payments and automating workflows across bookkeeping, credit, and driver payroll, helping real-world businesses like delivery services, construction crews, and service technicians stay in control and operate efficiently.",
+      "one_liner": "Financial OS for Modern Fleets",
       "batch": "W25",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "Fintech",
       "subindustry": "Fintech -> Payments",
       "industries": [
@@ -3383,10 +3383,10 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Logistics",
-        "Transportation",
-        "AI"
+        "Transportation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3567,8 +3567,8 @@
       "name": "Weave",
       "slug": "weave-3",
       "website": "https://workweave.dev",
-      "description": "Weave solves the age-old problem of engineering measurement. \r\n\r\nWe use AI agents to build metrics like how much work is getting done,  how good the work is, how much time they spend on new features vs. bugs, and which teams and individuals perform best. ",
-      "one_liner": "Weave is an AI agent to measure engineering work.",
+      "description": "Weave solves the age-old problem of engineering measurement. \r\n\r\nWe use AI agents to determine how much work is getting done and how good the work is.\r\n\r\nAdam and Andrew worked at Causal before starting Weave.\r\n\r\nOur traction makes us smile. ",
+      "one_liner": "AI agents to measure engineering work.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3584,9 +3584,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3766,8 +3766,8 @@
       "name": "A1Base",
       "slug": "a1base",
       "website": "https://www.a1base.com/",
-      "description": "A1Base gives your AI agents a phone number & email address. This effectively acts as an online identity for them. We then provide developers with an easy to use API to interface your AI agent with humans/coworkers/users where they are (in this case in Whatsapp, Slack, Teams, SMS and more).\r\n",
-      "one_liner": "How AI products chat and work with their users",
+      "description": "Twilio for AI agents. We help AI products talk and work to their users through email, Slack, SMS, WhatsApp and more.",
+      "one_liner": "Twilio for AI Agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3920,9 +3920,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "Developer Tools",
         "Open Source",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3987,8 +3988,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Retail",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -4890,6 +4891,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4e9ac60aa5b0583ce914c6dee2848e5b72c4b4f.png"
     },
     {
+      "id": 30172,
+      "name": "Enhanced Radar",
+      "slug": "enhanced-radar",
+      "website": "https://www.enhancedradar.com/",
+      "description": "Enhanced Radar is building better, safer air traffic control systems.",
+      "one_liner": "Automating air traffic control",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Aerospace",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740622657.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/97af6428ccfdfbaa94b52ffdadc13d8b1f2609b3.png"
+    },
+    {
       "id": 30165,
       "name": "Edexia",
       "slug": "edexia",
@@ -5200,5 +5233,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
     }
   ],
-  "fetched_at": "2025-02-27T00:02:51.249183"
+  "fetched_at": "2025-02-27T06:01:32.395172"
 }

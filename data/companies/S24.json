@@ -5631,7 +5631,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722295529.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8683a6910cbae3f3685ce14ef2036fc99cfab7c2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c195f1e4be073ff23e0e95a7e8dd2dbdc94e086e.png"
     },
     {
       "id": 29688,
@@ -7785,10 +7785,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Biotech",
-        "Search"
+        "Search",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8435,5 +8435,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-02-27T00:02:48.809759"
+  "fetched_at": "2025-02-27T06:01:29.811708"
 }
