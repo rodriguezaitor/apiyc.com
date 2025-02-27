@@ -2726,7 +2726,7 @@
       "id": 30260,
       "name": "Macadamia",
       "slug": "macadamia",
-      "website": "https://macadamialab.com",
+      "website": "https://macadamialabs.com",
       "description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent fixes design issues automatically in complex workflows. ",
       "one_liner": "AI Mechanical Engineer that fixes technical issues in complex projects",
       "batch": "W25",
@@ -2744,11 +2744,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Construction",
         "Design",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3158,6 +3158,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png"
     },
     {
+      "id": 30244,
+      "name": "Mosaic",
+      "slug": "mosaic-2",
+      "website": "https://usemosaic.ai",
+      "description": "Mosaic is an agentic video editing paradigm. It enables anyone to create and run their own multimodal video editing agents in a node-based canvas. Our mission is to accelerate hours of video editing work to seconds.",
+      "one_liner": "AI Agents for Video Editing",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Video",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740665933.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6dfe6fa43e0b95cdb2bab457cc30d8727a9bf97.png"
+    },
+    {
       "id": 30242,
       "name": "Oki",
       "slug": "oki",
@@ -3236,7 +3269,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
         "Finance and Accounting"
@@ -5265,5 +5298,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
     }
   ],
-  "fetched_at": "2025-02-27T12:01:41.451393"
+  "fetched_at": "2025-02-27T18:01:31.283910"
 }
