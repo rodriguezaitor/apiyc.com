@@ -8212,7 +8212,7 @@
       "id": 25541,
       "name": "Versable",
       "slug": "versable",
-      "website": "https://www.versable.ai/",
+      "website": "https://www.versableai.com/",
       "description": "Auto parts\u00a0retailers get product data from hundreds of manufacturers that is inaccurate and inconsistent, often with big gaps in key values. They currently have a team of \"catalog managers\" who are required to process and enhance\u00a0this data line by line, resulting in a week to months long lag between receiving product data and actually being able to start generating revenue from those products. \r\n\r\nVersable leverages AI to scan the web for tens of millions of auto parts listings, and uses a fine-tuned LLM with RAG to instantly process, enhance, and transform data. With just a part number, Versable is able to generate market-ready titles, product descriptions, and specs, in any format that's needed. ",
       "one_liner": "AI powered product description enhancement for the auto parts industry",
       "batch": "W22",
@@ -8232,9 +8232,9 @@
       ],
       "locations": "Los Angeles, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Manufacturing",
         "Data Engineering",
+        "AI",
         "Automotive"
       ],
       "stage": "Early",
@@ -13873,5 +13873,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-02-26T18:01:05.481870"
+  "fetched_at": "2025-02-27T00:02:47.463329"
 }

@@ -1363,7 +1363,7 @@
       "name": "Oway",
       "slug": "oway",
       "website": "https://www.shipoway.com",
-      "description": "Oway is a rideshare freight platform that uses machine learning to automatically coordinate and sell unused space in trucks to SMBs at a 50% discount for lightning-fast shipping. \r\n\r\nEvery year, nearly 50% all truck space goes unused annually in the almost $1T US trucking industry. On the other hand, SMBs represent 44% of the US GDP and are historically forced to deal with high freight rates and friction due to their small size compared to enterprise businesses. \r\n\r\nWith trucking being a hyper-fragmented market (90%+ of US trucking companies are small family businesses), we decided to build an ecosystem that takes all of this inefficiency and turns it into something that could fundamentally transform the livelihoods of businesses and drivers alike.\r\n\r\nOway is designed to be simple (you can place an order in 30 seconds) and scale with your business. Our ML rideshare protocol now allows businesses to ship freight affordably and faster than ever before. We also improve the survivability of independent truckers by maximizing their revenue when they\u2019re already on the road - and it\u2019s great for the environment too. \ud83c\udf43",
+      "description": "Oway is a rideshare freight platform that uses machine learning to automatically coordinate and sell unused space in trucks to businesses from enterprise to SMB at a 50% discount for lightning-fast shipping. \r\n\r\nEvery year, nearly 50% all truck space goes unused annually in the almost $1T US trucking industry. On the other hand, SMBs represent 44% of the US GDP and are historically forced to deal with high freight rates and friction due to their small size compared to enterprise businesses. \r\n\r\nWith trucking being a hyper-fragmented market (90%+ of US trucking companies are small family businesses), we decided to build an ecosystem that takes all of this inefficiency and turns it into something that could fundamentally transform the livelihoods of businesses and drivers alike.\r\n\r\nOway is designed to be simple (you can place an order in 15 seconds) and scale with your business. Our ML rideshare protocol now allows businesses to ship freight affordably and faster than ever before. We also improve the survivability of independent truckers by maximizing their revenue when they\u2019re already on the road - and it\u2019s great for the environment too. \ud83c\udf43",
       "one_liner": "Ridesharing freight with ML to cut pallet shipping costs by 50%",
       "batch": "S24",
       "status": "Active",
@@ -5607,7 +5607,7 @@
       "slug": "tivara",
       "website": "https://tivara.com",
       "description": "",
-      "one_liner": "Using LLMs to automate insurance approval for healthcare clinics",
+      "one_liner": "The AI workforce for medical groups",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -5621,10 +5621,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8435,5 +8435,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-02-26T18:01:07.344250"
+  "fetched_at": "2025-02-27T00:02:48.809759"
 }

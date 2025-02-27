@@ -440,8 +440,8 @@
       "name": "Mercura",
       "slug": "mercura",
       "website": "https://www.mercura.ai",
-      "description": "Mercura automates sales quotations for HVAC and building material distributors. Our software lets sales teams process requests for quotations in minutes instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
-      "one_liner": "AI Quoting for HVAC and building material distributors",
+      "description": "Mercura automates sales quotations for HVAC, electrical and plumbing distributors & manufacturers. Our software lets sales teams process requests for quotations in minutes instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
+      "one_liner": "AI Quoting for distributors and manufacturers",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -805,8 +805,8 @@
       "name": "Opine",
       "slug": "opine",
       "website": "https://opine.chat",
-      "description": "Opine is a social media app where you can design an AI character with its own face, clothes, and voice. You can make videos as this character and build a following around it.",
-      "one_liner": "Social Media for AI Characters",
+      "description": "Opine is an AI native social media app. Users can create characters with a custom face, voice, and outfit. They can overlay these characters onto any videos of themselves and share them on our platform.",
+      "one_liner": "Social Media for AI Influencers",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -822,9 +822,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "Social Media",
-        "AI"
+        "Social Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1040,8 +1040,8 @@
       "name": "Demeter",
       "slug": "demeter",
       "website": "https://www.joindemeter.com/",
-      "description": "Demeter is an AI back-office solution for private investors. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and return analysis, providing insights in minutes instead of weeks.",
-      "one_liner": "AI Back Office Solution for Private Investment Firms",
+      "description": "Demeter is an AI fund administration for private investors. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and return analysis, providing insights in minutes instead of weeks.",
+      "one_liner": "AI fund administration for Private Investment Firms",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1056,11 +1056,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Finance",
         "B2B",
         "Workflow Automation",
-        "Investments",
-        "AI"
+        "Investments"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1817,7 +1817,7 @@
       "name": "Harper",
       "slug": "harper",
       "website": "https://www.harperinsure.com/",
-      "description": "At Harper (fka Tatch) are building an infinitely scalable commercial insurance brokerage using proprietary software, AI agents, and expert human training operators. Our initial focus is surplus lines insurance.",
+      "description": "At Harper, we are building an infinitely scalable commercial insurance brokerage using proprietary software, AI agents, and expert human training operators. Our initial focus is surplus lines insurance.",
       "one_liner": "Harper is an AI-native commercial insurance brokerage.",
       "batch": "W25",
       "status": "Active",
@@ -1834,16 +1834,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1735235398.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/495786be55a8096954bf6c729585830c95a705b3.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48f09dfa8b59f8e987b3a43c44b0adcd865fe145.png"
     },
     {
       "id": 30287,
@@ -2186,8 +2186,8 @@
       "name": "General Trajectory",
       "slug": "general-trajectory",
       "website": "https://www.generaltrajectory.com/",
-      "description": "General Trajectory is building AI for the physical world.\r\n\r\nWe are training vision-language-action (VLA) models across different embodiments to automate tasks such as palletization, sorting, picking, and packing.",
-      "one_liner": "Physical AI for industrial robots.",
+      "description": "General Trajectory is building AI for the physical world.\r\n\r\nWe are training vision-language-action (VLA) models across different embodiments to automate valuable labor starting with palletization, sorting, picking, and packing.",
+      "one_liner": "Reasoning models for robotics",
       "batch": "W25",
       "status": "Active",
       "team_size": 1,
@@ -2203,10 +2203,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotics",
         "Supply Chain",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3300,7 +3300,7 @@
       "slug": "nuclear-software",
       "website": "https://www.nuclearsoftware.com",
       "description": "Nuclear Software is the first continuous integration platform built for engineering simulations, designed for complex industries like nuclear, aerospace, automotive, and advanced manufacturing. It connects CAD models directly to simulation tools\u2014neutronics, CFD, structural analysis, thermal simulations, and more\u2014without manual data preparation. By automating geometry conversions and meshing, Nuclear Software eliminates bottlenecks and streamlines workflows, allowing engineers to focus on building better products.\r\n\r\nEvery design change automatically triggers simulations through a unified pipeline, ensuring real-time validation, version control, and traceability. Teams can customize workflows for individual components or run full system simulations, all within the same platform. Nuclear Software securely stores both designs and simulation results in a centralized repository, maintaining a complete version history linked to each design change. This single source of truth makes it easy to track progress, troubleshoot issues, and maintain accountability, reducing the risk of costly mistakes.\r\n\r\nNuclear Software\u2019s robust access control system protects proprietary and regulated simulation codes, ensuring compliance and data security. By automating simulation workflows and connecting design iterations to real-time validation, Nuclear Software accelerates development cycles and empowers engineers to innovate faster and with greater precision.",
-      "one_liner": "Continuous Integration for Engineering Simulations.",
+      "one_liner": "GitLab for Hard Tech.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3327,6 +3327,40 @@
       "is_top_company": false,
       "launched_at": 1740465052.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d753a7f42527d220d04f733e0e8c2179891fa0e1.png"
+    },
+    {
+      "id": 30236,
+      "name": "Tergle",
+      "slug": "tergle",
+      "website": "https://tergle.com",
+      "description": "Tergle builds AI agents for auditing.",
+      "one_liner": "AI agents for auditing",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Compliance",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740611994.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/441b34e3b91d1925fe09d25d993360b31f740df4.png"
     },
     {
       "id": 30235,
@@ -3864,6 +3898,38 @@
       "is_top_company": false,
       "launched_at": 1737653057.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc12cf4638585675745dadeea5e4a62aec1543cb.png"
+    },
+    {
+      "id": 30216,
+      "name": "Sublingual",
+      "slug": "sublingual",
+      "website": "https://sublingual.ai/",
+      "description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
+      "one_liner": "LLM Observability with zero changes to your code",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Open Source",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740613527.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaa07742bdd32e6b3e7d2318a753289e334055.png"
     },
     {
       "id": 30215,
@@ -5070,8 +5136,8 @@
       "name": "YouShift",
       "slug": "youshift",
       "website": "https://www.you-shift.com/",
-      "description": "We make scheduling for doctors fast, easy, and stress-free. By blending complex hospital rules with personal preferences, our algorithm generates smart, conflict-free schedules that save time and improve work-life balance. With seamless shift swaps and real-time updates, schedules remain flexible and always up-to-date.",
-      "one_liner": "We automate doctor shift scheduling to save time and reduce burnout.",
+      "description": "YouShift uses AI to automate hospital shift scheduling, eliminating the need for full-time schedulers and outdated, manual processes. And scheduling is just the beginning \u2014 we're building the future of healthcare workforce management.",
+      "one_liner": "AI-powered shift scheduling for healthcare, to save time and money.",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -5086,9 +5152,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Scheduling",
-        "Healthcare"
+        "Healthcare",
+        "HR Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5132,5 +5200,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
     }
   ],
-  "fetched_at": "2025-02-26T18:01:10.481470"
+  "fetched_at": "2025-02-27T00:02:51.249183"
 }

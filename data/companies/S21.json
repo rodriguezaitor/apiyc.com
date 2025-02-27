@@ -1408,44 +1408,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5873834b208e59808a81e6f7b65403be4dd9fc78.png"
     },
     {
-      "id": 24787,
-      "name": "Squire.ai",
-      "slug": "squire-ai",
-      "website": "https://squire.ai",
-      "description": "Squire is a devtool that works with you by writing pull request descriptions, reviewing PRs, and writing code to implement code review feedback.",
-      "one_liner": "Never code alone.",
-      "batch": "S21",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Canada",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "SaaS",
-        "Compliance",
-        "Security"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1627487920.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png"
-    },
-    {
       "id": 24773,
       "name": "Crew",
       "slug": "crew",
@@ -6855,7 +6817,7 @@
         "GovTech"
       ],
       "stage": "Growth",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1625759878.0,
@@ -12239,6 +12201,44 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3734c55745b1bc2f44cad8282c8cfa0c0e4f9bc.png"
     },
     {
+      "id": 24787,
+      "name": "Squire.ai",
+      "slug": "squire-ai",
+      "website": "https://squire.ai",
+      "description": "Squire is a devtool that works with you by writing pull request descriptions, reviewing PRs, and writing code to implement code review feedback.",
+      "one_liner": "Never code alone.",
+      "batch": "S21",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Canada",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "SaaS",
+        "Compliance",
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1627487920.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png"
+    },
+    {
       "id": 24779,
       "name": "Mindmesh",
       "slug": "mindmesh",
@@ -13431,5 +13431,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-02-26T18:01:05.957662"
+  "fetched_at": "2025-02-27T00:02:47.819296"
 }

@@ -2846,7 +2846,7 @@
       "one_liner": "We produce cancer-curing materials used in nuclear medicine.",
       "batch": "W19",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 8,
       "industry": "Industrials",
       "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
@@ -2855,9 +2855,7 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "Idaho Falls, ID, USA",
       "tags": [
@@ -6523,5 +6521,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-02-26T18:01:09.748943"
+  "fetched_at": "2025-02-27T00:02:50.664404"
 }
