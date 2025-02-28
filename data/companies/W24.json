@@ -2085,7 +2085,7 @@
         "Climate"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708060326.0,
@@ -3524,11 +3524,11 @@
       "name": "Shiboleth",
       "slug": "shiboleth",
       "website": "https://www.shiboleth.ai/",
-      "description": "Shiboleth automates consumer lending compliance for financial institutions using AI.\r\nBanks like Cross River Bank use us to save months of manual work by automating audits and drafting reports for the governments. \r\n\r\nLLMs allow whole categories of manual compliance processes to be automated in ways that weren\u2019t possible until recently.\r\n\r\nWe are excited to automate back-office operations and enhance consumer protection in one of the most litigious industries.",
+      "description": "Shiboleth automates consumer lending compliance for financial institutions using AI.\r\nBanks and fintechs use us to save months of manual work by automating audits and drafting reports for the governments. \r\n\r\nLLMs allow whole categories of manual compliance processes to be automated in ways that weren\u2019t possible until recently.\r\n\r\nWe are excited to automate back-office operations and enhance consumer protection in one of the most litigious industries.",
       "one_liner": "Shiboleth automates lending compliance for financial institutions\u2026",
       "batch": "W24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -8271,5 +8271,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-02-28T12:01:31.212588"
+  "fetched_at": "2025-02-28T18:01:28.015804"
 }

@@ -4684,6 +4684,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f504aecdfdb8e4acd4c08466c158b750a3ffe3d1.png"
     },
     {
+      "id": 30187,
+      "name": "Praxim",
+      "slug": "praxim",
+      "website": "https://www.praxim.ai/",
+      "description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
+      "one_liner": "AI-native email and office file editing on one platform",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Fintech -> Insurance",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Consumer",
+        "B2B",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740746196.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png"
+    },
+    {
       "id": 30185,
       "name": "Excellence Learning",
       "slug": "excellence-learning",
@@ -5359,5 +5393,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-02-28T12:01:33.290106"
+  "fetched_at": "2025-02-28T18:01:28.423966"
 }
