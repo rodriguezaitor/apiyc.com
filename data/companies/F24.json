@@ -1307,10 +1307,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
         "Recruiting",
-        "Collaboration",
-        "AI"
+        "Collaboration"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1854,8 +1854,8 @@
       "name": "RiskCube",
       "slug": "riskcube",
       "website": "https://riskcube.com",
-      "description": "RiskCube is AI for commercial insurance brokerage and offers:\r\n\u2705 AI Policy Analysis \u2013 Instantly analyze and compare commercial insurance policies.\r\n\u2705 Custom AI Solutions \u2013 Tailored AI to automate workflows and enhance brokerage operations.\r\n\u2705 Natural Disaster Software \u2013 Climate risk analytics, live event tracking, and predictive modeling for wildfires, floods, hurricanes, etc.",
-      "one_liner": "We help insurance broker & agents scale their business with AI. ",
+      "description": "RiskCube is building an AI-powered platform for insurance agents offering:\r\n\u2705 AI Policy Analysis \u2013 Instantly analyze and compare commercial insurance policies.\r\n\u2705 Custom AI Solutions \u2013 Tailored AI to automate workflows and enhance brokerage operations.\r\n\u2705 Natural Disaster Software \u2013 Climate risk analytics, live event tracking, and predictive modeling for wildfires, floods, hurricanes, etc.\r\n\r\nRiskCube for businesses\r\n\u2705 Get Matched with the Right Brokers \u2013 We connect you with expert insurance agencies that leverage AI to find the best coverage for your business.\r\n\u2705 Faster, More Efficient Process \u2013 Save time with a streamlined, data-driven insurance experience.",
+      "one_liner": "We help insurance agents scale their business with AI. ",
       "batch": "F24",
       "status": "Active",
       "team_size": 2,
@@ -3080,7 +3080,7 @@
       "name": "Variant",
       "slug": "variant",
       "website": "https://variant.ai",
-      "description": "Variant is building the state-of-the-art model for software design. Our first milestone, icon generation, already surpasses existing approaches. The company is founded by Ben South Lee, former VP of Product Design at unicorn companies Postmates ($5B exit) and Avara ($2.5B market cap), and Daniel Bulhosa Sol\u00f3rzano, Staff ML engineer at Square and Cruise.",
+      "description": "Variant is building the state-of-the-art model for software design. The company is founded by Ben South Lee, former VP of Product Design at unicorn companies Postmates ($5B exit) and Avara ($2.5B market cap), and Daniel Bulhosa Sol\u00f3rzano, Staff ML engineer at Square and Cruise.",
       "one_liner": "Building the state-of-the-art model for software design",
       "batch": "F24",
       "status": "Active",
@@ -3099,16 +3099,15 @@
       "tags": [
         "Artificial Intelligence",
         "Developer Tools",
-        "Design Tools",
-        "AI"
+        "Design Tools"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1732310413.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-02-28T00:02:44.636958"
+  "fetched_at": "2025-02-28T06:01:13.235694"
 }

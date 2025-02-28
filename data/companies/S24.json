@@ -5058,37 +5058,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png"
     },
     {
-      "id": 29707,
-      "name": "Taxo",
-      "slug": "taxo",
-      "website": "https://taxo.ai",
-      "description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by >90%, enabling providers to focus on patient care rather than administrative tasks.",
-      "one_liner": "Automated healthcare administration ",
-      "batch": "S24",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare",
-      "industries": [
-        "Healthcare"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Healthcare",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1724873194.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f975b562ddf2a304a569ae2a7dc2814672828062.png"
-    },
-    {
       "id": 29706,
       "name": "Mito Health",
       "slug": "mito-health",
@@ -8435,5 +8404,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-02-28T00:02:37.750801"
+  "fetched_at": "2025-02-28T06:01:06.600291"
 }

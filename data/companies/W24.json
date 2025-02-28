@@ -5551,7 +5551,7 @@
       "name": "Tusk",
       "slug": "tusk",
       "website": "https://usetusk.ai",
-      "description": "Tusk is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams use Tusk to merge PRs 25% faster with increased feature coverage.",
+      "description": "Tusk (YC W24) is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk sits in CI and provides automatic coverage whenever software engineers raise a PR. Engineering teams use Tusk to prevent critical regressions while increasing test coverage.",
       "one_liner": "AI agent that generates unit and integration tests",
       "batch": "W24",
       "status": "Active",
@@ -8271,5 +8271,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-02-28T00:02:38.226346"
+  "fetched_at": "2025-02-28T06:01:07.048748"
 }

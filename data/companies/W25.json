@@ -209,7 +209,7 @@
       "slug": "artifact-2",
       "website": "https://www.artifact.engineer/",
       "description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-      "one_liner": "AI copilot for electrical system design",
+      "one_liner": "Cursor for hardware design, starting with electrical systems",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -806,7 +806,7 @@
       "slug": "opine",
       "website": "https://opine.chat",
       "description": "Opine is an AI native social media app. Users can create characters with a custom face, voice, and outfit. They can overlay these characters onto any videos of themselves and share them on our platform.",
-      "one_liner": "Social Media for AI Influencers",
+      "one_liner": "AI-Native Social Media App",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -822,9 +822,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "Social Media"
+        "Social Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -874,7 +874,7 @@
       "name": "Roark",
       "slug": "roark",
       "website": "https://roark.ai",
-      "description": "Roark is an observability and testing platform for voice AI that shows whether your agent met its goals, tracks caller sentiment, and simulates real calls to test changes before deploying them. We already process thousands of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
+      "description": "Roark simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
       "one_liner": "Observability and Testing for Voice AI",
       "batch": "W25",
       "status": "Active",
@@ -893,8 +893,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Analytics",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1513,7 +1513,7 @@
       "name": "Artificial Societies",
       "slug": "artificial-societies",
       "website": "https://societies.io",
-      "description": "Artificial Societies uses AI to simulate human societies. Companies like Anthropic are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating 1,000 investors to test startup pitches, which we used ourselves to get into YC and secure pre-seed investment. Since releasing this publicly as \u201cWave\u201d, startup founders have run over 3000 simulations, deploying over 2.6bn LLM tokens in the process. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
+      "description": "Artificial Societies uses AI to simulate human societies. Companies like Anthropic are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating a network of 1,000 investors, and used it to raise a pre-seed and get into YC. Since releasing this publicly as \u201cWave\u201d, startup founders have run over 3000 simulations. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
       "one_liner": "We use AI to simulate large groups of people and how they interact",
       "batch": "W25",
       "status": "Active",
@@ -2251,7 +2251,7 @@
       "name": "Trata",
       "slug": "trata",
       "website": "https://www.trytrata.com/",
-      "description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the \u201cfirst cut\u201d of research from 3 hours to 3 minutes with 1-2 page notes. ",
+      "description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the \u201cfirst cut\u201d of research from 3 hours to 3 minutes with 1-2 page notes. \r\nhttps://calendly.com/eric-trytrata",
       "one_liner": "Database of investment research from anonymous hedge fund analysts",
       "batch": "W25",
       "status": "Active",
@@ -3566,7 +3566,7 @@
       "slug": "maive",
       "website": "",
       "description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there\u2019s $400B being invested to onshore manufacturing, but there\u2019s simultaneously a projected 15% gap in workers needed due to an aging workforce. We\u2019re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today\u2019s manufacturing capacity.",
-      "one_liner": "AI for aerospace shop floor compliance",
+      "one_liner": "AI-native manufacturing execution system",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4303,7 +4303,7 @@
       "name": "Astro",
       "slug": "astro",
       "website": "https://www.astroenergy.ai/",
-      "description": "Astro uses predictive models to identify and secure the best renewable energy sites, focusing on locations with minimal grid upgrade costs and high interconnection success rates. We streamline early-stage development to create shovel-ready projects for larger developers.",
+      "description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
       "one_liner": "The world\u2019s first AI energy developer",
       "batch": "W25",
       "status": "Active",
@@ -4319,11 +4319,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Solar Power",
         "Energy",
         "Renewable Energy",
-        "ClimateTech",
-        "AI"
+        "ClimateTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4404,11 +4404,11 @@
       "name": "Alice.tech",
       "slug": "alice-tech",
       "website": "https://www.alice.tech/",
-      "description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice\u2014students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 2,000 students have already used Alice, and we are growing MRR +30% MoM for B2C alone, while gaining first traction in B2B on top. ",
-      "one_liner": "Alice.tech turns course materials into personalized exam prep using AI",
+      "description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice\u2014students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 7,000 students have already used Alice, and we are growing MRR +60% MoM.",
+      "one_liner": "AI-driven exam prep",
       "batch": "W25",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 5,
       "industry": "Education",
       "subindustry": "Education",
       "industries": [
@@ -4421,10 +4421,10 @@
       "locations": "Copenhagen, Denmark",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Education",
         "Generative AI",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4619,15 +4619,15 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736799545.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b42d30fcf2efbb0bfe113b07b366491f53e57d04.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bc3a1ad05008f3ceaf58997bbdd85160596e727.png"
     },
     {
       "id": 30188,
       "name": "Admyral",
       "slug": "admyral",
       "website": "https://www.admyral.ai",
-      "description": "Admyral builds AI Agents to automate operations for the 143,000 commercial real estate brokers in the US.\r\nOur first product is an agentic lead generation tool for commercial real estate brokers. We take a property address and use AI Agents to find the owner's contact details. Our deep agentic search beats the industry standard of 40% and is improving daily.",
-      "one_liner": "AI Agents to Automate Operations for Commercial Real Estate",
+      "description": "Admyral is building AI Agents for commercial real estate brokers. Our deep research agents save 30% of the work of a broker by automating finding contact details from property addresses.",
+      "one_liner": "AI Agents for Commercial Real Estate",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4641,10 +4641,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Real Estate",
         "B2B",
-        "Sales",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5269,7 +5268,7 @@
       "slug": "overstand-labs",
       "website": "https://overstandlabs.com",
       "description": "If you\u2019re a founder and feel like you\u2014or your exec team\u2014are too far removed from the customer, Overstand is here to help. We\u2019re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you\u2019re needed most and take action that drives impact. \ud83d\ude80",
-      "one_liner": "Leverage your customer comms to get into Founder Mode",
+      "one_liner": "We help business leaders get back into Founder Mode",
       "batch": "W25",
       "status": "Active",
       "team_size": 4,
@@ -5285,10 +5284,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Customer Success",
         "API",
-        "Customer Support"
+        "Customer Support",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5298,5 +5297,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
     }
   ],
-  "fetched_at": "2025-02-28T00:02:41.160027"
+  "fetched_at": "2025-02-28T06:01:09.932120"
 }
