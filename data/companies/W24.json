@@ -2308,7 +2308,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708458900.0,
@@ -3818,7 +3818,7 @@
         "Automotive"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701065445.0,
@@ -4489,7 +4489,7 @@
       "slug": "resonance",
       "website": "https://www.useresonance.com/",
       "description": "Resonance enables companies to personalize omni-channel marketing campaign content within their existing tools with minimal to no engineering involvement.",
-      "one_liner": "Universal Add-On For Marketing Content Personalization",
+      "one_liner": "Universal add-on for marketing content personalization",
       "batch": "W24",
       "status": "Active",
       "team_size": 2,
@@ -4505,11 +4505,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning",
         "SaaS",
         "Subscriptions",
-        "Marketing",
-        "AI"
+        "Marketing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8271,5 +8271,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-02-27T18:01:30.936138"
+  "fetched_at": "2025-02-28T00:02:38.226346"
 }

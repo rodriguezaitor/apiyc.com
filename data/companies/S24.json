@@ -2382,11 +2382,11 @@
     },
     {
       "id": 29800,
-      "name": "Frontio - by NextUI",
-      "slug": "frontio-by-nextui",
-      "website": "https://frontio.ai",
-      "description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building Frontio a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (frontio.ai).",
-      "one_liner": "Frontio simplifies frontend creation by automating design systems and\u2026",
+      "name": "HeroUI",
+      "slug": "heroui",
+      "website": "https://heroui.chat",
+      "description": "We started with HeroUI, an open-source library that provides React developers with a set of 44 components to create beautiful and accessible interfaces. Now, we\u2019re expanding our vision with HeroUI Chat (heroui.chat), an AI-powered platform that helps developers and teams build beautiful frontends in minutes",
+      "one_liner": "Helping developers build beautiful UIs with AI and open source",
       "batch": "S24",
       "status": "Active",
       "team_size": 3,
@@ -2404,17 +2404,17 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "Design Tools",
-        "AI"
+        "Design Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716301435.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d994f85650ec0d33948010d665ddeff6476ab6a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f324d3272a9c106015bc04587fbb6b150b6e6b1e.png"
     },
     {
       "id": 29799,
@@ -8435,5 +8435,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-02-27T18:01:30.885754"
+  "fetched_at": "2025-02-28T00:02:37.750801"
 }

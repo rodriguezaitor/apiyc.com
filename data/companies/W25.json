@@ -1025,23 +1025,23 @@
       ],
       "locations": "",
       "tags": [
-        "Robotics",
-        "AI"
+        "Artificial Intelligence",
+        "Robotics"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739402915.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f61a620104d762fb5251d86b6311e0d747652b45.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/044a61892de93a1b3b4e729e7a83401954eae201.png"
     },
     {
       "id": 30319,
       "name": "Demeter",
       "slug": "demeter",
       "website": "https://www.joindemeter.com/",
-      "description": "Demeter is an AI fund administration for private investors. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and return analysis, providing insights in minutes instead of weeks.",
-      "one_liner": "AI fund administration for Private Investment Firms",
+      "description": "Demeter provides AI fund administration for private investment firms. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and valuation, providing insights in minutes instead of weeks.",
+      "one_liner": "AI Fund Administration for Private Investment Firms",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2220,8 +2220,8 @@
       "name": "Solidroad",
       "slug": "solidroad",
       "website": "https://solidroad.com",
-      "description": "Solidroad provides quality scoring, personalised coaching, and feedback for your customer conversations in both training and live environments.\r\n\r\nCustomer-facing reps can practice realistic conversations (phone, email, live chat & video call) with AI customers and receive personalised coaching and feedback in a risk-free environment. Solidroad also integrates with your live channels to score conversations and find skill gaps for continuous improvement.\r\n\r\nWe are working with large sales and support orgs to reduce time to proficiency during onboarding, provide massive efficiency gains for enablement and operations teams and improve go-live CSAT scores.\r\n\r\nSolidroad reviews and evaluates 100% of your mock and live customer conversations meaning no more need for you to run manual role-play sessions or manually review calls/chats all day.",
-      "one_liner": "AI-powered coaching platform for customer facing teams.",
+      "description": "Solidroad builds AI agents for sales and support teams, starting with training and QA. Solidroad agents train human reps in a simulated environment, and evaluate their performance in live customer channels.\r\n\r\nBy starting with training and QA, our agents learn how humans learn, and their performance can be compared directly with human reps. This enables us to prove the value of the rest of the agents on our roadmap.\r\n\r\nSince launching last summer, we\u2019ve\u00a0reduced onboarding times by 50%\u00a0at several of the world\u2019s largest outsourced contact centres/BPOs like PartnerHero and Tech Mahindra, and\u00a0improved go-live CSAT at Crypto.com by 3%\u00a0(now above 90% CSAT).",
+      "one_liner": "AI agents for sales and support teams, starting with training and QA.",
       "batch": "W25",
       "status": "Active",
       "team_size": 6,
@@ -2231,10 +2231,10 @@
         "B2B"
       ],
       "regions": [
-        "Ireland",
-        "Europe"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "Dublin, County Dublin, Ireland",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "SaaS"
@@ -2319,7 +2319,7 @@
       "slug": "lucidic-ai",
       "website": "https://lucidic.ai",
       "description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent\u2019s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
-      "one_liner": "See Your Agent's Mind at Work",
+      "one_liner": "Weights & Biases for AI Agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -2335,10 +2335,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3582,18 +3582,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Warehouse Management Tech",
         "Computer Vision",
         "Compliance",
-        "Aerospace",
-        "AI"
+        "Aerospace"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740103642.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/734ad44c0b79afc3fe29d5231486cc6408fe6b95.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dc0216f8ee3fe5abb3ad9f3157d5befe0d616fd.png"
     },
     {
       "id": 30228,
@@ -4004,7 +4004,7 @@
       "name": "Ovlo",
       "slug": "ovlo",
       "website": "https://ovlo.ai",
-      "description": "Ovlo is an AI shopping assistant that revolutionizes e-commerce discovery and conversion. Up to 68% of online shoppers abandon sites due to poor search experiences, leading to an estimated $2 trillion in lost sales annually.\r\n\r\nOvlo addresses this by offering natural, conversational search capabilities, bridging the gap between in-store personal assistance and online shopping. Unlike traditional search functions that often fail with simple queries, Ovlo understands and processes nuanced user requests, ensuring they find exactly what they need.\r\n\r\nOur solution integrates seamlessly within minutes, eliminating the need for complex setups or extensive developer resources. Founded by a team of experts from Meta, Google, and Amazon, Ovlo delivers enterprise-grade technology to merchants without the typical six-figure implementation costs.",
+      "description": "Ovlo is a plug-and-play conversational AI shopping assistant that understands user intent and speaks in every brand\u2019s unique voice. It helps online stores transform browsing into an engaging experience in minutes on any website, boosting conversation and brand love. \r\n",
       "one_liner": "AI Shopping Assistant for Ecommerce ",
       "batch": "W25",
       "status": "Active",
@@ -5298,5 +5298,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
     }
   ],
-  "fetched_at": "2025-02-27T18:01:31.283910"
+  "fetched_at": "2025-02-28T00:02:41.160027"
 }

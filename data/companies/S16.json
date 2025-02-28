@@ -561,6 +561,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1078b114f17bc04ce851bf929fc1bab80789469.png"
     },
     {
+      "id": 1280,
+      "name": "Emote",
+      "slug": "emote",
+      "website": "http://www.emotenow.com",
+      "description": "Emote is an AI-enabled platform that helps schools scale real-time, individualized student support without adding staff. Co-built alongside educators and interventionists, Emote continuously analyzes behavioral and social-emotional data to surface early indicators of need and deliver actionable insights. Schools using Emote can support 8x as many students, 12x earlier, ensuring staff have both the awareness and guidance to provide the right support at the right time. Our platform streamlines interventions by not only identifying students who need attention but also equipping staff with the next steps to maximize impact.",
+      "one_liner": "Catch student behavior problems before they start.",
+      "batch": "S16",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Virtual and Augmented Reality",
+      "industries": [
+        "Consumer",
+        "Virtual and Augmented Reality"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Oakland, CA, USA; Remote",
+      "tags": [
+        "Education",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1461732017.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08f253310a6100a71855365fc6ad76141858dc7.png"
+    },
+    {
       "id": 1277,
       "name": "SmartPath",
       "slug": "smartpath",
@@ -2452,40 +2486,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c829f7c14250a37c4d9ade594c3ff633807302dd.png"
     },
     {
-      "id": 1280,
-      "name": "Emote",
-      "slug": "emote",
-      "website": "http://www.emotenow.com",
-      "description": "Emote is an AI-enabled platform that helps schools scale real-time, individualized student support without adding staff. Co-built alongside educators and interventionists, Emote continuously analyzes behavioral and social-emotional data to surface early indicators of need and deliver actionable insights. Schools using Emote can support 8x as many students, 12x earlier, ensuring staff have both the awareness and guidance to provide the right support at the right time. Our platform streamlines interventions by not only identifying students who need attention but also equipping staff with the next steps to maximize impact.",
-      "one_liner": "Catch student behavior problems before they start.",
-      "batch": "S16",
-      "status": "Inactive",
-      "team_size": 6,
-      "industry": "Consumer",
-      "subindustry": "Education",
-      "industries": [
-        "Consumer",
-        "Virtual and Augmented Reality"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Mateo, CA, USA; Remote",
-      "tags": [
-        "Education",
-        "Healthcare"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1461732017.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08f253310a6100a71855365fc6ad76141858dc7.png"
-    },
-    {
       "id": 1279,
       "name": "Xberts",
       "slug": "xberts",
@@ -3340,5 +3340,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-02-27T18:01:31.606342"
+  "fetched_at": "2025-02-28T00:02:44.295778"
 }
