@@ -343,7 +343,7 @@
       "slug": "tally-2",
       "website": "https://tallyhq.com",
       "description": "Tally is building AI agents for accounting firms. Tally agents operate autonomously in a firm\u2019s existing systems, automating repetitive work across accounting, tax, and audit, helping teams be more efficient and focus their efforts on higher risk, more complex work.",
-      "one_liner": "AI agents for accounting firms",
+      "one_liner": "AI associate for large accounting firms",
       "batch": "W25",
       "status": "Active",
       "team_size": 1,
@@ -358,8 +358,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
-        "AI"
+        "Artificial Intelligence",
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1074,8 +1074,8 @@
       "name": "Wildcard",
       "slug": "wildcard",
       "website": "https://wild-card.ai",
-      "description": "Connect agents to any API in the world with LLM-native interfaces. Wildcard is a developer platform that combines powerful API integrations with intelligent tool orchestration for AI agents. \r\n\r\nOur vision is to be the bridge between AI agents and the world\u2019s APIs.",
-      "one_liner": "Making APIs 'just work' for AI Agents",
+      "description": "Wildcard is the gateway for AI agents to find and use APIs with natural language. We have four official partnerships with API providers like Resend and Alpaca on our open standard to make their APIs ready for agentic traffic.\r\nOur API integrations include: Google Sheets, Stripe, Resend, Slack, Alpaca, Rootly, ...\r\n\r\n\r\n",
+      "one_liner": "Make APIs work for AI Agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1626,9 +1626,7 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -3128,8 +3126,8 @@
       "name": "Gulp",
       "slug": "gulp",
       "website": "https://gulp.ai/",
-      "description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. Our first release is Osmosis: a framework that helps AI agents learn in real-time. | https://gulp.ai/responsive-software.html",
-      "one_liner": "Automating build, test, and deploy for real-time data pipelines ",
+      "description": "We're building Osmosis: an API that helps AI agents learn from experience, in real-time. | https://gulp.ai/responsive-software.html",
+      "one_liner": "Real-Time Self-Improvement for AI Agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3144,11 +3142,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Big Data",
-        "Data Engineering",
-        "Infrastructure",
-        "AI"
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3566,7 +3564,7 @@
       "slug": "maive",
       "website": "",
       "description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there\u2019s $400B being invested to onshore manufacturing, but there\u2019s simultaneously a projected 15% gap in workers needed due to an aging workforce. We\u2019re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today\u2019s manufacturing capacity.",
-      "one_liner": "AI-native manufacturing execution system",
+      "one_liner": "AI-native factory operations platform",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3582,11 +3580,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Warehouse Management Tech",
         "Computer Vision",
         "Compliance",
-        "Aerospace"
+        "Aerospace",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4400,6 +4398,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0325dd0445e6e32c47cab4c3ffeb0610307557e0.png"
     },
     {
+      "id": 30199,
+      "name": "awen",
+      "slug": "awen",
+      "website": "https://www.awen.ai/",
+      "description": "Instead of navigating complex menus or learning new tools, creatives can simply describe their vision in natural language\u2014\u201cDraw me a Swiss mountain lake. Now make it sunset. Add a boat. Now animate it.\u201d\r\n\r\nAwen leverages AI reasoning to understand creative intent through voice. Our goal is to redefine how creatives engage with AI technology, balancing power and ease of use for both professionals and newcomers.",
+      "one_liner": "We are rebuilding photoshop with an AI-voice interface.",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Generative AI",
+        "SaaS",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740711023.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f3190ee23bef18e805a06ab238214a0db50d11.png"
+    },
+    {
       "id": 30197,
       "name": "Alice.tech",
       "slug": "alice-tech",
@@ -4619,7 +4649,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736799545.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bc3a1ad05008f3ceaf58997bbdd85160596e727.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/85fc2e3ee1b407fdf958403fc2fbd25fff6a7cac.png"
     },
     {
       "id": 30188,
@@ -5295,7 +5325,39 @@
       "is_top_company": false,
       "launched_at": 1724369845.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png"
+    },
+    {
+      "id": 28922,
+      "name": "Egress Health",
+      "slug": "egress-health",
+      "website": "https://tryegress.com",
+      "description": "\r\n",
+      "one_liner": "End-To-End Revenue Cycle Automation",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Workflow Automation",
+        "Healthcare",
+        "Health Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1690905553.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-02-28T06:01:09.932120"
+  "fetched_at": "2025-02-28T12:01:33.290106"
 }
