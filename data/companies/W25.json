@@ -474,7 +474,7 @@
       "name": "emojis.com",
       "slug": "emojis-com",
       "website": "https://emojis.com/",
-      "description": "We allow small businesses to easily create brand assets, like logos and icons, with AI. Our users have generated over 5 million assets on our platform.",
+      "description": "Our mission is to give small businesses an AI Graphic Designer to help them create a brand and identity without having to pay \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0 of dollars hire someone.",
       "one_liner": "AI Copilot for Graphic Design",
       "batch": "W25",
       "status": "Active",
@@ -490,9 +490,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Design",
-        "Design Tools",
-        "AI"
+        "Design Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -804,7 +804,7 @@
       "id": 30329,
       "name": "Opine",
       "slug": "opine",
-      "website": "https://opine.chat",
+      "website": "https://opine.cool",
       "description": "Opine is an AI native social media app. Users can create characters with a custom face, voice, and outfit. They can overlay these characters onto any videos of themselves and share them on our platform.",
       "one_liner": "AI-Native Social Media App",
       "batch": "W25",
@@ -822,9 +822,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "Social Media",
-        "AI"
+        "Social Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1781,7 +1781,7 @@
       "slug": "tire-swing",
       "website": "https://gettireswing.com",
       "description": "Tire Swing saves health care companies thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
-      "one_liner": "AI regulatory research and compliance for health care ",
+      "one_liner": "AI for Health Care Compliance",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1809,6 +1809,41 @@
       "is_top_company": false,
       "launched_at": 1740473580.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6e03dc3be9737df64c792b63e036b1c580cf.png"
+    },
+    {
+      "id": 30289,
+      "name": "Sherpa Labs",
+      "slug": "sherpa-labs",
+      "website": "https://www.sherpalabs.ai",
+      "description": "Sherpa Labs is building an agentic data scientist to automate modeling, operations, and communication via a swarm of agents. Their initial product is an agentic data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes \u2014 similar to Glean but for enterprise data systems.",
+      "one_liner": "The AI Data Scientist",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Big Data",
+        "Data Engineering",
+        "Data Visualization",
+        "Search"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1737526775.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png"
     },
     {
       "id": 30288,
@@ -2630,7 +2665,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Industrials",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "Industrials -> Agriculture",
       "industries": [
         "Industrials",
         "Agriculture"
@@ -4688,7 +4723,7 @@
       "name": "Praxim",
       "slug": "praxim",
       "website": "https://www.praxim.ai/",
-      "description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
+      "description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
       "one_liner": "AI-native email and office file editing on one platform",
       "batch": "W25",
       "status": "Active",
@@ -4704,10 +4739,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Consumer",
         "B2B",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -5365,7 +5400,7 @@
       "name": "Egress Health",
       "slug": "egress-health",
       "website": "https://tryegress.com",
-      "description": "\r\n",
+      "description": "Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",
       "one_liner": "End-To-End Revenue Cycle Automation",
       "batch": "W25",
       "status": "Active",
@@ -5393,5 +5428,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-02-28T18:01:28.423966"
+  "fetched_at": "2025-03-01T00:02:57.311338"
 }

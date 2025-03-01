@@ -4488,8 +4488,8 @@
       "name": "Resonance",
       "slug": "resonance",
       "website": "https://www.useresonance.com/",
-      "description": "Resonance enables companies to personalize omni-channel marketing campaign content within their existing tools with minimal to no engineering involvement.",
-      "one_liner": "Universal add-on for marketing content personalization",
+      "description": "Resonance enables companies to personalize omni-channel marketing campaign conversion rates within their existing tools with minimal to no engineering involvement.",
+      "one_liner": "Universal add-on for marketing campaign optimization",
       "batch": "W24",
       "status": "Active",
       "team_size": 2,
@@ -4505,11 +4505,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Reinforcement Learning",
         "SaaS",
         "Subscriptions",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8271,5 +8271,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-02-28T18:01:28.015804"
+  "fetched_at": "2025-03-01T00:02:56.445505"
 }
