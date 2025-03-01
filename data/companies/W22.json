@@ -5804,11 +5804,11 @@
       "name": "voize",
       "slug": "voize",
       "website": "https://voize.de/",
-      "description": "voize is the digital voice assistant for non-desk workers. Professionals like physicians, nurses, test engineers, and scientists spend over 2.5 hours on documentation every day. voize helps them finish it in minutes. The user speaks freely into a smartphone and the voize AI automatically generates structured documentation records. We transfer these documentation records into the existing enterprise software systems of the organization.",
+      "description": "At voize, we\u2019re revolutionizing the healthcare industry with AI: Nurses simply speak their documentation into their smartphones, and our AI automatically generates the correct entries. This saves each nurse an average of 39 minutes per day, improves the quality of documentation, and makes their daily work much more rewarding.\r\n\r\nvoize is YCombinator-funded, already in use at over 600 senior care homes, and has grown by 100% in the last 90 days. Our customers save over 3.5 million hours annually \u2013 time spent on people instead of paperwork.\r\n\r\nBut this is just the beginning. With our self-developed voize AI, we\u2019re transforming not only the healthcare industry, but also have the potential to create value in many other sectors \u2013 from healthcare to inspections.",
       "one_liner": "App for healthcare workers to fill out forms using speech",
       "batch": "W22",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 38,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -5823,7 +5823,9 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
-        "Healthcare"
+        "Machine Learning",
+        "Healthcare",
+        "NLP"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13873,5 +13875,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-01T00:02:55.665933"
+  "fetched_at": "2025-03-01T06:01:01.970768"
 }
