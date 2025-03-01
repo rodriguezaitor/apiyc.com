@@ -2591,7 +2591,7 @@
       "name": "Harbera",
       "slug": "harbera",
       "website": "https://harbera.com/",
-      "description": "Harbera helps hospitals, DSOs and clinic groups keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively re-credentials doctors, preventing denied claims, disruptions in patient care, and tens of billions of lost revenue caused by doctors falling out-of-network.",
+      "description": "Harbera helps hospitals, DSOs and clinic groups keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively helps admin teams re-credential doctors, preventing denied claims, disruptions in patient care, and tens of billions of lost revenue caused by doctors falling out-of-network.",
       "one_liner": "AI provider credentialing software",
       "batch": "W25",
       "status": "Active",
@@ -3695,6 +3695,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d31f3f49a5edce794bad2e27245bc567169b4853.png"
     },
     {
+      "id": 30226,
+      "name": "Tejas AI",
+      "slug": "tejas-ai",
+      "website": "",
+      "description": "Tejas AI eliminates uncertainty, allowing decision-makers to develop and evaluate credit rules more quickly and effectively.",
+      "one_liner": "Risk Decisioning Platform for Indian Banks",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "India",
+        "South Asia"
+      ],
+      "locations": "Mumbai, MH, India",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Finance",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740851644.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/840c36ebb3724b72f41749689acd669665f2e9e5.png"
+    },
+    {
       "id": 30225,
       "name": "Vora AI",
       "slug": "vora-ai",
@@ -4691,8 +4724,8 @@
       "name": "Admyral",
       "slug": "admyral",
       "website": "https://www.admyral.ai",
-      "description": "Admyral is building AI Agents for commercial real estate brokers. Our deep research agents save 30% of the work of a broker by automating finding contact details from property addresses.",
-      "one_liner": "AI Agents for Commercial Real Estate",
+      "description": "Admyral is Apollo.io for real estate data. Real estate brokers and startups use our deep research agents to discover hard-to-find contact details of property owners.",
+      "one_liner": "Admyral is Apollo.io for real estate data.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4706,9 +4739,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4739,10 +4772,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Consumer",
         "B2B",
-        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -5090,8 +5123,8 @@
       "name": "Edexia",
       "slug": "edexia",
       "website": "https://www.edexia.ai/",
-      "description": "Edexia is an AI teaching assistant that grades papers for teachers. It learns the style of each individual teacher, so it can grade just like they do, saving up to 100% of grading time.  \r\nEdexia can grade assignments from any curriculum, year level, subject, or format. Learning like a teacher, it visually breaks down its understanding of the rubric, and updates this as a teacher corrects its grading on the fly. \r\nOur vision is to transform education by facilitating the safe and effective integration of AI across all institutions and applications. Not using AI to replace teachers but rather to empower them\u2014providing them with all the time and resources they need to develop their students.",
-      "one_liner": "AI Teaching Assistant for Grading Papers",
+      "description": "Edexia is an AI Teacher Assistant for grading essays. It can be trained and controlled by the teacher and can grade assignments from any curriculum, year level, subject, or format. \r\n\r\nLearning like a teacher, Edexia visually breaks down its understanding of the rubric, and updates this as a teacher corrects it.\r\n\r\nOur vision is to transform education by facilitating AI\u2019s safe and effective integration across all institutions and applications. Not using AI to replace teachers but rather to empower them\u2014providing them with all the time and resources they need to develop their students.",
+      "one_liner": "AI Teacher Assistant for Grading Essays",
       "batch": "W25",
       "status": "Active",
       "team_size": 4,
@@ -5107,9 +5140,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Education",
         "SaaS",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5428,5 +5461,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-01T12:01:11.309640"
+  "fetched_at": "2025-03-01T18:01:05.711230"
 }
