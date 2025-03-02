@@ -975,7 +975,7 @@
       "name": "Woz",
       "slug": "woz",
       "website": "https://withwoz.com/",
-      "description": "Woz is an AI platform that enables anyone to build and scale software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nOur first customers include a personal trainer building a fitness app for his clients, a property manager building a tool for managing security deposits, a doctor launching a coaching program to augment GLP1s and more. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. \r\n",
+      "description": "Woz is an AI platform that enables anyone to build and scale real software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nTo start, we\u2019re helping entrepreneurs build high quality mobile apps and launch them directly to the app store. For example, one of our first customers is a personal trainer building a fitness app for his clients. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. ",
       "one_liner": "AI platform enabling anyone to build and scale software businesses",
       "batch": "W25",
       "status": "Active",
@@ -3698,7 +3698,7 @@
       "id": 30226,
       "name": "Tejas AI",
       "slug": "tejas-ai",
-      "website": "",
+      "website": "https://www.trytejas.ai/",
       "description": "Tejas AI eliminates uncertainty, allowing decision-makers to develop and evaluate credit rules more quickly and effectively.",
       "one_liner": "Risk Decisioning Platform for Indian Banks",
       "batch": "W25",
@@ -3715,10 +3715,10 @@
       ],
       "locations": "Mumbai, MH, India",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Finance",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4519,10 +4519,10 @@
       "locations": "Copenhagen, Denmark",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Education",
         "Generative AI",
-        "SaaS",
-        "AI"
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5140,9 +5140,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Education",
         "SaaS",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5461,5 +5461,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-01T18:01:05.711230"
+  "fetched_at": "2025-03-02T00:02:56.725246"
 }
