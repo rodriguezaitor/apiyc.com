@@ -2957,6 +2957,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png"
     },
     {
+      "id": 30254,
+      "name": "hud",
+      "slug": "hud",
+      "website": "https://hud.so",
+      "description": "",
+      "one_liner": "Evals for Computer Use agents",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Data Labeling",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740930546.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ba1775f18d84d7a5c6d25f0e693dc75df8d544.png"
+    },
+    {
       "id": 30253,
       "name": "finbar",
       "slug": "finbar",
@@ -5461,5 +5494,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-02T12:01:35.237302"
+  "fetched_at": "2025-03-02T18:01:10.728484"
 }
