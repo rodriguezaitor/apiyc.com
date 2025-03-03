@@ -309,8 +309,8 @@
       "name": "TrainLoop",
       "slug": "trainloop",
       "website": "http://trainloop.ai",
-      "description": "TrainLoop makes it effortless for developers to improve reasoning models like deepseek-r1 for their task.",
-      "one_liner": "Fine-tune reasoning models",
+      "description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning..",
+      "one_liner": "Reasoning Fine-Tuning",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1613,8 +1613,8 @@
       "name": "Infinite",
       "slug": "infinite",
       "website": "https://infinite.dev",
-      "description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to move money cross-border same-day and with low fees to over 150+ countries.",
-      "one_liner": "Fast, affordable global B2B payments",
+      "description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to instantly move money anywhere in the world at a fraction of the cost of traditional solutions.",
+      "one_liner": "Global B2B Stablecoin Processor",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -1631,7 +1631,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Payments",
-        "B2B"
+        "B2B",
+        "Compliance"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3566,7 +3567,7 @@
       "slug": "carecycle",
       "website": "https://www.careCycle.ai",
       "description": "careCycle is an AI workforce for medicare agencies and FMOs - helping leading agencies achieve 5x higher conversions, 37% better retention, and saving thousands of agent hours.\r\n\r\nWe're transforming how Medicare agencies handle member relationships with teams of voice AI agents. We're solving the industry's biggest challenge: 50% annual member churn caused by poor post-enrollment engagement.\r\n\r\nOur multi-agent AI teams work together to handle the entire customer journey - from initial contact through enrollment and ongoing care. When a lead comes in after hours, one AI agent answers and schedules a callback, another calls at the perfect time, a third captures qualifying information, and a fourth handles the warm transfer to a licensed agent. This approach helped a leading FMO write over $2M in renewals during AEP 2024 while reducing agent talk time by 20% per sale.\r\n\r\nWe've pioneered a purpose-built solution for Medicare's unique compliance requirements. Unlike generic AI platforms, our system features built-in HIPAA/CMS compliance, real-time data structuring, and seamless CRM integration. This enables agencies of all sizes to deliver enterprise-grade member care without massive infrastructure investments.\r\n\r\nEarly metrics show the power of our approach:\r\n\r\n- 5x increase in after-hours conversion rates\r\n- 37% improvement in 90-day retention\r\n- 3,000+ agent hours saved in a single AEP\r\n- $2M+ in additional renewals during AEP 2024\r\n\r\nThe Medicare Advantage market represents a massive opportunity, with over $360B in annual premiums and growing 10% year over year. By solving the member retention challenge, we're positioning ourselves to capture significant value by transforming the member care experience for beneficiaries.",
-      "one_liner": "Voice AI teams for medicare and ACA distributors.",
+      "one_liner": "Voice AI teams for medicare agencies.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -5494,5 +5495,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-03T00:02:41.618446"
+  "fetched_at": "2025-03-03T06:01:09.162556"
 }

@@ -6938,11 +6938,11 @@
       "name": "Rubber Ducky Labs",
       "slug": "rubber-ducky-labs",
       "website": "https://www.rubberduckylabs.io/",
-      "description": "Do you want to optimize revenue, engagement, or both? Our team of experts will get you great results, quickly. ",
-      "one_liner": "We know recommender systems.",
+      "description": "We built Rubber Ducky Labs to help e-commerce teams effortlessly improve product discovery through better metadata. Our tool enables non-technical users to leverage multi-modal AI on product catalogs\u2014just upload a CSV and start tagging metadata in minutes.",
+      "one_liner": "Better product metadata in minutes.",
       "batch": "W23",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -6950,11 +6950,17 @@
         "Engineering, Product and Design"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Remote",
-      "tags": [],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "E-commerce",
+        "AI",
+        "Recommendation System"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -9349,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-03T00:02:38.839854"
+  "fetched_at": "2025-03-03T06:01:08.668018"
 }
