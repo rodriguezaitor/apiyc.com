@@ -874,7 +874,7 @@
       "name": "Roark",
       "slug": "roark",
       "website": "https://roark.ai",
-      "description": "Roark simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
+      "description": "Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
       "one_liner": "Observability and Testing for Voice AI",
       "batch": "W25",
       "status": "Active",
@@ -893,8 +893,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -5495,5 +5495,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-03T06:01:09.162556"
+  "fetched_at": "2025-03-03T12:01:37.174868"
 }
