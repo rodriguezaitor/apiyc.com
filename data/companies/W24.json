@@ -1247,7 +1247,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1704454195.0,
@@ -3923,7 +3923,7 @@
       "name": "PySpur.dev",
       "slug": "pyspur-dev",
       "website": "http://pyspur.dev",
-      "description": "",
+      "description": "AI engineers use PySpur to build, debug, and deploy AI agents.",
       "one_liner": "Open Source AI Agents Builder",
       "batch": "W24",
       "status": "Active",
@@ -3940,9 +3940,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8265,5 +8265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-03T12:01:34.514585"
+  "fetched_at": "2025-03-03T18:01:16.093960"
 }
