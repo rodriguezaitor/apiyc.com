@@ -941,11 +941,11 @@
       "name": "Spott",
       "slug": "spott",
       "website": "https://spott.io",
-      "description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
-      "one_liner": "AI for Executive Search",
+      "description": "Spott is the AI-native ATS & CRM built for recruiting and executive search firms. Our platform gets rid of manual data entry, automates repetitive workflows with AI agents, and accelerates recruiters' decision-making.",
+      "one_liner": "AI-Native Recruitment platform",
       "batch": "W25",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
@@ -957,11 +957,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "HR Tech",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2153,7 +2153,7 @@
       "name": "Agentin AI",
       "slug": "agentin-ai",
       "website": "https://www.agentin.ai",
-      "description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
+      "description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce, NetSuite and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
       "one_liner": "AI Agents to automate Order to Cash",
       "batch": "W25",
       "status": "Active",
@@ -2169,9 +2169,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Reinforcement Learning",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2977,10 +2977,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Data Labeling",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3648,18 +3648,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Warehouse Management Tech",
         "Computer Vision",
         "Compliance",
-        "Aerospace",
-        "AI"
+        "Aerospace"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740103642.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dc0216f8ee3fe5abb3ad9f3157d5befe0d616fd.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8c2773604bbaf5a32094fbcb757b92f9d29a32e.png"
     },
     {
       "id": 30228,
@@ -5494,5 +5494,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-02T18:01:10.728484"
+  "fetched_at": "2025-03-03T00:02:41.618446"
 }
