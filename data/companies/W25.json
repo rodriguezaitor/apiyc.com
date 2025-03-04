@@ -3766,8 +3766,8 @@
       "name": "Vora AI",
       "slug": "vora-ai",
       "website": "https://www.usevora.ai/",
-      "description": "Vora is building AI digital workers for hiring teams. We enable companies to cut time-to-hire for the top candidates by 50%.\r\n\r\nRachel - our AI recruiter - sources candidates, screens inbound applications (with resume and voice screens) and shortlists the top candidates so hiring teams can focus on closing the best talent faster.",
-      "one_liner": "AI agents for hiring teams",
+      "description": "Vora gives every hiring manager an AI recruiter. Our AI agent, Rachel, automates talent sourcing by handling everything from identifying top talent, to writing personalized outreach to scheduling interviews directly on the hiring manager's calendar. This allows teams to focus on what matters most - talking to and closing the best candidates.\r\n\r\nWe believe that selling the work, not software, is the best way to unlock the true productivity gains of GenAI.",
+      "one_liner": "AI recruiter for hiring managers",
       "batch": "W25",
       "status": "Active",
       "team_size": 1,
@@ -4673,7 +4673,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Fintech",
-      "subindustry": "Unspecified",
+      "subindustry": "Fintech -> Consumer Finance",
       "industries": [
         "Fintech",
         "Consumer Finance"
@@ -5295,7 +5295,7 @@
       "name": "Delineate",
       "slug": "delineate",
       "website": "https://delineate.pro/",
-      "description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\r\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\r\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\r\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\r\nDelineate has generated $160K in revenue through data contracts with Sanofi and Roche, conducting some of the largest aggregated research studies to date.",
+      "description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\r\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\r\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\r\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\r\nDelineate has worked with two top-10 pharma companies and conducted some of the largest aggregated research studies to date.",
       "one_liner": "Extract meaningful data from research literature and patents at scale.",
       "batch": "W25",
       "status": "Active",
@@ -5314,9 +5314,9 @@
       ],
       "locations": "Boston, MA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Biotech",
-        "AI"
+        "Biotech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5495,5 +5495,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-03T18:01:18.795080"
+  "fetched_at": "2025-03-04T00:02:43.163929"
 }

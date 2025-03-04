@@ -6176,7 +6176,7 @@
         "Consumer"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1646685328.0,
@@ -10577,7 +10577,7 @@
       "one_liner": "Robots for longer-lasting, better-tasting fish at scale.",
       "batch": "W22",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 28,
       "industry": "Industrials",
       "subindustry": "Industrials -> Agriculture",
       "industries": [
@@ -10588,7 +10588,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "New York, NY, USA",
+      "locations": "El Segundo, CA, USA",
       "tags": [
         "Hardware",
         "Robotics",
@@ -13841,5 +13841,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-03T18:01:13.968884"
+  "fetched_at": "2025-03-04T00:02:42.571697"
 }
