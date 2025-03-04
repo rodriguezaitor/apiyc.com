@@ -2727,7 +2727,7 @@
       "name": "Lucid",
       "slug": "lucid",
       "website": "https://lucidsim.co/",
-      "description": "We are building generative simulations of the world powered by fast world models.\r\n\r\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\r\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\r\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\r\nWe are now training on real-world footage and are building a general-purpose universe simulator to power the next generation of video games and reinforcement learning gyms for robotics.",
+      "description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami (a highschool dropout from Ethiopia) previously founded a telecom services company and was the CTO of the largest govtech contractor in Ethiopia.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we\u2019re training a hyper realistic world model!",
       "one_liner": "Generative simulations powered by fast world models",
       "batch": "W25",
       "status": "Active",
@@ -2977,12 +2977,7 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Developer Tools",
-        "Data Labeling",
-        "Infrastructure",
-        "AI"
-      ],
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5495,5 +5490,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-04T00:02:43.163929"
+  "fetched_at": "2025-03-04T06:01:17.966813"
 }

@@ -7069,42 +7069,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/87bf8e05766a109cbdca1dfc5bfa3fa7f69f32d8.png"
     },
     {
-      "id": 27712,
-      "name": "Brewit",
-      "slug": "brewit",
-      "website": "https://brewit.ai/",
-      "description": "Brewit helps companies to create their role-specific BI agents, trained on their database (through feeding sample queries, metric definitions, column descriptions, etc. to create a semantic layer) that can answer data questions/provide data insights (write SQL, generate plots) through a natural language experience.",
-      "one_liner": "Conversational data analytics for every team",
-      "batch": "W23",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Palo Alto, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Analytics",
-        "Data Visualization",
-        "AI Assistant"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1674519292.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b28deb84212c3ba86685834131a7f0142304f1d.png"
-    },
-    {
       "id": 27710,
       "name": "Hammr",
       "slug": "hammr",
@@ -8617,6 +8581,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b3a15112db36cea4190b3079ddeba5278c19f7f.png"
     },
     {
+      "id": 27712,
+      "name": "Brewit",
+      "slug": "brewit",
+      "website": "https://brewit.ai/",
+      "description": "Brewit helps companies to create their role-specific BI agents, trained on their database (through feeding sample queries, metric definitions, column descriptions, etc. to create a semantic layer) that can answer data questions/provide data insights (write SQL, generate plots) through a natural language experience.",
+      "one_liner": "Conversational data analytics for every team",
+      "batch": "W23",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Analytics",
+        "Data Visualization",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1674519292.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b28deb84212c3ba86685834131a7f0142304f1d.png"
+    },
+    {
       "id": 27703,
       "name": "Dashdive",
       "slug": "dashdive",
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-04T00:02:42.759350"
+  "fetched_at": "2025-03-04T06:01:14.279856"
 }

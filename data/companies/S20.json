@@ -1060,42 +1060,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8db23c586149f6e05d32286d54acbfed108a0c15.png"
     },
     {
-      "id": 22151,
-      "name": "AI.Fashion",
-      "slug": "ai-fashion",
-      "website": "https://www.ai.fashion",
-      "description": "AI.Fashion is the AI creative suite for the fashion industry - modernizing the traditional design and go to market fashion processes with our advanced AI platform and design tools.\r\n\r\nOn the design side - our platform allows brands to create physically accurate digital versions of their unreleased clothing line before even beginning their productions processes, dramatically helping to reduce waste. \r\n\r\nAnd on the marketing side - we enable them to create photorealistic imagery of the clothing on a multitude of sizes, which creates a better experience for their customers because they have way more information about how the clothing will actually fit before they purchase.",
-      "one_liner": "AI.Fashion is the AI creative suite for the fashion industry.",
-      "batch": "S20",
-      "status": "Active",
-      "team_size": 11,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Marketing"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Los Angeles, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Design",
-        "Fashion"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1599762607.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/287995687a9786c7778f274e8e79316c0534ed44.png"
-    },
-    {
       "id": 22148,
       "name": "Spenmo",
       "slug": "spenmo",
@@ -6251,6 +6215,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8e5cb4b22f095f64a29038540f9f3308d81d06.png"
     },
     {
+      "id": 22151,
+      "name": "AI.Fashion",
+      "slug": "ai-fashion",
+      "website": "https://www.ai.fashion",
+      "description": "AI.Fashion is the AI creative suite for the fashion industry - modernizing the traditional design and go to market fashion processes with our advanced AI platform and design tools.\r\n\r\nOn the design side - our platform allows brands to create physically accurate digital versions of their unreleased clothing line before even beginning their productions processes, dramatically helping to reduce waste. \r\n\r\nAnd on the marketing side - we enable them to create photorealistic imagery of the clothing on a multitude of sizes, which creates a better experience for their customers because they have way more information about how the clothing will actually fit before they purchase.",
+      "one_liner": "AI.Fashion is the AI creative suite for the fashion industry.",
+      "batch": "S20",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Design",
+        "Fashion"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1599762607.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/287995687a9786c7778f274e8e79316c0534ed44.png"
+    },
+    {
       "id": 22106,
       "name": "Letter",
       "slug": "letter",
@@ -7126,5 +7126,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-03-04T00:02:43.040055"
+  "fetched_at": "2025-03-04T06:01:16.813938"
 }
