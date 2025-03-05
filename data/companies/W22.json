@@ -7801,14 +7801,14 @@
     },
     {
       "id": 25572,
-      "name": "91Squarefeet",
-      "slug": "91squarefeet",
-      "website": "https://www.91squarefeet.com/",
-      "description": "91Squarefeet\u00a0is solving the coordination problem in interior projects. These projects require high-frequency coordination over a small time window, and we have found a neat solution.\u00a0\r\n\r\nOur tech,\u00a0Rdash.io, onboarded 150 organizations in its first 12 months. ICICI Bank, Shopper Stop, and Simpliwork use it for project tracking, subcontracting, and procurement. Monthly, $15Mn projects are created and $5Mn procurement happens on Rdash. Companies that are using Rdash typically save 10% in their fit-out expenditure. \r\n\r\nOn the back of this tech, we have scaled our business of building offices and retail shops to $10Mn Annualised Revenue. We have built 1100+ offices and retail shops for MongoDB, HSBC, Calvin Klein, and 60 other customers. \r\n",
-      "one_liner": "Software and Service to build offices and Retail Shops",
+      "name": "Rdash",
+      "slug": "rdash",
+      "website": "https://www.rdash.io",
+      "description": "RDash is a new age construction management platform for Developers, contractors and design studios. It enables complete workflow automation for design, projects, procurement, and finance professionals involved in construction and interior projects management.",
+      "one_liner": "New Age ERP for interior and construction business",
       "batch": "W22",
       "status": "Active",
-      "team_size": 180,
+      "team_size": 80,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -7819,7 +7819,7 @@
         "India",
         "South Asia"
       ],
-      "locations": "Gurugram, HR, India; HR, India",
+      "locations": "Gurugram, HR, India",
       "tags": [
         "SaaS",
         "Construction",
@@ -7832,7 +7832,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1639295631.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/77334afe747b7e5fa60719a72f0db039849b4bf0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/def911c8f3c9b81c8e514a4f1b29d88c06452d30.png"
     },
     {
       "id": 25571,
@@ -13839,5 +13839,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-05T06:01:05.665504"
+  "fetched_at": "2025-03-05T12:01:37.089030"
 }
