@@ -5746,11 +5746,11 @@
       "name": "Parahelp",
       "slug": "parahelp",
       "website": "https://parahelp.com/",
-      "description": "Parahelp is an AI support agent for software companies.\r\n\r\nUnlike other chatbots, Parahelp can resolve complex support tickets end-to-end, such as troubleshooting product issues and managing subscriptions, by following your policies and using your existing knowledge base, tools (like Stripe, Slack, and Linear), and API endpoints.",
-      "one_liner": "The AI support agent for fast-growing software companies",
+      "description": "Parahelp is the AI support agent for software companies.\r\n\r\nLike a teammate, it resolves support tickets end-to-end by using a company's existing knowledge base, SOPs, and tools (like Slack, Stripe, Retool, and Linear).",
+      "one_liner": "The AI support agent for software companies",
       "batch": "S24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -5762,15 +5762,9 @@
         "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Customer Service",
-        "Customer Support",
-        "Ticketing"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720219864.0,
@@ -8409,5 +8403,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-05T12:01:37.431356"
+  "fetched_at": "2025-03-05T18:01:10.544892"
 }

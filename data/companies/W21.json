@@ -1635,7 +1635,7 @@
         "Nonprofit"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": true,
       "is_top_company": false,
       "launched_at": 1613154543.0,
@@ -7136,7 +7136,7 @@
       "id": 22738,
       "name": "Pragmatic Leaders (Ankai Inc)",
       "slug": "pragmatic-leaders-ankai-inc",
-      "website": "https://truemerit.io",
+      "website": "https://pragmaticleaders.io/",
       "description": "Pragmatic Leaders runs online training programs in product management for mid-career professionals in India. We are a better, faster, and cost-effective alternative to getting an MBA in specialized tech business roles like product, growth, and marketing \r\n",
       "one_liner": "Better, faster and cost-effective alternative to MBA - free till hired",
       "batch": "W21",
@@ -7157,9 +7157,9 @@
       "locations": "Gurugram, HR, India; Remote",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Machine Learning",
-        "Recruiting"
+        "Recruiting",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -11551,5 +11551,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-03-05T12:01:37.251195"
+  "fetched_at": "2025-03-05T18:01:09.866446"
 }
