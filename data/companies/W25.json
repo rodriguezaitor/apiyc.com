@@ -4566,14 +4566,15 @@
       "slug": "stamp",
       "website": "https://www.stampmail.ai/",
       "description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
-      "one_liner": "The AI Inbox",
+      "one_liner": "The First AI Native Email Client",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -4582,7 +4583,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Generative AI",
-        "Machine Learning"
+        "Machine Learning",
+        "SaaS",
+        "Productivity",
+        "Email"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5488,5 +5492,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-05T00:02:46.538755"
+  "fetched_at": "2025-03-05T06:01:10.087148"
 }
