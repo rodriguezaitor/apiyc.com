@@ -4856,8 +4856,8 @@
       "name": "Hydra",
       "slug": "hydra",
       "website": "https://hydra.so",
-      "description": "Hydra is an open source, analytics database that makes it easy to build apps, analytics, and ML on real-time data. It operates 100-1000X faster than traditional analytics databases (OLAP) that require data ingestion and transformation from external data source like Postgres and Amazon S3. With Hydra, high performance analytical processing runs directly on live transactions and real-time event data with zero-ETL.\r\n\r\nEvery Hydra project includes a fully managed Postgres database, integrated analytical processing, and bottomless, globally distributed object storage so you can ship sub-second analytics with any application in an afternoon.",
-      "one_liner": "We make it easier to build apps and analytics on real-time data",
+      "description": "Hydra is Postgres with serverless online analytical processing (OLAP). It is designed for low-latency applications built on time series and event data.\r\n\r\nHydra is available for both local development and a cloud offering which provides every project a managed Postgres database, serverless analytical processing, and bottomless storage.",
+      "one_liner": "Serverless realtime analytics on Postgres",
       "batch": "W22",
       "status": "Active",
       "team_size": 6,
@@ -5313,7 +5313,7 @@
       "name": "Dojah Inc",
       "slug": "dojah-inc",
       "website": "https://www.dojah.io",
-      "description": "Dojah is an end-to-end AI Powered Fraud Prevention and KYC Platform. From onboarding to ongoing monitoring, we are helping businesses fight financial crime and onboard customers faster.",
+      "description": "Dojah is the anti-fraud infrastructure for the internet, helping businesses verify identities, detect fraud, and stay compliant with powerful APIs and no-code tools. Fintechs, banks, and digital businesses rely on Dojah\u2019s solutions for seamless user onboarding, AI-driven fraud detection, KYC & KYB verification, and transaction monitoring.\r\n\r\nBy leveraging government data lookups, biometric authentication, and real-time risk analysis, Dojah ensures businesses can mitigate fraud risks, improve user trust, and scale efficiently while staying compliant with regulatory standards.",
       "one_liner": "Prevent Fraud and Onboard Users Faster",
       "batch": "W22",
       "status": "Active",
@@ -5326,18 +5326,16 @@
       ],
       "regions": [
         "United States of America",
-        "Nigeria",
         "America / Canada",
-        "Africa",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA; Lagos, LA, Nigeria; Remote",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "Identity"
+        "Identity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8768,41 +8766,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b81503bc6d67c29826f3b2834f6388615f47e681.png"
     },
     {
-      "id": 25513,
-      "name": "Valari",
-      "slug": "valari",
-      "website": "http://valari.co",
-      "description": "At Valari, we are on a mission to democratize access to financial services in LatAm, by allowing any company to launch fintech products and services. \r\n\r\nWith our simple APIs, tech companies can easily embed a financial product in their platforms.\r\n",
-      "one_liner": "Embedded finance platform for LatAm.",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "Fintech",
-      "subindustry": "Fintech",
-      "industries": [
-        "Fintech"
-      ],
-      "regions": [
-        "Mexico",
-        "Latin America",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Mexico City, CDMX, Mexico; Remote",
-      "tags": [
-        "Banking as a Service",
-        "Fintech",
-        "B2B",
-        "API"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1645992752.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cf15b2614d9edde0b8a838c17ad93d43e934e83.png"
-    },
-    {
       "id": 25512,
       "name": "Ankr Health",
       "slug": "ankr-health",
@@ -10151,41 +10114,6 @@
       "is_top_company": false,
       "launched_at": 1646793295.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc25fe4380bf11b306b2a0f91fc2fbedfdf75998.png"
-    },
-    {
-      "id": 25353,
-      "name": "Sarus",
-      "slug": "sarus",
-      "website": "https://www.sarus.tech",
-      "description": "Sarus solves the problem of accessing or sharing personal data for analytics or machine learning. \r\nThe solution deploys natively in data infrastructures and lets practitioners work on data they cannot see. Every interaction with the sensitive data is protected with the highest privacy standard: differential privacy\r\nSarus makes traditional anonymization methods irrelevant, saving months in compliance and data engineering while preserving all of the value of data.",
-      "one_liner": "Use personal data for analytics and ML, safely and seamlessly",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 16,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "France",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Paris, \u00cele-de-France, France",
-      "tags": [
-        "Analytics",
-        "Compliance",
-        "Data Engineering"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1642494204.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eeaf8f8226d85960b7834ae51a48adfa24515b3b.png"
     },
     {
       "id": 25351,
@@ -11873,8 +11801,8 @@
       "name": "Compra R\u00e1pida",
       "slug": "compra-rapida",
       "website": "https://www.comprarapida.co/",
-      "description": "Compra R\u00e1pida is the fastest way to checkout in LatAm, leveraging customer experience and conversion rates. We work across all platforms, empowering anyone to collect payments in just one-click.",
-      "one_liner": "One-click checkout for LatAm.",
+      "description": "Compra R\u00e1pida is checkout made easy. Our platform offers a headless checkout experience for e-commerce stores, enabling retailers to increase conversions, retain abandonment, and boost sales. Registered users can buy at any e-commerce site from our network without requiring lengthy registration forms or complicated payment processes. Stores can automate their sales and recovery flows with our AI sales assistant. We aim to empower retailers to sell more while providing shoppers with a superior, humanized, and effortless buying experience.",
+      "one_liner": "One-click checkout and AI sales assistant for LatAm.",
       "batch": "W22",
       "status": "Active",
       "team_size": 10,
@@ -12868,6 +12796,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/077148a8281f282d5a5d6825d93aedf0b71c08b4.png"
     },
     {
+      "id": 25353,
+      "name": "Sarus",
+      "slug": "sarus",
+      "website": "https://www.sarus.tech",
+      "description": "Sarus solves the problem of accessing or sharing personal data for analytics or machine learning. \r\nThe solution deploys natively in data infrastructures and lets practitioners work on data they cannot see. Every interaction with the sensitive data is protected with the highest privacy standard: differential privacy\r\nSarus makes traditional anonymization methods irrelevant, saving months in compliance and data engineering while preserving all of the value of data.",
+      "one_liner": "Use personal data for analytics and ML, safely and seamlessly",
+      "batch": "W22",
+      "status": "Acquired",
+      "team_size": 16,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "France",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Paris, \u00cele-de-France, France",
+      "tags": [
+        "Analytics",
+        "Compliance",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1642494204.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eeaf8f8226d85960b7834ae51a48adfa24515b3b.png"
+    },
+    {
       "id": 25344,
       "name": "Proper",
       "slug": "proper",
@@ -13518,6 +13481,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b558731717f275fda1e0113ad54aa54d77d8cd3e.png"
     },
     {
+      "id": 25513,
+      "name": "Valari",
+      "slug": "valari",
+      "website": "http://valari.co",
+      "description": "At Valari, we are on a mission to democratize access to financial services in LatAm, by allowing any company to launch fintech products and services. \r\n\r\nWith our simple APIs, tech companies can easily embed a financial product in their platforms.\r\n",
+      "one_liner": "Embedded finance platform for LatAm.",
+      "batch": "W22",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Mexico City, CDMX, Mexico; Remote",
+      "tags": [
+        "Banking as a Service",
+        "Fintech",
+        "B2B",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1645992752.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cf15b2614d9edde0b8a838c17ad93d43e934e83.png"
+    },
+    {
       "id": 25404,
       "name": "Castia",
       "slug": "castia",
@@ -13841,5 +13839,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-04T18:01:23.890809"
+  "fetched_at": "2025-03-05T00:02:41.370367"
 }
