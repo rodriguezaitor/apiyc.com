@@ -875,7 +875,7 @@
       "slug": "roark",
       "website": "https://roark.ai",
       "description": "Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
-      "one_liner": "Observability and Testing for Voice AI",
+      "one_liner": "Datadog for Voice AI",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -893,8 +893,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Analytics",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1275,7 +1275,7 @@
       "name": "Archon",
       "slug": "archon",
       "website": "https://archon.inc",
-      "description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
+      "description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
       "one_liner": "We help software companies sell to government.",
       "batch": "W25",
       "status": "Active",
@@ -1291,11 +1291,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
         "B2B",
         "Compliance",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3024,7 +3024,7 @@
       "slug": "cuckoo-labs",
       "website": "https://www.cuckoo.so/",
       "description": "Cuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings for even the most technical discussions.\r\n\r\nCuckoo instantly learns the technical details of your conversation from your keywords and documents and interprets into over 20 languages\u2014customized for your specific industry and organization. ",
-      "one_liner": "AI interpreter for global sales, marketing, and sales.",
+      "one_liner": "Real-time AI translator for global sales and marketing",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3039,9 +3039,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3107,8 +3107,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3242,8 +3242,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Video",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3479,10 +3479,10 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Logistics",
-        "Transportation"
+        "Transportation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5492,5 +5492,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-06T06:01:11.639198"
+  "fetched_at": "2025-03-06T12:01:25.045755"
 }
