@@ -146,7 +146,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730157813.0,
@@ -487,7 +487,7 @@
       "slug": "foundry",
       "website": "https://www.foundryrl.com/",
       "description": "We\u2019re building the first end-to-end evaluation and training platform for Browser agents. Our system enables teams to test, benchmark, and optimize browser automation models at scale.\r\n\r\n- Deterministic Web Simulation \u2192 Stable, reproducible testing with versioned web snapshots.\r\n- Live Web Evaluation \u2192 Identify failures caused by UI drift, captchas, and dynamic content.\r\n- Automated Annotation & Labeling \u2192 Generate high-quality training data for benchmarking.\r\n- RL-Driven Agent Optimization \u2192 Improve models with scalable, feedback-driven learning.\r\n\r\nBy combining synthetic user simulations, automated evaluations, and large-scale benchmarking, we help teams build more reliable web agents that handle real-world environments with confidence.",
-      "one_liner": "Testing & Optimization for Browser Agents",
+      "one_liner": "Evals for Browser Agents",
       "batch": "F24",
       "status": "Active",
       "team_size": 2,
@@ -503,11 +503,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Deep Learning",
         "Developer Tools",
         "Reinforcement Learning",
-        "Data Labeling",
-        "AI"
+        "Data Labeling"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3124,5 +3124,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-03-06T00:02:50.089292"
+  "fetched_at": "2025-03-06T06:01:14.130651"
 }

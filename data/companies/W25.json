@@ -244,7 +244,7 @@
       "slug": "axal",
       "website": "https://www.axal.ai/",
       "description": "Axal decreases the risk of modernization by automating the identification of architectural technical debt in monolithic codebases and prioritizing refactoring opportunities based on business goals.\r\n\r\nWe provide observability into your codebase, finding anti-patterns that stop your team from reaching their goals. By identifying domains (logical areas of functionality) within the monolith, Axal quantifies areas of technical debt into KPIs, helping executives pinpoint where modernization efforts will be most effective so your team can focus on the important work first.\r\n",
-      "one_liner": "Untangle Your Legacy Monolith",
+      "one_liner": "Re-architect your code in 30 days.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3107,6 +3107,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Edtech"
       ],
       "stage": "Early",
@@ -4269,8 +4270,8 @@
       "name": "Promptless",
       "slug": "promptless",
       "website": "https://gopromptless.ai/",
-      "description": "Promptless automatically updates your customer-facing documentation, including tutorials, how-to guides, API specs, knowledge bases, support articles, and blog posts. This content is often one of the first points of contact between your product and its users. Clear, accurate, and up-to-date docs are critical, influencing buying decisions, reducing support overhead, and increasing LTV. \r\n\r\nProviders like Readme and Mintlify effectively host your docs, but keeping them updated remains a serious challenge. Working alongside your hosting provider, Promptless lets you configure triggers so that your docs get automatically updated upon new feature releases, developer support questions, or internal use-case discussions. \r\n\r\nPromptless integrates directly with your organization\u2019s entire knowledge ecosystem \u2013 issue trackers, internal knowledge bases, support ticket systems, and more \u2013 leading to holistic doc updates without expensive coordination between product, engineering, and support teams. \r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
-      "one_liner": "Automatic updates for your customer-facing docs",
+      "description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible\u2014it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
+      "one_liner": "An AI teammate that automatically updates your customer-facing docs",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4286,11 +4287,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4531,7 +4532,7 @@
       "name": "Alice.tech",
       "slug": "alice-tech",
       "website": "https://www.alice.tech/",
-      "description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice\u2014students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 7,000 students have already used Alice, and we are growing MRR +60% MoM.",
+      "description": "Alice turns generic course materials into personalized learning and exam prep using AI. We\u2019re Duolingo  for exams, and more than 10k college students have already used Alice. \r\n\r\nKim and Patrick are both technical, with computer science degrees from Oxford and Imperial. Kim, the CEO, is a domain expert in education with more than 10+ years of university teaching experience \r\n\r\nMRR is $20k, growing +10% week-over-week the last 8 weeks\r\n\r\nAlice's core market opportunity is +$10b, with the global education market being almost $10trillion. As AI starts to disrupt education, Alice will use in-built network effects and virality in its product to create a global winner. \r\n\r\nGo Alice. Thank you!",
       "one_liner": "AI-driven exam prep",
       "batch": "W25",
       "status": "Active",
@@ -4569,7 +4570,7 @@
       "one_liner": "The First AI Native Email Client",
       "batch": "W25",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "B2B",
       "subindustry": "Consumer",
       "industries": [
@@ -5327,8 +5328,8 @@
       "name": "Exin Therapeutics",
       "slug": "exin-therapeutics",
       "website": "https://www.exintherapeutics.com/",
-      "description": "We\u2019re building a precision genetic therapy platform that targets neurological and neuropsychiatric disorders from a circuit-level perspective. Current approaches pursue single-gene fixes that only help small subsets of patients, leaving a multi-million patient population without effective treatment options.\r\n\r\n\r\nGene therapy opens the door to precisely modifying brain circuits. The problem is the elevated risk in neuroscience drug discovery. To solve this, we use a pre-clinical screening platform, multiple gene therapy candidates, and ML analytics to develop gene therapies capable of controlling neural activity and addressing neurological conditions such as autism spectrum disorder, epilepsy, and Parkinson\u2019s disease.\r\n\r\n",
-      "one_liner": "Precision genetic therapies targeting neural activity across disorders",
+      "description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on\u00a0epilepsies associated with autism and Parkinson\u2019s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity.\u00a0Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists\u00a0supported by an experienced SAB from Harvard, ex-Neuralink, EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF,\u00a0we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding.\u00a0\r\n",
+      "one_liner": "An AI discovery platform for neurotherapeutics",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -5344,7 +5345,6 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Gene Therapy",
         "Neurotechnology",
         "Biotech",
         "Therapeutics"
@@ -5492,5 +5492,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-06T00:02:46.666359"
+  "fetched_at": "2025-03-06T06:01:11.639198"
 }

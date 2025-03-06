@@ -4138,14 +4138,14 @@
     },
     {
       "id": 26807,
-      "name": "Maverick BioMetals",
-      "slug": "maverick-biometals",
+      "name": "Maverick Metals",
+      "slug": "maverick-metals",
       "website": "https://www.MaverickBioMetals.com",
-      "description": "Maverick BioMetals is a biotechnology company advancing lithium processing. The company was founded by Eric Herrera, former Department of Defense scientist,  and Jesse Evans, former startup operations manager. \r\n\r\nWe've developed a biological process to efficiently extract lithium from hard rock deposits. Our custom process is greener, more energy efficient, and cost effective compared to the current methods of extracting lithium. We're currently developing partnerships with mining companies to further the commercialization of our technology. \r\n",
-      "one_liner": "Expanding Metal Production with Biology",
+      "description": "Maverick BioMetals is a chemical technology company advancing metal processing. The company was founded by Eric Herrera, former Department of Defense scientist,  and Jesse Evans, former startup operations manager. \r\n\r\nWe've developed a new chemical process to efficiently extract lithium and copper from hard rock deposits. Our custom process is greener, more energy efficient, and cost effective compared to the current methods of extracting lithium and copper. We're currently developing partnerships with mining companies to further the commercialization of our technology. \r\n",
+      "one_liner": "Expanding Metal Production",
       "batch": "S22",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 20,
       "industry": "Industrials",
       "subindustry": "Industrials -> Energy",
       "industries": [
@@ -4154,16 +4154,11 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
-      "locations": "San Antonio, TX, USA; San Francisco, CA, USA",
+      "locations": "San Antonio, TX, USA",
       "tags": [
-        "Biotech",
-        "Climate",
-        "Genomics",
-        "Genetic Engineering"
+        "Energy"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8199,5 +8194,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-03-06T00:02:44.263812"
+  "fetched_at": "2025-03-06T06:01:09.847836"
 }

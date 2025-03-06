@@ -1891,11 +1891,11 @@
       "name": "Koko",
       "slug": "koko-2",
       "website": "https://kokocares.org",
-      "description": "We provide free digital mental health technologies for millions of people struggling online \u2014\u00a0particularly young people. \r\n\r\nFor example, we partner with online communities to help find and treat at-risk individuals directly on their platform using our online interventions.\r\n",
+      "description": "We provide free digital mental health technologies for millions of people struggling online \u2014\u00a0particularly young people. \r\n\r\nFor example, we partner with online communities to help find and treat at-risk individuals directly on their platform.\r\n",
       "one_liner": "Making mental health accessible to everyone.",
       "batch": "W22",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 8,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Consumer Health and Wellness",
       "industries": [
@@ -1903,19 +1903,11 @@
         "Consumer Health and Wellness"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Machine Learning",
-        "Mental Health Tech",
-        "Nonprofit",
-        "Social",
-        "NLP"
-      ],
+      "locations": "Remote",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": true,
@@ -13838,5 +13830,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-06T00:02:41.414157"
+  "fetched_at": "2025-03-06T06:01:06.548303"
 }

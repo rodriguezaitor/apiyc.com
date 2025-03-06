@@ -5317,7 +5317,7 @@
       "name": "Meticulate",
       "slug": "meticulate",
       "website": "https://meticulate.ai/",
-      "description": "Meticulate is a new type of prospecting engine that uses GenAI to expose a new class of capabilities for finding and tracking both companies and people for revenue teams.\r\n\r\nWe help sales teams find complex customer profiles like \u201ccommercial real estate groups focused on hospitality that own over 10 full-service hotels in North America\u201d and track custom buying signals like \u201crecently hired a DevOps leader\u201d. Meticulate is a seed-stage startup backed by leading AI investors like Y Combinator and Link Ventures.",
+      "description": "Meticulate is a new type of prospecting engine that uses GenAI to radically improve how revenue teams can find and track their prospects.\r\n\r\nWe help sales teams find complex customer profiles like \u201ccommercial real estate groups focused on hospitality that own over 10 full-service hotels in North America\u201d and track custom buying signals like \u201crecently hired a DevOps leader\u201d. Meticulate is a seed-stage startup backed by leading AI investors like Y Combinator and Link Ventures.",
       "one_liner": "Powerful prospecting engine for revenue leaders",
       "batch": "W24",
       "status": "Active",
@@ -5351,11 +5351,11 @@
       "name": "CloudCruise",
       "slug": "cloudcruise",
       "website": "https://cloudcruise.com",
-      "description": "CloudCruise lets you trigger user-permissioned workflows in any SaaS software. We do this by providing a simple and well-documented development environment, as well as authentication and browser infrastructure.\r\n",
-      "one_liner": "An API to trigger workflows in the browser",
+      "description": "CloudCruise is building the backbone of automated knowledge work, empowering AI agents to seamlessly handle complex web and desktop tasks. With over 10,000 successful automations delivered every week, we're already transforming workflows for industries like healthcare, finance and e-commerce.",
+      "one_liner": "The developer platform for building resilient automations",
       "batch": "W24",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5366,13 +5366,9 @@
         "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "SaaS",
-        "Workflow Automation"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708630326.0,
@@ -8266,5 +8262,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-06T00:02:43.791808"
+  "fetched_at": "2025-03-06T06:01:09.499256"
 }
