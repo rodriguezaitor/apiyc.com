@@ -3432,9 +3432,9 @@
       "id": 11975,
       "name": "Hatch",
       "slug": "hatch",
-      "website": "http://usehatchapp.com",
-      "description": "We are building a SMS business messaging platform for Contact Centers and their teams",
-      "one_liner": "SMS for Contact Centers ",
+      "website": "http://usehatch.ai",
+      "description": "Build your Ai Workforce ",
+      "one_liner": "Build, Deploy and Monitor Ai Call Center Reps ",
       "batch": "W19",
       "status": "Active",
       "team_size": 73,
@@ -3446,13 +3446,11 @@
       ],
       "regions": [
         "United States of America",
-        "Brazil",
         "America / Canada",
-        "Latin America",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Richmond, VA, USA; Salt Lake City, UT, USA; S\u00e3o Paulo, SP, Brazil; Boston, MA, USA; Remote",
+      "locations": "Richmond, VA, USA; Remote",
       "tags": [
         "SaaS",
         "B2B"
@@ -6521,5 +6519,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-03-06T12:01:24.457471"
+  "fetched_at": "2025-03-06T18:01:11.769742"
 }

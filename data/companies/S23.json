@@ -4489,7 +4489,7 @@
       "name": "Corgea",
       "slug": "corgea",
       "website": "https://www.corgea.com/",
-      "description": "Corgea\u00a0helps companies find and fix vulnerable code quicker, and\u00a0save 80% of the engineering cost & time in fixing these issues. It does this by using\u00a0AI to scan and write code fixes and issues pull-requests for your engineers to approve. ",
+      "description": "Corgea helps engineers ship code and not vulnerabilities. It's an AI-powered SAST, unlike traditional SAST with tons of false positives, Corgea can find vulnerabilities like business logic flaws, API vulnerabilities, and broken authentication with little false positives (<5%). It also writes security fixes for engineers to approve.",
       "one_liner": "Corgea finds, and fixes insecure code. ",
       "batch": "S23",
       "status": "Active",
@@ -7344,5 +7344,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-03-06T12:01:23.871357"
+  "fetched_at": "2025-03-06T18:01:11.660942"
 }
