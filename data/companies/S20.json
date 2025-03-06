@@ -1094,41 +1094,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/573684f2ec0dab289ea0dd5bacd0ea7b65204a36.png"
     },
     {
-      "id": 22141,
-      "name": "SafeBase",
-      "slug": "safebase",
-      "website": "https://www.safebase.io",
-      "description": "Trust Center Platform\r\n\r\nSafeBase Trust Center enables Security teams to proactively share and automate access to security, compliance, and privacy information/ complete security questionnaires.\r\n",
-      "one_liner": "Trust Center platform that scales customer security reviews",
-      "batch": "S20",
-      "status": "Active",
-      "team_size": 60,
-      "industry": "B2B",
-      "subindustry": "B2B -> Security",
-      "industries": [
-        "B2B",
-        "Security"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "SaaS",
-        "Productivity",
-        "Cybersecurity"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1595995902.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/11ecc83b03cfcf5e3849e1ca5f104ded4d413551.png"
-    },
-    {
       "id": 22131,
       "name": "DraftWise",
       "slug": "draftwise",
@@ -1621,8 +1586,8 @@
       "name": "Dataland",
       "slug": "dataland",
       "website": "https://dataland.io",
-      "description": "Dataland is a high-performance data tool that's specifically designed for non-technical frontline teams. Dataland unifies data from across the business and allows frontline teams to Search, Analyze, and Ask AI to quickly get the answers they need, without needing to juggle multiple tools. Frontline teams - working in customer support, sales, fulfillment, operations, and logistics - get data workflows done 10x faster by using a single integrated tool that's designed to be fast and easy to use.",
-      "one_liner": "The fastest database viewer ever built.",
+      "description": "Our AI auto-resolves customer issues with deep accuracy, by plugging into your internal systems, knowledge base, and past ticket resolutions.\r\n\r\nWorks with your existing helpdesk & channels.",
+      "one_liner": "AI agents for customer support.",
       "batch": "S20",
       "status": "Active",
       "team_size": 2,
@@ -1630,7 +1595,7 @@
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -1638,10 +1603,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Data Engineering",
-        "Data Visualization"
+        "Data Visualization",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4221,7 +4186,7 @@
         "Data Engineering"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1599762606.0,
@@ -5153,6 +5118,41 @@
       "is_top_company": false,
       "launched_at": 1598174176.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1603dfc6151aa74044b5bd0ec3103c762b8aacc8.png"
+    },
+    {
+      "id": 22141,
+      "name": "SafeBase",
+      "slug": "safebase",
+      "website": "https://www.safebase.io",
+      "description": "Trust Center Platform\r\n\r\nSafeBase Trust Center enables Security teams to proactively share and automate access to security, compliance, and privacy information/ complete security questionnaires.\r\n",
+      "one_liner": "Trust Center platform that scales customer security reviews",
+      "batch": "S20",
+      "status": "Acquired",
+      "team_size": 60,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS",
+        "Productivity",
+        "Cybersecurity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1595995902.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/11ecc83b03cfcf5e3849e1ca5f104ded4d413551.png"
     },
     {
       "id": 22101,
@@ -7126,5 +7126,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-03-05T18:01:12.097301"
+  "fetched_at": "2025-03-06T00:02:45.475296"
 }

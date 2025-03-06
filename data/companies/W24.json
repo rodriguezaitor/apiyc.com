@@ -2157,12 +2157,12 @@
       "id": 29434,
       "name": "Stacksync",
       "slug": "stacksync",
-      "website": "https://www.stacksync.cloud/",
+      "website": "https://www.stacksync.com/",
       "description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
       "one_liner": "Real-time and two-way sync between CRMs and Databases",
       "batch": "W24",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7757,7 +7757,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1699320905.0,
@@ -8266,5 +8266,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-05T18:01:10.877000"
+  "fetched_at": "2025-03-06T00:02:43.791808"
 }
