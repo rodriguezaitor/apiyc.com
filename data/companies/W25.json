@@ -941,8 +941,8 @@
       "name": "Spott",
       "slug": "spott",
       "website": "https://spott.io",
-      "description": "Spott is the AI-native ATS & CRM built for recruiting and executive search firms. Our platform gets rid of manual data entry, automates repetitive workflows with AI agents, and accelerates recruiters' decision-making.",
-      "one_liner": "AI-Native Recruitment platform",
+      "description": "Spott builds AI agents for recruiting firms. Our agents get rid of manual data entry, automate repetitive workflows and accelerate decision-making. We help recruiters focus on human interactions, significantly increasing placements per employee.",
+      "one_liner": "AI agents for recruiting firms",
       "batch": "W25",
       "status": "Active",
       "team_size": 6,
@@ -957,11 +957,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "HR Tech",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1291,11 +1291,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "GovTech",
         "B2B",
         "Compliance",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1714,7 +1714,7 @@
       "name": "Mesh",
       "slug": "mesh-2",
       "website": "http://www.usemesh.com",
-      "description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 5 customers live, have $1.6K MRR, and have 60+ customers in the pipeline. \r\n\r\nIn the US, there are 220,000 mid-market and enterprise companies. On average, we can charge $100K, presenting a $22B market opportunity in US alone.",
+      "description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 5 customers live, have $1.6K MRR, and have 60+ customers in the pipeline. \r\n\r\nIn the US, there are 35M SMBs. On average, we can charge $5K, presenting a $175B market opportunity in US alone.",
       "one_liner": "AI bookkeeper for startups",
       "batch": "W25",
       "status": "Active",
@@ -1731,10 +1731,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Finance",
         "Productivity",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4173,7 +4173,7 @@
       "slug": "superglue",
       "website": "https://superglue.cloud/",
       "description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-      "one_liner": "automated data transformation for APIs and CSVs",
+      "one_liner": "Open source data  transformation with AI",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4189,10 +4189,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "API",
-        "AI"
+        "API"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4435,7 +4435,7 @@
       "name": "Dartboard Energy",
       "slug": "dartboard-energy",
       "website": "https://dartboardenergy.com",
-      "description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-connected battery projects.",
+      "description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-scale battery projects.",
       "one_liner": "AI Analyst for Electricity Markets",
       "batch": "W25",
       "status": "Active",
@@ -4452,10 +4452,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Energy Storage",
         "B2B",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5527,5 +5527,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-07T12:01:31.494358"
+  "fetched_at": "2025-03-07T18:01:06.213942"
 }

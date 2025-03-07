@@ -1573,10 +1573,10 @@
     },
     {
       "id": 1183,
-      "name": "Threshold",
-      "slug": "threshold",
+      "name": "NuCypher (aka Threshold Network)",
+      "slug": "nucypher-aka-threshold-network",
       "website": "https://threshold.network/",
-      "description": "NuCypher is one of two founding teams of the Threshold Network (market cap ~$370m), which hosts tBTC, TACo, Random Beacon & tUSD. Since 2017, NuCypher has pioneered cryptographic primitives for end-to-end encrypted data sharing, including Proxy Re-Encryption and Threshold Access Control (TACo), novel cryptoeconomic mechanisms (e.g. Stable Yield). and original network/governance architectures (including a historic on-chain merger). TACo, our flagship product, is running on over 120 nodes with ~$80m of associated economic security, has paying adopting developers and major infrastructure partners (Ceramic, Irys, Textile, Unlock), and has been decentralized from genesis (mainnet launch in Jan 2024).\r\n\r\n",
+      "description": "NuCypher is one of two founding teams of the Threshold Network, which hosts tBTC, TACo, Random Beacon & tUSD. Since 2017, NuCypher has pioneered cryptographic primitives for end-to-end encrypted data sharing, including Proxy Re-Encryption and Threshold Access Control (TACo), novel cryptoeconomic mechanisms (e.g. Stable Yield). and original network/governance architectures (including a historic on-chain merger). TACo, our flagship product, is running on over 120 nodes with ~$80m of associated economic security, has paying adopting developers and major infrastructure partners (Ceramic, Irys, Textile, Unlock), and has been decentralized from genesis (mainnet launch in Jan 2024).",
       "one_liner": "Network for decentralized threshold cryptography and end-to-end\u2026",
       "batch": "S16",
       "status": "Active",
@@ -3340,5 +3340,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-03-07T12:01:34.323208"
+  "fetched_at": "2025-03-07T18:01:09.239810"
 }
