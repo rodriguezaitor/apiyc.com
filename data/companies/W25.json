@@ -507,7 +507,7 @@
       "slug": "cedar",
       "website": "https://www.cedar.law/home",
       "description": "Cedar is an AI copilot for any app. Imagine the founders themselves being behind every user\u2019s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user\u2019s story and using them to improve user\u2019s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
-      "one_liner": "In-product AI copilot & for any app",
+      "one_liner": "In-product AI copilot for any app",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -523,10 +523,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Customer Support",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1142,7 +1142,7 @@
       "name": "Reditus Space",
       "slug": "reditus-space",
       "website": "https://www.reditus.space/",
-      "description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $130M+ in LOI's from companies who want to get to space faster. ",
+      "description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $200M+ in LOI's from companies who want to get to space faster. ",
       "one_liner": "Reusable Satellites for zero-g manufacturing",
       "batch": "W25",
       "status": "Active",
@@ -2155,7 +2155,7 @@
       "slug": "agentin-ai",
       "website": "https://www.agentin.ai",
       "description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce, NetSuite and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
-      "one_liner": "AI Agents to automate Order to Cash",
+      "one_liner": "AI Agents that automate enterprise software processes",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2170,9 +2170,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2489,7 +2489,7 @@
       "name": "AthenaHQ",
       "slug": "athenahq",
       "website": "https://www.athenahq.ai",
-      "description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nGenerative engine search is expected to overtake traditional search in the next 3 years. Currently, there is no de facto solution for managing a brand's perception on these generative engines. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
+      "description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nGenerative engine search is expected to overtake traditional search in the next 3 years. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
       "one_liner": "Get Your Brand Discovered on ChatGPT.",
       "batch": "W25",
       "status": "Active",
@@ -2506,9 +2506,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Analytics",
-        "Marketing",
-        "AI"
+        "Marketing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2796,8 +2796,8 @@
       "name": "Asteroid",
       "slug": "asteroid",
       "website": "https://asteroid.ai",
-      "description": "Asteroid builds and host browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations. ",
-      "one_liner": "Mission Critical\u00a0Browser Agents\u00a0at Scale",
+      "description": "Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations across regulated industries.",
+      "one_liner": "Mission Critical\u00a0Browser Agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2812,9 +2812,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AIOps",
-        "Developer Tools",
-        "Generative AI"
+        "Artificial Intelligence",
+        "Robotic Process Automation",
+        "B2B",
+        "Workflow Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3489,7 +3491,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739666420.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/87405c9a329d17eef5b3fb8df2d9e2d8b30484d5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c91984bb2308087803ae4f30c937c29f1d60e46.png"
     },
     {
       "id": 30234,
@@ -3595,7 +3597,7 @@
       "slug": "sift-dev",
       "website": "https://www.runsift.com",
       "description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
-      "one_liner": "Your Logs, Finally Free",
+      "one_liner": "Never Look at a Log Again",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3927,7 +3929,7 @@
       "slug": "verbiflow",
       "website": "https://verbiflow.com",
       "description": "Verbiflow is the all-in-one platform for sales teams to capture, manage, and automate their entire process. Capture leads with intelligent prospecting that identifies high-potential prospects based on real-time events and smart scheduling & routing that instantly assigns those leads to the best-suited sales rep. Manage your pipeline with complete flexibility, defining and tracking custom KPIs across all your sales interactions. Automate reminders and workflows to keep deals moving forward, all within a single, unified platform.",
-      "one_liner": "The Swiss Army Knife For Your Sales Team",
+      "one_liner": "AI-powered CRM that finds leads and closes deals for you.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4600,7 +4602,7 @@
       "slug": "stamp",
       "website": "https://www.stampmail.ai/",
       "description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
-      "one_liner": "The First AI Native Email Client",
+      "one_liner": "The AI Native Email Client",
       "batch": "W25",
       "status": "Active",
       "team_size": 1,
@@ -5073,11 +5075,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "Construction",
         "B2B",
-        "Architecture"
+        "Architecture",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5525,5 +5527,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-07T00:02:43.285232"
+  "fetched_at": "2025-03-07T06:01:24.066471"
 }
