@@ -106,8 +106,8 @@
       "name": "Vantel",
       "slug": "vantel",
       "website": "https://vantel.ai/",
-      "description": "Vantel is an AI software platform for commercial insurance brokers.",
-      "one_liner": "Empowering commercial insurance brokers with AI",
+      "description": "Vantel builds AI software for commercial insurance brokers.\r\n\r\nOur first product doubles their productivity by automating policy analysis and contract review.",
+      "one_liner": "AI Software for Commercial Insurance Brokers",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -142,7 +142,7 @@
       "slug": "fira",
       "website": "https://firaresearch.com/",
       "description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers and verifiable calculations\r\n\r\nWe're initially focusing on boutique investment banks and M&A advisory firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution \u2014 allowing financial teams to focus on ideas and decisions.",
-      "one_liner": "Agentic AI analyst for financial research and automation",
+      "one_liner": "Agentic AI analyst for investment firms",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -158,10 +158,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "B2B",
         "Market Research",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1056,11 +1056,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Finance",
         "B2B",
         "Workflow Automation",
-        "Investments"
+        "Investments",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2965,7 +2965,7 @@
       "slug": "hud",
       "website": "https://hud.so",
       "description": "",
-      "one_liner": "Evals for Computer and Browser agents",
+      "one_liner": "Hud is building evals for the drop-in worker",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -3041,9 +3041,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3141,11 +3141,11 @@
       ],
       "locations": "Austin, TX, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
         "B2B",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3329,7 +3329,7 @@
       "slug": "cardamon",
       "website": "https://cardamon.ai/",
       "description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That\u2019s when it clicked: there\u2019s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone\u2019s happy.",
-      "one_liner": "Launch regulated products 10X faster by automating compliance with AI",
+      "one_liner": "AI compliance co-pilot for regulated financial businesses",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4808,9 +4808,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Real Estate",
         "B2B",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5527,5 +5527,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-07T06:01:24.066471"
+  "fetched_at": "2025-03-07T12:01:31.494358"
 }
