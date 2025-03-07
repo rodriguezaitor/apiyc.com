@@ -1495,11 +1495,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "AI-Enhanced Learning",
         "Education",
         "Generative AI",
         "SaaS",
-        "Video"
+        "Video",
+        "Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1781,8 +1781,8 @@
       "name": "Tire Swing",
       "slug": "tire-swing",
       "website": "https://gettireswing.com",
-      "description": "Tire Swing saves health care companies thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
-      "one_liner": "AI for Health Care Compliance",
+      "description": "Tire Swing saves healthcare organizations thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
+      "one_liner": "AI for Healthcare Compliance",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2627,7 +2627,7 @@
       "name": "Augento",
       "slug": "augento",
       "website": "https://augento.ai",
-      "description": "We do DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it\u2019s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
+      "description": "Augento is the platform for DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it\u2019s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
       "one_liner": "Improving Agents through Reinforcement Learning",
       "batch": "W25",
       "status": "Active",
@@ -2645,8 +2645,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
-        "Developer Tools"
+        "Developer Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4528,6 +4528,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f3190ee23bef18e805a06ab238214a0db50d11.png"
     },
     {
+      "id": 30198,
+      "name": "Dollyglot",
+      "slug": "dollyglot",
+      "website": "https://www.dollyglot.com/",
+      "description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! ",
+      "one_liner": "Character.AI with real time video avatars",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "B2B",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Consumer",
+        "Social",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1741300119.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/897f8bc5186131522d7f3d3073cf9181df4bae7b.png"
+    },
+    {
       "id": 30197,
       "name": "Alice.tech",
       "slug": "alice-tech",
@@ -5492,5 +5525,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-06T18:01:11.860731"
+  "fetched_at": "2025-03-07T00:02:43.285232"
 }

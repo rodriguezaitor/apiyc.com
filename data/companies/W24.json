@@ -3061,11 +3061,11 @@
       "name": "dawn",
       "slug": "dawn",
       "website": "https://www.dawnai.com/",
-      "description": "Make meaning out of billions of tokens.\r\n\r\nDawn is the analytics platform for AI products.\r\nWe transform user requests and model outputs into metrics you'll actually care about.",
-      "one_liner": "Analytics for AI products.",
+      "description": "Monitor your AI app the right way. \r\n\r\nAI engineers use Dawn to discover anomalies, set up tracking, and curate datasets from real user interactions.",
+      "one_liner": "Sentry for AI products.",
       "batch": "W24",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3073,9 +3073,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -8262,5 +8263,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-06T18:01:11.493780"
+  "fetched_at": "2025-03-07T00:02:40.108178"
 }

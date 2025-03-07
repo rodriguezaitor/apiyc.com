@@ -1389,7 +1389,7 @@
         "Logistics"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717601253.0,
@@ -8402,5 +8402,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-06T18:01:11.443564"
+  "fetched_at": "2025-03-07T00:02:39.655611"
 }
