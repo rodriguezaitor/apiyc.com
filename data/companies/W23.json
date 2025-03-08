@@ -343,10 +343,10 @@
     },
     {
       "id": 28409,
-      "name": "BerriAI",
-      "slug": "berriai",
+      "name": "LiteLLM",
+      "slug": "litellm",
       "website": "https://github.com/BerriAI/litellm",
-      "description": "An open-source library to simplify LLM completion + embedding calls: https://github.com/BerriAI/litellm ",
+      "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
       "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
       "batch": "W23",
       "status": "Active",
@@ -366,7 +366,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1675814900.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fb5f79659d32f2b48bdbb1e9541b4c58361bae.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png"
     },
     {
       "id": 28382,
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-07T18:01:02.579283"
+  "fetched_at": "2025-03-08T00:02:30.232970"
 }

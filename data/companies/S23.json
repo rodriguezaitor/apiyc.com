@@ -714,7 +714,7 @@
       "name": "Structured Labs",
       "slug": "structured-labs",
       "website": "https://www.structuredlabs.com/",
-      "description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
+      "description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
       "one_liner": "Build data apps with AI",
       "batch": "S23",
       "status": "Active",
@@ -731,18 +731,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Analytics",
         "Open Source",
-        "Data Visualization"
+        "Data Visualization",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1686619959.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c6c75f571e43a6721ba7f7a597f1e9cb4c662b8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/94938375d10d953e4638ce20e0fd062ea671dbba.png"
     },
     {
       "id": 29117,
@@ -1353,7 +1353,7 @@
         "Databases"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689280457.0,
@@ -2191,6 +2191,40 @@
       "is_top_company": false,
       "launched_at": 1684515035.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad29152e507992c17de56b3d0a62d1fd6769fd3b.png"
+    },
+    {
+      "id": 29007,
+      "name": "Smoothspeak",
+      "slug": "smoothspeak",
+      "website": "https://www.smoothspeak.ai",
+      "description": "Smoothspeak is an AI dating coach that you can text. We help you land more dates by improving how you text and speak in romantic scenarios through customized text suggestions and voice role play challenges.",
+      "one_liner": "Your personal AI dating coach",
+      "batch": "S23",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer",
+        "Gaming",
+        "Dating",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1689495664.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eb7784065a8156fe021cef815b7ee7e46418cef.png"
     },
     {
       "id": 29006,
@@ -7341,5 +7375,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-03-07T18:01:04.679552"
+  "fetched_at": "2025-03-08T00:02:32.201969"
 }

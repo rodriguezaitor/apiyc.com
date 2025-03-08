@@ -55,10 +55,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Consumer",
         "Open Source",
+        "AI",
         "AR"
       ],
       "stage": "Early",
@@ -384,16 +384,10 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "SaaS",
-        "Computer Vision",
-        "Customer Support",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -1240,8 +1234,8 @@
       "name": "Retrofit",
       "slug": "retrofit",
       "website": "https://www.retrofit.shop/",
-      "description": "Retrofit is a curated vintage marketplace, making online vintage shopping seamless and enjoyable. We are building AI agents to aggregate the most in-demand inventory from vintage stores nationwide and create detailed, visually compelling listings for each item.\r\n\r\nWhether you're a vintage enthusiast or a first-timer you can discover unique sought-after pieces easily. Retrofit makes vintage shopping feel like shopping on Nordstrom\u2014 rather than digging through piles of low quality listings on existing secondhand marketplaces. For sellers, Retrofit offers tools to list quickly and to connect their inventory with the right audience on our marketplace. ",
-      "one_liner": "A vintage marketplace powered by AI",
+      "description": "Retrofit is a vintage marketplace powered by AI. We use AI agents to curate and personalize in-demand, trending inventory. We analyze social media trends, sales data, and your personal style to find the best vintage pieces for you\u2014so you don\u2019t have to dig through thousands of listings to find vintage gems.",
+      "one_liner": "A vintage marketplace curated by AI",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1310,7 +1304,7 @@
       "slug": "forge-automation",
       "website": "https://www.forgeautomation.ca",
       "description": "Forge Automation runs software enabled factories that deliver custom metal parts in four days or less. Instead of mechanical engineers having to wait two to three weeks for their low volume CNC parts, they can simply upload a CAD model on our platform and we will ship it out in four days or less. We aim to give mechanical engineers the \"Amazon experience\" for custom metal parts.",
-      "one_liner": "CNC parts in 4 days or less",
+      "one_liner": "Software Enabled CNC Parts Supplier",
       "batch": "W25",
       "status": "Active",
       "team_size": 7,
@@ -1427,13 +1421,9 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Marketplace",
-        "Consumer",
-        "E-commerce"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737236774.0,
@@ -1681,8 +1671,8 @@
       "name": "Orbital Operations",
       "slug": "orbital-operations",
       "website": "https://www.orbitalops.tech/",
-      "description": "Orbital Operations is developing a high thrust space vehicle that is refuellable and stays in orbit to ferry customers beyond low earth orbit (LEO). This allows satellite customers to take advantage of the low cost, low lead time, and low effort launches to LEO and have us rendezvous with them in space to transport them to their final destination.\r\n\r\nOur high thrust and high efficiency is made possible by a unique cryogenic fuel management system being implemented on the vehicle to keep propellants cold so they don't boil. This allows us to use the same propulsion systems that have been developed by launch vehicles over the last few decades (NASA, SpaceX, Blue Origin, Relativity Space, ect.).\r\n\r\nBen and Ross met while working together at Relativity Space, where they qualified the cryogenic flight termination valves for the Terran 1 rocket and continued working together on the heat exchangers and turbomachinery for the AeonR engine.\r\n\r\nWe are currently working on the first demo of our unique cryo management system and intend to launch an operational vehicle by 2027. ",
-      "one_liner": "High Thrust, Reusable Vehicles in Space",
+      "description": "Orbital Operations is developing a high thrust, reusable space vehicle for satellite defense. We protect critical satellites, like GPS and Military communication satellites, from adversarial threats, like China and Russia.\r\n\r\nOur vehicle will use the exact same propulsion systems that launch vehicles have used for decades by implementing a cryogenic management system. This will give us over 100x the thrust or current in-space propulsion.\r\n\r\nRoss and I have over 15 years of combined aerospace experience across NASA, Aerojet Rocketdyne, SpaceX, Blue Origin, and Relativity Space. We\u2019ve worked side by side for more than 3.5 years developing propulsion systems, turbomachinery, and building our own respective engineering teams.\r\n\r\nWe are currently working on the first demo of our unique cryo management system and intend to launch an operational vehicle by 2027. ",
+      "one_liner": "High Thrust Space Vehicles for Satellite Defense",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1714,7 +1704,7 @@
       "name": "Mesh",
       "slug": "mesh-2",
       "website": "http://www.usemesh.com",
-      "description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 5 customers live, have $1.6K MRR, and have 60+ customers in the pipeline. \r\n\r\nIn the US, there are 35M SMBs. On average, we can charge $5K, presenting a $175B market opportunity in US alone.",
+      "description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 20 customers live, resulting in $27K ARR.\r\n\r\nThere are 35M SMBs in the US and 358M globally. On average, Mesh can charge $5K, presenting a $175B US and $1.8T global market opportunity.",
       "one_liner": "AI bookkeeper for startups",
       "batch": "W25",
       "status": "Active",
@@ -1816,16 +1806,15 @@
       "name": "Sherpa Labs",
       "slug": "sherpa-labs",
       "website": "https://www.sherpalabs.ai",
-      "description": "Sherpa Labs is building an agentic data scientist to automate modeling, operations, and communication via a swarm of agents. Their initial product is an agentic data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes \u2014 similar to Glean but for enterprise data systems.",
-      "one_liner": "The AI Data Scientist",
+      "description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes \u2014 similar to Glean but for enterprise data systems.",
+      "one_liner": "The AI Data Team",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
-        "B2B",
-        "Productivity"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -1833,11 +1822,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Big Data",
+        "Data Science",
         "Data Engineering",
-        "Data Visualization",
-        "Search"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1884,8 +1873,8 @@
       "name": "Calltree AI",
       "slug": "calltree-ai",
       "website": "https://calltree.ai",
-      "description": "Calltree helps enterprises' VP of Operations understand how to make their call center more efficient. Our AI agent analyzes millions of minutes of call center recordings to find inefficiencies in workflows and quantifies the cost of each action. For example, when a rep is handling a credit card dispute, Calltree can identify that reps spend 30 seconds per call on manual data gathering and data entry, propose a solution, and measure the opex savings. Calltree surfaces these insights in an analytics tool and generates reports, making it easy for operation leaders to build business cases to prioritize improvements, realizing millions in opex savings.\r\n\r\nSee us at https://calltree.ai",
-      "one_liner": "AI operations analyst for call center workflows",
+      "description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
+      "one_liner": "Enterprise-grade AI support reps for call centers",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1900,11 +1889,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Customer Service",
-        "AI"
+        "Customer Service"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2320,7 +2309,7 @@
       "slug": "sophris",
       "website": "https://sophris.ai/",
       "description": "Sophris is your AI \u201cengineer\u201d for circuit board schematics, checking for errors\u2014pin mismatches, connectivity gaps, or voltage conflicts\u2014long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks\u2014like net connectivity and spacing\u2014they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
-      "one_liner": "AI Engineer that Validates Circuit Board Schematics",
+      "one_liner": "The AI Engineer for Electronic Design",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -2336,6 +2325,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "B2B",
         "Design Tools",
         "Electronics",
         "AI"
@@ -2761,7 +2751,7 @@
       "name": "Macadamia",
       "slug": "macadamia",
       "website": "https://macadamialabs.com",
-      "description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent fixes design issues automatically in complex workflows. ",
+      "description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent fixes design issues automatically in complex workflows. Think of Glean.com specialized for Mechanical / Civil engineering firms. ",
       "one_liner": "AI Mechanical Engineer that fixes technical issues in complex projects",
       "batch": "W25",
       "status": "Active",
@@ -2778,11 +2768,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Construction",
         "Design",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2797,7 +2787,7 @@
       "slug": "asteroid",
       "website": "https://asteroid.ai",
       "description": "Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations across regulated industries.",
-      "one_liner": "Mission Critical\u00a0Browser Agents",
+      "one_liner": "Browser Agents for Regulated Industries",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2846,11 +2836,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Legal",
         "HR Tech",
-        "Immigration",
-        "AI"
+        "Immigration"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3041,9 +3031,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3058,8 +3048,8 @@
       "name": "Mecha Health",
       "slug": "mecha-health",
       "website": "https://www.mecha-health.ai/",
-      "description": "Mecha Health is pioneering the future of radiology report generation through advanced AI technology. Our mission is to streamline the reporting process, enhance accuracy, and improve patient care. Unlike black-box solutions, our AI technology is built with transparency at its core. Every decision and suggestion made by our system can be traced and understood, giving clinicians complete confidence in their AI-assisted reporting workflow.",
-      "one_liner": "Trustworthy medical image reporting with AI.",
+      "description": "Mecha Health builds foundation models to automate x-ray analysis for radiologists. We take medical images and process them using proprietary models to produce accurate draft medical reports. Our first model was built in less than two months, and beat Microsoft, Google, and OpenAI on clinical accuracy metrics. On top of that, it\u2019s two orders of magnitude smaller and trained with a quarter of the data.\r\n\r\nWe are partnering with the largest privately owned radiology practice in the US and a multinational tele-radiology company to provide them with their own foundation model, enabling their radiologists to go from reading 1 scan per hour to 1 scan every 5 minutes. By charging on a per scan basis, x-ray report generation represents a 40B+ market opportunity. ",
+      "one_liner": "We build foundation models to automate x-ray analysis for radiologists",
       "batch": "W25",
       "status": "Active",
       "team_size": 4,
@@ -3074,11 +3064,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Computer Vision",
         "Health Tech",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3092,8 +3082,8 @@
       "name": "GradeWiz",
       "slug": "gradewiz",
       "website": "https://www.gradewiz.ai/",
-      "description": "GradeWiz is an AI teaching assistant that helps educators create rubrics, grade student work and give feedback. Like a human TA, professors teach it to grade just like them. Used at 12 Colleges, reducing grading time by 60% on average. ",
-      "one_liner": "AI Teaching Assistant that grades student work and gives feedback. ",
+      "description": "GradeWiz is an AI teaching assistant that helps educators create rubrics, grade student work and give feedback. Like a human TA, professors teach it to grade just like them. Used to grade over 2,500 students at 8 Colleges, reducing grading time by 60% on average.",
+      "one_liner": "AI Grading for Colleges",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3109,8 +3099,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Edtech",
-        "AI"
+        "Artificial Intelligence",
+        "Edtech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3448,10 +3438,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Compliance",
-        "AI"
+        "Compliance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4119,9 +4109,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "SaaS",
+        "E-commerce",
         "Retail",
-        "AI",
-        "Conversational AI"
+        "Conversational AI",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4637,7 +4629,7 @@
       "slug": "splash-inc",
       "website": "https://splash9.com/",
       "description": "Splash is developing the next generation of autonomous surface vessels (ASVs) to provide National Security and defend critical assets such as oil rigs and shipping terminals. Our long-term vision is to make traditional naval vessels obsolete by creating a fleet of low-cost and versatile boats which will be able to dominate the seas. Our expertise in mass manufacturing, engineering and quickly scaling operations will make this vision a reality. ",
-      "one_liner": "Self-driving patrol boats for National Security ",
+      "one_liner": "Autonomous patrol-boats for National Security ",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4653,11 +4645,11 @@
       ],
       "locations": "Los Angeles, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Autonomous Delivery",
         "Drones",
         "GovTech",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4702,7 +4694,7 @@
       "name": "Axiom",
       "slug": "axiom",
       "website": "https://axiom.trade",
-      "description": "We're building the first platform that centralizes all of DeFi trading. Trade any asset on any chain without all the complications in between.",
+      "description": "Axiom is the trading platform for decentralized finance and currently offers memecoins, perpetuals, and yield. In the last month, we've gained 200k users and generate $400k in revenue a day with $200k in net profit daily. ",
       "one_liner": "The Gateway to DeFi",
       "batch": "W25",
       "status": "Active",
@@ -4928,7 +4920,7 @@
       "slug": "casixty",
       "website": "https://casixty.com",
       "description": "Casixty automates Reddit engagement for technical companies, helping them connect authentically with their target audiences. Using AI, we identify relevant discussions, generate brand-accurate responses, and provide detailed analytics to track engagement impact.",
-      "one_liner": "Personalized community engagement on Reddit",
+      "one_liner": "Reddit Marketing Agent for technical audiences",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4944,11 +4936,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Analytics",
         "Sales",
         "Marketing",
-        "Big Data",
-        "AI"
+        "Big Data"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4998,7 +4990,7 @@
       "one_liner": "Streamlining admin work for veterinary professionals",
       "batch": "W25",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -5527,5 +5519,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-07T18:01:06.213942"
+  "fetched_at": "2025-03-08T00:02:33.678409"
 }
