@@ -1636,8 +1636,8 @@
       "name": "Sennu AI",
       "slug": "sennu-ai",
       "website": "https://www.sennu.ai",
-      "description": "Sennu AI is building AI agents for Tech Consulting Firms. We aim to be the all-in-one platform for these firms to run their business on from sales to resource management to project operations. We are starting off with sales.",
-      "one_liner": "AI Sales Agent for Tech Consulting Firms",
+      "description": "Sennu AI is building AI agents for tech consulting firms, starting with sales. We plan to help these firms to automate all parts of their business from sales to project delivery to back office.",
+      "one_liner": "AI Sales Agent for the $400B Tech Consulting Market",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1889,11 +1889,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Customer Service"
+        "Customer Service",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2092,11 +2092,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "GovTech",
         "Construction",
         "Climate",
-        "Transportation",
-        "AI"
+        "Transportation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2110,7 +2110,7 @@
       "name": "Vovana",
       "slug": "vovana",
       "website": "https://www.vovana.com/",
-      "description": "Vovana is an AI recruiter designed specifically for frontline hiring. We leverage conversational AI to instantly engage and screen applicants via call or text, then autonomously schedule interviews with candidates who qualify.",
+      "description": "Vovana is an AI recruiter for filling high-volume roles in retail, logistics, restaurants, and hospitality. Companies like Rent-a-Wheel, a tire retailer, use our AI to source and interview new tire techs and customer service reps. \r\n\r\nWe\u2019re replacing the $100B frontline staffing market with AI, at a fraction of the cost.",
       "one_liner": "AI recruiter built for frontline hiring",
       "batch": "W25",
       "status": "Active",
@@ -2129,7 +2129,8 @@
       "tags": [
         "SaaS",
         "B2B",
-        "Recruiting"
+        "Recruiting",
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3031,9 +3032,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3471,10 +3472,10 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Logistics",
-        "Transportation",
-        "AI"
+        "Transportation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4361,8 +4362,8 @@
       "name": "Vocality Health",
       "slug": "vocality-health",
       "website": "https://www.vocalityhealth.com",
-      "description": "Our app allows doctors to speak any language, removing the need for human medical interpreters in hospitals and clinics. Hospitals spend billions on in-person and remote medical interpreters, yet non-English speaking patients still struggle to get the care they need. Furthermore, existing tech solutions make mistakes and aren't secure.\r\n\r\nWe're building the most accurate and compliant medical language interpretation system across voice and video modalities. ",
-      "one_liner": "AI medical interpreter for hospitals",
+      "description": "Our app allows doctors to speak any language, eliminating the need for human medical translators in hospitals and clinics. Despite spending billions on in-person and remote translators\u2014mostly through outdated call centers\u2014hospitals still fail to provide adequate care for non-English-speaking patients.\r\n\r\nWe're building the most accurate and compliant medical language translation system across voice and video modalities. ",
+      "one_liner": "Voice AI for medical language translation in healthcare",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4377,9 +4378,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Healthcare",
-        "Health & Wellness",
-        "AI"
+        "Health & Wellness"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4824,7 +4825,7 @@
       "slug": "praxim",
       "website": "https://www.praxim.ai/",
       "description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
-      "one_liner": "AI-native email and office file editing on one platform",
+      "one_liner": "The first AI-native email and office editing platform",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4839,10 +4840,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Consumer",
         "B2B",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -5308,11 +5309,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Design",
         "Design Tools",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5525,5 +5526,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-08T06:00:58.496636"
+  "fetched_at": "2025-03-08T12:00:59.468408"
 }
