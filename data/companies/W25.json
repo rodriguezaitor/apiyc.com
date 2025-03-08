@@ -55,10 +55,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Consumer",
         "Open Source",
-        "AI",
         "AR"
       ],
       "stage": "Early",
@@ -177,7 +177,7 @@
       "slug": "assistant-ui",
       "website": "https://assistant-ui.com",
       "description": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
-      "one_liner": "Open Source Typescript/React Library for AI Chat",
+      "one_liner": "Open Source React.js Library for AI Chat",
       "batch": "W25",
       "status": "Active",
       "team_size": 1,
@@ -276,7 +276,7 @@
       "slug": "dexterity",
       "website": "https://getdexterity.com/",
       "description": "Dex is the intelligent interface built for coworking with AI\u2014right on top of your browser.\r\n\r\nMost AI agents today are designed for set-and-forget tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps you do everything 10x faster.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
-      "one_liner": "Turn your browser into an AI interface that works alongside you.",
+      "one_liner": "AI Browser Assistant for Power Users",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -536,7 +536,7 @@
       "slug": "browser-use",
       "website": "https://browser-use.com",
       "description": "We enable AI to control the browser. \r\nBrowser-use is the biggest open-source web agent project. \r\nWe got 40k stars in the last 3 months.",
-      "one_liner": "Open Source Web Agents",
+      "one_liner": "Biggest Open Source Web Agents repository with 40k stars in 3 months",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -671,7 +671,7 @@
       "slug": "paratus-health",
       "website": "https://paratushealth.com/",
       "description": "Paratus Health is an AI-powered intake nurse that automates pre-appointment patient interviews, saving doctors time and improving diagnostic accuracy. By conducting dynamic symptom assessments before the visit, it delivers a structured summary\u2014helping doctors walk in prepared, reducing missed diagnoses, and increasing clinic efficiency. Designed to replace inefficient forms and costly triage calls, Paratus Health turns wasted waiting time into better care and higher ROI for providers.",
-      "one_liner": "Smarter than forms, cheaper than nurses\u2014your AI-powered intake nurse.",
+      "one_liner": "AI-powered intake nurse.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -903,8 +903,8 @@
       "name": "Rebolt",
       "slug": "rebolt",
       "website": "https://rebolt.ai",
-      "description": "Rebolt is AI to replace traditional restaurant managers - by automating tasks from delivery refund management to staff screening, inventory checks, and supplier communications.\r\n\r\nWe started with delivery app management for takeout restaurants - Rebolt automates order verification and refund management to prevent mistakes and save restaurants time and money.",
-      "one_liner": "Your AI restaurant manager",
+      "description": "Rebolt is AI agents to replace restaurant managers - by automating tasks from refund management to hiring, and supplier communications.\r\n\r\nWe started with delivery app management - Rebolt verifies orders and automates refund management, to prevent mistakes and save restaurants time and money.",
+      "one_liner": "AI Agents to Replace Restaurant Managers",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -928,7 +928,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740196480.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/654a21f45dce497441358874046d40b5a0f0fe5f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e4459405201022951d5710f5aa762e376db082.png"
     },
     {
       "id": 30322,
@@ -1169,8 +1169,8 @@
       "name": "Optifye.ai",
       "slug": "optifye-ai",
       "website": "https://www.optifye.ai",
-      "description": "Optifye.ai is an AI line Optimization system for manual assembly.\r\n\r\nWe place cameras in assembly lines and use computer vision to help supervisors solve shop-floor inefficiencies in real-time. \r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure workspace output and make decisions that boost line efficiency by up to 30%.",
-      "one_liner": "AI line optimization for manual assembly",
+      "description": "Optifye.ai does AI performance monitoring for factory workers\r\n\r\nWe place cameras in assembly lines and use computer vision to help supervisors solve shop-floor inefficiencies in real-time. This has lead to a 12% boost in line efficiency for our first customers!\r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies are now able to accurately measure worker output and boost efficiency!",
+      "one_liner": "AI Performance monitoring for factory workers",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -1251,11 +1251,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "E-commerce",
         "Retail Tech",
-        "Fashion",
-        "AI"
+        "Fashion"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1408,7 +1408,7 @@
       "slug": "misprint",
       "website": "https://www.misprint.com",
       "description": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets.\r\n\r\nExisting marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint\u2019s unique blend of insider trading card knowledge and machine learning allows us to fill this gap.\r\n\r\nBuilding these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations.\r\n\r\nThe global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense.\r\n\r\nCo-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
-      "one_liner": "Misprint is a data-driven marketplace for graded collectibles ",
+      "one_liner": "Misprint is building Robinhood for Pokemon cards",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1470,7 +1470,7 @@
       "slug": "miyagi-labs",
       "website": "https://miyagilabs.ai",
       "description": "Miyagi Labs is an AI-powered platform that transforms videos from content creators and professors into complete, interactive courses.\r\n\r\nYouTube is one of the best educational resources in the world, but it lacks the tools to turn passive watching into active learning. By making course creation as simple as uploading a video, we\u2019re building Shopify for online education, empowering content creators and educators to transform their knowledge into engaging, interactive learning experiences.\r\n\r\nWe automatically generate high-quality courses\u2014in under an hour\u2014that people actually complete. On our platform, learners engage with short-answer and multiple-choice questions, as well as quizzes, receiving instant feedback and support from an AI voice tutor if they need more help.",
-      "one_liner": "AI to transform YouTube content into interactive courses",
+      "one_liner": "Shopify for AI-generated courses",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1496,7 +1496,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739904496.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc3666aa0017e92dc70ab1dda907834893e171f7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f656fe93af8521f8540070b96eba6728fbb8794.png"
     },
     {
       "id": 30298,
@@ -1705,7 +1705,7 @@
       "slug": "mesh-2",
       "website": "http://www.usemesh.com",
       "description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 20 customers live, resulting in $27K ARR.\r\n\r\nThere are 35M SMBs in the US and 358M globally. On average, Mesh can charge $5K, presenting a $175B US and $1.8T global market opportunity.",
-      "one_liner": "AI bookkeeper for startups",
+      "one_liner": "A fully agentic, AI finance team",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2076,7 +2076,7 @@
       "name": "Waypoint Transit",
       "slug": "waypoint-transit",
       "website": "https://waypointtransit.com",
-      "description": "Waypoint Transit is an AI transportation planning consultant that generates technical studies and reports for municipal agencies. With Waypoint, cities can generate higher-quality reports faster, and at lower cost, reducing timelines from years to months.\r\n\r\nVarun and Ryan met at Stanford, where they graduated with degrees in CS and EE respectively. Before founding Waypoint, Varun worked on AI at Microsoft and Ryan worked on chip design at Apple.\r\n\r\nUS cities are facing three major crises: congestion, budget deficits, and climate change. At the same time, city governments are understaffed and frequently need to contract work out to expensive consultants. Leveraging recent advancements in AI, we empower cities to reduce their costs, build infrastructure, and respond to problems quickly.\r\n\r\nIn the United States, state and local governments spend $170B on transportation capital projects, with an estimated 10-15% of that cost going to planning and consultants. This represents an ~$20B market opportunity in the US alone. Through automation, we can redefine the existing transportation and urban planning consulting markets.\r\n\r\nFor more information, visit waypointtransit.com or contact us at contact@waypointtransit.com.",
+      "description": "Waypoint Transit is an AI city planner that generates civil infrastructure studies. Cities spend $50B/year on planning. With Waypoint, cities can generate reports in months rather than years, and at 30% of the cost.\r\n\r\nVarun and Ryan met at Stanford, where they graduated with degrees in CS and EE respectively. Before founding Waypoint, Varun worked on AI at Microsoft and Ryan worked on chip design at Apple.\r\n\r\nUS cities are facing three major crises: congestion, budget deficits, and climate change. At the same time, city governments are understaffed and frequently need to contract work out to expensive consultants. Leveraging recent advancements in AI, we empower cities to reduce their costs, build infrastructure, and respond to problems quickly.\r\n\r\nIn the United States, state and local governments spend $50B/year on planning. Through automation, we can redefine the existing transportation and urban planning consulting markets.\r\n\r\nFor more information, visit waypointtransit.com or contact us at contact@waypointtransit.com.",
       "one_liner": "We automate urban planning so cities can build cheaper and faster.",
       "batch": "W25",
       "status": "Active",
@@ -2092,11 +2092,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
         "Construction",
         "Climate",
-        "Transportation"
+        "Transportation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2226,10 +2226,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Robotics",
         "Supply Chain",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2325,10 +2325,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Design Tools",
-        "Electronics",
-        "AI"
+        "Electronics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2529,11 +2529,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Sales",
         "Social Media",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2717,7 +2717,7 @@
       "name": "Lucid",
       "slug": "lucid",
       "website": "https://lucidsim.co/",
-      "description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami (a highschool dropout from Ethiopia) previously founded a telecom services company and was the CTO of the largest govtech contractor in Ethiopia.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we\u2019re training a hyper realistic world model!",
+      "description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami previously founded a telecom services company and was the CTO of the govtech contractor.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we\u2019re training a hyper realistic world model!",
       "one_liner": "Generative simulations powered by fast world models",
       "batch": "W25",
       "status": "Active",
@@ -2821,7 +2821,7 @@
       "slug": "gale",
       "website": "https://getgale.app/",
       "description": "Gale makes getting a visa suck less. We\u2019re disrupting the $50B immigration services market, starting with US H-1Bs. We've simplified the visa application process to a web form, streamlined compliance, and can integrate with HR systems - saving teams time, money and headaches. By using AI and automation we enable our lawyers to maintain quality but be 3x as efficient. This allows us to deliver a superior user experience, decrease costs and reduce visa turn-around times, giving us an advantage over traditional law firms.",
-      "one_liner": "Stripe Atlas for immigration.",
+      "one_liner": "AI Immigration Law Firm",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -2836,11 +2836,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Legal",
         "HR Tech",
-        "Immigration"
+        "Immigration",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2922,7 +2922,7 @@
       "slug": "olive",
       "website": "https://fromolive.com",
       "description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-      "one_liner": "Build internal tools for your database with natural language.",
+      "one_liner": "Build internal tools for your data with natural language.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2938,9 +2938,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2982,8 +2982,8 @@
       "name": "finbar",
       "slug": "finbar",
       "website": "https://finbar.com",
-      "description": "AI-powered financial data analysis. Used by several top-30 AUM hedge funds.",
-      "one_liner": "The AI Financial Analyst",
+      "description": "AI-powered financial data analysis. Used by several top-20 (AUM) hedge funds.",
+      "one_liner": "The AI financial analyst",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3250,8 +3250,8 @@
       "name": "Oki",
       "slug": "oki",
       "website": "https://www.okiapplications.com/",
-      "description": "Oki unifies Slack, Github, and every engineering workflow into an AI-driven dashboard, so leaders can track progress, optimize resources, and boost productivity. ",
-      "one_liner": "AI Insights to auto track projects and boost engineering productivity",
+      "description": "Oki uses AI to automate project tracking for engineering leaders. \r\n\r\nIt's like having a dedicated senior engineer who reads every single line of code, all of your team's slack messages, docs, issues, and tells you the truth about how your projects are tracking. \r\n\r\nIf you're a CTO, VP, or Director, you can walk into meetings knowing which efforts are behind and why, rather than asking for updates.\r\n\r\nWe're offering founder mode as a service. \r\n",
+      "one_liner": "AI to automate Engineering project tracking",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3352,8 +3352,8 @@
       "name": "Amby Health",
       "slug": "amby-health",
       "website": "https://tryamby.com",
-      "description": "Amby Health builds AI-powered software to streamline EMS workflows, reducing administrative burden and optimizing resource allocation. By automating data ingestion and decision support, we help emergency medical teams focus on saving lives instead of paperwork.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "one_liner": "AI copilot for Emergency Medical Services ",
+      "description": "Amby Health automates billing and quality reviews for ambulance agencies (EMS), replacing large back-office teams with AI. We analyze patient reports in seconds\u2014not months\u2014accurately coding claims and identifying liability and care risks while eliminating costly, error-prone manual processes.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "one_liner": "AI Copilot for Ambulance Agencies (EMS)",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3489,7 +3489,7 @@
       "slug": "adam",
       "website": "https://www.adamcad.com/",
       "description": "Adam is an AI CAD co-pilot for hardware design. It transforms plain text descriptions into parametric 3D models in seconds so engineering teams can ship 10x faster.\u00a0Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
-      "one_liner": "AI Powered CAD Design",
+      "one_liner": "AI Powered CAD",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -3586,7 +3586,7 @@
       "name": "Sift Dev",
       "slug": "sift-dev",
       "website": "https://www.runsift.com",
-      "description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
+      "description": "Logging is broken. Engineers waste hours in endless data.\r\nSift Dev is building a future where you never read another log - starting with an AI pipeline to identify what matters and silence the noise.",
       "one_liner": "Never Look at a Log Again",
       "batch": "W25",
       "status": "Active",
@@ -3754,7 +3754,7 @@
       "name": "Vora AI",
       "slug": "vora-ai",
       "website": "https://www.usevora.ai/",
-      "description": "Vora gives every hiring manager an AI recruiter. Our AI agent, Rachel, automates talent sourcing by handling everything from identifying top talent, to writing personalized outreach to scheduling interviews directly on the hiring manager's calendar. This allows teams to focus on what matters most - talking to and closing the best candidates.\r\n\r\nWe believe that selling the work, not software, is the best way to unlock the true productivity gains of GenAI.",
+      "description": "Vora gives every hiring manager an AI recruiter. Our AI agent, Rachel, automates talent sourcing by handling everything from identifying top talent, to writing personalized outreach to scheduling interviews directly on the hiring manager's calendar. This allows teams to focus on what matters most - talking to and closing the best candidates.",
       "one_liner": "AI recruiter for hiring managers",
       "batch": "W25",
       "status": "Active",
@@ -3819,7 +3819,7 @@
       "slug": "a0-dev",
       "website": "https://a0.dev",
       "description": "a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster.",
-      "one_liner": "We make apps with AI.",
+      "one_liner": "We make mobile apps using AI.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3934,11 +3934,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Analytics",
         "Sales",
-        "Sales Enablement"
+        "Sales Enablement",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4093,7 +4093,7 @@
       "slug": "ovlo",
       "website": "https://ovlo.ai",
       "description": "Ovlo is a plug-and-play conversational AI shopping assistant that understands user intent and speaks in every brand\u2019s unique voice. It helps online stores transform browsing into an engaging experience in minutes on any website, boosting conversation and brand love. \r\n",
-      "one_liner": "AI Shopping Assistant for Ecommerce ",
+      "one_liner": "Conversational AI For E-commerce ",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4645,11 +4645,11 @@
       ],
       "locations": "Los Angeles, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Autonomous Delivery",
         "Drones",
         "GovTech",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4694,8 +4694,8 @@
       "name": "Axiom",
       "slug": "axiom",
       "website": "https://axiom.trade",
-      "description": "Axiom is the trading platform for decentralized finance and currently offers memecoins, perpetuals, and yield. In the last month, we've gained 200k users and generate $400k in revenue a day with $200k in net profit daily. ",
-      "one_liner": "The Gateway to DeFi",
+      "description": "Axiom is the trading platform for decentralized finance and currently offers memecoins, perpetuals, and yield. Since launch we've hit 10M MRR and 5M monthly net profit.",
+      "one_liner": "Trade memecoins, perpetuals, and earn yield.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4709,7 +4709,12 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Fintech",
+        "Crypto / Web3",
+        "Consumer Finance",
+        "Trading"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4785,8 +4790,8 @@
       "name": "Admyral",
       "slug": "admyral",
       "website": "https://www.admyral.ai",
-      "description": "Admyral is Apollo.io for real estate data. Real estate brokers and startups use our deep research agents to discover hard-to-find contact details of property owners.",
-      "one_liner": "Admyral is Apollo.io for real estate data.",
+      "description": "Admyral is the first AI-native Commercial Real Estate Brokerage. Real estate brokers use our first product, deep research agents, to discover hard-to-find contact details of property owners.",
+      "one_liner": "AI-Native Commercial Real Estate Brokerage",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4803,6 +4808,7 @@
         "Artificial Intelligence",
         "Real Estate",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4965,13 +4971,15 @@
         "B2B"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -5119,7 +5127,7 @@
       "slug": "revise-robotics",
       "website": "https://www.reviserobotics.com/",
       "description": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets.\r\n\r\nOur first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
-      "one_liner": "AI-enabled robots that refurbish hundreds of laptops a day",
+      "one_liner": "Automating refurbishment of $1T in consumer electronics",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -5256,7 +5264,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "Consumer",
+      "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
         "Healthcare",
         "Healthcare IT"
@@ -5283,7 +5291,7 @@
       "name": "Onlook",
       "slug": "onlook",
       "website": "https://onlook.com/",
-      "description": "Onlook is the open source Cursor for Designers \u2013 Making it easy for anyone to design directly in a live website and instantly write their changes in code.\r\n\r\nOnlook is the best way for designers, non-technical team members, and developers to collaborate, empowering teams to create incredible products and websites incredibly fast.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+      "description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub\u2014above DeepSeek\u2014and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
       "one_liner": "Cursor for Designers",
       "batch": "W25",
       "status": "Active",
@@ -5296,17 +5304,15 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Design",
         "Design Tools",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5519,5 +5525,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-08T00:02:33.678409"
+  "fetched_at": "2025-03-08T06:00:58.496636"
 }
