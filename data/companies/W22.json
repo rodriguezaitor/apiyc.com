@@ -4425,11 +4425,11 @@
       "name": "BotCity",
       "slug": "botcity",
       "website": "https://botcity.dev",
-      "description": "The rise of Robotic Process Automation offered a promise that any business user can build automations. We were skeptical about that and decided to talk to users of platforms such as UiPath, Automation Anywhere, and Blueprism, all of them low-code.\r\n\r\nTalking to users, we discovered that unique automations incorporating exclusive company processes and intelligence that have the potential to transform the business must be implemented by tech teams. It's not about mimicking employees performing isolated tasks. It's about designing a new workflow, integrated with the company's technological stack and systems. There are just 100.000 RPA skilled users compared to 22M developers globally that can become RPA coders on Day 1 with BotCity.\r\n\r\nWe believe that all automation efforts in a single platform is more efficient. We started delivering the best RPA experience for tech teams, but we envision creating the perfect place to also manage crawlers, integrations, scrappers, data operations. Every company automation in a single place.\r\n\r\nAs companies are becoming tech first and automation will be a basic KPI, we are building to be the all-in-one automation ops management.",
-      "one_liner": "Open Source Python RPA + orchestration for tech teams.",
+      "description": "BotCity is a centralized platform that unifies RPA and AI under a single governance framework, enabling organizations to rapidly build, orchestrate, and scale intelligent automations with secure oversight and clear ROI.",
+      "one_liner": "Centralized governance for Intelligent Automation.",
       "batch": "W22",
       "status": "Active",
-      "team_size": 18,
+      "team_size": 28,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4438,19 +4438,16 @@
       ],
       "regions": [
         "United States of America",
-        "Brazil",
         "America / Canada",
-        "Latin America",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA; S\u00e3o Paulo, SP, Brazil; Remote",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Robotic Process Automation",
-        "Computer Vision",
         "Open Source",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13830,5 +13827,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-08T12:00:58.646365"
+  "fetched_at": "2025-03-08T18:01:04.888102"
 }

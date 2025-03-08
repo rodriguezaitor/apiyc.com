@@ -1496,7 +1496,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739904496.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f656fe93af8521f8540070b96eba6728fbb8794.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99c837f7df76621b15335bd8605214d030fa2181.png"
     },
     {
       "id": 30298,
@@ -2276,7 +2276,7 @@
       "slug": "trata",
       "website": "https://www.trytrata.com/",
       "description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the \u201cfirst cut\u201d of research from 3 hours to 3 minutes with 1-2 page notes. \r\nhttps://calendly.com/eric-trytrata",
-      "one_liner": "Database of investment research from anonymous hedge fund analysts",
+      "one_liner": "AI-powered research desk for hedge funds",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -2291,10 +2291,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Finance",
         "B2B",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -4679,8 +4679,8 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5526,5 +5526,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-08T12:00:59.468408"
+  "fetched_at": "2025-03-08T18:01:08.864100"
 }
