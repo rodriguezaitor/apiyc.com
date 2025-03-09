@@ -38,7 +38,7 @@
       "name": "Mentra",
       "slug": "mentra",
       "website": "https://mentra.glass",
-      "description": "Mentra is building AugmentOS, the open source operating system for smart glasses. The hardware has finally arrived, so we're building the software layer to power the next computing platform.",
+      "description": "Mentra is building the open source operating system for smart glasses. The smart glasses hardware is finally ready, so we're building the OS and app store to power the next computing platform.",
       "one_liner": "Building the open source smart glasses operating system.",
       "batch": "W25",
       "status": "Active",
@@ -55,10 +55,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Consumer",
         "Open Source",
-        "AI",
         "AR"
       ],
       "stage": "Early",
@@ -141,8 +141,8 @@
       "name": "Fira",
       "slug": "fira",
       "website": "https://firaresearch.com/",
-      "description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers and verifiable calculations\r\n\r\nWe're initially focusing on boutique investment banks and M&A advisory firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution \u2014 allowing financial teams to focus on ideas and decisions.",
-      "one_liner": "Agentic AI analyst for investment firms",
+      "description": "Fira is a financial research assistant that helps investment analysts spend less time on company research. It instantly searches and analyzes thousands of pages of unstructured company filings and earnings reports to provide source-cited answers and verifiable financial calculations.\r\n\r\nOur mission is to create a financial AI co-worker deeply integrated into both internal and external data source. It will help with research and analysis, generating investment documents, and workflow automation. This will eventually allow investment professionals to spend less time on manual tasks and focus more on building relationships and making decisions.",
+      "one_liner": "Agentic AI platform for investment firms",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -158,10 +158,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "B2B",
         "Market Research",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -484,9 +484,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Design",
-        "Design Tools"
+        "Design Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -618,10 +618,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Sales",
-        "AI"
+        "Sales"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -819,9 +819,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "Social Media"
+        "Social Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1521,11 +1521,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
         "B2B",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1706,8 +1706,8 @@
       "name": "Mesh",
       "slug": "mesh-2",
       "website": "http://www.usemesh.com",
-      "description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 20 customers live, resulting in $27K ARR.\r\n\r\nThere are 35M SMBs in the US and 358M globally. On average, Mesh can charge $5K, presenting a $175B US and $1.8T global market opportunity.",
-      "one_liner": "A fully agentic, AI finance team",
+      "description": "Mesh is building the AI finance team for SMBs. Mesh is the single, unified interface through which founders can ask questions on their financials, pay taxes and bills, collect invoices, run payroll, and more.  \r\n\r\nNandini and Erin worked together for 5+ years at Carta, and helped grow the fund accounting business from $20M to $100M ARR. Leveraging their insights from Carta, they\u2019re now automating accounting and finance for SMBs. \r\n\r\nAfter talking to 50+ companies, they realized that what companies need is a better finance partner. Our agents will meet founders exactly where they are by integrating with the existing tech stack and being accessible across various communication channels (i.e. Email, WhatsApp, Chat, Phone, Zoom). \r\n\r\nWithin 1 week of launching on ProductHunt, they have 20 paying customers at $27K ARR, and became the #1 Fintech of the Week.\r\n\r\nWith 35M SMBs in the US, at our average ACV of $5K, this presents a $175B US alone.",
+      "one_liner": "AI finance team for SMBs",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1723,10 +1723,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Finance",
         "Productivity",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1741,7 +1741,7 @@
       "slug": "outlit",
       "website": "https://outlit.ai/",
       "description": "Outlit is building AI for Enterprise Deal Makers. Think Salesforce CPQ but AI-first. \r\n\r\nWe help Deal Desk and Revenue teams automate tasks like creating, pricing, reviewing and closing deals\u2014enabling them close deals faster\r\n\r\nWe\u2019ve created the largest Deal Desk community on Slack, with decision-makers from companies like Stripe, Uber, LinkedIn, Rev.com, and more.\r\n\r\nWe believe community-led growth is the future of GTM for enterprise SaaS sales\u2014and Outlit is already a step ahead.",
-      "one_liner": "AI for Enterprise Deal Making",
+      "one_liner": "AI Agents for Enterprise Sales",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1926,11 +1926,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "Consumer",
-        "Gaming"
+        "Gaming",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1944,8 +1944,8 @@
       "name": "Karsa",
       "slug": "karsa",
       "website": "https://gokarsa.com/",
-      "description": "Karsa is a global peer-to-peer marketplace for stablecoins. It enables over a billion people in emerging markets to save their local currency in dollars and protect against inflation.",
-      "one_liner": "The global dollar account.",
+      "description": "Karsa is a stablecoin neobank for over 100M people in emerging markets. We enable people to buy dollar-denominated stablecoins, save money in US bank accounts, and spend anywhere with a Visa card.",
+      "one_liner": "Stablecoin neobank for emerging markets",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2530,11 +2530,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Sales",
         "Social Media",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3029,9 +3029,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3470,10 +3470,10 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Logistics",
-        "Transportation"
+        "Transportation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3951,8 +3951,8 @@
       "name": "Toothy AI",
       "slug": "toothy-ai",
       "website": "https://www.toothy.ai/",
-      "description": "Toothy is using AI to automate back office operations for dental clinics. We're building a reality where a dental clinic only needs 3 types of employees: dentists, hygienists, and dental assistants. Every other role is to be done by AI. \r\n\r\nAt our first clinic we've already managed to cut back office staff in half in the two months we've been operating with them. We charge 40% of what overseas BPOs do for the equivalent labor, and a fraction of what in-house employees cost.",
-      "one_liner": "AI agents that do insurance verification & claims for dental clinics",
+      "description": "We\u2019re Toothy.ai.  We\u2019re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow\u2014including making insurance calls with voice AI\u2014saving clinics time, reducing costs, and ensuring faster reimbursements.",
+      "one_liner": "AI for insurance verification & billing at dental clinics",
       "batch": "W25",
       "status": "Active",
       "team_size": 7,
@@ -4163,7 +4163,7 @@
       "slug": "superglue",
       "website": "https://superglue.cloud/",
       "description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-      "one_liner": "Open source data  transformation with AI",
+      "one_liner": "Open source data transformation with AI",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4179,10 +4179,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "API"
+        "API",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4823,7 +4823,7 @@
       "slug": "praxim",
       "website": "https://www.praxim.ai/",
       "description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
-      "one_liner": "The first AI-native email and office editing platform",
+      "one_liner": "The first AI-native email and office file editing platform",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4838,10 +4838,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Consumer",
         "B2B",
-        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -4856,7 +4856,7 @@
       "name": "Excellence Learning",
       "slug": "excellence-learning",
       "website": "https://excellence-ai.com/",
-      "description": "Aiming at complementing/replacing private tutoring and long-term study programs such as Kumon (over 30B TAM).\r\n\r\nExcellence is a web app for both ambitious and struggling students to learn math. As we believe each student is unique, we adapt our high quality courses and exercises to their knowledge and learning style in a very granular way. To facilitate learning, they get detailed text, voice and graphical explanations, can craft study plans, revise and memorize, and received human mentorship if needed.\r\n\r\nIn addition, we offer a program with daily courses and exercises, detailed feedback on their worksheets and more (super Kumon).\r\n\r\nFinally we sell the AI tutoring and exercise databases to schools in a B2B and B2B2C model and already work for the most prestigious institutions in France (Ecole polytechnique, college Stanislas...).\r\n\r\nWe're a passionate team of ex-quants, mathematicians and physics champions devoted to improving science education.",
+      "description": "Excellence an after-school maths and science program. We replace/supplement private tutoring and long-term study programs such as Kumon (over 30B TAM). US Parents are our primary customers. \r\n\r\nOur web and iPad software serves both ambitious and struggling students. As we believe each student is unique, we adapt our high quality courses and exercises to their knowledge and learning style in a very granular way. To facilitate learning, they get detailed text, voice and graphical explanations, can craft study plans, revise and memorize, and received human mentorship if needed. We believe LLMs have made edtech interesting, as technology now allows us to replicate a tutoring learning experience.\r\n\r\nIn addition, we offer a program with daily courses and exercises, detailed feedback on their worksheets and more (super Kumon).\r\n\r\nFinally we sell the AI tutoring and exercise databases to schools in a B2B and B2B2C model and already work for the most prestigious institutions in France (Ecole polytechnique, college Stanislas...).\r\n\r\nWe're a passionate team of ex-quants, mathematicians and physics champions devoted to improving science education.",
       "one_liner": "AI tutor starting with maths and science",
       "batch": "W25",
       "status": "Active",
@@ -4906,10 +4906,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Recruiting",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -4977,8 +4977,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -4994,7 +4994,7 @@
       "slug": "vetnio",
       "website": "https://vetnio.com/",
       "description": "Veterinarians spend 40% of their time on admin work, >20% on note taking alone. We're here to change that so they can focus on what really matters - providing the best care possible for animals.",
-      "one_liner": "Streamlining admin work for veterinary professionals",
+      "one_liner": "AI Copilot that automates admin work for veterinary professionals",
       "batch": "W25",
       "status": "Active",
       "team_size": 6,
@@ -5158,7 +5158,7 @@
       "slug": "enhanced-radar",
       "website": "https://www.enhancedradar.com/",
       "description": "Enhanced Radar is building better, safer air traffic control systems.",
-      "one_liner": "Automating air traffic control",
+      "one_liner": "AI for air traffic control",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -5174,8 +5174,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Aerospace",
-        "AI"
+        "Artificial Intelligence",
+        "Aerospace"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5429,7 +5429,7 @@
       "slug": "youshift",
       "website": "https://www.you-shift.com/",
       "description": "YouShift uses AI to automate hospital shift scheduling, eliminating the need for full-time schedulers and outdated, manual processes. And scheduling is just the beginning \u2014 we're building the future of healthcare workforce management.",
-      "one_liner": "AI-powered shift scheduling for healthcare, to save time and money.",
+      "one_liner": "Rippling for healthcare.",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -5444,11 +5444,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Scheduling",
         "Healthcare",
-        "HR Tech"
+        "HR Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5524,5 +5524,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-09T06:01:28.370316"
+  "fetched_at": "2025-03-09T12:01:24.110517"
 }
