@@ -517,10 +517,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Customer Support",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -567,7 +567,7 @@
       "slug": "tamlabs",
       "website": "https://tamlabs.ai",
       "description": "TamLabs transforms Microsoft Word into an AI-native document editor. Our plugin enables instant document changes with git-style previews, automated comment implementation, and formatting preservation.",
-      "one_liner": "Transforming Word into an AI Editor",
+      "one_liner": "Cursor for Microsoft Word",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -602,7 +602,7 @@
       "slug": "ergo",
       "website": "https://joinergo.com",
       "description": "Ergo is AI for sales teams, monitoring customer communication across tools like Zoom, Email, and Slack to keep CRMs such as HubSpot and Salesforce up to date. Ergo\u2019s AI agents execute revenue-generating activities, such as automating mid-funnel follow-ups based on external market signals and past customer interactions. By eliminating manual operational tasks, Ergo helps sales teams maintain active pipelines, prevent deals from stalling, and cut sales cycles in half.",
-      "one_liner": "Vertical AI Agents for Sales Operations",
+      "one_liner": "AI Agents for Sales Operations",
       "batch": "W25",
       "status": "Active",
       "team_size": 0,
@@ -618,10 +618,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Sales"
+        "Sales",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -671,7 +671,7 @@
       "slug": "paratus-health",
       "website": "https://paratushealth.com/",
       "description": "Paratus Health is an AI-powered intake nurse that automates pre-appointment patient interviews, saving doctors time and improving accuracy. By conducting dynamic symptom assessments before the visit, it delivers a structured summary, helping doctors walk in prepared, reducing missed diagnoses, and increasing clinic efficiency. Designed to replace inefficient forms and costly intake nurses, Paratus Health turns wasted waiting time into better care and higher ROI for providers.",
-      "one_liner": "AI-powered intake nurse.",
+      "one_liner": "AI-powered intake nurse",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -745,9 +745,12 @@
         "Finance and Accounting"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "Fintech",
@@ -933,7 +936,7 @@
       "name": "Spott",
       "slug": "spott",
       "website": "https://spott.io",
-      "description": "Spott builds AI agents for recruiting firms. Our agents get rid of manual data entry, automate repetitive workflows and accelerate decision-making. We help recruiters focus on human interactions, significantly increasing placements per employee.",
+      "description": "Spott builds AI agents for recruiting firms. When recruiters receive a new assignment, Spott will look for relevant candidates in your database, reach out to them, and present relevant matches to the client for you.\r\n",
       "one_liner": "AI agents for recruiting firms",
       "batch": "W25",
       "status": "Active",
@@ -1017,8 +1020,8 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
-        "Robotics"
+        "Robotics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1083,11 +1086,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "SaaS",
-        "API"
+        "API",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1200,7 +1203,7 @@
       "name": "Pinch",
       "slug": "pinch",
       "website": "https://startpinch.com",
-      "description": "Pinch is a video conferencing platform with real-time voice translation, allowing anyone to conduct video calls and webinars in over 30 languages.  \r\n\r\nWe mimic your voice and synchronize your video to translated speech - enabling a face to face cross-lingual conversation.  Unlock new markets and authentic connections \u2014 join Pinch!",
+      "description": "Pinch is a video conferencing platform purpose-built for multilingual meetings.  Our model translates your voice in real-time, allowing the other participants to see and hear you speaking their native language.\r\n\r\nUnlock new markets and authentic connections \u2014 join Pinch!",
       "one_liner": "Video conferencing with real-time voice translation",
       "batch": "W25",
       "status": "Active",
@@ -1217,8 +1220,8 @@
       ],
       "locations": "Remote",
       "tags": [
-        "Telecommunications",
-        "AI"
+        "Artificial Intelligence",
+        "Telecommunications"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1249,11 +1252,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "E-commerce",
         "Retail Tech",
-        "Fashion"
+        "Fashion",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1267,7 +1270,7 @@
       "name": "Archon",
       "slug": "archon",
       "website": "https://archon.inc",
-      "description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
+      "description": "Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
       "one_liner": "We help software companies sell to government.",
       "batch": "W25",
       "status": "Active",
@@ -1283,11 +1286,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
         "B2B",
         "Compliance",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1337,7 +1340,7 @@
       "slug": "mastra",
       "website": "https://mastra.ai",
       "description": "Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality. ",
-      "one_liner": "The Typescript agent framework, by the developers of Gatsby",
+      "one_liner": "The Javascript framework for building AI agents, from the Gatsby devs",
       "batch": "W25",
       "status": "Active",
       "team_size": 8,
@@ -1436,7 +1439,7 @@
       "one_liner": "The world's first Agentic Sales platform.",
       "batch": "W25",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -1449,11 +1452,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Sales",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1501,8 +1504,8 @@
       "name": "Artificial Societies",
       "slug": "artificial-societies",
       "website": "https://societies.io",
-      "description": "Artificial Societies uses AI to simulate human societies. Companies like Anthropic are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating a network of 1,000 investors, and used it to raise a pre-seed and get into YC. Since releasing this publicly as \u201cWave\u201d, startup founders have run over 3000 simulations. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
-      "one_liner": "We use AI to simulate large groups of people and how they interact",
+      "description": "Artificial Societies uses AI to simulate large groups of people and how they interact. Companies like Anthropic and 11x are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating a network of 1,000 investors, and used it to raise a pre-seed and get into YC. Since releasing this publicly as \u201cWave\u201d, startup founders have run over 3000 simulations. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
+      "one_liner": "We use AI to simulate entire human societies",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -1518,11 +1521,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
         "B2B",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1720,10 +1723,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Finance",
         "Productivity",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1822,10 +1825,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Generative AI",
+        "SaaS",
+        "B2B",
         "Data Science",
-        "Data Engineering",
-        "Automation"
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1907,7 +1910,7 @@
       "slug": "nitrode",
       "website": "http://nitrode.com",
       "description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
-      "one_liner": "AI game development engine",
+      "one_liner": "AI Game Development Engine & Platform",
       "batch": "W25",
       "status": "Active",
       "team_size": 4,
@@ -1919,9 +1922,7 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -2008,7 +2009,7 @@
       "slug": "confident-ai",
       "website": "https://confident-ai.com",
       "description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-      "one_liner": "The DeepEval LLM Evaluation Platform",
+      "one_liner": "Open-Source Unit Testing for LLM Applications",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2024,10 +2025,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2041,8 +2042,8 @@
       "name": "Riviera",
       "slug": "riviera",
       "website": "https://www.withriviera.com",
-      "description": "Riviera builds AI voice agents that let hotels spend less time answering phone calls and more time helping guests. Our system handles front-desk operator calls, in-room dining orders, and reservations. It answers every question instantly and in any language, 24/7. \r\n\r\n\r\nWe\u2019re solving a problem that older phone systems and IVR (Interactive Voice Recordings) can't: guests hate not being able to talk to someone immediately, but hotels can\u2019t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach for hotels because their technology infrastructure is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren\u2019t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing hotel software providers and using human-sounding voice models that are highly trained on data specific to each hotel and department.\r\n\r\n\r\nHotels spend over $100 billion annually on staffing and lose potential revenue when phone lines are overwhelmed or callers hang up. By enabling hotels to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.",
-      "one_liner": "AI Voice Agents for Hotels",
+      "description": "Riviera builds AI voice agents that let travel businesses\u2014whether hotels, excursion operators, or online travel agencies\u2014spend less time answering phone calls and more time helping customers. Our system handles front-desk inquiries, in-room dining orders, tour bookings, and reservations. It answers every question instantly and in any language, 24/7.\r\n\r\nWe are solving a problem that older phone systems and IVRs can't: customers hate not being able to talk to someone immediately, but most travel businesses can\u2019t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach because the technology infrastructure in the travel industry is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren\u2019t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing software providers and using human-sounding voice models that are highly trained on data specific to each business type and department.\r\n\r\nTravel businesses spend hundreds of billions annually on staffing and risk losing potential revenue when phone lines are overwhelmed or callers hang up. By enabling them to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.\r\n",
+      "one_liner": "AI Voice Agents for The Travel Industry",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -2057,11 +2058,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Travel",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2091,11 +2092,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
         "Construction",
         "Climate",
-        "Transportation"
+        "Transportation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2109,7 +2110,7 @@
       "name": "Vovana",
       "slug": "vovana",
       "website": "https://www.vovana.com/",
-      "description": "Vovana is an AI recruiter for filling high-volume roles in retail, logistics, restaurants, and hospitality. Companies like Rent-a-Wheel, a tire retailer, use our AI to source and interview new tire techs and customer service reps. \r\n\r\nWe\u2019re replacing the $50B frontline staffing market with AI, at a fraction of the cost.",
+      "description": "Vovana is an AI recruiter for filling high-turnover roles in retail, logistics, restaurants, and hospitality. Our AI posts job ads, then gets on a phone call with candidates and interviews them just like a manager would. \r\nWe\u2019re replacing the $50B frontline recruiting market with AI, at a fraction of the cost.",
       "one_liner": "AI recruiter built for frontline hiring",
       "batch": "W25",
       "status": "Active",
@@ -2259,8 +2260,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2547,11 +2548,11 @@
       "name": "Cenote",
       "slug": "cenote",
       "website": "https://www.joincenote.com/",
-      "description": "Cenote uses AI to automate the back office for medical practices \u2014 eliminating the bottlenecks that often delay patient care and clinic revenue.\r\n\r\nTypically, practices hire teams to manually extract patient info from hundreds to thousands of faxes a week. This slow process risks losing patients to faster competitors. Cenote\u2019s software streamlines this workflow. \r\n\r\nBetween the 50 million specialist outpatient visits and 40 million specialty drug prescriptions annually, Cenote accelerates access to a $90 billion market.\r\n\r\nThe team behind Cenote\u2014Kofi, Ajani, and Kristy\u2014met in San Francisco and bring deep expertise in building scalable solutions for highly-regulated industries such as climate and gov tech.",
+      "description": "Cenote uses AI to automate the back office for medical practices \u2014 eliminating the bottlenecks that often delay patient care and clinic revenue.\r\n\r\nTypically, practices hire teams to manually extract patient info from hundreds to thousands of faxes a week. This slow process risks losing patients to faster competitors. Cenote\u2019s software streamlines this workflow. \r\n\r\nThere are 330,000 medical practices in the U.S Capturing $50,000 per practice presents a $16.5 Billion opportunity.\r\n\r\nThe team behind Cenote\u2014Kofi, Ajani, and Kristy\u2014met in San Francisco and bring deep expertise in building scalable solutions for highly-regulated industries such as climate and gov tech.",
       "one_liner": "Automate back office tasks for medical clinics",
       "batch": "W25",
       "status": "Active",
-      "team_size": 0,
+      "team_size": 3,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
@@ -2564,11 +2565,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotic Process Automation",
         "Health Tech",
         "B2B",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2683,8 +2684,8 @@
       "name": "Pickle",
       "slug": "pickle-2",
       "website": "https://getpickle.ai/",
-      "description": "Over 300 million people join Zoom calls every day, but looking professional in every situation isn\u2019t always easy. Pickle uses an AI body double to replace your live video feed in real time, so you can join meetings without ever turning on your camera. Simply speak, and the AI body double will lip-sync perfectly to your voice\u2014letting you participate in Zoom calls while walking or driving and still appear polished and professional.",
-      "one_liner": "Your AI body double for Zoom calls",
+      "description": "Pickle is an AI body double that lip-syncs to your voice in real time. It replaces your camera feed and makes you look great\u2014even if you\u2019re calling in from bed, the couch, or while walking around.",
+      "one_liner": "AI body double for Zoom calls",
       "batch": "W25",
       "status": "Active",
       "team_size": 5,
@@ -2820,15 +2821,16 @@
       "name": "Gale",
       "slug": "gale",
       "website": "https://getgale.app/",
-      "description": "Gale makes getting a visa suck less. We\u2019re disrupting the $50B immigration services market, starting with US H-1Bs. We've simplified the visa application process to a web form, streamlined compliance, and can integrate with HR systems - saving teams time, money and headaches. By using AI and automation we enable our lawyers to maintain quality but be 3x as efficient. This allows us to deliver a superior user experience, decrease costs and reduce visa turn-around times, giving us an advantage over traditional law firms.",
-      "one_liner": "AI Immigration Law Firm",
+      "description": "Gale makes getting a visa suck less. We\u2019re disrupting the $10B immigration services market, starting with US H-1Bs. We've simplified the visa application process to a web form, streamlined compliance, and can integrate with HR systems - saving teams time, money and headaches. By using AI and automation we enable our lawyers to maintain quality but be 3x as efficient. This allows us to deliver a superior user experience, decrease costs and reduce visa turn-around times, giving us an advantage over traditional law firms.",
+      "one_liner": "AI Powered Immigration Law Firm",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Legal"
       ],
       "regions": [
         "United States of America",
@@ -2871,7 +2873,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738630910.0,
@@ -2879,14 +2881,14 @@
     },
     {
       "id": 30256,
-      "name": "PAX Markets, Inc.",
-      "slug": "pax-markets-inc",
+      "name": "PAX Markets",
+      "slug": "pax-markets",
       "website": "https://pax.markets/",
-      "description": "PAX is a new crypto exchange and is the first \u2013 in all capital markets \u2013 to operate from a single chip rather than an entire datacenter. Today, high frequency traders (\"HFTs\") pay handsomely to co-locate (\"co-lo\") their algorithms near to the exchange. PAX moves traders to within nanometers of the exchange \u2013 closer than ever before possible.\r\n\r\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to \u201cgo to zero\u201d and a complete game changer across every asset and geography.\r\n\r\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
-      "one_liner": "A crypto exchange on a chip: faster and smaller than a datacenter.",
+      "description": "PAX is a new crypto exchange and is the first \u2013 in all capital markets \u2013 to operate from a single chip rather than an entire datacenter. PAX moves traders to within nanometers of the exchange \u2013 closer than ever before possible.\r\n\r\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to \u201cgo to zero\u201d and a complete game changer across every asset and geography.\r\n\r\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
+      "one_liner": "Crypto exchange on a chip: faster and smaller than a datacenter.",
       "batch": "W25",
       "status": "Active",
-      "team_size": null,
+      "team_size": 2,
       "industry": "Fintech",
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
@@ -2894,14 +2896,15 @@
         "Banking and Exchange"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "Menlo Park, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Marketplace",
         "B2B",
-        "AI",
         "Cryptocurrency"
       ],
       "stage": "Early",
@@ -3044,7 +3047,7 @@
       "slug": "mecha-health",
       "website": "https://www.mecha-health.ai/",
       "description": "Mecha Health builds foundation models to automate x-ray analysis for radiologists. We take medical images and process them using proprietary models to produce accurate draft medical reports. Our first model was built in less than two months, and beat Microsoft, Google, and OpenAI on clinical accuracy metrics. On top of that, it\u2019s two orders of magnitude smaller and trained with a quarter of the data.\r\n\r\nWe are partnering with the largest privately owned radiology practice in the US and a multinational tele-radiology company to provide them with their own foundation model, enabling their radiologists to go from reading 1 scan per hour to 1 scan every 5 minutes. By charging on a per scan basis, x-ray report generation represents a 40B+ market opportunity. ",
-      "one_liner": "We build foundation models to automate x-ray analysis for radiologists",
+      "one_liner": "Foundation models to automate x-ray analysis for radiologists",
       "batch": "W25",
       "status": "Active",
       "team_size": 4,
@@ -3109,8 +3112,8 @@
       "name": "HealthKey",
       "slug": "healthkey",
       "website": "https://gethealthkey.com/",
-      "description": "HealthKey helps doctors offices generate more revenue by identifying patients who are eligible for clinical trials, and matches at-risk patients with cutting-edge treatments. Big Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors\u2019 existing patients against Clinical Trials\u2019 eligibility criteria, making enrollment fast and easy.\r\n\r\nMeet with Josh (CEO) \ud83d\udc49 https://cal.com/healthkey/15-min-meeting\r\nInvestors \ud83d\udc49 https://cal.com/healthkey/30-min-seed-investors",
-      "one_liner": "AI-powered Patient Identification for Clinical Trial Research Sites",
+      "description": "HealthKey helps doctors offices generate more revenue by identifying patients who are eligible for clinical trials, and matches at-risk patients with cutting-edge treatments. Big Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors\u2019 existing patients against Clinical Trials\u2019 eligibility criteria, making enrollment fast and easy.\r\n\r\nMeet with Josh (CEO) \ud83d\udc49 https://cal.com/healthkey/15-min-meeting",
+      "one_liner": "AI-powered Patient Identification for Clinical Trials",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -3126,11 +3129,11 @@
       ],
       "locations": "Austin, TX, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
         "B2B",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3145,7 +3148,7 @@
       "slug": "operand",
       "website": "https://www.tryoperand.com/",
       "description": "Operand is building an AI to replace traditional consulting. We help businesses make better decisions by deeply analyzing their data across all sources\u2014something consultants can\u2019t do at scale.\r\n\r\nWe\u2019re starting in e-commerce and retail, where the businesses\u2019 high data density and real-time feedback loops allow us to show impact fast. Our first capability is pricing and discount strategy. Operand considers everything\u2014competitor pricing, ad strategy, inventory, and more\u2014to ensure businesses maximize profit.\r\n\r\nAnd unlike other AI solutions, every Operand result is verified by human experts, including ex-MBB consultants, so you get actual impact, not just AI hype.\r\n\r\nWe\u2019re already generating 6-figure P&L improvements for early customers.",
-      "one_liner": "AI Consultant for Consumer Brands",
+      "one_liner": "AI to Replace Management Consulting",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -3389,7 +3392,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Industrials -> Energy",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -3434,10 +3437,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Compliance"
+        "Compliance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3617,7 +3620,7 @@
       "slug": "maive",
       "website": "https://maive.ai",
       "description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there\u2019s $400B being invested to onshore manufacturing, but there\u2019s simultaneously a projected 15% gap in workers needed due to an aging workforce. We\u2019re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today\u2019s manufacturing capacity.",
-      "one_liner": "AI-native factory operations platform",
+      "one_liner": "Visual AI for factories",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3651,8 +3654,8 @@
       "name": "Weave",
       "slug": "weave-3",
       "website": "https://workweave.dev",
-      "description": "Weave solves the age-old problem of engineering measurement. \r\n\r\nWe use AI agents to determine how much work is getting done and how good the work is.\r\n\r\nAdam and Andrew worked at Causal before starting Weave.\r\n\r\nOur traction makes us smile. ",
-      "one_liner": "AI agents to measure engineering work.",
+      "description": "Weave solves the age-old problem of engineering measurement. \r\n\r\nWe use AI agents to determine how much work is getting done and how good the work is.\r\n\r\nAdam and Andrew worked at Causal before starting Weave. ",
+      "one_liner": "AI to measure engineering work.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3733,10 +3736,10 @@
       ],
       "locations": "Mumbai, MH, India",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Finance",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3865,10 +3868,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hard Tech",
         "Reinforcement Learning",
         "Automation",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3930,11 +3933,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Analytics",
         "Sales",
-        "Sales Enablement",
-        "AI"
+        "Sales Enablement"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3949,7 +3952,7 @@
       "slug": "toothy-ai",
       "website": "https://www.toothy.ai/",
       "description": "Toothy is using AI to automate back office operations for dental clinics. We're building a reality where a dental clinic only needs 3 types of employees: dentists, hygienists, and dental assistants. Every other role is to be done by AI. \r\n\r\nAt our first clinic we've already managed to cut back office staff in half in the two months we've been operating with them. We charge 40% of what overseas BPOs do for the equivalent labor, and a fraction of what in-house employees cost.",
-      "one_liner": "We automate back-office operations for dental clinics using AI agents.",
+      "one_liner": "AI agents that do insurance verification & claims for dental clinics",
       "batch": "W25",
       "status": "Active",
       "team_size": 7,
@@ -3967,10 +3970,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "Healthcare",
         "Dental",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -3978,7 +3981,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736273040.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af1cc38738edb511790f1046181e5df438d511f8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fe65dd62e91bce60fafd27b8e4bea680f8db7d3.png"
     },
     {
       "id": 30217,
@@ -4054,8 +4057,8 @@
       "name": "Contrario",
       "slug": "contrario",
       "website": "https://contrario.ai",
-      "description": "Contrario is the first autonomous recruiting agency powered entirely by Al. We help companies hire top engineers faster by identifying and screening high-quality candidates. Their platform leverages proprietary AI to identify job seekers from an elite talent pool (Stanford, MIT, Palantir, OpenAI, etc.) who match your hiring needs. Their voice agents then conduct customized interviews that evaluate your candidates\u2019 abilities to use AI developer tools in real-world coding challenges. With Contrario, your company only interviews pre-vetted engineers that will 10x your company\u2019s growth.",
-      "one_liner": "Building the world\u2019s 1st AI recruiting agency",
+      "description": "Contrario is the first autonomous recruiting agency powered entirely by Al. We help companies hire top engineers faster by identifying and screening high-quality candidates. Our platform leverages proprietary AI to identify job seekers from an elite talent pool (Stanford, MIT, Palantir, OpenAI, etc.) who match your hiring needs. Our voice agents then conduct customized interviews that evaluate your candidates\u2019 abilities to use the latest AI developer tools like Cursor and Windsurf. With Contrario, your company only interviews pre-vetted engineers that will 10x your company\u2019s growth.",
+      "one_liner": "The 1st fully autonomous AI recruiting agency",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4071,10 +4074,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Marketplace",
-        "Recruiting",
-        "Conversational AI"
+        "SaaS",
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4194,11 +4196,11 @@
       "name": "Conntour",
       "slug": "conntour",
       "website": "https://www.conntour.com/",
-      "description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (\u201cFind a man with a blue backpack\u201d), set alerts (\u201cAlert me if someone climbs over the wall\u201d), and extract data (\u201cHow many vehicles entered yesterday?\u201d).\r\n\r\nWe recently secured our first paying customer - the Singapore government - paying $80K for a 3-month trial. If successful, this trial will lead to a contract worth ~$2M/year.\r\n\r\nMatan (CEO) led a military video surveillance unit, leveraging security cameras to save lives. Tomer (CTO) is a second-time founder and former director of engineering.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they\u2019re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited flexibility through natural language queries - just ask anything.",
-      "one_liner": "Monitor & search security camera footage with natural language.",
+      "description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (\u201cFind a man with a blue backpack\u201d), set alerts (\u201cAlert me if someone climbs over the wall\u201d), and extract data (\u201cHow many vehicles entered yesterday?\u201d).\r\n\r\nWe just completed an $80K POC with the Singapore government, which was a great success, leading us toward a $2M/year contract. That\u2019s only one of five huge customers we\u2019re set to close in the next few months.\r\n\r\nMatan (CEO) worked with security cameras for years, leading video surveillance in the Israel Defense Forces. Tomer (CTO) is a second-time founder and former director of engineering.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they\u2019re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited customization through natural language queries - just ask anything.",
+      "one_liner": "AI to monitor thousands of security cameras.",
       "batch": "W25",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -4416,7 +4418,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739813505.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/274ac22c30bd825b88e1dcfc3f005ade9b21767d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/988eb2e2b20c2a99fe4d96b54932cdebea0632d4.png"
     },
     {
       "id": 30201,
@@ -4674,8 +4676,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
+        "SaaS",
         "B2B",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4770,9 +4773,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Security",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4853,8 +4856,8 @@
       "name": "Excellence Learning",
       "slug": "excellence-learning",
       "website": "https://excellence-ai.com/",
-      "description": "Aiming at complementing/replacing private tutoring and long-term study programs such as Kumon (over 30B TAM).\r\n\r\nExcellence is a web app for both ambitious and struggling students to learn math. As we believe each student is unique, we adapt our high quality courses and exercices to their knowledge and learning style in a very granular way. To facilitate learning, they get detailed text, voice and graphical explanations, can craft study plans, revise and memorize, and received human mentorship if needed.\r\n\r\nIn addition, we offer a program with daily courses and exercices, detailed feedback on their worksheets and more (super Kumon).\r\n\r\nFinally we sell the AI tutoring and exercise databases to schools in a B2B and B2B2C model and already work for the most prestigious institutions in France (Ecole polytechnique, college Stanislas...).\r\n\r\nWe're a passionate team of ex-quants, mathematicians and physics champions devoted to improving science education.",
-      "one_liner": "AI tutor starting with maths and science for 4th-12th grade",
+      "description": "Aiming at complementing/replacing private tutoring and long-term study programs such as Kumon (over 30B TAM).\r\n\r\nExcellence is a web app for both ambitious and struggling students to learn math. As we believe each student is unique, we adapt our high quality courses and exercises to their knowledge and learning style in a very granular way. To facilitate learning, they get detailed text, voice and graphical explanations, can craft study plans, revise and memorize, and received human mentorship if needed.\r\n\r\nIn addition, we offer a program with daily courses and exercises, detailed feedback on their worksheets and more (super Kumon).\r\n\r\nFinally we sell the AI tutoring and exercise databases to schools in a B2B and B2B2C model and already work for the most prestigious institutions in France (Ecole polytechnique, college Stanislas...).\r\n\r\nWe're a passionate team of ex-quants, mathematicians and physics champions devoted to improving science education.",
+      "one_liner": "AI tutor starting with maths and science",
       "batch": "W25",
       "status": "Active",
       "team_size": 4,
@@ -5357,8 +5360,8 @@
       "name": "Exin Therapeutics",
       "slug": "exin-therapeutics",
       "website": "https://www.exintherapeutics.com/",
-      "description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on\u00a0epilepsies associated with autism and Parkinson\u2019s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity.\u00a0Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists\u00a0supported by an experienced SAB from Harvard, ex-Neuralink, EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF,\u00a0we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding.\u00a0\r\n",
-      "one_liner": "An AI discovery platform for neurotherapeutics",
+      "description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on\u00a0epilepsies associated with autism and Parkinson\u2019s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity.\u00a0Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists\u00a0supported by an experienced SAB from Harvard, Science Corp (ex-Neuralink), EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF,\u00a0we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding.\u00a0\r\n",
+      "one_liner": "AI drug discovery platform for neurotherapeutics",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -5391,7 +5394,7 @@
       "slug": "uncommon-therapeutics",
       "website": "https://uncommontherapeutics.com",
       "description": "Our founder Noah, an experienced tech entrepreneur, was directly impacted by a severe genetic disease when his daughter was diagnosed with Rett Syndrome, a disease that afflicts 1 in 10,000 girls. Using an innovative polytherapy strategy, we\u2019ve successfully improved her quality of life, and have designed new therapeutics that each could be worth billions and together could deliver a cure.",
-      "one_liner": "A Disease Focused Biotech",
+      "one_liner": "A Disease Focused Biotech, Building Multiple Billion Dollar Drugs",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -5521,5 +5524,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-09T00:02:30.607846"
+  "fetched_at": "2025-03-09T06:01:28.370316"
 }
