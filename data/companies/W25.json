@@ -55,10 +55,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Consumer",
         "Open Source",
+        "AI",
         "AR"
       ],
       "stage": "Early",
@@ -123,11 +123,11 @@
       ],
       "locations": "Stockholm, Stockholm County, Sweden",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
         "B2B",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -158,10 +158,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "B2B",
         "Market Research",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -243,8 +243,8 @@
       "name": "Axal",
       "slug": "axal",
       "website": "https://www.axal.ai/",
-      "description": "Axal decreases the risk of modernization by automating the identification of architectural technical debt in monolithic codebases and prioritizing refactoring opportunities based on business goals.\r\n\r\nWe provide observability into your codebase, finding anti-patterns that stop your team from reaching their goals. By identifying domains (logical areas of functionality) within the monolith, Axal quantifies areas of technical debt into KPIs, helping executives pinpoint where modernization efforts will be most effective so your team can focus on the important work first.\r\n",
-      "one_liner": "Re-architect your code in 30 days.",
+      "description": "Axal analyzes legacy applications to reveal what they do and identifies architectural issues slowing development and increasing maintenance costs. It provides observability into these problem areas in under 10 hours and then can fix it with AI.\r\n",
+      "one_liner": "Fix software architecture with AI",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -358,8 +358,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -374,7 +374,7 @@
       "slug": "sammy-labs",
       "website": "https://www.sammylabs.com",
       "description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it\u2019s just powerful technology at work.",
-      "one_liner": "Automate onboarding, support & training with AI that mimics your users",
+      "one_liner": "Live, AI-powered graph of every possible click path in your software",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -484,9 +484,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Design",
-        "Design Tools",
-        "AI"
+        "Design Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -670,7 +670,7 @@
       "name": "Paratus Health",
       "slug": "paratus-health",
       "website": "https://paratushealth.com/",
-      "description": "Paratus Health is an AI-powered intake nurse that automates pre-appointment patient interviews, saving doctors time and improving diagnostic accuracy. By conducting dynamic symptom assessments before the visit, it delivers a structured summary\u2014helping doctors walk in prepared, reducing missed diagnoses, and increasing clinic efficiency. Designed to replace inefficient forms and costly triage calls, Paratus Health turns wasted waiting time into better care and higher ROI for providers.",
+      "description": "Paratus Health is an AI-powered intake nurse that automates pre-appointment patient interviews, saving doctors time and improving accuracy. By conducting dynamic symptom assessments before the visit, it delivers a structured summary, helping doctors walk in prepared, reducing missed diagnoses, and increasing clinic efficiency. Designed to replace inefficient forms and costly intake nurses, Paratus Health turns wasted waiting time into better care and higher ROI for providers.",
       "one_liner": "AI-powered intake nurse.",
       "batch": "W25",
       "status": "Active",
@@ -766,7 +766,7 @@
       "slug": "tensorpool",
       "website": "https://tensorpool.dev",
       "description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
-      "one_liner": "The easiest way to use GPUs",
+      "one_liner": "Vercel For GPUs",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -799,8 +799,8 @@
       "name": "Opine",
       "slug": "opine",
       "website": "https://opine.cool",
-      "description": "Opine is an AI native social media app. Users can create characters with a custom face, voice, and outfit. They can overlay these characters onto any videos of themselves and share them on our platform.",
-      "one_liner": "AI-Native Social Media App",
+      "description": "Opine is social media for AI influencers. Instead of watching content on a feed, users chat with an AI influencer, who recommends content to them. The content is created by a human creator, but the chatting is done by an LLM. Together these create a new kind of influencer.",
+      "one_liner": "Social Media for AI Influencers",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -833,7 +833,7 @@
       "slug": "dalus",
       "website": "https://dalus.io",
       "description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)\r\n\r\nRead why we started Dalus: https://dalus.io/articles/why-dalus",
-      "one_liner": "AI-powered design software for mission critical hardware",
+      "one_liner": "AI-Powered Hardware System Design Software",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -851,10 +851,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Aerospace"
+        "Aerospace",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -868,7 +868,7 @@
       "name": "Roark",
       "slug": "roark",
       "website": "https://roark.ai",
-      "description": "Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
+      "description": "Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do. \r\n\r\nWithin just 12 days of launching, we signed 8 paying customers, reached $5k in MRR, and began processing over 10,000 calls per week.\r\n\r\nOur team has been building together for over a decade. James previously built AngelList\u2019s portfolio infrastructure supporting its growth from $10B to $124B asset under management, while Daniel was a founding engineer at Akiflow (YC S20) scaling it to $1.5M ARR with 10,000+ customers. \r\n\r\nVoice AI is the future of business calls, but today, teams either fly blind or build in-house solutions because no off-the-shelf tooling exists. Roark solves this, bringing the first real testing and analytics platform to the space.",
       "one_liner": "Datadog for Voice AI",
       "batch": "W25",
       "status": "Active",
@@ -881,14 +881,12 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
+        "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1034,7 +1032,7 @@
       "name": "Demeter",
       "slug": "demeter",
       "website": "https://www.joindemeter.com/",
-      "description": "Demeter provides AI fund administration for private investment firms. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and valuation, providing insights in minutes instead of weeks.",
+      "description": "Demeter is AI Fund Administration for private investment firms. It enriches portfolio data with deep research to automate performance tracking and benchmarking for M&A insights.",
       "one_liner": "AI Fund Administration for Private Investment Firms",
       "batch": "W25",
       "status": "Active",
@@ -1085,11 +1083,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "SaaS",
-        "API",
-        "AI"
+        "API"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1587,8 +1585,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1620,6 +1618,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Developer Tools",
         "Payments",
         "B2B",
         "Compliance"
@@ -1977,7 +1976,7 @@
       "slug": "exla",
       "website": "https://exla.ai/",
       "description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3\u201320x - all with just a few lines of code.",
-      "one_liner": "Bring data center models to the edge",
+      "one_liner": "An SDK to run transformer models anywhere",
       "batch": "W25",
       "status": "Active",
       "team_size": 0,
@@ -1992,9 +1991,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Edge Computing Semiconductors",
-        "Computer Vision",
-        "AI"
+        "Computer Vision"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2110,7 +2109,7 @@
       "name": "Vovana",
       "slug": "vovana",
       "website": "https://www.vovana.com/",
-      "description": "Vovana is an AI recruiter for filling high-volume roles in retail, logistics, restaurants, and hospitality. Companies like Rent-a-Wheel, a tire retailer, use our AI to source and interview new tire techs and customer service reps. \r\n\r\nWe\u2019re replacing the $100B frontline staffing market with AI, at a fraction of the cost.",
+      "description": "Vovana is an AI recruiter for filling high-volume roles in retail, logistics, restaurants, and hospitality. Companies like Rent-a-Wheel, a tire retailer, use our AI to source and interview new tire techs and customer service reps. \r\n\r\nWe\u2019re replacing the $50B frontline staffing market with AI, at a fraction of the cost.",
       "one_liner": "AI recruiter built for frontline hiring",
       "batch": "W25",
       "status": "Active",
@@ -2160,9 +2159,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Reinforcement Learning",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2176,7 +2175,7 @@
       "name": "ReJot",
       "slug": "rejot",
       "website": "https://rejot.dev",
-      "description": "At ReJot, we're building a synchronization engine to modernize sharing data between backend services within larger organizations. Traditional approaches for internal data transfer such as HTTP requests and event streaming require significant effort to implement and maintain. The biggest hurdle however, is the coordination required to get teams to start the actual integration work.\r\n\r\nOur approach is based on synchronization, teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. By being declarative about integrations, project management overhead as well as technical integration burdens are avoided. ReJot uses your existing infrastructure such as Postgres and Kafka.\r\n",
+      "description": "At ReJot, we're building a synchronization engine to greatly reduce the complexity of data sharing between backend services within enterprises. The traditional approach is Event Streaming, where events are published to a platform like Kafka. Kafka not only requires significant effort to operate, it also forces engineers to use events. Events come with inherent complexity\u2014they encode something happening rather than something being (i.e., state).\r\n\r\nOur approach is based on replication, where state is transferred directly instead of requiring a back-and-forth conversion to events. We provide primitives to enable teams to break data silos, while keeping in mind data ownership and provenance. Teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. ReJot works on top of existing infrastructure such as Postgres.\r\n",
       "one_liner": "Sync engine to share data across engineering teams in enterprises",
       "batch": "W25",
       "status": "Active",
@@ -2275,7 +2274,7 @@
       "name": "Trata",
       "slug": "trata",
       "website": "https://www.trytrata.com/",
-      "description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the \u201cfirst cut\u201d of research from 3 hours to 3 minutes with 1-2 page notes. \r\nhttps://calendly.com/eric-trytrata",
+      "description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.\r\nhttps://calendly.com/eric-trytrata",
       "one_liner": "AI-powered research desk for hedge funds",
       "batch": "W25",
       "status": "Active",
@@ -2343,7 +2342,7 @@
       "name": "Lucidic AI",
       "slug": "lucidic-ai",
       "website": "https://lucidic.ai",
-      "description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent\u2019s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+      "description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for AI agent devs, specifically visualizations and simulations, and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent\u2019s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
       "one_liner": "Weights & Biases for AI Agents",
       "batch": "W25",
       "status": "Active",
@@ -2584,7 +2583,7 @@
       "slug": "harbera",
       "website": "https://harbera.com/",
       "description": "Harbera helps hospitals, DSOs and clinic groups keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively helps admin teams re-credential doctors, preventing denied claims, disruptions in patient care, and tens of billions of lost revenue caused by doctors falling out-of-network.",
-      "one_liner": "AI provider credentialing software",
+      "one_liner": "AI Healthcare Provider Credentialing Software",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2752,8 +2751,8 @@
       "name": "Macadamia",
       "slug": "macadamia",
       "website": "https://macadamialabs.com",
-      "description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent fixes design issues automatically in complex workflows. Think of Glean.com specialized for Mechanical / Civil engineering firms. ",
-      "one_liner": "AI Mechanical Engineer that fixes technical issues in complex projects",
+      "description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex engineering projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent implements solutions automatically in complex workflows. Think of Glean.com specialized for Mechanical / Civil engineering firms. ",
+      "one_liner": "AI Mechanical Engineer to fix technical issues",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -2769,11 +2768,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Construction",
         "Design",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2867,15 +2866,10 @@
         "Manufacturing and Robotics"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Jose, CA, USA",
-      "tags": [
-        "Hardware",
-        "Construction",
-        "Self-Driving Vehicles"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3219,7 +3213,7 @@
       "slug": "mosaic-2",
       "website": "https://usemosaic.ai",
       "description": "Mosaic is an agentic video editing paradigm. It enables anyone to create and run their own multimodal video editing agents in a node-based canvas. Our mission is to accelerate hours of video editing work to seconds.",
-      "one_liner": "AI Agents for Video Editing",
+      "one_liner": "Create and run your own video editing AI agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3235,6 +3229,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Video",
         "AI",
         "AI Assistant"
@@ -3991,7 +3986,7 @@
       "slug": "rocketable",
       "website": "https://www.rocketable.com",
       "description": "Rocketable is building a large portfolio of wildly profitable software businesses by acquiring existing products and replacing human teams with AI agents.\r\n\r\nToday\u2019s foundation models already possess enough intelligence to automate most of the tasks required to run a profitable software business. In the functions where agents aren\u2019t yet intelligent enough to replace humans, they will be soon.\r\n\r\nWhen every human function required to operate a software product has an AI agent equivalent, the next step will be within reach: operating an entire company with a team of AI agents instead of humans.\r\n\r\nBut superintelligent agents within each function won\u2019t be enough. To operate a software company with 0 human employees, the agents will need to be directed towards common goals, integrated to collaborate across functions, tuned with feedback loops connected to product metrics, and trained to make resource allocation decisions.\r\n\r\nWe are creating the tools needed to replace the entire org chart of a software company with a team of AI agents. We are developing these tools by owning the products that we automate, because we know from 10+ years of experience building automated systems with AI/ML that integration is the key to unlocking superhuman performance.",
-      "one_liner": "The AI maximalist software holding company",
+      "one_liner": "The AI Maximalist Software Holding Company",
       "batch": "W25",
       "status": "Active",
       "team_size": 1,
@@ -4129,7 +4124,7 @@
       "slug": "truffle-ai",
       "website": "https://www.trytruffle.ai/",
       "description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
-      "one_liner": "AI Agents that work in any software",
+      "one_liner": "AWS for AI Agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4330,8 +4325,8 @@
       "name": "Subtrace",
       "slug": "subtrace",
       "website": "https://subtrace.dev",
-      "description": "Subtrace shows developers every incoming and outgoing request in Docker containers so that they can resolve prod issues faster.",
-      "one_liner": "Wireshark for Docker containers",
+      "description": "Subtrace lets developers see every request in their production backend with a single command so that they can root cause issues faster.",
+      "one_liner": "Wireshark for Production Backends",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4729,7 +4724,7 @@
       "slug": "steinmetz",
       "website": "https://steinmetzmotors.com/",
       "description": "Steinmetz is an electric vehicle platform company based in San Francisco. We use new power electronics techniques to significantly improve\u00a0power densities\u00a0(kW/kg, kW/L) bringing down\u00a0vehicle system costs\u00a0and\u00a0even unit costs.\r\n\r\nOur first products are Inverters/motor controllers with industry-leading power densities while remaining cost competitive.",
-      "one_liner": "Steinmetz is developing the engine of electric vehicles.",
+      "one_liner": "Hardware for Electric Vehicles.",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4943,11 +4938,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
         "Sales",
         "Marketing",
-        "Big Data"
+        "Big Data",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5076,11 +5071,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Computer Vision",
         "Construction",
         "B2B",
-        "Architecture",
-        "AI"
+        "Architecture"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5226,7 +5221,7 @@
       "slug": "quantstruct",
       "website": "https://quantstruct.com",
       "description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company\u2019s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
-      "one_liner": "Auto-improve & publish technical docs with AI",
+      "one_liner": "AI documentation engineer \u2013\u00a0test & autoimprove stale product docs",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -5241,11 +5236,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "API",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5309,11 +5304,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Design",
         "Design Tools",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5327,8 +5322,8 @@
       "name": "Delineate",
       "slug": "delineate",
       "website": "https://delineate.pro/",
-      "description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\r\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\r\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\r\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\r\nDelineate has worked with two top-10 pharma companies and conducted some of the largest aggregated research studies to date.",
-      "one_liner": "Extract meaningful data from research literature and patents at scale.",
+      "description": "Delineate is building AI agents to design better clinical trials faster.\r\n\r\nThis is a $10B dollar market, where saving even 1 day along the process is equal to $1-5M in revenue potential.\r\n\r\nWe process existing clinical trial research into specialized datasets saving scientists months of effort.\r\n\r\nDelineate is working with two of the largest pharmaceutical companies. With one of our customers, we are helping them get to the next phase of trials faster by creating the largest dataset on a drug class ever constructed.",
+      "one_liner": "Agents for Accelerated Clinical Trial Design",
       "batch": "W25",
       "status": "Active",
       "team_size": 20,
@@ -5526,5 +5521,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-08T18:01:08.864100"
+  "fetched_at": "2025-03-09T00:02:30.607846"
 }
