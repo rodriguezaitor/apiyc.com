@@ -272,11 +272,11 @@
     },
     {
       "id": 30351,
-      "name": "Dexterity",
-      "slug": "dexterity",
+      "name": "Dex",
+      "slug": "dex-2",
       "website": "https://getdexterity.com/",
-      "description": "Dex is the intelligent interface built for coworking with AI\u2014right on top of your browser.\r\n\r\nMost AI agents today are designed for set-and-forget tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps you do everything 10x faster.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
-      "one_liner": "AI Browser Assistant for Power Users",
+      "description": "Dex is the AI copilot built for the browser. 10x your productivity right where you work.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
+      "one_liner": "The AI Browser Copilot",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -358,8 +358,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
-        "AI"
+        "Artificial Intelligence",
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -635,8 +635,8 @@
       "name": "CopyCat",
       "slug": "copycat",
       "website": "https://runcopycat.com",
-      "description": "CopyCat lets businesses create browser agents in natural language to automate their manual and repetitive processes. ",
-      "one_liner": "Browser agents for repetitive business processes.",
+      "description": "CopyCat brings RPA into the AI era, letting businesses create browser agents in natural language to automate manual and repetitive processes.",
+      "one_liner": "Next-Gen RPA, Powered by Browser Agents",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -650,12 +650,11 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "Seattle, WA, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "Robotic Process Automation",
         "B2B",
-        "Workflow Automation",
         "AI"
       ],
       "stage": "Early",
@@ -1220,8 +1219,8 @@
       ],
       "locations": "Remote",
       "tags": [
-        "Artificial Intelligence",
-        "Telecommunications"
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1252,11 +1251,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "E-commerce",
         "Retail Tech",
-        "Fashion",
-        "AI"
+        "Fashion"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1572,7 +1571,7 @@
       "slug": "peppr-ai",
       "website": "https://www.usepeppr.ai/",
       "description": "We turn scattered company data into a dynamic, self-improving knowledge hub to fuel faster decisions across your organization",
-      "one_liner": "The world's first AI-powered knowledge capture platform",
+      "one_liner": "Self-improving knowledge base synthesizing scattered company data",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1706,8 +1705,8 @@
       "name": "Mesh",
       "slug": "mesh-2",
       "website": "http://www.usemesh.com",
-      "description": "Mesh is building the AI finance team for SMBs. Mesh is the single, unified interface through which founders can ask questions on their financials, pay taxes and bills, collect invoices, run payroll, and more.  \r\n\r\nNandini and Erin worked together for 5+ years at Carta, and helped grow the fund accounting business from $20M to $100M ARR. Leveraging their insights from Carta, they\u2019re now automating accounting and finance for SMBs. \r\n\r\nAfter talking to 50+ companies, they realized that what companies need is a better finance partner. Our agents will meet founders exactly where they are by integrating with the existing tech stack and being accessible across various communication channels (i.e. Email, WhatsApp, Chat, Phone, Zoom). \r\n\r\nWithin 1 week of launching on ProductHunt, they have 20 paying customers at $27K ARR, and became the #1 Fintech of the Week.\r\n\r\nWith 35M SMBs in the US, at our average ACV of $5K, this presents a $175B US alone.",
-      "one_liner": "AI finance team for SMBs",
+      "description": "Mesh is building your AI finance team. Mesh is the single, unified interface through which founders can ask questions on their financials, pay taxes and bills, collect invoices, run payroll, and more.  \r\n\r\nNandini and Erin worked together for 5+ years at Carta, and helped grow the fund accounting business from $20M to $100M ARR. Leveraging their insights from Carta, they\u2019re now automating accounting and finance for SMBs. \r\n\r\nAfter talking to 50+ companies, they realized that what companies need is a better finance partner. Our agents will meet founders exactly where they are by integrating with the existing tech stack and being accessible across various communication channels (i.e. Email, WhatsApp, Chat, Phone, Zoom). \r\n\r\nWithin 1 week of launching on ProductHunt, they have 20 paying customers at $27K ARR, and became the #1 Fintech of the Week.\r\n\r\nThere are 35M SMBs in the US and 358M globally. At $5K average ACV, this presents a $175B US alone, and $1.8T globally.",
+      "one_liner": "Building your AI finance team",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -1740,7 +1739,7 @@
       "name": "Outlit",
       "slug": "outlit",
       "website": "https://outlit.ai/",
-      "description": "Outlit is building AI for Enterprise Deal Makers. Think Salesforce CPQ but AI-first. \r\n\r\nWe help Deal Desk and Revenue teams automate tasks like creating, pricing, reviewing and closing deals\u2014enabling them close deals faster\r\n\r\nWe\u2019ve created the largest Deal Desk community on Slack, with decision-makers from companies like Stripe, Uber, LinkedIn, Rev.com, and more.\r\n\r\nWe believe community-led growth is the future of GTM for enterprise SaaS sales\u2014and Outlit is already a step ahead.",
+      "description": "Outlit is building AI for enterprise sales.\r\n\r\nOutlit is building AI for enterprise sales.\r\n\r\nWe help revenue teams increase margins and deal velocity by automating tasks like creating, pricing, and reviewing\u2014ensuring every deal is optimized and executed faster.\r\n\r\nWe\u2019ve created the largest Deal Desk community on Slack, with decision-makers from companies like Stripe, Uber, LinkedIn, Rev.com, and more.\r\n\r\nWe believe community-led growth is the future of GTM for enterprise SaaS sales\u2014and Outlit is already a step ahead.",
       "one_liner": "AI Agents for Enterprise Sales",
       "batch": "W25",
       "status": "Active",
@@ -1824,11 +1823,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Data Science",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1842,8 +1841,8 @@
       "name": "Harper",
       "slug": "harper",
       "website": "https://www.harperinsure.com/",
-      "description": "At Harper, we are building an infinitely scalable commercial insurance brokerage using proprietary software, AI agents, and expert human training operators. Our initial focus is surplus lines insurance.",
-      "one_liner": "Harper is an AI-native commercial insurance brokerage.",
+      "description": "At Harper, we are building a fully autonomous commercial insurance brokerage powered by AI. Our initial focus is on mid-sized businesses with complex insurance needs, but our vision is to eventually serve every business in the country.\r\n\r\nBy leveraging AI to automate key workflows in the insurance process, we efficiently secure optimal coverage for each client's unique requirements at competitive prices and with rapid turnaround. Our AI system learns from the expertise of our brokers, accumulating not just knowledge but also the specific workflows, data, and capabilities that pave the way to full autonomy.",
+      "one_liner": "AI-native commercial insurance brokerage",
       "batch": "W25",
       "status": "Active",
       "team_size": 8,
@@ -2636,8 +2635,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Developer Tools",
-        "AI"
+        "Artificial Intelligence",
+        "Developer Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2769,11 +2768,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Construction",
         "Design",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2838,11 +2837,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Legal",
         "HR Tech",
-        "Immigration",
-        "AI"
+        "Immigration"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2949,10 +2948,10 @@
     },
     {
       "id": 30254,
-      "name": "hud",
+      "name": "HUD",
       "slug": "hud",
       "website": "https://hud.so",
-      "description": "",
+      "description": "Sam Altman and Dario Amodei have both said that we\u2019ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren\u2019t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like OpenAI, Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n\r\nDuring the batch, we grew from 0 to 240k ARR.\r\n\r\nToday our customers are foundation labs and startups building computer use and browser agents, but we want to expand to any company building or adopting a vertical AI agent that replaces an occupation. We want to be the Palantir of domain-specific agents. Soon, we will go into any organization, create evals for a specific job function, and then deploy an AI agent on our tooling that can automate a job function. Ultimately, we will become the platform that creates drop-in workers that can automate any white collar task. We want to free people from bullshit laptop jobs. ",
       "one_liner": "Hud is building evals for the drop-in worker",
       "batch": "W25",
       "status": "Active",
@@ -3671,9 +3670,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3688,7 +3687,7 @@
       "slug": "caseflood-ai",
       "website": "https://caseflood.ai",
       "description": "Caseflood.ai helps law firms cut costs by a third and increase average case value by 20% by replacing their entire admin/operations staff with AI agents. It takes care of all admin tasks - from client intake to case analysis to engaging clients - allowing for firms to be run more profitably and wildly more efficient. Caseflood.ai is on a mission to fundamentally change the unit economics of the legal industry.",
-      "one_liner": "AI admin/operations staff for law firms",
+      "one_liner": "the AI inbound sales team for law firms",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -4179,10 +4178,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "API",
-        "AI"
+        "API"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4213,11 +4212,11 @@
       ],
       "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "tags": [
+        "Artificial Intelligence",
         "GovTech",
         "Computer Vision",
         "B2B",
-        "Security",
-        "AI"
+        "Security"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4360,7 +4359,7 @@
       "slug": "vocality-health",
       "website": "https://www.vocalityhealth.com",
       "description": "Our app allows doctors to speak any language, eliminating the need for human medical translators in hospitals and clinics. Despite spending billions on in-person and remote translators\u2014mostly through outdated call centers\u2014hospitals still fail to provide adequate care for non-English-speaking patients.\r\n\r\nWe're building the most accurate and compliant medical language translation system across voice and video modalities. ",
-      "one_liner": "Voice AI for medical language translation in healthcare",
+      "one_liner": "Voice AI for medical language translation",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -5239,11 +5238,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "API",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5524,5 +5523,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-09T12:01:24.110517"
+  "fetched_at": "2025-03-09T18:01:04.713480"
 }

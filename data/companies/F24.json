@@ -863,7 +863,7 @@
       "one_liner": "The Cursor for Xcode",
       "batch": "F24",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -871,9 +871,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -3128,5 +3129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-03-09T12:01:26.495492"
+  "fetched_at": "2025-03-09T18:01:07.735558"
 }

@@ -5353,19 +5353,18 @@
     },
     {
       "id": 27859,
-      "name": "Socap.ai",
-      "slug": "socap-ai",
-      "website": "https://www.socap.ai",
-      "description": "At Socap.ai, we help founders and investors to grow their network and fundraise better with AI.\r\n\r\nAs experienced founders and investors (Slava is an ex-VC with 2 unicorns from seed portfolio and a top YC founder who has raised $180M over his entrepreneurial career; Alex is a repeat AI founder with an exit and has helped dozens of founders to raise early-stage funding), we're constantly bombarded with emails/DMs from fellow founders asking for fundraising help and intros.\r\n\r\nWe get it \u2014 fundraising is tough, especially in the current environment. There's so much advice that you don't even know who to listen to. With Socap.ai, we make it at least 2 times easier by giving founders a proven YC-style \"parallel fundraising\" playbook (remember \u2014 we ourselves have raised over $200M using it), an accountable community, and exclusive access to the Socap.ai platform where you can easily manage and grow your founder/investor network for your fundraising needs and beyond.\r\n\r\nWe're currently in beta and onboarding users through various community initiatives (ours or our VC/accelerator partners). Learn more and apply to one of our free fundraising bootcamps here: Socap.ai",
-      "one_liner": "Grow your network and fundraise faster with AI \ud83e\udd11",
+      "name": "No Cap",
+      "slug": "no-cap",
+      "website": "https://www.nocap.so",
+      "description": "The first ever AI angel investor, trained by cracked founders (The No Cap Mafia) \ud83d\udeab\ud83e\udde2\r\n\r\nLaunching on Tuesday Mar 11 \ud83d\udc40\r\n\r\nCo-founded by \ud83d\udc47\r\n\r\n- Jeff Wilson aka Professor Dumpster (ex-JUPE YC S21)\r\n- Alexander Nevedovsky (exit to Farfetch)",
+      "one_liner": "World's first AI angel investor",
       "batch": "W23",
       "status": "Active",
-      "team_size": 10,
-      "industry": "B2B",
+      "team_size": 5,
+      "industry": "Consumer",
       "subindustry": "B2B -> Sales",
       "industries": [
-        "B2B",
-        "Operations"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -5375,18 +5374,16 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "B2B",
-        "Workflow Automation",
-        "Community",
-        "Fundraising",
-        "AI Assistant"
+        "Investing",
+        "AI",
+        "Fundraising"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1680292727.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0d359323a088882f5c78f86aabe906060961e19.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe99f57aca9c81137434c5409d42edb7e5c0798e.png"
     },
     {
       "id": 27858,
@@ -6188,8 +6185,8 @@
       "name": "LaunchFlow",
       "slug": "launchflow",
       "website": "https://www.launchflow.com/",
-      "description": "Our AI Copilot helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!",
-      "one_liner": "AI DevOps Engineer: infra.new",
+      "description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
+      "one_liner": "AI Agent for Terraform: infra.new",
       "batch": "W23",
       "status": "Active",
       "team_size": 3,
@@ -9361,5 +9358,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-09T12:01:20.830518"
+  "fetched_at": "2025-03-09T18:01:01.250059"
 }
