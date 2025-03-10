@@ -3073,11 +3073,11 @@
       "name": "Diversion",
       "slug": "diversion",
       "website": "https://diversion.dev",
-      "description": "Diversion is a cloud-native, scalable Git alternative. We allow software development teams to effectively collaborate on code bases of any size, while improving security, devops and developer experience.",
+      "description": "Diversion is a modern alternative to Perforce and Git, designed for digital entertainment industries like games, virtual production, animation, and 3D/VR. It streamlines collaboration by providing GitHub-like version control for large files and complex projects, integrating seamlessly with tools like Unreal Engine. Built for studios handling massive assets, Diversion ensures efficient workflows, secure storage, and effortless tracking of project history, making it the go-to platform for creative teams managing evolving digital content.",
       "one_liner": "A scalable, cloud-native Perforce and Git alternative",
       "batch": "S22",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 14,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3085,15 +3085,15 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Israel",
-        "Middle East and North Africa"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "DevSecOps",
         "SaaS",
-        "Enterprise"
+        "Virtual Reality",
+        "Enterprise",
+        "Cloud Computing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8194,5 +8194,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-03-10T12:01:42.247522"
+  "fetched_at": "2025-03-10T18:01:13.251645"
 }

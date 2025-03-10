@@ -1863,7 +1863,7 @@
         "Insurance"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1735235398.0,
@@ -4438,11 +4438,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Solar Power",
         "Energy",
         "Renewable Energy",
-        "ClimateTech"
+        "ClimateTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5555,5 +5555,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-10T12:01:44.401848"
+  "fetched_at": "2025-03-10T18:01:15.647271"
 }
