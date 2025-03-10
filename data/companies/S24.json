@@ -7874,8 +7874,8 @@
       "name": "Miru",
       "slug": "miru-ml",
       "website": "https://www.miruml.com",
-      "description": "Miru provides developers with the infrastructure to easily deploy updates over-the-air to fleets of robots and IoT devices by simply pushing new changes to GitHub.\r\n\r\nWe\u2019re on a mission to accelerate the automation of the physical world by enabling developers to move atoms with bits. Our vision is simple\u2014robots everywhere, doing everything.",
-      "one_liner": "Deployment infrastructure for robotics and IoT",
+      "description": "Miru makes it easy for robotics teams to manage, version, and deploy robot configurations. Developers use our well-documented APIs and UI components to automate configuration updates for both engineers and operators.\r\n\r\nWe\u2019re on a mission to accelerate the automation of the physical world.",
+      "one_liner": "DevOps for robotics",
       "batch": "S24",
       "status": "Active",
       "team_size": 3,
@@ -7891,10 +7891,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AIOps",
         "Developer Tools",
         "Robotics",
-        "IoT"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8402,5 +8401,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-09T18:01:01.657367"
+  "fetched_at": "2025-03-10T00:02:36.702174"
 }

@@ -158,10 +158,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "B2B",
         "Market Research",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -274,8 +274,8 @@
       "id": 30351,
       "name": "Dex",
       "slug": "dex-2",
-      "website": "https://getdexterity.com/",
-      "description": "Dex is the AI copilot built for the browser. 10x your productivity right where you work.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
+      "website": "https://joindex.com/",
+      "description": "Dex is the AI copilot built for the browser.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
       "one_liner": "The AI Browser Copilot",
       "batch": "W25",
       "status": "Active",
@@ -1739,7 +1739,7 @@
       "name": "Outlit",
       "slug": "outlit",
       "website": "https://outlit.ai/",
-      "description": "Outlit is building AI for enterprise sales.\r\n\r\nOutlit is building AI for enterprise sales.\r\n\r\nWe help revenue teams increase margins and deal velocity by automating tasks like creating, pricing, and reviewing\u2014ensuring every deal is optimized and executed faster.\r\n\r\nWe\u2019ve created the largest Deal Desk community on Slack, with decision-makers from companies like Stripe, Uber, LinkedIn, Rev.com, and more.\r\n\r\nWe believe community-led growth is the future of GTM for enterprise SaaS sales\u2014and Outlit is already a step ahead.",
+      "description": "Outlit is building AI for enterprise sales.\r\n\r\nWe help revenue teams increase margins and deal velocity by automating tasks like creating, pricing, and reviewing\u2014ensuring every deal is optimized and executed faster.\r\n\r\nWe\u2019ve created the largest Deal Desk community on Slack, with decision-makers from companies like Stripe, Uber, LinkedIn, Rev.com, and more.\r\n\r\nWe believe community-led growth is the future of GTM for enterprise SaaS sales\u2014and Outlit is already a step ahead.",
       "one_liner": "AI Agents for Enterprise Sales",
       "batch": "W25",
       "status": "Active",
@@ -1975,7 +1975,7 @@
       "name": "Exla",
       "slug": "exla",
       "website": "https://exla.ai/",
-      "description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3\u201320x - all with just a few lines of code.",
+      "description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3\u201320x - all with just a few lines of code.\r\n\r\nhttps://cal.com/exla-ai/schedule",
       "one_liner": "An SDK to run transformer models anywhere",
       "batch": "W25",
       "status": "Active",
@@ -1991,9 +1991,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Edge Computing Semiconductors",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2057,11 +2057,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Travel",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2359,10 +2359,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3028,9 +3028,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3614,6 +3614,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png"
     },
     {
+      "id": 30230,
+      "name": "SalesPatriot",
+      "slug": "salespatriot",
+      "website": "https://www.salespatriot.com/",
+      "description": "SalesPatriot is a back-office operating system for defense firms. It helps you find, review, and bid on RFQ solicitations, both directly with the Pentagon and as a subcontractor.\r\n\r\nUS Government procures billions of dollars worth of parts and products every year, yet the procedure is riddled with red tape and repetitive, manual work.\r\n\r\nNelson worked at a manufacturing firm during his gap year prior to attending Berkeley. As the Chief of Staff, he witnessed first-hand the tedious process of finding great contract opportunities, the lengthy solicitation preparation process, and paper-based communication between departments.\r\n\r\nHe teamed up with Ben and Maciej, whom he met during Berkeley's M.E.T. admit day. Both of them had extensive experience in AI research and applications, which they applied to creating a powerful framework for humans and AI agents to collaborate during the lifecycle of a contract.\r\n\r\nWith SalesPatriot, your firm can run on autopilot - we find suitable contracts automatically, ingest RFQs from primes, streamline the communication between the departments, and provide analytics to improve your win rate.\r\n\r\nWether you are a manufacturer, reseller, or distributor, SalesPatriot can reduce your manual tasks, increase throughput, and boost your revenue. ",
+      "one_liner": "We help defense firms win more contracts with the Pentagon",
+      "batch": "W25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "GovTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1741557589.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55eb595eb8712daeb02c69afcc09007bcb63c4f.png"
+    },
+    {
       "id": 30229,
       "name": "Maive",
       "slug": "maive",
@@ -3932,11 +3964,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Analytics",
         "Sales",
-        "Sales Enablement"
+        "Sales Enablement",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3969,10 +4001,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Healthcare",
         "Dental",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -5107,10 +5139,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Finance",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5343,9 +5375,9 @@
       ],
       "locations": "Boston, MA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Biotech"
+        "Biotech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5523,5 +5555,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-09T18:01:04.713480"
+  "fetched_at": "2025-03-10T00:02:39.944071"
 }
