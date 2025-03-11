@@ -1778,7 +1778,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Security",
+      "subindustry": "B2B -> Legal",
       "industries": [
         "B2B",
         "Legal"
@@ -2024,13 +2024,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736794966.0,
@@ -2041,8 +2041,8 @@
       "name": "Riviera",
       "slug": "riviera",
       "website": "https://www.withriviera.com",
-      "description": "Riviera builds AI voice agents that let travel businesses\u2014whether hotels, excursion operators, or online travel agencies\u2014spend less time answering phone calls and more time helping customers. Our system handles front-desk inquiries, in-room dining orders, tour bookings, and reservations. It answers every question instantly and in any language, 24/7.\r\n\r\nWe are solving a problem that older phone systems and IVRs can't: customers hate not being able to talk to someone immediately, but most travel businesses can\u2019t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach because the technology infrastructure in the travel industry is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren\u2019t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing software providers and using human-sounding voice models that are highly trained on data specific to each business type and department.\r\n\r\nTravel businesses spend hundreds of billions annually on staffing and risk losing potential revenue when phone lines are overwhelmed or callers hang up. By enabling them to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.\r\n",
-      "one_liner": "AI Voice Agents for The Travel Industry",
+      "description": "Riviera builds AI voice agents that let hotels spend less time answering phone calls and more time helping customers. Our system handles front-desk inquiries, in-room dining orders, and reservations. It answers every question instantly and in any language, 24/7.\r\n\r\nWe are solving a problem that older phone systems and IVRs can't: customers hate not being able to talk to someone immediately, but most travel businesses can\u2019t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach because the technology infrastructure in the travel industry is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren\u2019t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing software providers and using human-sounding voice models that are highly trained on data specific to each business type and department.\r\n\r\nHotels spend hundreds of billions annually on staffing and risk losing potential revenue when phone lines are overwhelmed or callers hang up. By enabling them to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.\r\n",
+      "one_liner": "AI Voice Agents for Hotels",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -2057,11 +2057,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Travel",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2496,9 +2496,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2805,7 +2805,7 @@
         "Artificial Intelligence",
         "Robotic Process Automation",
         "B2B",
-        "Workflow Automation",
+        "Automation",
         "AI"
       ],
       "stage": "Early",
@@ -5555,5 +5555,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-10T18:01:15.647271"
+  "fetched_at": "2025-03-11T00:02:52.336365"
 }
