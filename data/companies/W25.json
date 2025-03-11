@@ -2159,9 +2159,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Reinforcement Learning",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4278,8 +4278,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "GovTech",
-        "AI"
+        "Artificial Intelligence",
+        "GovTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4865,14 +4865,15 @@
         "Productivity"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Consumer",
         "B2B",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -5555,5 +5556,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-11T12:01:43.802776"
+  "fetched_at": "2025-03-11T18:01:18.217329"
 }
