@@ -5823,11 +5823,11 @@
       "name": "Cosine",
       "slug": "cosine",
       "website": "http://www.cosine.sh",
-      "description": "Cosine understands your codebase better than you do. It supports 50+ coding languages, allowing developers to ask any question about their codebase, get explanations about any feature and get suggestions about how to write new code.",
-      "one_liner": "Your AI Co-developer",
+      "description": "Cosine is a fully agentic SWE that allows you to instantly work on every single ticket at once, asynchronously. ",
+      "one_liner": "Fully Agentic SWE",
       "batch": "W23",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5841,11 +5841,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "Machine Learning",
-        "NLP"
+        "NLP",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -9360,5 +9360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-12T06:01:21.807985"
+  "fetched_at": "2025-03-12T12:01:27.384608"
 }

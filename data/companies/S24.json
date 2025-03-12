@@ -6245,15 +6245,15 @@
       "name": "Aviary",
       "slug": "aviary",
       "website": "https://aviary.video",
-      "description": "Aviary Notebook is an AI-powered video notebook that helps you learn faster from videos, and to share and collaborate with video notes.",
+      "description": "Aviary is an AI video understanding company. Our developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
       "one_liner": "AI Video Intelligence",
       "batch": "S24",
       "status": "Active",
       "team_size": 3,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
-        "Consumer"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -6263,11 +6263,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI-Enhanced Learning",
         "Artificial Intelligence",
+        "Developer Tools",
         "Machine Learning",
-        "Video",
-        "Search"
+        "Video"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8406,5 +8405,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-12T06:01:22.242244"
+  "fetched_at": "2025-03-12T12:01:27.835320"
 }
