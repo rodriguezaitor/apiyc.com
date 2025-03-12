@@ -140,12 +140,12 @@
       "id": 28416,
       "name": "Pierre",
       "slug": "pierre",
-      "website": "https://heypierre.app",
-      "description": "Pierre enables engineers, designers and business team members to discuss new features before they're merged.",
-      "one_liner": "Building a better github",
+      "website": "https://pierre.co",
+      "description": "We are re-building code hosting, code review, and CI primitives from the metal, for the next generation of professional developers: Small, focused teams, working closely, augmented by AI.",
+      "one_liner": "Pierre is a new, opinionated, git platform.",
       "batch": "W23",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -154,9 +154,11 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "New York, NY, USA; San Francisco, CA, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
         "Developer Tools",
@@ -169,7 +171,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1677182558.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f9dd3a5bbb2a2b8bc7fda0243ab22453a6fff15.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b78dca2b9a7dd83a3f06b2d4efd75eb21f68233b.png"
     },
     {
       "id": 28415,
@@ -4596,8 +4598,8 @@
       "name": "TableFlow",
       "slug": "tableflow",
       "website": "https://tableflow.com",
-      "description": "Leverage AI to extract data from PDFs, CSVs, images, and emails instantly.",
-      "one_liner": "AI Agents for Document Workflows",
+      "description": "Extract, clean, and analyze data from PDFs, spreadsheets, images, and more.",
+      "one_liner": "AI Document Processing",
       "batch": "W23",
       "status": "Active",
       "team_size": 2,
@@ -9358,5 +9360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-11T18:01:14.892289"
+  "fetched_at": "2025-03-12T00:02:40.851605"
 }

@@ -4633,7 +4633,7 @@
       "name": "Nerve",
       "slug": "nerve",
       "website": "https://nerve.run",
-      "description": "Nerve is a unified API that connects developers building in healthcare to health data stored in electronic health records (Epic, eClinicalWorks, Cerner, etc.). Instead of building custom integration solutions for each of their customers, developers use Nerve as the single entry point to access and maint ... see more",
+      "description": "Nerve is a unified API that connects developers building in healthcare to health data stored in electronic health records (Epic, eClinicalWorks, Cerner, etc.).\r\n\r\nInstead of building custom integration solutions for each of their customers, developers use Nerve as the single entry point to access and maintain connections to all EHRs.",
       "one_liner": "Healthcare integrations for developers",
       "batch": "S24",
       "status": "Active",
@@ -8401,5 +8401,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-11T18:01:15.327041"
+  "fetched_at": "2025-03-12T00:02:41.305777"
 }

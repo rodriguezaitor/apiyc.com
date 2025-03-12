@@ -6890,11 +6890,11 @@
       "name": "IOMETE",
       "slug": "iomete",
       "website": "https://www.iomete.com/",
-      "description": "The IOMETE Self-Hosted Data Lakehouse Platform unifies all data - regardless of where the data resides - enabling large-scale analytics (BI/ML/AI) on the entire data set. IOMETE runs always in the customer's environment, whether on premises, on public cloud or private cloud thereby maximizing data security, data privacy and data ownership while reducing cost.",
-      "one_liner": "The Self-hosted Data Lakehouse Platform",
+      "description": "The IOMETE self-hosted data lakehouse platform unifies all data - regardless of where the data resides - enabling large-scale analytics (BI/ML/AI) on the entire data set. IOMETE runs always in the customer's environment, whether on premises, on public cloud or private cloud thereby maximizing data security, data privacy and data ownership while reducing cost.",
+      "one_liner": "Self-hosted data lakehouse platform",
       "batch": "W22",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 17,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -6916,7 +6916,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1644374925.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e52952fdb211b49817df2113a24373bf56b70ef.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0597230dc5b69128c0f3bcea1b68ac1fa6181fa.png"
     },
     {
       "id": 25620,
@@ -13827,5 +13827,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-11T18:01:13.671339"
+  "fetched_at": "2025-03-12T00:02:39.394177"
 }
