@@ -1029,19 +1029,18 @@
     },
     {
       "id": 28162,
-      "name": "AiFlow",
-      "slug": "aiflow",
-      "website": "https://aiflow.solutions",
-      "description": "AiFlow Powers Executive Search and Board Advisory at the Speed of AI. In today's competitive landscape, quickly delivering exceptional candidates is essential for building long term partnerships with clients. AiFlow empowers your firm to exceed expectations through the power of artificial intelligence. Our AI possesses unparalleled insights into C-level and board candidates, enabling search firms to deliver the absolute highest quality candidates at unprecedented speeds.",
-      "one_liner": "AI-Based Candidate Identification for the C-Suite",
+      "name": "Verata",
+      "slug": "verata",
+      "website": "https://www.veratainsight.com/",
+      "description": "No more switching back and forth between Pitchbook, LinkedIn, and ZoomInfo. \r\n\r\nVerata brings together the best of all three with in-depth financial and people data in one easy to use platform.\r\n\r\nVerata lets you map markets, find comparables, and conduct deep research on operators with unparalleled metrics on executive track records.\r\n\r\nResearch that took hours now takes minutes. Source deals, operating partners, advisors, and portfolio leaders all in one place. ",
+      "one_liner": "The all-in-one private equity intelligence platform.",
       "batch": "W23",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
-        "B2B",
-        "Human Resources"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -1051,17 +1050,17 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Fintech",
         "Generative AI",
         "SaaS",
-        "HR Tech",
-        "Enterprise"
+        "HR Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1677562483.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f080fe37341cad02ffda9e0865cea281c0783ef5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/04042feea68cfa6b3181b5712c149970e24f178f.png"
     },
     {
       "id": 28160,
@@ -9360,5 +9359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-13T00:02:48.286903"
+  "fetched_at": "2025-03-13T06:01:06.901095"
 }

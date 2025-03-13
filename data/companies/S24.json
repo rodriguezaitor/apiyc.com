@@ -3595,16 +3595,16 @@
       "name": "Remade",
       "slug": "remade",
       "website": "https://www.remade.ai/",
-      "description": "Remade uses AI to scale hyper-personalized video generation for marketplaces. Our first customer, Scentbird, a midmarket fragrance marketplace uses Remade to create engaging TikTok ad hooks. We are a team of 4 Cambridge AI hackers with publications in CVPR, the largest Computer Vision conference, and the Lancet Journal, the most respected medical journal globally. Our ARR grew 83% last week from 18k to 33k with an additional 17k pilot revenue with Rappi and eFood, which will take us to a 650k contracted ARR by EoQ. We are building out a research-arm to develop proprietary tech, fusing recommendation algorithms with video models to deliver hyper-personalised videos that increase conversion.",
-      "one_liner": "Using AI to hyper-personalize videos for marketplaces",
+      "description": "Remade is building the largest AI video generation Discord community. Our Discord has been growing 1000% WoW since launch and is currently at 3.5K members. \r\nJoin the Discord: https://discord.com/invite/7tsKMCbNFC",
+      "one_liner": "AI video generation Discord community",
       "batch": "S24",
       "status": "Active",
       "team_size": 4,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Marketing",
       "industries": [
-        "B2B",
-        "Marketing"
+        "Consumer",
+        "Content"
       ],
       "regions": [
         "United States of America",
@@ -3613,10 +3613,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
+        "Generative AI",
         "SaaS",
-        "B2B",
-        "Social Media",
-        "Marketing"
+        "Consumer",
+        "Social Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8446,5 +8446,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-13T00:02:48.613561"
+  "fetched_at": "2025-03-13T06:01:07.212011"
 }
