@@ -1247,11 +1247,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "E-commerce",
         "Retail Tech",
-        "Fashion"
+        "Fashion",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1583,8 +1583,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2053,11 +2053,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Travel",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2427,7 +2427,7 @@
         "Machine Learning",
         "Health Tech",
         "B2B",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2696,10 +2696,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Video",
-        "Remote Work"
+        "Remote Work",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3024,9 +3024,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5552,5 +5552,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-12T18:01:12.014720"
+  "fetched_at": "2025-03-13T00:02:51.001909"
 }

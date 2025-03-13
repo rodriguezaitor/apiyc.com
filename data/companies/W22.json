@@ -8311,7 +8311,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -12225,7 +12225,7 @@
         "ClimateTech"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1664395372.0,
@@ -13827,5 +13827,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-12T18:01:06.788019"
+  "fetched_at": "2025-03-13T00:02:47.135540"
 }
