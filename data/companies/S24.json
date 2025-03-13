@@ -4257,18 +4257,19 @@
     },
     {
       "id": 29738,
-      "name": "Unriddle",
-      "slug": "unriddle",
-      "website": "https://www.unriddle.ai/",
-      "description": "We're building tools to help people think and work better.\r\n\r\nToday, Unriddle helps researchers and students quickly find insights in documents, video and audio so they can learn and write faster.\r\n\r\nWe started working on Unriddle 18 months ago. In that time:\r\n- we\u2019ve grown to 3M users spanning hundreds of major colleges and research-led companies,\u2028\r\n- we reached $1.5M in yearly revenue and are about to hit $2M,\u2028\r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube, \u2028\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers and students.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member of the team, you'll be instrumental in helping us scale revenue from $1M to $10M and then $10M to $100M+.\r\n\r\nIf you\u2019re excited by the idea of being a part of that, definitely reach out.",
-      "one_liner": "AI for researchers, students and scientists",
+      "name": "Anara",
+      "slug": "anara",
+      "website": "https://anara.so",
+      "description": "Anara helps researchers understand, organize and write scientific documents. Formerly known as Unriddle.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n- we\u2019ve grown to 3M users spanning hundreds of major colleges and research-led companies,\r\n- we hit $1.5M in yearly revenue and are fast approaching our next milestone of $2M,\r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised a $2.4M seed with checks from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member of the team, you'll be instrumental in helping us scale revenue from $1M to $10M and then $10M to $100M+.\r\n\r\nIf you\u2019re excited by the idea of being a part of that, definitely reach out.",
+      "one_liner": "AI for researchers",
       "batch": "S24",
       "status": "Active",
       "team_size": 5,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -4278,16 +4279,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1715615655.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d33a41f68a666de360151afdcdd82f92471a13.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png"
     },
     {
       "id": 29737,
@@ -4390,11 +4391,11 @@
     },
     {
       "id": 29734,
-      "name": "Focal",
-      "slug": "focal-2",
-      "website": "https://usefocal.ai",
-      "description": "Focal enables f to effectively leverage AI to automate traditionally manual workflows. Our initial focus is geared towards helping financial institutions automate compliance, risk, and dispute operations.",
-      "one_liner": "AI-powered compliance operations for banks and fintechs",
+      "name": "Vibe",
+      "slug": "vibe",
+      "website": "https://vibe.codes",
+      "description": "Vibe enables everyone to turn their thoughts into real world apps through conversation. Let\u2019s vibe code the future.",
+      "one_liner": "Making everyone a software engineer",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -4402,7 +4403,7 @@
       "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Operations"
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -4411,17 +4412,17 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Fintech",
+        "Developer Tools",
         "SaaS",
         "B2B",
-        "Operations"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720475145.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0914e7c57600d0f4e29b3d49471acd1e2eeee03.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8940c6298f960bb7c06dd46f4ee238bc10eb57fc.png"
     },
     {
       "id": 29733,
@@ -8452,5 +8453,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-13T12:01:17.125653"
+  "fetched_at": "2025-03-13T18:01:36.182223"
 }
