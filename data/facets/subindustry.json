@@ -35,8 +35,8 @@
     "Healthcare": 64,
     "Healthcare -> Therapeutics": 63,
     "Healthcare -> Diagnostics": 55,
+    "Industrials -> Climate": 52,
     "Industrials -> Aviation and Space": 51,
-    "Industrials -> Climate": 51,
     "Consumer -> Apparel and Cosmetics": 50,
     "Fintech -> Asset Management": 48,
     "Fintech -> Insurance": 45,
@@ -54,10 +54,10 @@
     "B2B -> Office Management": 25,
     "Consumer -> Virtual and Augmented Reality": 23,
     "Industrials -> Automotive": 19,
-    "Industrials -> Drones": 19,
     "Real Estate and Construction": 19,
+    "Industrials -> Drones": 18,
     "Consumer -> Job and Career Services": 16,
     "Industrials": 14
   },
-  "fetched_at": "2025-03-13T18:01:40.395275"
+  "fetched_at": "2025-03-14T00:02:53.455257"
 }

@@ -2300,7 +2300,7 @@
       "one_liner": "We help students in Latin America graduate from College.",
       "batch": "S21",
       "status": "Active",
-      "team_size": 60,
+      "team_size": 100,
       "industry": "Education",
       "subindustry": "Education",
       "industries": [
@@ -2308,14 +2308,11 @@
       ],
       "regions": [
         "Argentina",
-        "Chile",
-        "Brazil",
-        "Colombia",
         "Latin America",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "C\u00f3rdoba, Cordoba, Argentina; Santiago, Santiago Metropolitan Region, Chile; S\u00e3o Paulo, SP, Brazil; Buenos Aires, CABA, Argentina; Bogot\u00e1, Bogota, Colombia",
+      "locations": "C\u00f3rdoba, Cordoba, Argentina",
       "tags": [
         "Education",
         "eLearning",
@@ -13433,5 +13430,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-03-13T18:01:35.692145"
+  "fetched_at": "2025-03-14T00:02:38.123558"
 }
