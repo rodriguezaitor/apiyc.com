@@ -9672,43 +9672,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b4784fe233f145657c210c4e6446866d8b1196b.png"
     },
     {
-      "id": 24026,
-      "name": "Flowbo",
-      "slug": "flowbo-inc",
-      "website": "https://www.flowbo.co/",
-      "description": "Flowbo provides financing to online revenue-generating companies including creators and eCommerce. \r\n\r\nWe package assets into investable products so creators can raise money. For example, we package receivables into factoring products.",
-      "one_liner": "Pipe for online businesses",
-      "batch": "S21",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Consumer Finance",
-      "industries": [
-        "Fintech",
-        "Consumer Finance"
-      ],
-      "regions": [
-        "United States of America",
-        "South Korea",
-        "America / Canada",
-        "East Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Los Angeles, CA, USA; Seoul, Seoul, South Korea",
-      "tags": [
-        "Fintech",
-        "Marketplace",
-        "Creator Economy"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1624307550.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/50a9b08351b63992055d656f9f008b5e7ec36f91.png"
-    },
-    {
       "id": 24024,
       "name": "SolarMente",
       "slug": "solarmente",
@@ -13158,6 +13121,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a2e2f2139d9baa80f30d05c72feb1978ae5906.png"
     },
     {
+      "id": 24026,
+      "name": "Flowbo",
+      "slug": "flowbo-inc",
+      "website": "https://www.flowbo.co/",
+      "description": "Flowbo provides financing to online revenue-generating companies including creators and eCommerce. \r\n\r\nWe package assets into investable products so creators can raise money. For example, we package receivables into factoring products.",
+      "one_liner": "Pipe for online businesses",
+      "batch": "S21",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "South Korea",
+        "America / Canada",
+        "East Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA; Seoul, Seoul, South Korea",
+      "tags": [
+        "Fintech",
+        "Marketplace",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1624307550.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/50a9b08351b63992055d656f9f008b5e7ec36f91.png"
+    },
+    {
       "id": 24025,
       "name": "Buzzle",
       "slug": "buzzle",
@@ -13430,5 +13430,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-03-14T18:01:05.010620"
+  "fetched_at": "2025-03-15T00:02:43.232574"
 }

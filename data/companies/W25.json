@@ -2947,7 +2947,7 @@
       "name": "HUD",
       "slug": "hud",
       "website": "https://hud.so",
-      "description": "Sam Altman and Dario Amodei have both said that we\u2019ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren\u2019t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like OAI, Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n\r\nDuring the batch, we grew from 0 to $240k ARR.\r\n\r\nToday our customers are foundation labs and startups building computer use and browser agents, but we want to expand to any company building or adopting a vertical AI agent that replaces an occupation. \r\n\r\nWe want to be the Palantir of domain-specific agents. Soon, we will go into any organization, create evals for a specific job function, and then deploy an AI agent on our tooling that can automate a job function. Ultimately, we will become the platform that creates drop-in workers that can automate any white collar task. We want to free people from bullshit laptop jobs. ",
+      "description": "Sam Altman and Dario Amodei have both said that we\u2019ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren\u2019t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like a foundation lab (nda), Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n\r\nDuring the batch, we grew from 0 to >$300k ARR.\r\n\r\nToday our customers are foundation labs and startups building computer use and browser agents, but we want to expand to any company building or adopting a vertical AI agent that replaces an occupation. \r\n\r\nWe want to be the Palantir of domain-specific agents. Soon, we will go into any organization, create evals for a specific job function, and then deploy an AI agent on our tooling that can automate a job function. Ultimately, we will become the platform that creates drop-in workers that can automate any white collar task. We want to free people from bullshit laptop jobs. ",
       "one_liner": "Hud is building evals for the drop-in worker",
       "batch": "W25",
       "status": "Active",
@@ -3748,7 +3748,7 @@
       "slug": "tejas-ai",
       "website": "https://www.trytejas.ai/",
       "description": "Tejas AI eliminates uncertainty, allowing decision-makers to develop and evaluate credit rules more quickly and effectively.",
-      "one_liner": "Risk Decisioning Platform for Indian Banks",
+      "one_liner": "Risk Decisioning Platform for Banks",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3763,10 +3763,10 @@
       ],
       "locations": "Mumbai, MH, India",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Finance",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5545,5 +5545,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-14T18:01:08.509425"
+  "fetched_at": "2025-03-15T00:02:43.816633"
 }

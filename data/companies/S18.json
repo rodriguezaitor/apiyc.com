@@ -1447,41 +1447,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47b55852a1fff0b5b096b7decf0a07ed6cdb0636.png"
     },
     {
-      "id": 1966,
-      "name": "HappiLabs",
-      "slug": "happilabs",
-      "website": "https://www.happilabs.org/",
-      "description": "We're a SaaS company with emphasis on Service, and we have a mission:  to improve the happiness of scientists and the quality of their research. \r\n\r\nHappiLabs provides a service called the Virtual Lab Manager. We offer PhD level, former scientists to help with safety and regulatory, product research, lab shopping, negotiating, purchasing, inventory, and bookkeeping. Our software tools, such as the ETA Dashboard and the HappiApp, make it easy to request purchases, manage inventory, and check-in packages upon delivery. HappiLabs also has one of the most extensive databases of product prices. These tools, and experienced humans, make us the smartest lab managers in the world.\r\n\r\nAnother way to think of us is an outsourced purchasing department and/or a personal assistant for your scientists.  \r\n\r\nBased in Chicago, and some presence in San Francisco.\r\n\r\nIf you're a newly funded PI, a startup, small biotech, or work with purchasing as a big pharma/biotech, you can use our help.",
-      "one_liner": "Virtual Lab Managers for scientists and biotech, research Labs",
-      "batch": "S18",
-      "status": "Active",
-      "team_size": 14,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare Services",
-      "industries": [
-        "Healthcare",
-        "Healthcare Services"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Chicago, IL, USA",
-      "tags": [
-        "Assistive Tech",
-        "Smart Home Assistants",
-        "Warehouse Management Tech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1525313279.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74db772cdb6d5ff36bf91f3c639082d24c50ffd9.png"
-    },
-    {
       "id": 1965,
       "name": "Pine Park Health",
       "slug": "pine-park-health",
@@ -2071,7 +2036,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1525143905.0,
@@ -3134,6 +3099,41 @@
       "is_top_company": false,
       "launched_at": 1525316914.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/11c37762266e19ae06d56d6acbb5644eb70a26fb.png"
+    },
+    {
+      "id": 1966,
+      "name": "HappiLabs",
+      "slug": "happilabs",
+      "website": "https://www.happilabs.org/",
+      "description": "We're a SaaS company with emphasis on Service, and we have a mission:  to improve the happiness of scientists and the quality of their research. \r\n\r\nHappiLabs provides a service called the Virtual Lab Manager. We offer PhD level, former scientists to help with safety and regulatory, product research, lab shopping, negotiating, purchasing, inventory, and bookkeeping. Our software tools, such as the ETA Dashboard and the HappiApp, make it easy to request purchases, manage inventory, and check-in packages upon delivery. HappiLabs also has one of the most extensive databases of product prices. These tools, and experienced humans, make us the smartest lab managers in the world.\r\n\r\nAnother way to think of us is an outsourced purchasing department and/or a personal assistant for your scientists.  \r\n\r\nBased in Chicago, and some presence in San Francisco.\r\n\r\nIf you're a newly funded PI, a startup, small biotech, or work with purchasing as a big pharma/biotech, you can use our help.",
+      "one_liner": "Virtual Lab Managers for scientists and biotech, research Labs",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 14,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Chicago, IL, USA",
+      "tags": [
+        "Assistive Tech",
+        "Smart Home Assistants",
+        "Warehouse Management Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525313279.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74db772cdb6d5ff36bf91f3c639082d24c50ffd9.png"
     },
     {
       "id": 1955,
@@ -4410,5 +4410,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-03-14T18:01:09.068534"
+  "fetched_at": "2025-03-15T00:02:43.886211"
 }
