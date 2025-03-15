@@ -8059,6 +8059,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e8293b8909fbc0452663290a630f3f5f9d0e7e1.png"
     },
     {
+      "id": 29318,
+      "name": "StarJar",
+      "slug": "starjar",
+      "website": "https://www.starjar.io/",
+      "description": "Starjar automates inbound document processing workflows for hospitals. These inbound documents include patient referrals, claim files, audit files, medical images and more. We work with many of the top healthcare systems and hospitals in the US and automate millions of inbound documents for them every year.",
+      "one_liner": "Starjar automates inbound document processing workflows for hospitals",
+      "batch": "W24",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Workflow Automation",
+        "Healthcare",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1742019492.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fada29ae63edf87d4cbd62fa52e4d06cd8363eb.png"
+    },
+    {
       "id": 29449,
       "name": "Fileforge",
       "slug": "fileforge",
@@ -8265,5 +8297,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-15T06:01:01.359117"
+  "fetched_at": "2025-03-15T12:01:02.439327"
 }
