@@ -102,18 +102,19 @@
     },
     {
       "id": 22322,
-      "name": "Toolbox",
-      "slug": "toolbox",
-      "website": "https://www.trytoolbox.com",
-      "description": "Our mission at Toolbox is to help SMBs thrive by providing them with a simple, yet powerful financial operating system to grow their business.",
-      "one_liner": "Financial operating system for SMBs",
+      "name": "Payflow",
+      "slug": "payflow-2",
+      "website": "https://www.payflow.ai",
+      "description": "Building Luca: an AI FP&A analyst providing executives with AI-powered financial insights, analytics, detailed reporting, planning and forecasting. Luca enables companies to save tens of thousands of dollars and 400+ hours per year, while getting critical business value from week one.\r\nLevel-4 autonomy for FP&A. Learn more: https://payflow.ai",
+      "one_liner": "AI FP&A Agent for insights, reports, planning and forecasting.",
       "batch": "S20",
       "status": "Active",
       "team_size": 7,
-      "industry": "Fintech",
+      "industry": "B2B",
       "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
-        "Fintech"
+        "B2B",
+        "Finance and Accounting"
       ],
       "regions": [
         "United States of America",
@@ -123,14 +124,16 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Fintech"
+        "Fintech",
+        "SaaS",
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1595401779.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9f10e82ea69e794127f2b7dec992403ddaa745d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a26715d50dea86a98186746ad74932cda51155ed.png"
     },
     {
       "id": 22321,
@@ -7128,5 +7131,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-03-15T00:02:43.696639"
+  "fetched_at": "2025-03-15T06:01:01.865449"
 }
