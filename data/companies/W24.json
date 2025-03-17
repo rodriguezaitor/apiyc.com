@@ -1097,7 +1097,7 @@
       "name": "Piramidal",
       "slug": "piramidal",
       "website": "https://piramidal.ai",
-      "description": "Get instant diagnosis for the vast majority of neurological conditions using our Foundational AI.",
+      "description": "Understand & control neural syntax.",
       "one_liner": "Foundation Model for the Brain",
       "batch": "W24",
       "status": "Active",
@@ -5146,7 +5146,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709806941.0,
@@ -6928,32 +6928,37 @@
     },
     {
       "id": 29257,
-      "name": "Adagy Robotics",
-      "slug": "adagy-robotics",
-      "website": "https://www.adagyrobotics.com/",
-      "description": "Adagy is a remote intervention service that rescues robots when they fail. For example, when a tractor robot gets lost in a field, instead of calling the farmer for help, it can now call Adagy, whose operators will take control of the robot and remotely drive it back to safety. \r\n\r\nWe\u2019re starting with trained human operators assisted by generative AI, and as we collect more data, our model will learn to handle more of the edge cases. \r\n\r\nWe want to see a world with more robots, so we\u2019re addressing the biggest problem in robot deployment: reliability. ",
-      "one_liner": "Rescuing robots",
+      "name": "Tuesday Lab",
+      "slug": "tuesday-lab",
+      "website": "https://www.tuesdaylab.com/",
+      "description": "Tuesday makes delightful robots for your everyday life",
+      "one_liner": "Delightful robots",
       "batch": "W24",
       "status": "Active",
-      "team_size": 2,
-      "industry": "Industrials",
+      "team_size": 1,
+      "industry": "Consumer",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
+        "Consumer",
+        "Consumer Electronics"
       ],
       "regions": [
-        "Remote",
-        "Partly Remote"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Robotics",
+        "Consumer",
+        "Gaming"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706678921.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7a680d1493fa7b391bcafe94d3b16c9bb0af090.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/133f27769085a4d8d20b1f989ff2737c643c9935.png"
     },
     {
       "id": 29256,
@@ -8297,5 +8302,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-17T12:01:33.747635"
+  "fetched_at": "2025-03-17T18:01:12.711450"
 }
