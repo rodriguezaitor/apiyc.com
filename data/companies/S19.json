@@ -1927,8 +1927,8 @@
       "name": "Rosebud AI",
       "slug": "rosebud-ai",
       "website": "http://rosebud.ai",
-      "description": "Rosebud is building the AI Roblox. We will make it 1000X easier for a community of game devs to create and enjoy the games of their dreams.\r\n\u200d\r\nWe\u2019re a team of PhD researchers, creatives and engineers building the generative AI platform to enable game creation at the speed of thought. We believe all media creation will be done via generative methods in a few years. We're building that future.",
-      "one_liner": "Make games at the speed of thought. ",
+      "description": "Rosebud lets anyone vibe code games. No coding skills required. \r\n",
+      "one_liner": "Vibe code games. ",
       "batch": "S19",
       "status": "Active",
       "team_size": 10,
@@ -1945,11 +1945,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "Machine Learning",
-        "Gaming"
+        "Gaming",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5898,5 +5898,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-03-16T18:01:24.899543"
+  "fetched_at": "2025-03-17T00:03:09.959961"
 }
