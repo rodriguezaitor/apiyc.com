@@ -7196,42 +7196,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfea3ef1c729dbc6ec5526da896c404d28fa550f.png"
     },
     {
-      "id": 24197,
-      "name": "Hilos",
-      "slug": "quid",
-      "website": "https://hilos.io",
-      "description": "Hilos allows startups and SMBs to run their entire business on WhatsApp, without code. We focus specifically on letting businesses build apps within WhatsApp that integrate with other systems (CRMs, Databases, Payment providers, etc.).\r\n\r\nCompanies can use Hilos to allow their customers to run self serve processes like tracking the status of a package, generating payment links, creating an invoice on demand, or anything else you can dream up.",
-      "one_liner": "Zapier for WhatsApp.",
-      "batch": "S21",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Marketing",
-      "industries": [
-        "B2B",
-        "Marketing"
-      ],
-      "regions": [
-        "Mexico",
-        "Latin America",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Mexico City, CDMX, Mexico; Remote",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Productivity",
-        "Messaging"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1628792250.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0204cd23d4b9a6c1ba79573cff7cb08ffd66ac7e.png"
-    },
-    {
       "id": 24195,
       "name": "Tarsal",
       "slug": "tarsal",
@@ -11826,6 +11790,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d204b37489e1bf0407fdab24bd4c6ec609fffd5.png"
     },
     {
+      "id": 24197,
+      "name": "Hilos",
+      "slug": "quid",
+      "website": "https://hilos.io",
+      "description": "Hilos allows startups and SMBs to run their entire business on WhatsApp, without code. We focus specifically on letting businesses build apps within WhatsApp that integrate with other systems (CRMs, Databases, Payment providers, etc.).\r\n\r\nCompanies can use Hilos to allow their customers to run self serve processes like tracking the status of a package, generating payment links, creating an invoice on demand, or anything else you can dream up.",
+      "one_liner": "Zapier for WhatsApp.",
+      "batch": "S21",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Mexico City, CDMX, Mexico; Remote",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Productivity",
+        "Messaging"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1628792250.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0204cd23d4b9a6c1ba79573cff7cb08ffd66ac7e.png"
+    },
+    {
       "id": 24136,
       "name": "MadEats",
       "slug": "madeats",
@@ -13433,5 +13433,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-03-17T18:01:10.618459"
+  "fetched_at": "2025-03-18T00:02:35.542530"
 }
