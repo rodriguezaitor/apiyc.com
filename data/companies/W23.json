@@ -3751,7 +3751,7 @@
       "id": 27947,
       "name": "Shortbread",
       "slug": "shortbread",
-      "website": "https://www.shortbreadapp.com/",
+      "website": "https://www.shortbread.ai/",
       "description": "Shortbread App is Netflix for bite-sized mobile comics. Users pay to read premium romance series.\r\n\r\nShortbread app is powered by an AI Comics Studio. Our AI tech enables pro artists to create comics at 1/10 the traditional cost and at higher quality. Our stories are written by bestselling writers on BookTok, Kindle, and Wattpad.",
       "one_liner": "Read romance comics.",
       "batch": "W23",
@@ -3769,10 +3769,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Entertainment",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -9359,5 +9359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-18T06:01:30.389821"
+  "fetched_at": "2025-03-18T12:01:37.704196"
 }
