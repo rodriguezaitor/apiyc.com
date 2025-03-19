@@ -4563,40 +4563,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b78f8543daddcbab960f2418bf3909cc4b5b026.png"
     },
     {
-      "id": 25757,
-      "name": "AntWalk",
-      "slug": "antwalk",
-      "website": "https://www.antwalk.com/",
-      "description": "An up-skilling platform that empowers teams with continuous learning tracks to equip them with the right skills at the right time. \r\n\r\nOur up-skilling programs are customised to business objectives of organisations across sales, customer success, general management, technology & product functions & promote employee development by enhancing their existing competencies and developing newer ones. \r\n\r\nAntWalk is powered by 3000+ Experts from 500+ Global Brands across 40+ Countries to power these courses and 1:1 Interactions.",
-      "one_liner": "An employee up-skilling platform for fast growing companies",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 50,
-      "industry": "Education",
-      "subindustry": "Education",
-      "industries": [
-        "Education"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Bengaluru, KA, India; Remote",
-      "tags": [
-        "Education",
-        "eLearning",
-        "Enterprise"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1647841473.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a8cf0b68ea1720cdf1adba0a1c01b4115f5972.png"
-    },
-    {
       "id": 25755,
       "name": "Moni",
       "slug": "moni",
@@ -7789,7 +7755,7 @@
     },
     {
       "id": 25572,
-      "name": "Rdash",
+      "name": "RDash",
       "slug": "rdash",
       "website": "https://www.rdash.io",
       "description": "RDash is a new age construction management platform for Developers, contractors and design studios. It enables complete workflow automation for design, projects, procurement, and finance professionals involved in construction and interior projects management.",
@@ -13093,6 +13059,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8d639e2da217393023962cadbf5e44f0794f06.png"
     },
     {
+      "id": 25757,
+      "name": "AntWalk",
+      "slug": "antwalk",
+      "website": "https://www.antwalk.com/",
+      "description": "An up-skilling platform that empowers teams with continuous learning tracks to equip them with the right skills at the right time. \r\n\r\nOur up-skilling programs are customised to business objectives of organisations across sales, customer success, general management, technology & product functions & promote employee development by enhancing their existing competencies and developing newer ones. \r\n\r\nAntWalk is powered by 3000+ Experts from 500+ Global Brands across 40+ Countries to power these courses and 1:1 Interactions.",
+      "one_liner": "An employee up-skilling platform for fast growing companies",
+      "batch": "W22",
+      "status": "Inactive",
+      "team_size": 50,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Bengaluru, KA, India; Remote",
+      "tags": [
+        "Education",
+        "eLearning",
+        "Enterprise"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1647841473.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a8cf0b68ea1720cdf1adba0a1c01b4115f5972.png"
+    },
+    {
       "id": 25731,
       "name": "Demo Gorilla",
       "slug": "demo-gorilla",
@@ -13825,5 +13825,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-19T06:00:59.946218"
+  "fetched_at": "2025-03-19T12:01:33.514097"
 }
