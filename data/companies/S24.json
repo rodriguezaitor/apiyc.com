@@ -820,6 +820,7 @@
       "tags": [
         "Artificial Intelligence",
         "Generative AI",
+        "Machine Learning",
         "Infrastructure",
         "AI"
       ],
@@ -6423,14 +6424,14 @@
     },
     {
       "id": 29659,
-      "name": "Unbound Security",
-      "slug": "unbound-security",
-      "website": "https://www.unboundsecurity.ai/",
+      "name": "Unbound",
+      "slug": "unbound",
+      "website": "https://getunbound.ai/",
       "description": "",
-      "one_liner": "Allow employees to use AI tools without fear of data loss",
+      "one_liner": "Use AI tools without fear of data leakage",
       "batch": "S24",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -6438,11 +6439,18 @@
         "Security"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Privacy",
+        "Cybersecurity",
+        "Data Labeling"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -7303,7 +7311,7 @@
       "id": 29608,
       "name": "Rides",
       "slug": "rides",
-      "website": "http://www.RidesApp.com",
+      "website": "https://www.Rides.co",
       "description": "Rides is a car community platform built for and by enthusiasts. We want to give people a purpose built way to connect with other people that share their love of cars & motorcycles and creates showcases that give every vehicle a page that let's its design, performance, modifications & story take center stage. A social network where the cars shine and the community connects exactly how we do offline and on the road... around a shared passion.",
       "one_liner": "The car community for the car community.",
       "batch": "S24",
@@ -8442,5 +8450,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-19T12:01:35.500192"
+  "fetched_at": "2025-03-19T18:01:04.968210"
 }
