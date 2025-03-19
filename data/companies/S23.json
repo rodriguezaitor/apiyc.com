@@ -4138,8 +4138,8 @@
       "name": "Vigilant",
       "slug": "vigilant",
       "website": "https://vigilant.run",
-      "description": "Vigilant is a lightweight tool for managing structured logs. It lets you centralize your logs, search them, and get alerted when things break. We're focused on nailing the basics so setup and debugging feels as fast and intuitive as an IDE.",
-      "one_liner": "Lightweight logging and alerting for startups",
+      "description": "Vigilant is a lightweight observability tool that helps developers at startups track what's happening in their application. You send us data like logs, and metrics, and errors. Then from our dashboard, you can search, graph, and create alerts on your data. We're a team of builders with relentless focus on polished design and engineering excellence.",
+      "one_liner": "Lightweight logging, metrics, and error monitoring for startups",
       "batch": "S23",
       "status": "Active",
       "team_size": 2,
@@ -4157,8 +4157,8 @@
       "tags": [
         "Developer Tools",
         "SaaS",
-        "Design",
-        "Design Tools"
+        "Analytics",
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7339,5 +7339,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-03-18T18:01:16.024759"
+  "fetched_at": "2025-03-19T00:02:48.524385"
 }
