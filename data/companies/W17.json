@@ -199,40 +199,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cabb84499361a6851eec31b34582727ae4e362a2.png"
     },
     {
-      "id": 1573,
-      "name": "Humi",
-      "slug": "humi",
-      "website": "http://www.humi.ca",
-      "description": "Humi is building important infrastructure for Canada's economy. Software that helps SMBs employ Canadians. \r\n\r\nPayroll, HR, and Benefits all together in a single simple to use platform.\r\n\r\nServing thousands of Canadian companies, Humi\u2019s clients include innovators such as Ada, Hubdoc, LiveCA, AudioBooks.com, Inkbox, and others. \r\n\r\nwww.Humi.ca",
-      "one_liner": "Payroll, HR, and Health Benefits for Canada's SMB's",
-      "batch": "W17",
-      "status": "Active",
-      "team_size": 141,
-      "industry": "B2B",
-      "subindustry": "B2B -> Human Resources",
-      "industries": [
-        "B2B",
-        "Human Resources"
-      ],
-      "regions": [
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Toronto, ON, Canada",
-      "tags": [
-        "Fintech",
-        "Payroll"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1485295224.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70d437d1c52cbad85538f3753253662f57d59057.png"
-    },
-    {
       "id": 1564,
       "name": "Retool",
       "slug": "retool",
@@ -2010,6 +1976,40 @@
       "is_top_company": false,
       "launched_at": 1478051413.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e326734ce45c54c41f0c6a0f3e7509a5edb06d56.png"
+    },
+    {
+      "id": 1573,
+      "name": "Humi",
+      "slug": "humi",
+      "website": "http://www.humi.ca",
+      "description": "Humi is building important infrastructure for Canada's economy. Software that helps SMBs employ Canadians. \r\n\r\nPayroll, HR, and Benefits all together in a single simple to use platform.\r\n\r\nServing thousands of Canadian companies, Humi\u2019s clients include innovators such as Ada, Hubdoc, LiveCA, AudioBooks.com, Inkbox, and others. \r\n\r\nwww.Humi.ca",
+      "one_liner": "Payroll, HR, and Health Benefits for Canada's SMB's",
+      "batch": "W17",
+      "status": "Acquired",
+      "team_size": 141,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "Fintech",
+        "Payroll"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1485295224.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70d437d1c52cbad85538f3753253662f57d59057.png"
     },
     {
       "id": 1563,
@@ -3872,5 +3872,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-03-21T00:02:48.660333"
+  "fetched_at": "2025-03-21T06:01:36.644530"
 }
