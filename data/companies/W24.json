@@ -3993,7 +3993,7 @@
       "one_liner": "New jet engines for the new Jet Age.",
       "batch": "W24",
       "status": "Active",
-      "team_size": 13,
+      "team_size": 16,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -4001,17 +4001,12 @@
         "Aviation and Space"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Commercial Space Launch",
-        "Airplanes",
-        "Aerospace"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1711740097.0,
@@ -5161,7 +5156,7 @@
       "one_liner": "Automate document workflows",
       "batch": "W24",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -5175,9 +5170,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Documents",
-        "Artificial Intelligence",
         "Finance",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8302,5 +8297,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-20T18:01:09.158988"
+  "fetched_at": "2025-03-21T00:02:44.008891"
 }
