@@ -930,7 +930,7 @@
       "one_liner": "AI agents for recruiting firms",
       "batch": "W25",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
@@ -942,11 +942,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "HR Tech",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5511,5 +5511,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-21T12:01:10.296205"
+  "fetched_at": "2025-03-21T18:01:06.542484"
 }

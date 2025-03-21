@@ -4578,19 +4578,19 @@
     },
     {
       "id": 29348,
-      "name": "Kiosk",
-      "slug": "kiosk",
-      "website": "https://www.kiosk.so/?utm_source=ycombinator&utm_medium=directory",
-      "description": "At Kiosk, we help companies engage with their customers on their preferred app, WhatsApp.\r\n\r\nIn short, we blend AI agents and traditional marketing tools (Campaigns, Workflows) to generate personalised conversations at scale. Think of us like the MailChimp for WhatsApp, with a conversational AI twist \ud83d\udcac\r\n\r\nWhile WhatsApp is a key revenue driver in markets like India, its vast potential in Europe and Emerging Markets is still largely untapped!",
-      "one_liner": "WhatsApp Marketing for E-commerce",
+      "name": "Parallel",
+      "slug": "parallel",
+      "website": "https://www.kiosk-medical.com/?utm_source=ycombinator&utm_medium=directory",
+      "description": "We build AI agents that automate healthcare admin workflows.\r\n\r\nOur agents navigate legacy hospital software like humans and automate end-to-end workflows, freeing medical professionals from manual tasks.\r\n\r\nOur first agent tackles medical coding, laying the foundation for AI-driven automation across healthcare.",
+      "one_liner": "AI agents for healthcare admin",
       "batch": "W24",
       "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
+      "team_size": 6,
+      "industry": "Healthcare",
       "subindustry": "B2B -> Marketing",
       "industries": [
-        "B2B",
-        "Marketing"
+        "Healthcare",
+        "Healthcare IT"
       ],
       "regions": [
         "France",
@@ -4598,8 +4598,7 @@
       ],
       "locations": "Paris, \u00cele-de-France, France",
       "tags": [
-        "Messaging",
-        "Marketing",
+        "Healthcare",
         "Automation",
         "AI"
       ],
@@ -8292,5 +8291,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-21T12:01:09.900392"
+  "fetched_at": "2025-03-21T18:01:04.248749"
 }

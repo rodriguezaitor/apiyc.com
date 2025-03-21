@@ -7643,7 +7643,7 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "Cheers is the category leader in Frontline Experience Management. Thousands of frontline employees with NFC badges use Cheers to unify payments, tips, reviews, and referrals in one frictionless flow. By removing friction, Cheers drives 5\u201310x more reviews, referrals, and tips, boosting 5-star ratings and revenue. With enterprise customers already on board and strong traction, Cheers is redefining how frontline teams deliver bottom-line impact.",
+      "description": "Cheers is the category leader in Frontline Experience Management. Thousands of frontline employees use Cheers to unify payments, tips, reviews, and referrals in one frictionless flow. By removing friction using NFC, Cheers drives 5\u201310x more reviews, referrals, and tips, boosting 5-star ratings and revenue. With enterprise customers already on board and strong traction, Cheers is redefining how frontline teams deliver bottom-line impact.",
       "one_liner": "The super-app for frontline employees",
       "batch": "S24",
       "status": "Active",
@@ -7659,9 +7659,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
         "Feedback",
+        "AI",
         "Reviews"
       ],
       "stage": "Early",
@@ -7779,11 +7779,11 @@
       "name": "Undermind",
       "slug": "undermind",
       "website": "https://www.undermind.ai",
-      "description": "At Undermind, we're building a search engine that can handle extremely complex questions. It\u2019s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe\u2019ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We\u2019ve have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.",
+      "description": "At Undermind, we're building a search engine that can handle extremely complex questions. It\u2019s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe\u2019ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We\u2019ve have paying users across fields like medicine, ML, biotech, finance, and more.",
       "one_liner": "An AI agent for scientific research",
       "batch": "S24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "Education",
       "industries": [
@@ -8444,5 +8444,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-21T12:01:09.846009"
+  "fetched_at": "2025-03-21T18:01:03.889415"
 }
