@@ -241,37 +241,32 @@
     },
     {
       "id": 29516,
-      "name": "Million",
-      "slug": "million",
-      "website": "https://million.dev",
-      "description": "Million is an APM that makes websites fast, automatically. We use AI to automatically find performance issues and write code to fix them.",
-      "one_liner": "Make websites fast, automatically",
+      "name": "Same",
+      "slug": "same",
+      "website": "https://same.new",
+      "description": "Same is an programming agent in the browser (Imagine Cursor but with a VM on the web)",
+      "one_liner": "Copy any UI and make it yours",
       "batch": "W24",
       "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
+      "team_size": 5,
+      "industry": "Consumer",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "Consumer",
+        "Content"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Open Source",
-        "Web Development",
-        "AI Assistant",
-        "ML"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1703896590.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de72603799ff903b1f1699daa838508bf9f0b32a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54be5942506ceca0e5c954b2d14f532650487611.png"
     },
     {
       "id": 29515,
@@ -4379,7 +4374,7 @@
       "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
       "batch": "W24",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -8297,5 +8292,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-21T06:01:35.197104"
+  "fetched_at": "2025-03-21T12:01:09.900392"
 }
