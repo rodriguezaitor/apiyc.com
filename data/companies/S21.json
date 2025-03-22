@@ -2845,8 +2845,8 @@
       "name": "Buoyant Aero",
       "slug": "buoyant-aero",
       "website": "https://www.buoyant.aero",
-      "description": "Buoyant Aero builds unmanned blimps that move middle-mile air freight at half the cost of a small plane. We're two MIT hardware engineers who've been friends for almost a decade, and we've built satellites and antennas at Astranis, Wafer, and OneWeb. So far, we\u2019ve built and flown four airships - our most recent is 20 feet long and capable of speeds up to 35 miles per hour. We\u2019ve also closed $5 million in LOIs and have two pilot programs planned. We're starting by improving air cargo in remote regions like Alaska and northern Canada, and will expand to move less-than-truckload shipments in low density parts of the world.\r\n",
-      "one_liner": "Using drone blimps to move middle mile air freight at half the cost.",
+      "description": "Buoyant Aero builds zero-emissions autonomous drone blimps to break free from existing advertising paradigms and reach new audiences in new places. Whether it\u2019s on the beach, outside the convention center, or through the window of your target executive\u2019s office, Buoyant\u2019s blimps amplify your message to create measurable brand benefits. ",
+      "one_liner": "Bringing back blimps",
       "batch": "S21",
       "status": "Active",
       "team_size": 2,
@@ -2864,9 +2864,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Autonomous Delivery",
         "Robotics",
-        "Drones"
+        "Drones",
+        "Advertising"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3899,7 +3899,7 @@
         "Telemedicine"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1627866810.0,
@@ -13433,5 +13433,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-03-21T18:01:02.660658"
+  "fetched_at": "2025-03-22T00:02:42.326246"
 }
