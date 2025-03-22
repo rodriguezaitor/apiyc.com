@@ -739,7 +739,7 @@
       "slug": "anglera",
       "website": "https://www.anglera.com/",
       "description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
-      "one_liner": "AI Copilot for Merchandising",
+      "one_liner": "AI-Powered Product Data Enrichment",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -766,7 +766,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1719875304.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a8bc8b5c8de45073e0d61917890db15c4ddc8cb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2dfb2adf611e11737fa14a1b9b4be581858cfc3.png"
     },
     {
       "id": 29956,
@@ -3670,7 +3670,7 @@
       "slug": "modern-realty",
       "website": "https://modernrealty.io",
       "description": "The future of homebuying.",
-      "one_liner": "AI Real Estate Brokerage.",
+      "one_liner": "The AI powered Real Estate Brokerage.",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -3915,11 +3915,11 @@
     },
     {
       "id": 29751,
-      "name": "Opslane",
-      "slug": "opslane",
-      "website": "https://opslane.com",
-      "description": "Opslane speeds up incident resolution by automating work that is performed by short staffed SRE teams. \r\n\r\nWe do this by stitching together relevant context (logs, metrics, traces, code changes and runbooks) to help on-call engineers figure out what's going on.",
-      "one_liner": "AI SRE to speed up incident response",
+      "name": "Octopipe",
+      "slug": "octopipe",
+      "website": "https://octopipe.com",
+      "description": "Octopipe is ETL reimagined powered by AI that changes how companies create, maintain and scale data pipelines.",
+      "one_liner": "Build Scalable Data Pipelines in minutes not months",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -3935,11 +3935,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Enterprise",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8442,5 +8442,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-22T00:02:42.538746"
+  "fetched_at": "2025-03-22T06:01:04.755792"
 }
