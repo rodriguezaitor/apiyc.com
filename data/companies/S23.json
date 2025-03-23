@@ -4873,7 +4873,7 @@
       "one_liner": "A modern version of NetSuite",
       "batch": "S23",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -4886,11 +4886,12 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690778245.0,
@@ -7339,5 +7340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-03-22T18:01:24.890363"
+  "fetched_at": "2025-03-23T00:03:18.382125"
 }

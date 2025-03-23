@@ -1389,26 +1389,24 @@
       "batch": "S20",
       "status": "Active",
       "team_size": 100,
-      "industry": "Education",
+      "industry": "B2B",
       "subindustry": "Education",
       "industries": [
-        "Education"
+        "B2B",
+        "Recruiting and Talent"
       ],
       "regions": [
         "Argentina",
-        "Mexico",
-        "Colombia",
         "Latin America",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Buenos Aires, CABA, Argentina; Mexico City, CDMX, Mexico; Bogot\u00e1, Bogota, Colombia; Remote",
+      "locations": "Buenos Aires, CABA, Argentina; Remote",
       "tags": [
-        "Education",
-        "Marketplace",
         "B2B",
-        "Community",
-        "Latin America"
+        "Recruiting",
+        "Latin America",
+        "Talent Acquisition"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7131,5 +7129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-03-22T18:01:24.969789"
+  "fetched_at": "2025-03-23T00:03:18.457861"
 }
