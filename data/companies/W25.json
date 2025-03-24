@@ -791,7 +791,7 @@
       "id": 30329,
       "name": "Opine",
       "slug": "opine",
-      "website": "https://opine.cool",
+      "website": "https://opine.chat",
       "description": "Opine is social media for AI influencers. Instead of watching content on a feed, users chat with an AI influencer, who recommends content to them. The content is created by a human creator, but the chatting is done by an LLM. Together these create a new kind of influencer.",
       "one_liner": "Social Media for AI Influencers",
       "batch": "W25",
@@ -809,9 +809,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "Social Media",
-        "AI"
+        "Social Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1638,17 +1638,10 @@
         "Sales"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "B2B",
-        "Sales",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -1909,19 +1902,12 @@
         "Gaming"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Generative AI",
-        "Consumer",
-        "Gaming",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738144366.0,
@@ -5068,17 +5054,10 @@
         "Construction"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Construction",
-        "B2B",
-        "Architecture"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5512,5 +5491,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-24T00:02:45.151072"
+  "fetched_at": "2025-03-24T06:01:11.780236"
 }
