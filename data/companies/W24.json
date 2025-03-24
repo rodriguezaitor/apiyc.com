@@ -2084,8 +2084,8 @@
       "name": "Downlink",
       "slug": "downlink",
       "website": "https://downlink.dev/",
-      "description": "Downlink is the turbo button for AI. We make LLMs 70%+ faster with a few lines of code.\r\n\r\nDownlink learns which prompts are easy or hard. We train fast models to handle simple prompts, your existing LLM takes the complex ones.",
-      "one_liner": "Downlink makes LLMs 70%+ faster with a few lines of code",
+      "description": "Downlink is a platform that continuously improves your AI.\r\n\r\nBoost rate limits, slash latency, and raise accuracy.\u0003All through one simple API.",
+      "one_liner": "Make your LLMs 3x faster.",
       "batch": "W24",
       "status": "Active",
       "team_size": 1,
@@ -2101,17 +2101,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "API",
-        "AI"
+        "API"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708740244.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2f0650df38d9aa75beacac3780049ee1e0a7818.png"
     },
     {
       "id": 29435,
@@ -7671,21 +7671,26 @@
       "name": "DryMerge",
       "slug": "drymerge",
       "website": "https://www.drymerge.com",
-      "description": "DryMerge lets people automate work with plain English. Say you want to manage inbound leads. Instead of dragging blocks or writing code, just tell DryMerge \"Whenever I get an email from a potential customer, add their details to a google sheet and draft a reachout message\" and watch it happen in seconds.\r\n\r\nCounterintuitively, 88% of no-code users are actually programmers. We're changing that by making automation as fast and intuitive as conversation. This opens up the market to all knowledge workers, not just technical ones, and expands it by an order of magnitude. ",
-      "one_liner": "Automate work with plain English.",
+      "description": "We create AI agents that constantly monitor emails, calendar, calls, or wherever else companies have relationship data and organize it into CRM records as meticulously as a great rep would.\r\n\r\nWe build these agents on top of the DryMerge platform, a tool to build AI agents that integrate with business apps and work in the background.\r\n",
+      "one_liner": "AI that updates your CRM for you",
       "batch": "W24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "CRM",
+        "Automation",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8291,5 +8296,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-03-24T12:01:40.224098"
+  "fetched_at": "2025-03-24T18:01:19.589569"
 }

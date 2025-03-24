@@ -169,15 +169,10 @@
         "Infrastructure"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Reinforcement Learning",
-        "Infrastructure"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3134,5 +3129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-03-24T12:01:41.382505"
+  "fetched_at": "2025-03-24T18:01:24.159343"
 }
