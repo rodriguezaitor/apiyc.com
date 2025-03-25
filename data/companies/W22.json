@@ -8832,9 +8832,9 @@
       "id": 25491,
       "name": "Bobidi",
       "slug": "bobidi",
-      "website": "http://www.supertalents.ai",
-      "description": "Bobidi runs SuperTalents AI, a gamified training solution to help restaurants and vendors boost sales by empowering their staff.  ",
-      "one_liner": "Gamified Trainig For Hospitality Workers",
+      "website": "http://www.upswell.ai",
+      "description": "Bobidi runs Upswell, a platform that brings new guests to local restaurants and helps turn them into regulars.\r\n\r\nWe transform restaurants\u2019 promotional videos on social media into engaging quiz campaigns based on the video content. Winners receive cash rewards that can be redeemed at the restaurants.",
+      "one_liner": "Restaurant Loyalty Using Quiz",
       "batch": "W22",
       "status": "Active",
       "team_size": 7,
@@ -8842,7 +8842,7 @@
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Human Resources"
+        "Marketing"
       ],
       "regions": [
         "United States of America",
@@ -8852,17 +8852,17 @@
       ],
       "locations": "Los Gatos, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Machine Learning",
-        "Human Resources"
+        "Human Resources",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1642208334.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ad06a2fc0dfb05a71b56e2db5a10bae1d203fbe.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f84e00a73b712ac5b6de5e0cec130ff847c1a3e3.png"
     },
     {
       "id": 25486,
@@ -13825,5 +13825,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-25T12:01:28.909040"
+  "fetched_at": "2025-03-25T18:01:21.187593"
 }
