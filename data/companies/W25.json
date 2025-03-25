@@ -1785,40 +1785,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6e03dc3be9737df64c792b63e036b1c580cf.png"
     },
     {
-      "id": 30289,
-      "name": "Sherpa Labs",
-      "slug": "sherpa-labs",
-      "website": "https://www.sherpalabs.ai",
-      "description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes \u2014 similar to Glean but for enterprise data systems.",
-      "one_liner": "The AI Data Team",
-      "batch": "W25",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Data Science",
-        "Data Engineering",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1737526775.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png"
-    },
-    {
       "id": 30288,
       "name": "Harper",
       "slug": "harper",
@@ -5491,5 +5457,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-03-24T18:01:21.677695"
+  "fetched_at": "2025-03-25T00:02:51.428253"
 }
