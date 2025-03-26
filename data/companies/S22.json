@@ -4166,7 +4166,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1660310230.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1df89cbc10b3083a89fdbd7b98b5615e7b39f7d3.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d849bf884b530749e2b233bf2099f94506fbd24.png"
     },
     {
       "id": 26803,
@@ -6815,7 +6815,7 @@
       "slug": "layerup",
       "website": "https://www.uselayerup.com/",
       "description": "Layerup's mission is to boost innovation in industries that lack it, starting by bringing AI securely to enterprises.",
-      "one_liner": "Human-like Voice AI agents for Financial Institutions",
+      "one_liner": "AI agents for Financial Institutions",
       "batch": "S22",
       "status": "Active",
       "team_size": 3,
@@ -6830,10 +6830,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "B2B",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8164,5 +8164,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-03-26T00:02:52.403298"
+  "fetched_at": "2025-03-26T06:01:26.014433"
 }
