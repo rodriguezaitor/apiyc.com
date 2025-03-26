@@ -3198,39 +3198,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f678a8907f2810fe132c9078bcdaaaf591278c80.png"
     },
     {
-      "id": 12555,
-      "name": "Mighty Health",
-      "slug": "mighty-health",
-      "website": "http://www.mightyhealth.com",
-      "description": "",
-      "one_liner": "All-in-one health program helping seniors with their daily function",
-      "batch": "S19",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Consumer Health and Wellness",
-      "industries": [
-        "Healthcare",
-        "Consumer Health and Wellness"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Consumer Health Services"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1658285736.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cafdf02f90ec2ee81fab9cc5696691e7f464bbb.png"
-    },
-    {
       "id": 12554,
       "name": "Legacy",
       "slug": "legacy",
@@ -5527,6 +5494,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/046766f356f8a96e25148323e88416cbf54b6471.png"
     },
     {
+      "id": 12555,
+      "name": "Mighty Health",
+      "slug": "mighty-health",
+      "website": "http://www.mightyhealth.com",
+      "description": "",
+      "one_liner": "All-in-one health program helping seniors with their daily function",
+      "batch": "S19",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Consumer Health Services"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1658285736.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cafdf02f90ec2ee81fab9cc5696691e7f464bbb.png"
+    },
+    {
       "id": 12547,
       "name": "BuildStream",
       "slug": "buildstream",
@@ -5898,5 +5898,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-03-25T18:01:25.549483"
+  "fetched_at": "2025-03-26T00:02:53.858785"
 }

@@ -965,10 +965,10 @@
       "slug": "pier",
       "website": "http://www.pier-finance.com",
       "description": "We\u2019re building an API for launching credit products. We enable companies to compliantly offer credit by handling the tech stack for origination, underwriting and loan management with just a few lines of code. We have built-in compliance guardrails to ensure that our customers comply with state and federal regulations and assist with licensing requirements and license management. ",
-      "one_liner": "Stripe for Credit - End-to-end credit infra via API",
+      "one_liner": "Stripe for Credit - Trusted Credit Compliance Partner",
       "batch": "W23",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5519,9 +5519,9 @@
       "id": 27852,
       "name": "Frigade",
       "slug": "frigade",
-      "website": "https://frigade.com",
-      "description": "Frigade helps growth teams better activate and up-sell customers in-product. We combine React UI components such as <Tour />, <Checklist />, and <Announcement /> with a web app to easily power user targeting, content, orchestration, and more.",
-      "one_liner": "Growth platform for modern software teams",
+      "website": "https://frigade.ai",
+      "description": "Frigade AI is an in-app assistant that intelligently guides and onboards your users through your product. Our agent learns your product's interface, gives contextual guidance that adapts to each user, and takes actions directly on your users' behalf.\r\n\r\nLearn more at Frigade.ai",
+      "one_liner": "AI-powered product assistance for modern software teams",
       "batch": "W23",
       "status": "Active",
       "team_size": 4,
@@ -5536,7 +5536,13 @@
         "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Customer Success",
+        "Customer Service",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -9354,5 +9360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-25T18:01:22.470049"
+  "fetched_at": "2025-03-26T00:02:51.446819"
 }

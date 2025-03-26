@@ -2897,15 +2897,16 @@
       "name": "Simple AI",
       "slug": "simple-ai",
       "website": "https://www.usesimple.ai",
-      "description": "Simple AI places places AI calls to help you find things, call customer support, make reservations, and get things done.",
-      "one_liner": "AI Phone Assistant for Consumers",
+      "description": "Simple AI makes it easy for businesses to build hyper-realistic AI phone agents. Businesses use us for customer support, leads qualification, and more.",
+      "one_liner": "AI Phone Agents",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -2914,7 +2915,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Consumer",
+        "Call Center",
+        "Operations",
         "AI",
         "AI Assistant"
       ],
@@ -7969,7 +7971,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720822142.0,
@@ -8019,16 +8021,10 @@
         "Manufacturing and Robotics"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Hard Tech",
-        "Robotics",
-        "Logistics",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -8446,5 +8442,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-25T18:01:22.904405"
+  "fetched_at": "2025-03-26T00:02:51.753283"
 }
