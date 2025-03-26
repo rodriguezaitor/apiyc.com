@@ -2451,41 +2451,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c560aa6a9d019765de38c71f0ad82b97f9077bee.png"
     },
     {
-      "id": 13320,
-      "name": "Laserfocus",
-      "slug": "laserfocus",
-      "website": "https://www.laserfocus.io/",
-      "description": "Laserfocus makes your sales process as simple as possible, but not simpler:\r\n\r\n- Maximizes the time salespeople can spend on selling by showing them what they need to focus on\r\n- Ensures that all data lands into Salesforce in the proper fields so you can make informed business decisions",
-      "one_liner": "Implement streamlined Salesforce processes for agile GTM teams",
-      "batch": "W20",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Sales",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "Germany",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Berlin, Berlin, Germany; Remote",
-      "tags": [
-        "B2B",
-        "Productivity",
-        "Sales"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1583788632.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaaedb092d41a78365d93e6184b45cfbf4003e4c.png"
-    },
-    {
       "id": 13319,
       "name": "Jitter",
       "slug": "jitter",
@@ -6626,6 +6591,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0522d983927fe67359c98fe2c50c45dc70215d4c.png"
     },
     {
+      "id": 13320,
+      "name": "Laserfocus",
+      "slug": "laserfocus",
+      "website": "https://www.laserfocus.io/",
+      "description": "Laserfocus makes your sales process as simple as possible, but not simpler:\r\n\r\n- Maximizes the time salespeople can spend on selling by showing them what they need to focus on\r\n- Ensures that all data lands into Salesforce in the proper fields so you can make informed business decisions",
+      "one_liner": "Implement streamlined Salesforce processes for agile GTM teams",
+      "batch": "W20",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "Germany",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Berlin, Berlin, Germany; Remote",
+      "tags": [
+        "B2B",
+        "Productivity",
+        "Sales"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1583788632.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaaedb092d41a78365d93e6184b45cfbf4003e4c.png"
+    },
+    {
       "id": 13310,
       "name": "onetool",
       "slug": "onetool",
@@ -7759,5 +7759,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-03-26T06:01:26.308398"
+  "fetched_at": "2025-03-26T12:01:33.788444"
 }

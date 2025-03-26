@@ -3576,8 +3576,8 @@
       "name": "Finic",
       "slug": "finic",
       "website": "https://www.finic.ai",
-      "description": "Finic helps fintechs automate fraud and dispute investigations with AI agents that automatically follows SOPs and writes comprehensive case notes.\r\n\r\nWith Finic, fintechs can:\r\n- 10x fraud ops capacity without increasing headcount\r\n- Train agents on new fraud typologies and instantly scale to thousands per day\r\n- Reduce time-to-resolution from hours to under 5 minutes",
-      "one_liner": "Automate fraud investigations with AI",
+      "description": "Finic helps fintechs, banks, and credit unions turn compliance into a competitive advantage. We're building the first AI-native transaction monitoring platform that generates alerts for suspicious activity, clears low-risk cases automatically, and equips analysts with an intuitive case management dashboard that brings all the relevant data into one place. Finic continuously improves detection accuracy by learning from past cases and integrates seamlessly with your data - no ETL required.",
+      "one_liner": "AI-Native Fincrime Platform",
       "batch": "W23",
       "status": "Active",
       "team_size": 2,
@@ -3594,11 +3594,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Compliance",
         "Automation",
-        "Fraud Detection"
+        "Fraud Detection",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -9360,5 +9360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-26T06:01:24.930261"
+  "fetched_at": "2025-03-26T12:01:33.571668"
 }
