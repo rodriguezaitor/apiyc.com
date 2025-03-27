@@ -11790,11 +11790,11 @@
       "name": "Mederva Health",
       "slug": "mederva-health",
       "website": "https://medervahealth.com/",
-      "description": "Mederva Health extends the doctor's clinic by providing medically-prescribed lifestyle interventions between visits. Our mobile app and care team help reduce risk factors for diseases like diabetes, heart disease, and strokes. We enhance patient outcomes, save time,\u00a0and boost revenue at no added cost so doctors can provide better care for their patients.",
-      "one_liner": "Medical expertise for everyone.",
+      "description": "Mederva helps people live longer and healthier with lifestyle medicine and behavioral therapy. Our AI app and virtual clinical team create personalized health plans to identify and treat risk factors for preventable disease.",
+      "one_liner": "Prevent disease before it starts.",
       "batch": "W22",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 13,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -12261,7 +12261,7 @@
         "API"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1646347894.0,
@@ -13825,5 +13825,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-27T00:02:38.729987"
+  "fetched_at": "2025-03-27T06:01:09.483870"
 }
