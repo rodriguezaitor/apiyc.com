@@ -34,6 +34,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca320740e24bfef8157d47ca2f7700eff6b263b8.png"
     },
     {
+      "id": 30191,
+      "name": "Partcl",
+      "slug": "partcl",
+      "website": "https://partcl.com/",
+      "description": "Partcl is bringing chip design automation into the 21st century with physics-informed models accelerated using GPUs.\r\nOur tools bring 700x speedups, saving weeks of engineering effort and enabling AI-driven optimization.\r\n\r\nWe have worked directly on some of the most-advanced chips ever designed and are advised by top VLSI researchers. \r\n",
+      "one_liner": "GPU accelerated chip design tools",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Design Tools",
+        "Semiconductors"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1743057715.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3854a114899cbd01548be14b47a9169f22c776a0.png"
+    },
+    {
       "id": 29656,
       "name": "Leeroo",
       "slug": "leeroo",
@@ -63,5 +96,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-03-27T06:01:20.801875"
+  "fetched_at": "2025-03-27T12:01:35.109706"
 }
