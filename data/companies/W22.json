@@ -3419,7 +3419,7 @@
         "Creator Economy"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643648106.0,
@@ -7292,7 +7292,7 @@
         "Advertising"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1644566628.0,
@@ -9720,7 +9720,7 @@
         "Data Engineering"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643818108.0,
@@ -13825,5 +13825,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-27T12:01:22.240525"
+  "fetched_at": "2025-03-27T18:01:02.121229"
 }
