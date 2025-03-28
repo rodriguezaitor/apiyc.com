@@ -26,7 +26,7 @@
         "B2B",
         "Logistics"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -738,7 +738,7 @@
         "Marketplace",
         "Proptech"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1182,7 +1182,7 @@
         "Grocery",
         "Supply Chain"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1349,7 +1349,7 @@
         "Social",
         "AR"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2464,7 +2464,7 @@
         "Fintech",
         "Real Estate"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2586,7 +2586,7 @@
       "status": "Active",
       "team_size": 35,
       "industry": "Healthcare",
-      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "subindustry": "Healthcare -> Medical Devices",
       "industries": [
         "Healthcare",
         "Medical Devices"
@@ -2882,7 +2882,7 @@
         "Real Estate",
         "Insurance"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2900,7 +2900,7 @@
       "status": "Active",
       "team_size": 26,
       "industry": "Industrials",
-      "subindustry": "Industrials -> Drones",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
         "Industrials",
         "Manufacturing and Robotics"
@@ -3752,7 +3752,7 @@
         "Fintech",
         "B2B"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -5898,5 +5898,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-03-27T18:01:06.837327"
+  "fetched_at": "2025-03-28T00:02:51.373014"
 }

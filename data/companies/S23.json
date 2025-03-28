@@ -643,8 +643,8 @@
       "name": "innkeeper",
       "slug": "innkeeper",
       "website": "https://innkeeper.ai",
-      "description": "Automatic Dynamic Pricing, AI front desk, optimized direct booking site, customer management + analytics, and back office automations\r\n\r\nthe modern tech stack for hotels",
-      "one_liner": "AI-native software stack for running a hotel",
+      "description": "modern tools that help drive more revenue for hotels \r\nsession replays, direct booking website, competitor monitoring and more in the easiest-to-use platform ever made for hotels, \r\n\r\nthe modern tech stack for hotels",
+      "one_liner": "a modern, AI-native tech stack for running a hotel",
       "batch": "S23",
       "status": "Active",
       "team_size": 2,
@@ -661,11 +661,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Workflow Automation",
         "Travel",
-        "Housing",
-        "AI"
+        "Housing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1739,7 +1739,7 @@
       "status": "Active",
       "team_size": 15,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
         "Supply Chain and Logistics"
@@ -3545,7 +3545,7 @@
       "one_liner": "AI agents for financial compliance operations",
       "batch": "S23",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 14,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -7336,5 +7336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-03-27T18:01:05.679859"
+  "fetched_at": "2025-03-28T00:02:50.173926"
 }

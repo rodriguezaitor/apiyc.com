@@ -2123,16 +2123,16 @@
       "name": "Treinta",
       "slug": "treinta",
       "website": "https://www.treinta.co",
-      "description": "Treinta is a digital ledger app for Latin American microbusinesses with over 5 million users across 18 countries. Through Treinta, users can easily record transactions by assigning products from their inventory and see how their business metrics evolve in real time. Users can also access a B2B marketplace and digital payment solutions.",
+      "description": "Treinta is a digital ledger app for Latin American microbusinesses with over 6 million users across 23 countries. Through Treinta, users can easily record transactions by assigning products from their inventory and see how their business metrics evolve in real time. ",
       "one_liner": "Digital ledger App for Latam microbusinesses",
       "batch": "W21",
       "status": "Active",
-      "team_size": 120,
-      "industry": "Fintech",
+      "team_size": 70,
+      "industry": "B2B",
       "subindustry": "Fintech -> Payments",
       "industries": [
-        "Fintech",
-        "Payments"
+        "B2B",
+        "Productivity"
       ],
       "regions": [
         "Colombia",
@@ -2142,7 +2142,7 @@
       ],
       "locations": "Bogot\u00e1, Bogota, Colombia",
       "tags": [
-        "Fintech",
+        "SaaS",
         "B2B"
       ],
       "stage": "Early",
@@ -11551,5 +11551,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-03-27T18:01:03.080549"
+  "fetched_at": "2025-03-28T00:02:47.727306"
 }

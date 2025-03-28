@@ -82,7 +82,8 @@
       "industry": "Fintech",
       "subindustry": "Fintech -> Asset Management",
       "industries": [
-        "Fintech"
+        "Fintech",
+        "Asset Management"
       ],
       "regions": [
         "India",
@@ -93,7 +94,7 @@
         "India",
         "Investing"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -532,7 +533,7 @@
         "Hardware",
         "Medical Devices"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -594,7 +595,7 @@
         "Cloud Workload Protection",
         "Security"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -733,7 +734,7 @@
         "Cellular Agriculture",
         "Biotech"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -985,7 +986,7 @@
         "Payments",
         "B2B"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1089,7 +1090,7 @@
       "tags": [
         "Healthcare"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1159,7 +1160,7 @@
         "Gaming",
         "NLP"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1193,7 +1194,7 @@
         "Consumer",
         "E-commerce"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1399,7 +1400,7 @@
       "tags": [
         "Design Tools"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2882,7 +2883,7 @@
         "SaaS",
         "B2B"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4927,5 +4928,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-03-27T18:01:07.606766"
+  "fetched_at": "2025-03-28T00:02:52.110992"
 }

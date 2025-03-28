@@ -9,7 +9,7 @@
       "one_liner": "Whatnot is the largest livestream shopping platform in the U.S.",
       "batch": "W20",
       "status": "Active",
-      "team_size": 400,
+      "team_size": 659,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -26,7 +26,7 @@
         "Marketplace",
         "E-commerce"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -341,7 +341,7 @@
       "status": "Active",
       "team_size": 10,
       "industry": "B2B",
-      "subindustry": "Fintech -> Payments",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -2547,7 +2547,7 @@
         "B2B",
         "Open Source"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2748,7 +2748,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2800,7 +2800,7 @@
       "status": "Active",
       "team_size": 40,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2989,7 +2989,7 @@
         "SaaS",
         "Kubernetes"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4043,7 +4043,7 @@
         "Supply Chain",
         "AI"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4185,7 +4185,7 @@
         "Medical Devices",
         "AI"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7759,5 +7759,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-03-27T18:01:05.290494"
+  "fetched_at": "2025-03-28T00:02:49.810154"
 }

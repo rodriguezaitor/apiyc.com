@@ -75,7 +75,7 @@
       "one_liner": "Intercom for WeChat, help companies to acquire,  engage, retain\u2026",
       "batch": "W19",
       "status": "Active",
-      "team_size": 20,
+      "team_size": 34,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -524,7 +524,7 @@
       "tags": [
         "AI-powered Drug Discovery"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -767,7 +767,7 @@
       "tags": [
         "SaaS"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -966,7 +966,7 @@
         "B2B",
         "Logistics"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1000,7 +1000,7 @@
         "Gaming",
         "Social"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1233,7 +1233,7 @@
       "tags": [
         "Recruiting"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1568,7 +1568,7 @@
         "Fintech",
         "Crypto / Web3"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1735,7 +1735,7 @@
         "Investing",
         "Infrastructure"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2011,7 +2011,7 @@
         "Genomics",
         "Biotechnology"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2570,7 +2570,7 @@
       "status": "Active",
       "team_size": 55,
       "industry": "Real Estate and Construction",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
         "Real Estate and Construction",
         "Construction"
@@ -2799,7 +2799,7 @@
         "Open Source",
         "Kubernetes"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3354,7 +3354,7 @@
         "Healthcare",
         "Cybersecurity"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4312,7 +4312,7 @@
         "IoT",
         "Computer Vision"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6521,5 +6521,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-03-27T18:01:06.453459"
+  "fetched_at": "2025-03-28T00:02:50.939453"
 }
