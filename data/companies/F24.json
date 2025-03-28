@@ -2197,10 +2197,10 @@
     },
     {
       "id": 30045,
-      "name": "Regatta Storage",
-      "slug": "regatta-storage",
+      "name": "Archil",
+      "slug": "archil",
       "website": "https://regattastorage.com",
-      "description": "Regatta transforms S3 buckets into a 30x faster, unlimited, local disk. Regatta enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Regatta for shareable, local storage of data set and model versions that never runs out of capacity.",
+      "description": "Archil (fka Regatta Storage) transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
       "one_liner": "Transform S3 in an unlimited, local file system",
       "batch": "F24",
       "status": "Active",
@@ -2217,18 +2217,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Big Data",
         "Cloud Computing",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1727196277.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0397434e0b6d2ed128ce064a791b8816ac83bf09.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png"
     },
     {
       "id": 30044,
@@ -3130,5 +3130,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-03-28T12:01:42.772440"
+  "fetched_at": "2025-03-28T18:01:38.060002"
 }

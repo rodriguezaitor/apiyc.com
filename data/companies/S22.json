@@ -2677,45 +2677,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fab8bda1ee44f2a2c3a9dfe9f460492cf30a820.png"
     },
     {
-      "id": 27040,
-      "name": "Grai",
-      "slug": "grai",
-      "website": "https://www.grai.io",
-      "description": "Grai is open source version control for metadata. We can determine how database changes will affect deployed machine learning models, apis, and dashboards because we understand how data relates across systems which don\u2019t otherwise talk to each other.",
-      "one_liner": "Open source version control for metadata",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "United Kingdom",
-        "America / Canada",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA; London, England, United Kingdom; St. Louis, MO, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Analytics",
-        "Open Source",
-        "Data Engineering"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1660014966.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/217dbf57c9649c7822bbee101a62b2d34a750a85.png"
-    },
-    {
       "id": 27039,
       "name": "Cobbery",
       "slug": "cobbery",
@@ -7622,6 +7583,45 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/623713958db43f2325683bc120f59f299af5545e.png"
     },
     {
+      "id": 27040,
+      "name": "Grai",
+      "slug": "grai",
+      "website": "https://www.grai.io",
+      "description": "Grai is open source version control for metadata. We can determine how database changes will affect deployed machine learning models, apis, and dashboards because we understand how data relates across systems which don\u2019t otherwise talk to each other.",
+      "one_liner": "Open source version control for metadata",
+      "batch": "S22",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "United Kingdom",
+        "America / Canada",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA; London, England, United Kingdom; St. Louis, MO, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Analytics",
+        "Open Source",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1660014966.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/217dbf57c9649c7822bbee101a62b2d34a750a85.png"
+    },
+    {
       "id": 26899,
       "name": "Manatee",
       "slug": "manatee",
@@ -8164,5 +8164,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-03-28T12:01:37.556962"
+  "fetched_at": "2025-03-28T18:01:32.298421"
 }
