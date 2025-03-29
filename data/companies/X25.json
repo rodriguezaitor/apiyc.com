@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 30542,
+      "name": "LineWise",
+      "slug": "linewise",
+      "website": "https://www.linewise.io/",
+      "description": "We are building an AI-powered platform to help manufacturers improve operational consistency and boost production efficiency. LineWise is designed to make critical knowledge - often locked in the heads of experienced workers - easy to document, share, and apply in real time.\r\n\r\nOur solution includes tools such as automated documentation from videos and real-time operational and troubleshooting guidance - all designed to build an independent workforce by providing immediate access to the information they need, exactly when and where they need it. This empowers teams to confidently solve problems and avoid repeat issues without compromising safety or focus on the task at hand.",
+      "one_liner": "Help manufacturers capture, scale, and apply tribal knowledge",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Generative AI",
+        "Computer Vision",
+        "Manufacturing",
+        "Operations"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1743036496.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png"
+    },
+    {
       "id": 30462,
       "name": "Linkd",
       "slug": "linkd",
@@ -96,5 +129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-03-28T18:01:43.632845"
+  "fetched_at": "2025-03-29T00:02:49.616243"
 }

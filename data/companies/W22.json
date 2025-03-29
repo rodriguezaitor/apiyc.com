@@ -2906,14 +2906,14 @@
     },
     {
       "id": 25954,
-      "name": "WishRoll",
-      "slug": "wishroll",
-      "website": "https://www.wishroll.co/",
-      "description": "",
-      "one_liner": "Building something new in Consumer AI",
+      "name": "Status",
+      "slug": "status",
+      "website": "https://apps.apple.com/us/app/status-sims-but-social-media/id6596771144",
+      "description": "Status allows users to live in immersive fantasy worlds through the familiar lens of social media.\r\n",
+      "one_liner": "Sims but Social Media",
       "batch": "W22",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "Consumer",
       "subindustry": "Consumer -> Social",
       "industries": [
@@ -2928,15 +2928,16 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Social",
-        "Music"
+        "Artificial Intelligence",
+        "Consumer",
+        "Social"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1648151808.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9590de462cb17ea6775c827fd5512e7f6cee4f77.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa51d4e5cd378c79609ddec29d9290ae0a186930.png"
     },
     {
       "id": 25951,
@@ -5753,42 +5754,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/437f8a6e2847546f303d55acd48f2ca6050b4e54.png"
     },
     {
-      "id": 25690,
-      "name": "Requestly",
-      "slug": "requestly",
-      "website": "https://requestly.com",
-      "description": "Requestly helps developers build faster by intercepting, mocking, and testing API responses. No more waiting for backend developers, struggling with flaky staging environments, or fighting over API contracts. With 200,000+ active installs, Requestly is trusted by Google, Amazon, Workday, Indeed, and many other Fortune 500 companies.",
-      "one_liner": "Open-Source Postman alternative",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 19,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Open Source",
-        "API"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1639034757.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/397665634f98c5b29320b633cf76ae515930481f.png"
-    },
-    {
       "id": 25689,
       "name": "Kaagaz",
       "slug": "kaagaz",
@@ -7292,7 +7257,7 @@
         "Advertising"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1644566628.0,
@@ -12642,6 +12607,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3b9795e229abf871658c50860feea60e62240de.png"
     },
     {
+      "id": 25690,
+      "name": "Requestly",
+      "slug": "requestly",
+      "website": "https://requestly.com",
+      "description": "Requestly helps developers build faster by intercepting, mocking, and testing API responses. No more waiting for backend developers, struggling with flaky staging environments, or fighting over API contracts. With 200,000+ active installs, Requestly is trusted by Google, Amazon, Workday, Indeed, and many other Fortune 500 companies.",
+      "one_liner": "Open-Source Postman alternative",
+      "batch": "W22",
+      "status": "Acquired",
+      "team_size": 19,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Open Source",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1639034757.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/397665634f98c5b29320b633cf76ae515930481f.png"
+    },
+    {
       "id": 25617,
       "name": "Speechly",
       "slug": "speechly",
@@ -13825,5 +13826,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-28T18:01:29.498130"
+  "fetched_at": "2025-03-29T00:02:39.613496"
 }

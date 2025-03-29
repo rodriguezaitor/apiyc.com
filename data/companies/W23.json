@@ -1130,43 +1130,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c8bb0a987c29df94410bb9cc6ab7db9eb0d6478.png"
     },
     {
-      "id": 28141,
-      "name": "highlight.io",
-      "slug": "highlight-io",
-      "website": "https://www.highlight.io/",
-      "description": "highlight.io is the open source, full-stack monitoring platform. With just a few lines of code, Highlight makes it easy to understand what's slowing down your users and swiftly address errors and regressions on your web app.  Imagine that you have a customer reporting an issue on your web app. With highlight.io, you can playback their exact interactions to reproduce the bug and get notified of any future errors that could happen.\r\n\r\nThat being said, we\u2019re just getting started! We have plans to go way deeper into your observability stack to give you all of the visibility you need. Join us on this journey:\r\n- Star us on GitHub (https://github.com/highlight/highlight) to keep up with releases and news.\r\n- Join our Discord (https://highlight.io/community) to share product feedback and thoughts.\r\n",
-      "one_liner": "The open source, fullstack monitoring platform: stop guessing why\u2026",
-      "batch": "W23",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Seattle, WA, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B",
-        "Open Source",
-        "Monitoring"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1675367373.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d4301601e4f70936655aa2574a0bf0a798fe1bd.png"
-    },
-    {
       "id": 28131,
       "name": "Untether Labs",
       "slug": "untether-labs",
@@ -6909,7 +6872,7 @@
       "slug": "rubber-ducky-labs",
       "website": "https://www.rubberduckylabs.io/",
       "description": "We built Rubber Ducky Labs to help e-commerce teams effortlessly improve product discovery through better metadata. Our tool enables non-technical users to leverage multi-modal AI on product catalogs\u2014just upload a CSV and start tagging metadata in minutes.",
-      "one_liner": "Better product metadata in minutes.",
+      "one_liner": "AI Powered Product Discovery",
       "batch": "W23",
       "status": "Active",
       "team_size": 2,
@@ -6927,8 +6890,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "E-commerce",
-        "AI",
         "Recommendation System"
       ],
       "stage": "Early",
@@ -8443,6 +8406,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/027aebd8670e1f9af979f5faf2e16000e83da2c8.png"
     },
     {
+      "id": 28141,
+      "name": "highlight.io",
+      "slug": "highlight-io",
+      "website": "https://www.highlight.io/",
+      "description": "highlight.io is the open source, full-stack monitoring platform. With just a few lines of code, Highlight makes it easy to understand what's slowing down your users and swiftly address errors and regressions on your web app.  Imagine that you have a customer reporting an issue on your web app. With highlight.io, you can playback their exact interactions to reproduce the bug and get notified of any future errors that could happen.\r\n\r\nThat being said, we\u2019re just getting started! We have plans to go way deeper into your observability stack to give you all of the visibility you need. Join us on this journey:\r\n- Star us on GitHub (https://github.com/highlight/highlight) to keep up with releases and news.\r\n- Join our Discord (https://highlight.io/community) to share product feedback and thoughts.\r\n",
+      "one_liner": "The open source, fullstack monitoring platform: stop guessing why\u2026",
+      "batch": "W23",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Seattle, WA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B",
+        "Open Source",
+        "Monitoring"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1675367373.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d4301601e4f70936655aa2574a0bf0a798fe1bd.png"
+    },
+    {
       "id": 28081,
       "name": "DAGWorks Inc.",
       "slug": "dagworks-inc",
@@ -9360,5 +9360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-03-28T18:01:30.927546"
+  "fetched_at": "2025-03-29T00:02:40.695069"
 }

@@ -3610,7 +3610,7 @@
       "name": "Metalware",
       "slug": "metalware",
       "website": "https://www.metalware.com/",
-      "description": "Metalware develops advanced firmware security solutions for real-time embedded systems, protecting critical industries like aerospace, automotive, industrial control, telecom, medical devices, and IoT from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in embedded software before release or deployment.",
+      "description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
       "one_liner": "Cybersecurity for firmware",
       "batch": "S23",
       "status": "Active",
@@ -3627,11 +3627,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Hardware",
         "Cybersecurity",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7336,5 +7336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-03-28T18:01:33.101589"
+  "fetched_at": "2025-03-29T00:02:42.233453"
 }
