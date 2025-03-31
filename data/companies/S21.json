@@ -3188,11 +3188,11 @@
       "name": "Tenyks",
       "slug": "tenyks",
       "website": "http://tenyks.ai/",
-      "description": "Tenyks (YC'S21) is a University of Cambridge spin-out inventing the intelligence that powers the AI revolution to protect the world from the Terminator. Imagine Snowflake for Vision, helping ML Engineers build better, safer models, in a faster and more efficient way. \r\n\r\nSpecifically, our end-to-end platform is CV Engineers' Ultimate Productivity Tool to: \r\n\r\n1. Automate Data Quality Detection: It streamlines the process of identifying and rectifying data quality issues, ensuring the integrity of your datasets.\r\n2. Accelerate Data Curation: Our platform expedites the curation of similar images and objects, facilitating data collection and balancing.\r\n3. Catalog Vast Datasets: With its flexibility, the platform allows you to efficiently index and catalogue extensive datasets.\r\n4. Seamless CI/CD Integration: Tenyks effortlessly integrates with your CI/CD pipelines, reducing the risk of regressions and enhancing your development workflow.\r\n5. Security & Scalability: Securely orchestrated in the cloud to foster seamless cross-team collaboration and scale to millions of images & hundred of millions of objects. \r\n\r\nThe founders developed the technology (the result of 9 top-tier publications and a patented invention) during their PhD research in Safe & Explainable AI for Computer Vision.",
-      "one_liner": "Data-Centric Co-Pilot for Computer Vision Engineers",
+      "description": "Tenyks (YC S21) is a Cambridge University spin-out building the World's Most Versatile Visual Intelligence Platform\u2014think Snowflake for Vision or GPT for Video.\r\n\r\nProblem: Companies today collect oceans of visual data (from cameras, drones, and satellites), but struggle to extract actionable insights. Current solutions rely heavily on manual analysis by call centres in locations like the Philippines or AI platforms narrowly focused on security rather than deeper operational insights. This leaves critical improvements in efficiency, customer satisfaction, and revenue growth unrealised.\r\n\r\nSolution: Tenyks unlocks unprecedented insights by applying advanced multimodal Vision-Language Models (VLMs) capable of comprehensive video summarisation, retrieval, and visual question-answering. These VLMs are seamlessly combined with specialised analytics for emotion detection, activity recognition, object tracking, and even gait analysis. Our platform transforms ordinary visual footage into extraordinary operational intelligence.\r\n\r\nInitial Focus: Starting with Quick Service Restaurants (QSRs), we enable operations leaders to instantly understand customer flow, kitchen efficiency, staff productivity, and quality of service using their existing security camera footage\u2014turning previously inaccessible data into direct operational improvements and clear financial ROI. For instance, insights from Tenyks can accelerate the speed of service significantly; even a 1-second improvement in service speed could generate $30,000 additional annual revenue per restaurant. For a multi-unit owner of 100 restaurants, that's an additional $3 million per year.\r\n\r\nTraction: We've recently secured our first Fortune 500 customer, joining other major enterprises, global system integrators, and high-growth startups trusting Tenyks for powerful, data-driven decision-making.\r\n\r\nWhy Tenyks: Our patented technology originates from the founders' PhD research at Cambridge University. Previously, we helped world-leading teams scale high-performing Vision AI in production. \r\n\r\nRecognition: Recognised as a Rising Star in Gen AI by Sifted, Best Product of the Year by Vision AI Alliance, and Company of the Year by Cambridge University (previously awarded to DeepMind).",
+      "one_liner": "The World's Most Versatile Video Answering Engine ",
       "batch": "S21",
       "status": "Active",
-      "team_size": 14,
+      "team_size": 11,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3204,13 +3204,13 @@
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Cambridge, England, United Kingdom; England, United Kingdom; Remote",
+      "locations": "Cambridge, England, United Kingdom; Remote",
       "tags": [
-        "AIOps",
-        "Deep Learning",
-        "Developer Tools",
+        "Artificial Intelligence",
         "Computer Vision",
-        "API"
+        "Video",
+        "AI",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13433,5 +13433,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-03-31T06:01:31.351588"
+  "fetched_at": "2025-03-31T12:01:31.164397"
 }
