@@ -3835,11 +3835,11 @@
     },
     {
       "id": 28894,
-      "name": "Lysto AI",
-      "slug": "lysto-ai",
+      "name": "Lysto",
+      "slug": "lysto",
       "website": "https://lysto.ai",
-      "description": "Lysto is a task automation platform built for go-to-market (GTM) teams, designed to streamline workflows and reduce time spent on administrative tasks. By aggregating data from your video calls, emails, and other data sources like internal documents and product analytics, Lysto automates key GTM tasks such as updating CRM records, drafting personalized follow-up emails, and logging customer issues in tools like Slack or JIRA. Each task can be fully automated or flagged for final review in Lysto\u2019s task inbox, providing both efficiency and oversight.",
-      "one_liner": "Task automation platform for GTM teams",
+      "description": "Lysto is an AI CRM that updates itself so you can focus on your customers.",
+      "one_liner": "AI CRM that updates itself",
       "batch": "S23",
       "status": "Active",
       "team_size": 2,
@@ -3855,11 +3855,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
         "Customer Success",
-        "Sales"
+        "Sales",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7338,5 +7338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-03-31T00:02:50.064311"
+  "fetched_at": "2025-03-31T06:01:34.196014"
 }
