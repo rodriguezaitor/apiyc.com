@@ -8339,43 +8339,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c4ea7756f719ab0406967511bffcd788ad50be.png"
     },
     {
-      "id": 25529,
-      "name": "Criya",
-      "slug": "roomplays",
-      "website": "https://criya.co",
-      "description": "Criya AI, a Y Combinator and venture backed AI startup is an intelligent content system that reads across all your data sources and in 1-click produces stunning, hyper-personalized client-ready assets, by combining research, branding, authoring and engagement analytics.\r\n\r\nOur AI Prospector replaces 85% of your account based marketing effort in 60 seconds. From market research to email/linkedin campaigns and landing page pitch decks, personalized for your specific buyer, we do it all in 1-click.",
-      "one_liner": "AI that builds GTM assets in seconds",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Sales",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Sales",
-        "Sales Enablement",
-        "AI Assistant"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1642290719.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e199391960ef734061b15304efdf0c3dd3b2524e.png"
-    },
-    {
       "id": 25528,
       "name": "Philippo",
       "slug": "philippo",
@@ -13397,6 +13360,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b47da1b763d2eab543c7295fad8d3fdfe9a6ceeb.png"
     },
     {
+      "id": 25529,
+      "name": "Criya",
+      "slug": "roomplays",
+      "website": "https://criya.co",
+      "description": "Criya AI, a Y Combinator and venture backed AI startup is an intelligent content system that reads across all your data sources and in 1-click produces stunning, hyper-personalized client-ready assets, by combining research, branding, authoring and engagement analytics.\r\n\r\nOur AI Prospector replaces 85% of your account based marketing effort in 60 seconds. From market research to email/linkedin campaigns and landing page pitch decks, personalized for your specific buyer, we do it all in 1-click.",
+      "one_liner": "AI that builds GTM assets in seconds",
+      "batch": "W22",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Sales",
+        "Sales Enablement",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1642290719.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e199391960ef734061b15304efdf0c3dd3b2524e.png"
+    },
+    {
       "id": 25516,
       "name": "Emigre",
       "slug": "emigre",
@@ -13826,5 +13826,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-03-31T12:01:30.767558"
+  "fetched_at": "2025-03-31T18:01:14.160519"
 }
