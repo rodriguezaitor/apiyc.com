@@ -5199,19 +5199,19 @@
     },
     {
       "id": 24395,
-      "name": "Multibase",
-      "slug": "multibase",
-      "website": "https://www.multibase.co/",
-      "description": "Multibase is the data layer for web3 companies. We help companies index, decode and interpret onchain transactions in real time.",
-      "one_liner": "Blockchain Indexing",
+      "name": "Update",
+      "slug": "update",
+      "website": "https://update.dev",
+      "description": "Update is a set of tools that make it easy to add billing, subscriptions, and permissions to your app. We integrate with your existing stack, so you can get started in minutes.",
+      "one_liner": "Billing made 10x easier",
       "batch": "S21",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
         "B2B",
-        "Analytics"
+        "Finance and Accounting"
       ],
       "regions": [
         "United States of America",
@@ -5219,19 +5219,18 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Denver, CO, USA",
+      "locations": "New York, NY, USA",
       "tags": [
-        "Fintech",
-        "Crypto / Web3",
-        "Analytics",
-        "API"
+        "Developer Tools",
+        "Web Development",
+        "Billing"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1625260950.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d4bab6d20795e98071e0b35b307486ad8403f19.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b74434efe4bfc8c7a394e2245a38463701b85278.png"
     },
     {
       "id": 24391,
@@ -13433,5 +13432,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-01T12:01:34.171206"
+  "fetched_at": "2025-04-01T18:01:09.567230"
 }
