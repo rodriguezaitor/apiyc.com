@@ -4008,9 +4008,9 @@
     },
     {
       "id": 27926,
-      "name": "Intrinsic",
-      "slug": "intrinsic",
-      "website": "https://withintrinsic.com",
+      "name": "Variance",
+      "slug": "variance",
+      "website": "https://www.variance.co/",
       "description": "Build safer platforms with Intrinsic. Get access to the best safety technologies from one unified API. Enable your Trust & Safety team to tell cohesive stories from policy to product, to enforcement.\r\n\r\nMichael and Karine first met two years ago at Apple\u2019s Fraud Engineering, Algorithmic Risk team, which evolved to become Apple\u2019s Trust & Safety function. We are both engineers and helped solve online abuse problems, including spam, botting, account security, and developer fraud for Apple\u2019s customer base of over a billion users.",
       "one_liner": "World-Class Tooling for Trust & Safety teams",
       "batch": "W23",
@@ -4028,11 +4028,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Compliance",
         "Cybersecurity",
         "Enterprise Software",
-        "Trust & Safety"
+        "Trust & Safety",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7142,8 +7142,8 @@
       "name": "Pyq AI",
       "slug": "pyq-ai",
       "website": "https://www.pyqai.com",
-      "description": "We build automations that can pull information from documents, fill out forms and software, and integrate with your existing systems.\r\n\r\nFor example, insurance brokerages use us to pull information from policies, fill out forms, update accounting software and generate proposals.",
-      "one_liner": "Make pushing paper your company's superpower",
+      "description": "Pyq builds AI-powered workflow automation for commercial insurance brokerages. We help them automate 90% of their back-office operations, delivering 400% ROI within 4 weeks and the ability to grow revenue without adding (and even shrinking) headcount.",
+      "one_liner": "AI automation for insurance brokerages",
       "batch": "W23",
       "status": "Active",
       "team_size": 2,
@@ -7162,9 +7162,9 @@
       "tags": [
         "Documents",
         "Generative AI",
-        "Machine Learning",
-        "B2B",
-        "Workflow Automation"
+        "Finance",
+        "Workflow Automation",
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -9360,5 +9360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-04-01T00:03:20.587543"
+  "fetched_at": "2025-04-01T06:01:24.697086"
 }

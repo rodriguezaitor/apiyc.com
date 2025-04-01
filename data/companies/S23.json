@@ -779,14 +779,14 @@
     },
     {
       "id": 29115,
-      "name": "Srcbook",
-      "slug": "srcbook",
-      "website": "https://srcbook.com",
-      "description": "What if you could build web apps as easily as you make a Figma design or edit a Google Doc?\r\n\r\n\r\nEnter Srcbook. We've reimagined app development with a state-of-the-art coding agent that builds for our users.\r\n\r\nWant to launch that app idea? Need to build something for your community? Looking to prototype faster? Start here. We've removed the barriers between idea and execution.\r\n\r\nOur mission is to empower everyone to build for the web, our vision is personal software.\r\n\r\n",
-      "one_liner": "Build and publish web applications in minutes. No coding required.",
+      "name": "Mocha",
+      "slug": "mocha",
+      "website": "https://getmocha.com",
+      "description": "What if you could build web apps as easily as you make a Figma design or edit a Google Doc?\r\n\r\n\r\nEnter Mocha. We've reimagined app development with a state-of-the-art coding agent that builds for our users.\r\n\r\nWant to launch that app idea? Need to build something for your community? Looking to prototype faster? Start here. We've removed the barriers between idea and execution.\r\n\r\nOur mission is to empower everyone to build for the web, our vision is personal software.\r\n\r\n",
+      "one_liner": "Build and publish web apps in minutes. No coding required.",
       "batch": "S23",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -808,7 +808,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690767970.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae80e25bdbd788f8d7e919326b2da312d99c6b40.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/841d7ccac55bc4e93da9b6134e72f583bc89abb7.png"
     },
     {
       "id": 29113,
@@ -3838,7 +3838,7 @@
       "name": "Lysto",
       "slug": "lysto",
       "website": "https://lysto.ai",
-      "description": "Lysto is an AI CRM that updates itself and helps you sell and retain customers. It automatically pulls and structures data from emails, messages, calls, and product analytics to maintain the stage, sentiment, and real-time status of your deals. With this context, Lysto helps you know what to do next, and generate the content you need to move deals forward.",
+      "description": "Lysto is an AI CRM that updates itself by pulling and structuring data from emails, messages, calls, and product analytics. With this context, Lysto helps you know what to do next, and generate the content you need to engage customers with full context.",
       "one_liner": "AI CRM that updates itself",
       "batch": "S23",
       "status": "Active",
@@ -3855,11 +3855,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "B2B",
-        "Workflow Automation",
+        "Artificial Intelligence",
         "Customer Success",
         "Sales",
-        "AI"
+        "CRM",
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7338,5 +7338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-01T00:03:22.520660"
+  "fetched_at": "2025-04-01T06:01:26.861667"
 }

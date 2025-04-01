@@ -169,18 +169,19 @@
     },
     {
       "id": 29982,
-      "name": "Standard Data",
-      "slug": "standard-data",
-      "website": "https://www.standarddata.com/",
-      "description": "Standard Data builds interactive copilots for highly skilled manufacturing roles.\r\n\r\nU.S. manufacturing is in crisis. Despite surging growth, by 2030 the United States will have 4 million unfilled roles.\r\n\r\nAutomation will not be capable of replacing these skilled roles - to create a safe, prosperous future, we must secure the next generation of manufacturing talent.",
-      "one_liner": "Rebuilding the supply of the American manufacturing workforce.",
+      "name": "Bits to Atoms",
+      "slug": "bits-to-atoms",
+      "website": "https://bitstoatoms.com/",
+      "description": "Filling roles at deep technology startups with very specialized requirements is extremely difficult.\r\n\r\nWe streamline this process by matching job seekers to roles and fill skill gaps where necessary.",
+      "one_liner": "Match job seekers to roles at deep technology startups.",
       "batch": "S24",
       "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
+      "team_size": 3,
+      "industry": "Consumer",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "Consumer",
+        "Job and Career Services"
       ],
       "regions": [
         "Unspecified"
@@ -192,7 +193,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724128854.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/074bd00d5dc9086f3dd647fa9a1b2156a835df7e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f51090d21264c3c8f1c3571351178efc467fc6b.png"
     },
     {
       "id": 29981,
@@ -7744,8 +7745,8 @@
       "name": "Superunit",
       "slug": "superunit",
       "website": "http://superunit.ai",
-      "description": "Superunit is building an AI powered ERP for companies manufacturing or selling physical goods.  We\u2019ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We\u2019ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
-      "one_liner": "AI powered ERP for companies manufacturing or selling physical goods",
+      "description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies\u2014faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with several background screening organizations and are processing thousands of verifications per month.",
+      "one_liner": "Faster, more profitable background checks with AI",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -7761,11 +7762,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Fintech",
+        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8442,5 +8442,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-01T00:03:21.008873"
+  "fetched_at": "2025-04-01T06:01:25.165905"
 }
