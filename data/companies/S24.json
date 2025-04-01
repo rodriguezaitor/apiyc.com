@@ -894,7 +894,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725661264.0,
@@ -3237,7 +3237,7 @@
       "one_liner": "Streamlining the record review process for physicians in medlegal\u2026",
       "batch": "S24",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 14,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -5132,7 +5132,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721173093.0,
@@ -5330,19 +5330,12 @@
         "Infrastructure"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "SaaS",
-        "B2B",
-        "Data Engineering",
-        "Enterprise Software"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720821338.0,
@@ -6651,18 +6644,18 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Human Resources",
         "Workflow Automation",
-        "Compliance",
-        "AI"
+        "Compliance"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721851005.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a6177a8662dfba4751469c34af6544804dc44ca.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d263d80a559ff3f8f00a1086c466c45905a09911.png"
     },
     {
       "id": 29650,
@@ -8449,5 +8442,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-03-31T18:01:15.723164"
+  "fetched_at": "2025-04-01T00:03:21.008873"
 }

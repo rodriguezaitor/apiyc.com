@@ -915,39 +915,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9ed624456ba1fbda4567d62416d80343145cd4d.png"
     },
     {
-      "id": 2001,
-      "name": "Shelf Engine",
-      "slug": "shelf-engine",
-      "website": "http://www.shelfengine.com",
-      "description": "Shelf Engine helps businesses increase sales by accurately predicting the perfect amount of perishable goods to order, thus reducing food waste. ",
-      "one_liner": "Transforms how grocery stores buy highly perishable foods.",
-      "batch": "S18",
-      "status": "Active",
-      "team_size": 40,
-      "industry": "B2B",
-      "subindustry": "B2B -> Retail",
-      "industries": [
-        "B2B",
-        "Retail"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Seattle, WA, USA",
-      "tags": [
-        "Machine Learning"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1525810118.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/30d8273cf77bf9ee7c72f1c08b3457034ba910b3.png"
-    },
-    {
       "id": 1998,
       "name": "Nestor",
       "slug": "nestor",
@@ -3002,6 +2969,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0364689423de527320c7ab191c89691067d7e91.png"
     },
     {
+      "id": 2001,
+      "name": "Shelf Engine",
+      "slug": "shelf-engine",
+      "website": "http://www.shelfengine.com",
+      "description": "Shelf Engine helps businesses increase sales by accurately predicting the perfect amount of perishable goods to order, thus reducing food waste. ",
+      "one_liner": "Transforms how grocery stores buy highly perishable foods.",
+      "batch": "S18",
+      "status": "Acquired",
+      "team_size": 40,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "Machine Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525810118.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/30d8273cf77bf9ee7c72f1c08b3457034ba910b3.png"
+    },
+    {
       "id": 1981,
       "name": "Coral Genomics",
       "slug": "coral-genomics",
@@ -4413,5 +4413,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-03-31T18:01:18.988095"
+  "fetched_at": "2025-04-01T00:03:24.610557"
 }

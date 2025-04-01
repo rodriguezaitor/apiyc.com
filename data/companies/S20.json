@@ -4019,40 +4019,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8705f34089ca7162f6ec3c2a67b6c69a4de6adad.png"
     },
     {
-      "id": 21787,
-      "name": "Momence",
-      "slug": "momence",
-      "website": "https://momence.com",
-      "description": "",
-      "one_liner": "Scheduling and payments for experiences",
-      "batch": "S20",
-      "status": "Active",
-      "team_size": 75,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Travel, Leisure and Tourism",
-      "industries": [
-        "Consumer",
-        "Travel, Leisure and Tourism"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Payments",
-        "Scheduling"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1596473632.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/623d422c208251014d22e6ded0ec5b0b2b28ac94.png"
-    },
-    {
       "id": 21784,
       "name": "Blue Onion Labs",
       "slug": "blue-onion-labs",
@@ -5736,6 +5702,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b50416a3c9266b978c7bb1e375a92eeb2782b8f.png"
     },
     {
+      "id": 21787,
+      "name": "Momence",
+      "slug": "momence",
+      "website": "https://momence.com",
+      "description": "",
+      "one_liner": "Scheduling and payments for experiences",
+      "batch": "S20",
+      "status": "Acquired",
+      "team_size": 75,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Travel, Leisure and Tourism",
+      "industries": [
+        "Consumer",
+        "Travel, Leisure and Tourism"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Payments",
+        "Scheduling"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1596473632.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/623d422c208251014d22e6ded0ec5b0b2b28ac94.png"
+    },
+    {
       "id": 21771,
       "name": "Bandit ML",
       "slug": "bandit-ml",
@@ -7129,5 +7129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-03-31T18:01:17.460710"
+  "fetched_at": "2025-04-01T00:03:22.871493"
 }
