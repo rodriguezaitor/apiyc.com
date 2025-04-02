@@ -2371,7 +2371,7 @@
       "slug": "safetykit",
       "website": "https://www.safetykit.com/",
       "description": "SafetyKit replaces human risk, safety, and compliance reviewers with AI agents. We have customers like Substack, Patreon, Eventbrite, Upwork, Character.ai, and the world's largest marketplaces and payments companies.",
-      "one_liner": "AI-Powered Trust and Safety Automation",
+      "one_liner": "AI agents for risk, compliance, and safety",
       "batch": "S23",
       "status": "Active",
       "team_size": 10,
@@ -5605,11 +5605,7 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Marketplace"
-      ],
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -6963,11 +6959,11 @@
       "name": "Onward",
       "slug": "onward",
       "website": "",
-      "description": "Onward is a new take on conversation intelligence and automation. We streamline follow-ups, CRM updates, ticket creation, and other tasks after every conversation \u2014 helping you connect this knowledge to the rest of your tools.",
+      "description": "Onward is a new take on conversational intelligence. We streamline follow-ups, CRM updates, ticket creation, and other tasks after every meeting\u2014helping you connect this knowledge to the rest of your tools.",
       "one_liner": "Intelligent meeting automation for ambitious teams.",
       "batch": "S23",
       "status": "Inactive",
-      "team_size": 4,
+      "team_size": null,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -7338,5 +7334,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-02T12:01:37.860879"
+  "fetched_at": "2025-04-02T18:01:07.392476"
 }
