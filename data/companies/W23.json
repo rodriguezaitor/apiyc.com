@@ -2087,11 +2087,11 @@
       "name": "Invopop",
       "slug": "invopop",
       "website": "https://www.invopop.com/",
-      "description": "Invopop helps global software companies comply with local tax reporting requirements.\r\nWe offer an API that records every sale and reports it to the appropriate tax authority in the right format.  \r\n\r\nIn the last years, +15 countries have started to require businesses to report to tax authorities every sale, in real-time (e.g., India, Mexico, Brazil). This regulatory trend is catching up, as +20 countries will introduce this new regulation in the next 3 years (e.g., Germany, France, Australia, China).\r\n \r\nWe help companies comply with this. ",
+      "description": "Invopop helps global companies like SumUp, Fever, and DeepL manage electronic invoicing across more than 25 countries through a single API.\r\n\r\nIn the next five years, over 40 countries\u2014including all EU member states\u2014will require businesses to issue invoices electronically and report them in real-time to tax authorities. Instead of building and maintaining numerous local integrations, global companies can integrate just once with Invopop, streamlining compliance and saving time.",
       "one_liner": "We help global software companies comply with local tax reporting ",
       "batch": "W23",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -2100,25 +2100,22 @@
       ],
       "regions": [
         "Spain",
-        "United States of America",
-        "United Kingdom",
         "Europe",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Madrid, Community of Madrid, Spain; San Francisco, CA, USA; London, England, United Kingdom",
+      "locations": "Madrid, Community of Madrid, Spain",
       "tags": [
         "FinOps",
         "Fintech",
         "Compliance"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1671704731.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c09f91b840f8f6e3d460a90c1be16b55caaf240a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5903341d8e42bfa4053fabf5f02effd07eda7793.png"
     },
     {
       "id": 28078,
@@ -9360,5 +9357,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-04-03T06:01:03.859613"
+  "fetched_at": "2025-04-03T12:01:32.771813"
 }

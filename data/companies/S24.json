@@ -5583,11 +5583,11 @@
     },
     {
       "id": 29690,
-      "name": "AnswerGrid",
-      "slug": "answergrid",
-      "website": "https://answergrid.ai/",
-      "description": "AnswerGrid is an AI-powered enterprise search platform purpose-built for consultants to leverage their firm\u2019s institutional knowledge.",
-      "one_liner": "Gen AI for Consultants",
+      "name": "Kenley",
+      "slug": "kenley",
+      "website": "https://kenley.ai/",
+      "description": "Kenley is an AI-powered workspace for consulting firms.\r\n\r\nWith Kenley, firms can use their institutional knowledge to power critical workflows\u2014from drafting proposal decks to scaling due diligence research\u2014so consultants can focus on excellence.\r\n\r\n\r\n*AnswerGrid, Inc. doing business as Kenley",
+      "one_liner": "AI for Consulting",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -5603,16 +5603,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716911130.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e9c150425c276617b07813b5c65c7f28f77df7e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/370ceddd78b7595f7c6ce9ee17f1e804ef0ad8d2.png"
     },
     {
       "id": 29689,
@@ -8436,5 +8436,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-03T06:01:04.308185"
+  "fetched_at": "2025-04-03T12:01:33.183872"
 }
