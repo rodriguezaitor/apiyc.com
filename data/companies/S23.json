@@ -1189,10 +1189,10 @@
       "slug": "dili",
       "website": "https://www.dili.ai",
       "description": "Dili (YC S23) is building the most reliable AI workforce for diligence on high-stakes deals. Across tax credit diligence, real estate loan & lease abstraction, private equity and private credit, Dili has run diligence for leading firms on 3000+ high-stakes deals to provide instant diligence reports and red flags.\r\n\r\ntoday\u2019s AI models are not accurate enough for mission-critical use cases like underwriting $60M+ tax credit transactions, $100M+ loan & lease abstraction, deal screening and drafting investment memos. Dili is built to be the most reliable automated platform that provides confidence scores on every output so you know when something needs your attention.\r\n\r\nFirms can now tune Dili using their domain-specific knowledge and instructions to fit their custom templates, reports and SOPs. Dili has found and fixed critical red flags and human errors on several multi-million dollar transactions using this fine-tuned expertise.",
-      "one_liner": "The Most Reliable LLM for Diligence on High-Stakes Deals",
+      "one_liner": "Automating PWA Compliance and Diligence",
       "batch": "S23",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -1208,9 +1208,9 @@
       "locations": "New York, NY, USA",
       "tags": [
         "Fintech",
-        "Finance",
         "B2B",
-        "Investing",
+        "Compliance",
+        "Energy",
         "AI"
       ],
       "stage": "Early",
@@ -5028,15 +5028,15 @@
       "name": "Spine AI",
       "slug": "spine-ai",
       "website": "https://www.getspine.ai",
-      "description": "Customized AI analysts that understand your business, and can handle your data in any format.\r\nTeach it the context from your business, and test improvements at scale as you expand your use cases. \r\nFind answers in databases, documents, pdfs, slide decks, and spreadsheets. \r\nGather your insights from every source in one place, to align teams and drive decisions.\r\n",
-      "one_liner": "Reliable AI data analysts that know your business",
+      "description": "Spine (YC S23) builds reliable AI infrastructure. Spine powers Facets, the AI Operating System purpose-built for Private Markets (VC, PE, Credit & more).\r\n\r\nFacets automates critical workflows\u2014like LP meeting preparation, DDQ responses, portfolio analysis, compliance tracking, market research, and memo creation\u2014delivering synthesized intelligence instantly.\r\n\r\nFacets empowers IR teams to effectively represent funds to LPs, accelerating fundraising cycles and enabling faster closings.\r\n\r\nFacets enables investors to operate with greater speed, make smarter decisions, and achieve a competitive edge.\r\n\r\nLearn more about Facets: https://www.facets.vc/",
+      "one_liner": "AI for Private Markets",
       "batch": "S23",
       "status": "Active",
       "team_size": 5,
-      "industry": "B2B",
+      "industry": "Fintech",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "Fintech"
       ],
       "regions": [
         "United States of America",
@@ -5044,11 +5044,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "Fintech",
         "Generative AI",
         "SaaS",
-        "Analytics",
-        "Conversational AI"
+        "Investing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5605,7 +5605,11 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Marketplace"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -7334,5 +7338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-02T18:01:07.392476"
+  "fetched_at": "2025-04-03T00:02:41.175091"
 }

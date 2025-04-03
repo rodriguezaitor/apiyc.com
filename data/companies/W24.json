@@ -7896,7 +7896,7 @@
       "name": "Onyx",
       "slug": "onyx",
       "website": "https://www.onyx.app/",
-      "description": "Onyx is the AI assistant that connects to all your company tools and docs and makes finding any piece of information a breeze. Think ChatGPT, but with access to all your companies documents (only the ones you have access to, of course :P). Or, if you know Glean, you can think about it like an open-source Glean. \r\n\r\nConcerned about your data? Don't worry we're open source (MIT license) and built to be self-hosted. You can setup Onyx in your VPC in less than 30 minutes - no packets ever have to leave your cloud.\r\n\r\nCheck us out on Github: https://github.com/onyx-dot-app/onyx!",
+      "description": "Onyx is the open source generative AI platform connected to your company\u2019s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
       "one_liner": "Open Source AI Assistant and Enterprise Search",
       "batch": "W24",
       "status": "Active",
@@ -7913,6 +7913,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Open Source",
         "NLP",
         "Enterprise",
@@ -8301,5 +8302,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-02T18:01:06.228675"
+  "fetched_at": "2025-04-03T00:02:40.240649"
 }
