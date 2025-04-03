@@ -4277,9 +4277,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5752,19 +5752,18 @@
     },
     {
       "id": 29685,
-      "name": "Passage",
-      "slug": "passage",
-      "website": "https://www.trypassage.com/",
-      "description": "Passage is a co-pilot for the customs brokering space. \r\n\r\nToday, companies employ entire teams of customs brokers and entry writers who spend hours keying in data and corresponding with clients. \r\n\r\nWith our co-pilot, we plan to streamline this tedious data entry work, and email correspondence, making compliance teams significantly more efficient",
-      "one_liner": "Clear goods through customs, with AI",
+      "name": "Spongecake",
+      "slug": "spongecake",
+      "website": "https://github.com/aditya-nadkarni/spongecake",
+      "description": "Spongecake helps developers build computer use agents\r\n\r\nWith spongecake, developers can build computer use agents for their own applications, automate workflows in desktop applications with poor APIs, and automate workflows in on prem environments",
+      "one_liner": "Helping developers build computer use agents",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -5774,8 +5773,6 @@
       "tags": [
         "Generative AI",
         "B2B",
-        "Logistics",
-        "Transportation",
         "AI"
       ],
       "stage": "Early",
@@ -5783,7 +5780,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1719338941.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc99cdc7705015347bf46d8b9329855cae09ee2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb0c493c042340cfca56899d9d12bdfe0a3553b6.png"
     },
     {
       "id": 29684,
@@ -8436,5 +8433,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-03T12:01:33.183872"
+  "fetched_at": "2025-04-03T18:01:17.027625"
 }

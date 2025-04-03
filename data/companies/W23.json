@@ -591,7 +591,7 @@
       "name": "Type",
       "slug": "type",
       "website": "https://type.ai",
-      "description": "Type.ai is an AI writing tool and document editor that helps anyone write high-quality content quickly. Rather than writing important content from scratch, individuals and teams can use Type to instantly generate high-substance drafts, revise and rewrite content, and get personalized ideas on what to write next.",
+      "description": "Type.ai is an AI writing tool and document editor that helps professionals write better and faster. Type integrates powerful AI writing and editing features in a simple, familiar writing interface. It's built for writers who need greater control and precision in their work.",
       "one_liner": "The AI-first document editor.",
       "batch": "W23",
       "status": "Active",
@@ -608,8 +608,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "SaaS"
+        "SaaS",
+        "Productivity",
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2010,43 +2012,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3d86b035914304a42a234eb7e38ebfaeb324d3.png"
     },
     {
-      "id": 28082,
-      "name": "Sorted",
-      "slug": "sorted",
-      "website": "https://sorted-lp.webflow.io/",
-      "description": "The first completely automated SaaS management software. \r\nScrap the spreadsheets and avoid slack surveys when you need to run compliance audits, provisioning users, or track unused licenses. Sorted provides visibility to admins in 2 minutes without sacrificing employee flexibility.",
-      "one_liner": "Instant SaaS management",
-      "batch": "W23",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "regions": [
-        "Denmark",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Copenhagen, Denmark; Remote",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Productivity",
-        "Collaboration",
-        "Subscriptions"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1672841928.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cc8fc655f814db94872047b9f30cc7991aede8.png"
-    },
-    {
       "id": 28080,
       "name": "Swishjam",
       "slug": "swishjam",
@@ -2652,7 +2617,7 @@
       "locations": "Z\u00fcrich, ZH, Switzerland",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1668632369.0,
@@ -5469,7 +5434,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725807872.0,
@@ -8852,6 +8817,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/44b280429db3b577a7ef33365ca61d1d4b25dfee.png"
     },
     {
+      "id": 28082,
+      "name": "Sorted",
+      "slug": "sorted",
+      "website": "https://sorted-lp.webflow.io/",
+      "description": "The first completely automated SaaS management software. \r\nScrap the spreadsheets and avoid slack surveys when you need to run compliance audits, provisioning users, or track unused licenses. Sorted provides visibility to admins in 2 minutes without sacrificing employee flexibility.",
+      "one_liner": "Instant SaaS management",
+      "batch": "W23",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "Denmark",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Copenhagen, Denmark; Remote",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Productivity",
+        "Collaboration",
+        "Subscriptions"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1672841928.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cc8fc655f814db94872047b9f30cc7991aede8.png"
+    },
+    {
       "id": 27972,
       "name": "Defer",
       "slug": "defer",
@@ -9357,5 +9359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-04-03T12:01:32.771813"
+  "fetched_at": "2025-04-03T18:01:16.499710"
 }
