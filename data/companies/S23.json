@@ -2270,9 +2270,9 @@
       "id": 29003,
       "name": "DisputeNinja",
       "slug": "disputeninja",
-      "website": "https://www.disputeninja.io",
-      "description": "DisputeNinja fights chargeback disputes for companies on Stripe. Companies provide evidence to us and we submit dispute responses on their behalf.",
-      "one_liner": "We help you win Stripe disputes.",
+      "website": "https://www.disputeninja.ai",
+      "description": "DisputeNinja uses AI to help businesses recover 2x more revenue from chargebacks. ",
+      "one_liner": "AI-powered Chargeback Responses",
       "batch": "S23",
       "status": "Active",
       "team_size": 2,
@@ -2288,7 +2288,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "SaaS",
-        "B2B"
+        "Payments",
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5860,7 +5862,7 @@
       "slug": "diligent",
       "website": "https://godiligent.ai",
       "description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
-      "one_liner": "GenAI assistants for fintech risk and compliance operations",
+      "one_liner": "AI agents for fintech risk and compliance operations",
       "batch": "S23",
       "status": "Active",
       "team_size": 2,
@@ -5875,11 +5877,11 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Compliance",
         "Fraud Prevention",
-        "Regtech",
-        "AI"
+        "Regtech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6637,7 +6639,7 @@
       "one_liner": "Create enterprise-grade AI assistants from your content",
       "batch": "S23",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 14,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -7338,5 +7340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-04T06:01:04.686628"
+  "fetched_at": "2025-04-04T12:01:37.095247"
 }

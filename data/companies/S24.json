@@ -940,28 +940,28 @@
       "name": "RowBoat Labs",
       "slug": "rowboat-labs",
       "website": "https://www.rowboatlabs.com",
-      "description": "RowBoat Labs offers pre-trained LLM agents for customer support, which continuously learn from usage. Our LLMs are safe and brand-aligned. RowBoat agents seamlessly integrate into your systems and take actions where necessary.",
-      "one_liner": "LLM agents for customer support in fintech",
+      "description": "A Cursor-like AI-assisted, no-code IDE for building production-ready multi-agents.\r\n\r\n\u2728 Start from a simple prompt to create fully functional agents with the Copilot\r\n\ud83e\uddea Test them in AI-simulated scenarios\r\n\ud83c\udf10 Connect MCP servers and tools\r\n\ud83d\udcde Interact through the Python SDK, a web widget, or a Twilio phone number\r\n\u267b\ufe0f Continuously refine your agents by providing feedback to the Copilot\r\n\r\nBuilt on OpenAI's Agents SDK, Rowboat is the fastest way to build multi-agents!",
+      "one_liner": "Open-source AI-assisted agent builder",
       "batch": "S24",
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
         "America / Canada",
         "Remote",
-        "Partly Remote"
+        "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
         "Generative AI",
         "B2B",
-        "API",
-        "Customer Support",
+        "Open Source",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -8433,5 +8433,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-04T06:01:03.362587"
+  "fetched_at": "2025-04-04T12:01:35.471185"
 }
