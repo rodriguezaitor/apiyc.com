@@ -4673,7 +4673,7 @@
       "name": "Trela",
       "slug": "trela",
       "website": "https://www.trela.com.br",
-      "description": "Trela is the consumer app with the highest NPS in Brazil and the grocer with the highest NPS worldwide \u2014 91.\r\n\r\nOur mission is to help people eat better. We are curating the highest-quality food and beverage products in Brazil and implementing a just-in-time supply chain that maximizes freshness and minimizes waste of everything we sell. At Trela, you will find a one-stop shop for healthy groceries in S\u00e3o Paulo, all delivered to your doorstep at the most competitive prices.\r\n\r\nWe are fortunate to work with some of the leading technology investors in Latin America and the world, including SoftBank, Kaszek, General Catalyst and Y Combinator.",
+      "description": "Trela is an end-to-end marketplace that connects suppliers of healthy groceries directly to our customers' homes at the lowest prices.",
       "one_liner": "Your one-stop shop to eat well in Brazil",
       "batch": "W21",
       "status": "Active",
@@ -4681,8 +4681,7 @@
       "industry": "Consumer",
       "subindustry": "Consumer -> Food and Beverage",
       "industries": [
-        "Consumer",
-        "Food and Beverage"
+        "Consumer"
       ],
       "regions": [
         "Brazil",
@@ -11551,5 +11550,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-04-03T18:01:16.040826"
+  "fetched_at": "2025-04-04T00:02:41.746079"
 }
