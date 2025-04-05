@@ -5100,9 +5100,9 @@
       "id": 24407,
       "name": "Stardex",
       "slug": "stardex",
-      "website": "https://www.stardex.ai",
-      "description": "Wharf is a recruiting copilot that automates repetitive research tasks in recruiting using AI. ",
-      "one_liner": "Automate recruiting tasks",
+      "website": "https://www.stardex.com",
+      "description": "Stardex is an AI native ATS and CRM designed specifically for recruiting firms. It streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.\ufeff",
+      "one_liner": "AI native autonomous ATS + CRM for recruiting firms",
       "batch": "S21",
       "status": "Active",
       "team_size": 2,
@@ -11199,7 +11199,7 @@
         "Machine Learning"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1625008531.0,
@@ -13432,5 +13432,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-05T12:01:03.539666"
+  "fetched_at": "2025-04-05T18:00:53.276468"
 }
