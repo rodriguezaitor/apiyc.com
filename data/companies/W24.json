@@ -186,18 +186,11 @@
         "Fintech"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Roeland Park, KS, USA; Remote",
-      "tags": [
-        "Sports Tech",
-        "Finance",
-        "HR Tech",
-        "Operations"
-      ],
+      "locations": "Remote",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -2527,7 +2520,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706649959.0,
@@ -4324,14 +4317,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Consumer"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710792793.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d861dcd5def19dfb527cefbf426050375df3a992.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ec5dcd3c0f011b54c766fa37bc1f04bd6b47351.png"
     },
     {
       "id": 29357,
@@ -8302,5 +8296,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-07T12:01:36.113128"
+  "fetched_at": "2025-04-07T18:01:05.524645"
 }
