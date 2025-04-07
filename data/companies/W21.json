@@ -7447,43 +7447,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56f531ce89455eab6a0bf0b30ef439c5d9cd9b78.png"
     },
     {
-      "id": 22705,
-      "name": "JoinSub",
-      "slug": "joinsub",
-      "website": "https://joinsub.com",
-      "description": "We, at JoinSub, are empowering the Indian small and medium retailers to drive repeat purchases & maximize their revenue by building a subscription-based model. \r\n\r\nIndia has over 14 million retail outlets, and we are poised to revolutionize the Retail Sector and enhance the buying experience both for retailers and consumers. We are dedicated to co-creating a community of futuristic retailers who are ready to embrace tech for growth.\r\n\r\nOur Subscription Programs work wonderfully for everyone who is looking to drive repurchases, right from those in the F&B industry, to Salons, Nail Salons, Spas, Gyms, Yoga & Dance Studios, Coffee Shops, Bakeries, Dry Cleaners, Florists, etc. We can help you delight your consumers and accelerate your business, the JoinSub Way!",
-      "one_liner": "India's first aggregator and provider of local business subscriptions",
-      "batch": "W21",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "regions": [
-        "India",
-        "United States of America",
-        "South Asia",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Delhi, DL, India; Palo Alto, CA, USA; Remote",
-      "tags": [
-        "Fintech",
-        "B2B",
-        "Subscriptions"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614962748.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f6311ab798c568114d69f91d489b612d220383d.png"
-    },
-    {
       "id": 22704,
       "name": "Triplit",
       "slug": "triplit",
@@ -11209,6 +11172,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b3461bd6c0d7c8c6a07247a48430eef9a92dc13.png"
     },
     {
+      "id": 22705,
+      "name": "JoinSub",
+      "slug": "joinsub",
+      "website": "https://joinsub.com",
+      "description": "We, at JoinSub, are empowering the Indian small and medium retailers to drive repeat purchases & maximize their revenue by building a subscription-based model. \r\n\r\nIndia has over 14 million retail outlets, and we are poised to revolutionize the Retail Sector and enhance the buying experience both for retailers and consumers. We are dedicated to co-creating a community of futuristic retailers who are ready to embrace tech for growth.\r\n\r\nOur Subscription Programs work wonderfully for everyone who is looking to drive repurchases, right from those in the F&B industry, to Salons, Nail Salons, Spas, Gyms, Yoga & Dance Studios, Coffee Shops, Bakeries, Dry Cleaners, Florists, etc. We can help you delight your consumers and accelerate your business, the JoinSub Way!",
+      "one_liner": "India's first aggregator and provider of local business subscriptions",
+      "batch": "W21",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "India",
+        "United States of America",
+        "South Asia",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Delhi, DL, India; Palo Alto, CA, USA; Remote",
+      "tags": [
+        "Fintech",
+        "B2B",
+        "Subscriptions"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614962748.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f6311ab798c568114d69f91d489b612d220383d.png"
+    },
+    {
       "id": 22701,
       "name": "Queenly",
       "slug": "queenly",
@@ -11550,5 +11550,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-04-07T00:02:40.675994"
+  "fetched_at": "2025-04-07T06:01:24.861936"
 }
