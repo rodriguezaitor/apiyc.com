@@ -4015,11 +4015,11 @@
       "name": "CodeAnt AI",
       "slug": "codeant-ai",
       "website": "https://codeant.ai/",
-      "description": "CodeAnt AI is an AI code reviewer that helps you find and fix critical code quality issues and security vulnerabilities in 30+ languages. Start your 7-day free trial today!.\r\n\r\nWe are SOC 2 compliant, and are live in small teams to large unicorns.",
-      "one_liner": "AI Code Reviewer",
+      "description": "CodeAnt AI is an AI Code Review Platform. It helps you review and merge code 50% faster.\r\n- Gives One-click fixes for code quality and security issues\r\n- Works with all languages, IDEs, and CI/CD tools\r\n- Supports GitHub, GitLab, Bitbucket, Azure DevOps (Cloud & Self-Hosted)\r\n- SOC 2 & HIPAA compliant",
+      "one_liner": "AI Code Review Platform",
       "batch": "W24",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4027,10 +4027,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
@@ -8300,5 +8302,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-06T18:01:04.623967"
+  "fetched_at": "2025-04-07T00:02:41.298529"
 }

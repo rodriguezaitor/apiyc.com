@@ -1732,7 +1732,7 @@
       "name": "Lingo.dev",
       "slug": "lingodotdev",
       "website": "https://lingo.dev",
-      "description": "Lingo.dev (formerly Replexica) automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+      "description": "Lingo.dev is an AI-powered CLI for app localization. It generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
       "one_liner": "Automated AI localization for dev teams. (formerly Replexica)",
       "batch": "F24",
       "status": "Active",
@@ -1751,11 +1751,11 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Open Source",
-        "International",
-        "AI"
+        "International"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3118,5 +3118,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-04-06T18:01:09.408114"
+  "fetched_at": "2025-04-07T00:02:44.725330"
 }
