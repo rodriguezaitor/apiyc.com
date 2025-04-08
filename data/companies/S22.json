@@ -6401,43 +6401,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccb9b78ee502d1956206444281fb6c33ae78f0.png"
     },
     {
-      "id": 26666,
-      "name": "Airtrain AI",
-      "slug": "airtrain-ai",
-      "website": "https://airtrain.ai",
-      "description": "Airtrain AI is a no-code data platform for Large Language Models.\r\n\r\nProprietary AI models such as GPT-4 are very powerful but also very costly, slow, unreliable, and unsecured.\r\n\r\nAs businesses look to scale their AI prototypes into production-grade products, they struggle with large AI bills, slow APIs and large failure rates.\r\nOn the other hand, smaller language models have been proven to be able to perform on-part with large ones with fine-tuned on high-quality datasets.\r\n\r\nAirtrain AI lets AI practitioners explore alternatives to proprietary models, build up training datasets, evaluate, fine-tune, and serve a large selection of open-source LLMs.",
-      "one_liner": "No-code data curation for LLM fine-tuning and evaluation.",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "AIOps",
-        "Developer Tools",
-        "SaaS",
-        "Cloud Computing",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1657048120.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75317513ffcf6008b389c1e9fada5072394a8511.png"
-    },
-    {
       "id": 26663,
       "name": "Denormalized",
       "slug": "denormalized",
@@ -6764,7 +6727,7 @@
         "Enterprise"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1645952902.0,
@@ -8066,6 +8029,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/23caaf66a486729b29c6d411b709dcf89cc1a019.png"
     },
     {
+      "id": 26666,
+      "name": "Airtrain AI",
+      "slug": "airtrain-ai",
+      "website": "https://airtrain.ai",
+      "description": "Airtrain AI is a no-code data platform for Large Language Models.\r\n\r\nProprietary AI models such as GPT-4 are very powerful but also very costly, slow, unreliable, and unsecured.\r\n\r\nAs businesses look to scale their AI prototypes into production-grade products, they struggle with large AI bills, slow APIs and large failure rates.\r\nOn the other hand, smaller language models have been proven to be able to perform on-part with large ones with fine-tuned on high-quality datasets.\r\n\r\nAirtrain AI lets AI practitioners explore alternatives to proprietary models, build up training datasets, evaluate, fine-tune, and serve a large selection of open-source LLMs.",
+      "one_liner": "No-code data curation for LLM fine-tuning and evaluation.",
+      "batch": "S22",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Developer Tools",
+        "SaaS",
+        "Cloud Computing",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1657048120.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75317513ffcf6008b389c1e9fada5072394a8511.png"
+    },
+    {
       "id": 26659,
       "name": "Weltio",
       "slug": "weltio",
@@ -8131,5 +8131,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-04-07T18:01:05.968226"
+  "fetched_at": "2025-04-08T00:02:40.055231"
 }
