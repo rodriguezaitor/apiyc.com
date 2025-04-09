@@ -1882,7 +1882,7 @@
       "id": 29443,
       "name": "Pernell",
       "slug": "pernell",
-      "website": "",
+      "website": "https://pernell.ai",
       "description": "",
       "one_liner": "",
       "batch": "W24",
@@ -1899,14 +1899,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "AI",
+        "Conversational AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1702424671.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6bf929edde8c59ce5b8c812ee786d4809608cc3.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93bffb3ca25d2213455e170b4cfd0c9811d9135.png"
     },
     {
       "id": 29442,
@@ -8296,5 +8297,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-09T06:01:02.722404"
+  "fetched_at": "2025-04-09T12:01:32.819764"
 }

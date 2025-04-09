@@ -2341,10 +2341,17 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "SaaS",
+        "Health Tech",
+        "B2B",
+        "Digital Health",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5418,5 +5425,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-04-09T06:01:04.720700"
+  "fetched_at": "2025-04-09T12:01:34.818670"
 }
