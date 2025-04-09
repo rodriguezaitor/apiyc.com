@@ -1517,7 +1517,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3163,11 +3163,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Analytics",
         "Enterprise Software",
-        "Investments",
-        "AI"
+        "Investments"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3646,6 +3646,36 @@
       "is_top_company": false,
       "launched_at": 1705381687.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c69ab06e9dcd05c2d8d6257e045ed1514a741f0.png"
+    },
+    {
+      "id": 29380,
+      "name": "Conduit",
+      "slug": "conduit-2",
+      "website": "https://www.conduit.app/",
+      "description": "Conduit is an AI agent platform that drives conversational outcomes.\r\n\r\nCustomer conversations are the backbone of every business. Conduit turns them into an engine to optimize conversions, revenue, and cost savings.\r\n\r\nWe're starting with housing and hospitality, where communication is the operation. Leasing, onboarding, scheduling, retention\u2014it all runs on conversations. Conduit handles text and voice conversations with AI agents that perform like your best employee, but faster, more intelligent, and always on, while knowing exactly when to bring in a human.",
+      "one_liner": "Conversational AI agents for the built world",
+      "batch": "W24",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1707775068.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a191a8ba3e9f773c150eb657c1104f6d0427aec.png"
     },
     {
       "id": 29379,
@@ -8266,5 +8296,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-09T00:02:48.294623"
+  "fetched_at": "2025-04-09T06:01:02.722404"
 }

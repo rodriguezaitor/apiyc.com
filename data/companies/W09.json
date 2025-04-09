@@ -64,39 +64,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf9bb5e6e2675a17e58680fdafb1e6a3bef6c968.png"
     },
     {
-      "id": 268,
-      "name": "Wattvision",
-      "slug": "wattvision",
-      "website": "http://www.wattvision.com",
-      "description": "Wattvision offers a simple idea: Monitor your energy consumption in realtime from the web. We started by selling the complete sensor and software solution, and now we are focusing on developing software that works with our hardware partners.",
-      "one_liner": "Sensors and software for energy tracking. Like 'fitbit' for your\u2026",
-      "batch": "W09",
-      "status": "Active",
-      "team_size": 0,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-      "industries": [
-        "Real Estate and Construction",
-        "Housing and Real Estate"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Princeton, NJ, USA; Remote",
-      "tags": [
-        "Sustainability"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1326790830.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a004a5ad1f98a7b8df8b18dc5438fe0e6b22acd.png"
-    },
-    {
       "id": 275,
       "name": "Cloudkick",
       "slug": "cloudkick",
@@ -421,6 +388,39 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
+      "id": 268,
+      "name": "Wattvision",
+      "slug": "wattvision",
+      "website": "http://www.wattvision.com",
+      "description": "Wattvision offers a simple idea: Monitor your energy consumption in realtime from the web. We started by selling the complete sensor and software solution, and now we are focusing on developing software that works with our hardware partners.",
+      "one_liner": "Sensors and software for energy tracking. Like 'fitbit' for your\u2026",
+      "batch": "W09",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Princeton, NJ, USA; Remote",
+      "tags": [
+        "Sustainability"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790830.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a004a5ad1f98a7b8df8b18dc5438fe0e6b22acd.png"
+    },
+    {
       "id": 266,
       "name": "Skysheet",
       "slug": "skysheet",
@@ -480,5 +480,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-04-09T00:02:59.008880"
+  "fetched_at": "2025-04-09T06:01:10.055975"
 }
