@@ -4713,11 +4713,11 @@
       "name": "Abalone Bio",
       "slug": "abalone-bio",
       "website": "https://www.abalonebio.com",
-      "description": "Abalone Bio developed a technology to find antibody drugs that activate and modulate cell surface receptors, the \u201cantennae\u201d on cells that help convert chemical signals into cellular responses, like growth. Antibodies are a growing class of drugs that have tremendous safety and efficacy advantages over small molecules; 7 of the top 10 selling drugs are antibodies, earning an average of $7B in revenue. However, antibodies- especially ones that activate and modulate cell surface receptors- are hard to find. Abalone Bio expands the playing field for antibody therapeutics and enables us to previously access treatments for untreated diseases.\r\n\r\nWe have already discovered a novel antibody that activates a non-opioid receptor that produces analgesia. We are developing this antibody into a treatment for neuropathic pain \u2013 a medical condition that currently is treated with drugs like addictive opiates. The same molecule is also a potential treatment for inflammatory and fibrotic diseases, all 1B+ markets.\r\n",
-      "one_liner": "We discover antibody drugs others can't",
+      "description": "Abalone Bio is tackling challenging undrugged targets underlying diseases affecting millions, focusing first cell-specific antibody drugs to treat obesity and metabolic disease without the GI side effects that cause 25% of GLP-1 drug patients to quit after 1 year. \r\n\r\n+ High throughput experimental measurement uniquely leverages AI/ML:  We\u2019ve engineered cells to measure antibodies for pharmacological activity, not just structure or binding like others, 100 million at a time, 100X+ the throughput of others. With our large, proprietary activity datasets, we uniquely leverage ML to both unlock the discovery of rare hits and generate optimized hits for challenging targets, starting with G-protein coupled receptors (GPCRs)\r\n\r\n+ Proven success: We have developed antibody agonists (activators) for 2 out of the 8 G-protein coupled receptors ever drugged by biotech.\r\n\r\n+ Pharma traction: We\u2019ve secured 3 partnerships with $3M in revenue and $125M in downstream value. \r\n\r\n+ Externally validated science: We\u2019ve been awarded $7M in non-dilutive grant funding for platform and program development.",
+      "one_liner": "We create activating antibodies to treat diseases others can\u2019t.",
       "batch": "W20",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 14,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Drug Discovery and Delivery",
       "industries": [
@@ -4726,14 +4726,13 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "Emeryville, CA, USA",
       "tags": [
         "Machine Learning",
         "Synthetic Biology",
+        "Therapeutics",
         "Drug discovery"
       ],
       "stage": "Early",
@@ -4741,7 +4740,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1583908314.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eba7d332f7dc32613b3df0dcc051e3c8121fa610.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9f1d41bc9bfabd8ecaa9963112dc25b23472f0a.png"
     },
     {
       "id": 13072,
@@ -7759,5 +7758,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-09T18:01:01.399495"
+  "fetched_at": "2025-04-10T00:02:46.324365"
 }

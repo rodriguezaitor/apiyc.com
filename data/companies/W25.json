@@ -22,7 +22,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739827651.0,
@@ -2353,7 +2353,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738929097.0,
@@ -2738,7 +2738,7 @@
       "id": 30258,
       "name": "Gale",
       "slug": "gale",
-      "website": "https://getgale.app/",
+      "website": "https://galevisa.com",
       "description": "Gale makes getting a visa suck less. We\u2019re disrupting the $10B immigration services market, starting with US H-1Bs. We've simplified the visa application process to a web form, streamlined compliance, and can integrate with HR systems - saving teams time, money and headaches. By using AI and automation we enable our lawyers to maintain quality but be 3x as efficient. This allows us to deliver a superior user experience, decrease costs and reduce visa turn-around times, giving us an advantage over traditional law firms.",
       "one_liner": "AI Powered Immigration Law Firm",
       "batch": "W25",
@@ -2756,11 +2756,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Legal",
         "HR Tech",
-        "Immigration"
+        "Immigration",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2912,10 +2912,9 @@
         "Fintech"
       ],
       "regions": [
-        "United Kingdom",
-        "Europe"
+        "Unspecified"
       ],
-      "locations": "London, England, United Kingdom",
+      "locations": "",
       "tags": [
         "Documents",
         "Fintech",
@@ -5425,5 +5424,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-04-09T18:01:03.160841"
+  "fetched_at": "2025-04-10T00:02:46.922176"
 }
