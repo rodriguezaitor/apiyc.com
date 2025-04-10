@@ -3577,7 +3577,7 @@
       "one_liner": "Better health insurance for mid-size companies",
       "batch": "W18",
       "status": "Acquired",
-      "team_size": 30,
+      "team_size": 37,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
@@ -3588,9 +3588,9 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Partly Remote"
+        "Fully Remote"
       ],
-      "locations": "Dallas, TX, USA",
+      "locations": "Dallas, TX, USA; Remote",
       "tags": [
         "Fintech",
         "Healthcare",
@@ -4928,5 +4928,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-04-10T12:01:35.160497"
+  "fetched_at": "2025-04-10T18:01:13.455751"
 }
