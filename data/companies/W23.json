@@ -2368,7 +2368,7 @@
       "one_liner": "The only customer support platform built for B2B.",
       "batch": "W23",
       "status": "Active",
-      "team_size": 20,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -2381,10 +2381,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Customer Success",
-        "Customer Support"
+        "Customer Support",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4236,42 +4236,6 @@
       "is_top_company": false,
       "launched_at": 1669087724.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7373c1adcb59518de3f0525b2829a0ed7943e0a3.png"
-    },
-    {
-      "id": 27909,
-      "name": "Magicflow \ud800\udc82",
-      "slug": "magicflow",
-      "website": "https://magicflow.ai",
-      "description": "Prompt engineers, visual artists and AI data scientists are using Magicflow to run experiments at scale and perfect their pipelines\r\n\r\nOur product is ready to use: https://console.magicflow.ai try it out! we have some preloaded examples you can try.\r\n\r\n\ud83e\udd1f Talk to us about anything! We love meeting new people https://calendly.com/magicflowai/",
-      "one_liner": "The Gen AI evaluation and curation platform",
-      "batch": "W23",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "Israel",
-        "Middle East and North Africa",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Generative AI",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1673392871.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2234eb7e6f24362b194ad8921038406c8824499.png"
     },
     {
       "id": 27907,
@@ -8983,6 +8947,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/43c04e37c0deed9f7028a8f23f3dc322cadc0d75.png"
     },
     {
+      "id": 27909,
+      "name": "Magicflow \ud800\udc82",
+      "slug": "magicflow",
+      "website": "https://magicflow.ai",
+      "description": "Prompt engineers, visual artists and AI data scientists are using Magicflow to run experiments at scale and perfect their pipelines\r\n\r\nOur product is ready to use: https://console.magicflow.ai try it out! we have some preloaded examples you can try.\r\n\r\n\ud83e\udd1f Talk to us about anything! We love meeting new people https://calendly.com/magicflowai/",
+      "one_liner": "The Gen AI evaluation and curation platform",
+      "batch": "W23",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "Israel",
+        "Middle East and North Africa",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Generative AI",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1673392871.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2234eb7e6f24362b194ad8921038406c8824499.png"
+    },
+    {
       "id": 27879,
       "name": "Choppy!",
       "slug": "choppy",
@@ -9359,5 +9359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-04-10T06:01:05.378514"
+  "fetched_at": "2025-04-10T12:01:31.847316"
 }
