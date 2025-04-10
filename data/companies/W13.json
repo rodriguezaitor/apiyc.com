@@ -982,6 +982,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3ed8ebe374e674c6e6ada00d5e688a2f0309455.png"
     },
     {
+      "id": 473,
+      "name": "Scuba",
+      "slug": "interana",
+      "website": "https://www.scuba.io",
+      "description": "Scuba is the fast and scalable event-based analytics solution to answer critical business questions about how customers behave and products are used. Interana allows users to analyze and explore the key business metrics that matter most in a data-driven world \u2013 such as growth, retention, conversion and engagement \u2013 in seconds, rather than the hours or days it often takes with existing solutions. Interana allows customers to discover and investigate these key insights easily through its visual and interactive interface, which makes data analysis a natural extension of everyone\u2019s workflow.",
+      "one_liner": "Analytics for impatient people.",
+      "batch": "W13",
+      "status": "Acquired",
+      "team_size": 51,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [
+        "Analytics",
+        "Big Data",
+        "Data Engineering",
+        "Data Visualization"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1354492621.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75095731e25d34e505b54386e1fbac0016ef69ea.png"
+    },
+    {
       "id": 472,
       "name": "Screenhero",
       "slug": "screenhero",
@@ -1459,41 +1493,7 @@
       "is_top_company": false,
       "launched_at": 1354492628.0,
       "logo_url": "/company/thumb/missing.png"
-    },
-    {
-      "id": 473,
-      "name": "Scuba",
-      "slug": "interana",
-      "website": "https://www.scuba.io",
-      "description": "Scuba is the fast and scalable event-based analytics solution to answer critical business questions about how customers behave and products are used. Interana allows users to analyze and explore the key business metrics that matter most in a data-driven world \u2013 such as growth, retention, conversion and engagement \u2013 in seconds, rather than the hours or days it often takes with existing solutions. Interana allows customers to discover and investigate these key insights easily through its visual and interactive interface, which makes data analysis a natural extension of everyone\u2019s workflow.",
-      "one_liner": "Analytics for impatient people.",
-      "batch": "W13",
-      "status": "Inactive",
-      "team_size": 51,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "",
-      "tags": [
-        "Analytics",
-        "Big Data",
-        "Data Engineering",
-        "Data Visualization"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1354492621.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75095731e25d34e505b54386e1fbac0016ef69ea.png"
     }
   ],
-  "fetched_at": "2025-04-10T00:02:48.603339"
+  "fetched_at": "2025-04-10T06:01:06.346042"
 }
