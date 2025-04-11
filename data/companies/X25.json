@@ -34,6 +34,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png"
     },
     {
+      "id": 30544,
+      "name": "Wavedash",
+      "slug": "wavedash",
+      "website": "https://wavedash.gg",
+      "description": "Wavedash is an end-to-end video game development platform that automates expensive R&D workflows, saving studios time and money, helping them create and distribute better games, faster. ",
+      "one_liner": "Automated builds, distribution, and playtesting for game devs",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Workflow Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744312209.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc7b2b59a7a325fcdf566d9120353bab8f1fa91.png"
+    },
+    {
       "id": 30542,
       "name": "LineWise",
       "slug": "linewise",
@@ -93,6 +128,35 @@
       "is_top_company": false,
       "launched_at": 1743955975.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png"
+    },
+    {
+      "id": 30506,
+      "name": "Klavis AI",
+      "slug": "klavis-ai-2",
+      "website": "https://www.klavis.ai/",
+      "description": "Build an open source Model Context Protocol (MCP) platform & SDK that simplifies using, creating, and scaling MCPs.",
+      "one_liner": "Open source infra making MCPs easy to use, build and scale.",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744314522.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png"
     },
     {
       "id": 30474,
@@ -230,6 +294,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0a54f0fef4c64097aee43f99b1b40bf7bda56a.png"
     },
     {
+      "id": 30415,
+      "name": "Avallon AI",
+      "slug": "avallon-ai",
+      "website": "https://www.avallon.ai/",
+      "description": "Avallon automates car and freight insurance claims operations from first notice to subrogation. Voice agents handle the claim intake and repair shop outreach, supported by a web app with an AI copilot to handle the rest of the workflow. Adjusters become significantly more productive, resolving claims up to 10x faster at just 10% of the traditional cost.",
+      "one_liner": "Automate car and freight insurance claims with AI agents ",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Insurance",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744318663.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png"
+    },
+    {
       "id": 30411,
       "name": "mrge",
       "slug": "mrge",
@@ -323,5 +419,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-10T18:01:20.853872"
+  "fetched_at": "2025-04-11T00:02:59.194207"
 }

@@ -3601,7 +3601,7 @@
       "name": "Remade",
       "slug": "remade",
       "website": "https://www.remade.ai/",
-      "description": "Remade is building the largest AI video generation Discord community. Our Discord has been growing 1000% WoW since launch and is currently at 3.5K members. \r\nJoin the Discord: https://discord.com/invite/7tsKMCbNFC",
+      "description": "Remade is building the largest AI video generation Discord community. Since launching 8 weeks ago our server has grown to 6000 users.\r\nJoin the Discord: https://discord.com/invite/7tsKMCbNFC",
       "one_liner": "AI video generation Discord community",
       "batch": "S24",
       "status": "Active",
@@ -3618,11 +3618,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "Consumer",
-        "Social Media"
+        "Social Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4821,7 +4821,7 @@
       "name": "Parity",
       "slug": "parity",
       "website": "https://tryparity.com",
-      "description": "Parity is the AI SRE for Incident Response. We're the first line of defense for on-call engineers working with Kubernetes - Parity autonomously triages, root causes, and heals your cloud infrastructure.",
+      "description": "Parity is the AI SRE for Incident Response. We're the first line of defense for on-call engineers - Parity autonomously triages, root causes, and heals your cloud infrastructure.",
       "one_liner": "The AI SRE for Incident Response",
       "batch": "S24",
       "status": "Active",
@@ -4832,19 +4832,12 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "B2B",
-        "Kubernetes",
-        "DevOps"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723073466.0,
@@ -6146,8 +6139,8 @@
       "name": "Zuni",
       "slug": "zuni",
       "website": "https://zuni.app",
-      "description": "",
-      "one_liner": "Smarter email for founders",
+      "description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
+      "one_liner": "AI Assistant that works alongside you in your Chrome browser",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -8436,5 +8429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-10T18:01:10.061707"
+  "fetched_at": "2025-04-11T00:02:47.930181"
 }

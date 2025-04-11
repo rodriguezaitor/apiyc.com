@@ -1883,8 +1883,8 @@
       "name": "Pernell",
       "slug": "pernell",
       "website": "https://pernell.ai",
-      "description": "",
-      "one_liner": "",
+      "description": "Pernell is your AI-powered second phone that records, transcribes, and summarizes calls. When you\u2019re busy, an AI receptionist answers for you \u2014 no more missed calls.",
+      "one_liner": "Your AI-Powered Second Phone",
       "batch": "W24",
       "status": "Active",
       "team_size": 2,
@@ -3377,7 +3377,7 @@
       "one_liner": "AI-native investment bank for small businesses",
       "batch": "W24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3389,10 +3389,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "SMB"
+        "SMB",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8263,5 +8263,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-10T18:01:10.465600"
+  "fetched_at": "2025-04-11T00:02:48.365211"
 }
