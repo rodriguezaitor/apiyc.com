@@ -6673,7 +6673,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720630564.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4081f5a6cb130a37a996dcc47ecab2a47046aa5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/543dab64586e13bb93c11e6012ecd070fb8c8a67.png"
     },
     {
       "id": 29649,
@@ -7516,7 +7516,9 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Drones"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8427,5 +8429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-11T12:01:32.884774"
+  "fetched_at": "2025-04-11T18:01:42.844550"
 }

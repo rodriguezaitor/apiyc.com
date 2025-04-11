@@ -107,7 +107,7 @@
       "slug": "code-four",
       "website": "https://codefour.us/",
       "description": "Code Four slashes the administrative burden on law enforcement through AI-driven automation. Officers spend up to a third of their shifts manually transcribing body camera footage, creating inaccuracies, reducing transparency, and cutting into frontline duties. We're here to eliminate these inefficiencies by integrating with body cameras, record management systems, and digital evidence management systems\u2014acting as a software layer for data processing. \r\n\r\nWe free the most overworked and underappreciated people in the world: police officers.",
-      "one_liner": "Annotating police videos using vision language models.",
+      "one_liner": "Modernizing the police workflow.",
       "batch": "X25",
       "status": "Active",
       "team_size": 3,
@@ -327,6 +327,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png"
     },
     {
+      "id": 30420,
+      "name": "c/ua",
+      "slug": "c-ua",
+      "website": "https://trycua.com",
+      "description": "c/ua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
+      "one_liner": "Docker Container for Computer-Use Agents on macOS",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744392234.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png"
+    },
+    {
       "id": 30417,
       "name": "GroundControl",
       "slug": "groundcontrol",
@@ -488,5 +520,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-11T12:01:36.162052"
+  "fetched_at": "2025-04-11T18:01:50.718158"
 }
