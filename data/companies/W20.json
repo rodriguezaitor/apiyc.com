@@ -3037,8 +3037,8 @@
       "name": "QueryPie",
       "slug": "querypie",
       "website": "https://www.querypie.com",
-      "description": "QueryPie solves two important customer problems. The first is being able to respond to ITGC audits to ensure financial transparency, The second is to keep customer privacy data and sensitive information from internal employees and external attackers,also provide insights into what data to use for AI.\r\n\r\nThis is made possible by centralizing access control and auditing of IT assets such as databases, servers, and containers across both on-premises and cloud environments in One-place QueryPie.\r\n\r\nQueryPie covered various privacy law and compliances such as ITGC for Sox, PCI-DSS, ISO27001, HIPAA, CCPA, GDPR, ISMS",
-      "one_liner": "Unified Access Control & Audit for Infrastructure",
+      "description": "QueryPie solves two major enterprise challenges:\r\nmeeting ITGC audit and compliance requirements, and protecting sensitive data from internal misuse and external threats \u2014 while offering insight into data usage for AI.\r\n\r\nBy centralizing access control and audit across databases, servers, and containers in both on-prem and cloud, QueryPie simplifies security and compliance in one platform.\r\n\r\nNow, with MCP-powered AI Agent, QueryPie expands beyond access control into a fully autonomous assistant that:\r\n\t\u2022\t\ud83d\udcca Transforms SQL into natural conversations\r\n\t\u2022\t\ud83d\udee0\ufe0f Automates infra operations\r\n\t\u2022\t\ud83e\udde0 Detects threats via AI-driven behavior analytics\r\n\r\nMore than just a security tool, QueryPie empowers secure, AI-native enterprise operations.",
+      "one_liner": "The Autonomous AI Assistant for Data Analytics, Infra Operations &\u2026",
       "batch": "W20",
       "status": "Active",
       "team_size": 97,
@@ -3056,11 +3056,11 @@
       ],
       "locations": "San Mateo, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Compliance",
         "Security",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Growth",
       "is_hiring": false,
@@ -7758,5 +7758,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-12T12:01:27.594234"
+  "fetched_at": "2025-04-12T18:01:02.383748"
 }
