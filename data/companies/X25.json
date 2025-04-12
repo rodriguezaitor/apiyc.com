@@ -5,8 +5,8 @@
       "name": "Valora",
       "slug": "valora",
       "website": "https://www.getvalora.com/",
-      "description": "Valora is building the first unified interface to create verifiable agents for any corporate finance workflow\u2014starting with FP&A.",
-      "one_liner": "Build verifiable agents for any financial workflow",
+      "description": "Valora makes it lightning fast to query your company's financial data (from ERPs, CRMS, HR systems, budgets, forecasts, and more) for reporting and insights using AI. Whether you have existing templates for models and reports, or want to start from scratch, Valora makes understanding and working with your company's financial data seamless.",
+      "one_liner": "Easily query your company financials for reporting and insights",
       "batch": "X25",
       "status": "Active",
       "team_size": 2,
@@ -327,6 +327,36 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png"
     },
     {
+      "id": 30421,
+      "name": "SynthioLabs",
+      "slug": "synthiolabs",
+      "website": "https://synthiolabs.com/",
+      "description": "SynthioLabs is building AI teammates for pharma. Our first teammate, Nexa, is an AI Medical Reviewer that helps Pharma Med Directors review marketing materials faster, with fewer errors, and at significantly lower cost. Nexa is an expert on FDA guidelines, therapeutic area literature, and your brand strategy \u2014 and can autonomously review content 24/7.\r\n\r\nWe\u2019re McKinsey and ZS alums. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in life sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! \r\n",
+      "one_liner": "AI Teammates for Pharma Medical and Commercial teams",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Generative AI",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744430433.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e42b6cfd61c94b5653f0c8bbc2620e699c5f7877.png"
+    },
+    {
       "id": 30420,
       "name": "c/ua",
       "slug": "c-ua",
@@ -520,5 +550,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-12T00:02:56.182510"
+  "fetched_at": "2025-04-12T06:01:32.371646"
 }
