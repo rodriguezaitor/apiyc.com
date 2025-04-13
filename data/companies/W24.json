@@ -1610,7 +1610,7 @@
       "one_liner": "The Sales Calculator",
       "batch": "W24",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -1625,10 +1625,10 @@
       ],
       "locations": "Santa Barbara, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Sales",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1883,7 +1883,7 @@
       "name": "Pernell",
       "slug": "pernell",
       "website": "https://pernell.ai",
-      "description": "Pernell is your AI-powered second phone that records, transcribes, and summarizes calls. When you\u2019re busy, an AI receptionist answers for you \u2014 no more missed calls.",
+      "description": "Pernell is your AI-powered second phone that records, transcribes, and summarizes calls. When you\u2019re busy, an AI receptionist answers for you - no more missed calls.",
       "one_liner": "Your AI-Powered Second Phone",
       "batch": "W24",
       "status": "Active",
@@ -1899,7 +1899,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -8263,5 +8263,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-13T00:26:35.771286"
+  "fetched_at": "2025-04-13T06:01:14.996245"
 }
