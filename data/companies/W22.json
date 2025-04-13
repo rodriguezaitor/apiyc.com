@@ -7044,42 +7044,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png"
     },
     {
-      "id": 25610,
-      "name": "RedBrick AI",
-      "slug": "redbrick-ai",
-      "website": "https://redbrickai.com",
-      "description": "RedBrick AI's mission is to accelerate the adoption of artificial intelligence in radiology by building world-class software infrastructure. Currently, we are focused on helping radiology AI teams prepare high-quality datasets to train their algorithms.\r\n\r\nRadiology data, such as CT and X-ray scans, is an incredibly important source of truth in healthcare delivery. In fact, over 90% of all healthcare data is medical imagery! However, the global radiology workforce is overburdened. In the UK, for example, only 2% of radiology departments are able to fulfill their reporting requirements, and this trend is reflected worldwide.\r\n\r\nThe acute state of radiology, coupled with the abundance of data, makes the use of AI in radiology a prime candidate. In 2022, $5.6 billion was invested in the development of AI in healthcare! However, a key hindrance to further adoption is the lack of sophisticated tools to build and deploy AI algorithms in clinical environments. This is the problem we\u2019re focused on at RedBrick AI\r\n\r\nWe're a team based out of Bangalore India, and USA. We're backed by leading institutional investors like Y Combinator and Peak XV (formerly Sequoia Capital India). ",
-      "one_liner": "Rapid medical data annotation",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 13,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "India",
-        "America / Canada",
-        "South Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Claymont, DE, USA; MH, India",
-      "tags": [
-        "AIOps",
-        "Machine Learning",
-        "Healthcare"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1642587658.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/10e60623a6f9ead582ef32a7eb60d830f6544cbe.png"
-    },
-    {
       "id": 25608,
       "name": "Flagright",
       "slug": "flagright",
@@ -13223,6 +13187,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/214855b730fa1ce50df41d764d6d8b5d264baf38.png"
     },
     {
+      "id": 25610,
+      "name": "RedBrick AI",
+      "slug": "redbrick-ai",
+      "website": "https://redbrickai.com",
+      "description": "RedBrick AI's mission is to accelerate the adoption of artificial intelligence in radiology by building world-class software infrastructure. Currently, we are focused on helping radiology AI teams prepare high-quality datasets to train their algorithms.\r\n\r\nRadiology data, such as CT and X-ray scans, is an incredibly important source of truth in healthcare delivery. In fact, over 90% of all healthcare data is medical imagery! However, the global radiology workforce is overburdened. In the UK, for example, only 2% of radiology departments are able to fulfill their reporting requirements, and this trend is reflected worldwide.\r\n\r\nThe acute state of radiology, coupled with the abundance of data, makes the use of AI in radiology a prime candidate. In 2022, $5.6 billion was invested in the development of AI in healthcare! However, a key hindrance to further adoption is the lack of sophisticated tools to build and deploy AI algorithms in clinical environments. This is the problem we\u2019re focused on at RedBrick AI\r\n\r\nWe're a team based out of Bangalore India, and USA. We're backed by leading institutional investors like Y Combinator and Peak XV (formerly Sequoia Capital India). ",
+      "one_liner": "Rapid medical data annotation",
+      "batch": "W22",
+      "status": "Inactive",
+      "team_size": 13,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "India",
+        "America / Canada",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Claymont, DE, USA; MH, India",
+      "tags": [
+        "AIOps",
+        "Machine Learning",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1642587658.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/10e60623a6f9ead582ef32a7eb60d830f6544cbe.png"
+    },
+    {
       "id": 25592,
       "name": "Ole",
       "slug": "ole",
@@ -13821,5 +13821,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-04-12T18:01:01.663963"
+  "fetched_at": "2025-04-13T00:26:34.178302"
 }
