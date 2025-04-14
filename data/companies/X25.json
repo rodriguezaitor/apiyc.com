@@ -34,6 +34,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png"
     },
     {
+      "id": 30549,
+      "name": "Airweave",
+      "slug": "airweave",
+      "website": "https://airweave.ai",
+      "description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
+      "one_liner": "Turn Apps Into Accessible Knowledge For Agents",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Open Source",
+        "Search",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744594621.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/973b8e0eeb1c5161841d44605b2c44034a0c5202.png"
+    },
+    {
       "id": 30544,
       "name": "Wavedash",
       "slug": "wavedash",
@@ -228,6 +262,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png"
     },
     {
+      "id": 30501,
+      "name": "Prophet",
+      "slug": "prophet",
+      "website": "https://try-prophet.com/",
+      "description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
+      "one_liner": "Training LLMs to be expert software testers",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Reinforcement Learning",
+        "SaaS",
+        "AI Assistant",
+        "ML"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744600545.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c1eac4c88e80f78f94a66ba96e6521c479b8336.png"
+    },
+    {
       "id": 30474,
       "name": "RunRL",
       "slug": "runrl",
@@ -358,10 +426,10 @@
     },
     {
       "id": 30420,
-      "name": "c/ua",
-      "slug": "c-ua",
+      "name": "Cua",
+      "slug": "cua",
       "website": "https://trycua.com",
-      "description": "c/ua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
+      "description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
       "one_liner": "Docker Container for Computer-Use Agents on macOS",
       "batch": "X25",
       "status": "Active",
@@ -378,8 +446,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "AI"
+        "Artificial Intelligence",
+        "Developer Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -584,5 +652,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-14T00:03:11.750422"
+  "fetched_at": "2025-04-14T06:01:06.112552"
 }
