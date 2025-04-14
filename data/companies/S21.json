@@ -3139,7 +3139,7 @@
         "Healthcare"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1624982871.0,
@@ -4857,7 +4857,7 @@
       "name": "KaiPod Learning",
       "slug": "kaipod-learning",
       "website": "http://www.kaipodlearning.com",
-      "description": "KaiPod Learning is a national network of microschools bringing school choice to every community in America. We work with education entrepreneurs to start high-quality community-based microschools to better serve students and their families.\r\n\r\nAs more families stand up for choice in education and as more educators look for alternative career pathways, KaiPod Learning is helping bring microschools into the mainstream.",
+      "description": "KaiPod Learning is a national network of microschools bringing school choice to every community in America. We work with education entrepreneurs to start high-quality microschools to better serve students and their families.\r\n\r\nAs more families stand up for choice in education and as more educators look for alternative career pathways, KaiPod Learning is helping bring microschools into the mainstream.",
       "one_liner": "A national network of microschools bringing school choice to every\u2026",
       "batch": "S21",
       "status": "Active",
@@ -4871,16 +4871,16 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Boston, MA, USA; Remote",
+      "locations": "Boston, MA, USA",
       "tags": [
         "Education",
         "eLearning",
         "Consumer"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1624983081.0,
@@ -13429,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-14T12:01:30.319892"
+  "fetched_at": "2025-04-14T18:01:06.797572"
 }

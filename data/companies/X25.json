@@ -37,7 +37,7 @@
       "id": 30549,
       "name": "Airweave",
       "slug": "airweave",
-      "website": "https://airweave.ai",
+      "website": "https://github.com/airweave-ai/airweave",
       "description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
       "one_liner": "Turn Apps Into Accessible Knowledge For Agents",
       "batch": "X25",
@@ -54,11 +54,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Open Source",
         "Search",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -66,6 +66,38 @@
       "is_top_company": false,
       "launched_at": 1744594621.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/973b8e0eeb1c5161841d44605b2c44034a0c5202.png"
+    },
+    {
+      "id": 30547,
+      "name": "text.ai",
+      "slug": "text-ai",
+      "website": "https://www.text.ai/",
+      "description": "We've built AI search into personal and group chats applications that over 5.5B people use daily, no new apps or sign ups needed.",
+      "one_liner": "Bringing AI to every chat interface",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Generative AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744649821.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60879a0f6dde6019410f20e9e28b08cdec162645.png"
     },
     {
       "id": 30544,
@@ -652,5 +684,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-14T12:01:39.190180"
+  "fetched_at": "2025-04-14T18:01:18.925277"
 }
