@@ -2529,8 +2529,8 @@
       "name": "Haystack Software",
       "slug": "haystack-software",
       "website": "https://haystackeditor.com/",
-      "description": "Haystack is a a canvas-based IDE that automates the tedious and mechanical steps of software development -- plumbing, refactoring, and finding code -- so that software engineers can focus on the important parts. \r\n\r\nIn Haystack, users can explore and edit their code on a 2D canvas with a navigational copilot assisting every step of their way.",
-      "one_liner": "Visualize and edit your codebase on an infinite canvas",
+      "description": "Haystack helps you review and merge code faster, without sacrificing quality.\r\n\r\nHaystack is a code review platform that breaks down pull requests into digestible chunks and lays them out on an infinite canvas, replacing traditional line-by-line diffs in GitHub with a structured, visual walkthrough.",
+      "one_liner": "Understand any pull request in under a minute",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -2544,19 +2544,19 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Productivity",
-        "AI"
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722315932.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb08cd689b8bc726ff34032bcc77b9fe6763467b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png"
     },
     {
       "id": 29796,
@@ -6893,7 +6893,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716295686.0,
@@ -8429,5 +8429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-14T18:01:08.182894"
+  "fetched_at": "2025-04-15T00:02:47.293277"
 }
