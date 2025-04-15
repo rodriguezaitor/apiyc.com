@@ -427,6 +427,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png"
     },
     {
+      "id": 30425,
+      "name": "Auctor",
+      "slug": "auctor",
+      "website": "https://getauctor.com",
+      "description": "Auctor is used by leading solution engineers, system integrators, and professional services teams. Our AI agents capture requirements, generate aligned artifacts, and streamline discovery to deployment\u2014turning weeks into hours.",
+      "one_liner": "AI for best-in-class  pre-sales and delivery teams.",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "SaaS",
+        "Productivity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744707028.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b44e1fc178c097389ce6520bba94bf26d79a57c1.png"
+    },
+    {
       "id": 30421,
       "name": "SynthioLabs",
       "slug": "synthiolabs",
@@ -684,5 +716,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-15T06:01:15.061626"
+  "fetched_at": "2025-04-15T12:01:37.740855"
 }
