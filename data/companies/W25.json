@@ -4120,7 +4120,7 @@
       "name": "Conntour",
       "slug": "conntour",
       "website": "https://www.conntour.com/",
-      "description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (\u201cFind a man with a blue backpack\u201d), set alerts (\u201cAlert me if someone climbs over the wall\u201d), and extract data (\u201cHow many vehicles entered yesterday?\u201d).\r\n\r\nWe just completed an $80K POC with the Singapore government, which was a great success, leading us toward a $2M/year contract. That\u2019s only one of five huge customers we\u2019re set to close in the next few months.\r\n\r\nMatan (CEO) worked with security cameras for years, leading video surveillance in the Israel Defense Forces. Tomer (CTO) is a second-time founder and former director of engineering. Our team also includes computer vision experts from Israel\u2019s elite 8200 intelligence unit and former top officials from the Mossad.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they\u2019re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited customization through natural language queries - just ask anything.",
+      "description": "Conntour lets governments and corporations query their security cameras.\r\n\r\nUsers can search past footage (\u201cFind a man with a blue backpack\u201d), set alerts (\u201cNotify me if someone climbs over the wall\u201d), and extract data (\u201cHow many vehicles entered yesterday?\u201d).\r\n\r\nWe just completed an $80K POC with the Singapore government, which was a great success, leading us toward a $2M/year contract. That\u2019s only one of five huge customers we\u2019re set to close in the next few months.\r\n\r\nMatan (CEO) worked with security cameras for years, leading video surveillance in the Israel Defense Forces. Tomer (CTO) is a second-time founder and former director of engineering. Our team also includes computer vision experts from Israel\u2019s elite 8200 intelligence unit and former top officials from the Mossad.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they\u2019re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited customization through natural language queries - just ask anything.",
       "one_liner": "AI to monitor thousands of security cameras.",
       "batch": "W25",
       "status": "Active",
@@ -4137,11 +4137,11 @@
       ],
       "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
         "Computer Vision",
         "B2B",
-        "Security"
+        "Security",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5415,5 +5415,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-04-16T06:01:06.272803"
+  "fetched_at": "2025-04-16T12:01:27.720121"
 }
