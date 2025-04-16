@@ -3874,11 +3874,11 @@
       "name": "Kular",
       "slug": "kular",
       "website": "https://www.kular.ai",
-      "description": "Hey! We're\u00a0Kular. We believe human salespeople will be replaced by AI, and we\u2019re working to build that future. \r\n\r\nOur growth rate has rocketed up (reach out for specific numbers). We're now hiring to keep up with demand.\r\n\r\nKular is being built by a team of MIT, IIT, Cambridge and Oxford grads, backed by some of the best investors in the world, including\u00a0Y-Combinator,\u00a0Entrepreneur First,\u00a0Acequia Capital and angel investors behind companies like\u00a0Ironclad,\u00a0OpenSea\u00a0and\u00a0Stripe.",
-      "one_liner": "Replacing 20 Million Salespeople With AI",
+      "description": "Kular is an AI Lead Generator, generating leads for busy professionals and business owners and only charging for results. Today, Kular generates leads for over 1000 companies via email and LinkedIn. \r\n\r\nKular is being built by a team of MIT, IIT, Cambridge and Oxford grads, backed by some of the best investors in the world, including\u00a0Y-Combinator,\u00a0Entrepreneur First,\u00a0Acequia Capital and angel investors behind companies like\u00a0Ironclad,\u00a0OpenSea\u00a0and\u00a0Stripe.",
+      "one_liner": "AI Lead Generator",
       "batch": "W22",
       "status": "Active",
-      "team_size": 19,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -3892,10 +3892,12 @@
       "locations": "London, England, United Kingdom",
       "tags": [
         "SaaS",
-        "B2B"
+        "B2B",
+        "Marketing",
+        "Advertising"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1647346997.0,
@@ -9577,7 +9579,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1645652403.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3304eb7be6e1ef3c98fcc797f946b15b44191759.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0f71dda3502bef2323fa4a11bd6c434154ddec8.png"
     },
     {
       "id": 25397,
@@ -9772,11 +9774,11 @@
       ],
       "locations": "Los Angeles, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Virtual Reality",
         "Consumer",
         "Gaming",
-        "Social"
+        "Social",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13821,5 +13823,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-04-15T18:01:25.533061"
+  "fetched_at": "2025-04-16T00:02:51.732805"
 }

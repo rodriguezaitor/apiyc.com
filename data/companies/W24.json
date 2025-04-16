@@ -986,7 +986,7 @@
       "locations": "Columbus, OH, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1707967345.0,
@@ -1749,8 +1749,8 @@
       "name": "Aqua Voice",
       "slug": "aqua-voice",
       "website": "https://withaqua.com",
-      "description": "Aqua is a voice-driven text editor. It lets you speak naturally, like to a person, and writes down what you meant in the format you want.",
-      "one_liner": "Voice-only text editor",
+      "description": "Super fast AI dictation that lets you talk into any text field -- Cursor, Gmail, Slack, even your terminal. It starts up in under 50ms, inserts text as fast as 450ms, and has state-of-the-art accuracy. Write 4x faster anywhere with Aqua. \ud83c\udf0a",
+      "one_liner": "Talk into any text box",
       "batch": "W24",
       "status": "Active",
       "team_size": 3,
@@ -1766,9 +1766,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Documents",
-        "Artificial Intelligence",
         "Generative AI",
-        "NLP"
+        "NLP",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3253,11 +3253,11 @@
       "name": "Clarum",
       "slug": "clarum",
       "website": "https://clarum.ai",
-      "description": "Clarum helps private equity firms conduct faster, more reliable, and cost-efficient due diligence with AI. Using Clarum, firms can upload documents from their data rooms to extract information, identify red flags and answer due diligence questionnaires.\r\n\r\nWe're firm believers that technology can transform the private capital markets by providing investors with the tools needed to fully utilize the entirety of their private internal data.",
-      "one_liner": "AI-powered investment due diligence",
+      "description": "Clarum is an investment due diligence and research platform designed for private equity investors. It connects directly to a firm\u2019s data sources, structures key financial metrics and deal terms, and performs analysis with AI across Excel, Word, and PowerPoint\u2014mirroring the approach of an associate conducting due diligence.\r\n\r\nClarum is trusted by private equity firms, family offices, venture capital groups, and consulting teams. We automate major parts of the diligence workflow, enabling faster insights and better risk coverage.",
+      "one_liner": "Investment Due Diligence & Research, Accelerated by AI.",
       "batch": "W24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -3281,7 +3281,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710174596.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9632c672fafcba36febc02ec7261562181e948b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc2ed50c351a4eb724c9e053ca8e70692efc862a.png"
     },
     {
       "id": 29394,
@@ -8266,5 +8266,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-15T18:01:27.642769"
+  "fetched_at": "2025-04-16T00:02:53.444856"
 }

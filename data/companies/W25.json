@@ -653,7 +653,7 @@
       "name": "Paratus Health",
       "slug": "paratus-health",
       "website": "https://paratushealth.com/",
-      "description": "Paratus Health is an AI voice intake nurse that automates pre-appointment patient interviews, saving doctors time and improving accuracy. By conducting dynamic symptom assessments before the visit, it delivers a structured summary, helping doctors walk in prepared, reducing missed diagnoses, and increasing clinic efficiency. Designed to replace inefficient forms and costly intake nurses, Paratus Health turns wasted waiting time into better care and higher ROI for providers.",
+      "description": "Paratus Health began as an AI voice intake nurse that automates pre-appointment patient interviews, saving doctors time and improving clinical accuracy. By conducting dynamic symptom assessments before the visit, it generates structured summaries that help doctors walk in prepared, reducing missed diagnoses and boosting clinic efficiency. Now, we're expanding the platform into AI agents for end-to-end care delivery, automating the most costly and repetitive manual labor across the patient journey. From intake to post-visit follow-up, Paratus Health transforms wasted time into better care, higher ROI, and a scalable solution for modern healthcare.",
       "one_liner": "AI-powered intake nurse",
       "batch": "W25",
       "status": "Active",
@@ -669,7 +669,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739954707.0,
@@ -2009,17 +2009,10 @@
         "Government"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "GovTech",
-        "Construction",
-        "Climate",
-        "Transportation"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3732,13 +3725,10 @@
         "Energy"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Fusion Energy"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3958,8 +3948,8 @@
       "name": "Sublingual",
       "slug": "sublingual",
       "website": "https://sublingual.ai/",
-      "description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
-      "one_liner": "LLM Observability with zero changes to your code",
+      "description": "Our desktop app helps teams stay focused on shipping.",
+      "one_liner": "Daily productivity tracker",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -3974,17 +3964,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740613527.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaa07742bdd32e6b3e7d2318a753289e334055.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     },
     {
       "id": 30215,
@@ -5147,11 +5137,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "API",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5425,5 +5415,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-04-15T18:01:30.096028"
+  "fetched_at": "2025-04-16T00:02:55.412354"
 }
