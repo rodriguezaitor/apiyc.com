@@ -580,8 +580,8 @@
       "name": "Wattson Health",
       "slug": "wattson-health",
       "website": "https://www.wattsonhealth.com",
-      "description": "Medication errors cost the healthcare industry $40 billion each year, the largest contributor being the manual processes employed by pharmacies. Wattson Health's automation platform integrates with pharmacies' existing systems and enables them to fill prescriptions error-free in a matter of seconds vs. hours or even days.",
-      "one_liner": "Software for pharmacies to manage RXs and automate manual workflows",
+      "description": "Wattson Health\u2019s AI agents connect with customers over the phone and SMS. Give us your busiest tasks and we\u2019ll train our agents to take them off your hands.",
+      "one_liner": "AI Voice and SMS Agents for Healthcare",
       "batch": "S23",
       "status": "Active",
       "team_size": 3,
@@ -596,9 +596,15 @@
         "Partly Remote"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Healthcare",
+        "Healthcare IT",
+        "AI Assistant"
+      ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690480394.0,
@@ -7341,5 +7347,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-16T12:01:27.540781"
+  "fetched_at": "2025-04-16T18:01:09.917398"
 }

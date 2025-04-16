@@ -3208,17 +3208,10 @@
         "Real Estate and Construction"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Documents",
-        "Generative AI",
-        "GovTech",
-        "Construction",
-        "Proptech"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5563,7 +5556,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717027194.0,
@@ -7330,7 +7323,7 @@
       "one_liner": "AI-Powered Worldwide exam-prep platform",
       "batch": "S24",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "Education",
       "subindustry": "Education",
       "industries": [
@@ -7344,9 +7337,9 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Education",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8391,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-16T12:01:27.326214"
+  "fetched_at": "2025-04-16T18:01:09.685021"
 }

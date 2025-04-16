@@ -3114,8 +3114,8 @@
       "name": "Adni",
       "slug": "adni",
       "website": "https://www.adni.co/",
-      "description": "Adni is solving the healthcare workforce crisis with our AI-powered healthcare recruiting and retention platform. Through our professional network of 100,000+ healthcare workers and AI-powered talent experience software, employers who use Adni hire healthcare workers 2x faster and retain them 2x longer \u2013 all 4x cheaper than alternatives. In short, Adni is Rippling for healthcare recruiting & retention.",
-      "one_liner": "AI-powered healthcare recruiting & retention platform",
+      "description": "Adni is the first all-in-one digital platform for healthcare workers to manage their careers. With Adni, healthcare workers can find jobs, buy gear, trade advice with peers, chat with career coaches, review education, store credentials, and earn rewards all in one AI-powered super app.\r\n\r\nLeading healthcare organizations, such as UT Medical Center, Fusion Medical Staffing, CoreMedical Group, Uniti Med, PRN Healthcare, and Navi Nurses, partner with Adni to recruit, reward, and retain top-quality healthcare talent through our professional network and white-labeled talent experience software.",
+      "one_liner": "The digital home for healthcare workers",
       "batch": "S21",
       "status": "Active",
       "team_size": 5,
@@ -8203,7 +8203,7 @@
         "Messaging"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628234333.0,
@@ -13429,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-16T12:01:27.140045"
+  "fetched_at": "2025-04-16T18:01:09.498248"
 }
