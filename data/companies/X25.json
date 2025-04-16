@@ -37,7 +37,7 @@
       "id": 30549,
       "name": "Airweave",
       "slug": "airweave",
-      "website": "https://github.com/airweave-ai/airweave",
+      "website": "https://airweave.ai",
       "description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
       "one_liner": "Turn Apps Into Accessible Knowledge For Agents",
       "batch": "X25",
@@ -54,11 +54,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Open Source",
         "Search",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -326,6 +326,39 @@
       "is_top_company": false,
       "launched_at": 1744600545.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e82c30aef880fc2de0dcc3a8d72fd7f8d8cd03bd.png"
+    },
+    {
+      "id": 30497,
+      "name": "Human Behavior",
+      "slug": "human-behavior",
+      "website": "https://www.humanbehavior.co/",
+      "description": "Human Behavior uses vision models to watch all sessions, extracting behavior patterns that lead to revenue & retention. We sell to product teams at high growth startups like Delve (W24), and Context.",
+      "one_liner": "We reveal why users stay, leave, or pay",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Fintech -> Credit and Lending",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Customer Success",
+        "Market Research",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744779271.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ee4a82d8c7b2f47ddbde81a8a5fdf634227e73.png"
     },
     {
       "id": 30474,
@@ -715,5 +748,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-16T00:03:00.549917"
+  "fetched_at": "2025-04-16T06:01:11.411462"
 }
