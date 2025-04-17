@@ -270,7 +270,7 @@
       "slug": "klavis-ai-2",
       "website": "https://www.klavis.ai/",
       "description": "Build an open source Model Context Protocol (MCP) platform & SDK that simplifies using, creating, and scaling MCPs.",
-      "one_liner": "Open source infra making MCPs easy to use, build and scale.",
+      "one_liner": "Open source MCP clients and Servers",
       "batch": "X25",
       "status": "Active",
       "team_size": 2,
@@ -280,11 +280,12 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -338,7 +339,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Fintech -> Credit and Lending",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -492,6 +493,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png"
     },
     {
+      "id": 30426,
+      "name": "Approval AI",
+      "slug": "approval-ai",
+      "website": "https://getapproval.ai",
+      "description": "Approval AI is an AI-powered mortgage co-pilot that automates the most complex parts of getting a mortgage: rate shopping, negotiation, and paperwork, all in one place. We automate what brokers and loan officers do, and hand those tools directly to the buyer.",
+      "one_liner": "AI that shops your mortgage, negotiates it, and wins",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Consumer"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744861920.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e03bf91580d0265ba53d615ffca014e6017c8053.png"
+    },
+    {
       "id": 30425,
       "name": "Auctor",
       "slug": "auctor",
@@ -626,8 +660,8 @@
       "name": "Avallon AI",
       "slug": "avallon-ai",
       "website": "https://www.avallon.ai/",
-      "description": "Avallon automates car and freight insurance claims operations from first notice to subrogation. Voice agents handle the claim intake and repair shop outreach, supported by a web app with an AI copilot to handle the rest of the workflow. Adjusters become significantly more productive, resolving claims up to 10x faster at just 10% of the traditional cost.",
-      "one_liner": "Automate car and freight insurance claims with AI agents ",
+      "description": "Avallon turns complex call operations into automated resolutions, cutting costs and supercharging productivity with agentic workflows.",
+      "one_liner": "Voice agents for auto and freight",
       "batch": "X25",
       "status": "Active",
       "team_size": 3,
@@ -642,9 +676,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -781,5 +815,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-17T00:02:57.001606"
+  "fetched_at": "2025-04-17T06:01:14.891761"
 }
