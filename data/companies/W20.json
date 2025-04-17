@@ -4536,43 +4536,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdd0d51a51c1c725d1102b217d8d58c41b1ed138.png"
     },
     {
-      "id": 13096,
-      "name": "Enveloop",
-      "slug": "enveloop",
-      "website": "http://www.enveloop.com",
-      "description": "A developer-focused message builder and API that makes it easy to send emails and texts from your app using one simple implementation. We\u2019re doing for mailer libraries what Prisma does for ORMs. ",
-      "one_liner": "Design and send messages from your app with a simple API.",
-      "batch": "W20",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Birmingham, AL, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B",
-        "Messaging",
-        "Analytics"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1584224696.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66b70377a1145619cac5a7e482214e104c46e92.png"
-    },
-    {
       "id": 13088,
       "name": "Polytomic",
       "slug": "polytomic",
@@ -7568,6 +7531,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a0fc5851264cf61cfefec4e6301d365980a500e.png"
     },
     {
+      "id": 13096,
+      "name": "Enveloop",
+      "slug": "enveloop",
+      "website": "http://www.enveloop.com",
+      "description": "A developer-focused message builder and API that makes it easy to send emails and texts from your app using one simple implementation. We\u2019re doing for mailer libraries what Prisma does for ORMs. ",
+      "one_liner": "Design and send messages from your app with a simple API.",
+      "batch": "W20",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Birmingham, AL, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B",
+        "Messaging",
+        "Analytics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1584224696.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66b70377a1145619cac5a7e482214e104c46e92.png"
+    },
+    {
       "id": 13087,
       "name": "RoboTire",
       "slug": "robotire",
@@ -7758,5 +7758,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-17T12:01:32.873146"
+  "fetched_at": "2025-04-17T18:01:12.700977"
 }
