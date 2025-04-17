@@ -461,6 +461,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc74e71b1f792bb7e067be2feda82c554eaef27a.png"
     },
     {
+      "id": 30452,
+      "name": "Better Auth",
+      "slug": "better-auth",
+      "website": "https://better-auth.com/",
+      "description": "Better Auth is a framework-agnostic authentication framework and infrastructure for TypeScript. It provides a comprehensive set of features out of the box and includes a plugin ecosystem that simplifies adding advanced functionalities. Whether you need 2FA, multi-tenancy, multi-session support, or even enterprise features like SSO, it lets you focus on building your application instead of reinventing the wheel. And when you're ready to scale, Better Auth's infrastructure layer offers built-in solutions for user management, security monitoring, transactional messaging, and abuse prevention.",
+      "one_liner": "The most comprehensive authentication framework for TypeScript.",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Developer Tools",
+        "Security",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744888506.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png"
+    },
+    {
       "id": 30431,
       "name": "Chonkie",
       "slug": "chonkie",
@@ -815,5 +848,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-17T06:01:14.891761"
+  "fetched_at": "2025-04-17T12:01:33.808102"
 }
