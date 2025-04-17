@@ -427,6 +427,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca320740e24bfef8157d47ca2f7700eff6b263b8.png"
     },
     {
+      "id": 30456,
+      "name": "Tinfoil",
+      "slug": "tinfoil",
+      "website": "https://tinfoil.sh",
+      "description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe\u2019ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don\u2019t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA\u2019s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil\u2019s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don\u2019t log your queries.\u201d Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user \u2014 not even by Tinfoil or the cloud provider it\u2019s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating \u201cGod in a box\u201d, we are putting God in a blackbox, so Satan can\u2019t spy.",
+      "one_liner": "Confidential AI with the privacy of on-prem but runs on the cloud",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Security",
+        "Cryptography"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744845895.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc74e71b1f792bb7e067be2feda82c554eaef27a.png"
+    },
+    {
       "id": 30431,
       "name": "Chonkie",
       "slug": "chonkie",
@@ -748,5 +781,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-16T18:01:10.754096"
+  "fetched_at": "2025-04-17T00:02:57.001606"
 }

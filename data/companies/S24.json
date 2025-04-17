@@ -3213,7 +3213,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717067157.0,
@@ -6215,8 +6215,8 @@
       "name": "Aviary",
       "slug": "aviary",
       "website": "https://aviary.video",
-      "description": "Aviary is an AI video understanding company. Our developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
-      "one_liner": "AI Video Intelligence",
+      "description": "Aviary is an AI video understanding company. Our CloudGlue (https://cloudglue.dev) developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
+      "one_liner": "Video Understanding for LLMs",
       "batch": "S24",
       "status": "Active",
       "team_size": 3,
@@ -6243,7 +6243,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723146818.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f547267372801c061053d2cd2d1b95dd34a2670f.png"
     },
     {
       "id": 29663,
@@ -6702,7 +6702,7 @@
       "id": 29646,
       "name": "Corgi",
       "slug": "corgi",
-      "website": "https://secret.corgi.insure",
+      "website": "https://corgi.insure",
       "description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We\u2019re taking it all.",
       "one_liner": "Corgi is building an AI insurance company",
       "batch": "S24",
@@ -6720,9 +6720,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8384,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-16T18:01:09.685021"
+  "fetched_at": "2025-04-17T00:02:47.931907"
 }

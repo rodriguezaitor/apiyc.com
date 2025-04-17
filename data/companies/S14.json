@@ -343,11 +343,11 @@
       "name": "Hive",
       "slug": "hive",
       "website": "http://www.hive.co",
-      "description": "Hive is an email & SMS marketing CRM used by brands to personalize and automate their campaigns. We pride ourselves on helping brands understand their email marketing, all while selling more and keeping their customers engaged.\r\n\r\nWe integrate with tech partners like Shopify and Eventbrite to let brands act on all their data, so they can easily segment their list in thousands of ways, and send more customized, timely email campaigns that land in inboxes.",
-      "one_liner": "Email and SMS marketing platform",
+      "description": "Hive is the industry-best marketing platform for event marketers. Our platform powers marketing for 1500+ of the most iconic event, festivals,  venues, promoters, and event-centric brands across North America.\r\n\r\nWe help our clients sell out their shows and make their events unforgettable - by helping them grow their customer base and personalizing and automating their email, SMS, and ad campaigns.\r\n\r\nHive integrates with 25+ partners like Ticketmaster and Shopify, ingesting rich customer data in real-time. With this data, event marketers can segment their audiences in powerful ways and send timely, customized messages to their customers. ",
+      "one_liner": "Marketing automation for event promoters (email, sms, ads, CRM)",
       "batch": "S14",
       "status": "Active",
-      "team_size": 40,
+      "team_size": 65,
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
@@ -363,15 +363,16 @@
       "locations": "Kitchener, ON, Canada; Remote",
       "tags": [
         "SaaS",
+        "CRM",
         "SMS",
         "Email"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1398908070.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/badfb865d3956c905328a893ade1fc0f2253e57b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/73d61e1d2cf23166fc40148ac368fe95c3fb3ed1.png"
     },
     {
       "id": 711,
@@ -2616,5 +2617,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b608533ba4dfdf9610d953d7d6faf8b3a2d29638.png"
     }
   ],
-  "fetched_at": "2025-04-16T18:01:10.498168"
+  "fetched_at": "2025-04-17T00:02:54.180773"
 }
