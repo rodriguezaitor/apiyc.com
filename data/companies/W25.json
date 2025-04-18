@@ -1337,8 +1337,8 @@
       "name": "AfterQuery",
       "slug": "afterquery",
       "website": "https://afterquery.com",
-      "description": "We empower foundational AI labs, enterprises, and startups by providing high-quality human-generated datasets that are essential for fine-tuning more capable, refined, and reliable AI systems. \r\n\r\nOur thesis is that truly exceptional model performance requires the highest quality human training data.\r\n \r\nTo solve for this, we are building a platform to onboard experts in various fields to work on custom datasets. Think of the working professionals at top firms and the smartest students in various subjects (PhDs). Then, whenever our clients have a request for a certain type of data, we will construct and lead a team to produce: fine-tuning data, RLHF data, benchmarks, etc.\r\n\r\nWe\u2019ve already started in finance, illustrating the importance of high-quality data in our paper posted here: https://arxiv.org/abs/2501.18062.\r\n",
-      "one_liner": "High-quality AI starts with high-quality human data",
+      "description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
+      "one_liner": "Research lab investigating the boundaries of AI capabilities.",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -5407,5 +5407,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-04-18T06:01:09.535798"
+  "fetched_at": "2025-04-18T12:01:30.235572"
 }
