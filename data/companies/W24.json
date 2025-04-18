@@ -33,7 +33,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708029636.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed866a0e050a4d9f6c6aeb931483100a8fcbbb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f88ce8a06e4b29451c4cd523deb4f547635bed.png"
     },
     {
       "id": 29527,
@@ -3985,11 +3985,11 @@
       "name": "Astro Mechanica",
       "slug": "astro-mechanica",
       "website": "https://astromecha.co/",
-      "description": "Astro Mechanica has invented a new kind of jet engine \u2013 the Electric Adaptive Engine. Unlike any existing engine, it\u2019s efficient at every speed. Because it\u2019s efficient at every speed, it enables us to build a new jet aircraft with unique capabilities. It can launch payloads to orbit for 3x cheaper or fly 3x faster than regular passenger aircraft.",
-      "one_liner": "New jet engines for the new Jet Age.",
+      "description": "Astro Mechanica is reinventing supersonic aircraft by innovating on engine, airframe, and systems that industry hasn\u2019t in over 50 years. Our electric combined cycle engine, Duality, is the world\u2019s first jet engine that's engineered for efficiency from takeoff to Mach 3+. This new propulsion technology enables the delivery of people and payloads anywhere on Earth in just hours, laying the foundation for a new operational paradigm: an affordable point-to-point global travel network that will make on-demand, high-speed air transport the new standard of travel.",
+      "one_liner": "Supersonics for the new Jet Age",
       "batch": "W24",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 19,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -3997,9 +3997,10 @@
         "Aviation and Space"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -4267,8 +4268,8 @@
       "name": "Open",
       "slug": "open",
       "website": "https://open.cx",
-      "description": "Open.cx is an AI-powered, all-in-one customer support and communication platform designed for enterprises and high-growth businesses.\r\n",
-      "one_liner": "Enterprise AI customer support ecosystem.",
+      "description": "Open is an AI-powered, all-in-one customer support and communication platform \u2014 used in production by Print.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe\u2019re a research-based company currently working on releasing Support-Bench, the world\u2019s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
+      "one_liner": "Enterprise AI customer support",
       "batch": "W24",
       "status": "Active",
       "team_size": 6,
@@ -8266,5 +8267,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-17T18:01:11.886687"
+  "fetched_at": "2025-04-18T00:02:50.149897"
 }

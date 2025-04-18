@@ -5292,7 +5292,7 @@
         "Enterprise"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1624988056.0,
@@ -7196,8 +7196,8 @@
       "name": "Hilos",
       "slug": "quid",
       "website": "https://hilos.io",
-      "description": "Hilos allows startups and SMBs to run their entire business on WhatsApp, without code. We focus specifically on letting businesses build apps within WhatsApp that integrate with other systems (CRMs, Databases, Payment providers, etc.).\r\n\r\nCompanies can use Hilos to allow their customers to run self serve processes like tracking the status of a package, generating payment links, creating an invoice on demand, or anything else you can dream up.",
-      "one_liner": "Zapier for WhatsApp.",
+      "description": "Platform for WhatsApp API that allows you Profile leads, automate follow-ups and integrate with your favorite tools to increase conversion.\r\n\r\nHilos allows startups and SMBs to run their entire business on WhatsApp, without code. We focus specifically on letting businesses build apps within WhatsApp that integrate with other systems (CRMs, Databases, Payment providers, etc.).",
+      "one_liner": "Close and activate your customers on WhatsApp",
       "batch": "S21",
       "status": "Active",
       "team_size": 5,
@@ -7225,7 +7225,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628792250.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0204cd23d4b9a6c1ba79573cff7cb08ffd66ac7e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e12060432546be212b6fccb6641d81cb777072e1.png"
     },
     {
       "id": 24195,
@@ -13429,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-17T18:01:10.114061"
+  "fetched_at": "2025-04-18T00:02:48.713353"
 }
