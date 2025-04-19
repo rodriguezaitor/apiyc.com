@@ -3909,14 +3909,14 @@
     },
     {
       "id": 29751,
-      "name": "Octopipe",
-      "slug": "octopipe",
-      "website": "https://octopipe.com",
+      "name": "Opslane",
+      "slug": "opslane",
+      "website": "https://opslane.com",
       "description": "Octopipe is ETL reimagined powered by AI that changes how companies create, maintain and scale data pipelines.",
       "one_liner": "Build Scalable Data Pipelines in minutes not months",
       "batch": "S24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -3929,18 +3929,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Enterprise",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721925789.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe89d9da806b8a9af0112caeea9a7d059ee090aa.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93b9323bb2d6146f1e9e67bf29441615e86a467.png"
     },
     {
       "id": 29750,
@@ -5567,7 +5567,7 @@
       "name": "Kenley",
       "slug": "kenley",
       "website": "https://kenley.ai/",
-      "description": "Kenley is an AI-powered workspace for consulting firms.\r\n\r\nWith Kenley, firms can use their institutional knowledge to power critical workflows\u2014from drafting proposal decks to scaling due diligence research\u2014so consultants can focus on excellence.\r\n\r\n\r\n*AnswerGrid, Inc. doing business as Kenley\r\n\r\n\r\n\r\n\u2e3b\r\nKenley was founded by Bolu Ben-Adeola and Noah Ohrner. \r\n\r\nBolu Ben-Adeola graduated from the University of Lagos, worked at Bloomberg, and was previously a tech lead at Palantir, where he helped expand the $45M partnership with Hyundai Heavy Industries.\r\n\r\nNoah Ohrner graduated from the University of Cambridge and was previously a tech lead on Foundry Security at Palantir.",
+      "description": "Kenley is an AI-powered workspace for consulting firms.\r\n\r\nWith Kenley, firms can use their institutional knowledge to power critical workflows\u2014from drafting proposal decks to scaling due diligence research\u2014so consultants can focus on excellence.\r\n\r\n\r\n*AnswerGrid, Inc. doing business as Kenley\r\n\r\n\r\n\r\n\u2e3b\r\nKenley was founded by Bolu Ben-Adeola and Noah Ohrner. \r\n\r\nBolu is the Co-Founder and CEO of Kenley. Before Kenley, he built ML infrastructure for the fixed-income markets at Bloomberg and led teams at Palantir, South Korea, tackling problems in heavy industry manufacturing.\r\n\r\nNoah is the Co-Founder and CTO of Kenley. Before Kenley, he graduated with a first class degree from the University of Cambridge and was a tech lead on Foundry Security at Palantir.",
       "one_liner": "AI for Consulting",
       "batch": "S24",
       "status": "Active",
@@ -5584,9 +5584,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Productivity",
-        "AI"
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8384,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-19T12:01:25.500645"
+  "fetched_at": "2025-04-19T18:01:11.338243"
 }
