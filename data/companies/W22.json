@@ -7439,11 +7439,11 @@
       "name": "Dart",
       "slug": "dart",
       "website": "https://itsdart.com",
-      "description": "Dart is a fully-featured project management tool that uses AI to assist with roadmap planning, report generation, breaking tasks into subtasks, duplicate detection, and executing on basic writing and design tasks. Teams use Dart in order to plan better and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work.",
-      "one_liner": "The ultimate AI project management tool",
+      "description": "Dart is a fully-featured project management tool that uses AI to assist with roadmap planning, report generation, breaking tasks into subtasks, duplicate detection, and executing on writing and design tasks. Teams use Dart in order to chat with their tasks, plan better, and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work.",
+      "one_liner": "The only truly AI-native project management tool",
       "batch": "W22",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -7456,7 +7456,7 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Redwood City, CA, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "Generative AI",
@@ -7465,7 +7465,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1646780324.0,
@@ -13823,5 +13823,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-04-19T00:02:34.889072"
+  "fetched_at": "2025-04-19T06:00:57.549898"
 }

@@ -318,7 +318,8 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -853,6 +854,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc383861067e52763d4fc791adef3e3fa4e6164d.png"
     },
     {
+      "id": 30400,
+      "name": "Plexe",
+      "slug": "plexe",
+      "website": "https://plexe.ai",
+      "description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
+      "one_liner": "Open-source MLE agent that builds AI from problem description",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Machine Learning",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745031118.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png"
+    },
+    {
       "id": 30399,
       "name": "Frekil",
       "slug": "frekil",
@@ -949,5 +983,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-19T00:02:36.138631"
+  "fetched_at": "2025-04-19T06:01:08.569160"
 }
