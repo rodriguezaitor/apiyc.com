@@ -54,18 +54,18 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Open Source",
         "Search",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744594621.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/973b8e0eeb1c5161841d44605b2c44034a0c5202.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png"
     },
     {
       "id": 30547,
@@ -265,6 +265,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png"
     },
     {
+      "id": 30511,
+      "name": "Vassar Robotics",
+      "slug": "vassar-robotics",
+      "website": "https://www.vassarrobotics.com",
+      "description": "",
+      "one_liner": "Adaptive Automation That's Useful Today",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Consumer Electronics",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Cambridge, MA, USA",
+      "tags": [
+        "Machine Learning",
+        "Robotics",
+        "Consumer"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745005061.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png"
+    },
+    {
       "id": 30506,
       "name": "Klavis AI",
       "slug": "klavis-ai-2",
@@ -433,7 +466,7 @@
       "slug": "tinfoil",
       "website": "https://tinfoil.sh",
       "description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe\u2019ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don\u2019t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA\u2019s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil\u2019s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don\u2019t log your queries.\u201d Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user \u2014 not even by Tinfoil or the cloud provider it\u2019s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating \u201cGod in a box\u201d, we are putting God in a blackbox, so Satan can\u2019t spy.",
-      "one_liner": "Confidential AI with the privacy of on-prem but runs on the cloud",
+      "one_liner": "AI that runs on the cloud with the privacy of on-prem",
       "batch": "X25",
       "status": "Active",
       "team_size": 4,
@@ -492,6 +525,40 @@
       "is_top_company": false,
       "launched_at": 1744888506.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png"
+    },
+    {
+      "id": 30448,
+      "name": "PgDog",
+      "slug": "pgdog",
+      "website": "https://pgdog.dev",
+      "description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
+      "one_liner": "Scale PostgreSQL with automatic sharding.",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Database Sharding",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745009582.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e611bab66e36c7b14163abfaf0665e260a2ac3e2.png"
     },
     {
       "id": 30431,
@@ -882,5 +949,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-18T18:01:07.367496"
+  "fetched_at": "2025-04-19T00:02:36.138631"
 }
