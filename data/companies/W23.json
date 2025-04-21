@@ -4372,38 +4372,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c45a8c4b15289c3172e10baab22e5b061b400e76.png"
     },
     {
-      "id": 27899,
-      "name": "GoodCourse",
-      "slug": "goodcourse",
-      "website": "https://www.goodcourse.co",
-      "description": "GoodCourse is the TikTok-style corporate learning platform achieving 10x better completion rates, training employees on topics like compliance and inclusion.",
-      "one_liner": "The TikTok style corporate training platform",
-      "batch": "W23",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "London, England, United Kingdom",
-      "tags": [
-        "eLearning"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1669845357.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9c215571177dfa178d439924a339c97899b894a.png"
-    },
-    {
       "id": 27898,
       "name": "Forfeit",
       "slug": "forfeit",
@@ -8984,6 +8952,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2234eb7e6f24362b194ad8921038406c8824499.png"
     },
     {
+      "id": 27899,
+      "name": "GoodCourse",
+      "slug": "goodcourse",
+      "website": "https://www.goodcourse.co",
+      "description": "GoodCourse is the TikTok-style corporate learning platform achieving 10x better completion rates, training employees on topics like compliance and inclusion.",
+      "one_liner": "The TikTok style corporate training platform",
+      "batch": "W23",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "eLearning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1669845357.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9c215571177dfa178d439924a339c97899b894a.png"
+    },
+    {
       "id": 27879,
       "name": "Choppy!",
       "slug": "choppy",
@@ -9360,5 +9360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-04-21T12:01:33.028073"
+  "fetched_at": "2025-04-21T18:01:01.750360"
 }

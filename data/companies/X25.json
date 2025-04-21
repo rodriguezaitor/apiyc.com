@@ -917,6 +917,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4b717bddf685ac3a5f54298f79381c741a52c3.png"
     },
     {
+      "id": 30407,
+      "name": "Authed",
+      "slug": "authed",
+      "website": "https://getauthed.dev/",
+      "description": "Authed is a managed platform for hosting production-ready MCP servers. We provide authentication, multi-tenancy, monitoring, and infrastructure under your domain. Companies use Authed to deploy MCP servers without managing their own stack.",
+      "one_liner": "Production-ready MCP servers for companies",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Developer Tools",
+        "Infrastructure",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745255607.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f019ea3e5b31661f2216e607cfc9e4ec375b482a.png"
+    },
+    {
       "id": 30405,
       "name": "nao Labs",
       "slug": "nao-labs",
@@ -1080,5 +1112,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-21T12:01:40.786799"
+  "fetched_at": "2025-04-21T18:01:09.110335"
 }
