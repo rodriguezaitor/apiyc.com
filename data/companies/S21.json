@@ -6992,7 +6992,7 @@
       "name": "Hyperbrowser",
       "slug": "hyperbrowser",
       "website": "https://hyperbrowser.ai",
-      "description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale.",
+      "description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale. We're backed by YC, Accel, SV Angel, and others.",
       "one_liner": "Web infrastructure for AI agents",
       "batch": "S21",
       "status": "Active",
@@ -7005,16 +7005,18 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628188883.0,
@@ -13429,5 +13431,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-21T00:03:03.582172"
+  "fetched_at": "2025-04-21T06:01:26.778212"
 }

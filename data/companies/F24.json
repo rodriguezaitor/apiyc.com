@@ -410,7 +410,7 @@
       "name": "Melder",
       "slug": "melder",
       "website": "https://melder.io",
-      "description": "Melder is a spreadsheet tool that has AI functions and data representations at its core. Upload files directly to cells, use functions like =GEN, and build automations directly from the workbook.\r\n\r\nWe make it easy for business users to uncover insights in their documents, automate away their emails, and even deploy simple AI chatbots.\r\n\r\n'Excel' is the backbone that codifies structured data business logic today, we're taking that UX to the unstructured data world.",
+      "description": "Melder is an Excel add-in that brings AI functions and document support into your spreadsheets. Upload files directly into cells, use smart formulas like =GEN, and build automations\u2014all without leaving Excel.\r\n\r\nCore features:\r\n- File-to-Sheet: Drop PDFs directly into cells, then reference them in formulas.\r\n- AI-Powered Functions: Write formulas like =GEN() or =EXTRACT() to summarize, classify, and analyze content.\r\n- Chat Assistant: Use our AI assistant to help build your sheets or answer questions from your data, live in the workbook.\r\n\r\nBusiness users use Melder to:\r\n- Accelerate diligence by extracting insights from data rooms\r\n- Review contracts by identifying key terms and clauses instantly\r\n- Run market research by pulling information from competitor websites\r\n- Synthesize transcripts by generating summaries from interviews and calls\r\n\r\nMelder brings the power of structured spreadsheet logic to the messy, unstructured data world\u2014no coding needed.",
       "one_liner": "Automate analysis and biz processes w/ an AI native spreadsheet",
       "batch": "F24",
       "status": "Active",
@@ -419,7 +419,7 @@
       "subindustry": "Unspecified",
       "industries": [
         "B2B",
-        "Operations"
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -436,7 +436,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731437113.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5832049d683d7ac2b36d197af04433cc3bf4bb4d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78670a3e0cef588e19eb8b9dd11bc151ceac64fa.png"
     },
     {
       "id": 30112,
@@ -2184,7 +2184,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1728616885.0,
@@ -3113,5 +3113,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-04-21T00:03:04.455666"
+  "fetched_at": "2025-04-21T06:01:27.754652"
 }
