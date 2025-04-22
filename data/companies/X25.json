@@ -430,6 +430,72 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ee4a82d8c7b2f47ddbde81a8a5fdf634227e73.png"
     },
     {
+      "id": 30492,
+      "name": "Prism AI",
+      "slug": "prism-ai",
+      "website": "https://prismreplay.com",
+      "description": "",
+      "one_liner": "We use AI to watch your session recordings and tell you what to fix",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Design",
+        "Web Development"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745261196.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png"
+    },
+    {
+      "id": 30475,
+      "name": "Morphik",
+      "slug": "morphik",
+      "website": "https://morphik.ai",
+      "description": "Morphik is an open-source multimodal end to end RAG service. Developers use Morphik to ingest any data, create knowledge graphs, and retrieve relevant information from private data.",
+      "one_liner": "Open-source RAG alternative for building AI apps over multimodal\u2026",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Open Source",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745265466.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png"
+    },
+    {
       "id": 30474,
       "name": "RunRL",
       "slug": "runrl",
@@ -1050,6 +1116,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png"
     },
     {
+      "id": 30366,
+      "name": "Blaxel",
+      "slug": "blaxel",
+      "website": "https://blaxel.ai",
+      "description": "Blaxel is a cloud infrastructure to power AI agents. Our platform gives AI companies the toolbox and infrastructure to build and deploy agents efficiently. \r\n\r\nBillions of agents, tools, and models will transform how we work in the coming years. Traditional cloud providers weren't designed to handle them\u2014their one-size-fits-all architecture holds them back. We fixed that with Blaxel.\r\n\r\nWhat is it? A complete computing platform with:\r\n\r\n- all services for developers to fast-track deploying agents without reinventing the wheel \u2014 like framework-agnostic serverless deployments, an AI gateway for model routing and fallback, and custom MCP server hosting.\r\n- a flexible low-level API for builders to ship really performant agentic AI using our backbone infrastructure \u2014 using services like sandboxed VMs usable by agents, a programmable global gateway, and a 20ms-latency serverless compute engine.\r\n- and a seamless developper experience that integrates with their CI/CD, and APIs that can even be consumed by agents themselves!",
+      "one_liner": "AWS for AI Agents",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745276338.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png"
+    },
+    {
       "id": 30191,
       "name": "Partcl",
       "slug": "partcl",
@@ -1112,5 +1209,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-21T18:01:09.110335"
+  "fetched_at": "2025-04-22T00:02:47.585013"
 }

@@ -6212,11 +6212,11 @@
     },
     {
       "id": 29665,
-      "name": "Aviary",
-      "slug": "aviary",
-      "website": "https://aviary.video",
-      "description": "Aviary is an AI video understanding company. Our CloudGlue (https://cloudglue.dev) developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
-      "one_liner": "Video Understanding for LLMs",
+      "name": "CloudGlue",
+      "slug": "cloudglue",
+      "website": "https://cloudglue.dev",
+      "description": "CloudGlue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
+      "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
       "batch": "S24",
       "status": "Active",
       "team_size": 3,
@@ -6233,17 +6233,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Machine Learning",
-        "Video"
+        "Video",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723146818.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f547267372801c061053d2cd2d1b95dd34a2670f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cbea025a1fb985cf8f25752f73092b699c52b2.png"
     },
     {
       "id": 29663,
@@ -8384,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-21T18:01:02.087025"
+  "fetched_at": "2025-04-22T00:02:46.662168"
 }

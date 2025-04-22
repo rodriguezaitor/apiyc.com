@@ -3324,7 +3324,7 @@
       "slug": "attain",
       "website": "https://joinattain.com/",
       "description": "Attain is a one-stop shop for convenience store owners to buy inventory across all their suppliers with higher reliability, price transparency, and product discovery.\r\n\r\nOn average, store owners buy products from over 10-15 different suppliers each week. This painful process involves shopping in massive warehouses or spending hours working with wholesaler\u2019s sales representatives (who sometimes don\u2019t even show up). As a result, stores waste countless hours ordering products through extremely inefficient and tedious processes. These store owners are also severely impacted by inventory shortages and revenue loss which many times results in them downsizing their business or shutting them down completely.\r\n\r\nAttain solves this problem by providing a single app to purchase products across all of their suppliers, resulting in a one-stop shop for inventory. By aggregating inventory across a multitude of suppliers and wholesalers, Attain helps stores save significant time and money while allowing them to focus on what they do best - growing their businesses.\r\n\r\nFeel free to reach out at founders@joinattain.com!",
-      "one_liner": "One-Stop Shop for Convenience Store Inventory",
+      "one_liner": "Operating System for Food Distributors",
       "batch": "W22",
       "status": "Active",
       "team_size": 5,
@@ -4808,8 +4808,8 @@
       "name": "Hydra",
       "slug": "hydra",
       "website": "https://hydra.so",
-      "description": "Hydra is Postgres with serverless online analytical processing (OLAP). It is designed for low-latency applications built on time series and event data.\r\n\r\nHydra is available for both local development and a cloud offering which provides every project a managed Postgres database, serverless analytical processing, and bottomless storage.",
-      "one_liner": "Serverless realtime analytics on Postgres",
+      "description": "Hydra is a real-time analytics database management system for Postgres. We seperate compute from storage to offer software engineers serverless analytics with autoscale, write isolation, automatic caching, and more.\r\n\r\nShipping scalable projects on time series and event data has never been easier. Hydra is available for local development, cloud, and bare metal deployment.",
+      "one_liner": "Serverless analytics on Postgres",
       "batch": "W22",
       "status": "Active",
       "team_size": 6,
@@ -13823,5 +13823,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-04-21T18:01:00.721989"
+  "fetched_at": "2025-04-22T00:02:46.411990"
 }

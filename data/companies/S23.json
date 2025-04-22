@@ -3460,7 +3460,7 @@
       "one_liner": "Natively connect any app to your SSO.",
       "batch": "S23",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -4802,7 +4802,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687833550.0,
@@ -5001,19 +5001,18 @@
     },
     {
       "id": 28841,
-      "name": "SuperCraft",
-      "slug": "supercraft",
-      "website": "https://supercraft.ai",
-      "description": "SuperCraft lets anyone create professional designs with natural language\r\n\r\nJoin thousands of designers using SuperCraft to craft compelling visual narratives via on-brand creatives, packaging, product design, architectural design, gaming and more",
-      "one_liner": "Figma for designing physical products",
+      "name": "Ponder",
+      "slug": "ponder",
+      "website": "https://useponder.ai",
+      "description": "Ponder lets users talk with your application just like they would with a human\r\n\r\nIn one line of code, add ultra-realistic voice assistants that can interact with your UI and assist users in getting things done",
+      "one_liner": "Add Voice to your UX in a single line of code",
       "batch": "S23",
       "status": "Active",
       "team_size": 1,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -5022,16 +5021,16 @@
       "locations": "New York, NY, USA",
       "tags": [
         "Artificial Intelligence",
-        "Generative AI",
+        "B2B",
         "Productivity",
-        "Design Tools"
+        "Conversational AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688534176.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png"
     },
     {
       "id": 28839,
@@ -7345,5 +7344,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-21T18:01:03.343339"
+  "fetched_at": "2025-04-22T00:02:46.868607"
 }
