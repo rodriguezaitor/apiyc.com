@@ -5337,7 +5337,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708630326.0,
@@ -5997,7 +5997,7 @@
       "id": 29293,
       "name": "SuretyNow",
       "slug": "suretynow",
-      "website": "https://www.suretynow.com/",
+      "website": "https://suretynow.com/",
       "description": "Surety bonds are financial guarantees that businesses must purchase to comply with government regulations. For example, all contractors must have a surety bond to bid and work on federal construction projects. It is a $8b opportunity in the US. \r\n\r\nSuretyNow is building the surety bond platform for the 21st century. Businesses can apply for bonds and receive affordable quotes online in minutes. We offer the fastest and simplest online experience for getting surety bonds.",
       "one_liner": "The Modern Surety Bond Platform",
       "batch": "W24",
@@ -6346,8 +6346,8 @@
       "name": "Carousel Technologies",
       "slug": "carousel-technologies",
       "website": "https://usecarousel.com",
-      "description": "We help investment bankers & consultants prepare materials faster & with fewer errors.\r\n\r\n\r\nCarousel is a PowerPoint plugin carrying a suite of tools designed to help junior professionals save time while putting together decks. \r\n\r\n\r\nOur first tool brought a supercharged version of Word's \"Track Changes\" to PowerPoint so deal teams could quickly review each other's work, speeding up the feedback loop of giving and turning comments by 10x.\r\n\r\n\r\nOur second tool uses computer vision to populate charts and tables in PowerPoint based on Excel data, as well as extract table data from PDFs into Excel with two clicks.\r\n\r\n\r\nWe've got many more features on the way that build out a complete toolbelt, including an AI copilot for PowerPoint that can handle complex, multi-step tasks, outperforming Microsoft's native copilot.",
-      "one_liner": "Professional AI toolkit for PowerPoint",
+      "description": "Carousel is an AI assistant for Excel that builds spreadsheets & models in minutes, not hours.\r\n\r\nCarousel can:\r\n\r\n- Create & edit Excel models of any complexity, including but not limited to: multi-statement financial models with several tabs, FP&A templates based on raw revenue and cost data, scientific data analyses, and more\r\n\r\n- Take in data from PDFs, CSVs, presentations, and images, and build the data into your Excel directly\r\n\r\n- Walk you through complex spreadsheet architecture and each cell's precedents and dependents\r\n\r\n- Format your models tastefully & professionally\r\n\r\n- Build chart dashboards to visualize your data\r\n\r\nIt's more useful than the last intern you hired.",
+      "one_liner": "Cursor for Excel",
       "batch": "W24",
       "status": "Active",
       "team_size": 3,
@@ -8267,5 +8267,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-22T12:01:34.295172"
+  "fetched_at": "2025-04-22T18:01:27.191260"
 }

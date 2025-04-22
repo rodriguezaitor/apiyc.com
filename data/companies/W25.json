@@ -4074,9 +4074,9 @@
       "id": 30212,
       "name": "superglue",
       "slug": "superglue",
-      "website": "https://superglue.cloud/",
-      "description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-      "one_liner": "Self-healing data connector",
+      "website": "https://superglue.ai/",
+      "description": "superglue is an integration agent. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, engineers can prompt superglue and let it handle the entire integration process automatically.",
+      "one_liner": "Self-healing integration agent",
       "batch": "W25",
       "status": "Active",
       "team_size": 2,
@@ -4092,10 +4092,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "API",
-        "AI"
+        "API"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5369,5 +5369,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-04-22T12:01:34.853424"
+  "fetched_at": "2025-04-22T18:01:28.975597"
 }

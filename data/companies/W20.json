@@ -575,8 +575,8 @@
       "name": "Living Carbon",
       "slug": "living-carbon",
       "website": "https://www.livingcarbon.com",
-      "description": "Public benefit company on a mission to fight climate change by genetically enhancing CO2 capture and storage in plants.",
-      "one_liner": "Plants that capture and store more carbon.",
+      "description": "transforming degraded land into high quality environmental assets using end to end operational expertise and precision breeding.",
+      "one_liner": "maximizing biomass on low quality land",
       "batch": "W20",
       "status": "Active",
       "team_size": 40,
@@ -592,7 +592,7 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Charleston, SC, USA; Hayward, CA, USA",
+      "locations": "Charleston, SC, USA",
       "tags": [
         "Synthetic Biology",
         "Biotech",
@@ -1719,7 +1719,7 @@
       "tags": [
         "Health Insurance"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2691,40 +2691,6 @@
       "is_top_company": false,
       "launched_at": 1584378175.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f79c64748e8ca287044d5404bd732aca67d76689.png"
-    },
-    {
-      "id": 13302,
-      "name": "Nimbus",
-      "slug": "nimbus",
-      "website": "http://www.nimbus.green",
-      "description": "",
-      "one_liner": "Tesla for city dwellers ",
-      "batch": "W20",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Automotive",
-      "industries": [
-        "Industrials",
-        "Automotive"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Ann Arbor, MI, USA",
-      "tags": [
-        "Mobility",
-        "Electric Vehicles"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1584062118.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f0f6120a4f5d5eec591fab3383980fccd539e54.png"
     },
     {
       "id": 13290,
@@ -6622,6 +6588,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c9e3624c4042da711e44a7963b397f112fdb69d.png"
     },
     {
+      "id": 13302,
+      "name": "Nimbus",
+      "slug": "nimbus",
+      "website": "http://www.nimbus.green",
+      "description": "",
+      "one_liner": "Tesla for city dwellers ",
+      "batch": "W20",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Automotive",
+      "industries": [
+        "Industrials",
+        "Automotive"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Ann Arbor, MI, USA",
+      "tags": [
+        "Mobility",
+        "Electric Vehicles"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1584062118.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f0f6120a4f5d5eec591fab3383980fccd539e54.png"
+    },
+    {
       "id": 13227,
       "name": "Welcome",
       "slug": "welcome",
@@ -7758,5 +7758,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-22T12:01:34.473427"
+  "fetched_at": "2025-04-22T18:01:27.729314"
 }

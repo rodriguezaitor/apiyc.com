@@ -6126,8 +6126,8 @@
       "name": "Proxis",
       "slug": "proxis",
       "website": "https://www.proxis.ai/",
-      "description": "Proxis is the first dedicated platform for LLM distillation and serving, unlocking production ready models at 1/10th the cost.\r\n\r\nFine-tuning frontier models like GPT-4 on proprietary data is expensive, and locks customers into one external closed source model provider. \r\n\r\nTo solve this, enterprise AI teams can use Proxis to distill state-of-the-art Llama 405b into an efficient model tuned on their own data, which is 5x faster and 10x cheaper than closed source alternatives.",
-      "one_liner": "The developer platform for LLM distillation and serving.",
+      "description": "Proxis is the AI automation platform\u00a0built for enterprises.\r\n\r\nProxis is creating AI email agents that empower brands and enterprise teams in the creator economy to close deals automatically. Think: your inbox, on autopilot.\r\n\r\nWe initially fine tuned and distilled LLMs for enterprise use\u2014and quickly realized that companies need more than just smarter models. They need full-stack automation. So Proxis built AI agents that handle the tedious, time-consuming work\u2014everything from autonomous sales closers to\u00a0customer service agents.\r\n\r\nThe mission is bold: to build the world\u2019s most capable team of AI agents for every enterprise. Proxis imagines a future where a single founder can run a billion-dollar company\u2014backed by a custom-built army of agents. Proxis is rethinking how agents are built, trained, and deployed from the ground up.",
+      "one_liner": "The platform for enterprise AI agent automations, starting with email.",
       "batch": "S24",
       "status": "Active",
       "team_size": 1,
@@ -6143,11 +6143,11 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725054386.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/986238fcd885c5d40b8767f600f089dc3fcdeeaf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcc340375de4daf5b1c88ae21362b6088561665c.png"
     },
     {
       "id": 29667,
@@ -8384,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-22T12:01:34.199016"
+  "fetched_at": "2025-04-22T18:01:26.904102"
 }
