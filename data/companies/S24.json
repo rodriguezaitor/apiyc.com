@@ -785,7 +785,7 @@
       "one_liner": "Technology for cities to automate and manage their traffic lights.",
       "batch": "S24",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 3,
       "industry": "Government",
       "subindustry": "Government",
       "industries": [
@@ -1367,7 +1367,7 @@
       "name": "Oway",
       "slug": "oway",
       "website": "https://www.shipoway.com",
-      "description": "Oway is a rideshare freight platform that uses machine learning to automatically coordinate and sell unused space in trucks to businesses from enterprise to SMB at a 50% discount for lightning-fast shipping. \r\n\r\nEvery year, nearly 50% all truck space goes unused annually in the almost $1T US trucking industry. On the other hand, SMBs represent 44% of the US GDP and are historically forced to deal with high freight rates and friction due to their small size compared to enterprise businesses. \r\n\r\nWith trucking being a hyper-fragmented market (90%+ of US trucking companies are small family businesses), we decided to build an ecosystem that takes all of this inefficiency and turns it into something that could fundamentally transform the livelihoods of businesses and drivers alike.\r\n\r\nOway is designed to be simple (you can place an order in 15 seconds) and scale with your business. Our ML rideshare protocol now allows businesses to ship freight affordably and faster than ever before. We also improve the survivability of independent truckers by maximizing their revenue when they\u2019re already on the road - and it\u2019s great for the environment too. \ud83c\udf43",
+      "description": "Oway is a rideshare freight platform that uses machine learning to automatically coordinate and sell unused space in trucks to businesses at a 50% discount for lightning-fast shipping. It's a $100B dollar-problem in the US alone - and every year up to 50% of the truck space in the country goes empty.\r\n\r\nWith trucking being a hyper-fragmented market (90%+ of US trucking companies are small family businesses), we decided to build an ecosystem that takes all of this inefficiency and turns it into something that could fundamentally transform the livelihoods of businesses and carriers alike. For carriers, integrating Oway can immediately increase annual revenues by up to 30% with almost no impact to existing delivery schedules.\r\n\r\nIn a technical sense, Oway applies stochastic spread optimization and real-time liquidity modeling to dynamically price freight shipments, effectively functioning as a decentralized market maker optimizing expected value across variable supply constraints. We wrap all of this under a beautiful, simple package for both businesses and carriers - allowing anyone to reap the benefits of rideshare freight shipping with the click of a button.",
       "one_liner": "Ridesharing freight with ML to cut pallet shipping costs by 50%",
       "batch": "S24",
       "status": "Active",
@@ -5636,7 +5636,7 @@
       "one_liner": "Building the world\u2019s first AI mechanical engineer.",
       "batch": "S24",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -8384,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-22T18:01:26.904102"
+  "fetched_at": "2025-04-23T00:02:46.769459"
 }

@@ -8587,19 +8587,19 @@
     },
     {
       "id": 24130,
-      "name": "Vansec",
-      "slug": "vansec",
-      "website": "https://www.vansec.com",
-      "description": "Spear phishing simulation & security awareness training powered by AI.",
-      "one_liner": "Spear phishing simulation & security training platform",
+      "name": "Aldermate",
+      "slug": "aldermate",
+      "website": "https://www.aldermate.com",
+      "description": "AI phone companion for the elderly that calls our loved ones every day, starting with daily check-ins and medication reminders.",
+      "one_liner": "AI phone companion for the elderly",
       "batch": "S21",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Healthcare",
       "subindustry": "B2B -> Security",
       "industries": [
-        "B2B",
-        "Security"
+        "Healthcare",
+        "Consumer Health and Wellness"
       ],
       "regions": [
         "United States of America",
@@ -8607,19 +8607,19 @@
         "Remote",
         "Fully Remote"
       ],
-      "locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+      "locations": "New York, NY, USA; Remote",
       "tags": [
-        "SaaS",
-        "B2B",
-        "Compliance",
-        "Security"
+        "Assistive Tech",
+        "Consumer Health Services",
+        "Health Tech",
+        "Telehealth"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628792922.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/142e7d9a7037ec6be23b5c45adb0a60c3bca33a6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3587b55b33a72212a09aa768973297af3f0c7422.png"
     },
     {
       "id": 24129,
@@ -13431,5 +13431,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-22T18:01:25.958079"
+  "fetched_at": "2025-04-23T00:02:46.604008"
 }

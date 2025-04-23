@@ -3896,41 +3896,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54f6fccc5aacf88b46483ea7bf6cb22f5728b09d.png"
     },
     {
-      "id": 26811,
-      "name": "Payload",
-      "slug": "payload",
-      "website": "https://payloadcms.com",
-      "description": "Payload is a developer-first headless CMS and application framework built to finally give developers a better choice in the world of CMS. From documentation to design, Payload is crafted from the ground-up to save engineers time and effort while building the backend and admin panel for websites, native apps, ecommerce, SaaS, and any other product that needs to manage content. Payload is changing the CMS status quo\u2014working to give developers the tools they want to build the CMS they need, all in clean and well-structured code.\r\n\r\nLearn more at https://payloadcms.com.",
-      "one_liner": "Developer-First Headless CMS and Application Framework",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Grand Rapids, MI, USA",
-      "tags": [
-        "Developer Tools",
-        "Open Source",
-        "API"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1652737017.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f0a550c10525505849576c534b00a71c9d71c7e.png"
-    },
-    {
       "id": 26810,
       "name": "Ten Lives",
       "slug": "ten-lives",
@@ -7155,6 +7120,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea767a408cc57b55584c2042808e466cf2c64d6.png"
     },
     {
+      "id": 26811,
+      "name": "Payload",
+      "slug": "payload",
+      "website": "https://payloadcms.com",
+      "description": "Payload is a developer-first headless CMS and application framework built to finally give developers a better choice in the world of CMS. From documentation to design, Payload is crafted from the ground-up to save engineers time and effort while building the backend and admin panel for websites, native apps, ecommerce, SaaS, and any other product that needs to manage content. Payload is changing the CMS status quo\u2014working to give developers the tools they want to build the CMS they need, all in clean and well-structured code.\r\n\r\nLearn more at https://payloadcms.com.",
+      "one_liner": "Developer-First Headless CMS and Application Framework",
+      "batch": "S22",
+      "status": "Acquired",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Grand Rapids, MI, USA",
+      "tags": [
+        "Developer Tools",
+        "Open Source",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1652737017.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f0a550c10525505849576c534b00a71c9d71c7e.png"
+    },
+    {
       "id": 26764,
       "name": "Tranch",
       "slug": "tranch",
@@ -8129,5 +8129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-04-22T18:01:27.475231"
+  "fetched_at": "2025-04-23T00:02:46.870981"
 }
