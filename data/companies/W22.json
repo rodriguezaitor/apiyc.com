@@ -4833,7 +4833,7 @@
         "Data Engineering"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1642199733.0,
@@ -10171,8 +10171,8 @@
       "name": "Stably",
       "slug": "stably",
       "website": "https://www.stably.ai",
-      "description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. \r\n\r\nTesting for mobile is coming soon. ",
-      "one_liner": "AI agent that does QA testing. Runnable in your CI.",
+      "description": "Our AI explores your web and mobile apps, generates comprehensive Playwright test scripts, and adapts to changes on the fly. \r\n\r\nStably has helped hundreds of product teams ship fast without breaking things. ",
+      "one_liner": "AI agent for QA testing. Runnable in your CI.",
       "batch": "W22",
       "status": "Active",
       "team_size": 7,
@@ -13823,5 +13823,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-04-23T12:01:27.741372"
+  "fetched_at": "2025-04-23T18:01:05.972342"
 }

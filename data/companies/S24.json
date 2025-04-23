@@ -4967,7 +4967,7 @@
       "one_liner": "AI agent for Accounts Receivable",
       "batch": "S24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -4980,9 +4980,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6617,14 +6617,14 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hard Tech",
         "Hardware",
         "Climate",
-        "Aerospace"
+        "Aerospace",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720630564.0,
@@ -6635,11 +6635,11 @@
       "name": "Wordware",
       "slug": "wordware",
       "website": "https://wordware.ai/",
-      "description": "1. Collaborative IDE for Building AI Agents \r\n2. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling.\r\n3. We also support forking, API deployment and sharing as a hosted app.\r\n\r\nWe have 300,000 users, and many companies paying us between 199 and 10k per month.",
-      "one_liner": "IDE to develop, iterate and deploy AI Agents",
+      "description": "we make AI app development as simple as writing a document. if you can explain your application in words then you can build it with wordware.\r\n\r\nour natural language editor is enhanced with powerful features from the world of programming; conditional statements, loops, functions, multi-agent communication. you can build and test AI flows instantly, see results in real-time, iterate fast, deploy in a single click. no code required!\r\n\r\nwith access to every public AI model and thousands of API integrations, you can design truly context-aware AI applications and agents. wordware takes the transformative power of AI, connects it with the tools you already use, and builds it seamlessly into your life and work.",
+      "one_liner": "bringing structure and joy to human-AI collaboration",
       "batch": "S24",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -6653,16 +6653,16 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1715713232.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c770777f9cd85b3f3274575fc6698227327bddb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png"
     },
     {
       "id": 29647,
@@ -8384,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-23T12:01:28.007962"
+  "fetched_at": "2025-04-23T18:01:07.571888"
 }

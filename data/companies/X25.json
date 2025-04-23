@@ -760,6 +760,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3734c453d08702b53dd8dd51421a3aed7b3f135c.png"
     },
     {
+      "id": 30434,
+      "name": "Zeon Systems",
+      "slug": "zeon-systems",
+      "website": "https://www.zeonsystems.ai/",
+      "description": "We\u2019re building AI-powered systems that automate manual work in scientific labs using affordable robotics.\r\n\r\nScientists simply type their experiment in plain English. Zeon translates it into code and runs it on robotic arms (no coding required).\r\n\r\nBy controlling robots with natural language, we\u2019re enabling automation for every lab, every experiment.\r\n\r\nZeon is lab-aware. It detects equipment, adapts to protocols, and moves autonomously between instruments to execute full workflows.\r\n\r\nWe\u2019re already working with labs at Stanford and UCSF to accelerate discovery - from running overnight nanoparticle fluorescence measurements to safely disposing of hundreds of bacterial samples. \r\n\r\nZeon reclaims time for what matters most: the science.",
+      "one_liner": "AI-powered robotics for scientific lab automation.",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
+      "industries": [
+        "Healthcare",
+        "Industrial Bio"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Robotic Process Automation",
+        "Robotics",
+        "Automation",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745428848.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/39b20c4ccd69fa61ce8dea7f922cf3381efd5f08.png"
+    },
+    {
       "id": 30431,
       "name": "Chonkie",
       "slug": "chonkie",
@@ -1310,5 +1344,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-23T12:01:29.092522"
+  "fetched_at": "2025-04-23T18:01:15.504665"
 }
