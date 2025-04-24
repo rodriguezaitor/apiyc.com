@@ -6121,40 +6121,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1e96da71d2efe84210a071b8537ded2d55b5835.png"
     },
     {
-      "id": 13526,
-      "name": "LabGrid",
-      "slug": "labgrid",
-      "website": "https://www.labgrid.com",
-      "description": "LabGrid makes browser-first tools for biotech. We enable high-throughput science by tracking workflows and data records in-browser, helping teams work faster and more collaboratively.",
-      "one_liner": "Collaborative software for high-throughput biotech",
-      "batch": "W20",
-      "status": "Inactive",
-      "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare IT",
-      "industries": [
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Berkeley, CA, USA; Remote",
-      "tags": [
-        "Health Tech",
-        "Biotech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1583899934.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/22b1b44028df6bd5920131eae2140598b3e45e71.png"
-    },
-    {
       "id": 13496,
       "name": "Apartio",
       "slug": "apartio",
@@ -7758,5 +7724,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-24T00:02:41.517371"
+  "fetched_at": "2025-04-24T06:01:23.930029"
 }

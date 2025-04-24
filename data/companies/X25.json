@@ -930,8 +930,8 @@
       "name": "SynthioLabs",
       "slug": "synthiolabs",
       "website": "https://synthiolabs.com/",
-      "description": "SynthioLabs is building AI teammates for pharma. Our first teammate, Nexa, is an AI Medical Reviewer that helps Pharma Med Directors review marketing materials faster, with fewer errors, and at significantly lower cost. Nexa is an expert on FDA guidelines, therapeutic area literature, and your brand strategy \u2014 and can autonomously review content 24/7.\r\n\r\nWe\u2019re McKinsey and ZS alums. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in life sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! \r\n",
-      "one_liner": "AI Teammates for Pharma Medical and Commercial teams",
+      "description": "SynthioLabs is building AI-Native teams for pharma. Our first AI teammate, Nexa, is an autonomous Medical Expert that engages physicians with compliant, credible, and personalized conversations \u2014 24/7. It supports field teams, scales scientific exchange, and ensures every HCP gets the right message at the right time.\r\n\r\nNexa understands your brand, your data, and the latest clinical evidence \u2014 and turns it into real-time physician engagement.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholder \u2014 physicians.\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! \r\n",
+      "one_liner": "World's first AI Medical Rep for Pharma GTM",
       "batch": "X25",
       "status": "Active",
       "team_size": 0,
@@ -1223,8 +1223,8 @@
       "name": "Frekil",
       "slug": "frekil",
       "website": "https://www.frekil.com",
-      "description": "AI is transforming healthcare, but the biggest bottleneck remains\u2014annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 5x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
-      "one_liner": "AI-Powered Medical Annotation Software",
+      "description": "AI is transforming healthcare, but the biggest bottleneck remains\u2014procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 5x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
+      "one_liner": "Scale AI for Medical Scans",
       "batch": "X25",
       "status": "Active",
       "team_size": 2,
@@ -1239,11 +1239,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Data Labeling"
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1379,5 +1379,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-24T00:02:47.242980"
+  "fetched_at": "2025-04-24T06:01:30.495849"
 }
