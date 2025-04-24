@@ -798,7 +798,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724363826.0,
@@ -4781,7 +4781,7 @@
       "one_liner": "Qualitative Research Conducted and Analyzed by AI",
       "batch": "S24",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 13,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -6692,7 +6692,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716914094.0,
@@ -8384,5 +8384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-23T18:01:07.571888"
+  "fetched_at": "2025-04-24T00:02:40.546102"
 }

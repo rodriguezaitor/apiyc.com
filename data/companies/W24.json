@@ -3951,11 +3951,11 @@
     },
     {
       "id": 29370,
-      "name": "Browser Buddy",
-      "slug": "browser-buddy",
-      "website": "https://www.browserbuddy.com/",
-      "description": "Discover the best blogs and essays on the internet.",
-      "one_liner": "Internet \"for-you\" page",
+      "name": "People Net",
+      "slug": "people-net",
+      "website": "https://www.thepeoplenet.com/",
+      "description": "Building the people net. ",
+      "one_liner": "AI People Search",
       "batch": "W24",
       "status": "Active",
       "team_size": 3,
@@ -3978,7 +3978,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701246038.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ca403ab52e6d3a92f9b0adab040b3513daa5bc8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce3fa5959a07ce0a3cf8a084ee5390a8f130e6ca.png"
     },
     {
       "id": 29369,
@@ -4765,7 +4765,7 @@
       "one_liner": "AI for customer support",
       "batch": "W24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -4778,10 +4778,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Customer Support",
         "Infrastructure",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -7673,10 +7673,10 @@
       "slug": "upsolve-ai",
       "website": "https://upsolve.ai/",
       "description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
-      "one_liner": "Customer-facing analytics as a service, powered by AI.",
+      "one_liner": "Embed GenBI in Your SaaS App",
       "batch": "W24",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -7689,11 +7689,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Analytics",
-        "Big Data",
-        "AI"
+        "Big Data"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8267,5 +8267,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-23T18:01:07.951573"
+  "fetched_at": "2025-04-24T00:02:40.896292"
 }
