@@ -7490,7 +7490,7 @@
       "one_liner": "Vanta for Hardware",
       "batch": "S24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7498,10 +7498,19 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Hardware",
+        "Robotics",
+        "Compliance",
+        "Enterprise"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8214,11 +8223,11 @@
       "name": "Fuse",
       "slug": "fuse-2",
       "website": "http://www.fuseinsight.com",
-      "description": "AI-powered analysis of healthcare contracts and payments to help providers detect underpayments, compare their negotiated rates, and identify opportunities to boost revenue from insurers. \r\n\r\nIf you know senior finance execs in health systems, partners in healthcare PE, or mid to large sized healthcare practice owners, please do connect us. We won\u2019t waste their time: +1 628 468 3232.",
-      "one_liner": "Boosting contracted revenue for US healthcare providers",
+      "description": "AI-powered intake, eligibility and benefits verification for US healthcare providers to free up admin time, improve the patient billing experience, and reduce denied claims. \r\n\r\nIf you know senior finance execs in health systems, partners in healthcare PE, or senior leaders in medical groups, please do connect us. We won\u2019t waste their time: +1 628 468 3232.",
+      "one_liner": "AI helpers for patient intake and benefits checks",
       "batch": "S24",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -8228,15 +8237,15 @@
         "United Kingdom",
         "Europe",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "London, England, United Kingdom; Remote",
+      "locations": "London, England, United Kingdom",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8384,5 +8393,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-24T12:01:39.145700"
+  "fetched_at": "2025-04-24T18:01:10.235397"
 }
