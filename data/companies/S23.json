@@ -5775,19 +5775,11 @@
         "Healthcare"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Compliance",
-        "Healthcare",
-        "Health Insurance",
-        "Regtech",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -7344,5 +7336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-25T06:01:26.690309"
+  "fetched_at": "2025-04-25T12:01:31.737442"
 }

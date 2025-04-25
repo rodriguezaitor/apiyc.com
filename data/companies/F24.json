@@ -3019,8 +3019,8 @@
       "name": "Andoria",
       "slug": "andoria",
       "website": "https://andoria.ai/",
-      "description": "No more brittle RPAs \u2013 Andoria is the most intuitive platform for enterprises to build intelligent process automations for any manual and repetitive tasks. Unlike traditional RPA that easily breaks, Andoria can handle unstructured data, complex decision-making, and adapt to software changes.",
-      "one_liner": "Automate any manual and repetitive tasks on the web",
+      "description": "Andoria is building AI for internal and customer training and onboarding.",
+      "one_liner": "AI onboarding and training",
       "batch": "F24",
       "status": "Active",
       "team_size": 2,
@@ -3028,7 +3028,7 @@
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Finance and Accounting"
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -3036,10 +3036,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Enterprise",
-        "AI",
-        "ML"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3114,5 +3113,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
     }
   ],
-  "fetched_at": "2025-04-25T06:01:29.840696"
+  "fetched_at": "2025-04-25T12:01:35.205559"
 }
