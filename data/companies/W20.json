@@ -2383,11 +2383,11 @@
       "name": "Skypher",
       "slug": "skypher",
       "website": "https://skypher.co",
-      "description": "Skypher makes security reviews easy for software companies.\r\n\r\n",
-      "one_liner": "Cybersecurity compliance cockpit",
+      "description": "Skypher is an AI agent platform that automates your security/privacy/ddq/esg compliance questionnaires response process making it 10x faster. We save dozens of hours for @Deel, @Retool or Adobe's engineering, sales, customer success, and security leaders on security questionnaires and speed up their sales cycle by 20%. \r\n\r\nSkypher was launched in 2019 in San Francisco and is now the market leader in security questionnaires response automation with 200+ global customers worldwide across North America, Europe and India. We work with Fortune 500 companies such as Adobe, McKinsey & Company, TeamViewer or CMA CGM as well as fast growing tech companies like Deel, TCN or Retool. With a team of over 30 people across Europe and North America with global offices in New York and Paris.\r\n",
+      "one_liner": "AI agent for Compliance Questionnaires Automation",
       "batch": "W20",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -2396,16 +2396,17 @@
       ],
       "regions": [
         "United States of America",
-        "France",
         "America / Canada",
-        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Paris, \u00cele-de-France, France",
+      "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
         "Compliance",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7724,5 +7725,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-24T18:01:11.528122"
+  "fetched_at": "2025-04-25T00:02:36.085417"
 }

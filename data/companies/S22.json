@@ -859,7 +859,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1658257873.0,
@@ -4479,7 +4479,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1657470086.0,
@@ -4625,43 +4625,6 @@
       "is_top_company": false,
       "launched_at": 1657829137.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1def1e618878c538c08d4635fb23a133ed14d476.png"
-    },
-    {
-      "id": 26770,
-      "name": "Bridgecard",
-      "slug": "bridgecard",
-      "website": "https://bridgecard.cards",
-      "description": "Bridgecard makes it easy for fintechs to issue MasterCard or Visa cards that work anywhere in the world. We provide easy-to-integrate APIs to issue virtual and physical cards and we can get you started in weeks instead of months.\r\n\r\nFor nearly three years, we\u2019ve supported Africa\u2019s top startups with stable, high-growth card solutions. Thanks to our stability, over 50% of our clients have grown their volumes by more than 5X within 6 months. Our commitment is to deliver great cards that work, provide reliable support, and unbeatable uptime so that your users can be satisfied.",
-      "one_liner": "Card issuer for Africa",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "regions": [
-        "Nigeria",
-        "Africa",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Lagos, LA, Nigeria",
-      "tags": [
-        "Banking as a Service",
-        "Fintech",
-        "Payments",
-        "B2B",
-        "API"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1660576632.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5e1b47cd7ecdbae56cbc14240cd9bee1aa76d22.png"
     },
     {
       "id": 26769,
@@ -7752,6 +7715,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e9598aadf454f0b2c80558c3295465a4baabbcc.png"
     },
     {
+      "id": 26770,
+      "name": "Bridgecard",
+      "slug": "bridgecard",
+      "website": "https://bridgecard.cards",
+      "description": "Bridgecard makes it easy for fintechs to issue MasterCard or Visa cards that work anywhere in the world. We provide easy-to-integrate APIs to issue virtual and physical cards and we can get you started in weeks instead of months.\r\n\r\nFor nearly three years, we\u2019ve supported Africa\u2019s top startups with stable, high-growth card solutions. Thanks to our stability, over 50% of our clients have grown their volumes by more than 5X within 6 months. Our commitment is to deliver great cards that work, provide reliable support, and unbeatable uptime so that your users can be satisfied.",
+      "one_liner": "Card issuer for Africa",
+      "batch": "S22",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "Nigeria",
+        "Africa",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Lagos, LA, Nigeria",
+      "tags": [
+        "Banking as a Service",
+        "Fintech",
+        "Payments",
+        "B2B",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1660576632.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5e1b47cd7ecdbae56cbc14240cd9bee1aa76d22.png"
+    },
+    {
       "id": 26738,
       "name": "Integration Labs",
       "slug": "integration-labs",
@@ -8129,5 +8129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-04-24T18:01:11.076010"
+  "fetched_at": "2025-04-25T00:02:35.747054"
 }
