@@ -5258,12 +5258,12 @@
       "id": 22880,
       "name": "True3D",
       "slug": "true3d",
-      "website": "https://www.quickvid.ai/",
-      "description": "True3D live streams sports in 3D to VR headsets. We\u2019re building the foundational models to let you sit courtside at the NBA Finals from your living room.",
+      "website": "",
+      "description": "True3D is bringing 3D videos to the world. Our foundational models and APIs let anyone create and watch HD\u00a03D video on any device. ",
       "one_liner": "3D videos for all",
       "batch": "W21",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "Consumer",
       "subindustry": "Consumer -> Content",
       "industries": [
@@ -5272,16 +5272,12 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Virtual Reality",
-        "Gaming",
         "Media",
-        "eSports",
+        "Infrastructure",
         "AI"
       ],
       "stage": "Early",
@@ -5289,7 +5285,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1614739771.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7087dd31fd7820822029a19a7aa2228106eed2d0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4b03b851bb9232b2e94c25c13366b7bb5c9948.png"
     },
     {
       "id": 22879,
@@ -6453,7 +6449,7 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Walnut Creek, CA, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Hardware",
         "Climate",
@@ -11544,5 +11540,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-04-25T12:01:29.746062"
+  "fetched_at": "2025-04-25T18:01:17.944221"
 }
