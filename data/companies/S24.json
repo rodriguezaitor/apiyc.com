@@ -2619,7 +2619,7 @@
         "Procurement"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717022864.0,
@@ -6707,7 +6707,7 @@
       "one_liner": "Corgi is building an AI insurance company",
       "batch": "S24",
       "status": "Active",
-      "team_size": 20,
+      "team_size": 23,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -6720,9 +6720,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8393,5 +8393,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-04-25T00:02:34.984767"
+  "fetched_at": "2025-04-25T06:01:25.581554"
 }

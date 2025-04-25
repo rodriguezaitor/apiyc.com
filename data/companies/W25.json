@@ -1751,40 +1751,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6e03dc3be9737df64c792b63e036b1c580cf.png"
     },
     {
-      "id": 30289,
-      "name": "Sherpa Labs",
-      "slug": "sherpa-labs",
-      "website": "https://www.sherpalabs.ai",
-      "description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes \u2014 similar to Glean but for enterprise data systems.",
-      "one_liner": "The AI Data Team",
-      "batch": "W25",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Data Science",
-        "Data Engineering",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1737526775.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png"
-    },
-    {
       "id": 30288,
       "name": "Harper",
       "slug": "harper",
@@ -2752,7 +2718,7 @@
       "slug": "gale",
       "website": "https://galevisa.com",
       "description": "Gale makes getting a visa suck less. We\u2019re disrupting the $10B immigration services market, starting with US H-1Bs. We've simplified the visa application process to a web form, streamlined compliance, and can integrate with HR systems - saving teams time, money and headaches. By using AI and automation we enable our lawyers to maintain quality but be 3x as efficient. This allows us to deliver a superior user experience, decrease costs and reduce visa turn-around times, giving us an advantage over traditional law firms.",
-      "one_liner": "AI Powered Immigration Law Firm",
+      "one_liner": "AI Powered Immigration Firm",
       "batch": "W25",
       "status": "Active",
       "team_size": 3,
@@ -2768,11 +2734,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Legal",
         "HR Tech",
-        "Immigration",
-        "AI"
+        "Immigration"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5396,5 +5362,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-04-25T00:02:37.718676"
+  "fetched_at": "2025-04-25T06:01:27.716075"
 }
