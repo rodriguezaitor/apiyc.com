@@ -2727,37 +2727,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaf4c723a5127555d28fa1155b199c0dbf47a7.png"
     },
     {
-      "id": 30028,
-      "name": "Gait",
-      "slug": "gait",
-      "website": "https://getgait.com",
-      "description": "Ever been confused by a block of AI-generated code? Gait is a Cursor and VS Code extension that will let you view the prompt that generated code. Continue off of your coworker's conversations, view analytics on your AI codegen use, and more!",
-      "one_liner": "Building Dev Infra for AI Software Engineers",
-      "batch": "F24",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1728969633.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
-    },
-    {
       "id": 30027,
       "name": "Durate",
       "slug": "durate",
@@ -3111,7 +3080,38 @@
       "is_top_company": false,
       "launched_at": 1732310413.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png"
+    },
+    {
+      "id": 30028,
+      "name": "Gait",
+      "slug": "gait",
+      "website": "https://getgait.com",
+      "description": "Ever been confused by a block of AI-generated code? Gait is a Cursor and VS Code extension that will let you view the prompt that generated code. Continue off of your coworker's conversations, view analytics on your AI codegen use, and more!",
+      "one_liner": "Building Dev Infra for AI Software Engineers",
+      "batch": "F24",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1728969633.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-04-26T00:02:44.469893"
+  "fetched_at": "2025-04-26T06:01:00.862520"
 }
