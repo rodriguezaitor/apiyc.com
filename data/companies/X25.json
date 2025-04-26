@@ -401,8 +401,8 @@
     },
     {
       "id": 30501,
-      "name": "Prophet",
-      "slug": "prophet",
+      "name": "Jazzberry",
+      "slug": "jazzberry",
       "website": "https://try-prophet.com/",
       "description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
       "one_liner": "Training LLMs to be expert software testers",
@@ -431,7 +431,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744600545.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e82c30aef880fc2de0dcc3a8d72fd7f8d8cd03bd.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb422923627099431b692c92ce3178789a0f50c0.png"
     },
     {
       "id": 30497,
@@ -852,6 +852,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Education",
         "Edtech"
       ],
@@ -1326,7 +1327,7 @@
       "name": "Frekil",
       "slug": "frekil",
       "website": "https://www.frekil.com",
-      "description": "AI is transforming healthcare, but the biggest bottleneck remains\u2014procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 5x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
+      "description": "AI is transforming healthcare, but the biggest bottleneck remains\u2014procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
       "one_liner": "Data Engine for Medical AI",
       "batch": "X25",
       "status": "Active",
@@ -1342,11 +1343,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Data Labeling"
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1482,5 +1483,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-25T18:01:28.391851"
+  "fetched_at": "2025-04-26T00:02:46.976458"
 }

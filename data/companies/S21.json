@@ -5370,10 +5370,10 @@
     },
     {
       "id": 24382,
-      "name": "Malloc",
-      "slug": "malloc",
+      "name": "Malloc Inc",
+      "slug": "malloc-inc",
       "website": "https://mallocprivacy.com/",
-      "description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts. ",
+      "description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc Privacy & Security VPN app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts. ",
       "one_liner": "AI-driven startup focused on mobile and app security.",
       "batch": "S21",
       "status": "Active",
@@ -5390,10 +5390,10 @@
       ],
       "locations": "Nicosia, Nicosia, Cyprus",
       "tags": [
-        "Machine Learning",
-        "SaaS",
         "Consumer",
-        "Security"
+        "Security",
+        "Privacy",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8660,7 +8660,7 @@
       "name": "MobileBoost",
       "slug": "mobileboost",
       "website": "https://www.mobileboost.io/yc",
-      "description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Etsy and Wise.\r\n\r\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/\r\n",
+      "description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Salesforce and Groupon.\r\n\r\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/\r\n",
       "one_liner": "AI native mobile testing.",
       "batch": "S21",
       "status": "Active",
@@ -13431,5 +13431,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-04-25T18:01:17.444443"
+  "fetched_at": "2025-04-26T00:02:37.874446"
 }

@@ -3950,14 +3950,14 @@
     },
     {
       "id": 21784,
-      "name": "Blue Onion Labs",
-      "slug": "blue-onion-labs",
-      "website": "https://www.blueonionlabs.com",
-      "description": "We integrate via API across a company\u2019s stack to trace and reconcile millions of financial transactions across multiple systems, providing the functionality of a legacy ERP system without the time and cost of a traditional implementation. ",
-      "one_liner": "Single source of truth for a company's financial data",
+      "name": "Blue Onion",
+      "slug": "blue-onion",
+      "website": "https://www.blueonion.ai/",
+      "description": "Blue Onion is the data backbone for tomorrow\u2019s AI-powered finance teams \u2014 a subledger platform that transforms messy, scattered transactions into clean, reconciled, and automation-ready data. ",
+      "one_liner": "Financial data layer for AI-powered finance and accounting",
       "batch": "S20",
       "status": "Active",
-      "team_size": 20,
+      "team_size": 27,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -3972,6 +3972,7 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Finance"
       ],
@@ -3980,7 +3981,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1597935729.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c69787e1912b6cf8d4d0231d384d65fe8c2568e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ade6715edaa57cf94e8649919bf33b3022c27458.png"
     },
     {
       "id": 21782,
@@ -7129,5 +7130,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-04-25T18:01:20.935117"
+  "fetched_at": "2025-04-26T00:02:40.775351"
 }
