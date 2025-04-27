@@ -431,7 +431,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744600545.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb422923627099431b692c92ce3178789a0f50c0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/500608c97fc38d9c97178a407494b3d552eb8b54.png"
     },
     {
       "id": 30497,
@@ -516,18 +516,12 @@
         "Sales"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Sales",
-        "Automation"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745521572.0,
@@ -1034,7 +1028,7 @@
       "name": "SynthioLabs",
       "slug": "synthiolabs",
       "website": "https://synthiolabs.com/",
-      "description": "SynthioLabs is building AI-Native teams for pharma. Our first AI teammate, Nexa, is an autonomous Medical Expert that engages physicians with compliant, credible, and personalized conversations \u2014 24/7. It supports field teams, scales scientific exchange, and ensures every HCP gets the right message at the right time.\r\n\r\nNexa understands your brand, your data, and the latest clinical evidence \u2014 and turns it into real-time physician engagement.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholder \u2014 physicians.\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! \r\n",
+      "description": "SynthioLabs is building AI-Native teams for pharma. Our first AI teammate, Nexa, is an autonomous Medical Expert that engages physicians with compliant, credible, and personalized conversations \u2014 24/7. It supports field teams, scales scientific exchange, and ensures every HCP gets the right message at the right time.\r\n\r\nNexa understands your brand, your data, and the latest clinical evidence \u2014 and turns it into real-time physician engagement.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholder \u2014 patients and HCPs\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! \r\n",
       "one_liner": "World's first AI Medical Rep for Pharma GTM",
       "batch": "X25",
       "status": "Active",
@@ -1483,5 +1477,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-27T00:03:21.790925"
+  "fetched_at": "2025-04-27T06:01:22.198834"
 }

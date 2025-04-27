@@ -3052,11 +3052,11 @@
     },
     {
       "id": 29401,
-      "name": "dawn",
-      "slug": "dawn",
-      "website": "https://www.dawnai.com/",
-      "description": "Monitor your AI app the right way. \r\n\r\nAI engineers use Dawn to discover anomalies, set up tracking, and curate datasets from real user interactions.",
-      "one_liner": "Sentry for AI products.",
+      "name": "Raindrop",
+      "slug": "raindrop",
+      "website": "https://www.raindrop.ai",
+      "description": "Monitor your AI app the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI products.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
+      "one_liner": "Sentry for AI products",
       "batch": "W24",
       "status": "Active",
       "team_size": 4,
@@ -3071,13 +3071,19 @@
         "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "Monitoring",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710985617.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1479ad49376ddb3209cbb61b6c76e1112a85f6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3e2bf71a524fc1733a500d6d8cfd497e6fc9f2.png"
     },
     {
       "id": 29400,
@@ -8259,5 +8265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-27T00:03:14.361258"
+  "fetched_at": "2025-04-27T06:01:19.499321"
 }
