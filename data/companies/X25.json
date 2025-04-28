@@ -206,7 +206,7 @@
       "name": "Den",
       "slug": "den",
       "website": "https://getden.io",
-      "description": "Den is an AI-native Slack alternative that help teams get more done using general-purpose agents. \r\n\r\nWe believe in the future of Work 2.0, where humans work at the speed of though, and alongside their AI counterparts.  \r\n\r\nDen is clean, fast, and blissfully opinionated. ",
+      "description": "Den is an AI-native Slack alternative that help teams get more done with general-purpose agents. \r\n\r\nWe believe in a future where humans work at the speed of thought, unbounded by hidden context or inaccessible tools. \r\n\r\nDen is minimalist, fast, and mind-blowingly capable. ",
       "one_liner": "Cursor for knowledge workers",
       "batch": "X25",
       "status": "Active",
@@ -269,6 +269,41 @@
       "is_top_company": false,
       "launched_at": 1744344066.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png"
+    },
+    {
+      "id": 30529,
+      "name": "WorkDone",
+      "slug": "workdone",
+      "website": "https://wrkdn.com",
+      "description": "WorkDone is an AI compliance copilot for hospitals. We prevent documentation errors that cause 250 million insurance claim denials every year\u2014before they happen.",
+      "one_liner": "AI compliance copilot for hospitals to maximize insurance payouts",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Healthcare",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Health Tech",
+        "Compliance",
+        "Enterprise Software",
+        "Healthcare IT",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745803962.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png"
     },
     {
       "id": 30513,
@@ -1477,5 +1512,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-28T00:03:09.108561"
+  "fetched_at": "2025-04-28T06:02:40.176548"
 }
