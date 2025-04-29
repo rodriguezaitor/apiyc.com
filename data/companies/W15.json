@@ -452,38 +452,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fafbc0fbed91c91e5664f3b665740b3a037febe.png"
     },
     {
-      "id": 835,
-      "name": "Transcriptic",
-      "slug": "transcriptic",
-      "website": "http://transcriptic.com",
-      "description": "Founded in 2012, Transcriptic has developed the first robotic cloud lab platform for on-demand life science research. It\u2019s powered by the Transcriptic Common Lab Environment (TCLE) a scalable, digital infrastructure that integrates laboratory processes, instruments and IoT technologies into a single user interface. Researchers can carry out scalable, reproducible and rapid experimentation from anywhere in the world. \r\n\r\nTop ten pharmaceutical companies, as well as emerging biotech companies, are using the platform to gain more reproducibility and flexibility in the design and control of their experiments. By leveraging cloud-based technologies, users can access the power of a fully automated laboratory \u2013 whether in their own labs through an on-premise deployment of TCLE or through Transcriptic\u2019s Bioassays services \u2013 all through a simple web-based interface. \r\n\r\nTranscriptic is transforming drug discovery and synthetic biology research by helping scientists focus on accelerating discoveries instead of labor-intensive bench work.",
-      "one_liner": "The robotic cloud laboratory for the life sciences.",
-      "batch": "W15",
-      "status": "Active",
-      "team_size": 13,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare Services",
-      "industries": [
-        "Healthcare",
-        "Healthcare Services"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Menlo Park, CA, USA",
-      "tags": [
-        "Robotics",
-        "Biotech"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1416311312.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/04d24967c3e4ff77621b1783e6234eaa80f83fa2.png"
-    },
-    {
       "id": 834,
       "name": "Zenflow",
       "slug": "zenflow",
@@ -2933,6 +2901,38 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
+      "id": 835,
+      "name": "Transcriptic",
+      "slug": "transcriptic",
+      "website": "http://transcriptic.com",
+      "description": "Founded in 2012, Transcriptic has developed the first robotic cloud lab platform for on-demand life science research. It\u2019s powered by the Transcriptic Common Lab Environment (TCLE) a scalable, digital infrastructure that integrates laboratory processes, instruments and IoT technologies into a single user interface. Researchers can carry out scalable, reproducible and rapid experimentation from anywhere in the world. \r\n\r\nTop ten pharmaceutical companies, as well as emerging biotech companies, are using the platform to gain more reproducibility and flexibility in the design and control of their experiments. By leveraging cloud-based technologies, users can access the power of a fully automated laboratory \u2013 whether in their own labs through an on-premise deployment of TCLE or through Transcriptic\u2019s Bioassays services \u2013 all through a simple web-based interface. \r\n\r\nTranscriptic is transforming drug discovery and synthetic biology research by helping scientists focus on accelerating discoveries instead of labor-intensive bench work.",
+      "one_liner": "The robotic cloud laboratory for the life sciences.",
+      "batch": "W15",
+      "status": "Inactive",
+      "team_size": 13,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Menlo Park, CA, USA",
+      "tags": [
+        "Robotics",
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416311312.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/04d24967c3e4ff77621b1783e6234eaa80f83fa2.png"
+    },
+    {
       "id": 832,
       "name": "Standard Cyborg",
       "slug": "standard-cyborg",
@@ -3696,5 +3696,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-04-29T12:01:42.436357"
+  "fetched_at": "2025-04-29T18:01:13.556090"
 }

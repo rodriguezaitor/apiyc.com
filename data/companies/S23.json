@@ -690,7 +690,7 @@
       "one_liner": "AI co-pilot for corporate event planning",
       "batch": "S23",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -1510,10 +1510,10 @@
       "slug": "smobi",
       "website": "https://smobi.com/",
       "description": "Smobi is an AI powered conversational marketing platform that helps e-commerce brands increase sales and improve their customer relationships via interactive SMS messages.",
-      "one_liner": "Bringing In-App experiences to SMS",
+      "one_liner": "Bringing In-App Experiences to SMS",
       "batch": "S23",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "Consumer",
       "industries": [
@@ -1528,11 +1528,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "SaaS",
         "B2B",
-        "E-commerce",
+        "API",
         "Marketing",
-        "SMS"
+        "SMS",
+        "Telecommunications"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3460,7 +3460,7 @@
       "one_liner": "Natively connect any app to your SSO.",
       "batch": "S23",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -7336,5 +7336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-29T12:01:38.545235"
+  "fetched_at": "2025-04-29T18:01:10.757094"
 }

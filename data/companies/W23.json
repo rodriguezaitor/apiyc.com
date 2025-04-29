@@ -2611,7 +2611,7 @@
       "locations": "Z\u00fcrich, ZH, Switzerland",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1668632369.0,
@@ -4818,8 +4818,8 @@
       "name": "Iliad",
       "slug": "iliad",
       "website": "https://iliad.ai",
-      "description": "Iliad is a creative tool for generating images and 3D models.\r\n\r\nIliad can make characters, environments, avatars, game icons, designs, backgrounds, textures, and materials.\r\n\r\nRight now, it's free for up to 50 images and 5 3D models per day.\r\n\r\nThe transform setting gives you fully continuous, granular control over your generations, so you can color sketch out what you want and guide your visual ideas into refined images. It's the best image-to-image interface.\r\n\r\nIt's easy to create detailed 3D meshes and voxel art from your images using the 3D pipeline.",
-      "one_liner": "Create images and 3D models with ease and artistic control.",
+      "description": "Iliad is an AI tool for creating stylized artwork, textures, illustrations, and 3D assets. Users sketch, upload images, or write prompts, then guide results with visual controls like brushstrokes, masks, and transform sliders. Iliad is built for artists, game developers, and designers.",
+      "one_liner": "Create stylized art, textures, and 3D assets with AI.",
       "batch": "W23",
       "status": "Active",
       "team_size": 1,
@@ -5907,7 +5907,7 @@
       "one_liner": "First draft of a government RFP response in 60 min",
       "batch": "W23",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "Government",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -9362,5 +9362,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-04-29T12:01:36.357556"
+  "fetched_at": "2025-04-29T18:01:09.256616"
 }
