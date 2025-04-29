@@ -1025,6 +1025,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png"
     },
     {
+      "id": 30429,
+      "name": "Claim Health",
+      "slug": "claim-health",
+      "website": "https://www.claimhealth.ai",
+      "description": "Post-acute agencies lose up to 15% of revenue each year to denials, non-compliant documentation, and delayed payments. Most treat it as a cost of doing business. Instead of waiting weeks for rejections and appealing claims one by one, Claim Health flags issues in real-time and automates claim corrections and appeals\u2014before revenue is lost.\r\n\r\nWhile working with healthcare providers, we found most denials stem from small, preventable documentation errors. As payor requirements grow increasingly complex and fragmented, billing has become a manual, error-prone process. Claim Health closes the loop between documentation and billing outcomes\u2014using AI to detect issues, automate workflows, and recover thousands in missed revenue each week.\r\n\r\nKevin and JJ bring nearly a decade of experience building and scaling healthtech companies. At Dandy, JJ was a founding engineer and Kevin was the first GTM hire; together they helped grow the business from 0 to $150M+ ARR. At Perry (now Jolly), JJ led engineering and Kevin was Head of Sales, driving the company through a $16.5M Series A led by Tesla\u2019s former CFO.\r\n\r\nIn under three weeks since incorporation, we've launched with three agencies and are in early discussions with large U.S. health systems.\r\n\r\nPost-acute care is a $400B market with over $20B in annual revenue leakage due to broken billing workflows. Claim Health is fixing that\u2014starting with denials, and expanding into the full revenue cycle stack.",
+      "one_liner": "AI copilot for healthcare revenue teams",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Health Tech",
+        "Healthcare",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745902014.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c286f38db8cc7695ccbc163189808ca1c0bcb7d3.png"
+    },
+    {
       "id": 30426,
       "name": "Approval AI",
       "slug": "approval-ai",
@@ -1543,5 +1575,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-29T00:02:55.387732"
+  "fetched_at": "2025-04-29T06:01:06.362748"
 }
