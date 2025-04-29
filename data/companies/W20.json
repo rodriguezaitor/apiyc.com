@@ -2167,19 +2167,19 @@
     },
     {
       "id": 13344,
-      "name": "Flasho",
-      "slug": "flasho",
-      "website": "https://flasho.ai/",
-      "description": "Flasho enables user interviews on auto pilot for customer obsessed product teams. It moderates 1000s of user interviews simultaneously and gives insights in seconds! ",
-      "one_liner": "An AI that conducts user interviews for you regularly",
+      "name": "HumBee",
+      "slug": "humbee",
+      "website": "",
+      "description": "",
+      "one_liner": "Pseudonymous avatar based social app for young Indians ",
       "batch": "W20",
       "status": "Active",
       "team_size": 5,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "Consumer",
+        "Social"
       ],
       "regions": [
         "India",
@@ -2189,18 +2189,15 @@
       ],
       "locations": "Bengaluru, KA, India; Remote",
       "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "SaaS",
-        "B2B",
-        "AI"
+        "Consumer",
+        "Social"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1583799212.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/55572657e9ce6fbebf9b90e9a05b0a9d7ec3cbdf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/17e5e258121ec65b2cd26145798213c477eaed03.png"
     },
     {
       "id": 13343,
@@ -7725,5 +7722,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-29T06:01:04.133426"
+  "fetched_at": "2025-04-29T12:01:38.146506"
 }
