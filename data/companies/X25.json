@@ -466,7 +466,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744600545.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/500608c97fc38d9c97178a407494b3d552eb8b54.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png"
     },
     {
       "id": 30497,
@@ -728,6 +728,37 @@
       "is_top_company": false,
       "launched_at": 1744845895.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc74e71b1f792bb7e067be2feda82c554eaef27a.png"
+    },
+    {
+      "id": 30454,
+      "name": "Operative.sh",
+      "slug": "operative-sh",
+      "website": "https://operative.sh/",
+      "description": "10x your vibe coding with autonomous browser agents that give feedback to cursor agents on whether the code actually works.",
+      "one_liner": "Browser agent tools to vibe-test web apps from within coding agents",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745867856.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png"
     },
     {
       "id": 30453,
@@ -1162,7 +1193,7 @@
       "slug": "avallon-ai",
       "website": "https://www.avallon.ai/",
       "description": "Avallon turns complex call operations into automated resolutions, cutting costs and supercharging productivity with agentic workflows.",
-      "one_liner": "Voice agents for auto and freight",
+      "one_liner": "Ultra-realistic AI voice agents built for the auto industry",
       "batch": "X25",
       "status": "Active",
       "team_size": 3,
@@ -1512,5 +1543,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-28T18:01:22.099309"
+  "fetched_at": "2025-04-29T00:02:55.387732"
 }

@@ -1499,36 +1499,36 @@
     },
     {
       "id": 30068,
-      "name": "Cekura",
-      "slug": "cekura",
-      "website": "https://www.cekura.io",
-      "description": "Cekura is an AI web agent that ensures SaaS product documentation stays up-to-date. We help knowledge and customer success teams save 100+ hours per week.",
-      "one_liner": "Keep support, marketing, and sales materials up-to-date",
+      "name": "Stewdio",
+      "slug": "stewdio",
+      "website": "https://www.stewdio.ai",
+      "description": "",
+      "one_liner": "All-in-one AI creative platform",
       "batch": "F24",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Security",
       "industries": [
-        "B2B"
+        "Consumer"
       ],
       "regions": [
         "Unspecified"
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
-        "Customer Success",
-        "Customer Support",
-        "Enterprise",
-        "Automation"
+        "Design",
+        "Design Tools",
+        "Video",
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1732154471.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a94e0fb3bb450a22953bedcadcf2fe0a8158fe2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/42de592b72f70e3626ffd54bd7d2fb5748c89a65.png"
     },
     {
       "id": 30067,
@@ -3113,5 +3113,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-04-28T18:01:20.098337"
+  "fetched_at": "2025-04-29T00:02:53.408230"
 }
