@@ -858,6 +858,69 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e611bab66e36c7b14163abfaf0665e260a2ac3e2.png"
     },
     {
+      "id": 30447,
+      "name": "Caucus",
+      "slug": "caucus",
+      "website": "https://www.usecaucus.com/",
+      "description": "AI agents designed for Congressional offices, optimizing constituent communication for the Senate and House. Seamlessly integrated into official websites and phone systems, it handles inquiries, provides policy responses, and assists with casework efficiently.",
+      "one_liner": "AI Agents For Congressional Offices",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "GovTech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745963507.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d85ee8e46a07cfba77132afdefaa1146a8d986e.png"
+    },
+    {
+      "id": 30444,
+      "name": "Percival",
+      "slug": "percival",
+      "website": "https://www.percivaltech.com/",
+      "description": "Percival helps B2B distributors automate data entry by using AI to process documents like purchase orders and price lists. \r\n\r\nDavid and I built automation pipelines at Scale AI and Palantir, and now we\u2019re using that expertise to automate work that\u2019s often handled by full time employees or a team of contractors.",
+      "one_liner": "Automating data entry with AI",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1745969288.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3360b8e2473286288f70d61dbda9fd5cc72aee9.png"
+    },
+    {
       "id": 30443,
       "name": "VibeGrade",
       "slug": "vibegrade",
@@ -1574,5 +1637,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-04-29T18:01:16.011098"
+  "fetched_at": "2025-04-30T00:02:51.730668"
 }

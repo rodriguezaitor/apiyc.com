@@ -2140,7 +2140,7 @@
       "name": "Silimate",
       "slug": "silimate",
       "website": "https://www.silimate.com",
-      "description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
+      "description": "Silimate is the co-pilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and target PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and tape out in less time.",
       "one_liner": "The co-pilot for chip designers",
       "batch": "S23",
       "status": "Active",
@@ -2157,18 +2157,18 @@
       ],
       "locations": "Mountain View, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Enterprise Software",
-        "Semiconductors",
-        "AI"
+        "Semiconductors"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1691095117.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0575a4d9f95080c1cee72f3e7a7286db03e66d7c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png"
     },
     {
       "id": 29008,
@@ -7336,5 +7336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-04-29T18:01:10.757094"
+  "fetched_at": "2025-04-30T00:02:50.996671"
 }

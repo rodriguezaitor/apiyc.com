@@ -7377,11 +7377,11 @@
       "name": "Greptile",
       "slug": "greptile",
       "website": "https://www.greptile.com",
-      "description": "Greptile is building AI tools that understand large, commercial codebases, starting with an AI code review bot. \r\n\r\nTop YC companies like PostHog, Exa AI, Vouch, Podium, Astranis, Raycast, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
+      "description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
       "one_liner": "AI expert on your codebase that you can query via an API",
       "batch": "W24",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -8265,5 +8265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-29T18:01:09.916264"
+  "fetched_at": "2025-04-30T00:02:50.828985"
 }
