@@ -1573,8 +1573,8 @@
       "name": "CommodityAI",
       "slug": "commodityai",
       "website": "https://commodityai.io/",
-      "description": "We build software that supports the movement of millions of tons of raw commodities like sugar, cocoa, and coffee around the world. Our trading and operations management platform serves as a system of record, powered by AI automation that eliminates the friction points in operating a physical trading and distribution business.\r\n \r\nOur team consists of an experienced commodity trader with 8 years of experience and two skilled engineers with a combined 13 years of experience from Samsara and Autodesk.",
-      "one_liner": "AI & Automation Software Powering Physical Commodity Trading",
+      "description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
+      "one_liner": "AI that automates commodity operations",
       "batch": "W24",
       "status": "Active",
       "team_size": 3,
@@ -1582,7 +1582,7 @@
       "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Supply Chain and Logistics"
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -1593,7 +1593,6 @@
         "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Supply Chain",
         "Enterprise Software"
       ],
       "stage": "Early",
@@ -8265,5 +8264,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-30T00:02:50.828985"
+  "fetched_at": "2025-04-30T06:01:32.700645"
 }
