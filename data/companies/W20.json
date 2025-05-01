@@ -3234,41 +3234,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/382cbea9551900f9780b175a410b6a48e92fadd1.png"
     },
     {
-      "id": 13211,
-      "name": "Metaplane",
-      "slug": "metaplane",
-      "website": "https://metaplane.dev",
-      "description": "Metaplane\u00a0ensures everyone trusts the data that powers your business. Data teams at Bose, Ramp, and Klaviyo use our data observability platform to prevent and detect data issues \u2014 before the CEO pings them about weird revenue numbers.\r\n\r\nWe do this with ML-based anomaly detection, end-to-end column-level lineage, and tools to help prevent incidents before they occur. You can monitor your entire data stack within 30 minutes.\r\n\r\nThe company is backed by Khosla Ventures, Y Combinator, and the founders of Okta, HubSpot, and Vercel.",
-      "one_liner": "Data observability for modern data teams",
-      "batch": "W20",
-      "status": "Active",
-      "team_size": 32,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Boston, MA, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Data Engineering"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614011784.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa2c854ed688cf4ff0f5cf7f48786c533f00b943.png"
-    },
-    {
       "id": 13207,
       "name": "Tienda Crypto",
       "slug": "tienda-crypto",
@@ -5617,6 +5582,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a62183607b4b9bdab50ebbf69002d2bc70f53e2.png"
     },
     {
+      "id": 13211,
+      "name": "Metaplane",
+      "slug": "metaplane",
+      "website": "https://metaplane.dev",
+      "description": "Metaplane\u00a0ensures everyone trusts the data that powers your business. Data teams at Bose, Ramp, and Klaviyo use our data observability platform to prevent and detect data issues \u2014 before the CEO pings them about weird revenue numbers.\r\n\r\nWe do this with ML-based anomaly detection, end-to-end column-level lineage, and tools to help prevent incidents before they occur. You can monitor your entire data stack within 30 minutes.\r\n\r\nThe company is backed by Khosla Ventures, Y Combinator, and the founders of Okta, HubSpot, and Vercel.",
+      "one_liner": "Data observability for modern data teams",
+      "batch": "W20",
+      "status": "Acquired",
+      "team_size": 32,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Boston, MA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614011784.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa2c854ed688cf4ff0f5cf7f48786c533f00b943.png"
+    },
+    {
       "id": 13198,
       "name": "Talyn Air",
       "slug": "talyn-air",
@@ -7722,5 +7722,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-04-30T18:01:11.029762"
+  "fetched_at": "2025-05-01T00:03:26.777214"
 }

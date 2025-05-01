@@ -1573,7 +1573,7 @@
       "name": "CommodityAI",
       "slug": "commodityai",
       "website": "https://commodityai.io/",
-      "description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
+      "description": "CommodityAI builds intelligent automation agents for the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents read and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
       "one_liner": "AI that automates commodity operations",
       "batch": "W24",
       "status": "Active",
@@ -1590,10 +1590,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5109,7 +5109,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709806941.0,
@@ -8264,5 +8264,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-04-30T18:01:10.435859"
+  "fetched_at": "2025-05-01T00:03:25.950037"
 }
