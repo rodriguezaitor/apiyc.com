@@ -375,6 +375,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png"
     },
     {
+      "id": 30514,
+      "name": "Scalar Field",
+      "slug": "scalar-field",
+      "website": "https://www.scalarfield.io/",
+      "description": "Scalar Field is reinventing the trading terminal with intelligent agents. Founded by Aman (ex-Tower, ex-Goldman) and Ramakant (ex-Microsoft), we\u2019re building an agentic trading terminal that lets traders instantly test any market hypothesis \u2014 with compute-heavy backtests, real-time signal tracking, and persistent research memory. From reorganizing dashboards to initiating trades, Scalar Field turns fragmented data into intelligent action. Try it at scalarfield.io.",
+      "one_liner": "Reinventing the trading terminal \u2014 one intelligent agent at a time.",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Fintech",
+        "Trading",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746086893.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b28fd1bee5f680014678e8985405788a687849f.png"
+    },
+    {
       "id": 30513,
       "name": "Eloquent AI",
       "slug": "eloquent-ai",
@@ -932,7 +963,7 @@
       "name": "Caucus",
       "slug": "caucus",
       "website": "https://www.usecaucus.com/",
-      "description": "AI agents designed for Congressional offices, optimizing constituent communication for the Senate and House. Seamlessly integrated into official websites and phone systems, it handles inquiries, provides policy responses, and assists with casework efficiently.",
+      "description": "AI agents that are designed for Congressional offices to help staffers. We\u2019re introducing artificial intelligence into the operations of the Senate and House through purpose built agents that perform tasks at scale. ",
       "one_liner": "AI Agents For Congressional Offices",
       "batch": "X25",
       "status": "Active",
@@ -948,8 +979,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "GovTech",
-        "AI"
+        "Artificial Intelligence",
+        "GovTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1708,5 +1739,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-01T06:01:38.125046"
+  "fetched_at": "2025-05-01T12:01:33.657770"
 }

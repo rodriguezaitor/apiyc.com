@@ -1928,7 +1928,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690080205.0,
@@ -6474,8 +6474,8 @@
       "name": "Ora AI",
       "slug": "ora-ai",
       "website": "http://oraai.com/",
-      "description": "Ora AI's mission is to become the AI infrastructure for the $110B medical education industry, leading to better physicians, a more efficient healthcare system, and improved patient care.",
-      "one_liner": "Ora AI \ud83e\udde0 AI-Powered Training for Doctors",
+      "description": "Ora is an AI-native education platform that students love. We're starting with medical school, training students from matriculation to MD. Soon, we'll serve every corner of the $830B higher education market.",
+      "one_liner": "The learning company.",
       "batch": "S23",
       "status": "Active",
       "team_size": 3,
@@ -6488,13 +6488,13 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Education",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7336,5 +7336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-01T06:01:32.890471"
+  "fetched_at": "2025-05-01T12:01:26.488116"
 }
