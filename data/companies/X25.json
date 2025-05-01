@@ -66,12 +66,47 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/36103b40de751e5ec5889840f60eec43dc493e69.png"
     },
     {
+      "id": 30553,
+      "name": "Blueshoe",
+      "slug": "blueshoe",
+      "website": "https://blueshoe.ai",
+      "description": "Blueshoe puts legal financial operations on autopilot with fully automated, end-to-end invoice-to-cash for law firms. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen financial infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
+      "one_liner": "The first AI worker for legal financial operations",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "Generative AI",
+        "Payments",
+        "Legal",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746075411.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff435e9a8349d20737a53d77d98e6b9ef40d649.png"
+    },
+    {
       "id": 30549,
       "name": "Airweave",
       "slug": "airweave",
       "website": "https://airweave.ai",
-      "description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
-      "one_liner": "Turn Apps Into Accessible Knowledge For Agents",
+      "description": "Airweave is an open-source tool that lets agents search any application or database. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
+      "one_liner": "Open-Source Tool That Lets Agents Search Any App or Database",
       "batch": "X25",
       "status": "Active",
       "team_size": 2,
@@ -82,15 +117,16 @@
         "Infrastructure"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Open Source",
         "Search",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1672,5 +1708,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-01T00:03:34.153052"
+  "fetched_at": "2025-05-01T06:01:38.125046"
 }
