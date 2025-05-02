@@ -4624,7 +4624,7 @@
       "status": "Active",
       "team_size": 13,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -4708,7 +4708,7 @@
         "International"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706317593.0,
@@ -8258,5 +8258,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-02T12:01:25.818368"
+  "fetched_at": "2025-05-02T18:01:16.479362"
 }
