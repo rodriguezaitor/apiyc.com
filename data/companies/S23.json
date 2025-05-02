@@ -2683,8 +2683,8 @@
       "name": "CambioML",
       "slug": "cambioml",
       "website": "https://www.cambioml.com/",
-      "description": "CambioML providing ML tools for extracting and reconstruct text and data from PDFs, HTMLs and forms. Join the enterprise data gold mining from your legacy docs.\r\n",
-      "one_liner": "Retrieve and transform data from PDFs and forms",
+      "description": "Energent.ai turns every knowledge worker into a top performer by pairing them with an AI teammate. We streamline manual workflows without integrations, democratize automation with zero code, and move beyond passive chatbots to deliver real, visible output \u2014 all securely within the enterprise environment.",
+      "one_liner": "AI Teammate to Enable Every Knowledge Worker to Be a Top Performer",
       "batch": "S23",
       "status": "Active",
       "team_size": 3,
@@ -2697,7 +2697,12 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Productivity",
+        "Big Data",
+        "Automation",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -5781,7 +5786,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1684821530.0,
@@ -7336,5 +7341,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-01T18:00:57.504318"
+  "fetched_at": "2025-05-02T00:02:48.919310"
 }

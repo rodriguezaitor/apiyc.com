@@ -70,7 +70,7 @@
       "name": "Blueshoe",
       "slug": "blueshoe",
       "website": "https://blueshoe.ai",
-      "description": "Blueshoe puts legal financial operations on autopilot with fully automated, end-to-end invoice-to-cash for law firms. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen financial infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
+      "description": "Blueshoe puts legal financial operations on autopilot starting with fully automated, end-to-end invoice-to-cash for law firms. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen financial infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
       "one_liner": "The first AI worker for legal financial operations",
       "batch": "X25",
       "status": "Active",
@@ -639,7 +639,7 @@
       "name": "throxy",
       "slug": "throxy",
       "website": "https://throxy.com/",
-      "description": "Throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken\u2014generic automation gets ignored, and legacy sectors are hard to crack. Throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nToday, Throxy powers outbound for 30+ B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We\u2019re not just automating outbound, we\u2019re redefining what sales execution looks like in traditional industries.\r\n\r\nThroxy is the AI SDR purpose-built for the sectors software forgot.",
+      "description": "Throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken\u2014generic automation gets ignored, and legacy sectors are hard to crack. Throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nToday, throxy powers outbound for B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We\u2019re not just automating outbound, we\u2019re redefining what sales execution looks like in traditional industries.\r\n\r\nThroxy is the AI SDR purpose-built for the sectors software forgot.",
       "one_liner": "Book meetings without the busywork. Bespoke fully managed outbound.",
       "batch": "X25",
       "status": "Active",
@@ -1044,8 +1044,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "GovTech"
+        "GovTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1222,8 +1222,8 @@
       "name": "Almond",
       "slug": "almond-2",
       "website": "https://almondbot.com/",
-      "description": "Almond is building the easiest industrial robot for developers to automate complex factory tasks like multi-sku bin picking and more. We provide all the core hardware (arm, vision & compute) with Stripe-like API documentation and a simple way to program the robot using waypoints, vision, or AI.",
-      "one_liner": "AI robots for manufacturers & distributors",
+      "description": "Almond is building a vision-first robot for manufacturing automation & inspection.\r\n\r\nAlmond Bot ships with the cameras, compute and API\u2019s needed to automate product inspections and vision-based tasks like bin-picking.",
+      "one_liner": "Vision-first robots for manufacturing inspection & automation",
       "batch": "X25",
       "status": "Active",
       "team_size": 2,
@@ -1239,11 +1239,11 @@
       ],
       "locations": "Emeryville, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Robotics",
         "B2B",
-        "Manufacturing"
+        "Manufacturing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1804,5 +1804,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-01T18:01:03.225301"
+  "fetched_at": "2025-05-02T00:02:55.654796"
 }
