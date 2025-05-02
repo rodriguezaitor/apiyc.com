@@ -5707,7 +5707,7 @@
       "one_liner": "AI Agents for Banking",
       "batch": "S23",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 25,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -5719,11 +5719,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Conversational Banking",
         "Fintech",
         "Machine Learning",
-        "Finance"
+        "Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5773,7 +5773,7 @@
       "one_liner": "Compliance Tools for Healthcare Organizations",
       "batch": "S23",
       "status": "Active",
-      "team_size": null,
+      "team_size": 4,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -7341,5 +7341,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-02T00:02:48.919310"
+  "fetched_at": "2025-05-02T06:01:24.656650"
 }

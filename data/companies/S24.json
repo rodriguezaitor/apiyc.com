@@ -6176,39 +6176,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/05452330a078be465b5353a9b54ad87966552d0b.png"
     },
     {
-      "id": 29666,
-      "name": "Willow",
-      "slug": "willow",
-      "website": "https://willowvoice.com/",
-      "description": "Willow is an AI-powered dictation software that can be used anywhere on your computer. It uses AI to auto-format, correct mistakes, and cut filler words, making your writing faster and cleaner.\r\n\r\nWe\u2019re Mac-only for now. You can try it free at WillowVoice.com",
-      "one_liner": "Write 3x faster with voice dictation, powered by AI",
-      "batch": "S24",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Consumer",
-      "subindustry": "B2B",
-      "industries": [
-        "Consumer"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Palo Alto, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Consumer",
-        "Productivity",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1724580560.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1a38295742d380ffb6bd899dae457066824da5.png"
-    },
-    {
       "id": 29665,
       "name": "CloudGlue",
       "slug": "cloudglue",
@@ -6492,8 +6459,8 @@
       "name": "Moonglow",
       "slug": "moonglow",
       "website": "https://moonglow.ai",
-      "description": "Moonglow is a fully-managed platform for building browser agents. Users record their workflow once, and then our platform builds, deploys and scales browser agents that automate their repetitive workflows.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nhttps://moonglow.ai",
-      "one_liner": "No-code platform for building browser agents",
+      "description": "https://moonglow.ai",
+      "one_liner": "",
       "batch": "S24",
       "status": "Active",
       "team_size": 2,
@@ -6509,11 +6476,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Machine Learning",
         "Robotic Process Automation",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8383,5 +8350,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-02T00:02:47.313144"
+  "fetched_at": "2025-05-02T06:01:24.284828"
 }
