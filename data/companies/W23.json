@@ -4851,11 +4851,11 @@
       "name": "Relace",
       "slug": "relace",
       "website": "https://relace.ai",
-      "description": "Relace makes it easy for startups to fine tune and host LLMs for domain-specific tasks. We beat SOTA models on performance and speed by providing an opinionated, all-in-one fine tuning and inference stack.",
-      "one_liner": "End-to-end fine tuning and inference for open source LLMs",
+      "description": "Relace makes it easy for startups to productionize projects that involve coding agents, with specialized LLM's for retrieval and code merging. Our SOTA merging model runs at 2500+ tok/s, and code-specific reranker & embeddings models run in <1s for million-line codebase retirevals.",
+      "one_liner": "LLM's for Code Generation",
       "batch": "W23",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4863,18 +4863,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "SaaS",
-        "B2B"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1679954526.0,
@@ -9362,5 +9356,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-02T06:01:24.195526"
+  "fetched_at": "2025-05-02T12:01:24.933367"
 }
