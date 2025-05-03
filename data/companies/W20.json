@@ -3775,40 +3775,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/256be79b4f9ac851425e3bf2a60af5ae33ca72ba.png"
     },
     {
-      "id": 13145,
-      "name": "Dashworks",
-      "slug": "dashworks",
-      "website": "http://www.dashworks.ai",
-      "description": "Dashworks is where work begins. Where all your documents, messages, tickets, and other knowledge scattered across your company's apps and people come together seamlessly. And where you and your team can get on the same page, and get things done.",
-      "one_liner": "Your team's intelligent start page.",
-      "batch": "W20",
-      "status": "Active",
-      "team_size": 9,
-      "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
-      "industries": [
-        "B2B",
-        "Productivity"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "SaaS",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1583901302.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e212c44a7fdcc04bc36a711de33d8a3015b452e0.png"
-    },
-    {
       "id": 13144,
       "name": "Datasaur",
       "slug": "datasaur",
@@ -5785,6 +5751,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60c3c3b42c38c13f3980a72fe13dfdc9fe91c5fc.png"
     },
     {
+      "id": 13145,
+      "name": "Dashworks",
+      "slug": "dashworks",
+      "website": "http://www.dashworks.ai",
+      "description": "Dashworks is where work begins. Where all your documents, messages, tickets, and other knowledge scattered across your company's apps and people come together seamlessly. And where you and your team can get on the same page, and get things done.",
+      "one_liner": "Your team's intelligent start page.",
+      "batch": "W20",
+      "status": "Acquired",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1583901302.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e212c44a7fdcc04bc36a711de33d8a3015b452e0.png"
+    },
+    {
       "id": 13110,
       "name": "Flowdash",
       "slug": "flowdash",
@@ -7722,5 +7722,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-05-03T00:02:35.102547"
+  "fetched_at": "2025-05-03T06:00:57.779067"
 }
