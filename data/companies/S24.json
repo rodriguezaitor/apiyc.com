@@ -5069,21 +5069,13 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Generative AI",
-        "SaaS",
-        "Open Source",
-        "Infrastructure",
-        "AI"
-      ],
+      "locations": "Remote",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720735986.0,
@@ -8350,5 +8342,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-02T18:01:16.034325"
+  "fetched_at": "2025-05-03T00:02:33.826726"
 }
