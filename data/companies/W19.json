@@ -2117,42 +2117,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca66c2f9239b9eadea72810d134da45f3cb38285.png"
     },
     {
-      "id": 12082,
-      "name": "Wanderlog",
-      "slug": "wanderlog",
-      "website": "https://wanderlog.com",
-      "description": "Wanderlog is the one-stop app for planning your next vacation, with a focus on excellent design. You can track your plans in our collaborative document, discover new places to visit and hotels to book, and share travel advice with friends and fellow travelers.",
-      "one_liner": "Travel planner for researching, organizing, and mapping your trip",
-      "batch": "W19",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Content",
-      "industries": [
-        "Consumer",
-        "Content"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Consumer",
-        "Travel",
-        "Social",
-        "Subscriptions"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1541651604.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9904ae948c8e0e97d71028dcbca777328465de82.png"
-    },
-    {
       "id": 12080,
       "name": "Aura Vision",
       "slug": "aura-vision",
@@ -3122,39 +3086,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e62bc5fb389686bebb7f80182d62fc3aa5b06354.png"
     },
     {
-      "id": 11991,
-      "name": "Community Phone Company",
-      "slug": "community-phone-company",
-      "website": "https://www.communityphone.org/",
-      "description": "Community Phone Company YC W19 built a simple cloud phone system that runs inside of landlines\r\n\r\nOur solution lets a business or family get all modern voice features (re-route if busy, greeting menu and IVR, programmable caller ID, cloud voicemail, etc) on their existing desk phone and existing cell phones. All employees onboard instantly, no wifi required, no app to download. ",
-      "one_liner": "Modern landline and voice services",
-      "batch": "W19",
-      "status": "Active",
-      "team_size": 70,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Home and Personal",
-      "industries": [
-        "Consumer",
-        "Home and Personal"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Boston, MA, USA; Remote",
-      "tags": [
-        "Telecommunications"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1541192585.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3c595ee7c5413925a33801ac0a98d0dff17082b.png"
-    },
-    {
       "id": 11988,
       "name": "Thrive Agric",
       "slug": "thrive-agric",
@@ -3940,40 +3871,6 @@
       "is_top_company": false,
       "launched_at": 1541037761.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/42535d3c0d7bdb4069a3dc31f088f327ee7e59da.png"
-    },
-    {
-      "id": 11940,
-      "name": "Keeper",
-      "slug": "keeper-2",
-      "website": "https://keepertax.com",
-      "description": "Keeper is AI-powered tax filing software that mimics the experience of going to an accountant. Just drop off your forms, answer a few questions, and let Keeper do the rest!",
-      "one_liner": "File complex taxes confidently",
-      "batch": "W19",
-      "status": "Active",
-      "team_size": 19,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Consumer Finance",
-      "industries": [
-        "Fintech",
-        "Consumer Finance"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Fintech",
-        "Consumer"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1541037760.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bfbb1071a34d969fc17410d80d00fc916230dcb.png"
     },
     {
       "id": 11936,
@@ -6554,5 +6451,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:29.614524"
+  "fetched_at": "2025-05-05T18:01:01.175507"
 }

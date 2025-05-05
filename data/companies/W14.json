@@ -813,40 +813,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d251539438cb0eef66e90304a3ff25d30dfcf607.png"
     },
     {
-      "id": 597,
-      "name": "Axoni",
-      "slug": "axoni",
-      "website": "https://axoni.com",
-      "description": "Axoni is a New York-based technology firm that builds multi-party workflows and infrastructure for some of the largest financial institutions in the world. Founded in 2013, the company offers core data infrastructure, application development, and automation tools. ",
-      "one_liner": "Axoni is building the next generation of capital markets technology",
-      "batch": "W14",
-      "status": "Active",
-      "team_size": 155,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Banking and Exchange",
-      "industries": [
-        "Fintech",
-        "Banking and Exchange"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Fintech",
-        "SaaS"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1384978765.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c4cc56e4a37201555dc18cf1c50c92082ad616b.png"
-    },
-    {
       "id": 588,
       "name": "CodeNow",
       "slug": "codenow",
@@ -2415,5 +2381,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:34.903588"
+  "fetched_at": "2025-05-05T18:01:05.826399"
 }

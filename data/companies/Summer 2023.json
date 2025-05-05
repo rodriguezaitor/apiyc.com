@@ -1,0 +1,267 @@
+{
+  "data": [
+    {
+      "id": 29150,
+      "name": "Tempo",
+      "slug": "tempo-2",
+      "website": "https://www.tempo.new",
+      "description": "Tempo is a visual editor for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
+      "one_liner": "Visual Editor for React, powered by AI",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "Design Tools",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1689887097.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png"
+    },
+    {
+      "id": 29079,
+      "name": "Tiptap",
+      "slug": "tiptap",
+      "website": "https://tiptap.dev/",
+      "description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It\u2019s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
+      "one_liner": "Developer toolkit for building collaborative apps.",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Germany",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Berlin, Berlin, Germany",
+      "tags": [
+        "Developer Tools",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1687103873.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a420bd235fd41d8ee714d37c421a5f053f3657.png"
+    },
+    {
+      "id": 29019,
+      "name": "Sendblue",
+      "slug": "sendblue",
+      "website": "https://www.sendblue.com",
+      "description": "Sendblue provides businesses with virtual iMessage lines to text prospects and nurture leads. Our users on average see a 70% increase in response rate. The company is founded by Rob Haber, former ML Engineer at Scale AI, and Alex Luis, former PM at PwC's telecom practice.",
+      "one_liner": "iMessage for Sales",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 25,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1691623440.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c34e2e7cee5cb8a890e2123c1f9f8621bd9f7e45.png"
+    },
+    {
+      "id": 29000,
+      "name": "SafetyKit",
+      "slug": "safetykit",
+      "website": "https://www.safetykit.com/",
+      "description": "SafetyKit's AI agents do the dirty work for big tech and finance companies so humans don't have to.\r\n\r\nToday companies rely on armies of low-paid outsourced humans to protect their platforms from fraud, harassment, and crime. It\u2019s super important work, but the jobs are difficult and sometimes traumatizing, and it\u2019s impossible to keep up. Our mission is to end this manual toil.\r\n\r\nWe learned this domain first-hand at Stripe and Airbnb, where first we built software for human reviewers, and then built models to replace them.\r\n\r\nWe\u2019re a group of engineers from Stripe, Meta, Netflix, MIT, and Princeton that love language models and unironically love B2B SaaS. We know the economy is going to be rearranged over the next 4 years and we want to be in the driver\u2019s seat.\r\n\r\nWe build vertical AI that works and have some of the world\u2019s largest companies as paying customers. Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, along with a $10B+ marketplace, a $100B+ payments company, and more rely on SafetyKit in production.",
+      "one_liner": "AI agents for risk, compliance, and safety",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "Compliance",
+        "Trust & Safety"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1687827774.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e6e9147312768cd270c02c7f00e0de9c130d05d.png"
+    },
+    {
+      "id": 28928,
+      "name": "MediSearch",
+      "slug": "medisearch",
+      "website": "https://medisearch.io",
+      "description": "MediSearch gives direct answers to medical questions based on trustworthy sources.",
+      "one_liner": "Search engine for trustworthy medical information.",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Consumer Health Services",
+        "Digital Health",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1690590443.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5e622a415b26a3986bc9fc08bf8fb1a1fa460e7.png"
+    },
+    {
+      "id": 28825,
+      "name": "Solve Intelligence",
+      "slug": "solve-intelligence",
+      "website": "https://www.solveintelligence.com/",
+      "description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney draft, prosecute, and harvest high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition.",
+      "one_liner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 12,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1686701574.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png"
+    },
+    {
+      "id": 28780,
+      "name": "Clearest Health",
+      "slug": "clearest-health",
+      "website": "https://clearesthealth.com/",
+      "description": "We are rebuilding the core infrastructure behind corporate health insurance, everything from care navigation, analytics, claims, and more. Fully cloud-native and AI-first. We are eager to directly impact the health and savings of 60% of the American population.",
+      "one_liner": "Rebuilding trust in American health insurance.",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Fintech",
+      "subindustry": "B2B",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Health Tech",
+        "B2B",
+        "Healthcare IT"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1686714264.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4c1cc0751098e00020fe57a63b4a98b4977331.png"
+    },
+    {
+      "id": 28404,
+      "name": "Cercli",
+      "slug": "cercli",
+      "website": "https://www.cercli.com",
+      "description": "Cercli is the single modern platform for Middle East & North Africa (MENA) businesses to hire, manage and pay their global workforce. We automate your local and remote payrolls, HR, onboarding, compliance, expenses and more - to help\u00a0organisations reduce human error and stay fully compliant.\u00a0",
+      "one_liner": "Rippling for Middle East & North Africa",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [
+        "SaaS",
+        "HR Tech",
+        "Payroll"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1690828371.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c64a305e01ba20da74a99d93c7b92f8f9831ffb.png"
+    }
+  ],
+  "fetched_at": "2025-05-05T18:01:10.730913"
+}

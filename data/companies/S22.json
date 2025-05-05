@@ -243,42 +243,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bd0bbec7d523edd1bef0a7fed1c32a4c5e91d07.png"
     },
     {
-      "id": 27258,
-      "name": "AccessOwl",
-      "slug": "accessowl",
-      "website": "https://www.accessowl.io/",
-      "description": "AccessOwl automates employee SaaS account provisioning and permissioning for any tool. IT teams from companies like Zeplin and Sary save 30 minutes on every request.\r\n\r\nAccess management used to be an enterprise problem. With work from home, exploding SaaS usage and the need for SOC2 certifications startups have the same problems as enterprises. \r\n\r\nMathias and Philip have built several startups and teams before and experienced the same problems around access management over and over again. Philip was the CEO and Co-Founder of blik, an award winning IoT solution that was used by Volkswagen and BMW. Mathias built the leading private payment infrastructure provider in Germany as well as the first digital car insurance as Co-Founder and CTO. Based on these experiences we decided to build a solution we wish we could have used when building our former companies.\r\n\r\nAccessOwl can be deployed within minutes instead of weeks by simply installing a Slack application. We save companies that use AccessOwl 30 minutes for every access request, on- and offboarding. ",
-      "one_liner": "Managing your Employees' Access to SaaS",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "Germany",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Berlin, Berlin, Germany; Remote",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Compliance",
-        "Security"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1655853975.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f47d40efa2ec60ceb6de3d5dad85ab504f1c80f.png"
-    },
-    {
       "id": 27255,
       "name": "Intuned",
       "slug": "intuned",
@@ -349,42 +313,6 @@
       "is_top_company": false,
       "launched_at": 1655892820.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6749dbc3973af54314fb19bab89f96afd64cd254.png"
-    },
-    {
-      "id": 27252,
-      "name": "Landeed",
-      "slug": "landeed",
-      "website": "https://www.landeed.com/",
-      "description": "Landeed is building India's (then for rest of the world)  fastest and most comprehensive property title search engine. More than 84% of Indian household wealth is stored in real estate, property and land. However, with 2/3rds of all court cases in India dealing with land-related disputes, it is essential that people have accessible public records to both protect themselves against litigation and provide appropriate documentation for facilitating transactions.",
-      "one_liner": "Landeed is India's fastest property title search engine ",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 35,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction",
-      "industries": [
-        "Real Estate and Construction"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Hyderabad, Telangana, India",
-      "tags": [
-        "Documents",
-        "Fintech",
-        "Civic Tech",
-        "Proptech",
-        "Insurance"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1656366086.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png"
     },
     {
       "id": 27250,
@@ -1283,41 +1211,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1265ce908f9437a3001af3e36bdbbfd9a00821ca.png"
     },
     {
-      "id": 27162,
-      "name": "Oneleet",
-      "slug": "oneleet",
-      "website": "https://oneleet.com",
-      "description": "Oneleet helps companies become secure and compliant through an all-in-one solution that combines automated tools and human expertise.\r\n\r\nOneleet has built the second generation of security compliance automation software, providing tools that go beyond what is classically provided for just compliance alone. Tools like a code security scanner, attack-surface management, access reviews and trust portal are all built in.\r\n\r\nAs the most popular, highest rated and most frequently used platform in the YC community, Oneleet has quickly established itself as the preferred and superior alternative to other incumbents.\r\n\r\nThe founder behind Oneleet has spent the past 10+ years helping companies become more secure by performing penetration tests.",
-      "one_liner": "YC's most popular security compliance platform (SOC 2, ISO 27001,\u2026",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 50,
-      "industry": "B2B",
-      "subindustry": "B2B -> Security",
-      "industries": [
-        "B2B",
-        "Security"
-      ],
-      "regions": [
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Compliance",
-        "Security",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1657281241.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/35b93ab2671a1397037aa92e0703d5f6c2ec0fba.png"
-    },
-    {
       "id": 27161,
       "name": "Krave Mart",
       "slug": "krave-mart",
@@ -2194,76 +2087,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/418fe819ff51f7a93e3dfa5ef6d26990a3053c22.png"
     },
     {
-      "id": 27086,
-      "name": "AiPrise",
-      "slug": "aiprise",
-      "website": "https://aiprise.com/",
-      "description": "AiPrise allows fintech companies to integrate with multiple identity vendors through a single platform. Companies like Amal Invest use us to integrate with local vendors and comply with regulations in over 100 countries.\r\n\r\n\r\n",
-      "one_liner": "Global KYC and KYB Platform ",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 20,
-      "industry": "Fintech",
-      "subindustry": "Fintech",
-      "industries": [
-        "Fintech"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Santa Clara, CA, USA",
-      "tags": [
-        "Fintech",
-        "B2B",
-        "Identity",
-        "Compliance",
-        "Regtech"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1656614505.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/770962df89cc8c39a3d3d7296d9e2bc0f02b1ea2.png"
-    },
-    {
-      "id": 27085,
-      "name": "Roforco",
-      "slug": "roforco",
-      "website": "",
-      "description": "Roforco is one of the top game studios on Roblox. The team has launched 7 original titles played by over 100 million users and reaching a peak of 10.2 million monthly active users. Top games include:\r\n\r\n* https://www.roblox.com/games/10975855395/Korrupt-Zombies-UPDATE\r\n* https://www.roblox.com/games/9746160797/Sunsilk-City\r\n* https://www.roblox.com/games/4983678402/Disney-World-Magic-Kingdom-Theme-Park\r\n* https://www.roblox.com/games/6497455705/UPDATE-Iron-Seas\r\n\r\nRoforco drives virality through social reach, with 100K+ TikTok followers, 64K+ Discord members, and tens of millions of views across TikTok and YouTube.\r\n\r\nFounded by two 17-year-old high school dropouts who\u2019ve been building viral consumer products since they were 12. ",
-      "one_liner": "Creating viral AI consumer apps and games",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Gaming",
-      "industries": [
-        "Consumer",
-        "Gaming"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Consumer",
-        "Gaming"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1660368152.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc0dd9f83f734b13827ef88ada40e53958962df0.png"
-    },
-    {
       "id": 27078,
       "name": "Wand Solar",
       "slug": "wand-solar",
@@ -3015,7 +2838,7 @@
         "Cloud Computing"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1660930915.0,
@@ -3468,40 +3291,6 @@
       "is_top_company": false,
       "launched_at": 1653315975.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/385a0231f7ab5d980e79ffdfbfa16bc2183b283d.png"
-    },
-    {
-      "id": 26862,
-      "name": "Pulppo",
-      "slug": "pulppo",
-      "website": "https://www.pulppo.com",
-      "description": "Pulppo is building Shopify for the real estate brokerages in Latin America. We provide them with performance analytics software, automatic online property listings, a valuation tool and a CRM. We will charge 20% of the 166 billions dollars in annual commissions they generate.\u00a0\r\nFrom our integrated tool we automate non-value added activities, and give visibility and transparency to agents (CRM) and customers (buyer collaboration, seller dashboard). By integrating the entire process, we empower agents to deliver an improved customer journey and more efficient process.",
-      "one_liner": "Shopify for Real Estate Agents in LATAM",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 29,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-      "industries": [
-        "Real Estate and Construction",
-        "Housing and Real Estate"
-      ],
-      "regions": [
-        "Mexico",
-        "Latin America",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Mexico City, CDMX, Mexico",
-      "tags": [
-        "Real Estate",
-        "Proptech"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1652269934.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e253fb534aa462b015973594492ef7bc2c27096.png"
     },
     {
       "id": 26861,
@@ -5978,43 +5767,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a99f13ea3e8f11f56a566c16c863057d1e5557b.png"
     },
     {
-      "id": 26705,
-      "name": "Stackup",
-      "slug": "stackup",
-      "website": "https://www.stackup.fi",
-      "description": "Stackup is transforming how businesses manage their on-chain operations by offering a smart account platform designed to simplify and automate complex blockchain tasks. As the need for seamless, secure, and efficient crypto transactions grows, Stackup provides centralized control over decentralized assets, allowing businesses to take charge of every detail of their operations with ease. Our platform integrates advanced security and adaptive features to eliminate the chaos of traditional crypto wallets, empowering businesses to manage their crypto stack in real-time. Whether you\u2019re orchestrating large-scale transactions or ensuring complete transparency, Stackup\u2019s solution brings order and precision to blockchain management\u2014turning crypto chaos into structured, seamless business flow.",
-      "one_liner": "Stackup helps businesses manage their crypto assets.",
-      "batch": "S22",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Los Angeles, CA, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Crypto / Web3",
-        "B2B",
-        "Open Source"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1653642506.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/38fd40d4e57e1156a5bd35a1847bcef93e0e3b85.png"
-    },
-    {
       "id": 26704,
       "name": "Two Dots",
       "slug": "two-dots",
@@ -8124,5 +7876,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:28.066973"
+  "fetched_at": "2025-05-05T18:00:59.805641"
 }

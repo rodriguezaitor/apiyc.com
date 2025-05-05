@@ -1,33 +1,6 @@
 {
   "data": [
     {
-      "id": 30131,
-      "name": "Asha Health",
-      "slug": "asha-health",
-      "website": "https://asha.health",
-      "description": "Asha Health enables medical practices to launch their own AI clinic, designed to fill crucial care gaps that their brick & mortar clinics are too overburdened to address \u2014 all while generating additional revenue on autopilot.",
-      "one_liner": "We help medical practices launch their own AI clinic",
-      "batch": "F24",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Unspecified",
-      "industries": [
-        "Healthcare"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1731272455.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9b207807766ddb54c949c58111b8ebf208a2c53.png"
-    },
-    {
       "id": 30130,
       "name": "Bifrost Orbital",
       "slug": "bifrost-orbital",
@@ -2250,40 +2223,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0cbbb79a074c37ef2a992bb2acea7bb3e6eb8af.png"
     },
     {
-      "id": 30043,
-      "name": "Vespper",
-      "slug": "vespper",
-      "website": "https://vespper.com",
-      "description": "Vespper is an AI agent running 24/7 to troubleshoot your alerts by surfacing the right data at the right time. It helps teams reduce downtime and alert fatigue by making sure no alert falls through the cracks again. \r\n",
-      "one_liner": "AI agent that troubleshoots production alerts for software engineers,\u2026",
-      "batch": "F24",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "AIOps",
-        "Developer Tools",
-        "B2B",
-        "DevOps",
-        "AI Assistant"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1729555399.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png"
-    },
-    {
       "id": 30042,
       "name": "Praxis AI",
       "slug": "praxis-ai",
@@ -3113,5 +3052,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:33.685692"
+  "fetched_at": "2025-05-05T18:01:04.687032"
 }

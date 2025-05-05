@@ -283,40 +283,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb805ecba168243d2e3eea815c494ceb319e9267.png"
     },
     {
-      "id": 26268,
-      "name": "Remi",
-      "slug": "remi",
-      "website": "https://www.remihq.com",
-      "description": "We find roofers more roofs, and homeowners the right roofer.\r\n\r\nThere are over 80 million homes in the US, and eventually, every one of them will need a new roof. Our technology  allows contractors to focus on what they do best\u2014getting a repaired roof over homeowners' heads quickly. ",
-      "one_liner": "Simplifying roofing for homeowners, roofers and enterprises.",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 60,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction",
-      "industries": [
-        "Real Estate and Construction"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Lehi, UT, USA",
-      "tags": [
-        "SaaS",
-        "Solar Power",
-        "Construction",
-        "Proptech",
-        "Climate"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1646602366.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65fe6a486657f5ef33dae6c663d4b163a7be728.png"
-    },
-    {
       "id": 26267,
       "name": "Fresh Factory",
       "slug": "fresh-factory",
@@ -6679,41 +6645,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/947c12dfe7364c0cdc976248bb2744519c5003b7.png"
     },
     {
-      "id": 25647,
-      "name": "PermitFlow",
-      "slug": "permitflow",
-      "website": "http://www.permitflow.com",
-      "description": "Intuitive workflow software that helps general contractors and developers identify the optimal permitting process and needed application forms for a particular project, and then easily fill the relevant paperwork to prepare a robust application package.",
-      "one_liner": "TurboTax for Construction Permitting",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 50,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Construction",
-      "industries": [
-        "Real Estate and Construction",
-        "Construction"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA; San Jose, CA, USA",
-      "tags": [
-        "GovTech",
-        "Construction",
-        "Proptech"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1647835770.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ded490920c3d66fa08b0a9da3269ee21d78daff.png"
-    },
-    {
       "id": 25645,
       "name": "Power to the Brand",
       "slug": "power-to-the-brand",
@@ -7641,42 +7572,6 @@
       "is_top_company": false,
       "launched_at": 1648141808.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0574835c7214b7ff4d65ebeebdd038916327d623.png"
-    },
-    {
-      "id": 25575,
-      "name": "Beam",
-      "slug": "beam",
-      "website": "https://beam.cloud",
-      "description": "We help developers deploy web endpoints, task queues, and scheduled jobs on serverless GPUs.",
-      "one_liner": "AI Infrastructure for Developers",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Developer Tools",
-        "Machine Learning",
-        "Open Source",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1641494547.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png"
     },
     {
       "id": 25573,
@@ -9714,43 +9609,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/185c56dbefb7e6cc77211e637e0c8ab47d642d7b.png"
     },
     {
-      "id": 25363,
-      "name": "Gym Class - by IRL Studios",
-      "slug": "gym-class-by-irl-studios",
-      "website": "https://gymclass.com",
-      "description": "Gym Class is the top sports game in VR, where you can play basketball, baseball, football (and more) with people around the world. Download to make friends, compete to become a star, or just break a sweat. Join us on our mission is to connect the world by simulating it. ",
-      "one_liner": "Play sports in virtual reality",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 16,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Virtual and Augmented Reality",
-      "industries": [
-        "Consumer",
-        "Virtual and Augmented Reality"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Los Angeles, CA, USA; Remote",
-      "tags": [
-        "Virtual Reality",
-        "Consumer",
-        "Gaming",
-        "Social",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1642203216.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d3a60708bb80373daa580f343f2a1de6f757eb5.png"
-    },
-    {
       "id": 25361,
       "name": "Fleetzero",
       "slug": "fleetzero",
@@ -10306,39 +10164,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0071b16b382bb816988dd49705c681b85468891c.png"
     },
     {
-      "id": 25338,
-      "name": "CozmoX AI",
-      "slug": "cozmox-ai",
-      "website": "https://www.cozmox.ai/",
-      "description": "CozmoX provides AI employees powered by advanced voice technology that enables natural, human-like conversations. These digital workers communicate fluently with customers and stakeholders while handling repetitive tasks 24/7. Through our no-code platform, businesses can deploy AI employees that manage entire processes through voice interactions, replacing multiple software tools with unified solutions.\r\n\r\nWe\u2019ve unveiled 3 powerful AI employees, with more to come:\r\n\r\nLiza (Sales Executive) - Engages in natural voice conversations throughout the sales cycle, from initial prospect calls to negotiations and closure. She handles qualification calls, follow-ups, and maintains CRM records while building rapport through intelligent dialogue.\r\n\r\nAlex (Debt Collector) - Conducts professional voice communications for collections, speaking with customers to arrange payments, negotiate plans, and ensure timely follow-ups while maintaining regulatory compliance.\r\n\r\nZara (Receptionist) - Masters voice-based front-office management, engaging in natural conversations to route calls, schedule appointments, take detailed messages, and resolve customer inquiries with a friendly, professional tone.\r\n\r\nLike the industrial revolution transformed farming, we're revolutionizing workplace communication. By automating routine conversations and tasks, human teams can focus on creativity, problem-solving, and business growth.\r\n\r\nWe're the first in the Middle East and Africa to offer this kind of technology, but we work with businesses all over the world. We're backed by Y Combinator, Goodwater Capital, Dubai Future District Fund, Rebel Fund, and Trampoline Venture Partners, and have raised $3M in our latest round.",
-      "one_liner": "Middle East and Africa's First Voice AI Employee Platform",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "B2B",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United Arab Emirates",
-        "Middle East and North Africa"
-      ],
-      "locations": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-      "tags": [
-        "Artificial Intelligence",
-        "Infrastructure",
-        "AI",
-        "Conversational AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1644299294.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4daaa9e805a6f544e9f2b4134e28253b549d33.png"
-    },
-    {
       "id": 25333,
       "name": "Shinkei Systems",
       "slug": "shinkei-systems",
@@ -10766,41 +10591,6 @@
       "is_top_company": false,
       "launched_at": 1647622736.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c78986b23d9ab7c1e3cc7f8e34b14ae56a86fcaf.png"
-    },
-    {
-      "id": 25317,
-      "name": "Peakflo",
-      "slug": "peakflo",
-      "website": "https://peakflo.co",
-      "description": "Peakflo with its simple API and one-click ERP integrations, allows businesses to streamline their invoice-to-cash and procure-to-pay processes. 100+ companies, from scale-ups to enterprises, use Peakflo each to: \r\n\r\n - Save 2000 man-hours/month on finance ops  \r\n - Get paid faster on customer invoices by 15-25 days \r\n - Cut vendor bill payment time by 50% \r\n - Automate three-way matching",
-      "one_liner": "Bill.com for SE Asia",
-      "batch": "W22",
-      "status": "Active",
-      "team_size": 45,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "regions": [
-        "Singapore",
-        "Southeast Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Singapore, Singapore",
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1644787148.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f59b4fa6c1b83c6d1b9ccf4e02733f3f60a7a727.png"
     },
     {
       "id": 25316,
@@ -13822,5 +13612,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:25.314706"
+  "fetched_at": "2025-05-05T18:00:57.382775"
 }

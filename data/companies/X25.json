@@ -34,38 +34,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png"
     },
     {
-      "id": 30557,
-      "name": "Aegis",
-      "slug": "aegis",
-      "website": "https://aegishealth.us/",
-      "description": "Aegis is the all-in-one platform that helps healthcare providers recover lost revenue by automating insurance denial appeals\u2014from intake to resolution. Built for billing teams, heathcare providers and hospitals.",
-      "one_liner": "Aegis enables faster revenue recovery for Healthcare Providers",
-      "batch": "X25",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare IT",
-      "industries": [
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Health Tech",
-        "Insurance"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1745980735.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/36103b40de751e5ec5889840f60eec43dc493e69.png"
-    },
-    {
       "id": 30553,
       "name": "Blueshoe",
       "slug": "blueshoe",
@@ -836,6 +804,39 @@
       "is_top_company": false,
       "launched_at": 1743582739.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/740d5233b8e9c5fd92b633ca18abe0767fee3aac.png"
+    },
+    {
+      "id": 30467,
+      "name": "Opusense AI",
+      "slug": "opusense-ai",
+      "website": "https://www.opusense.com/",
+      "description": "Opusense AI automates field report writing for construction field inspectors. Instead of typing up notes at the end of the day, inspectors can now walk a site, speak observations aloud, snap photos, and let our AI assistant generate a detailed, organized report on-site and in real time.\r\n\r\nCombined, the founding team has over 15 years in the construction industry. Writing up these field reports used to take up at least 20% of the week. With Opusense, we cut that time by 5x. Our team combines deep construction experience with technical expertise, Roya has a PhD in civil engineering, and Michael has worked at multiple construction tech startups.\r\n\r\nWhy hasn\u2019t this been done before? Construction is slow to adopt new tech, and reporting is messy, photos, voice notes, and field notes all live in silos. Turning that into a clear, structured report requires real insight into how inspectors work and what clients need. Only now, with advances in AI, can we process unstructured data adequately to generate high-quality reports in real time.\r\n\r\nThe opportunity is massive. Every inspection firm and contractor is struggling with documentation. Manual reports slow them down, create inconsistencies, and delay handoffs. We believe AI can do this better, and Opusense is proving it.",
+      "one_liner": "An AI agent to generate construction field reports while on site",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "SaaS",
+        "Construction",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746456872.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1118b422f2be63b5d6c5b12b721a468712deb7d.png"
     },
     {
       "id": 30462,
@@ -1906,5 +1907,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:37.035783"
+  "fetched_at": "2025-05-05T18:01:06.609956"
 }

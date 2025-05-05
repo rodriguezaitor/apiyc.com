@@ -1,0 +1,573 @@
+{
+  "data": [
+    {
+      "id": 23472,
+      "name": "Moonvalley",
+      "slug": "moonvalley",
+      "website": "https://moonvalley.com",
+      "description": "We are building the next generation creative studio, powered by the most capable video and image foundational models. We are creating the place where generative image and video experiences will be built. Backed by Y-Combinator and Khosla Ventures.\r\n",
+      "one_liner": "Building the next generation AI creative studio",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 95,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Virtual and Augmented Reality",
+      "industries": [
+        "Consumer",
+        "Virtual and Augmented Reality"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614733391.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/30465cbea9e46b05c04149a86003450c834a29d7.png"
+    },
+    {
+      "id": 23301,
+      "name": "FlutterFlow",
+      "slug": "flutterflow",
+      "website": "https://flutterflow.io",
+      "description": "We're building a visual application development platform to dramatically improve the time to market and quality of digital experiences. FlutterFlow helps companies and product teams improve developer efficiency, accelerate project timelines, and reduce costs for large-scale business applications. Our customers include some of the largest banking, consulting, telecom, and manufacturing companies in the world.\r\n\r\nWe have more than 1.3M users in more than 200 countries and regions around the world.\r\n\r\nWe\u2019re a remote first team headquartered in the San Francisco Bay Area. We have offices in Mountain View, New York City, and Singapore.",
+      "one_liner": "Application Development Platform (Native Mobile + Web Apps)",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 70,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Mateo, CA, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1613985818.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df7b6e09c2fda2538b0426203b84e4e92ca7471.png"
+    },
+    {
+      "id": 23220,
+      "name": "Lamar Health",
+      "slug": "lamar-health",
+      "website": "http://www.lamarhealth.com",
+      "description": "$1 T is spent today on back office tasks such as patient triaging, intake, eligibility checks, prior auths and claims. Specialized knowledge is required to complete these tasks making them prone to errors and bottlenecked by staffing. \r\n\r\nLamar Health takes the burden off of providers and intelligently automates these tasks. Starting with specialty medications. ",
+      "one_liner": "Scaling Intelligence for Healthcare Automations",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
+      "tags": [
+        "Health Tech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1648262582.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b775a33621316db8f5dae38fce47b11533ce8f5.png"
+    },
+    {
+      "id": 22991,
+      "name": "Topline Pro",
+      "slug": "topline-pro",
+      "website": "https://www.toplinepro.com",
+      "description": "Topline Pro (formerly ProPhone) is a Generative AI platform enabling home service businesses to be easily discovered, trusted and booked, directly. The AI-driven interface rapidly and affordably creates a custom, SEO-optimized website along with a application to help sync content to and from local listings, put social media communications on autopilot and enable the business owner to easily get paid online.",
+      "one_liner": "Generative AI powered Shopify for home service professionals",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 28,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA; Boston, MA, USA",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1615304872.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c43a0f3a8285bc157c443799365f68e59cff1e3c.png"
+    },
+    {
+      "id": 22887,
+      "name": "R2",
+      "slug": "r2",
+      "website": "https://r2.co/",
+      "description": "R2 enables platforms to seamlessly offer capital to their SMB customers in Latin America",
+      "one_liner": "Embedded lending infrastructure",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 50,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Credit and Lending",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mexico City, CDMX, Mexico",
+      "tags": [
+        "Fintech",
+        "B2B"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614661647.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b369086fdabf6bd95df9f4c2751399f39b54f2fd.png"
+    },
+    {
+      "id": 22879,
+      "name": "Fathom",
+      "slug": "fathom",
+      "website": "https://fathom.video",
+      "description": "Instead of trying to hurriedly take notes while also having a conversation, you simply push a button in our app whenever you hear something important, like a piece of product feedback or action item. In real-time our system records, transcribes, and creates clips from the parts of the conversation you tagged that can share with your team or use to write post-call notes.",
+      "one_liner": "Never take notes again with the #1 AI Meeting Assistant",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 25,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1641591096.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/008e65b3fdfccde7a316a6c0911fd59301ff1025.png"
+    },
+    {
+      "id": 22878,
+      "name": "Popl",
+      "slug": "popl",
+      "website": "https://popl.co/",
+      "description": "Popl is the leading lead capture + digital business card platform for teams and individuals. Professionals use our software platform and mobile app to connect with their future customers in-person.",
+      "one_liner": "AI-powered Lead capture & digital business cards for teams",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 50,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "SaaS",
+        "IoT"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1610523196.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/38d405f6de14f8d3d7f5c8feb80ff7911ac69ec2.png"
+    },
+    {
+      "id": 22861,
+      "name": "Pangea.app",
+      "slug": "pangea-app",
+      "website": "https://www.pangea.app",
+      "description": "The best way to know if someone is a good fit is to work with them on a project before you hire them full-time. \r\n\r\nAt Pangea, we make contract-to-hire easy and painless.\r\n\r\nWe'll work with you to provide a shortlist of top, interested candidates.  \r\n\r\nOur talent have an average of 5-7+ years of experience in design, growth, ops, product, and engineering, and are primarily based in the USA (but also extend to 155 countries)\r\n\r\n",
+      "one_liner": "Hire Fractional Marketing + Design Talent ",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Providence, RI, USA; Remote",
+      "tags": [
+        "Marketplace",
+        "Recruiting",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614621946.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58666900954a06483646ed11cad63426e9401b5d.png"
+    },
+    {
+      "id": 22835,
+      "name": "Vapi",
+      "slug": "vapi",
+      "website": "https://vapi.ai",
+      "description": "",
+      "one_liner": "Voice AI for developers.",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA; Toronto, ON, Canada",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614827434.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3818df985d5f502f5dc4a6816903ce174528467f.png"
+    },
+    {
+      "id": 22834,
+      "name": "Alinea",
+      "slug": "alinea",
+      "website": "https://alinea-invest.com/",
+      "description": "Alinea is an app for new investors where we do the hard work for you. With Alinea you have a team of investment experts in your pocket. ",
+      "one_liner": "Automated investing for the next generation \ud83d\udcb8",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Education",
+        "Fintech",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1613165031.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/309f21a43676330a7d4946870c8eaef1865fe8b0.png"
+    },
+    {
+      "id": 22781,
+      "name": "Cyble",
+      "slug": "cyble",
+      "website": "https://cyble.com/",
+      "description": "Cyble provides the fastest and most comprehensive coverage across adversaries, infrastructure, exposure, weaknesses, and targets.\r\n\r\nCyble empowers governments and enterprises to safeguard their citizens and infrastructure by providing critical intelligence in a timely manner and enabling rapid detection, prioritization, and remediation of security threats through its advanced capabilities for data analysis, expert insights, and automated processes\r\n\r\nHeadquartered in Alpharetta, Georgia,\u202fand with offices in Australia, Malaysia, Singapore, Dubai, Saudi Arabia and India,\u202fCyble\u202fhas a global presence. To learn more about\u202fCyble, visit\u202fwww.cyble.com.\u202f ",
+      "one_liner": "Cyble is one of the fastest-growing threat intelligence provider.",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 260,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Atlanta, GA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1613603669.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1559fe73a2c1a1b683d40299a231a3a0becfe24.png"
+    },
+    {
+      "id": 22779,
+      "name": "Axle Health",
+      "slug": "axle-health",
+      "website": "https://www.axlehealth.com",
+      "description": "Axle Health provides scheduling and workforce management software for home healthcare providers. The Axle platform includes a mobile app for clinicians, an operations dashboard for office teams, proprietary logistics algorithms to optimize scheduling, and a patient engagement and booking solution. Axle is integrated with a wide range of EMRs, and the entire Axle product can be customized and accessed modularly via API. Some of the biggest home health care providers in the country use Axle\u2019s software to improve the utilization of their clinical teams, and automate the operational burden of scheduling and dispatching.",
+      "one_liner": "Scheduling and workforce management SaaS for home healthcare providers",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 14,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Scheduling",
+        "Logistics",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1611436998.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48b548fd88ed1c898f2a5e58f8a6edb67f37bd16.png"
+    },
+    {
+      "id": 22719,
+      "name": "Weekday",
+      "slug": "weekday",
+      "website": "https://weekday.works/",
+      "description": "We help companies hire by building a highly curated list of engineering candidates for them; crowdsourced by our network of software engineers who moonlight as \u201cmini-recruiters\u201d or scouts. Our product enables anyone to become that scout and earn passive income.\r\n",
+      "one_liner": "Hire engineers vouched by other techies",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 20,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Bengaluru, KA, India; Remote",
+      "tags": [
+        "B2B",
+        "Recruiting"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614838352.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/abebec09c171112b2f825b920689d4885969573a.png"
+    },
+    {
+      "id": 22677,
+      "name": "GroMo",
+      "slug": "gromo",
+      "website": "https://www.gromo.in",
+      "description": "GroMo (YC W21) is building India's largest financial products distribution company. GroMo has built a network of 1.2 million agents on its platform. GroMo has built a tech-enabled social commerce platform that helps agents not only improve access to better financial products for consumers, but also bridge the financial literacy gap by helping them choose the right offerings. Currently, GroMo is distributing a broad spectrum of 100+ financial products across Insurance, Investments, Credit Cards, Loans, Saving & Demat accounts, etc. from brands such as IDFC Bank, Jupiter Money, Axis Bank, Freecharge, etc.\r\n",
+      "one_liner": "App for independent agents to sell financial products in India",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 100,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "India",
+        "South Asia"
+      ],
+      "locations": "Gurugram, HR, India",
+      "tags": [
+        "Fintech",
+        "Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1615365926.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4e3e8136445391fcfe8afdb23cac5833b3e1e34.png"
+    },
+    {
+      "id": 22668,
+      "name": "Hapi",
+      "slug": "hapi",
+      "website": "https://hapi.trade/",
+      "description": "Hapi democratizes investing for consumers in Latin America.\r\n\r\nWe let anyone from Latam easily invest in stocks, ETFs and cryptos in under 5 minutes, with no minimums and no commissions.",
+      "one_liner": "Stocks and cryptos trading app with zero commissions and no minimums\u2026",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 45,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Fintech",
+        "Finance",
+        "Consumer Finance",
+        "Trading",
+        "Cryptocurrency"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1612134028.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af60ab7f35a66c928467a7fc0641b82466842558.png"
+    },
+    {
+      "id": 22656,
+      "name": "DreamWorld",
+      "slug": "dreamworld",
+      "website": "https://www.playdreamworld.com/",
+      "description": "DreamWorld is \u201cadult Minecraft\u201d with generative AI. Our players grew up on User Generated Content games, but are now 13-40 and have aged out Roblox / Minecraft. DreamWorld provides more powerful building tools, better graphics, and massive social multiplayer.",
+      "one_liner": "DreamWorld is \u201cadult Minecraft\u201d with generative AI.",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 20,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Redwood City, CA, USA; San Francisco, CA, USA",
+      "tags": [
+        "Gaming"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614886260.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32caa6326e2187568d8936a5e7a613643f07428.png"
+    },
+    {
+      "id": 23304,
+      "name": "Moonshot Brands",
+      "slug": "moonshot-brands",
+      "website": "http://moonshotbrands.com",
+      "description": "Moonshot Brands is building the world\u2019s largest - next-generation CPG (Consumer Product Goods) e-commerce company. We look for profitable e-commerce companies on Amazon or selling DTC on Shopify, purchase them from the founders giving them liquidity for their biggest asset, then turbocharge the growth with our proprietary data-driven technology platform and team. We scale e-commerce brands globally.",
+      "one_liner": "Buy and grow profitable e-commerce companies selling on Amazon and DTC",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 35,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Asset Management",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "regions": [
+        "United States of America",
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Miami, FL, USA; Toronto, ON, Canada; Washington, DC, USA; Remote",
+      "tags": [
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1611511377.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/28e8b66601bd99b04c0ccbfe410627db14923431.png"
+    }
+  ],
+  "fetched_at": "2025-05-05T18:01:08.828884"
+}

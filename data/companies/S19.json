@@ -781,41 +781,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/95c9d28f031050f88288e5b80195b4ca69c2dd41.png"
     },
     {
-      "id": 12845,
-      "name": "Freshpaint",
-      "slug": "freshpaint",
-      "website": "https://freshpaint.io",
-      "description": "Our customers use Freshpaint to make their websites and entire marketing stack HIPAA compliant. It's impossible to use modern analytics and marketing tools without sharing sensitive HIPAA-regulated data. Our platform does the hard thing of moving data from A to B. And then we do the really hard thing of controlling the flow of sensitive HIPAA-regulated data to various 3rd-party marketing tools.\r\n\r\nWe're building the data infrastructure that safeguards patient privacy while also enabling marketing teams promote access to healthcare.",
-      "one_liner": "Customer data collection, safeguarding, & activation for healthcare",
-      "batch": "S19",
-      "status": "Active",
-      "team_size": 75,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1578352495.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f64879cc9b2e90a8ad210fd47f7c8d59390ff5a.png"
-    },
-    {
       "id": 12843,
       "name": "PayMongo",
       "slug": "paymongo",
@@ -1221,71 +1186,6 @@
       "is_top_company": false,
       "launched_at": 1616992302.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e0b3bb137ba53419f4f43e1fa9fcba88163662.png"
-    },
-    {
-      "id": 12821,
-      "name": "Hightouch",
-      "slug": "hightouch",
-      "website": "https://hightouch.com/",
-      "description": "Hightouch is the leading Composable CDP and AI Decisioning platform allowing marketing teams to activate their data warehouse to build 1:1 customer experiences with data and AI agents.",
-      "one_liner": "The leading Composable CDP and AI Decisioning platform",
-      "batch": "S19",
-      "status": "Active",
-      "team_size": 200,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "B2B",
-        "Marketing"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Marketing",
-        "Enterprise Software",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1559005957.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7426486d05ed170ed6c0370bb98b7114471ddc39.png"
-    },
-    {
-      "id": 12797,
-      "name": "Spice Data",
-      "slug": "spice-data",
-      "website": "https://spicedata.com/",
-      "description": "",
-      "one_liner": "Restaurant Data for the Enterprise",
-      "batch": "S19",
-      "status": "Active",
-      "team_size": null,
-      "industry": "B2B",
-      "subindustry": "Consumer",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Enterprise"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1558665919.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cce53f7be13552eac8bf22c7f446a2ac9d860c9d.png"
     },
     {
       "id": 12769,
@@ -2614,41 +2514,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a6cdc02c07302c6d0ae85e71555a18d497b870d.png"
     },
     {
-      "id": 12618,
-      "name": "Embrace",
-      "slug": "embrace",
-      "website": "https://embrace.io",
-      "description": "*S19 and YCG F21*\r\nEngineering teams shouldn\u2019t be in the dark when it comes to the performance of their mobile apps and user experiences. With our industry-leading mobile observability technology, Embrace aims to give SRE and DevOps teams better insight into what matters most \u2013 their users \u2013 by tying mobile performance data to backend observability insights.\r\n\r\nAs the only user-focused, mobile-first observability solution built on OpenTelemetry, Embrace delivers crucial insights across both DevOps and mobile teams to illuminate real customer impact \u2013 not just server impact \u2013 to deliver the best app experiences. Customers like The New York Times, Marriott, Warby Parker, Masterclass, Home Depot, and Cameo love Embrace\u2019s mobile observability platform because it makes extremely complicated and voluminous data actionable.",
-      "one_liner": "Modern mobile observability built on OpenTelemetry",
-      "batch": "S19",
-      "status": "Active",
-      "team_size": 52,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Los Angeles, CA, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Open Source"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1556659657.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5df7e755694ec01e6b16cfc307e0ddf5712e43.png"
-    },
-    {
       "id": 12614,
       "name": "GEn1E Lifesciences",
       "slug": "gen1e-lifesciences",
@@ -2920,43 +2785,6 @@
       "is_top_company": false,
       "launched_at": 1556174906.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56db65c9f57d1baf03c3573709a4dc56ba3e7ee4.png"
-    },
-    {
-      "id": 12582,
-      "name": "Pair Team",
-      "slug": "pair-team",
-      "website": "https://pairteam.com/",
-      "description": "Pair Team cares for the highest-need Medicaid recipients through a community-led, virtual care model. We take responsibility for the whole person by addressing not just clinical needs, but also health-related social needs such as housing instability and food access. We partner with local community-based organizations like shelters and safety net providers to coordinate care alongside our multidisciplinary care team to improve the wellbeing of underserved individuals and communities.",
-      "one_liner": "Connecting underserved communities to high quality care",
-      "batch": "S19",
-      "status": "Active",
-      "team_size": 78,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare Services",
-      "industries": [
-        "Healthcare",
-        "Healthcare Services"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
-      "tags": [
-        "Health Tech",
-        "Workflow Automation",
-        "Digital Health",
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1556171666.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d576fab8c654ab510c86afc4f13dcc1e6b53b02e.png"
     },
     {
       "id": 12578,
@@ -3370,41 +3198,6 @@
       "is_top_company": false,
       "launched_at": 1556075347.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d1171287e418a3d55b38ed9c219d9bb2955b291.png"
-    },
-    {
-      "id": 12545,
-      "name": "Method Financial",
-      "slug": "method-financial",
-      "website": "https://methodfi.com",
-      "description": "Method provides connectivity to consumer credit and liability accounts, enabling end-to-end refinance experiences, real-time account data access, and one-click checkout.",
-      "one_liner": "Financial connectivity API for consumer liabilities",
-      "batch": "S19",
-      "status": "Active",
-      "team_size": 31,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Austin, TX, USA",
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1556075147.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fe82c6fb65a41c32500091074e518f40adc2538.png"
     },
     {
       "id": 12536,
@@ -5899,5 +5692,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:30.000006"
+  "fetched_at": "2025-05-05T18:01:01.512126"
 }

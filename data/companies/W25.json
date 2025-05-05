@@ -1324,41 +1324,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fff9ee9f605429bb5f88b472b70d8a265a0328bf.png"
     },
     {
-      "id": 30303,
-      "name": "AfterQuery",
-      "slug": "afterquery",
-      "website": "https://afterquery.com",
-      "description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
-      "one_liner": "Research lab investigating the boundaries of AI capabilities.",
-      "batch": "W25",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Data Labeling",
-        "Big Data",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1738219847.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76da7482464e997589bdd7af778cc8f800c3d13.png"
-    },
-    {
       "id": 30302,
       "name": "Misprint",
       "slug": "misprint",
@@ -2809,39 +2774,6 @@
       "is_top_company": false,
       "launched_at": 1738613936.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png"
-    },
-    {
-      "id": 30255,
-      "name": "Olive",
-      "slug": "olive",
-      "website": "https://fromolive.com",
-      "description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-      "one_liner": "Build internal tools for your data with natural language.",
-      "batch": "W25",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "Fintech -> Consumer Finance",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1740018718.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png"
     },
     {
       "id": 30254,
@@ -4810,40 +4742,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5111523c1cc63f651baca2a49f9b8fb984cf067.png"
     },
     {
-      "id": 30181,
-      "name": "Leaping AI",
-      "slug": "leaping-ai",
-      "website": "https://www.leapingai.com",
-      "description": "Leaping AI is the only platform for self-improving voice AI agents.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
-      "one_liner": "The only self-improving voice AI",
-      "batch": "W25",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "AI",
-        "Conversational AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1736780951.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png"
-    },
-    {
       "id": 30179,
       "name": "Vetnio",
       "slug": "vetnio",
@@ -5361,5 +5259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:30.380869"
+  "fetched_at": "2025-05-05T18:01:01.842855"
 }

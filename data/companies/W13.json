@@ -465,37 +465,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/52f8bfabfa73534a4e180ab67b04914310f2a95e.png"
     },
     {
-      "id": 488,
-      "name": "Etleap",
-      "slug": "etleap",
-      "website": "https://etleap.com",
-      "description": "Etleap is an ETL solution for creating perfect data pipelines from day one. Unlike other enterprise solutions, Etleap doesn\u2019t require extensive engineering work to set up, maintain, and scale. It automates most ETL setup and maintenance work, and simplifies the rest into 10-minute tasks that analysts can own.",
-      "one_liner": "Etleap is an ETL solution for creating perfect data pipelines. ",
-      "batch": "W13",
-      "status": "Active",
-      "team_size": 11,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Data Engineering"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1354492752.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07c9b19241da3d7897596f5f34b6c9baa7c7518e.png"
-    },
-    {
       "id": 486,
       "name": "Cheetah",
       "slug": "cheetah",
@@ -1495,5 +1464,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:37.644186"
+  "fetched_at": "2025-05-05T18:01:07.412735"
 }

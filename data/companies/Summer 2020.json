@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": 22277,
+      "name": "Heron Data",
+      "slug": "heron-data",
+      "website": "https://www.herondata.io",
+      "description": "At Heron, we use the latest advances in AI and LLMs to automate document-heavy workflows. Our software handles emails, analyzes attachments, and takes actions like updating CRMs or requesting more info. We serve businesses from small companies to FDIC-insured banks in sectors like Small Business Finance and Commercial Insurance.",
+      "one_liner": "We automate document-heavy workflows in financial services and beyond",
+      "batch": "Summer 2020",
+      "status": "Active",
+      "team_size": 26,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1597867558.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/390e7f2f1ec123f79b81c83239389cb870fd0235.png"
+    },
+    {
+      "id": 22218,
+      "name": "Glimpse",
+      "slug": "glimpse-2",
+      "website": "https://tryglimpse.com/",
+      "description": "Glimpse helps retail brands automate their identify and fight invalid fees & streamline the cash reconciliation process &  from their retailers & distributors using AI. Imagine a beverage company sold $100k worth of goods to Whole Foods & only got paid $60k. The deducted $40k comes in hundreds of long PDF\u2019s with obscure codes that a team has to manually review every single one of to ensure the fees are valid. A % of these fees are always invalid and brands have to go through a lengthy process to get back money owed to them. We automate this whole process - saving a brand dozens of hours a week & recouping them 2-3% of their topline sales. Our vision is to become an AI BPO for retail brands. ",
+      "one_liner": "Glimpse offers AI services for retail brands starting with deductions ",
+      "batch": "Summer 2020",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "E-commerce",
+        "Food & Beverage",
+        "Retail"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1595628044.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b3ff22eb22ed3a4fb84e602217d7c216f5bea2f.png"
+    },
+    {
+      "id": 22084,
+      "name": "Arketa",
+      "slug": "arketa",
+      "website": "https://arketa.com",
+      "description": "All in one platform for online and in-person classes, video on-demand, courses and website hosting.",
+      "one_liner": "Everything for your fitness or wellness business.",
+      "batch": "Summer 2020",
+      "status": "Active",
+      "team_size": 55,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "SaaS",
+        "Fitness",
+        "Health & Wellness"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1598389212.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/094fed16cd3ee4ccf1b1e4019332a813d1993a7f.png"
+    },
+    {
+      "id": 21782,
+      "name": "Lightdash",
+      "slug": "hubble",
+      "website": "http://lightdash.com/",
+      "description": "Lightdash is an open-source Looker alternative. It's built on top of dbt and lets users centralise all their team's business logic in one place. ",
+      "one_liner": "The open source Looker alternative ",
+      "batch": "Summer 2020",
+      "status": "Active",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "London, England, United Kingdom; Remote",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "Analytics",
+        "Open Source",
+        "Data Visualization"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1599762606.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88272bf08bd6e30982b7eb442db6a1219b3b388.png"
+    }
+  ],
+  "fetched_at": "2025-05-05T18:01:11.316000"
+}

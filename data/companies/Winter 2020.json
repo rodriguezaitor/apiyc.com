@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 13265,
+      "name": "Alloy Automation",
+      "slug": "alloy-automation",
+      "website": "https://runalloy.com/",
+      "description": "Alloy is an integration platform used by Amazon, Gorgias, Postscript, & others to launch ERP, commerce, CRM, and various other integrations. Founded in 2019, the company is backed by $27M from a16z, Bain Capital Ventures, Y Combinator, and others.",
+      "one_liner": "Alloy is a platform for building and managing SaaS integrations",
+      "batch": "Winter 2020",
+      "status": "Active",
+      "team_size": 40,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "SaaS",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1594318518.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d611b19e76b1fd47ac709a3f9e194fac2e46bcaa.png"
+    },
+    {
+      "id": 13104,
+      "name": "Letterdrop",
+      "slug": "letterdrop",
+      "website": "https://letterdrop.com",
+      "description": "Find pipeline you didn't know you had by automating social selling and accessing unique intent data.",
+      "one_liner": "Automated social selling to book more meetings",
+      "batch": "Winter 2020",
+      "status": "Active",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Generative AI",
+        "Sales",
+        "Marketing"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1646371716.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/37e8e62d8a79db7c006e15d1cce3365c5fc7e469.png"
+    }
+  ],
+  "fetched_at": "2025-05-05T18:01:13.667100"
+}

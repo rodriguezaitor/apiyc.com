@@ -2465,34 +2465,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f324d3272a9c106015bc04587fbb6b150b6e6b1e.png"
     },
     {
-      "id": 29799,
-      "name": "Helium",
-      "slug": "helium",
-      "website": "https://tryhelium.com",
-      "description": "Helium is building self-improving software \u2014 AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. \r\n\r\nZach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%. ",
-      "one_liner": "Self Improving Software",
-      "batch": "S24",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1722968896.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f800e2a1ea0c20343a59b42d64729d9dd28eeac0.png"
-    },
-    {
       "id": 29798,
       "name": "&AI",
       "slug": "ai-2",
@@ -3836,40 +3808,6 @@
       "is_top_company": false,
       "launched_at": 1721770612.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70cdd1fa78c63083ab6a70c63195a46e8f6cad04.png"
-    },
-    {
-      "id": 29754,
-      "name": "Conductor Quantum",
-      "slug": "conductor-quantum",
-      "website": "https://www.conductorquantum.com",
-      "description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
-      "one_liner": "Quantum computers on silicon chips using AI.",
-      "batch": "S24",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Industrials",
-      "subindustry": "Industrials",
-      "industries": [
-        "Industrials"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Hard Tech",
-        "Machine Learning",
-        "Quantum Computing",
-        "Semiconductors",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1718219316.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png"
     },
     {
       "id": 29753,
@@ -8310,5 +8248,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-05T12:01:27.611192"
+  "fetched_at": "2025-05-05T18:00:58.999435"
 }
