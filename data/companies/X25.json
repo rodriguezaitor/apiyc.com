@@ -1261,6 +1261,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c286f38db8cc7695ccbc163189808ca1c0bcb7d3.png"
     },
     {
+      "id": 30428,
+      "name": "Capacitive",
+      "slug": "capacitive",
+      "website": "https://capacitive.ai/",
+      "description": "Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.\r\n\r\nCapacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context \u2014 or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",
+      "one_liner": "The enterprise data gateway company.",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746399469.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f362b725240ccdfc1c0cc42ebc5700507b2ddb.png"
+    },
+    {
       "id": 30426,
       "name": "Approval AI",
       "slug": "approval-ai",
@@ -1585,7 +1617,7 @@
       "slug": "plexe",
       "website": "https://plexe.ai",
       "description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-      "one_liner": "Open-source agent that builds AI from problem description",
+      "one_liner": "Open-source agent that builds ML models from a prompt",
       "batch": "X25",
       "status": "Active",
       "team_size": 2,
@@ -1806,5 +1838,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-04T18:01:08.989733"
+  "fetched_at": "2025-05-05T00:03:25.491468"
 }

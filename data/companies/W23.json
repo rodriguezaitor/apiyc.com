@@ -924,7 +924,7 @@
       "name": "Vector",
       "slug": "vector",
       "website": "https://vector.co",
-      "description": "The world\u2019s first and only intent platform that tells you exactly which contacts are in-market before they land on your site.\r\n",
+      "description": "The world\u2019s first and only intent platform based entirely at the contact level. Know exactly which contacts are in-market on and off your site. ",
       "one_liner": "Find your prospects who are most likely to buy.",
       "batch": "W23",
       "status": "Active",
@@ -7792,7 +7792,7 @@
         "Healthcare"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1677015940.0,
@@ -9356,5 +9356,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-04T18:01:00.586211"
+  "fetched_at": "2025-05-05T00:03:22.722931"
 }
