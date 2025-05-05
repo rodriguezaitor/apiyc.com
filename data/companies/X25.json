@@ -635,6 +635,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png"
     },
     {
+      "id": 30487,
+      "name": "Lyra",
+      "slug": "lyrahq",
+      "website": "https://lyra.so/",
+      "description": "At Lyra, we believe B2B sales hasn\u2019t meaningfully evolved in decades \u2014 until now. The next industrial revolution is here, and we\u2019re building the platform to power it.\r\n\r\nModern buyers want less talk, faster decisions, and seamless experiences. Lyra helps sales teams close more deals, shorten sales cycles, and operate more efficiently \u2014 all with minimal rep involvement.\r\n\r\nWe built our own meeting software from the ground up with a real-time AI agent at its core:\r\n- Surfaces and personalizes relevant sales collateral using live conversation intelligence\r\n- Keeps deals moving by answering buyer questions when reps are offline\r\n- Replaces decks, screen shares, and long email threads with a single interactive workspace \u2014 called a Lyra. It hosts your meetings, onboarding, and integrates tools like DocuSign to give buyers a seamless path from first call to signed contract\r\n\r\nHundreds of sales calls are already hosted on Lyra, including several YC companies. We hit $100K ARR in our first two weeks.\r\n\r\nWe\u2019re rethinking the sales stack from first call to signed contract.",
+      "one_liner": "AI native zoom for revenue teams",
+      "batch": "X25",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Customer Success",
+        "Sales",
+        "Telecommunications"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746417759.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/08d53e0e1d5ae814a7eb6f975ac81736e6a9beb7.png"
+    },
+    {
       "id": 30484,
       "name": "throxy",
       "slug": "throxy",
@@ -1838,5 +1875,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-05T00:03:25.491468"
+  "fetched_at": "2025-05-05T06:01:32.357708"
 }
