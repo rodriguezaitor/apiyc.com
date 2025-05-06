@@ -1165,7 +1165,7 @@
       "one_liner": "Code review for DevOps tasks",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -6048,42 +6048,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7aefca6f08e98bcb987bd108cb1bbe99254dd91.png"
     },
     {
-      "id": 22831,
-      "name": "Emerge Tools",
-      "slug": "emerge-tools",
-      "website": "https://www.emergetools.com/",
-      "description": "Emerge is a suite of developer tools designed to supercharge mobile apps and the teams that build them.\r\n\r\nOur tooling is already used by many of the best mobile teams in the world like DoorDash, Square, Airbnb, Duolingo, Stripe, among others. Come help us make it even better!",
-      "one_liner": "Supercharge your mobile apps",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 9,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Santa Monica, CA, USA; Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "B2B",
-        "Enterprise"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614619318.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d082e2fe9c186f3598bbc35bc7f05b0752b53458.png"
-    },
-    {
       "id": 22829,
       "name": "Camber",
       "slug": "camber-2",
@@ -9437,6 +9401,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cca6737048b576c714290c829ede60b01976d857.png"
     },
     {
+      "id": 22831,
+      "name": "Emerge Tools",
+      "slug": "emerge-tools",
+      "website": "https://www.emergetools.com/",
+      "description": "Emerge is a suite of developer tools designed to supercharge mobile apps and the teams that build them.\r\n\r\nOur tooling is already used by many of the best mobile teams in the world like DoorDash, Square, Airbnb, Duolingo, Stripe, among others. Come help us make it even better!",
+      "one_liner": "Supercharge your mobile apps",
+      "batch": "Winter 2021",
+      "status": "Acquired",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Santa Monica, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "Enterprise"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614619318.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d082e2fe9c186f3598bbc35bc7f05b0752b53458.png"
+    },
+    {
       "id": 22830,
       "name": "Pry Financials",
       "slug": "pry-financials",
@@ -11541,5 +11541,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-05-06T12:01:37.128161"
+  "fetched_at": "2025-05-06T18:01:27.636351"
 }

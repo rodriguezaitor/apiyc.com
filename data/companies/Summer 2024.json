@@ -6823,16 +6823,17 @@
         "Finance and Accounting"
       ],
       "regions": [
-        "Unspecified"
+        "Germany",
+        "Europe"
       ],
-      "locations": "",
+      "locations": "Berlin, Berlin, Germany",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724096273.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0b8f16bae30d2bbbc9ba13873ddd8f795b33ed.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/538a6103bd81eea70ef4381d684e316ab86ba3b0.png"
     },
     {
       "id": 29639,
@@ -7784,7 +7785,7 @@
       "slug": "miru-ml",
       "website": "https://www.miruml.com",
       "description": "Miru makes it easy for robotics teams to manage, version, and deploy robot configurations. Developers use our well-documented APIs and UI components to automate configuration updates for both engineers and operators.\r\n\r\nIn the long term, we're building software infrastructure to accelerate the automation of the physical world.",
-      "one_liner": "DevOps for robotics",
+      "one_liner": "Config Management for Robotics",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -8310,5 +8311,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-06T12:01:37.393933"
+  "fetched_at": "2025-05-06T18:01:28.987110"
 }
