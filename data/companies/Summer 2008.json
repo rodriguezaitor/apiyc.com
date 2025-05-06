@@ -1,0 +1,663 @@
+{
+  "data": [
+    {
+      "id": 282,
+      "name": "Poll Everywhere",
+      "slug": "poll-everywhere",
+      "website": "https://www.polleverywhere.com",
+      "description": "Poll Everywhere turns any presentation into a two-way conversation - directly in your PowerPoint, Keynote, or Google Slide deck. Participants respond to questions live using mobile phones and the results appear instantly in beautiful, animated displays. Poll Everywhere engages everyone at conferences, town halls, training sessions, marketing events, and everyday meetings. Learn more about how organizations like HP, Volvo, KPMG, and over 75% of the Fortune 500 use Poll Everywhere to get results.",
+      "one_liner": "Interactive meetings and presentations",
+      "batch": "Summer 2008",
+      "status": "Active",
+      "team_size": 70,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790942.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ecbec2f3750898b4408fbaa96c7249395a7fc445.png"
+    },
+    {
+      "id": 291,
+      "name": "BackType",
+      "slug": "backtype",
+      "website": "http://backtype.com",
+      "description": "",
+      "one_liner": "BackType was an analytics company acquired by Twitter in 2011",
+      "batch": "Summer 2008",
+      "status": "Acquired",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791016.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ec00079f2609a11308b0e89a7e2ed64081516db.png"
+    },
+    {
+      "id": 289,
+      "name": "JustSpotted",
+      "slug": "justspotted",
+      "website": "http://justspotted.com",
+      "description": "The artist-formerly-known-as Scoopler is a real-time search engine. It aggregates and organizes content being shared on the Internet as it happens, like eye-witness reports of breaking news, photos and videos from big events, and links to the hottest memes of the day. It does this by constantly indexing live updates from services including Twitter, Flickr, Digg, Delicious and more. When users search for a topic on Scoopler, they get the most relevant results, updated in real-time.\n\nScoopler has now become JustSpotted, a celebrity-tracking tool, meant to give fans an idea of what their favorite celebrities are up to at any given moment. JustSpotted, like Scoopler, is a data-aggregator, yet JustSpotted collects from Twitter, Facebook, and Foursquare -- alongside their own data they\u00e2\u20ac\u2122ll be collecting from users who actual spot celebrities in the wild. All the information we aggregate is publicly available and you can even do a search on Twitter yourself and find sightings of celebrities. We're just the first people to organize it on a map and in such a way that it's easy to consume and ENJOY.\u00e2\u20ac\u009d\n\nJustSpotted is about connecting with celebs. All the sightings on our website are naturally occurring events where an everyday person bumps into a celebrity as a chance occurrence. Back in the day, when you saw a celebrity while you were out and about the first thing you would have done was phone or text a friend. In the new age of social media, the first thing you do is share it on Facebook or Twitter. This phenomena is already happening.\n\nThe service, which launches the week of October 11, 2010, is the latest creation by AJ Asver, Dilan Jarawardane and Benjamin Tauber.",
+      "one_liner": "Acquired by Google in 2011",
+      "batch": "Summer 2008",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "Denmark",
+        "Europe"
+      ],
+      "locations": "Copenhagen, Denmark",
+      "tags": [
+        "Artificial Intelligence",
+        "ML"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791006.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 284,
+      "name": "Cloudant",
+      "slug": "cloudant",
+      "website": "http://cloudant.com",
+      "description": "Cloudant's distributed database-as-a-service (DBaaS) allows developers of fast-growing web and mobile apps to focus on building and improving their products, instead of worrying about scaling and managing their databases on their own.\n\nWe manage and distribute your data globally so you can grow more users, build more app features, and sleep more knowing we're keeping the servers up and humming.\n\nCloudant was founded in Cambridge, Massachusetts in 2008 by three MIT physicists who at the time were moving multi-petabyte data sets around from the Large Hadron Collider. Frustrated by the available tools for managing and analyzing Big Data in their research, the founders built a distributed, fault-tolerant, globally scalable data layer on top of Apache CouchDB.\n\nThe service has grown since then. The team now manages and serves mobile and web app data on behalf of thousands of developers and hundreds of customers to their users around the world. In 2014, the company was acquired by a global enterprise software & hardware vendor.",
+      "one_liner": "NoSQL Database-aaS.  Acquired by IBM in 2014.  Now IBM Cloud Data\u2026",
+      "batch": "Summer 2008",
+      "status": "Acquired",
+      "team_size": 51,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Boston, MA, USA",
+      "tags": [],
+      "stage": "Growth",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790962.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 281,
+      "name": "Posterous",
+      "slug": "posterous",
+      "website": "http://posterous.com",
+      "description": "Posterous emerged from Y Combinator in the summer of 2008 as an innovative company focused on making blogging simple - as simple as sending an email - and now has more than 15 million monthly users.\r\n\r\nWith the launch of Posterous Spaces, the company is bringing its trademark simplicity to help people share smarter with intuitive privacy controls to share selectively across multiple platforms.",
+      "one_liner": "Dead simple blogs by email",
+      "batch": "Summer 2008",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Email"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790935.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc0011671097bf05400aa3d979a22a7452d3867.png"
+    },
+    {
+      "id": 302,
+      "name": "Slinkset",
+      "slug": "slinkset",
+      "website": "http://slinkset.com",
+      "description": "Slinkset is a white label social news platform that allows anyone to start a social news site and integrate it into their own website.",
+      "one_liner": "Votable lists",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Media",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791147.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 301,
+      "name": "Treehouse",
+      "slug": "treehouse",
+      "website": "http://gotreehouse.com",
+      "description": "Treehouse is an online technology school that offers beginner to advanced courses in web design, web development, mobile development and game development taught by a team of expert teachers. Its courses are aimed at beginners looking to learn coding skills and embark on a career in the tech industry.\n\nIn May 2016, Treehouse launched the Techdegree program, a comprehensive learning program focused on helping people learn the skills they need to start a tech career. Through earning a Techdegree certification, a student will challenge themselves, deepen their skills, and prove their knowledge to potential employers. All in 6-12 months, on their own schedule.\n\nTreehouse believes that understanding, communicating with and controlling technology is a fundamental skill that everyone should have the opportunity to learn. Through learning with Treehouse, each student is given the opportunity to learn the valuable skills they need \u2014 whether they have existing, little or no previous experience \u2014 to confidently take control of their future.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 101,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Portland, OR, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791140.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 300,
+      "name": "PlayReader",
+      "slug": "playreader",
+      "website": "http://playreader.com",
+      "description": null,
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791133.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 299,
+      "name": "People & Pages",
+      "slug": "people-and-pages",
+      "website": "http://peopleandpages.com",
+      "description": "People and Pages is a service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place. Although the screenshots show that it's part WYSIWYG website creation tool as well, making it competitive with Google Sites, Weebly, and others. As of August 2008 the site is yet to launch.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791126.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 298,
+      "name": "Popcuts",
+      "slug": "popcuts",
+      "website": "http://popcuts.com",
+      "description": "Popcuts is a unique online music store. DRM-free songs are sold for 99cents, but every time a song you bought sells, you get a cut of the proceeds (earlier buyers get a bigger cut).",
+      "one_liner": "Popcuts is an online music store where fans participate in the\u2026",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Lucerne Valley, CA, USA",
+      "tags": [
+        "Marketplace",
+        "E-Commerce",
+        "Music"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791114.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 297,
+      "name": "Snipd",
+      "slug": "snipd",
+      "website": "http://snipd.com",
+      "description": "Grab pieces of enjoyable content from any page, save them online, and share without having to copy/paste using a simple bookmarklet. For bloggers and media sites, Snipd's widget enables readership to Snip images, videos, or text enjoyed most within articles.\n\nSnipd content becomes a destination for users, rather than a list of bookmarks because users are able to enjoy what they saved from within pages on the net.\n\nWith more and more content to sift through these days, Snipd makes it easier to identify hot-zones in articles. Hot-zones are dumbed-down heat maps for content. Readers can forget skimming and focus on what people are Snipping most on any page. Because a snip is an implicit vote on a piece of content, we aggregate and figure out what area of an article is attracting the most attention.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791105.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 296,
+      "name": "Ticket Stumbler",
+      "slug": "ticket-stumbler",
+      "website": "http://ticketstumbler.com",
+      "description": "TicketStumbler is a secondary ticket market search engine and comparison website. They search through thousands of ticket listings from hundreds of brokers and ticket exchanges across the internet and present the information in an organizable format. TicketStumbler allows simple ticket comparison, enabling you to find the best seats at the best prices.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Travel, Leisure and Tourism",
+      "industries": [
+        "Consumer",
+        "Travel, Leisure and Tourism"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Boston, MA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791095.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 295,
+      "name": "Claimspotting",
+      "slug": "claimspotting",
+      "website": "http://urbantakeover.at",
+      "description": "",
+      "one_liner": "Claim and conquer your city",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Proptech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791080.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 294,
+      "name": "Team Apart",
+      "slug": "team-apart",
+      "website": "http://teamapart.com",
+      "description": "Team Apart is a real-time online group collaboration tool.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791073.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 293,
+      "name": "Youlicit",
+      "slug": "youlicit",
+      "website": "http://youlicit.com",
+      "description": "The Youlicit web content recommendation engine leverages the wisdom of the crowds to return the most recommended sites related to a website or topic. To use Youlicit, simply install a plug-in with the Youlicit buttons on your Firefox browser. These buttons light up, while you surf, and by clicking on them, you instantly get highly relevant recommendations, without searching. It also allows you to discover the web via personalized recommendations based on your interests and find other users interested in the same topics as you.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791058.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 292,
+      "name": "Precognate",
+      "slug": "precognate",
+      "website": "http://precognate.com",
+      "description": null,
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791038.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 290,
+      "name": "Picwing",
+      "slug": "picwing",
+      "website": "http://picwing.com",
+      "description": "Picwing is a photo sharing platform that enables users to share their photos through a variety of sources.\r\n\r\nPicwing offers a convenient printing service where their users can send photos through email using a camera or computer. These photos are printed and mailed to one or more recipients every 2 weeks.\r\n\r\nPicwing also provides digital photo frames built upon a Linux kernel. Users can send an image from their desktop or phone, and within 20-30 seconds see it on a digital frame. The frames are mini Linux machines that the founders hope will eventually be able to support much more than image sharing.",
+      "one_liner": "Photo Sharing platform for families",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1263719013.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e865cf64815fa8e2f38e1969ab67848346e981d.png"
+    },
+    {
+      "id": 288,
+      "name": "CO2Stats",
+      "slug": "co2stats",
+      "website": "http://co2stats.com",
+      "description": "CO2Stats aims to help website owners understand the electricity usage and related carbon emissions associated with site usage, and then helps site owners manage their carbon footprint.\r\n\r\nThe company calculates the greenhouse gas footprint of visits to your site, based on locations of your visitors and servers, computer types, window and monitor sizes, local fuel mixes, download sizes and times.\r\n\r\nEvery month CO2Stats purchase Green-E certified Renewable Energy Certificates to offset your site's CO2 footprint. Users can inspect your certificates and other environmental statistics by clicking on your CO2Stats badge.",
+      "one_liner": "Social and environmental web analytics. Acquired in December 2016.",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Cambridge, MA, USA",
+      "tags": [
+        "Climate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790998.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 287,
+      "name": "Anyvite",
+      "slug": "anyvite",
+      "website": "http://anyvite.com",
+      "description": "Anyvite is a free site dedicated to event invitation creation and group organization. Launched in 2008, Anyvite provides users with the most efficient way to create invitations as well as offers the tools necessary to organize and communicate with attendees throughout the event lifecycle.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Columbia, MD, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790990.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 286,
+      "name": "Frogmetrics",
+      "slug": "frogmetrics",
+      "website": "http://frogmetrics.com",
+      "description": "Frogmetrics aggregates your data from unlimited locations, automatically finds the most important statistics, and helps you gain insights about your business from your web browser. The company wants to place touch screens in restaurants, stores, and other brick and mortar establishments that can be used to collect customer feedback on the spot. The devices ask customers a few questions at the point of sale about their experience and can collect contact information about customers to generate leads. The information gathered across physical locations is aggregated and analyzed for trends and other statistics.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "NY, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790983.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 285,
+      "name": "Job Alchemist",
+      "slug": "job-alchemist",
+      "website": "http://jobalchemist.com",
+      "description": null,
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790973.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 283,
+      "name": "OhLife",
+      "slug": "ohlife",
+      "website": "http://ohlife.com",
+      "description": "OhLife is a personal journal that you'll actually keep. Every day we send you an email asking \"How'd your day go?\" You type as much as you want and hit reply. We accumulate your entire journal through these daily email replies.",
+      "one_liner": "",
+      "batch": "Summer 2008",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790953.0,
+      "logo_url": "/company/thumb/missing.png"
+    }
+  ],
+  "fetched_at": "2025-05-06T00:03:00.771383"
+}

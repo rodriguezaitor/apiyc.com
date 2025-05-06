@@ -1,6 +1,189 @@
 {
   "data": [
     {
+      "id": 271,
+      "name": "Airbnb",
+      "slug": "airbnb",
+      "website": "http://airbnb.com",
+      "description": "Founded in August of 2008 and based in San Francisco, California, Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodations around the world \u2014 online or from a mobile phone. Whether an apartment for a night, a castle for a week, or a villa for a month, Airbnb connects people to unique travel experiences, at any price point, in more than 33,000 cities and 192 countries. And with world-class customer service and a growing community of users, Airbnb is the easiest way for people to monetize their extra space and showcase it to an audience of millions.  \r\n\r\nNo global movement springs from individuals. It takes an entire team united behind something big. Together, we work hard, we laugh a lot, we brainstorm nonstop, we use hundreds of Post-Its a week, and we give the best high-fives in town. Headquartered in San Francisco, we have satellite offices in Dublin, London, Barcelona, Paris, Milan, Copenhagen, Berlin, Moscow, S\u00e3o Paolo, Sydney, and Singapore.",
+      "one_liner": "Book accommodations around the world.",
+      "batch": "Winter 2009",
+      "status": "Public",
+      "team_size": 6132,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Travel, Leisure and Tourism",
+      "industries": [
+        "Consumer",
+        "Travel, Leisure and Tourism"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketplace",
+        "Travel"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1326790856.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e9a0092bee2ccf926e650e59c06503ec6b9ee65.png"
+    },
+    {
+      "id": 270,
+      "name": "Volantio",
+      "slug": "volantio",
+      "website": "http://www.volantio.com",
+      "description": "Volantio is a leader in travel technology software focused on revenue and capacity optimization for airlines.  \r\n\r\nBased in Atlanta, GA, Volantio partners with major airlines globally such as Qantas, Iberia, Alaska Airlines, Volaris, Jetstar Airways, Emirates, Ethiopian Airlines, Scoot-Tigerair, and others. \r\n\r\nThe company\u2019s Yana platform enables airlines to generate incremental revenue and reduce operational costs, while putting greater predictability and control back into the hands of their customers.\r\n\r\nWe are backed by institutional and strategic investors from around the world including Ingleside Investors, JetBlue Technology Ventures, International Airlines Group (IAG), and Qantas Ventures.",
+      "one_liner": "Post-booking revenue and capacity optimization for airlines\u2026",
+      "batch": "Winter 2009",
+      "status": "Active",
+      "team_size": 19,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Atlanta, GA, USA",
+      "tags": [
+        "Airlines"
+      ],
+      "stage": "Growth",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790848.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf9bb5e6e2675a17e58680fdafb1e6a3bef6c968.png"
+    },
+    {
+      "id": 275,
+      "name": "Cloudkick",
+      "slug": "cloudkick",
+      "website": "http://cloudkick.com",
+      "description": "Cloudkick is system to manage cloud servers, such as the Rackspace Cloud and Amazon's EC2.  Cloudkick provides an easy to use monitoring/alerting solution to support your production infrastructure on the cloud.  Cloudkick also gives you a window into your cloud deployment by providing detailed graphs on the health of your servers, and tools to categorize and keep information about what each server is doing.  Cloudkick's mission is to make cloud servers easy to use, where ever the customer needs them.",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Acquired",
+      "team_size": 11,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790886.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 274,
+      "name": "Echodio",
+      "slug": "echodio",
+      "website": "http://echodio.com",
+      "description": "Echodio is the easiest way to sync your music library across players, keep your valuable collection safe, and stream to your media center.",
+      "one_liner": "Sync and stream your music across any device. Acquired in 2009. ",
+      "batch": "Winter 2009",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Music"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790876.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/511e33e373ba8cbed610998321772565bd2ea6b2.png"
+    },
+    {
+      "id": 273,
+      "name": "reMail",
+      "slug": "remail",
+      "website": "http://remail.com",
+      "description": "ReMail is an email app that downloads all your email to your iPhone and offers a comprehensive email search.",
+      "one_liner": "Email search for iPhone. Acquired by Google in Feb 2010.",
+      "batch": "Winter 2009",
+      "status": "Acquired",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "CA, USA",
+      "tags": [
+        "Email"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790872.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/001be90befc6cb6633d3b3314009fabd489e5691.png"
+    },
+    {
+      "id": 272,
+      "name": "Divvyshot",
+      "slug": "divvyshot",
+      "website": "http://divvyshot.com",
+      "description": "Divvyshot is a photo-sharing platform that enables users to share full resolution photos with friends.",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790867.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4dc72b9f11ce7f6ee7142b32a97c4e3e477b6ed.png"
+    },
+    {
       "id": 267,
       "name": "Heyzap",
       "slug": "heyzap",
@@ -30,7 +213,272 @@
       "is_top_company": false,
       "launched_at": 1326790823.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f23a0e60878f243a227ecdd0b96b41960b5ee37f.png"
+    },
+    {
+      "id": 280,
+      "name": "PetaSales",
+      "slug": "petasales",
+      "website": "http://",
+      "description": "",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790927.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 279,
+      "name": "Voxli",
+      "slug": "voxli",
+      "website": "http://voxli.com",
+      "description": "Voxli offers browser-based group voice chat for gamers and teams.\r\n\r\nUsers of Voxli can voice chat with up to 200 people at a time without leaving the browser or setting up a voice server. Each group voice chat exists at a persistent URL, which can be shared with friends via email or IM. Voxli works on Windows and Mac, and supports push-to-talk (walkie talkie) functionality outside of the browser.\r\n\r\nVoxli is currently free while it is in open beta.",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790923.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ac20ac455dd6043cbdfc242898a73e662056436.png"
+    },
+    {
+      "id": 278,
+      "name": "Nambii",
+      "slug": "nambii",
+      "website": "http://nambii.com",
+      "description": "Nambii is an online dating service with iPhone applications that allow users to send and receive flirts with people around them.",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790916.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 277,
+      "name": "Picurio",
+      "slug": "picurio",
+      "website": "http://picurio.com",
+      "description": "Picurio is web-based photo sharing and photo management software.",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790905.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 276,
+      "name": "Spaces Life",
+      "slug": "spaces-life",
+      "website": "http://spaceslife.com",
+      "description": "",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790898.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 269,
+      "name": "Foodoro",
+      "slug": "foodoro",
+      "website": "http://foodoro.com",
+      "description": "Foodoro is a marketplace where people can buy specialty food directly from artisanal Foodmakers\n\nOur goal is to help people discover amazing food products and connect them with the folks who make their food\n\nOur company was started in 2008 by a small group of folks obsessed with food and technology\n\nPeople were always telling us about small Foodmakers who make amazing products, but we found it difficult to get our hands on their food. So, we decided to build a better way to help people discover and buy the best food products anywhere",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790834.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 268,
+      "name": "Wattvision",
+      "slug": "wattvision",
+      "website": "http://www.wattvision.com",
+      "description": "Wattvision offers a simple idea: Monitor your energy consumption in realtime from the web. We started by selling the complete sensor and software solution, and now we are focusing on developing software that works with our hardware partners.",
+      "one_liner": "Sensors and software for energy tracking. Like 'fitbit' for your\u2026",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Princeton, NJ, USA; Remote",
+      "tags": [
+        "Sustainability"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790830.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a004a5ad1f98a7b8df8b18dc5438fe0e6b22acd.png"
+    },
+    {
+      "id": 266,
+      "name": "Skysheet",
+      "slug": "skysheet",
+      "website": "http://skysheet.com",
+      "description": "Skysheet is a web-based spreadsheet, in stealth mode as of March 2009.",
+      "one_liner": "Browser-based spreadsheet.",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Productivity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790816.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 265,
+      "name": "Recurious",
+      "slug": "recurious",
+      "website": "http://thesixtyone.com",
+      "description": "thesixtyone is Digg for new music, a social filter for the tsunami of indie creativity hitting the web. Like Digg, the homepage is community driven. Listeners who sign up are given a daily number of \"hearts\" they can use to vote on songs they like. If songs you heart become popular, you earn reputation points, level up, and unlock community abilities. Listeners can also earn achievement badges for various activities, like hearting songs in under-explored genres or reaching a playcount milestone. All tracks are fully streamable and can be organized in tag-based playlists. To lubricate the experience, they've invented an ajax navigation system that allows listeners to enjoy seamless audio playback across pageviews.",
+      "one_liner": "",
+      "batch": "Winter 2009",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326790809.0,
+      "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-05-05T18:01:13.272754"
+  "fetched_at": "2025-05-06T00:03:01.329013"
 }
