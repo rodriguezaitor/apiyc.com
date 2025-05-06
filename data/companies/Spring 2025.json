@@ -658,11 +658,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Sales",
-        "Telecommunications"
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -676,7 +676,7 @@
       "name": "throxy",
       "slug": "throxy",
       "website": "https://throxy.com/",
-      "description": "Throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken\u2014generic automation gets ignored, and legacy sectors are hard to crack. Throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nToday, throxy powers outbound for B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We\u2019re not just automating outbound, we\u2019re redefining what sales execution looks like in traditional industries.\r\n\r\nThroxy is the AI SDR purpose-built for the sectors software forgot.",
+      "description": "throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken\u2014generic automation gets ignored, and legacy sectors are hard to crack. throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We\u2019re not just automating outbound, we\u2019re redefining what sales execution looks like in traditional industries.\r\n\r\nthroxy is the AI SDR purpose-built for the sectors software forgot.",
       "one_liner": "Book meetings without the busywork. Bespoke fully managed outbound.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -738,6 +738,39 @@
       "is_top_company": false,
       "launched_at": 1745363793.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e466d12d16c41d0fef8cb0f998694104768a30aa.png"
+    },
+    {
+      "id": 30480,
+      "name": "Flott HQ",
+      "slug": "flott-hq",
+      "website": "https://www.flotthq.com",
+      "description": "Flott HQ is an all-in-one fleet operations platform that helps transport, logistics and field service teams boost profitability with AI-powered planning, tracking, invoicing, and payments \u2014 all in one place.\r\nWe centralize what most teams manage across 5+ tools, helping our clients grow faster while cutting operational costs.",
+      "one_liner": "AI-base operating system for vehicle fleets management.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Logistics",
+        "Transportation",
+        "Operations",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746507069.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/068ef3305c3032de8e91325a83c2e67511616523.png"
     },
     {
       "id": 30479,
@@ -1258,7 +1291,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746478234.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1872588cb079555d5a6ab2eb57382f04f86ce2b0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png"
     },
     {
       "id": 30434,
@@ -1964,5 +1997,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-06T00:02:58.930426"
+  "fetched_at": "2025-05-06T06:01:20.348391"
 }

@@ -4007,7 +4007,7 @@
       "name": "CodeAnt AI",
       "slug": "codeant-ai",
       "website": "https://codeant.ai/",
-      "description": "CodeAnt AI is an AI Code Review Platform. It helps you review and merge code 50% faster.\r\n- Gives One-click fixes for code quality and security issues\r\n- Works with all languages, IDEs, and CI/CD tools\r\n- Supports GitHub, GitLab, Bitbucket, Azure DevOps (Cloud & Self-Hosted)\r\n- SOC 2 & HIPAA compliant",
+      "description": "CodeAnt AI cuts manual code review time and bugs by over 50%. \r\n- Gives One-click fixes for code quality and security issues\r\n- Works with all languages, IDEs, and CI/CD tools\r\n- Supports GitHub, GitLab, Bitbucket, Azure DevOps (Cloud & Self-Hosted)\r\n- SOC 2 & HIPAA compliant",
       "one_liner": "AI Code Review Platform",
       "batch": "Winter 2024",
       "status": "Active",
@@ -7273,11 +7273,11 @@
       "name": "Duckie",
       "slug": "duckie",
       "website": "https://duckie.ai/",
-      "description": "Duckie is an AI assistant that helps customer support teams resolve tickets faster!\r\n\r\nWe integrate with existing customer support workflows to respond to customers directly, and answer questions that support agents may have. Does a customer need help onboarding? Duckie is there! Is your support agent looking for info on the latest changes to the product? Duckie is there! \r\n\r\nDuckie can be installed anywhere, from Slack and Discord to Zendesk and Intercom. And we integrate with both customer support and engineering knowledge bases to go beyond the documentation. By sourcing information from across your knowledge base, we can step in and help out before questions get sent into the void of escalations.\r\n\r\nIf you're looking to give your customer support team a super power, come to Duckie!",
-      "one_liner": "AI Assistant for Customer Support Teams",
+      "description": "Duckie lets customer support teams build their own AI agents in minutes! \r\n\r\nWith Duckie, support teams can translate their tasks and processes into predictable and reliable AI workflows that saves them time and money. Folks use Duckie to handle a wide range of use cases, from answers customers technical questions to processing refunds, and everything in between.",
+      "one_liner": "Build AI Support Agents in Minutes",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7291,9 +7291,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
+        "Generative AI",
         "Customer Support",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8293,5 +8294,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-06T00:02:51.980874"
+  "fetched_at": "2025-05-06T06:01:19.325706"
 }
