@@ -619,7 +619,7 @@
       "locations": "Paris, \u00cele-de-France, France",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706766974.0,
@@ -6783,43 +6783,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9637a17ef68e79a0e70a53729e5937278fffb4ea.png"
     },
     {
-      "id": 29260,
-      "name": "Quary",
-      "slug": "quary",
-      "website": "https://www.quary.dev",
-      "description": "Quary is the first analytics engineering platform that brings the entire model-test-deploy workflow into the browser. \r\n\r\nAt our first customer, a fast-growing fintech company, Quary empowers analysts in the growth team to self-serve, contribute, and reduce reliance on the data engineering team, letting teams ship metrics faster & executives get answers sooner",
-      "one_liner": "The first in-browser analytics engineering platform",
-      "batch": "Winter 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "London, England, United Kingdom",
-      "tags": [
-        "Artificial Intelligence",
-        "Analytics",
-        "Data Science",
-        "Data Engineering",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1707148568.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e54d14cc55231dd1bd8f1cfd85b8f8366f88fae7.png"
-    },
-    {
       "id": 29259,
       "name": "Newton",
       "slug": "newton",
@@ -8262,6 +8225,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/adeef8e1af9dbd08cd58abd347c0b5085123d33a.png"
     },
     {
+      "id": 29260,
+      "name": "Quary",
+      "slug": "quary",
+      "website": "https://www.quary.dev",
+      "description": "Quary is the first analytics engineering platform that brings the entire model-test-deploy workflow into the browser. \r\n\r\nAt our first customer, a fast-growing fintech company, Quary empowers analysts in the growth team to self-serve, contribute, and reduce reliance on the data engineering team, letting teams ship metrics faster & executives get answers sooner",
+      "one_liner": "The first in-browser analytics engineering platform",
+      "batch": "Winter 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Artificial Intelligence",
+        "Analytics",
+        "Data Science",
+        "Data Engineering",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1707148568.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e54d14cc55231dd1bd8f1cfd85b8f8366f88fae7.png"
+    },
+    {
       "id": 29206,
       "name": "Stitch Technologies",
       "slug": "stitch-technologies",
@@ -8294,5 +8294,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-06T06:01:19.325706"
+  "fetched_at": "2025-05-06T12:01:37.305360"
 }

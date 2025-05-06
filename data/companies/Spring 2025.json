@@ -34,6 +34,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png"
     },
     {
+      "id": 30560,
+      "name": "Sava Robotics",
+      "slug": "sava-robotics",
+      "website": "https://www.savarobotics.com",
+      "description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production part. ",
+      "one_liner": "Intelligent Robots for Press Brake Operation",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Hard Tech",
+        "Robotics",
+        "Manufacturing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746512449.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfd3f761dfc0fcff51a0650948673bd04f8702b.png"
+    },
+    {
       "id": 30557,
       "name": "Aegis",
       "slug": "aegis",
@@ -1997,5 +2030,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-06T06:01:20.348391"
+  "fetched_at": "2025-05-06T12:01:38.838263"
 }
