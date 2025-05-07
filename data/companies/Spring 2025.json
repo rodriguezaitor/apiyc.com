@@ -274,7 +274,7 @@
       "name": "LineWise",
       "slug": "linewise",
       "website": "https://www.linewise.io/",
-      "description": "LineWise is an AI troubleshooting platform that helps manufacturing teams resolve issues faster and reduce internal escalations by leveraging organization-specific knowledge base that continuously improves. ",
+      "description": "LineWise is a virtual engineering assistant that rapidly troubleshoots machine breakdowns to keep your production line running.\r\n\r\nToday, machine troubleshooting is messy and manual. Engineers scramble - chasing PLC data, flipping through manuals, and relying on guesswork - while production stalls and losses soar by the minute.\r\n\r\nLineWise connects siloed data from PLCs, maintenance logs, and machine manuals to rank the most likely root causes and guide engineers through validation. It recommends solutions and logs each incident for future preventative maintenance effort. ",
       "one_liner": "Troubleshoot factory line problems faster using AI",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1331,7 +1331,7 @@
       "name": "YouLearn",
       "slug": "youlearn",
       "website": "https://www.youlearn.ai/",
-      "description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we\u2019ve grown from $1K to $65K MRR, and over 150,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we\u2019re building the one you\u2019ll never want to skip class on.",
+      "description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we\u2019ve grown from $1K to $70K MRR, and over 150,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we\u2019re building the one you\u2019ll never want to skip class on.",
       "one_liner": "An AI tutor personalized to each student. ",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1348,9 +1348,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Education",
-        "Edtech",
-        "AI"
+        "Edtech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2128,5 +2128,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-07T00:03:02.436801"
+  "fetched_at": "2025-05-07T06:01:18.215837"
 }
