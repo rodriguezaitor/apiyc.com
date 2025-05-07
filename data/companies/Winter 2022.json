@@ -4809,7 +4809,7 @@
       "slug": "hydra",
       "website": "https://hydra.so",
       "description": "Hydra is a real-time analytics database management system for Postgres. We seperate compute from storage to offer software engineers serverless analytics with autoscale, write isolation, automatic caching, and more.\r\n\r\nShipping scalable projects on time series and event data has never been easier. Hydra is available for local development, cloud, and bare metal deployment.",
-      "one_liner": "Serverless analytics on Postgres",
+      "one_liner": "Serverless Analytics on Postgres",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 6,
@@ -13822,5 +13822,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-05-06T18:01:26.675975"
+  "fetched_at": "2025-05-07T00:02:53.716129"
 }

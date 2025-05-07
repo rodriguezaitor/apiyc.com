@@ -238,6 +238,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc7b2b59a7a325fcdf566d9120353bab8f1fa91.png"
     },
     {
+      "id": 30543,
+      "name": "Cactus",
+      "slug": "oncactus",
+      "website": "https://oncactus.com",
+      "description": "We're building an AI copilot for solopreneurs to automate their admin work. Our AI answers the phone, qualifies customers, and books in revenue. Think Jarvis for Ironman. Cactus is the AI business assistant that empowers solopreneurs to succeed.",
+      "one_liner": "AI copilot for solopreneurs",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746571239.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d53a6cf3c8074296831c1a7ec4bd88edbf7e572.png"
+    },
+    {
       "id": 30542,
       "name": "LineWise",
       "slug": "linewise",
@@ -666,6 +698,39 @@
       "is_top_company": false,
       "launched_at": 1745261196.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png"
+    },
+    {
+      "id": 30491,
+      "name": "Novoflow",
+      "slug": "novoflow",
+      "website": "https://www.novoflow.io/",
+      "description": "Novoflow is an AI receptionist that automates front and back office phone workflows for medical practices. Built for healthcare providers and hospitals.",
+      "one_liner": "AI receptionist that automates phone calls for medical clinics. ",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Healthcare",
+        "Customer Service",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746560485.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dc1e2e5cc8a224ba29a91be64f14ab1fbc9cde3.png"
     },
     {
       "id": 30487,
@@ -1804,6 +1869,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8eb872358e4035f2e3c54d4bb9493d9a800616c.png"
     },
     {
+      "id": 30403,
+      "name": "CentralAxis",
+      "slug": "centralaxis",
+      "website": "https://www.centralaxis.com/",
+      "description": "CentralAxis provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance.\r\n\r\nA single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues.\r\n\r\nIt also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. ",
+      "one_liner": "Software to monitor, control, and optimize data centers.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Enterprise Software",
+        "Cloud Computing",
+        "Monitoring"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746569409.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67ae2b6778bec5eeb96532601f20fbd260ad3dd.png"
+    },
+    {
       "id": 30400,
       "name": "Plexe",
       "slug": "plexe",
@@ -2030,5 +2128,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-06T18:01:36.866857"
+  "fetched_at": "2025-05-07T00:03:02.436801"
 }

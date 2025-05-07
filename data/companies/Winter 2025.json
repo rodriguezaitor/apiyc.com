@@ -1120,11 +1120,11 @@
         "Aerospace"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739340612.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6fe3367102fb3c122ffe0222d63055c3502fa6b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f567bf243e624ac80b841cec50ec05ef7e87c1ac.png"
     },
     {
       "id": 30315,
@@ -2217,16 +2217,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Design Tools",
-        "Electronics"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3078,22 +3072,28 @@
       "id": 30247,
       "name": "Gulp",
       "slug": "gulp",
-      "website": "https://gulp.ai/",
-      "description": "We're building Osmosis: an API that helps AI agents learn from experience, in real-time. | https://gulp.ai/responsive-software.html",
+      "website": "https://osmosis.ai/",
+      "description": "Osmosis is a platform that enables AI self-improvement through real-time reinforcement learning. ",
       "one_liner": "Real-Time Self-Improvement for AI Agents",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Infrastructure"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5361,5 +5361,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-05-06T18:01:31.782057"
+  "fetched_at": "2025-05-07T00:02:58.197024"
 }

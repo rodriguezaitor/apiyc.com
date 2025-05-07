@@ -732,8 +732,8 @@
       "name": "The New Money Company",
       "slug": "the-new-money-company",
       "website": "https://newmoneycompany.com",
-      "description": "Numo is the new money company \u2014 built to be the global bank for the newly minted generation of highly ambitious digital workers in Asia, Africa, LATAM, and beyond.\r\n\r\nThese contractors currently sit in the 95th percentile of earners in their country \u2014 but their financial infrastructure is unstable. It's fragmented across PEOs, gig marketplaces, and consumer remittance platforms. With their local currency weakening against the US Dollar, they need control on how and when to repatriate funds. They don't just need a remittance app. They need a bank.\r\n\r\nNumo provides international contractors with a US bank account \u2014 and instant, low-cost payment rails to move money home. This way they can hold funds in USD up to the second they need to spend it. \r\n\r\nWe help international contractors get paid like a local, while banking globally. ",
-      "one_liner": "The offshore bank for international contractors",
+      "description": "The New Money Company protects invoices with insurance.\r\n\r\nWe help businesses expand to buyers in new markets or industries by offloading the risk of buyers not paying their bill.",
+      "one_liner": "Invoicing that pays you even if your buyer doesn\u2019t",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 4,
@@ -741,7 +741,7 @@
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
         "Fintech",
-        "Banking and Exchange"
+        "Payments"
       ],
       "regions": [
         "United States of America",
@@ -753,9 +753,9 @@
       "tags": [
         "Fintech",
         "Payments",
-        "Compliance",
-        "Emerging Markets",
-        "Neobank"
+        "B2B",
+        "Insurance",
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8294,5 +8294,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-06T18:01:28.543782"
+  "fetched_at": "2025-05-07T00:02:55.321312"
 }
