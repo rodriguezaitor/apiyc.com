@@ -1252,8 +1252,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "GovTech"
+        "GovTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2033,12 +2033,45 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3854a114899cbd01548be14b47a9169f22c776a0.png"
     },
     {
+      "id": 30173,
+      "name": "Tropir",
+      "slug": "tropir",
+      "website": "https://www.tropir.com/",
+      "description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke\u2014a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe built Tropir after hand-debugging a broken agent chain for an early customer and realizing that logs alone weren\u2019t enough. We needed a way to see why things failed, not just what failed.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+      "one_liner": "Traceback why your AI failed",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Industrials -> Climate",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Generative AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746601065.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png"
+    },
+    {
       "id": 29666,
       "name": "Willow",
       "slug": "willow",
       "website": "https://willowvoice.com/",
       "description": "Willow is an AI dictation app that lets you type with your voice. Built to 4x the productivity of anyone spending too much time on email, docs, and AI prompting workflows.\r\n\r\nWe\u2019re Mac-only for now. You can try it free at WillowVoice.com",
-      "one_liner": "Write 3x faster with voice dictation, powered by AI",
+      "one_liner": "Powering the future of voice-first computing",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2128,5 +2161,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-07T06:01:18.215837"
+  "fetched_at": "2025-05-07T12:01:56.261733"
 }
