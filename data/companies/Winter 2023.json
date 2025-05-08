@@ -7410,14 +7410,14 @@
     },
     {
       "id": 27686,
-      "name": "Doctor Droid",
-      "slug": "doctor-droid",
+      "name": "DrDroid",
+      "slug": "drdroid",
       "website": "https://drdroid.io/",
-      "description": "Doctor Droid is an automated diagnosis and troubleshooting assistant for engineering teams.\r\n\r\nDoctor Droid integrates with your existing monitoring stack (10+ tools supported) and assists with automated diagnosis, troubleshooting recommendations and more. \r\n\r\nGet started\r\n\r\nTo get an automated report on the state of alerting & noise in your company, try out our free report generator today -- https://drdroid.io/doctor-droid-slack-integration",
+      "description": "DrDroid is building AI Agents for Platform & Infrastructure teams. \r\nWe help engineering teams fix issues faster and reduce escalations during on-call\u2014automating triage, debugging, and remediation.\r\n\r\nWe\u2019re also the team behind several open-source projects:\r\n\ud83d\udd39 Playbooks \u2013 A runbook automation platform\r\n\ud83d\udd39 Kenobi \u2013 An event analytics platform for debugging data pipelines\r\n\r\nJoin us in redefining how teams run operations in the post-GPT world.",
       "one_liner": "Your best friend in production.",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7425,10 +7425,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "India",
+        "South Asia"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "Bengaluru, KA, India",
       "tags": [
         "Developer Tools",
         "SaaS",
@@ -9356,5 +9356,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-08T06:01:22.798563"
+  "fetched_at": "2025-05-08T12:01:28.319006"
 }

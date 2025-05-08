@@ -5256,8 +5256,8 @@
       "name": "Plume",
       "slug": "plume",
       "website": "http://www.plumefinder.com",
-      "description": "Plume is an energy renovation copilot that helps real estate agents and contractors with energy audits and renovation planning.\r\n\r\nOur first customer, a real estate marketplace, uses Plume to provide potential buyers with precise energy renovation scenarios, cutting the time to sell a house in half.\r\n\r\nUsing thermodynamic models, public housing data, satellite imagery and AI,  Plume enables remote energy assessments of any building.\r\n\r\nIn Europe alone, 35 million homes face regulatory pressure to be retrofitted within the next 5 years, and 220 million over the next 25 years.\r\n\r\nPlume leverages the founding team's unique expertise: Marc, a Harvard satellite researcher; JB, a thermodynamics engineer; and Edouard, a sales and product builder from Palantir.",
-      "one_liner": "Home energy renovation copilot",
+      "description": "Plume is an AI-powered geospatial platform for site selection in energy infrastructure projects. \r\n\r\nSelecting the right sites requires analysis of +50 geospatial, grid, and regulatory constraints across fragmented data sources. \r\n\r\nPlume changes the process by enabling users to interact with geospatial data using natural language.",
+      "one_liner": "Renewable infrastructure deployment at scale.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -8311,5 +8311,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-08T06:01:22.992365"
+  "fetched_at": "2025-05-08T12:01:28.435160"
 }
