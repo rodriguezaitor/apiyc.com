@@ -206,8 +206,8 @@
       "name": "Artifact",
       "slug": "artifact-2",
       "website": "https://www.artifact.engineer/",
-      "description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-      "one_liner": "Cursor for hardware design, starting with electrical systems",
+      "description": "Artifact is a collaborative IDE for hardware engineers - accelerating every step in the engineering lifecycle:\r\n\r\nDesign \u2192 Procurement \u2192 Manufacturing \u2192 Integration \u2192 Test \u2192 Sustainment\r\n\r\nWe've raised $3.5M to build an integrated, verifiable AI copilot with an intuitive UI that reflects how hardware actually gets built. Every artifact is auto-generated and traceable to a single-source of truth.\r\n\r\nWe believe hardware engineering should be rigorous, deliberate, and system-aware. We work directly with customers solving the world's hardest technical problems to modernize how complex hardware is engineered.\r\n\r\nIf you're interested, send your resume & contact info to: careers@artifact.engineer",
+      "one_liner": "An Collaborative, AI-native IDE for Hardware Engineers",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -2396,8 +2396,8 @@
       "name": "Lopus AI",
       "slug": "lopus-ai",
       "website": "https://lopus.ai",
-      "description": "Sales teams blast emails, spam LinkedIn, and chase leads who were never interested in the first place. Conversion rates are dropping, and buyers are tuning out. The problem isn\u2019t a lack of prospects\u2014it\u2019s that most businesses are looking in the wrong places.\r\n\r\nPeople and businesses talk about their pain points online every day\u2014struggling with problems your product solves. We track these high-intent conversations, surface the right buyers, and deliver them straight to you. Just 20 minutes a day, and you\u2019re engaging with people ready to buy, with conversion rates as high as 50%.\r\n\r\nPeople are looking for your solution - you're just not seeing them. Let's change that.",
-      "one_liner": "Finding customers who are ready to buy your product \u2014 on autopilot.",
+      "description": "Revenue teams keep losing deals because CRMs and intent data only tell them who will convert after the fact. Your sales team can't decide who to prioritize, and your pipeline is leaking millions.\r\n\r\nWe've built Lopus Recon, a Revenue Intelligence Platform that analyses millions of data points to guide your sales team to decide exactly which accounts to target and when, and enter calls knowing why they'll convert.\r\n\r\nEngineered by Lopus AI, the GTM weapons lab.",
+      "one_liner": "AI agents for Revenue Intelligence",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -2413,11 +2413,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Sales",
         "Social Media",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5347,5 +5347,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-05-07T18:01:44.766874"
+  "fetched_at": "2025-05-08T00:02:52.189185"
 }

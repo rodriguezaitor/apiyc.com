@@ -835,7 +835,7 @@
       "one_liner": "A platform for developing microservices on Kubernetes",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -6580,11 +6580,11 @@
     },
     {
       "id": 27762,
-      "name": "Byterat",
-      "slug": "byterat",
-      "website": "https://www.byterat.io",
-      "description": "Byterat is a modern data platform for battery science, purpose-built to help battery teams innovate, securely and at scale. ",
-      "one_liner": "Modern data platform for battery science",
+      "name": "Ohm",
+      "slug": "ohm-2",
+      "website": "https://www.ohm.ai",
+      "description": "Ohm deploys AI agents across battery teams around the world",
+      "one_liner": "AI agents for battery teams",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": null,
@@ -6603,15 +6603,15 @@
         "Artificial Intelligence",
         "Energy Storage",
         "Machine Learning",
-        "Climate",
-        "Databases"
+        "Data Engineering",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1676603508.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/01e7ebb8e7a0488fc954663a2e2c2756b4d448c2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png"
     },
     {
       "id": 27754,
@@ -9356,5 +9356,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-07T18:01:41.390619"
+  "fetched_at": "2025-05-08T00:02:48.957230"
 }

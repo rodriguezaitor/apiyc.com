@@ -99,6 +99,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/36103b40de751e5ec5889840f60eec43dc493e69.png"
     },
     {
+      "id": 30556,
+      "name": "Cascade Space",
+      "slug": "cascade-space",
+      "website": "https://cascade.space",
+      "description": "Cut through the noise with our software stack and ground station network. Iterate faster, test efficiently, launch with confidence. Our software and ground station network allows deep space companies to slash development time and costs, and dramatically increase confidence in designs prior to launch.",
+      "one_liner": "Deep space communications as a service",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Mateo, CA, USA",
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Space Exploration",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746647881.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b61a9c6976c89879b6647cf5de4a9c135cae19d.png"
+    },
+    {
       "id": 30553,
       "name": "Blueshoe",
       "slug": "blueshoe",
@@ -274,7 +308,7 @@
       "name": "LineWise",
       "slug": "linewise",
       "website": "https://www.linewise.io/",
-      "description": "LineWise is a virtual engineering assistant that rapidly troubleshoots machine breakdowns to keep your production line running.\r\n\r\nToday, machine troubleshooting is messy and manual. Engineers scramble - chasing PLC data, flipping through manuals, and relying on guesswork - while production stalls and losses soar by the minute.\r\n\r\nLineWise connects siloed data from PLCs, maintenance logs, and machine manuals to rank the most likely root causes and guide engineers through validation. It recommends solutions and logs each incident for future preventative maintenance effort. ",
+      "description": "LineWise is building an AI assistant for manufacturing teams to get their line back up and running.\r\n\r\nWhen a line goes down, it can take hours to identify the problem. Engineers and technicians scramble, chasing PLC data and logs, flipping through manuals and troubleshooting guides, while production stalls.\r\n\r\nLineWise connects siloed data from PLCs, maintenance logs, and machine manuals to triage potential causes for the issue at hand. Once the issue is resolved, LineWise will remember everything for the next time and advocate preventative actions.",
       "one_liner": "Troubleshoot factory line problems faster using AI",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1364,7 +1398,7 @@
       "name": "Sim Studio",
       "slug": "simstudio",
       "website": "https://www.simstudio.ai",
-      "description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with 2.5k stars on GitHub in the last month. We have 4,000+ builders on our hosted platform. ",
+      "description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3k stars on GitHub in the last month. We have 4,000+ builders on our hosted platform. ",
       "one_liner": "The UI to build AI agents",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1380,9 +1414,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1539,8 +1573,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "SaaS"
+        "SaaS",
+        "B2B",
+        "Workflow Automation",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2161,5 +2197,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-07T18:01:48.932465"
+  "fetched_at": "2025-05-08T00:02:56.038329"
 }

@@ -331,7 +331,7 @@
         "Cloud Computing"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1559271873.0,
@@ -1552,40 +1552,6 @@
       "is_top_company": false,
       "launched_at": 1557307449.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6464a8a7a2187e9e964be62968ef0310b20f0a5f.png"
-    },
-    {
-      "id": 12705,
-      "name": "Gaiascope",
-      "slug": "gaiascope",
-      "website": "http://gaia-scope.com",
-      "description": "Software that simplifies electric grid forecasting and operations. Clients--hard assets like wind, solar and energy storage--get timely, unbiased information to improve revenues, reduce risk, and maximize the profitability of every megawatt.\r\n\r\nGaiascope also manages a quant fund trading electricity; with this fund, the company builds additional credibility with clients and accelerates the continuous improvement of its software.",
-      "one_liner": "SaaS that helps renewables & energy storage operate more profitably",
-      "batch": "Summer 2019",
-      "status": "Active",
-      "team_size": 9,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Boston, MA, USA; Remote",
-      "tags": [
-        "Climate",
-        "Energy",
-        "ClimateTech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1557273094.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1224624438a17a663ce6ddbc15c637432ec3a75.png"
     },
     {
       "id": 12700,
@@ -4060,6 +4026,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d85dfc73c9692fefd19b7eeec4502dc106fae113.png"
     },
     {
+      "id": 12705,
+      "name": "Gaiascope",
+      "slug": "gaiascope",
+      "website": "http://gaia-scope.com",
+      "description": "Software that simplifies electric grid forecasting and operations. Clients--hard assets like wind, solar and energy storage--get timely, unbiased information to improve revenues, reduce risk, and maximize the profitability of every megawatt.\r\n\r\nGaiascope also manages a quant fund trading electricity; with this fund, the company builds additional credibility with clients and accelerates the continuous improvement of its software.",
+      "one_liner": "SaaS that helps renewables & energy storage operate more profitably",
+      "batch": "Summer 2019",
+      "status": "Acquired",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Boston, MA, USA; Remote",
+      "tags": [
+        "Climate",
+        "Energy",
+        "ClimateTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1557273094.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1224624438a17a663ce6ddbc15c637432ec3a75.png"
+    },
+    {
       "id": 12669,
       "name": "Data Mechanics",
       "slug": "data-mechanics",
@@ -5931,5 +5931,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-05-07T18:01:44.413966"
+  "fetched_at": "2025-05-08T00:02:51.872290"
 }
