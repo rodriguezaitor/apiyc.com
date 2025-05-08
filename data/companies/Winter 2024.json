@@ -3407,7 +3407,7 @@
       "status": "Active",
       "team_size": 12,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Security",
       "industries": [
         "B2B",
         "Security"
@@ -4233,7 +4233,7 @@
       "name": "Open",
       "slug": "open",
       "website": "https://open.cx",
-      "description": "Open is an AI-powered, all-in-one customer support and communication platform \u2014 used in production by Print.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe\u2019re a research-based company currently working on releasing Support-Bench, the world\u2019s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
+      "description": "Open is an AI-powered, all-in-one customer support and communication platform \u2014 used in production by:\r\n\r\nPrint.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe\u2019re a research-based company currently working on releasing Support-Bench, the world\u2019s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
       "one_liner": "Enterprise AI customer support",
       "batch": "Winter 2024",
       "status": "Active",
@@ -8294,5 +8294,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-08T12:01:28.370194"
+  "fetched_at": "2025-05-08T18:01:02.868174"
 }
