@@ -5889,11 +5889,11 @@
     },
     {
       "id": 25682,
-      "name": "LunaJoy",
-      "slug": "lunajoy",
+      "name": "LunaJoy Health",
+      "slug": "lunajoy-health",
       "website": "http://HelloLunaJoy.com",
-      "description": "LunaJoy is a precision mental health platform that is specialized in women's mental health through all phases of life including adolescence, pregnancy, postpartum, infertility, miscarriage, loss, perimenopause, and aging. We deliver care by creating a specialized workforce to provide targeted psychotherapy, medication management + genetic testing, coaching, and holistic wellness. LunaJoy utilizes technology and data science to provide intelligent touchpoints that decrease costs and accelerate outcomes. We are increasing our in-network footprint to provide truly accessible care for all. \r\n\r\nWomen are twice as likely to experience mental health difficulties. Rates are even higher for women of color and LGBTQ+ folks. Women are 3x more likely to experience sexual, physical, emotional trauma which is a predictor for mental illness. This is just the tip of the iceberg! Physiologically, women experience hormonal fluctuations which make them more vulnerable to mental health issues during times of transition such as puberty, pregnancy, postpartum, and menopause. We also face unique stressors as the emotional bedrock of our homes, supporting young families, elderly adults, and a huge part of the workforce. The downstream effects of this gap in care are far-reaching into our ecosystems. Currently, mental health care is expensive, inconvenient, and generalist where a specialized approach is needed. When we attend to women\u2019s mental health, we all shine brighter!",
-      "one_liner": "Precision mental health care for women",
+      "description": "LunaJoy is building the AI-powered care platform for precision mental health\u2014starting with women.\r\nWe integrate intelligent automation with specialized clinical services to deliver scalable, life-stage-specific care\u2014from adolescence to pregnancy, postpartum, infertility, miscarriage, perimenopause, and aging. By embedding AI agents into care navigation, triage, and decision support, we reduce costs, accelerate outcomes, and personalize treatment at scale.\r\n\r\nOur hybrid care model blends targeted psychotherapy, psychiatric medication management, genetic testing, coaching, and holistic wellness\u2014delivered by a curated workforce of women\u2019s mental health specialists. Through continuous feedback loops, AI segmentation, and predictive insights, LunaJoy is built to scale.\r\n\r\nWe\u2019re expanding our in-network footprint to make this care accessible across commercial and Medicaid populations\u2014closing equity gaps for women of color, LGBTQ+ individuals, and those most at risk.\r\n\r\nWomen are twice as likely to experience mental health conditions, and 3x more likely to endure trauma. Yet the system is still built for the \u201caverage\u201d patient\u2014ignoring the biological, emotional, and social complexity of women\u2019s lives. LunaJoy is rearchitecting that system with AI at its core\u2014because when we invest in women\u2019s mental health, entire communities thrive.",
+      "one_liner": "AI-powered scalable infrastructure + mental health services, starting\u2026",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 6,
@@ -5907,9 +5907,9 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Atlanta, GA, USA; Remote",
+      "locations": "Atlanta, GA, USA",
       "tags": [
         "Mental Health Tech",
         "Digital Health",
@@ -13825,5 +13825,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-05-09T00:02:53.094969"
+  "fetched_at": "2025-05-09T06:01:06.225362"
 }
