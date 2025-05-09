@@ -3594,11 +3594,11 @@
     },
     {
       "id": 23105,
-      "name": "CreatorOS",
-      "slug": "creatoros",
-      "website": "https://creatoros.co",
-      "description": "We build tools that allows enterprises verify information about a user *before* processing it - whether it is processed by a human or an AI agent.\r\n\r\nTraditionally, these verifications including but not limited to background checks cost ~$10. Using our advancements in AI and Cryptography, we're able to send that cost to a few cents. \r\n\r\nThis enables enterprises to do verification at scale, earlier in their work-flows, and enables new kinds of businesses - which were not performing these verifications because of prohibitively high costs.\r\n\r\nFor example, it makes no sense that a recruiter does a candidate's document verification and background checks AFTER the candidate has cleared all the interviews. That's because that verification is cumbersome and expensive. They can't afford to verify all the candidates at the top of the funnel. Many such workflows are ripe for disruption. \r\n\r\nAnother example of a product that was not possible before. A dating app uses our tools to verify the users' information - including their employment, education and financial background. This was something that would have been too expensive to verify at a $10 pricepoint where the ARPU is only $8. \r\n\r\nNot only that, we're designing the tools ground up - so that AI agents can utilize these verifications before ingesting information, so that they take action basis truthful information.\r\n\r\nWe have 3 tools\r\n1. BlueCheck : our flagship product for background verification. The cheapest option to verify users' employment, education and financial background. A few cents instead of a few tens of dollars. Several Billion Dollar+ revenue companies are customers. A solution designed for enterprises that works out of the box!\r\n2. Reclaim Protocol : our underlying infrastructure that makes BlueCheck possible. With advancements in cryptography, specifically zero knowledge proofs - our research over the last 3 years have resulted in inventing a new cryptographic primitive called zkTLS, which allows us to verify information from any website using the cryptography of the existing internet pipes (TLS). This is our secret sauce!\r\n3. Questbook : our dog-fooding tool. Questbook is a tool to give out research and open source software development grants. These grants are reviewed by AI agents that we built inhouse. The biggest scam people try is to fake who they are when they are applying for grants. We dog-food our own tools to make sure we verify all the claims the users are making when they apply for grants. Our tools secure more than $10M of grants being given out on the platform. So it's high stakes, and it works!",
-      "one_liner": "Building tools for verifying information consumed by AI agents",
+      "name": "Bluecheck",
+      "slug": "bluecheck",
+      "website": "https://thebluecheck.com",
+      "description": "Bluecheck is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications at the industry lowest costs.\r\n\r\nUsing Bluecheck, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Bluecheck, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Bluecheck extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library called Reclaim Protocol, that does this verification in a privacy preserving and compliant manner.",
+      "one_liner": "Industry's first sub-dollar user data verification company!",
       "batch": "Winter 2021",
       "status": "Active",
       "team_size": 26,
@@ -3617,17 +3617,17 @@
       "locations": "Hyderabad, Telangana, India; Remote",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Crypto / Web3",
         "Identity",
-        "API"
+        "API",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1616635998.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b512ecb3301ab8d683bbd5d94982b605acc6da8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa2cd181356c16e43310c40d13e664faf4716d3c.png"
     },
     {
       "id": 23075,
@@ -6115,41 +6115,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d1b859d99f654a1c205c27880e536814118b5c7.png"
     },
     {
-      "id": 22827,
-      "name": "Promoted.ai",
-      "slug": "promoted",
-      "website": "http://www.promoted.ai",
-      "description": "Promoted.ai unifies search, native ads, and feed ranking for online marketplaces and scaled e-commerce apps to dramatically improve relevance (and revenue) using AI. We are a team of ex-Google, Meta, and Pinterest ads engineers. Our customers are publicly traded and late-stage marketplace companies like Eventbrite, Upwork, and Outschool. Our mission is to connect every buyer and seller.",
-      "one_liner": "Dramatically better search and ads for marketplaces",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 12,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Machine Learning",
-        "Marketplace",
-        "B2B",
-        "E-commerce"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1611343241.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd28656a2bd5b2cc24a2d0577bedc594f2e0ffe7.png"
-    },
-    {
       "id": 22826,
       "name": "FifthTry",
       "slug": "fifthtry",
@@ -6741,39 +6706,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf6a0c470e58a697fb3d5dfb5dbbe734d9aa0fd.png"
     },
     {
-      "id": 22771,
-      "name": "Avenue",
-      "slug": "avenue",
-      "website": "https://avenue.app/",
-      "description": "Avenue is a simple way for business teams to set up alerts from their database or data warehouse. Think Datadog / PagerDuty for operations teams.\r\n\r\nOperations teams create set-and-forget alerts on all their data, so they can be more proactive with their time (and monitor on more nuanced triggers than just what fits on their dashboard page).\r\n\r\nAvenue can improve response times to critical problems from several days to real-time by alerting directly on the data sources that customers already use.",
-      "one_liner": "Observability platform for operations teams",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Data Engineering"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614620141.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f67e2ce27f5eb8afbeff838eb65ceab7f77903.png"
-    },
-    {
       "id": 22764,
       "name": "Valink Therapeutics",
       "slug": "valink-therapeutics",
@@ -6814,7 +6746,7 @@
       "slug": "fractional",
       "website": "https://fractional.app",
       "description": "",
-      "one_liner": "Social platform for fractional ownership of investment properties.",
+      "one_liner": "The place where motivated investors and entrepreneurs co-own together.",
       "batch": "Winter 2021",
       "status": "Active",
       "team_size": 10,
@@ -6832,15 +6764,15 @@
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
         "Fintech",
-        "Community",
-        "Crowdfunding"
+        "Real Estate",
+        "Community"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1614896861.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bff84d941531b490bf65bb53c051ef24de72d746.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8673461b690411790594b63804ba14874ca6d3ca.png"
     },
     {
       "id": 22745,
@@ -9471,6 +9403,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa9e2b87b2b4d5d15fa0f6f3864444c603335cf6.png"
     },
     {
+      "id": 22827,
+      "name": "Promoted.ai",
+      "slug": "promoted",
+      "website": "http://www.promoted.ai",
+      "description": "Promoted.ai unifies search, native ads, and feed ranking for online marketplaces and scaled e-commerce apps to dramatically improve relevance (and revenue) using AI. We are a team of ex-Google, Meta, and Pinterest ads engineers. Our customers are publicly traded and late-stage marketplace companies like Eventbrite, Upwork, and Outschool. Our mission is to connect every buyer and seller.",
+      "one_liner": "Dramatically better search and ads for marketplaces",
+      "batch": "Winter 2021",
+      "status": "Acquired",
+      "team_size": 12,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Marketplace",
+        "B2B",
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1611343241.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd28656a2bd5b2cc24a2d0577bedc594f2e0ffe7.png"
+    },
+    {
       "id": 22797,
       "name": "OctiFi",
       "slug": "octifi",
@@ -10964,6 +10931,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2939fc1f345f3d723e20ae656bdeadcc024ba9e0.png"
     },
     {
+      "id": 22771,
+      "name": "Avenue",
+      "slug": "avenue",
+      "website": "https://avenue.app/",
+      "description": "Avenue is a simple way for business teams to set up alerts from their database or data warehouse. Think Datadog / PagerDuty for operations teams.\r\n\r\nOperations teams create set-and-forget alerts on all their data, so they can be more proactive with their time (and monitor on more nuanced triggers than just what fits on their dashboard page).\r\n\r\nAvenue can improve response times to critical problems from several days to real-time by alerting directly on the data sources that customers already use.",
+      "one_liner": "Observability platform for operations teams",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614620141.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f67e2ce27f5eb8afbeff838eb65ceab7f77903.png"
+    },
+    {
       "id": 22755,
       "name": "Finary",
       "slug": "finary",
@@ -11541,5 +11541,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-05-09T12:01:28.691504"
+  "fetched_at": "2025-05-09T18:01:01.839898"
 }
