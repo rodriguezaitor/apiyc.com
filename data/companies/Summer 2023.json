@@ -3892,7 +3892,7 @@
       "one_liner": "AI Scribe for veterinarians. Saving time and improving patient care.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 13,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3906,9 +3906,9 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Health Tech",
-        "AI"
+        "Health Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4904,7 +4904,7 @@
         "SaaS"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690778245.0,
@@ -5620,11 +5620,7 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Marketplace"
-      ],
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -7342,5 +7338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-08T18:01:03.449275"
+  "fetched_at": "2025-05-09T00:02:55.662489"
 }

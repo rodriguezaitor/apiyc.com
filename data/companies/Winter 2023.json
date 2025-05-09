@@ -7893,9 +7893,9 @@
     },
     {
       "id": 27667,
-      "name": "Stack AI",
-      "slug": "stack-ai",
-      "website": "https://www.stack-ai.com/",
+      "name": "StackAI",
+      "slug": "stackai",
+      "website": "https://www.stack.ai",
       "description": "With Stack AI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use Stack AI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
       "one_liner": "AI Agents for the Enterprise",
       "batch": "Winter 2023",
@@ -7914,16 +7914,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Enterprise",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1673634480.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b9d2f1eb25d962348f6f1c0be6a78e6f7ce4791.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png"
     },
     {
       "id": 27666,
@@ -9356,5 +9356,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-08T18:01:02.717922"
+  "fetched_at": "2025-05-09T00:02:54.123753"
 }
