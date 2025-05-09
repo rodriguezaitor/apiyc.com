@@ -2336,8 +2336,8 @@
       "name": "VizeraLabs",
       "slug": "vizeralabs",
       "website": "http://vizeralabs.com",
-      "description": "VizeraLabs' current project, Vizera, is a smart projection device that performs accurate projections on physical objects. The current primary application of this technology is fabric simulation for furniture stores. The Vizera Projector has the potential to assist both consumers and retailers in the fabric selection process.",
-      "one_liner": "Fabric projector furniture sales",
+      "description": "Vizera was an augmented reality company that used projectors with depth sensors to project an AR layer onto real world objects, rather than using screens/smart glasses. \r\n\r\nOur first application was in retail where we partnered with top furniture retailers to display their selection of different fabrics/patterns by using our projectors in their smaller showrooms to improve their in store revenue. \r\n\r\nOur demo is still live on YouTube: https://www.youtube.com/watch?v=5YV8lo-OxZQ ",
+      "one_liner": "Augmented reality through projectors",
       "batch": "Summer 2014",
       "status": "Inactive",
       "team_size": 2,
@@ -2353,7 +2353,8 @@
       ],
       "locations": "Sunnyvale, CA, USA",
       "tags": [
-        "Furniture"
+        "Augmented Reality",
+        "Computer Vision"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2617,5 +2618,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b608533ba4dfdf9610d953d7d6faf8b3a2d29638.png"
     }
   ],
-  "fetched_at": "2025-05-09T06:01:15.280730"
+  "fetched_at": "2025-05-09T12:01:35.711591"
 }

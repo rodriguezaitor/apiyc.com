@@ -1209,6 +1209,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d60074c98f74b46443d4cb4aaad793b532b48401.png"
     },
     {
+      "id": 30458,
+      "name": "Jeevy Fabrication",
+      "slug": "jeevy-fabrication",
+      "website": "https://www.jeevyfabrication.com/",
+      "description": "Jeevy Fabrication is an AI-powered contractor that connects complex weld jobs to the best-fit shops\u2014fast. We deliver top-tier QA and total transparency, all at better traditional outsourced pricing.\r\n\r\nOur software reduces bid and scheduling time for our in-network shops by over 80%. It converts manufacturing drawings into an accurate bill of materials and a resource-loaded, high-fidelity schedule\u2014eliminating costly errors and rework. Using this our in-network fabricators can bid on more jobs and deliver more reliable results than their competitors. \r\n\r\nWe also offer our clients a streamlined purchasing and project tracking experience. Clients submit purchase requests, track schedules, access key documents, and receive real-time photo updates\u2014all in one place. We provide traceability for easy material review and maintenance of domestic content standards as required. Faster decisions, fewer delays, complete visibility. ",
+      "one_liner": "AI Driven EPC - Weld Fabrication Contractor",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Cocoa, FL, USA",
+      "tags": [
+        "Manufacturing",
+        "Aerospace",
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746772622.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png"
+    },
+    {
       "id": 30456,
       "name": "Tinfoil",
       "slug": "tinfoil",
@@ -1760,15 +1794,15 @@
       "name": "SynthioLabs",
       "slug": "synthiolabs",
       "website": "https://synthiolabs.com/",
-      "description": "SynthioLabs is building AI-Native teams for pharma. Our first AI teammate, Nexa, is an autonomous Medical Expert that engages physicians with compliant, credible, and personalized conversations \u2014 24/7. It supports field teams, scales scientific exchange, and ensures every HCP gets the right message at the right time.\r\n\r\nNexa understands your brand, your data, and the latest clinical evidence \u2014 and turns it into real-time physician engagement.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholder \u2014 patients and HCPs\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! \r\n",
+      "description": "Pharma spends billions on medical and sales teams. Yet many physicians still don\u2019t get the timely, relevant medical insight they need.\r\n\r\nSo we built an AI Medical Expert for Pharma GTM teams. Our Medical grade Voice AI Platform delivers compliant, science-first engagement to physicians and patients\r\n\r\nIt\u2019s like adding 100 medical reps to your team, without the headcount.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholders \u2014 patients and HCPs\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! ",
       "one_liner": "World's first AI Medical Rep for Pharma GTM",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 0,
-      "industry": "B2B",
+      "industry": "Healthcare",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "Healthcare"
       ],
       "regions": [
         "Unspecified"
@@ -2302,5 +2336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-09T06:01:15.911548"
+  "fetched_at": "2025-05-09T12:01:36.236209"
 }

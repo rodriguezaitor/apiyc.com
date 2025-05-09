@@ -3461,11 +3461,11 @@
       "name": "Aglide",
       "slug": "aglide",
       "website": "https://aglide.com",
-      "description": "Aglide is the next generation identity. Our pioneering agentic technology can connect any application to our customers' SSOs, without using the standard protocols (SAML, SCIM, etc.). ",
-      "one_liner": "Natively connect any app to your SSO.",
+      "description": "Our mission is to secure access to every enterprise application.\r\n\r\nAglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration.\r\n\r\nOnce connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only.\r\n\r\nCustomers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting.\r\n\r\nToday, customers from fintech decacorns to global media companies rely on Aglide\u2019s zero-trust, end-to-end encrypted platform to complete their identity stack.",
+      "one_liner": "Extend your identity stack to every application.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -7338,5 +7338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-09T06:01:09.816545"
+  "fetched_at": "2025-05-09T12:01:30.918810"
 }
