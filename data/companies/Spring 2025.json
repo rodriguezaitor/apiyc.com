@@ -563,7 +563,7 @@
       "locations": "",
       "tags": [
         "Fintech",
-        "Trading",
+        "B2B",
         "AI"
       ],
       "stage": "Early",
@@ -1313,8 +1313,8 @@
       "name": "Operative.sh",
       "slug": "operative-sh",
       "website": "https://operative.sh/",
-      "description": "10x your vibe coding with autonomous browser agents that give feedback to cursor agents on whether the code actually works.",
-      "one_liner": "Browser agent tools to vibe-test web apps from within coding agents",
+      "description": "Today coding agents such as Cursor can check that the code they write compiles without linter errors. Operative gives coding agents the ability to open a browser agent and evaluate if the changes that are made work end-to-end.",
+      "one_liner": "Browser agent tools to test web apps from within coding agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2433,5 +2433,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-10T06:01:32.038057"
+  "fetched_at": "2025-05-10T12:01:36.522229"
 }
