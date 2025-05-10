@@ -4089,7 +4089,7 @@
       "one_liner": "Automating Office Work for Residential Contractors.",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -4097,10 +4097,12 @@
         "Operations"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "Austin, TX, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
@@ -5393,7 +5395,7 @@
       "slug": "dench-com",
       "website": "https://dench.com",
       "description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over \u201cwasted\u201d leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
-      "one_liner": "AI Secretary to pre-qualify leads for law firms",
+      "one_liner": "The AI Legal Intake",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -5409,10 +5411,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Legal",
         "LegalTech",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -7577,6 +7579,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png"
     },
     {
+      "id": 29579,
+      "name": "Understood Care",
+      "slug": "understood-care",
+      "website": "https://understoodcare.com",
+      "description": "The American healthcare system is complicated. 88% of US adults cite difficulties navigating the healthcare system. \r\n\r\nThe good news is patient advocacy became a covered benefit by Medicare in 2024. \r\n\r\nUnderstood Care matches Medicare patients with a healthcare personal assistant (known as a Patient Advocate) at little to no cost to the patient. Patient Advocates help patients patients access care - finding resources, helping fill out paperwork, and much more. \r\n\r\nUnderstood Care uses AI and healthcare expertise to deliver the highest quality patient advocacy to the 66 million Medicare patients in the US. ",
+      "one_liner": "Healthcare personal assistants for Medicare patients.",
+      "batch": "Summer 2024",
+      "status": "Active",
+      "team_size": 7,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Irvine, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Health Tech",
+        "Healthcare",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1715876832.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/895bc73d946362c90b0900dbf85005b76c9c34c9.png"
+    },
+    {
       "id": 29575,
       "name": "Doublezero",
       "slug": "doublezero",
@@ -8311,5 +8348,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-09T18:01:03.177146"
+  "fetched_at": "2025-05-10T00:02:46.575470"
 }
