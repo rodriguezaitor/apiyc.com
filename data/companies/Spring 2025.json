@@ -1522,8 +1522,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "GovTech"
+        "Civic Tech",
+        "GovTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1948,6 +1949,37 @@
       "is_top_company": false,
       "launched_at": 1744392234.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png"
+    },
+    {
+      "id": 30419,
+      "name": "Minerva",
+      "slug": "minerva",
+      "website": "https://www.tryminerva.ai",
+      "description": "From bookkeeping to tax filing\u2014Minerva effortlessly does your business accounting at a fraction of the cost.",
+      "one_liner": "Instant, flawless AI accountant",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746913900.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fea2afc9c433341774c14ebb5faf333aee28c56.png"
     },
     {
       "id": 30417,
@@ -2433,5 +2465,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-10T18:01:07.580343"
+  "fetched_at": "2025-05-11T00:03:13.435100"
 }
