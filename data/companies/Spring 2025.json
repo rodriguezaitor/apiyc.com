@@ -1049,7 +1049,7 @@
       "slug": "flott-hq",
       "website": "https://www.flotthq.com",
       "description": "Flott HQ is an all-in-one fleet operations platform that helps transport, logistics and field service teams boost profitability with AI-powered planning, tracking, invoicing, and payments \u2014 all in one place.\r\nWe centralize what most teams manage across 5+ tools, helping our clients grow faster while cutting operational costs.",
-      "one_liner": "AI-base operating system for vehicle fleets management.",
+      "one_liner": "AI-powered operating system for vehicle fleets management.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2108,6 +2108,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4b717bddf685ac3a5f54298f79381c741a52c3.png"
     },
     {
+      "id": 30409,
+      "name": "Notus Autonomous Systems",
+      "slug": "notus-autonomous-systems",
+      "website": "",
+      "description": "We develop drones and land based autonomous robots that are designed to be controlled as groups and execute autonomous missions instead of requiring skilled operators to pilot or control. Once a critical mass of intelligent devices are deployed on the battlefield, it will fundamentally reshape the command structure of the modern military into something resembling an RTS game (Like Starcraft, Civilization, Command & Conquer, etc), reducing response times from minutes to milliseconds.",
+      "one_liner": "Swarm robotics and full AI-command hierarchy integration",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Robotics",
+        "Drones",
+        "3D Printing",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746979571.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/150f2e7e6d2a2bd403e6eef32fdfbeff6beca871.png"
+    },
+    {
       "id": 30407,
       "name": "Golf",
       "slug": "golf",
@@ -2499,5 +2533,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-11T12:01:31.643353"
+  "fetched_at": "2025-05-11T18:01:30.592517"
 }
