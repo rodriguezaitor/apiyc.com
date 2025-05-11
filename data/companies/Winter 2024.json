@@ -5800,8 +5800,8 @@
       "name": "Trellis",
       "slug": "trellis",
       "website": "https://runtrellis.com/",
-      "description": "Trellis converts your unstructured data into SQL-compliant tables with a schema you define in natural language. With Trellis, you can now run SQL queries on complex data sources like financial documents, contracts, and emails. Our AI engine guarantees accurate schema and results.\r\n\r\nLeading enterprises use Trellis to:\r\n\r\n1. Unlock hidden revenue in their customer data (e.g., Underwriting teams use Trellis to extract key features from transaction data and build better risk models.)\r\n2. Supercharge RAG applications by enabling end-users to ask analytical questions not possible before with traditional Vector DB (e.g., what are the top three features that users are requesting)\r\n3. Enrich their data warehouse with business-critical information (e.g., Retrieving detailed pricing and quantity information of products sold on competitor websites)",
-      "one_liner": "AI-powered workflows for unstructured data",
+      "description": "Trellis helps healthcare providers treat more patients, faster\u2014while eliminating pre-service paperwork.\r\nWe automate document intake, prior authorizations, and appeals at scale to streamline operations and accelerate care.\r\n\r\nOur AI agent is trained on millions of clinical data points and converts messy, unstructured documents into clean, structured data directly in your EHR.\r\n\r\nWith Trellis, leading healthcare providers and pharmaceutical companies were able to:\r\n\r\n1. Reduce time to treatment by over 90%\r\n\r\n2. Improve prior authorization approval and reimbursement rates\r\n\r\n3. Leverage structured data to enhance drug program performance and clinical decision-making\r\n\r\nAdministrative costs account for over 20% of U.S. healthcare spending\u2014delaying care, draining revenue, and driving staff burnout while having less visibility into patient care than ever before. We built Trellis to tackle this head on.",
+      "one_liner": "AI for streamlining healthcare paperwork",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 34,
@@ -5826,7 +5826,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709255809.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75cdaab0ca75d9873d7ed2e377b25cb3ae95abb5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9cc80521b4e48dc602aef29ce4fb7d4c0f5dda1.png"
     },
     {
       "id": 29299,
@@ -8295,5 +8295,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-11T00:03:08.826451"
+  "fetched_at": "2025-05-11T06:01:04.763471"
 }
