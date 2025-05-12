@@ -3646,7 +3646,7 @@
     {
       "id": 29380,
       "name": "Conduit",
-      "slug": "conduit-2",
+      "slug": "conduit-ai",
       "website": "https://conduit.ai/",
       "description": "Conduit is an AI agent platform that drives conversational outcomes.\r\n\r\nCustomer conversations are the backbone of every business. Conduit turns them into an engine to optimize conversions, revenue, and cost savings.\r\n\r\nWe're starting with housing and hospitality, where communication is the operation. Leasing, onboarding, scheduling, retention\u2014it all runs on conversations. Conduit handles text and voice conversations with AI agents that perform like your best employee, but faster, more intelligent, and always on, while knowing exactly when to bring in a human.",
       "one_liner": "Conversational AI agents for the built world",
@@ -3848,8 +3848,8 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent is a workspace where AI assistants can work together, learn new information, and handle complex tasks on their own. Unlike regular AI tools that can only do basic tasks, Superagent's AI assistants can help teams with ongoing work like compliance, researching markets, and manage R&D - work that usually needs human employees.",
-      "one_liner": "The agent workspace",
+      "description": "Superagent helps teams create better prompts for AI coding. It connects to your tools like GitHub and Posthog to turn real context into evolving instructions that improve how coding agents work.\r\n",
+      "one_liner": "Better prompts for vibe coding",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -3864,8 +3864,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -8295,5 +8295,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-12T12:01:29.557933"
+  "fetched_at": "2025-05-12T18:01:01.660354"
 }

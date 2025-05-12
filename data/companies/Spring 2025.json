@@ -802,6 +802,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png"
     },
     {
+      "id": 30498,
+      "name": "Alkali",
+      "slug": "alkali",
+      "website": "https://alkali-eng.com/",
+      "description": "Alkali is building the co-pilot for chemical process design. Spot design errors earlier, get the right equipment sooner, and build chemical projects faster.",
+      "one_liner": "The Co-Pilot for Chemical Process Design",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Design Tools",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747069774.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/434ebaced47759c6ad84d0780081ce1d2be24afe.png"
+    },
+    {
       "id": 30497,
       "name": "Human Behavior",
       "slug": "human-behavior",
@@ -2370,6 +2403,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png"
     },
     {
+      "id": 30367,
+      "name": "QFEX",
+      "slug": "qfex",
+      "website": "https://www.qfex.com",
+      "description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler or cheaper than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
+      "one_liner": "24/7 Global Stock Exchange",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "Consumer Finance",
+        "Trading"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747069734.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2005304564bb67a368e45e33653755e6f1ff55d.png"
+    },
+    {
       "id": 30366,
       "name": "Blaxel",
       "slug": "blaxel",
@@ -2405,8 +2471,8 @@
       "name": "Partcl",
       "slug": "partcl",
       "website": "https://partcl.com/",
-      "description": "Partcl is bringing chip design automation into the 21st century with physics-informed models accelerated on GPUs.\r\nOur tools bring 700x speedups, saving weeks of engineering effort and enabling AI-driven optimization.\r\n\r\nWe have worked directly on some of the most-advanced chips ever designed and are advised by top VLSI researchers.\r\n",
-      "one_liner": "Chip Design Automation tools accelerated on GPUs",
+      "description": "Partcl modernizes chip design automation with physics-informed models powered by GPU acceleration. \r\nOur tools run up to 700\u00d7 faster than legacy solutions, cutting weeks off development and unlocking AI-driven optimization.",
+      "one_liner": "Design a chip in minutes",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2422,9 +2488,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Design Tools",
-        "Semiconductors",
-        "AI"
+        "Semiconductors"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2562,5 +2628,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-12T12:01:35.971185"
+  "fetched_at": "2025-05-12T18:01:02.484794"
 }

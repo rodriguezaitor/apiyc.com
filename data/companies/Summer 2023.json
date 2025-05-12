@@ -823,10 +823,10 @@
       "slug": "simbie-ai",
       "website": "http://www.simbie.ai",
       "description": "",
-      "one_liner": "Clinically-trained AI Voice Agents for Healthcare",
+      "one_liner": "Clinically-intellignet AI Voice Agents for Healthcare",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -838,16 +838,16 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Health Tech",
-        "AI"
+        "Health Tech"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689114050.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c0554511472d4b8530371b08cba5abd6f3f6fff.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de3ea440a910c4beb43d2c07c03f4dad65d8030c.png"
     },
     {
       "id": 29112,
@@ -997,7 +997,7 @@
       "slug": "flowiseai",
       "website": "https://flowiseai.com",
       "description": "Flowise uses low-code approach that enable developers to manage the whole lifecycle of building LLMs apps in production. From protoyping, evaluation, to iterations.",
-      "one_liner": "Open source Low-Code LLM development platform",
+      "one_liner": "Open source GenAI development platform",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 5,
@@ -1013,17 +1013,17 @@
       ],
       "locations": "Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688552847.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6c1c9b6e16de0c6a1de55b81d8dbf0fbf3f3ad1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/430a7c6b91b2b976c63ca3ebab6cfe4e2a6371d4.png"
     },
     {
       "id": 29104,
@@ -7336,5 +7336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-12T12:01:30.982454"
+  "fetched_at": "2025-05-12T18:01:01.892402"
 }
