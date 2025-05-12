@@ -2107,7 +2107,7 @@
       "name": "Sweep",
       "slug": "sweep",
       "website": "https://sweep.dev/",
-      "description": "Sweep is the best enterprise AI coding assistant for JetBrains. No data ever leaves your VPC.",
+      "description": "Sweep is the best enterprise AI coding assistant for JetBrains. No data ever leaves your VPC. https://sweep.dev",
       "one_liner": "The best AI coding assistant for JetBrains",
       "batch": "Summer 2023",
       "status": "Active",
@@ -2124,8 +2124,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -7341,5 +7341,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-11T18:01:27.064921"
+  "fetched_at": "2025-05-12T00:03:24.154148"
 }

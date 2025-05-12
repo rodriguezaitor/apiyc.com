@@ -38,8 +38,8 @@
       "name": "Sava Robotics",
       "slug": "sava-robotics",
       "website": "https://www.savarobotics.com",
-      "description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production part. ",
-      "one_liner": "Intelligent Robots for Sheet Metal",
+      "description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production parts.",
+      "one_liner": "Robot Operators for Sheet Metal",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -374,7 +374,7 @@
       "name": "mlop",
       "slug": "mlop",
       "website": "https://mlop.ai",
-      "description": "A fully open sourced, performant and actionable Weights and Biases alternative",
+      "description": "A fully open-source, performant and actionable Weights & Biases alternative that saves you money. \r\n\r\nCheck out our story here! https://www.reddit.com/r/mlopai/comments/1kkc9jp/mlopai_an_efficient_free_and_opensource/",
       "one_liner": "Experiment tracking for training ML models",
       "batch": "Spring 2025",
       "status": "Active",
@@ -596,9 +596,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -655,15 +655,9 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Robotics",
-        "B2B",
-        "Manufacturing",
-        "Automation"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746718035.0,
@@ -2111,7 +2105,7 @@
       "id": 30409,
       "name": "Notus Autonomous Systems",
       "slug": "notus-autonomous-systems",
-      "website": "",
+      "website": "http://www.notussystems.com/",
       "description": "We develop drones and land based autonomous robots that are designed to be controlled as groups and execute autonomous missions instead of requiring skilled operators to pilot or control. Once a critical mass of intelligent devices are deployed on the battlefield, it will fundamentally reshape the command structure of the modern military into something resembling an RTS game (Like Starcraft, Civilization, Command & Conquer, etc), reducing response times from minutes to milliseconds.",
       "one_liner": "Swarm robotics and full AI-command hierarchy integration",
       "batch": "Spring 2025",
@@ -2129,10 +2123,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotics",
         "Drones",
-        "3D Printing",
-        "AI"
+        "3D Printing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2172,6 +2166,39 @@
       "is_top_company": false,
       "launched_at": 1745255607.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb627188af8a389c044d02fc9024aae3ea05cdd3.png"
+    },
+    {
+      "id": 30406,
+      "name": "BitBoard",
+      "slug": "bitboard",
+      "website": "https://bitboard.work/",
+      "description": "BitBoard lets healthcare providers hire AI agents for repetitive administrative work within their existing tools and systems.\r\n\r\nBitBoard agents are already recovering thousands of hours previously spent on tedious tasks like reviewing intake forms and updating patient charts.\r\n\r\nThe founders were early employees at Forward, where they delivered primary care across the US with support from thousands of remote contractors handling manual administrative tasks. AI agents are finally capable enough to help.",
+      "one_liner": "The AI workforce for healthcare operations.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "B2B",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Healthcare",
+        "Operations",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746992332.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f783a2b5cb286e4aab0c053b944fef2a3dede92.png"
     },
     {
       "id": 30405,
@@ -2533,5 +2560,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-11T18:01:30.592517"
+  "fetched_at": "2025-05-12T00:03:29.902863"
 }
