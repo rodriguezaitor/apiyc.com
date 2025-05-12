@@ -458,8 +458,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
+        "SaaS",
+        "B2B",
         "Enterprise Software",
         "AI"
       ],
@@ -2403,8 +2404,8 @@
       "name": "Partcl",
       "slug": "partcl",
       "website": "https://partcl.com/",
-      "description": "Partcl is bringing chip design automation into the 21st century with physics-informed models accelerated using GPUs.\r\nOur tools bring 700x speedups, saving weeks of engineering effort and enabling AI-driven optimization.\r\n\r\nWe have worked directly on some of the most-advanced chips ever designed and are advised by top VLSI researchers. \r\n",
-      "one_liner": "GPU accelerated chip design tools",
+      "description": "Partcl is bringing chip design automation into the 21st century with physics-informed models accelerated on GPUs.\r\nOur tools bring 700x speedups, saving weeks of engineering effort and enabling AI-driven optimization.\r\n\r\nWe have worked directly on some of the most-advanced chips ever designed and are advised by top VLSI researchers.\r\n",
+      "one_liner": "Chip Design Automation tools accelerated on GPUs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2420,9 +2421,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Design Tools",
-        "Semiconductors"
+        "Semiconductors",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2560,5 +2561,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-12T00:03:29.902863"
+  "fetched_at": "2025-05-12T06:01:30.502849"
 }
