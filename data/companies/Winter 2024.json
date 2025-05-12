@@ -1574,7 +1574,7 @@
       "name": "CommodityAI",
       "slug": "commodityai",
       "website": "https://commodityai.io/",
-      "description": "CommodityAI builds intelligent automation agents for the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents read and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
+      "description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn trading operations, critical data is often buried in spreadsheets, emails, PDFs, and legacy systems \u2014 making workflows slow, error-prone, and overly manual. CommodityAI acts as a digital operator, continuously reading, interpreting, and updating information across the trade lifecycle to keep records accurate and systems in sync.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, vessel updates, and more \u2014 turning scattered, unstructured data into clean, structured records that flow directly into CTRMs, ERPs, and other core platforms. No manual entry required.\r\n\r\nBy automating what others still do by hand, we help trading teams move faster, reduce risk, and focus on the decisions that matter most.",
       "one_liner": "AI that automates commodity operations",
       "batch": "Winter 2024",
       "status": "Active",
@@ -1591,10 +1591,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4792,7 +4792,7 @@
       "one_liner": "Easy to use computational biology tools for drug discovery",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -4804,10 +4804,10 @@
       "locations": "",
       "tags": [
         "AI-powered Drug Discovery",
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Biotech"
+        "Biotech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8295,5 +8295,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-12T06:01:23.084493"
+  "fetched_at": "2025-05-12T12:01:29.557933"
 }
