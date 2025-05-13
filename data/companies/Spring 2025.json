@@ -38,7 +38,7 @@
       "name": "Sava Robotics",
       "slug": "sava-robotics",
       "website": "https://www.savarobotics.com",
-      "description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production parts.",
+      "description": "SAVA Robotics is building robot operators for any machine in sheet metal manufacturing. We're starting with the CNC Press Brake and have autonomously bent our first production parts.",
       "one_liner": "Robot Operators for Sheet Metal",
       "batch": "Spring 2025",
       "status": "Active",
@@ -368,6 +368,40 @@
       "is_top_company": false,
       "launched_at": 1744335489.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/484fe167f81b504f3783e0d04f12060ec5bf7d11.png"
+    },
+    {
+      "id": 30540,
+      "name": "Lumari",
+      "slug": "lumari",
+      "website": "https://www.lumari.io/",
+      "description": "Lumari enables non-technical teams to create custom internal apps and agentic workers without writing any code or wasting budget on inflexible off-the-shelf software. Simply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
+      "one_liner": "AI internal software builder for non-technical teams",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "No-code",
+        "Operations"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747084472.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a939168d94d3c56ad22ffb102cf8d658f02d3fd5.png"
     },
     {
       "id": 30539,
@@ -1236,6 +1270,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1118b422f2be63b5d6c5b12b721a468712deb7d.png"
     },
     {
+      "id": 30466,
+      "name": "Labric",
+      "slug": "labric",
+      "website": "https://labric.co",
+      "description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it\u2014so researchers can actually use AI to accelerate discovery.",
+      "one_liner": "Data infrastructure and AI for scientific research labs",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Biotech",
+        "Nanotechnology",
+        "Advanced Materials",
+        "Semiconductors",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747086610.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2328f04b2a69a293a3f3a79d7e648159242574.png"
+    },
+    {
       "id": 30462,
       "name": "Linkd",
       "slug": "linkd",
@@ -1529,6 +1597,40 @@
       "is_top_company": false,
       "launched_at": 1746827982.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2803b99a0f6ad3a6257fd02f86b580fc76eee42e.png"
+    },
+    {
+      "id": 30449,
+      "name": "Attune",
+      "slug": "attune",
+      "website": "https://attunehq.com",
+      "description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds increasingly becomes the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to see if it works. Every minute saved in build time translates directly to engineering productivity and faster time-to-market.\r\n\r\nExisting solutions either require painful migrations (e.g. Bazel) or get most of their gains from just using bigger servers. Instead, we do direct native integrations into compilers and build systems. This allows us to create solutions that are radically simpler and more performant.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+      "one_liner": "Faster builds, zero effort.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "DevOps",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747089464.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png"
     },
     {
       "id": 30448,
@@ -2406,7 +2508,7 @@
       "id": 30367,
       "name": "QFEX",
       "slug": "qfex",
-      "website": "https://www.qfex.com",
+      "website": "https://qfex.com",
       "description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler or cheaper than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
       "one_liner": "24/7 Global Stock Exchange",
       "batch": "Spring 2025",
@@ -2504,7 +2606,7 @@
       "name": "Tropir",
       "slug": "tropir",
       "website": "https://www.tropir.com/",
-      "description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke\u2014a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+      "description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke\u2014a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the information flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
       "one_liner": "Traceback why your AI failed",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2520,9 +2622,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2628,5 +2730,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-12T18:01:02.484794"
+  "fetched_at": "2025-05-13T00:02:56.468948"
 }

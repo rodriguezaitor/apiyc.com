@@ -88,15 +88,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Generative AI",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -873,34 +868,6 @@
       "is_top_company": false,
       "launched_at": 1718775199.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d265b62e9a71a10a393d1dd6dc5f7e7aee9d789.png"
-    },
-    {
-      "id": 29953,
-      "name": "Hey Revia",
-      "slug": "hey-revia",
-      "website": "https://heyrevia.ai",
-      "description": "Hey Revia is a voice AI that handles complex phone calls for healthcare providers. Our software automates complex menus, reduces hold times, and handles tedious phone calls\u2014verifying provider details, updating insurance info, and securing approvals. We offer Revia as web app, mobile app and API.",
-      "one_liner": "Voice AI to automate complex phone calls for healthcare providers",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1725661264.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f4ffb580e2b7f9d32ad41f2bca07eed911ae32b.png"
     },
     {
       "id": 29952,
@@ -8315,6 +8282,34 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png"
     },
     {
+      "id": 29953,
+      "name": "Hey Revia",
+      "slug": "hey-revia",
+      "website": "https://heyrevia.ai",
+      "description": "Hey Revia is a voice AI that handles complex phone calls for healthcare providers. Our software automates complex menus, reduces hold times, and handles tedious phone calls\u2014verifying provider details, updating insurance info, and securing approvals. We offer Revia as web app, mobile app and API.",
+      "one_liner": "Voice AI to automate complex phone calls for healthcare providers",
+      "batch": "Summer 2024",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1725661264.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f4ffb580e2b7f9d32ad41f2bca07eed911ae32b.png"
+    },
+    {
       "id": 29641,
       "name": "Invaria",
       "slug": "invaria",
@@ -8348,5 +8343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-12T18:01:01.717459"
+  "fetched_at": "2025-05-13T00:02:50.084349"
 }
