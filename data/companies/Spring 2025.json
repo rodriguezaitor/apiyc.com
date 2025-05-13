@@ -69,10 +69,10 @@
     },
     {
       "id": 30560,
-      "name": "Sava Robotics",
+      "name": "SAVA Robotics",
       "slug": "sava-robotics",
       "website": "https://www.savarobotics.com",
-      "description": "SAVA Robotics is building robot operators for any machine in sheet metal manufacturing. We're starting with the CNC Press Brake and have autonomously bent our first production parts.",
+      "description": "SAVA Robotics builds robot operators for sheet metal machines. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech\u2019s Robotics labs. The team experienced Vedic\u2019s father's 12-hour shifts, operating the machines in his shop because he struggled to find workers. After visiting manufacturers across the US, they have witnessed hundreds of automation cells collect dust while shop owners scramble to find skilled labor.\r\n\r\nSAVA 01 mimics the human operator by reading machine data and manipulating unseen parts. They are starting with the CNC Press Brake and have bent production parts for YC startups. ",
       "one_liner": "Robot Operators for Sheet Metal",
       "batch": "Spring 2025",
       "status": "Active",
@@ -715,8 +715,8 @@
       "name": "Eloquent AI",
       "slug": "eloquent-ai",
       "website": "https://www.eloquentai.co/",
-      "description": "Eloquent AI empowers regulated industries to confidently deploy AI agents for critical, high-stakes conversations.\r\n\r\nWe developed the first Agentic OS that leverages deep evaluations and reinforcement learning to eliminate hallucinations and errors. Our agents autonomously ingest knowledge, measure performance, and self-correct by refining internal reward models.\r\n\r\nAt the core of our technology is the Mission Control Engine, specifically designed for reliability and compliance:\r\n- User simulations for pre-launch assurance of agent performance.\r\n- Contextual compliance, with AI models trained directly on mandated regulations, eliminating liabilities from unauthorized advice or mishandled complaints.\r\n- Comprehensive audit trails that document and clearly explain AI decision-making to regulators.\r\n\r\nBuilt for compliance and trust, Eloquent AI transforms AI from a potential liability into a strategic advantage for financial institutions and healthcare organizations.",
-      "one_liner": "Agentic AI Platform for Financial Services",
+      "description": "Eloquent AI is the first AI Operator built specifically for financial services to automate complex, regulated customer service operations beyond frontline support. \r\n\r\nOur AI Operator learns to securely navigate your existing systems simply by observing your standard operating procedures\u2014automating up to 96% of tasks without any engineering effort.",
+      "one_liner": "The AI Operator for Financial Services",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 5,
@@ -726,11 +726,19 @@
         "B2B"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "SaaS",
+        "B2B",
+        "Enterprise"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -868,6 +876,38 @@
       "is_top_company": false,
       "launched_at": 1744314522.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png"
+    },
+    {
+      "id": 30503,
+      "name": "Vesence",
+      "slug": "vesence",
+      "website": "https://vesence.com",
+      "description": "What Cursor did for VS Code, we are doing for Microsoft Word. Focus on Transactional Law Firms. \r\n\r\nLaunched in February, and we\u2019ve already rolled out the product firm-wide with our first enterprise customer.",
+      "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Machine Learning",
+        "B2B",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747133222.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png"
     },
     {
       "id": 30501,
@@ -1204,7 +1244,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746507069.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/068ef3305c3032de8e91325a83c2e67511616523.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb20e1f29c5b7138851e75459877c74ca0beccf7.png"
     },
     {
       "id": 30479,
@@ -1302,7 +1342,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1743582739.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/740d5233b8e9c5fd92b633ca18abe0767fee3aac.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a1186ade1980432028fbe0af8cf6b4d804a4cb.png"
     },
     {
       "id": 30467,
@@ -1496,9 +1536,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Security",
-        "Cryptography"
+        "Cryptography",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2119,6 +2159,40 @@
       "is_top_company": false,
       "launched_at": 1744707028.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b44e1fc178c097389ce6520bba94bf26d79a57c1.png"
+    },
+    {
+      "id": 30422,
+      "name": "Galen AI",
+      "slug": "galen-ai",
+      "website": "https://www.galenai.com/",
+      "description": "Galen is an AI-powered personal healthcare companion. We enable patients to securely connect their medical records from over 800 healthcare institutions across more than 12,000 locations in the United States, United Kingdom, and Canada. We also connect with over 20 popular wearable devices including Apple Watch, Fitbit, and Dexcom, bringing all your medical records and health data into one unified space. \r\n\r\nWe founded Galen because for over four years, Viraj struggled to navigate several conditions related to chronic low back pain. He often found himself waiting weeks for responses from his care team, received little guidance or education about new diagnoses, and was overwhelmed trying to manage overlapping conditions and medications.\r\n\r\nHis experiences are not unique. Our healthcare system is overloaded and fragmented, and often, patients are left to navigate their care on their own. Everyday there are nearly 1 billion health-related Google searches, but the responses to such queries are generic and impersonalized, because the searches lack any insight into a users personal health background.\r\n\r\nBy leveraging your own data and state-of-the art LLM memory capabilities, Galen delivers personalized insights, proactive health recommendations, and 24/7 on-demand medical support \u2014 empowering patients to be an active part of their health team. We are a consumer app in beta testing and will be available on the App Store soon!",
+      "one_liner": "AI agent for healthcare, powered by clinical and wearable data.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Consumer Health Services",
+        "Health Tech",
+        "Digital Health",
+        "Healthcare",
+        "Health & Wellness"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747120968.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/36c68657cdcea22dd2b36aaaacd96e9dc63bddee.png"
     },
     {
       "id": 30421,
@@ -2798,5 +2872,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-13T06:01:23.049670"
+  "fetched_at": "2025-05-13T12:01:40.012777"
 }
