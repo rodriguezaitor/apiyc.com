@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "id": 30562,
+      "name": "Docket",
+      "slug": "docket",
+      "website": "https://docketqa.com",
+      "description": "Docket lets you write end-to-end tests in plain English and keeps them up to date automatically\u2014powered by real user sessions.",
+      "one_liner": "AI agents for QA testing",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747107485.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa849f70a991d46ed789deab2ddee170d952bc14.png"
+    },
+    {
       "id": 30561,
       "name": "Valora",
       "slug": "valora",
@@ -391,10 +425,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "No-code",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -469,6 +503,40 @@
       "is_top_company": false,
       "launched_at": 1745125390.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png"
+    },
+    {
+      "id": 30535,
+      "name": "Cotool",
+      "slug": "cotool",
+      "website": "https://cotool.ai",
+      "description": "Cotool is an agentic security platform that eliminates manual and repetitive work for security teams.\r\n\r\nToday\u2019s cybersecurity teams remain bogged down by alert fatigue, context switching, and documentation overhead. Security teams don't need more dashboards with \"AI-powered insights\" \u2014 they need their time back.\r\n\r\nCotool empowers teams to build security their way. Our platform provides an AI co-pilot that automatically assembles context across tools, a no-code agent builder that transforms successful investigations into reusable automations, and automated report generation, providing comprehensive documentation in seconds.\r\n\r\nUnlike solutions that force teams to adapt to vendor workflows, Cotool puts the power of AI directly in practitioners' hands, letting them shape tools around their unique processes. Early users have already cut time spent on investigation and detection engineering by 70%.",
+      "one_liner": "Free your security team to hunt threats, not handle workflows",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Compliance",
+        "Security",
+        "Cybersecurity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747110142.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/389cfe9769cc2f1446473204037279b6e1215a61.png"
     },
     {
       "id": 30533,
@@ -1603,7 +1671,7 @@
       "name": "Attune",
       "slug": "attune",
       "website": "https://attunehq.com",
-      "description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds increasingly becomes the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to see if it works. Every minute saved in build time translates directly to engineering productivity and faster time-to-market.\r\n\r\nExisting solutions either require painful migrations (e.g. Bazel) or get most of their gains from just using bigger servers. Instead, we do direct native integrations into compilers and build systems. This allows us to create solutions that are radically simpler and more performant.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+      "description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
       "one_liner": "Faster builds, zero effort.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2480,10 +2548,10 @@
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Healthcare",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "Healthcare"
       ],
       "regions": [
         "United States of America",
@@ -2491,11 +2559,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Data Labeling",
-        "AI"
+        "Data Labeling"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2730,5 +2798,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-13T00:02:56.468948"
+  "fetched_at": "2025-05-13T06:01:23.049670"
 }
