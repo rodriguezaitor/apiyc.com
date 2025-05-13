@@ -644,6 +644,74 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png"
     },
     {
+      "id": 30526,
+      "name": "chrt",
+      "slug": "chrt",
+      "website": "https://chrt.com",
+      "description": "chrt is a platform for Time-Critical Logistics. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nShippers that place time-critical orders with chrt are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nWe have a marketplace of professional couriers who pick up and deliver these orders. We build the software our couriers use to handle these shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide our shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe\u2019re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we\u2019re also shipping freight.",
+      "one_liner": "chrt is a platform for Time-Critical Logistics",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Digital Freight Brokerage",
+        "Marketplace",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747152745.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png"
+    },
+    {
+      "id": 30523,
+      "name": "Mesmer",
+      "slug": "mesmer",
+      "website": "https://mesmer.co",
+      "description": "Mesmer gives leaders at scaling startups full context on their product development so that they can lead without drowning in meetings and management. We help founder/CTOs at companies worth over $3B keep their orgs fast, flat, and focused as they scale, including Origin, a $400M fintech cofounded by Jo\u00e3o.",
+      "one_liner": "Cursor for CTOs to run product development",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Productivity",
+        "Team Collaboration",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747147618.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6139ccbb34b49d774e2708fc51e7b70f16db36d5.png"
+    },
+    {
       "id": 30518,
       "name": "Zero",
       "slug": "zero",
@@ -1316,7 +1384,7 @@
       "name": "RunRL",
       "slug": "runrl",
       "website": "https://runrl.com",
-      "description": "RunRL is the platform that lets you\u2026run RL. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we\u2019ll make your model\u2019s reward go up.",
+      "description": "RunRL improves LLMs and AI agents with reinforcement learning. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we\u2019ll make your model\u2019s reward go up.",
       "one_liner": "Run RL on any LLM, with any reward function. Now with agent support!",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1685,7 +1753,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2872,5 +2940,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-13T12:01:40.012777"
+  "fetched_at": "2025-05-13T18:01:10.925491"
 }

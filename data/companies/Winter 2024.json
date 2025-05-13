@@ -6061,7 +6061,7 @@
       "name": "FurtherAI",
       "slug": "furtherai",
       "website": "https://www.furtherai.com/",
-      "description": "FurtherAI is building a workforce of AI Teammates for the insurance industry to handle repetitive manual tasks involving unstructured data processing and data entry across disjointed systems. Our first AI Teammate handles quote generation workflows for insurance brokers & MGAs.\r\n",
+      "description": "FurtherAI is a domain-specific AI for the insurance industry. Our AI Assistant automates complex workflows like submission intake, policy comparisons, and underwriting audits - making teams faster, smarter, and more efficient.\r\n\r\nLeading insurers, reinsurers, MGAs, and brokers rely on FurtherAI to drive better decisions at scale. Backed by top investors including Y Combinator, Nexus, South Park Commons, and Converge, FurtherAI supports customers writing over $15B in premiums across all 50 states.",
       "one_liner": "AI Workforce for the Insurance Industry",
       "batch": "Winter 2024",
       "status": "Active",
@@ -6072,16 +6072,19 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Insurance"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1719357150.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8b27a4154563f3b5e70292f2ac7b1bbdf332e05.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f69d37602abbe546a737245228432e7650303234.png"
     },
     {
       "id": 29288,
@@ -8295,5 +8298,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-13T12:01:33.052605"
+  "fetched_at": "2025-05-13T18:01:05.758466"
 }
