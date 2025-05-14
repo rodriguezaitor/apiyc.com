@@ -1496,14 +1496,14 @@
     },
     {
       "id": 27154,
-      "name": "Caddie AI",
-      "slug": "caddie-ai",
-      "website": "http://www.trycaddie.com",
-      "description": "Caddie AI is building the future of website conversion. We're currently working in stealth with some incredible customers. Stay tuned!",
-      "one_liner": "The future of website conversion",
+      "name": "Superbar (Formerly Caddie)",
+      "slug": "superbar-formerly-caddie",
+      "website": "http://www.superbar.ai",
+      "description": "Superbar is the AI-powered search and answer bar built to fix ecommerce conversion. It connects to your product catalog, blogs, videos, and customer reviews to deliver instant, high-converting search results and answers\u2014trained specifically to sell your products. No dev work needed. Just plug it in.\r\n",
+      "one_liner": "Search & Answers Superbar for E-Commerce",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
@@ -1520,7 +1520,7 @@
       "tags": [
         "SaaS",
         "B2B",
-        "Sales",
+        "E-commerce",
         "Marketing",
         "Enterprise"
       ],
@@ -1529,7 +1529,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1656364678.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad7658154dd1af4e3c35620787ed7dd818be40ed.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/00fd47f91143cc8393a67e9aa539ee075762df08.png"
     },
     {
       "id": 27152,
@@ -8124,5 +8124,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-05-14T12:01:38.888285"
+  "fetched_at": "2025-05-14T18:01:21.449525"
 }

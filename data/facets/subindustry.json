@@ -17,11 +17,11 @@
     "B2B -> Sales": 116,
     "Healthcare -> Consumer Health and Wellness": 115,
     "B2B -> Finance and Accounting": 114,
-    "Consumer -> Content": 110,
     "Healthcare -> Healthcare IT": 110,
-    "Consumer": 104,
+    "Consumer -> Content": 109,
+    "Consumer": 105,
+    "B2B -> Security": 96,
     "Consumer -> Food and Beverage": 96,
-    "B2B -> Security": 95,
     "Real Estate and Construction -> Housing and Real Estate": 83,
     "B2B -> Human Resources": 82,
     "Unspecified": 81,
@@ -53,11 +53,11 @@
     "Consumer -> Transportation Services": 27,
     "B2B -> Office Management": 25,
     "Consumer -> Virtual and Augmented Reality": 23,
-    "Real Estate and Construction": 20,
+    "Real Estate and Construction": 21,
     "Industrials -> Automotive": 19,
     "Industrials -> Drones": 17,
     "Consumer -> Job and Career Services": 16,
     "Industrials": 15
   },
-  "fetched_at": "2025-05-14T12:01:47.846000"
+  "fetched_at": "2025-05-14T18:01:30.148851"
 }

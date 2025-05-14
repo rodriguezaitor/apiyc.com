@@ -427,9 +427,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Data Engineering",
-        "AI"
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2558,8 +2558,8 @@
       "name": "OpenFunnel",
       "slug": "openfunnel",
       "website": "https://openfunnel.dev",
-      "description": "OpenFunnel builds personalized AI Agents for GTM teams. These agents understand their product, scour through the internet, and find prospects that have shown intent for their product.\r\n\r\nToday, GTM teams at B2B SaaS companies, burn through cold prospects from intent data providers like Demandbase and Zoominfo using some AI SDR tools and get conversions < 1%.\r\n\r\nOur customers have a steady pipeline of prospects daily and get 20x more meetings booked by reaching out to prospects when they show intent.\r\n",
-      "one_liner": "Personalised Agents for AI-First GTM Teams",
+      "description": "OpenFunnel helps you autonomously discover and prioritize prospects by identifying external activities your ICPs are doing \u2014 signals that show a company is worth reaching out to and might have a pain point.\r\n\r\nFor example -\r\nAn LLM Ops company that provides tools for self hosting LLMs uses us to\r\nFind companies in their ICP rapidly expanding their AI team for self-hosting Llama Models\r\n\r\nAn HR and Payroll Software company that helps with global payroll uses us to\r\nFind seed funded announcements in real-time and have immigrant founders to the US",
+      "one_liner": "Agents to help find in-market companies via deep researched signals",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2576,7 +2576,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Generative AI",
-        "B2B"
+        "B2B",
+        "Sales Enablement"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3111,5 +3112,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-05-14T12:01:43.044052"
+  "fetched_at": "2025-05-14T18:01:25.753544"
 }

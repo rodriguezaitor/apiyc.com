@@ -7460,19 +7460,11 @@
         "Infrastructure"
       ],
       "regions": [
-        "Austria",
-        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Vienna, Vienna, Austria",
-      "tags": [
-        "Developer Tools",
-        "B2B",
-        "Open Source",
-        "Kubernetes",
-        "DevOps"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -8346,5 +8338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-14T12:01:38.563923"
+  "fetched_at": "2025-05-14T18:01:21.140123"
 }

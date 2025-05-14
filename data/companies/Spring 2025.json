@@ -604,7 +604,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747110142.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/389cfe9769cc2f1446473204037279b6e1215a61.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/206decabd9d62821656d84ac331ecdfb83854063.png"
     },
     {
       "id": 30533,
@@ -744,6 +744,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png"
     },
     {
+      "id": 30527,
+      "name": "MindFort",
+      "slug": "mindfort",
+      "website": "https://www.mindfort.ai",
+      "description": "MindFort is building fully autonomous AI agents and models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+      "one_liner": "Fully autonomous security agents: find, validate, patch.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Cybersecurity",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747245373.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png"
+    },
+    {
       "id": 30526,
       "name": "chrt",
       "slug": "chrt",
@@ -846,6 +881,40 @@
       "is_top_company": false,
       "launched_at": 1746733443.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a6f23712cebc8751d7d54d0dda9e0fefd595ba2.png"
+    },
+    {
+      "id": 30517,
+      "name": "ValueMate",
+      "slug": "valuemate",
+      "website": "https://valuemate.ai",
+      "description": "Property appraisals suck \u2014 September\u2019s new federal rules will make them even worse.\r\n\r\nValueMate\u2019s LiDAR-plus-AI app captures a property in a three-minute walkthrough and delivers a regulator-ready report on our dashboard, slashing cycle times by 80% for the valuation firms already on board.\r\n\r\nIn the next few months, every bank, AMC, and independent appraiser must switch to the new format or watch loans pile up. ValueMate handles the transition end-to-end, with zero tape measures, zero data entry, and zero closing delay.\r\n\r\nWe\u2019re transforming the multi-billion dollar appraisal industry with technology that captures millions of 3D data points per walkthrough.",
+      "one_liner": "Valuemate automates real estate appraisals with AI ",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Real Estate and Construction",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "Real Estate",
+        "Proptech",
+        "Automation",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747245550.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/378dff1b4c96c256939295e47e1e3e3446784095.png"
     },
     {
       "id": 30514,
@@ -1751,8 +1820,8 @@
       "name": "Parsewise",
       "slug": "parsewise",
       "website": "https://parsewise.ai",
-      "description": "Our AI Agents are like your best data analysts. They proactively flag inconsistencies and gaps across documents in diverse formats, enabling you to make better decisions faster.\r\nThink Deep Research, but quick to verify and trust.",
-      "one_liner": "Extract Canonical Data from Complex Documents",
+      "description": "Turn complex documents into validation information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
+      "one_liner": "Extract Validated Data from Complex Documents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1766,9 +1835,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2947,6 +3016,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png"
     },
     {
+      "id": 30329,
+      "name": "Waffle",
+      "slug": "waffle",
+      "website": "",
+      "description": "Build custom web applications in minutes. Chat to Waffle to built, edit, and publish web applications without writing a line of code. \r\n\r\nComing soon: build web apps with a real backend! That means databases, authentication, email services, file storage, and more.",
+      "one_liner": "Vibe code web apps",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Consumer",
+        "Web Development"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1740162817.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/55ddda605d9220f980439bd048c8a5e8691cd276.png"
+    },
+    {
       "id": 30191,
       "name": "Partcl",
       "slug": "partcl",
@@ -3108,5 +3209,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-14T12:01:43.284561"
+  "fetched_at": "2025-05-14T18:01:25.494102"
 }
