@@ -4341,7 +4341,7 @@
         "Automation"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716852989.0,
@@ -4872,23 +4872,26 @@
       "name": "Anthrogen",
       "slug": "anthrogen",
       "website": "https://anthrogen.com",
-      "description": "Anthrogen uses genetically modified bacteria and optimized enzymes to turn carbon from the air into cheap chemicals. Think Solugen but for more complex molecules/enzyme cascades and using atmospheric carbon instead of sugar as a base. \r\n\r\nWe have engineered the fastest photosynthesizing organism in the world with CRISPR and use generative models to design our enzymatic cascades. We are stating with jet/rocket fuel but will expand to other verticals soon.",
-      "one_liner": "We make molecules like fuels and plastics from the air.",
+      "description": "Proteins power everything from the cells in your body to creating materials you rely on every day\u2014but until now, we\u2019ve been forced to discover their functions by trial and error. Designing a new therapeutic can take decades and billions of dollars, and even our best industrial catalysts work at a snail\u2019s pace compared to their theoretical optimums.\r\n\r\nAnthrogen is changing that. By training massive AI foundation models on protein sequences and structures, we\u2019ve unlocked the ability to generate\u2014on demand\u2014completely novel molecular machines with atomic-level precision. Simply describe the function you need, and our platform imagines the peptide or protein that will deliver it.\r\n\r\nWe're building models to speed up billions of years of evolution into the span of an afternoon's worth of compute.\r\n\r\nThe result? New-to-nature therapies, ultra-efficient catalysts for sustainable manufacturing, and a whole new frontier of molecular innovation\u2014designed as precisely as any cutting-edge aircraft or microchip.",
+      "one_liner": "We're training the next generation of protein foundation models.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 6,
-      "industry": "Industrials",
+      "industry": "Healthcare",
       "subindustry": "Industrials -> Climate",
       "industries": [
-        "Industrials",
-        "Climate"
+        "Healthcare"
       ],
       "regions": [
-        "Remote",
-        "Partly Remote"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Biotech"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8235,10 +8238,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Robotic Process Automation",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8343,5 +8346,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-14T00:02:48.129408"
+  "fetched_at": "2025-05-14T06:01:24.976099"
 }

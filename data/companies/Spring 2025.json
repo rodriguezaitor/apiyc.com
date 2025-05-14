@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "id": 30565,
+      "name": "Cohesive",
+      "slug": "cohesive",
+      "website": "https://getcohesiveai.com/",
+      "description": "Cohesive is the agentic CRM for blue collar businesses like janitorial, pressure washing, landscaping, HVAC, and pest control businesses. Cohesive fully automates sales and marketing outreach to local businesses and property owners in the service area, helping local service businesses grow even while servicing clients in the field.",
+      "one_liner": "The agentic CRM for blue collar businesses",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "SaaS",
+        "Sales",
+        "CRM"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747185757.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae1ace3d66e110a8df626460cadb105a22556d0.png"
+    },
+    {
       "id": 30562,
       "name": "Docket",
       "slug": "docket",
@@ -165,6 +199,40 @@
       "is_top_company": false,
       "launched_at": 1746647881.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b61a9c6976c89879b6647cf5de4a9c135cae19d.png"
+    },
+    {
+      "id": 30555,
+      "name": "DataSci.Pro",
+      "slug": "datasci-pro",
+      "website": "https://www.datasci.pro",
+      "description": "DataSci.Pro is building intelligent full-stack data science AI agents that turn raw data into actionable insights and answers in minutes, not days, putting the power of data-driven decisions into anyone's hands.\r\n\r\nData science teams today are bogged down by low-value, repetitive work. Hours are wasted wrangling siloed data, writing boilerplate code for cleaning, visualization, and modeling, and manually building reports and dashboards for every new question. This isn't just inefficient, it's a major bottleneck that slows down innovation and insight delivery, and the problem only worsens as data volume and complexity grow.\r\n\r\nWe're solving this by providing a comprehensive platform powered by intelligent AI agents. DataSci.Pro connects directly to your data sources \u2013 databases, cloud storage, or CSVs \u2013 and immediately understands your schema and table relationships, enabling quick queries, joins, and manipulations. Our agent deeply profiles your data to understand its unique nature and context, ensuring the code generated for analysis, modeling, and visualization is relevant and tailored to your data. This allows the agent to autonomously execute the entire data science pipeline in one shot from a simple, high-level prompt. You can even work alongside the agent in your Jupyter notebooks, accelerating everything from exploratory analysis to model building.\r\n\r\nDataSci.Pro was built to eliminate the grunt work that slows data teams down. Whether you want full control over the code or just quick answers without development overhead, DataSci.Pro supports your specific workflow and experience level. By automating the most time-consuming parts of data engineering and analysis, DataSci.Pro empowers data-driven teams to move faster and focus on generating real value and actionable insights.",
+      "one_liner": "Full-stack AI agents for data science",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Analytics",
+        "Data Science",
+        "Data Engineering",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747195045.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/850871ffbd491df4284de57049e289171e3d3327.png"
     },
     {
       "id": 30553,
@@ -2036,6 +2104,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png"
     },
     {
+      "id": 30437,
+      "name": "Kaelio",
+      "slug": "kaelio",
+      "website": "https://kaelio.com/",
+      "description": "Kaelio is building an analytics copilot for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI copilot that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
+      "one_liner": "Analytics copilot for healthcare organizations",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "B2B",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Healthcare",
+        "Health Insurance",
+        "Healthcare IT",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747200146.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png"
+    },
+    {
       "id": 30434,
       "name": "Zeon Systems",
       "slug": "zeon-systems",
@@ -3006,5 +3108,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-14T00:02:53.598547"
+  "fetched_at": "2025-05-14T06:01:30.981435"
 }
