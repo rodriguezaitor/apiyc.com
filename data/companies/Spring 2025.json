@@ -22,10 +22,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -543,7 +543,7 @@
       "name": "Delty",
       "slug": "delty",
       "website": "https://delty.ai",
-      "description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That\u2019s where a staff software engineer shines.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
+      "description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That\u2019s where a staff software engineer shines.\r\n\r\nDelty is an AI staff engineer.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
       "one_liner": "AI staff engineer that designs systems and guides coding agents",
       "batch": "Spring 2025",
       "status": "Active",
@@ -560,11 +560,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -572,6 +572,38 @@
       "is_top_company": false,
       "launched_at": 1746945144.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png"
+    },
+    {
+      "id": 30531,
+      "name": "Moby Analytics",
+      "slug": "moby-analytics",
+      "website": "https://www.mobyanalytics.com/",
+      "description": "At Moby Analytics, we provide the first AI agentic platform built for financial auditors. Auditors easily create and deploy AI agents to automate audit workflows. No code, just prompts and domain expertise.",
+      "one_liner": "AI Platform for financial auditors",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "France",
+        "Europe"
+      ],
+      "locations": "Paris, \u00cele-de-France, France",
+      "tags": [
+        "Automation",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747161163.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2113434e52531a77ccec1fd7bb7d5596dc0b6f6d.png"
     },
     {
       "id": 30530,
@@ -2164,6 +2196,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f362b725240ccdfc1c0cc42ebc5700507b2ddb.png"
     },
     {
+      "id": 30427,
+      "name": "Anvil",
+      "slug": "anvil",
+      "website": "https://joinanvil.com",
+      "description": "Anvil is the SEO platform for the AI era.\r\nWe show you how your brand performs in LLMs like ChatGPT \u2014 and how to get found more often.",
+      "one_liner": "Optimize your brand's visibility within LLMs",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Real Estate and Construction -> Construction",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Analytics",
+        "Marketing",
+        "SEO",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747166393.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3823ab9ff80b25f2f6f8fd1fbd6b07a0c93903a.png"
+    },
+    {
       "id": 30426,
       "name": "Approval AI",
       "slug": "approval-ai",
@@ -2940,5 +3006,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-13T18:01:10.925491"
+  "fetched_at": "2025-05-14T00:02:53.598547"
 }

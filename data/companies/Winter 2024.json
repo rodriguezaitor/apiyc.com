@@ -2354,7 +2354,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709681560.0,
@@ -6343,7 +6343,7 @@
       "slug": "carousel-technologies",
       "website": "https://usecarousel.com",
       "description": "Carousel is an AI assistant for Excel that builds spreadsheets & models in minutes, not hours.\r\n\r\nCarousel can:\r\n\r\n- Create & edit Excel models of any complexity, including but not limited to: multi-statement financial models with several tabs, FP&A templates based on raw revenue and cost data, scientific data analyses, and more\r\n\r\n- Take in data from PDFs, CSVs, presentations, and images, and build the data into your Excel directly\r\n\r\n- Walk you through complex spreadsheet architecture and each cell's precedents and dependents\r\n\r\n- Format your models tastefully & professionally\r\n\r\n- Build chart dashboards to visualize your data\r\n\r\nIt's more useful than the last intern you hired.",
-      "one_liner": "Cursor for Excel",
+      "one_liner": "AI Assistant for Excel",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 3,
@@ -8298,5 +8298,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-13T18:01:05.758466"
+  "fetched_at": "2025-05-14T00:02:47.751742"
 }

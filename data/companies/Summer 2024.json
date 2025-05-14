@@ -4080,11 +4080,11 @@
     },
     {
       "id": 29745,
-      "name": "Lumenary",
-      "slug": "lumenary",
-      "website": "https://lumenary.com",
-      "description": "Lumenary is a code-generation platform and IDE that makes designing rigorous, data-intensive applications feel like whiteboarding. We provide a canvas-based UI that helps users and LLMs work off the same code and infrastructure context, while programmatically generating full-stack apps from high-level specifications.\r\n\r\n\r\nLumenary was founded by four best friends who met at Dartmouth College, with engineering expertise from Jane Street Capital, IMC Trading, and Palantir Technologies. They've published high impact machine learning research in venues like NeurIPS, in addition to deploying secure enterprise software managing billions of dollars and petabytes of data.",
-      "one_liner": "Build production-worthy software quickly with AI.",
+      "name": "Lumenary, Inc.",
+      "slug": "lumenary-inc",
+      "website": "https://try.solar",
+      "description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
+      "one_liner": "Build working software exceedingly fast in Solar",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 4,
@@ -4100,9 +4100,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4188,7 +4188,7 @@
       "one_liner": "Workforce management for modern healthcare ",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -4201,13 +4201,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723528837.0,
@@ -8343,5 +8343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-13T18:01:06.133165"
+  "fetched_at": "2025-05-14T00:02:48.129408"
 }
