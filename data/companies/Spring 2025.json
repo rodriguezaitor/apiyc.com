@@ -573,6 +573,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png"
     },
     {
+      "id": 30536,
+      "name": "Propolis",
+      "slug": "propolis",
+      "website": "https://propolis.tech/",
+      "description": "Propolis simulates real users via swarms of autonomous browser agents that test for you.",
+      "one_liner": "Hands off QA via intelligent browser agents. ",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747249563.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de349c84edec8a91fa36f8307a0a2b1fa56b010f.png"
+    },
+    {
       "id": 30535,
       "name": "Cotool",
       "slug": "cotool",
@@ -845,6 +876,39 @@
       "is_top_company": false,
       "launched_at": 1747147618.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6139ccbb34b49d774e2708fc51e7b70f16db36d5.png"
+    },
+    {
+      "id": 30519,
+      "name": "Hemut",
+      "slug": "hemut",
+      "website": "https://www.hemut.com/",
+      "description": "Next-generation truck management software to automate back-office operations for trucking companies. Features include AI agents to automate inbound/outbound calls, AI document upload to reduce manual data entry, load sourcing tools, automated accounting, and more.",
+      "one_liner": "AI-powered operating system for trucking companies.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Logistics"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747261239.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0130d4e41d286011dbbf71e01781948525f98d90.png"
     },
     {
       "id": 30518,
@@ -1245,6 +1309,38 @@
       "is_top_company": false,
       "launched_at": 1744779271.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ee4a82d8c7b2f47ddbde81a8a5fdf634227e73.png"
+    },
+    {
+      "id": 30496,
+      "name": "QualGent",
+      "slug": "qualgent",
+      "website": "https://qualgent.ai",
+      "description": "QualGent is an AI-powered QA tester for mobile apps that mimics a real human, helping teams catch bugs and ship faster\u2014without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders\u2019 experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent\u2019s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck\u2014software verification\u2014unlocking truly scalable, end-to-end software development.",
+      "one_liner": "AI Quality Assurance agent for mobile software testing",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747257305.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e454cf353c971b2d54e61c997bd0585c07acf8c.png"
     },
     {
       "id": 30492,
@@ -3019,8 +3115,8 @@
       "id": 30329,
       "name": "Waffle",
       "slug": "waffle",
-      "website": "",
-      "description": "Build custom web applications in minutes. Chat to Waffle to built, edit, and publish web applications without writing a line of code. \r\n\r\nComing soon: build web apps with a real backend! That means databases, authentication, email services, file storage, and more.",
+      "website": "https://www.waffle.ai",
+      "description": "Build custom web apps in minutes. Use Waffle to built, edit, and publish web apps without writing a line of code. \r\n\r\nComing soon: build web apps with a real backend! That means databases, authentication, email services, file storage, and more.",
       "one_liner": "Vibe code web apps",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3045,7 +3141,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740162817.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/55ddda605d9220f980439bd048c8a5e8691cd276.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/559e784175573535ba47ddbd6bfd5176d9c2d49c.png"
     },
     {
       "id": 30191,
@@ -3209,5 +3305,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-14T18:01:25.494102"
+  "fetched_at": "2025-05-15T00:03:04.525873"
 }

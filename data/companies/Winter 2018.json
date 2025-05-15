@@ -2645,41 +2645,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46f9c21fd1ced46b7d072b793ac52b84cec57151.png"
     },
     {
-      "id": 1735,
-      "name": "Ovipost",
-      "slug": "ovipost",
-      "website": "https://ovipost.com",
-      "description": "Ovipost builds automated insect farms. Insects are the most efficient way to convert abundant, cheap byproducts into nutritionally dense protein. Today live insects are a $175m industry in the US, but the future of the industry is leveraging their\u00a0excellent amino acid profiles and superior digestibility\u00a0to replace fishmeal ($9.5B industry) and other expensive proteins in animal feeds. Led by co-founders Trina Chiasson (sold Infoactive to Tableau) and Teq Sassmannshaus (biotech hardware engineer), the Ovipost team has deep experience in hardware, software, and biology.\u00a0",
-      "one_liner": "Automated insect farming",
-      "batch": "Winter 2018",
-      "status": "Active",
-      "team_size": 20,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Agriculture",
-      "industries": [
-        "Industrials",
-        "Agriculture"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "LaBelle, FL, USA",
-      "tags": [
-        "Biotech",
-        "Climate",
-        "Food Tech",
-        "Agriculture",
-        "ClimateTech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1509562874.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e02035f8a52b75f92fad791bafe6e88fb705655d.png"
-    },
-    {
       "id": 1734,
       "name": "Jasper.ai",
       "slug": "jasper-ai",
@@ -4861,6 +4826,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/355036b1b5906a4e3cc60cbc5706cadbfea61065.png"
     },
     {
+      "id": 1735,
+      "name": "Ovipost",
+      "slug": "ovipost",
+      "website": "https://ovipost.com",
+      "description": "Ovipost builds automated insect farms. Insects are the most efficient way to convert abundant, cheap byproducts into nutritionally dense protein. Today live insects are a $175m industry in the US, but the future of the industry is leveraging their\u00a0excellent amino acid profiles and superior digestibility\u00a0to replace fishmeal ($9.5B industry) and other expensive proteins in animal feeds. Led by co-founders Trina Chiasson (sold Infoactive to Tableau) and Teq Sassmannshaus (biotech hardware engineer), the Ovipost team has deep experience in hardware, software, and biology.\u00a0",
+      "one_liner": "Automated insect farming",
+      "batch": "Winter 2018",
+      "status": "Inactive",
+      "team_size": 20,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Agriculture",
+      "industries": [
+        "Industrials",
+        "Agriculture"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "LaBelle, FL, USA",
+      "tags": [
+        "Biotech",
+        "Climate",
+        "Food Tech",
+        "Agriculture",
+        "ClimateTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1509562874.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e02035f8a52b75f92fad791bafe6e88fb705655d.png"
+    },
+    {
       "id": 1733,
       "name": "California Dreamin",
       "slug": "california-dreamin",
@@ -4928,5 +4928,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-05-14T18:01:23.413667"
+  "fetched_at": "2025-05-15T00:03:02.020848"
 }

@@ -1766,9 +1766,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Documents",
+        "Artificial Intelligence",
         "Generative AI",
-        "NLP",
-        "AI"
+        "NLP"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3911,36 +3911,38 @@
     },
     {
       "id": 29372,
-      "name": "PySpur.dev",
-      "slug": "pyspur-dev",
-      "website": "http://pyspur.dev",
-      "description": "AI engineers use PySpur to build, debug, and deploy AI agents.",
-      "one_liner": "Open Source AI Agents Builder",
+      "name": "Rehearsal.so",
+      "slug": "rehearsal-so",
+      "website": "https://rehearsal.so/",
+      "description": "",
+      "one_liner": "Voice AI Roleplays",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "Consumer",
+        "Gaming"
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
         "Artificial Intelligence",
         "Generative AI",
-        "Open Source"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1703955205.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b1369b828cc303a6a77f59f19df0f4b21c51c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/decfb37c0926a5b71b2548fc6985cb482cba2964.png"
     },
     {
       "id": 29370,
@@ -8298,5 +8300,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-14T18:01:20.802641"
+  "fetched_at": "2025-05-15T00:02:59.012661"
 }
