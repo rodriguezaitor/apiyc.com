@@ -4519,7 +4519,7 @@
       "one_liner": "Automate security and privacy reviews",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -4528,17 +4528,19 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Security",
-        "Privacy",
-        "AI"
+        "Privacy"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722269171.0,
@@ -8338,5 +8340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-15T12:01:31.741230"
+  "fetched_at": "2025-05-15T18:01:29.067848"
 }

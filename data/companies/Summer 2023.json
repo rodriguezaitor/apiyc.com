@@ -5619,36 +5619,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png"
     },
     {
-      "id": 28813,
-      "name": "Lifelike",
-      "slug": "lifelike",
-      "website": "https://lifelike.app/",
-      "description": "",
-      "one_liner": "",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Consumer",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "Consumer"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1686851756.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/612d97982fa7188f4b057359d71cb159d3758d7a.png"
-    },
-    {
       "id": 28812,
       "name": "Cedana",
       "slug": "cedana",
@@ -7293,6 +7263,36 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/332551f4aad00a2a5a48d255883119d06a884afc.png"
     },
     {
+      "id": 28813,
+      "name": "Lifelike",
+      "slug": "lifelike",
+      "website": "https://lifelike.app/",
+      "description": "",
+      "one_liner": "",
+      "batch": "Summer 2023",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1686851756.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/612d97982fa7188f4b057359d71cb159d3758d7a.png"
+    },
+    {
       "id": 28759,
       "name": "Branch AI",
       "slug": "branch-ai",
@@ -7328,5 +7328,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-15T12:01:32.783080"
+  "fetched_at": "2025-05-15T18:01:29.942151"
 }
