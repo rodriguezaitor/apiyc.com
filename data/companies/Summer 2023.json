@@ -5138,11 +5138,11 @@
     },
     {
       "id": 28836,
-      "name": "Tegon",
-      "slug": "tegon",
-      "website": "https://www.tegon.ai",
-      "description": "Tegon is an open-source issue tracking tool that simplifies issue tracking for engineering teams. It is designed to be simple to use and super functional, addressing the complexities and slow nature of current tools.\r\n\r\nExisting issue tracking tools like Jira often act as a blocker in engineers' productivity by adding more processes and manual tasks, and they do not help engineers in resolving the bug faster or get full context about a specific tasks. Tegon is using AI and integrations smartly to automate task creation and updation and help engineers in task prioritisation and better bug resolution",
-      "one_liner": "Open source issue tracking tool for engineering teams",
+      "name": "Sigma",
+      "slug": "sigma",
+      "website": "https://mysigma.ai/",
+      "description": "Sigma is an open-source AI personal assistant inside a todo app.\r\n\r\nSigma learns your style, organizes your day, and sweeps up the busywork\u2014auto-creating tasks, drafting replies, and running routine workflows\u2014so you can focus on what truly matters.",
+      "one_liner": "Your AI Personal Assistant now in a todo app",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -5158,17 +5158,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687596955.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db4b7de974fc8ca53cd196c11e5671d344f390d9.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e79b312104fdeeee2f5cf870c7a37a04fa388877.png"
     },
     {
       "id": 28835,
@@ -7329,5 +7329,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-16T06:01:25.236253"
+  "fetched_at": "2025-05-16T12:01:48.550739"
 }
