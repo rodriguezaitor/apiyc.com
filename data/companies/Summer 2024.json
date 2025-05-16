@@ -4080,8 +4080,8 @@
     },
     {
       "id": 29745,
-      "name": "Lumenary, Inc.",
-      "slug": "lumenary-inc",
+      "name": "Lumenary",
+      "slug": "lumenary",
       "website": "https://try.solar",
       "description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
       "one_liner": "Build working software exceedingly fast in Solar",
@@ -4100,9 +4100,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8340,5 +8340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-16T12:01:48.385069"
+  "fetched_at": "2025-05-16T18:01:19.006628"
 }
