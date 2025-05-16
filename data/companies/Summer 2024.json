@@ -6146,10 +6146,10 @@
     },
     {
       "id": 29665,
-      "name": "CloudGlue",
+      "name": "Cloudglue",
       "slug": "cloudglue",
       "website": "https://cloudglue.dev",
-      "description": "CloudGlue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
+      "description": "Cloudglue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
       "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
       "batch": "Summer 2024",
       "status": "Active",
@@ -6177,7 +6177,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723146818.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cbea025a1fb985cf8f25752f73092b699c52b2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png"
     },
     {
       "id": 29663,
@@ -7110,8 +7110,8 @@
       "name": "mdhub",
       "slug": "mdhub",
       "website": "https://www.mdhub.ai/",
-      "description": "mdhub is building AI assistants for mental health clinics to efficiently run their operations. \r\n\r\nInstead of seeing patients, mental health clinicians spend 50% of their time on other tasks, delaying access to mental health care. We aim to help mental health clinicians become 10x more efficient with mdhub by automating everything that occurs before, during, and after they see patients.\r\n",
-      "one_liner": "AI assistants for mental health clinics to efficiently run their ops",
+      "description": "We\u2019re building AI agents to power the next generation of healthcare clinics - starting with mental health.\r\n\r\nOne year ago, we launched our AI Clinical Assistant to help clinicians reclaim their time by automating clinical documentation, pre-charting, and treatment planning. It's now been used in over 1 million patient sessions.\r\n\r\nNow we\u2019ve launched Sarah, our AI Admissions Coordinator, to help patients access care faster by eliminating missed calls, delays, and administrative friction.\r\n\r\nSarah answers every call instantly, 24/7, no voicemails, no hold music. She qualifies new patients and books intakes, while also managing reschedules, cancellations, med refill requests, and appointment confirmations for existing patients.\r\n\r\nClinics using Sarah have seen up to a 30% increase in new patient bookings, while ensuring that 100% of existing patient inquiries are handled, without adding headcount.",
+      "one_liner": "AI agents for mental health clinics",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 6,
@@ -7128,11 +7128,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Digital Health",
         "Healthcare",
-        "Mental Health"
+        "Mental Health",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8340,5 +8340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-15T18:01:29.067848"
+  "fetched_at": "2025-05-16T00:03:04.503192"
 }

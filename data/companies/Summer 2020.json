@@ -3957,11 +3957,11 @@
       "name": "Datafold",
       "slug": "datafold",
       "website": "https://datafold.com",
-      "description": "Datafold exists to make working with data more enjoyable and productive.\r\n\r\nWe are all about empowering data and analytics engineers. We find the most tedious, error-prone, and repetitive tasks and create tools to automate them. We make the world better by giving superpowers to data professionals who solve hard problems in various domains with data.",
-      "one_liner": "Deal with analytical data quality in the pull request",
+      "description": "Datafold automates manual work in data engineering. \r\n\r\nWe leverage agentic AI to automate both day-to-day tasks, such as testing and code reviews, and massive one-off projects, such as data platform code migrations. Companies from Perplexity to Disney use Datafold to unlock more value from their data by freeing up their data teams from manual work, accelerating developer velocity, and ensuring data quality.",
+      "one_liner": "Automating manual and repetitive data engineering tasks with AI",
       "batch": "Summer 2020",
       "status": "Active",
-      "team_size": 24,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -3978,7 +3978,8 @@
       "tags": [
         "SaaS",
         "Analytics",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7130,5 +7131,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-05-15T18:01:30.248846"
+  "fetched_at": "2025-05-16T00:03:05.459568"
 }

@@ -3085,8 +3085,8 @@
       "name": "Oki",
       "slug": "oki",
       "website": "https://www.okiapplications.com/",
-      "description": "Oki uses AI to automate project tracking for engineering leaders. \r\n\r\nIt's like having a dedicated senior engineer who reads every single line of code, all of your team's slack messages, docs, issues, and tells you the truth about how your projects are tracking. \r\n\r\nIf you're a CTO, VP, or Director, you can walk into meetings knowing which efforts are behind and why, rather than asking for updates.\r\n\r\nWe're offering founder mode as a service. \r\n",
-      "one_liner": "AI to automate Engineering project tracking",
+      "description": "Oki is like an AI team member that reads your team's code, slack threads, tickets, docs, and keeps you up to date with new progress.",
+      "one_liner": "Track Company Progress With AI",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -3102,10 +3102,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5307,5 +5307,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-05-15T18:01:31.106454"
+  "fetched_at": "2025-05-16T00:03:06.147912"
 }
