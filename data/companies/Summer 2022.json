@@ -556,41 +556,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a973399e59c8f4e8a780a1b7de322e6fff79878.png"
     },
     {
-      "id": 27221,
-      "name": "CAPSULE",
-      "slug": "capsule",
-      "website": "https://www.shopcapsule.ai/",
-      "description": "CAPSULE is a mobile app that makes it easy to save and buy the things you find on any social media platform. Just snap a screenshot of anything you like, from any platform, and we search the entire internet to instantly give you shoppable links. \r\n\r\nInstead of searching hundreds of websites and sifting through thousands of products on your own, CAPSULE lets you find inspiration from anywhere and uses advanced machine learning to return results that feel like magic. ",
-      "one_liner": "Buy anything you find on social media",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Apparel and Cosmetics",
-      "industries": [
-        "Consumer",
-        "Apparel and Cosmetics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Machine Learning",
-        "Computer Vision",
-        "E-commerce"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1661989948.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19f195e9a25d1cff1f914f65ceb3e7458c6d52b9.png"
-    },
-    {
       "id": 27219,
       "name": "Shelf",
       "slug": "shelf",
@@ -7328,6 +7293,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2939eceea0905b3a2c3c34f9f16476bbc6c94309.png"
     },
     {
+      "id": 27221,
+      "name": "CAPSULE",
+      "slug": "capsule",
+      "website": "https://www.shopcapsule.ai/",
+      "description": "CAPSULE is a mobile app that makes it easy to save and buy the things you find on any social media platform. Just snap a screenshot of anything you like, from any platform, and we search the entire internet to instantly give you shoppable links. \r\n\r\nInstead of searching hundreds of websites and sifting through thousands of products on your own, CAPSULE lets you find inspiration from anywhere and uses advanced machine learning to return results that feel like magic. ",
+      "one_liner": "Buy anything you find on social media",
+      "batch": "Summer 2022",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Apparel and Cosmetics",
+      "industries": [
+        "Consumer",
+        "Apparel and Cosmetics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Machine Learning",
+        "Computer Vision",
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1661989948.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19f195e9a25d1cff1f914f65ceb3e7458c6d52b9.png"
+    },
+    {
       "id": 27155,
       "name": "Sonnet",
       "slug": "sonnet",
@@ -8124,5 +8124,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-05-16T18:01:19.339620"
+  "fetched_at": "2025-05-17T00:02:52.806392"
 }

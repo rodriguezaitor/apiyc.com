@@ -124,9 +124,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-powered Drug Discovery",
+        "Artificial Intelligence",
         "Manufacturing",
         "Aerospace",
-        "AI",
         "ML"
       ],
       "stage": "Early",
@@ -135,6 +135,39 @@
       "is_top_company": false,
       "launched_at": 1747413596.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/389a13b4de0735b7f19c637530cdb84021717ac0.png"
+    },
+    {
+      "id": 30558,
+      "name": "BitPatrol",
+      "slug": "bitpatrol",
+      "website": "https://www.bitpatrol.io/",
+      "description": "Leverage cutting-edge AI to detect exposed credentials in real time and protect your organization from high-impact data breaches.",
+      "one_liner": "Secret detection that actually works",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "DevSecOps",
+        "Machine Learning",
+        "Cybersecurity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747422859.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a49803acbbc34d447ce47d0129bde3f02dd6b0ec.png"
     },
     {
       "id": 30557,
@@ -276,8 +309,8 @@
       "name": "Airweave",
       "slug": "airweave",
       "website": "https://airweave.ai",
-      "description": "Airweave is an open-source tool that lets agents search any application or database. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
-      "one_liner": "Open-Source Tool That Lets Agents Search Any App or Database",
+      "description": "Airweave is an open-source tool that lets agents search any application. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
+      "one_liner": "Open-Source Tool That Lets Agents Search Any App",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -293,11 +326,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Open Source",
         "Search",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -913,6 +946,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6139ccbb34b49d774e2708fc51e7b70f16db36d5.png"
     },
     {
+      "id": 30522,
+      "name": "Relixir",
+      "slug": "relixir",
+      "website": "https://relixir.ai",
+      "description": "Relixir drops magic AI elixir to help brands rank higher and sell more on ChatGPT, Perplexity, etc. \r\n\r\nSEO is dead and 50% of decision makers now use AI search instead to find solutions so it's crucial to now optimize for these generative engines \u2014 enter Generative Engine Optimization (GEO).\r\n\r\nRelixir helps teams automate end-to-end GEO by granting instant AI search engine visibility on their product, identifying search result blindspots for competitor/gaps, and then generating high quality content from original customer/team insights.\r\n\r\nWe're moving fast, signed 15+ pilots and 5+ paid customers seeing results in production. Join us and start using Relixir! \r\n\r\nThe founders Sean and Dennis built an early version of a GEO system that amassed 300k+ views, 5k+ clicks/mo, and 10 inbound calls/wk at their prev. company.\r\n",
+      "one_liner": "The AI Generative Engine Optimization (GEO) Platform",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Marketing",
+        "Advertising",
+        "SEO"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747424808.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcf73573dccf318ed1596f35ee2d75c694aefda.png"
+    },
+    {
       "id": 30519,
       "name": "Hemut",
       "slug": "hemut",
@@ -1185,7 +1251,7 @@
       "name": "Klavis AI",
       "slug": "klavis-ai",
       "website": "https://www.klavis.ai/",
-      "description": "Integrate enterprise-grade MCP servers with your AI application in a minute, and scale to millions of users using our open-source, hosted MCP servers with multi-tenancy auth, and skip MCP client-side development hassle.",
+      "description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code.",
       "one_liner": "Open source MCP Integrations for AI Applications",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1778,6 +1844,40 @@
       "is_top_company": false,
       "launched_at": 1747086610.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2328f04b2a69a293a3f3a79d7e648159242574.png"
+    },
+    {
+      "id": 30464,
+      "name": "Sixtyfour",
+      "slug": "sixtyfour",
+      "website": "https://www.sixtyfour.ai/",
+      "description": "Our platform enables hypergrowth companies to deploy custom research agents that map their Total Addressable Market (TAM) and uncover real-time market signals \u2014 all fully tailored to what matters most to their team. Customers like Mercor, Hockeystack, and Conduit rely on us to stay ahead.",
+      "one_liner": "Bloomberg for Sales",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Sales",
+        "Sales Enablement",
+        "Operations"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747432267.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/43512eb103f491a3508141bcf2703f7058067be1.png"
     },
     {
       "id": 30462,
@@ -2441,8 +2541,8 @@
       "name": "Almond",
       "slug": "almond-2",
       "website": "https://almondbot.com/",
-      "description": "Almond is building a vision-first robot for manufacturing automation & inspection.\r\n\r\nAlmond Bot ships with the cameras, compute and API\u2019s needed to automate product inspections and vision-based tasks like bin-picking.",
-      "one_liner": "Vision-first robots for manufacturing inspection & automation",
+      "description": "Almond is building a vision-first AI robot for high-mix pick & place automation for manufacturers & warehouses. We provide customers a fully-integrated robot-as-a-service.",
+      "one_liner": "AI robots for high-mix pick & place automation",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3373,5 +3473,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-16T18:01:23.244053"
+  "fetched_at": "2025-05-17T00:02:55.769727"
 }
