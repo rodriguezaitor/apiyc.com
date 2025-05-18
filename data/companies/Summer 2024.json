@@ -3798,7 +3798,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721770612.0,
@@ -4201,6 +4201,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
         "B2B",
@@ -4515,7 +4516,7 @@
       "name": "Clearly AI",
       "slug": "clearly-ai",
       "website": "https://clearly-ai.com",
-      "description": "Clearly AI automates security and privacy reviews with AI. We performed hundreds of reviews at Amazon and Moveworks and now we're building the product we wish we had. We launched in August 2024 and secured two paid pilots within a week, including a major electric automaker. Our users complete reviews in minutes instead of days.\r\n\r\nEmily and Joe are technical co-founders and senior engineers. We met in 2019 while working on an Alexa security review.",
+      "description": "Clearly AI automates security and privacy reviews with AI. We performed hundreds of reviews at Amazon and Moveworks and now we're building the product we wish we had. Our users complete reviews in minutes instead of days.\r\n\r\nEmily and Joe are technical co-founders and senior engineers. We met in 2019 while working on an Alexa security review.",
       "one_liner": "Automate security and privacy reviews",
       "batch": "Summer 2024",
       "status": "Active",
@@ -4534,10 +4535,10 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Security",
-        "Privacy"
+        "Privacy",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8340,5 +8341,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-17T18:01:06.098574"
+  "fetched_at": "2025-05-18T00:03:26.824597"
 }
