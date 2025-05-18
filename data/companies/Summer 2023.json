@@ -3553,11 +3553,11 @@
       "name": "Greenlite",
       "slug": "greenlite",
       "website": "https://www.greenlite.ai/",
-      "description": "Greenlite builds AI workers for bank and fintech compliance teams. Innovative teams use our AI workers instead of outsourced teams to onboard customers faster with higher compliance standards.\r\n\r\n",
-      "one_liner": "AI agents for financial compliance operations",
+      "description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs \u2014 including those overseen by the OCC, FDIC, and SEC \u2014 trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+      "one_liner": "AI agents for financial compliance",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 14,
+      "team_size": 24,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -3569,11 +3569,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Compliance"
+        "Compliance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5624,8 +5624,8 @@
       "name": "Cedana",
       "slug": "cedana",
       "website": "https://cedana.ai",
-      "description": "Cedana (YC S23) enables real-time save, move and restore for compute workloads.\u00a0 We expand GPU capacity, increase reliability, reduce latency up to 10x and increase CPU/GPU utilization up to 5x resulting in significant cost savings.\u00a0OpenAI, Meta and Microsoft have flavors of these capabilities internally and we\u2019re bringing them to everyone.\u00a0\r\n\r\nOur solution applies to AI training and inference, HPC, data analysis, dev tools and infra.\u00a0 Our vision is to transform cloud compute into a real-time, arbitraged commodity.\u00a0\r\n\r\nWe are a fully distributed remote company.  \r\n\r\nhttps://www.cedana.ai",
-      "one_liner": "Save, migrate and resume compute jobs in real-time",
+      "description": "Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference.  \u00a0 \r\n\r\nOpenAI, Meta and Microsoft have flavors of these capabilities internally and we\u2019re bringing them to everyone.\u00a0\r\n\r\nOur vision is to transform cloud compute into a real-time, arbitraged commodity.\u00a0\r\n\r\nhttps://www.cedana.ai",
+      "one_liner": "Fast, reliable, reproducible AI with GPU live migration",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 5,
@@ -5654,7 +5654,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689189501.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b7a7a8af1b3c02f16a5584ed3d7012fa86e5530.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/16f24156219bac0f48e878f7b176d11721bc6958.png"
     },
     {
       "id": 28811,
@@ -7329,5 +7329,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-18T00:03:27.782344"
+  "fetched_at": "2025-05-18T06:01:05.687519"
 }

@@ -561,10 +561,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "No-code",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1117,7 +1117,7 @@
       "name": "Eloquent AI",
       "slug": "eloquent-ai",
       "website": "https://www.eloquentai.co/",
-      "description": "Eloquent AI is the first AI Operator built specifically for financial services to automate complex, regulated customer service operations beyond frontline support. \r\n\r\nOur AI Operator learns to securely navigate your existing systems simply by observing your standard operating procedures\u2014automating up to 96% of tasks without any engineering effort.",
+      "description": "We automate complex, regulated operations in financial services\u2014no APIs, no engineering required.\r\nWe hit $500K ARR in just four weeks because customers deploy instantly.\r\nOur AI Operator learns by observing existing workflows and SOPs, securely controlling browser and desktop applications to automate up to 96% of tasks.\r\n",
       "one_liner": "The AI Operator for Financial Services",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1137,7 +1137,6 @@
       "tags": [
         "Artificial Intelligence",
         "Fintech",
-        "SaaS",
         "B2B",
         "Enterprise"
       ],
@@ -2848,7 +2847,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3473,5 +3472,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-18T00:03:30.919583"
+  "fetched_at": "2025-05-18T06:01:08.928999"
 }
