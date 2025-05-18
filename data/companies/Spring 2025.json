@@ -2504,6 +2504,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/39b20c4ccd69fa61ce8dea7f922cf3381efd5f08.png"
     },
     {
+      "id": 30433,
+      "name": "The Robot Learning Company",
+      "slug": "the-robot-learning-company",
+      "website": "https://www.robot-learning.co/",
+      "description": "The Robot Learning Company empowers engineers to build their own intelligent robot applications, no matter their skillset or experience.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
+      "one_liner": "API to the Physical World",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Robotics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747554289.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe9d24b61e68d5f71ffc72977fe38d21eece7328.png"
+    },
+    {
       "id": 30431,
       "name": "Chonkie",
       "slug": "chonkie",
@@ -3472,5 +3504,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-18T06:01:08.928999"
+  "fetched_at": "2025-05-18T12:01:35.536291"
 }
