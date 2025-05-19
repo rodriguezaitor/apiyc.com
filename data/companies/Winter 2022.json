@@ -1741,40 +1741,38 @@
     },
     {
       "id": 26034,
-      "name": "Verdn",
-      "slug": "verdn",
-      "website": "https://verdn.com",
-      "description": "Verdn is a climate-impact API for companies and their end-customers. \r\n\r\nWith Verdn, companies direct a portion of sales towards ecosystem restoration projects (like tree planting, ocean-plastic cleanup, and coral planting), carried out by vetted NGO partners. After each sale, we send the end-customer a tracking dashboard where they can engage with updates about their positive impact.\r\n\r\nOur mission is to Ctrl+Z global ecosystem collapse by making sustainability profitable. We have planted 1,500,000 trees, recovered 400,000 kg of ocean-bound plastic and 150 m2 of coral reef, and have over 100+ paying customers that are seeing a 10x boost in engagement.",
-      "one_liner": "An API to bundle trackable climate donations with any transaction.",
+      "name": "Kenobi",
+      "slug": "kenobi",
+      "website": "https://kenobi.ai",
+      "description": "Kenobi saves you tons of time when creating custom demos and branded mockups for your sales prospects or customers. Using Kenobi's AI, you can create infinite product mockup permutations across your use-cases, automatically.\r\n\r\nJust provide Kenobi with a screenshot + context, and a list of brands you'd like to personalize against, and it'll do the rest. You can import / export into popular sales tooling so that it fits seamlessly into your outbound stack.",
+      "one_liner": "Create product mockups tailored to any of your prospects automatically",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 6,
-      "industry": "Industrials",
+      "team_size": 4,
+      "industry": "B2B",
       "subindustry": "Industrials -> Climate",
       "industries": [
-        "Industrials",
-        "Climate"
+        "B2B",
+        "Sales"
       ],
       "regions": [
         "United Kingdom",
-        "Europe",
-        "Remote",
-        "Partly Remote"
+        "Europe"
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
         "SaaS",
         "B2B",
-        "Climate",
-        "API",
-        "ClimateTech"
+        "Sales",
+        "Sales Enablement",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1639755149.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a3be5733c09516e4f05737ae69b07e62d4ff577.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbbe7d310cd77df2dd48baa91d5401dc2339e9d2.png"
     },
     {
       "id": 26033,
@@ -13821,5 +13819,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-05-19T06:01:27.967900"
+  "fetched_at": "2025-05-19T12:01:40.875067"
 }
