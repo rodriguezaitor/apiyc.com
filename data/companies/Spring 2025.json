@@ -2470,6 +2470,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png"
     },
     {
+      "id": 30435,
+      "name": "Zenobia Pay",
+      "slug": "zenobia-pay",
+      "website": "https://zenobiapay.com",
+      "description": "Zenobia Pay makes payments software for luxury retailers to accept pay-by-bank to avoid fraud, chargebacks, and credit card fees. We're on a mission to make it 3x cheaper to transact online, handling payments for a 1% fee.\r\n\r\nZenobia Pay integrates to your store through our ecommerce plugins (Shopify, BigCommerce, Woocomerce, etc), or through our open-source Javascript packages.\r\n\r\nIt's pay-by-bank with instant clearance, with a bundled fraud chargeback guarantee, for 1%. No need to handle sensitive account details, either. Your customers log into their bank and store access tokens on their own hardware in the secure enclave. ",
+      "one_liner": "Bank transfers as payments for luxury retailers.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Fintech",
+        "Payments"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747591533.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab4320fe6f29ff596358215bcc176ee03d1d30c.png"
+    },
+    {
       "id": 30434,
       "name": "Zeon Systems",
       "slug": "zeon-systems",
@@ -2792,7 +2824,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747120968.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3c6cafb86cd1b744b5cf0950a869ffb7be926eb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b24d3137bf7c62299e8f3d9d810e612a82db0b1.png"
     },
     {
       "id": 30421,
@@ -2813,13 +2845,9 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Generative AI",
-        "SaaS",
-        "Healthcare"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744430433.0,
@@ -3144,7 +3172,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745390836.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8eb872358e4035f2e3c54d4bb9493d9a800616c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9296288021b96e5587390cd4f9f96cf4125f4e92.png"
     },
     {
       "id": 30403,
@@ -3218,7 +3246,7 @@
       "slug": "frekil",
       "website": "https://www.frekil.com",
       "description": "AI is transforming healthcare, but the biggest bottleneck remains\u2014procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
-      "one_liner": "Data Engine for Medical AI",
+      "one_liner": "Scale AI for Medical Scans",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3233,11 +3261,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Data Labeling"
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3504,5 +3532,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-18T18:01:14.515394"
+  "fetched_at": "2025-05-19T00:03:25.092028"
 }
