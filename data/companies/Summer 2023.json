@@ -2240,8 +2240,8 @@
       "name": "Roundtable",
       "slug": "roundtable",
       "website": "https://roundtable.ai",
-      "description": "Roundtable uses behavioral signals to detect bots and fraudulent actors, helping platforms safeguard trust while automating fraud prevention workflows",
-      "one_liner": "Behavioral cybersecurity.",
+      "description": "Roundtable uses behavioral signals to detect bots and fraudulent actors helping platforms safeguard trust",
+      "one_liner": "Invisible bot detection and fraud prevention",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -2256,11 +2256,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Security",
         "API",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3460,7 +3460,7 @@
       "one_liner": "Extend your identity stack to every application.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -6217,7 +6217,7 @@
       "one_liner": "Metadata for GenAI workflows",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -6229,9 +6229,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Data Labeling",
         "Big Data",
+        "AI",
         "AI Assistant",
         "Databases"
       ],
@@ -7335,5 +7335,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-19T12:01:43.508976"
+  "fetched_at": "2025-05-19T18:01:31.884525"
 }

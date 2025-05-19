@@ -622,9 +622,9 @@
     },
     {
       "id": 28303,
-      "name": "Meru",
-      "slug": "meru",
-      "website": "https://usemeru.com",
+      "name": "PromptBidder",
+      "slug": "promptbidder",
+      "website": "https://promptbidder",
       "description": "Nurses can spend 40% of their shift doing documentation. We double a nurse's productivity, and reduce documentation burden with a voice  flowsheet interface.\r\n",
       "one_liner": "Voice to Flowsheet for Nurses. ",
       "batch": "Winter 2023",
@@ -6164,7 +6164,7 @@
         "Logistics"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1678820348.0,
@@ -9357,5 +9357,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-19T12:01:41.958774"
+  "fetched_at": "2025-05-19T18:01:30.116938"
 }

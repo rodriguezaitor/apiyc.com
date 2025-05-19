@@ -1570,7 +1570,7 @@
         "Payments"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1543948489.0,
@@ -3126,8 +3126,8 @@
       "name": "Community Phone Company",
       "slug": "community-phone-company",
       "website": "https://www.communityphone.org/",
-      "description": "Community Phone Company YC W19 built a simple cloud phone system that runs inside of landlines\r\n\r\nOur solution lets a business or family get all modern voice features (re-route if busy, greeting menu and IVR, programmable caller ID, cloud voicemail, etc) on their existing desk phone and existing cell phones. All employees onboard instantly, no wifi required, no app to download. ",
-      "one_liner": "Modern landline and voice services",
+      "description": "Community Phone is building the best phone for communities in America. We are your hair salon\u2019s business phone, how your auto-body shop texts you or gets appointments, your local government agency\u2019s operations line, and your mom\u2019s phone that she sometimes answers on her computer. We have more than 20,000 customers today, and are building the Square of phones.\r\n\r\nOur team is ~80 people strong, across 15 countries. We are growing quickly, backed by Y Combinator Accelerator and Y Combinator\u2019s Continuity Fund. We are customer-obsessed to the core. When we had a major network outage, everyone from recruiters to engineers to marketers to customer support agents got on the phone with our customers. Our team exemplifies our purpose. Join us on our mission to make it as easy as possible for people and people at organizations in our communities to communicate.",
+      "one_liner": "The best phone for communities in America",
       "batch": "Winter 2019",
       "status": "Active",
       "team_size": 70,
@@ -3143,8 +3143,12 @@
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Boston, MA, USA; Remote",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Customer Support",
         "Telecommunications"
       ],
       "stage": "Early",
@@ -6554,5 +6558,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-05-19T12:01:44.076951"
+  "fetched_at": "2025-05-19T18:01:32.513273"
 }

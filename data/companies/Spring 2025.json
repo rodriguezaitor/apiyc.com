@@ -2373,6 +2373,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bc9cf5c0f4cd5c6141c30f400757b42039051c6.png"
     },
     {
+      "id": 30445,
+      "name": "Mbodi AI",
+      "slug": "mbodi-ai",
+      "website": "https://www.mbodi.ai/",
+      "description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI, agent orchestration, and symbolic reasoning, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+      "one_liner": "Embodied AI Platform for Industrial Robotics",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Robotics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747670628.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff64e6d141801dbac20dba751384bbd49f916a4a.png"
+    },
+    {
       "id": 30444,
       "name": "Percival",
       "slug": "percival",
@@ -3212,7 +3244,7 @@
       "name": "Vybe",
       "slug": "vybe",
       "website": "https://www.vybe.build",
-      "description": "Vybe turns a simple chat prompt into a production-ready internal app. You connect your systems\u2014Workday, Jira, Github, Salesforce, Snowflake, Slack\u2014and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders\u2014capturing how they run one-on-ones, all-hands, onboarding, and more\u2014then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
+      "description": "We're 2 repeat YC founders building Vybe. We built Plato (W16, sold to Coda) and Wolfia (S22). Quang lead Product/GTM for Coda Solutions and Fabien is ex SWE at Meta and lead half of Engineering at Wealthfront before.\r\n\r\nVybe turns a simple chat prompt into a production-ready internal app. You connect your systems\u2014Workday, Jira, Github, Salesforce, Snowflake, Slack\u2014and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders\u2014capturing how they run one-on-ones, all-hands, onboarding, and more\u2014then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
       "one_liner": "Lovable for internal apps",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3229,9 +3261,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3598,5 +3630,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-19T12:01:46.611654"
+  "fetched_at": "2025-05-19T18:01:35.337819"
 }
