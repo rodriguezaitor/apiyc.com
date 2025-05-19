@@ -305,6 +305,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff435e9a8349d20737a53d77d98e6b9ef40d649.png"
     },
     {
+      "id": 30552,
+      "name": "sieve",
+      "slug": "usesieve",
+      "website": "https://usesieve.com/",
+      "description": "sieve solves data cleaning for hedge funds and investment firms by delivering clean, reliable data wherever they already work - via APIs for devs and Excel for analysts. Currently, many firms rely on manual review steps where engineers literally receive emails containing data they need to review. sieve replaces that with an API that integrates directly into their existing data pipelines. Instead of raising for human review, they can send all the same information to our API and get clean, trustworthy data back. On top of our API, we offer an Excel integration that lets analysts pull data from any source (filings, pdfs, images - even ones in other languages!) into their models with with just a URL.\r\n\r\nAnalysts and data scientists complain that AI alone falls short of their accuracy requirements. They end up needing to check AI outputs against source documents to confirm accuracy. We  solve this last mile problem by integrating expert reviewers to catch and correct the issues that AI alone doesn't get right.",
+      "one_liner": "AI + human review to solve data cleaning - accessible via API or Excel",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Fintech -> Asset Management",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Investing",
+        "Data Engineering",
+        "APIs"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747624073.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/459d63741f9af0815baebb98ab6c243158d589c2.png"
+    },
+    {
       "id": 30549,
       "name": "Airweave",
       "slug": "airweave",
@@ -1778,6 +1811,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a1186ade1980432028fbe0af8cf6b4d804a4cb.png"
     },
     {
+      "id": 30471,
+      "name": "Kaizen",
+      "slug": "kaizen",
+      "website": "https://kaizenautomation.com",
+      "description": "Kaizen leverages browser agents to enable instant integration into websites without APIs. Leading AI companies use Kaizen to read and write data from legacy portals in logistics, healthcare, and financial services.\r\n",
+      "one_liner": "Integrate instantly with any website.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Robotic Process Automation",
+        "Workflow Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747626364.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd99ad854b298a67a6cc60e2c885598683069a6e.png"
+    },
+    {
       "id": 30467,
       "name": "Opusense AI",
       "slug": "opusense-ai",
@@ -3163,9 +3229,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3532,5 +3598,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-19T00:03:25.092028"
+  "fetched_at": "2025-05-19T06:01:33.769993"
 }
