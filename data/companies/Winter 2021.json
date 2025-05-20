@@ -6595,7 +6595,7 @@
         "Healthcare"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1611436998.0,
@@ -7957,42 +7957,6 @@
       "is_top_company": false,
       "launched_at": 1612858745.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/800c3d46de6422db7c2f3bd538f4a4c7638425b3.png"
-    },
-    {
-      "id": 22661,
-      "name": "Quadrant Eye",
-      "slug": "quadrant-eye",
-      "website": "https://quadranteye.com",
-      "description": "Quadrant Eye is on a mission to improve eyecare access and fight preventable blindness. We're building the next generation eye exam... inside the average American home. \r\n\r\nOur team wants to enable patients' best and most visually rich lives. To this end, we're looking for curious and nimble minds to help us develop the world's first fully online eye exam and ultimately deliver high-quality eyecare at scale.\r\n\r\nSome QE highlights:\r\n\r\n\ud83d\udc1d We're a team of surgeons, scientists, venture partners, and hackers who mean business.\r\n\ud83d\udcb8 Our backers include Y Combinator, Khosla Ventures, and the creator of Google Image Search.\r\n\ud83c\udf65 We're a mission-driven company tackling an eye health market worth $USD137B.\r\n\ud83c\udf1f Our core focus is currently the development of patentable deep tech, and our overall vision is to change eyecare for good. \r\n",
-      "one_liner": "Breaking new ground in online eyecare. ",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Medical Devices",
-      "industries": [
-        "Healthcare",
-        "Medical Devices"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Deep Learning",
-        "Digital Health",
-        "Telemedicine"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614620673.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f289b64a1313edc9a63d4a24460c74fe83cb97d.png"
     },
     {
       "id": 22660,
@@ -11404,6 +11368,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/511a67e1066575bd8304628248a6a9307430e18f.png"
     },
     {
+      "id": 22661,
+      "name": "Quadrant Eye",
+      "slug": "quadrant-eye",
+      "website": "https://quadranteye.com",
+      "description": "Quadrant Eye is on a mission to improve eyecare access and fight preventable blindness. We're building the next generation eye exam... inside the average American home. \r\n\r\nOur team wants to enable patients' best and most visually rich lives. To this end, we're looking for curious and nimble minds to help us develop the world's first fully online eye exam and ultimately deliver high-quality eyecare at scale.\r\n\r\nSome QE highlights:\r\n\r\n\ud83d\udc1d We're a team of surgeons, scientists, venture partners, and hackers who mean business.\r\n\ud83d\udcb8 Our backers include Y Combinator, Khosla Ventures, and the creator of Google Image Search.\r\n\ud83c\udf65 We're a mission-driven company tackling an eye health market worth $USD137B.\r\n\ud83c\udf1f Our core focus is currently the development of patentable deep tech, and our overall vision is to change eyecare for good. \r\n",
+      "one_liner": "Breaking new ground in online eyecare. ",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Medical Devices",
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Digital Health",
+        "Telemedicine"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614620673.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f289b64a1313edc9a63d4a24460c74fe83cb97d.png"
+    },
+    {
       "id": 22652,
       "name": "Playmaker",
       "slug": "playmaker",
@@ -11541,5 +11541,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-05-19T18:01:29.710620"
+  "fetched_at": "2025-05-20T00:02:53.850169"
 }

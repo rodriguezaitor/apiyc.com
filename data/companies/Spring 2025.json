@@ -373,6 +373,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png"
     },
     {
+      "id": 30548,
+      "name": "Theorem",
+      "slug": "theorem-2",
+      "website": "https://theoremlabs.com/",
+      "description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
+      "one_liner": "Program verification for mission critical code",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Cybersecurity",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747681841.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png"
+    },
+    {
       "id": 30547,
       "name": "text.ai",
       "slug": "text-ai",
@@ -1745,6 +1778,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21989f713e50ef7cfbe220d4cfc1a1fbcff900f.png"
     },
     {
+      "id": 30477,
+      "name": "Casco",
+      "slug": "casco",
+      "website": "https://casco.com",
+      "description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com",
+      "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Security",
+        "Cybersecurity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747691019.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad91c0390b62c24c8473857d3ed3043cad61263.png"
+    },
+    {
       "id": 30475,
       "name": "Morphik",
       "slug": "morphik",
@@ -2228,9 +2295,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Productivity",
-        "Team Collaboration"
+        "Team Collaboration",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2344,8 +2411,8 @@
       "name": "Kirana AI",
       "slug": "kirana-ai",
       "website": "https://www.kirana-ai.com",
-      "description": "We are building an AI store manager that prevents theft, monitors for workplace health and safety, and optimizes customer service for grocery stores. Our goal is to build a full-stack AI employee with access to store cameras, POS data, and ordering data, in order to significantly improve gross margins.",
-      "one_liner": "AI store manager for grocery stores.",
+      "description": "Kirana AI is building the first full-stack AI store manager for independent grocers.\r\n\r\nOur first product utilizes an on-premise GPU that monitors the store 24/7, scans for theft, looks for workplace health and safety issues, and optimizes customer service. \r\n\r\nWith future POS/ordering data integrations, our manager will automate many of the day-to-day tasks of running a store, such as ordering, pricing, assortment, and delegating.\r\n\r\nOur CEO's family has owned and operated grocery stores for over 100 years, giving us unique insights into the independent grocery industry.",
+      "one_liner": "AI manager for grocery stores",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2361,9 +2428,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Grocery",
-        "Computer Vision",
-        "AI"
+        "Computer Vision"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3261,16 +3328,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745390836.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9296288021b96e5587390cd4f9f96cf4125f4e92.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d22e87740ae35ca66679b827a51e0404d1e57e27.png"
     },
     {
       "id": 30403,
@@ -3630,5 +3697,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-19T18:01:35.337819"
+  "fetched_at": "2025-05-20T00:02:58.498150"
 }

@@ -622,14 +622,14 @@
     },
     {
       "id": 28303,
-      "name": "PromptBidder",
-      "slug": "promptbidder",
-      "website": "https://promptbidder",
-      "description": "Nurses can spend 40% of their shift doing documentation. We double a nurse's productivity, and reduce documentation burden with a voice  flowsheet interface.\r\n",
-      "one_liner": "Voice to Flowsheet for Nurses. ",
+      "name": "Prompt",
+      "slug": "prompt-2",
+      "website": "https://promptbidder.com",
+      "description": "Prompt partners with over ten thousand publishers to find you ad space on websites considered highly authoritative by ChatGPT.\r\n\r\nYour products get shown to millions of high-intent consumers, who are already in the middle of the buying process.",
+      "one_liner": "Advertise on Prompts.",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -647,7 +647,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1674851057.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/00edfb93127d4366b2f890aa7fb0274a122e45c2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/efb8f8677bee05394c4256f97572e629382ea106.png"
     },
     {
       "id": 28301,
@@ -8017,7 +8017,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1678089361.0,
@@ -9357,5 +9357,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-19T18:01:30.116938"
+  "fetched_at": "2025-05-20T00:02:54.173657"
 }

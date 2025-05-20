@@ -512,8 +512,8 @@
       "name": "Forerunner AI",
       "slug": "forerunner-ai",
       "website": "https://tryforerunner.com",
-      "description": "Forerunner is your aerospace, defense, and hardware engineering copilot, helping you beat tight deadlines by automating critical engineering workflows. ",
-      "one_liner": "Copilot for aerospace engineers making rockets, munitions, satellites",
+      "description": "Forerunner is an AI-powered platform for aircraft maintenance, repair, and overhaul.",
+      "one_liner": "AI that gets aircraft flying faster",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -529,9 +529,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Manufacturing",
-        "Aerospace",
-        "AI"
+        "Artificial Intelligence",
+        "Airlines",
+        "Aerospace"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -879,11 +879,11 @@
       "name": "Gander",
       "slug": "gander",
       "website": "https://usegander.com",
-      "description": "Gander builds products for aviation businesses looking to streamline their operations",
+      "description": "Gander is building AI-powered technology that allows private jet operators to coordinate, maintain, and monetize their fleets all in one place.",
       "one_liner": "Automation System for Global Aviation",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -892,16 +892,18 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Customer Support",
-        "AI"
+        "Aerospace"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731944906.0,
@@ -1863,7 +1865,7 @@
       "name": "RiskCube",
       "slug": "riskcube",
       "website": "https://riskcube.com",
-      "description": "RiskCube Insurance is building a modern, AI-powered commercial P&C brokerage \u2014 designed to help businesses access smarter, faster, and more transparent coverage.\r\nWe\u2019re currently in the licensing process in California and will be live soon.\r\n",
+      "description": "RiskCube Insurance is building a modern, AI-powered commercial P&C brokerage \u2014 designed to help businesses access smarter, faster, and more transparent coverage.\r\nWe\u2019re currently in the licensing process in California and will be live soon. We will start with commercial property insurance. \r\n",
       "one_liner": "AI insurance brokerage",
       "batch": "Fall 2024",
       "status": "Active",
@@ -3105,5 +3107,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-05-19T18:01:36.176690"
+  "fetched_at": "2025-05-20T00:02:59.479776"
 }
