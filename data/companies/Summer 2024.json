@@ -6535,11 +6535,11 @@
       "name": "Sorcerer",
       "slug": "sorcerer",
       "website": "https://sorcerer.earth",
-      "description": "Sorcerer builds weather balloons that collect 1000x more data than traditional systems. We have $5.5+ of signed LOIs with the US National Weather Service, the Department of Defense, and the government of El Salvador.",
-      "one_liner": "We build weather balloons that collect 1000x more data",
+      "description": "Sorcerer is deploying a global network of persistent airborne sensors to fuel weather forecasting. Our high-altitude balloons collect 1000x more data than existing systems and are already used daily by meteorologists to track extreme weather across the US and Central America.",
+      "one_liner": "Building a nervous system for the atmosphere",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "Industrials",
       "subindustry": "Industrials -> Climate",
       "industries": [
@@ -6559,7 +6559,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720630564.0,
@@ -8341,5 +8341,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
     }
   ],
-  "fetched_at": "2025-05-20T18:01:29.273720"
+  "fetched_at": "2025-05-21T00:03:05.817695"
 }

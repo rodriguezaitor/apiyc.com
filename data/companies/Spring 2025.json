@@ -977,6 +977,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png"
     },
     {
+      "id": 30524,
+      "name": "Lapel",
+      "slug": "lapel",
+      "website": "https://lapel.com/",
+      "description": "Lapel is a customer operations platform that brings hospitality to the internet: one real-time view of every account and tools for every customer touchpoint.\r\n\r\nToday, most customer relationships are managed through dashboards, funnels, and canned replies\u2014great for metrics, terrible for humans.\r\n\r\nCustomers don\u2019t draw lines between sales, success, and support, and your software shouldn\u2019t either.\r\n\r\nLearn more at lapel.com",
+      "one_liner": "Customer operations platform for internet businesses.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Customer Success",
+        "Sales",
+        "Customer Support",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747773891.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51923708ddf66171a6468453b53717108db55a3.png"
+    },
+    {
       "id": 30523,
       "name": "Mesmer",
       "slug": "mesmer",
@@ -1911,6 +1944,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd99ad854b298a67a6cc60e2c885598683069a6e.png"
     },
     {
+      "id": 30469,
+      "name": "HABIT",
+      "slug": "habit",
+      "website": "https://habitrobotics.com",
+      "description": "HABIT is deploying robotic services to your neighborhood. \r\n\r\nNo need to buy a $30,000 humanoid for $300/week worth of labor. No maintenance, fleet management, or wasted time customizing robots for your use case. Our global locations will support your stores, hotels, homes, and cars with on-demand robotic services that are cheaper, better, and equipped for the job.\r\n\r\nHABIT is establishing our physical presence with the first-ever robotic car detail: orangedetail.\r\n\r\nA hand wash or detail is still the only way to clean your car without paint damage. That\u2019s why Americans will spend $4.2B on details in 2025. orangedetail combines the speed and convenience of a tunnel wash with the high-margin pricing ($50-$3,000+) and meticulous care of a professional auto detailer.\r\n\r\nHABIT turns general intelligence into specialized robotic expertise.\r\n\r\nOur multi-stage training framework distills knowledge from large-scale robotic foundation models into efficient student architectures and applies targeted fine-tuning with supervised methods on real-world data and reinforcement learning in simulation. The result: consumer-ready robotic experts, precisely optimized for any vertical with minimal cost, complexity, or overhead.\r\n",
+      "one_liner": "Reshaping neighborhood services with robotics. Auto details are first.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "El Segundo, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Hard Tech",
+        "Robotics",
+        "AI",
+        "Automotive"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747768090.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png"
+    },
+    {
       "id": 30467,
       "name": "Opusense AI",
       "slug": "opusense-ai",
@@ -2010,6 +2078,38 @@
       "is_top_company": false,
       "launched_at": 1747432267.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/43512eb103f491a3508141bcf2703f7058067be1.png"
+    },
+    {
+      "id": 30463,
+      "name": "Odapt",
+      "slug": "odapt",
+      "website": "https://landing.odapt.ai/",
+      "description": "Odapt lets anyone build AI-first internal software. We connect all company apps and internal data sources to one place - enabling any employee to build software on top of it - just using natural language. When an operator needs to make effective decisions, instead of spending hours clicking through apps to gather the right data or waiting on dev time, they can now prompt Odapt to design & build the custom software they need.\r\n\r\nWe believe internal software should be developed by those who need it. Going after operators, marketers, and finance leads\u2014the people who wrestle with scattered data every day\u2014gives us grounded insights to shape the product in real time. Odapt plugs into every database and SaaS they touch, giving our AI agents the cross-system knowledge very few tools have. Teams already use it to unify outbound-sales data, automate tech docs, and run recruiting ops from one pane.\r\n\r\nLucas worked on code-gen at OpenAI and has bootstrapped startups to $1M ARR. Ende has deployed AI safety software on 20M phones and was part of Stanford\u2019s NLP group. Madhav was an operator at McKinsey & founding BizOps lead at a recruiting startup. He\u2019s also led and scaled teams of 25. \r\n \r\nWe enable operators to ship, freeing up engineering time to be focused on higher leverage work. With AI changing the way we code, there will be 10x the \u201cAI developers\u201d in companies as there are current engineers in the world. We can bring custom software to the new age of operators and builders.\r\n",
+      "one_liner": "How great teams build AI-powered internal software & agent workflows",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Consumer",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747781122.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2f24b1c7b6bbdf8a99fe8b78b57ddfafeab69d.png"
     },
     {
       "id": 30462,
@@ -2149,10 +2249,10 @@
     },
     {
       "id": 30454,
-      "name": "Operative.sh",
+      "name": "operative.sh",
       "slug": "operative-sh",
       "website": "https://operative.sh/",
-      "description": "Today coding agents such as Cursor can check that the code they write compiles without linter errors. Operative gives coding agents the ability to open a browser agent and evaluate if the changes that are made work end-to-end.",
+      "description": "Operative provides the runtime intelligence for coding agents to test changes via browser agents. We connect into coding agents such as Cursor, Windsurf, Cline and others via MCP, and support vibe-coders on the web with operative create.",
       "one_liner": "Browser agent tools to test web apps from within coding agents",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3082,6 +3182,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png"
     },
     {
+      "id": 30418,
+      "name": "Kanava AI",
+      "slug": "kanava-ai",
+      "website": "https://kanava.ai/",
+      "description": "Distributors face a shrinking workforce and rising call volume.\r\n\r\nKanava AI builds voice-based agents that act like junior sales reps \u2014 starting with routine inbound calls, stock and price checks, field note logging, and CRM updates using live ERP data.\r\n\r\nAs the system learns from top reps and real workflows, it levels up: managing full sales calls, surfacing upsells, coaching teams, and reactivating dormant accounts.\r\n\r\nWe help distributors scale sales output without adding headcount \u2014 by automating the work reps shouldn\u2019t be doing in the first place.",
+      "one_liner": "Your First AI Sales Hire for Wholesale Distributors",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Sales",
+        "Supply Chain",
+        "AI",
+        "AI Assistant",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747765211.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
+    },
+    {
       "id": 30417,
       "name": "GroundControl",
       "slug": "groundcontrol",
@@ -3440,6 +3575,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png"
     },
     {
+      "id": 30384,
+      "name": "Chestnut",
+      "slug": "chestnut",
+      "website": "https://chestnutmortgage.com/",
+      "description": "Chestnut is the first AI mortgage lender. Our AI agents help consumers find the best mortgage option and save ~0.5% in interest compared to traditional lenders.\r\n\r\nToday, 80% of employees at traditional lenders spend hours each day filling out paper forms, manually reviewing documents, and copy-pasting data between systems. These manual processes cost lenders \u2013 and ultimately their borrowers \u2013 $12,000+ per loan ($61B+ per year).\r\n\r\nAI can automate 99% of mortgage operations, but traditional lenders would take 10+ years to adapt. They\u2019d have to overhaul their entire tech stack, rewrite every procedure, and retrain their entire workforce.\r\n\r\nChestnut is vertically integrating AI to directly challenge the $130B+ mortgage origination market. Founder Spencer Brown\u2019s previous startup built a mortgage Loan Origination System that powered $85B+ in mortgage volume (1-2% of all US mortgages/yr).\r\n\r\nWe\u2019re currently licensed in Texas and Colorado, helping clients with home purchases, refinances, cash-outs, and home equity lines of credit.",
+      "one_liner": "The first AI mortgage lender",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Credit and Lending",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "Real Estate",
+        "Proptech",
+        "Lending",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747766524.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/631ee284ae72491a5ece65b4b063ba64ec1a008c.png"
+    },
+    {
       "id": 30367,
       "name": "QFEX",
       "slug": "qfex",
@@ -3697,5 +3867,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-20T18:01:32.997853"
+  "fetched_at": "2025-05-21T00:03:07.347762"
 }
