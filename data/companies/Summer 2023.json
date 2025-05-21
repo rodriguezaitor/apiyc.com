@@ -1978,7 +1978,7 @@
       "one_liner": "Low cost securities-backed lending for independent financial advisors",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "Fintech",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4814,10 +4814,10 @@
       "slug": "venta-ai",
       "website": "https://www.getventa.ai",
       "description": "Venta AI is a legally compliant AI SDR that automates prospecting and cold outreach via letters, LinkedIn and email. Thanks to our Multi-Channel approach you can reach every customer, avoid landing in SPAM and increase your reply rates up to 2x.",
-      "one_liner": "The EU-compliant AI SDR that can send letters, emails and LinkedIn",
+      "one_liner": "The EU-compliant AI SDR that sends letters, emails and LinkedIn",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -4829,7 +4829,10 @@
         "Partly Remote"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Sales",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -7328,5 +7331,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-21T06:01:27.298281"
+  "fetched_at": "2025-05-21T12:01:39.455236"
 }

@@ -2017,7 +2017,7 @@
       "slug": "clidey",
       "website": "https://clidey.com",
       "description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation\u2014right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo\u2014whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation\u2014without slowing you down.\r\n\r\nIt\u2019s developer-first, fully editable, and always in sync\u2014so you never have to choose between speed and quality again.",
-      "one_liner": "Docucod: Automatically generates and maintains code documentation",
+      "one_liner": "Auto-generated, always-current documentation from your codebase",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2034,10 +2034,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2152,8 +2152,8 @@
       "name": "Odapt",
       "slug": "odapt",
       "website": "https://landing.odapt.ai/",
-      "description": "Odapt lets anyone build AI-first internal software. We connect all company apps and internal data sources to one place - enabling any employee to build software on top of it - just using natural language. When an operator needs to make effective decisions, instead of spending hours clicking through apps to gather the right data or waiting on dev time, they can now prompt Odapt to design & build the custom software they need.\r\n\r\nWe believe internal software should be developed by those who need it. Going after operators, marketers, and finance leads\u2014the people who wrestle with scattered data every day\u2014gives us grounded insights to shape the product in real time. Odapt plugs into every database and SaaS they touch, giving our AI agents the cross-system knowledge very few tools have. Teams already use it to unify outbound-sales data, automate tech docs, and run recruiting ops from one pane.\r\n\r\nLucas worked on code-gen at OpenAI and has bootstrapped startups to $1M ARR. Ende has deployed AI safety software on 20M phones and was part of Stanford\u2019s NLP group. Madhav was an operator at McKinsey & founding BizOps lead at a recruiting startup. He\u2019s also led and scaled teams of 25. \r\n \r\nWe enable operators to ship, freeing up engineering time to be focused on higher leverage work. With AI changing the way we code, there will be 10x the \u201cAI developers\u201d in companies as there are current engineers in the world. We can bring custom software to the new age of operators and builders.\r\n",
-      "one_liner": "How great teams build AI-powered internal software & agent workflows",
+      "description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place\u2014giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops\u2014all without writing a line of code.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford\u2019s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup, and has led & scaled teams of 25 in the past.\r\n\r\nOdapt empowers operators to build, so engineers can go deeper on high-impact work. With AI, we\u2019re unlocking 10x more builders inside companies\u2014and giving them the tools to create what they need, when they need it.",
+      "one_liner": "How great teams build internal software & agent workflows",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -3445,8 +3445,8 @@
       "name": "Golf",
       "slug": "golf",
       "website": "https://golf.dev/",
-      "description": "With Golf MCP gateway you can move from local to remote servers, and stay in control over deployment.  Companies use Golf to deploy remote MCP servers, with full observability layer on top.",
-      "one_liner": "Control layer for remote MCP servers",
+      "description": "Golf lets you ship a production-ready MCP server without worrying about the plumbing. You just write the tools, prompts, and resources you want agents to call. Golf handles everything else - routing, auth, telemetry, error reporting, and deployment - all managed through our hosted platform.",
+      "one_liner": "Open-source platform for building production MCP servers",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3461,9 +3461,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3965,5 +3965,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-21T06:01:30.752011"
+  "fetched_at": "2025-05-21T12:01:41.535800"
 }
