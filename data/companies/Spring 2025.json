@@ -1181,6 +1181,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/378dff1b4c96c256939295e47e1e3e3446784095.png"
     },
     {
+      "id": 30516,
+      "name": "Bramante Biologics",
+      "slug": "bramante-biologics",
+      "website": "https://www.bramantebio.com",
+      "description": "We manufacture pharmaceutical drugs faster, in the USA",
+      "one_liner": "American drug manufacturing",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "B2B",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Cambridge, MA, USA",
+      "tags": [
+        "Biotech",
+        "Manufacturing",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747846039.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf074dabb28f6a317b41850f4ce802050e1e38af.png"
+    },
+    {
       "id": 30514,
       "name": "Scalar Field",
       "slug": "scalar-field",
@@ -1841,6 +1873,39 @@
       "is_top_company": false,
       "launched_at": 1747691019.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad91c0390b62c24c8473857d3ed3043cad61263.png"
+    },
+    {
+      "id": 30476,
+      "name": "Nomi",
+      "slug": "nomi",
+      "website": "https://heynomi.com",
+      "description": "Nomi provides on-the-spot phrase suggestions, intelligently crafted from your transcribed sales calls and a custom playbook that adapts and grows with you, from founder-led sales to revops mastery. \r\n\r\nPS: We also increase closing rates by 12% on average and free up your sales team's mental energy. ",
+      "one_liner": "Cursor for Sales",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Sales",
+        "Sales Enablement"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747841477.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd11dae7a652bf143efed034d199e59b84ab4b90.png"
     },
     {
       "id": 30475,
@@ -2771,7 +2836,7 @@
       "name": "Sim Studio",
       "slug": "simstudio",
       "website": "https://www.simstudio.ai",
-      "description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3k stars on GitHub in the last month. We have 4,000+ builders on our hosted platform. ",
+      "description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.5k stars on GitHub in the last month.",
       "one_liner": "The UI to build AI agents",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2787,9 +2852,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3054,7 +3119,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746399469.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f362b725240ccdfc1c0cc42ebc5700507b2ddb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/39d26149922b6183936ce0ff8f902f7ca2777b52.png"
     },
     {
       "id": 30427,
@@ -3965,5 +4030,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-21T12:01:41.535800"
+  "fetched_at": "2025-05-21T18:01:35.493797"
 }
