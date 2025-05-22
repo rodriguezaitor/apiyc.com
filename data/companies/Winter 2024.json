@@ -4912,39 +4912,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f653e467944e532c6d8f26687a94d0c6b982ed84.png"
     },
     {
-      "id": 29335,
-      "name": "Toolify",
-      "slug": "toolify",
-      "website": "https://toolify.sh",
-      "description": "Toolify is dev-first internal tooling. At some point, companies using low-code builders hit a brick wall, and are bogged down by their limitations rather quickly.\r\n\r\nWe offer:\r\n- A starter kit with sensible defaults,\r\n- A VSCode extension which has AI that creates the internal tool for you, end to end, and,\r\n- A web app where you can deploy your tools.\r\n\r\nThis gives you the best of both worlds -- everything you need to build tools just as fast as low-code, and an escape hatch when you need it.",
-      "one_liner": "Build internal tools with AI",
-      "batch": "Winter 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "India",
-        "South Asia"
-      ],
-      "locations": "Bengaluru, KA, India",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1706123140.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dda140ccf9838edcec96e76d3655e00315a0b4a7.png"
-    },
-    {
       "id": 29334,
       "name": "Decipher AI",
       "slug": "decipher-ai",
@@ -8127,6 +8094,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/da5827bd47852ceb65b1428cce6a5ed5fca36c18.png"
     },
     {
+      "id": 29335,
+      "name": "Toolify",
+      "slug": "toolify",
+      "website": "https://toolify.sh",
+      "description": "Toolify is dev-first internal tooling. At some point, companies using low-code builders hit a brick wall, and are bogged down by their limitations rather quickly.\r\n\r\nWe offer:\r\n- A starter kit with sensible defaults,\r\n- A VSCode extension which has AI that creates the internal tool for you, end to end, and,\r\n- A web app where you can deploy your tools.\r\n\r\nThis gives you the best of both worlds -- everything you need to build tools just as fast as low-code, and an escape hatch when you need it.",
+      "one_liner": "Build internal tools with AI",
+      "batch": "Winter 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "India",
+        "South Asia"
+      ],
+      "locations": "Bengaluru, KA, India",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1706123140.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dda140ccf9838edcec96e76d3655e00315a0b4a7.png"
+    },
+    {
       "id": 29320,
       "name": "Celest",
       "slug": "celest",
@@ -8299,5 +8299,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-22T06:01:23.618696"
+  "fetched_at": "2025-05-22T12:01:38.450848"
 }
