@@ -1,20 +1,20 @@
 {
   "data": [
     {
-      "id": 729,
-      "name": "Ginkgo Bioworks",
-      "slug": "ginkgo-bioworks",
-      "website": "http://ginkgobioworks.com",
-      "description": "Ginkgo Bioworks is the organism company. We design custom organisms for customers across multiple markets. We build our foundries to scale the process of organism engineering using software and hardware automation. Organism engineers at Ginkgo learn from nature to develop new organisms that replace technology with biology.",
-      "one_liner": "Our mission is to make biology easier to engineer.",
+      "id": 731,
+      "name": "Oklo",
+      "slug": "oklo",
+      "website": "http://oklo.com",
+      "description": "About Oklo Inc.: \r\n\r\nOklo Inc. (Oklo) is developing advanced fission power plants to provide emission-free, reliable, and affordable energy. \r\n\r\nOklo received a Site Use Permit from the U.S Department of Energy, has performed successful prototypic fuel fabrication, was awarded fuel material from Idaho National Laboratory, developed the first advanced fission combined license application accepted and docketed by the U.S. Nuclear Regulatory Commission, and is developing advanced fuel recycling technologies in collaboration with the U.S. Department of Energy and national laboratories.\r\n\r\nOklo has been featured in Time, Newsweek, Wall Street Journal, CNBC, Popular Mechanics, Wired, Architectural Digest, Hyperallergic, POWER Magazine, has been the subject of a Harvard Business School case, and is featured in the Oliver Stone documentary Nuclear, among other features.",
+      "one_liner": "Emission free, always on power from advanced fission power plants.",
       "batch": "Summer 2014",
       "status": "Public",
-      "team_size": 641,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Industrial Bio",
+      "team_size": 50,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
       "industries": [
-        "Healthcare",
-        "Industrial Bio"
+        "Industrials",
+        "Energy"
       ],
       "regions": [
         "United States of America",
@@ -22,18 +22,17 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Boston, MA, USA",
+      "locations": "Santa Clara, CA, USA; Sunnyvale, CA, USA",
       "tags": [
-        "Synthetic Biology",
-        "Diagnostics",
-        "Automation"
+        "Small Modular Reactors",
+        "Climate"
       ],
       "stage": "Growth",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": true,
-      "launched_at": 1400927505.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8427e9e647b115fc9f1f760c7a1324f1d2c02ef.png"
+      "launched_at": 1400930834.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7296c0e632938afdac098d754da89730bfc674b7.png"
     },
     {
       "id": 700,
@@ -67,20 +66,20 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d917bc9763d052f49ea938f71c94205dabf1ec83.png"
     },
     {
-      "id": 731,
-      "name": "Oklo",
-      "slug": "oklo",
-      "website": "http://oklo.com",
-      "description": "About Oklo Inc.: \r\n\r\nOklo Inc. (Oklo) is developing advanced fission power plants to provide emission-free, reliable, and affordable energy. \r\n\r\nOklo received a Site Use Permit from the U.S Department of Energy, has performed successful prototypic fuel fabrication, was awarded fuel material from Idaho National Laboratory, developed the first advanced fission combined license application accepted and docketed by the U.S. Nuclear Regulatory Commission, and is developing advanced fuel recycling technologies in collaboration with the U.S. Department of Energy and national laboratories.\r\n\r\nOklo has been featured in Time, Newsweek, Wall Street Journal, CNBC, Popular Mechanics, Wired, Architectural Digest, Hyperallergic, POWER Magazine, has been the subject of a Harvard Business School case, and is featured in the Oliver Stone documentary Nuclear, among other features.",
-      "one_liner": "Emission free, always on power from advanced fission power plants.",
+      "id": 729,
+      "name": "Ginkgo Bioworks",
+      "slug": "ginkgo-bioworks",
+      "website": "http://ginkgobioworks.com",
+      "description": "Ginkgo Bioworks is the organism company. We design custom organisms for customers across multiple markets. We build our foundries to scale the process of organism engineering using software and hardware automation. Organism engineers at Ginkgo learn from nature to develop new organisms that replace technology with biology.",
+      "one_liner": "Our mission is to make biology easier to engineer.",
       "batch": "Summer 2014",
       "status": "Public",
-      "team_size": 50,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Energy",
+      "team_size": 641,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Industrial Bio",
       "industries": [
-        "Industrials",
-        "Energy"
+        "Healthcare",
+        "Industrial Bio"
       ],
       "regions": [
         "United States of America",
@@ -88,17 +87,18 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Santa Clara, CA, USA; Sunnyvale, CA, USA",
+      "locations": "Boston, MA, USA",
       "tags": [
-        "Small Modular Reactors",
-        "Climate"
+        "Synthetic Biology",
+        "Diagnostics",
+        "Automation"
       ],
       "stage": "Growth",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": true,
-      "launched_at": 1400930834.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7296c0e632938afdac098d754da89730bfc674b7.png"
+      "launched_at": 1400927505.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8427e9e647b115fc9f1f760c7a1324f1d2c02ef.png"
     },
     {
       "id": 662,
@@ -2618,5 +2618,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b608533ba4dfdf9610d953d7d6faf8b3a2d29638.png"
     }
   ],
-  "fetched_at": "2025-05-22T12:01:45.548582"
+  "fetched_at": "2025-05-22T18:01:11.628947"
 }

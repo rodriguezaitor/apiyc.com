@@ -7592,11 +7592,11 @@
       "name": "Traceloop",
       "slug": "traceloop",
       "website": "https://www.traceloop.com",
-      "description": "Traceloop monitors the quality of your LLM application in production. It provides you with alerts, insights and gradual rollout capabilities to confidently deploy changes to your prompts and model configurations.",
-      "one_liner": "OpenTelemetry-based observability for your LLM application",
+      "description": "Traceloop gives you full visibility into every prompt, response, and failure. Track quality, detect drift, and stop hallucinations before they reach your users. Powered by OpenTelemetry, integrated in one line.",
+      "one_liner": "Know what your LLM is doing \u2014 and why it\u2019s failing",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -9357,5 +9357,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-22T12:01:38.041099"
+  "fetched_at": "2025-05-22T18:01:10.123053"
 }

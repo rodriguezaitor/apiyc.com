@@ -1201,9 +1201,9 @@
       ],
       "locations": "Cambridge, MA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Biotech",
-        "Manufacturing"
+        "Manufacturing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1814,7 +1814,7 @@
       "slug": "flott-hq",
       "website": "https://www.flotthq.com",
       "description": "Flott HQ is an all-in-one fleet operations platform that helps transport, logistics and field service teams boost profitability with AI-powered planning, tracking, invoicing, and payments \u2014 all in one place.\r\nWe centralize what most teams manage across 5+ tools, helping our clients grow faster while cutting operational costs.",
-      "one_liner": "AI-powered operating system for vehicle fleets management.",
+      "one_liner": "AI-powered operating system for vehicle fleet management",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1824,10 +1824,9 @@
         "B2B"
       ],
       "regions": [
-        "Remote",
-        "Fully Remote"
+        "Unspecified"
       ],
-      "locations": "Remote",
+      "locations": "",
       "tags": [
         "Logistics",
         "Transportation",
@@ -1878,7 +1877,7 @@
       "name": "Casco",
       "slug": "casco",
       "website": "https://casco.com",
-      "description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com",
+      "description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
       "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1895,10 +1894,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Security",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4062,5 +4061,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-22T12:01:42.956004"
+  "fetched_at": "2025-05-22T18:01:11.133533"
 }
