@@ -604,7 +604,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690480394.0,
@@ -2135,8 +2135,8 @@
       "name": "Silimate",
       "slug": "silimate",
       "website": "https://www.silimate.com",
-      "description": "Silimate is the co-pilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
-      "one_liner": "The co-pilot for chip designers",
+      "description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
+      "one_liner": "The copilot for chip designers",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 4,
@@ -2152,11 +2152,11 @@
       ],
       "locations": "Mountain View, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Enterprise Software",
-        "Semiconductors"
+        "Semiconductors",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7331,5 +7331,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-21T18:01:33.126447"
+  "fetched_at": "2025-05-22T00:02:58.625500"
 }

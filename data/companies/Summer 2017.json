@@ -1551,39 +1551,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ca476b7fd3c753aaf02894c9ec075292f0f47ea.png"
     },
     {
-      "id": 1604,
-      "name": "Pathrise",
-      "slug": "pathrise",
-      "website": "https://www.pathrise.com",
-      "description": "Pathrise is a career accelerator where you don't pay unless you land a job. Job seekers sign up for Pathrise to get weekly career coaching, access the Pathrise network and use our job search automation software.",
-      "one_liner": "YC for your career",
-      "batch": "Summer 2017",
-      "status": "Active",
-      "team_size": 55,
-      "industry": "Education",
-      "subindustry": "Education",
-      "industries": [
-        "Education"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Education",
-        "Careers"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1493264511.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a74b87209f0fef292c8365d6ab6e926fb4c740c6.png"
-    },
-    {
       "id": 1603,
       "name": "Standard AI",
       "slug": "standard-ai",
@@ -4050,6 +4017,39 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
+      "id": 1604,
+      "name": "Pathrise",
+      "slug": "pathrise",
+      "website": "https://www.pathrise.com",
+      "description": "Pathrise is a career accelerator where you don't pay unless you land a job. Job seekers sign up for Pathrise to get weekly career coaching, access the Pathrise network and use our job search automation software.",
+      "one_liner": "YC for your career",
+      "batch": "Summer 2017",
+      "status": "Inactive",
+      "team_size": 55,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Education",
+        "Careers"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1493264511.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a74b87209f0fef292c8365d6ab6e926fb4c740c6.png"
+    },
+    {
       "id": 1589,
       "name": "Prism Labs",
       "slug": "prism-labs",
@@ -4142,5 +4142,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95842a8ebd992360790565045dc0b9949e8dea8.png"
     }
   ],
-  "fetched_at": "2025-05-21T18:01:35.218474"
+  "fetched_at": "2025-05-22T00:02:58.891498"
 }

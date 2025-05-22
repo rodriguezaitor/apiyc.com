@@ -273,7 +273,7 @@
       "id": 30553,
       "name": "Blueshoe",
       "slug": "blueshoe",
-      "website": "https://blueshoe.ai",
+      "website": "https://blueshoe.com",
       "description": "Blueshoe puts law firm back office operations on autopilot starting with fully automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen back office infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
       "one_liner": "AI worker for law firm financial operations",
       "batch": "Spring 2025",
@@ -981,7 +981,7 @@
       "name": "Lapel",
       "slug": "lapel",
       "website": "https://lapel.com/",
-      "description": "Lapel is a customer operations platform that brings hospitality to the internet: one real-time view of every account and tools for every customer touchpoint.\r\n\r\nToday, most customer relationships are managed through dashboards, funnels, and canned replies\u2014great for metrics, terrible for humans.\r\n\r\nCustomers don\u2019t draw lines between sales, success, and support, and your software shouldn\u2019t either.\r\n\r\nLearn more at lapel.com",
+      "description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies\u2014great for metrics, terrible for humans. Customers don\u2019t see lines between Sales, Success, and Support, and your software shouldn\u2019t either.\r\n\r\nLearn more at lapel.com",
       "one_liner": "Customer operations platform for internet businesses.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1185,7 +1185,7 @@
       "name": "Bramante Biologics",
       "slug": "bramante-biologics",
       "website": "https://www.bramantebio.com",
-      "description": "We manufacture pharmaceutical drugs faster, in the USA",
+      "description": "Manufacturing pharmaceutical drugs faster and in the USA",
       "one_liner": "American drug manufacturing",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1201,9 +1201,9 @@
       ],
       "locations": "Cambridge, MA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Biotech",
-        "Manufacturing",
-        "AI"
+        "Manufacturing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1474,6 +1474,39 @@
       "is_top_company": false,
       "launched_at": 1744600545.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png"
+    },
+    {
+      "id": 30500,
+      "name": "Besimple AI",
+      "slug": "besimple-ai",
+      "website": "https://besimple.ai",
+      "description": "Spin up your own data annotation platform in 60 seconds!\r\n\r\nHigh-quality, human-reviewed data is essential for improving AI models.  Yet, many teams still use outdated tools or spreadsheets that aren\u2019t built for complex data from LLMs and AI agents. This slows down iteration, drives up costs, and makes model performance unpredictable in real-world use.\r\n\r\nWith Besimple, you can generate your own platform for annotating AI evaluation and training data instantly.  Simply paste or stream any type of raw data\u2014text, chat, audio, video, or LLM outputs\u2014and we'll instantly generate a tailored annotation interface, clear guidelines, and an automated human-in-the-loop workflow.  Our AI Judges quickly learn from human annotations, take over labeling for easy cases, and evaluate live production data, letting your team focus only on critical edge cases.\r\n\r\nKey differentiators\r\n1. Instant custom UI - Automatically generate tailored annotation interfaces just by uploading your data. Adjust easily whenever data or needs change.\r\n2. Tailored guidelines \u2013 Import any existing guidelines or we will draft new ones aligned with your business goals, ready for annotation\r\n3. AI Judges for real-time evaluation \u2013 AI-powered judges continuously improve by learning human preferences, automatically labeling data and flagging tough cases for expert review.\r\n4. Enterprise-grade deployment \u2013 On-prem optional install, and robust user management for internal SMEs, external vendors, or Besimple\u2019s vetted annotators.\r\n5. Lightning-Fast Setup: No code, no plugins\u2014just drop in your data, set guidelines, and you\u2019re good to go.\r\n\r\nToday we power evaluation and training pipelines for leading AI companies in customer support, search, education, and more.  For example, the leading AI grading company Edexia uses besimple to annotate hundreds of decisions and improve their evals.\r\n\r\nBesimple is built by a team that has done this before. Yi Zhong and Bill Wang built the annotation platform for Meta\u2019s Llama models, significantly improving quality of data and shortening model development cycle.\r\n\r\nReach out!\r\n\r\nIf you\u2019re building an AI product and struggle with good eval or training data \u2014or if you have models in prod with no idea why they fail\u2014let\u2019s talk. We\u2019ll show you how to launch a custom annotation flow in a minute, bootstrap an AI Judge in an afternoon, and start shipping better models tomorrow.",
+      "one_liner": "We make data annotation simple",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Redwood City, CA, USA",
+      "tags": [
+        "AIOps",
+        "Generative AI",
+        "Reinforcement Learning",
+        "Data Labeling"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747861843.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png"
     },
     {
       "id": 30498,
@@ -1896,9 +1929,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement"
+        "Sales Enablement",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2217,7 +2250,7 @@
       "name": "Odapt",
       "slug": "odapt",
       "website": "https://landing.odapt.ai/",
-      "description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place\u2014giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops\u2014all without writing a line of code.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford\u2019s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup, and has led & scaled teams of 25 in the past.\r\n\r\nOdapt empowers operators to build, so engineers can go deeper on high-impact work. With AI, we\u2019re unlocking 10x more builders inside companies\u2014and giving them the tools to create what they need, when they need it.",
+      "description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops\u2014all without writing a line of code.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford\u2019s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup, and has led & scaled teams of 25 in the past.\r\n\r\nOdapt empowers operators to build, so engineers can go deeper on high-impact work. With AI, we\u2019re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.",
       "one_liner": "How great teams build internal software & agent workflows",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2233,9 +2266,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4030,5 +4063,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-21T18:01:35.493797"
+  "fetched_at": "2025-05-22T00:02:58.929915"
 }

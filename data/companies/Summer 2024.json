@@ -1276,7 +1276,7 @@
       "slug": "saldor",
       "website": "https://saldor.com/",
       "description": "",
-      "one_liner": "Coding agents",
+      "one_liner": "The Software Engineering Agent",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -1292,8 +1292,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Generative AI"
+        "Generative AI",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3715,38 +3715,6 @@
       "is_top_company": false,
       "launched_at": 1718647013.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e76ebff94e59d246be64d01d55956cfc7797c4c.png"
-    },
-    {
-      "id": 29757,
-      "name": "Guardian AI",
-      "slug": "guardian-ai",
-      "website": "https://www.withguardian.ai/",
-      "description": "Guardian is an AI platform to help healthcare providers (hospitals, MSOs, physician groups) fight denials and address unpaid claims. Providers deploy Guardian to:\r\n\r\n1. Detect emerging patterns in payer reimbursements\r\n2. Automate the diagnosis and resolution of unpaid claims and denials",
-      "one_liner": "Helping healthcare providers fight insurance denials.",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare",
-      "industries": [
-        "Healthcare"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Health Tech",
-        "Workflow Automation"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1722883690.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/645d02c6474b375daf6ed84323e625d9d2b75fd6.png"
     },
     {
       "id": 29756,
@@ -6535,7 +6503,7 @@
       "name": "Sorcerer",
       "slug": "sorcerer",
       "website": "https://sorcerer.earth",
-      "description": "Sorcerer is deploying a global network of persistent airborne sensors to fuel weather forecasting. Our high-altitude balloons collect 1000x more data than existing systems and are already used daily by meteorologists to track extreme weather across the US and Central America.",
+      "description": "Sorcerer is deploying a global network of persistent airborne sensors to fuel advanced weather forecasting. Our high-altitude balloons collect 1000x more data than existing systems and are already used daily by meteorologists to track extreme weather across the US and Central America.",
       "one_liner": "Building a nervous system for the atmosphere",
       "batch": "Summer 2024",
       "status": "Active",
@@ -6552,11 +6520,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hard Tech",
         "Hardware",
         "Climate",
-        "Aerospace",
-        "AI"
+        "Aerospace"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6843,34 +6811,6 @@
       "is_top_company": false,
       "launched_at": 1723590693.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86b78941e41162fe785f78a758f28b109d81ae6.png"
-    },
-    {
-      "id": 29637,
-      "name": "Flyflow",
-      "slug": "flyflow",
-      "website": "https://flyflow.ai",
-      "description": "\"I don\u2019t know how I would have found these leads myself.\"  - YC Founder\r\n\r\nFlyflow enables companies to find prospective customers using AI workflows instead of drowning in tables. Try out our product at app.flyflow.ai.\r\n\r\nHow are we different?\r\n\r\n(1) Higher quality leads: get to a list that\u2019s so relevant, you\u2019ll want to spend time getting introduced to people there, instead of sending another 1,000 cold emails\r\n\r\n(2) Incredibly easy to set up: get up and running with a list of prospects in hand  in under 10 minutes\r\n\r\n(3) Integrate the best of different sales tools all in one place: no need to switch between different tabs for web research, filtering by company size, and finding prospect LinkedIns",
-      "one_liner": "The easiest way to find high-quality sales leads",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Sales",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1718910453.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     },
     {
       "id": 29636,
@@ -7515,8 +7455,8 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "Cheers is a frontline experience management platform that captures real-time reviews, tips, and referrals for every employee. With a single NFC tap, customers identify who helped them and share feedback instantly\u2014giving businesses the data they\u2019ve never had: performance insights at the individual employee level.",
-      "one_liner": "The super-app for frontline employees",
+      "description": "Cheers makes frontline employees (technicians, hospitality staff, field reps) fully observable, measurable, and optimizable. Like Datadog did for cloud infrastructure, Cheers turns frontline interactions into clear, employee-level insights by letting customers instantly leave reviews, tips, and referrals with a single NFC tap.",
+      "one_liner": "Datadog for frontline employees",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -7531,9 +7471,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Analytics",
         "Feedback",
-        "AI",
         "Reviews"
       ],
       "stage": "Early",
@@ -8339,7 +8279,35 @@
       "is_top_company": false,
       "launched_at": 1723390201.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07b72c4e012c5010eb399d3c3541a6ce75e1383e.png"
+    },
+    {
+      "id": 29637,
+      "name": "Flyflow",
+      "slug": "flyflow",
+      "website": "https://flyflow.ai",
+      "description": "\"I don\u2019t know how I would have found these leads myself.\"  - YC Founder\r\n\r\nFlyflow enables companies to find prospective customers using AI workflows instead of drowning in tables. Try out our product at app.flyflow.ai.\r\n\r\nHow are we different?\r\n\r\n(1) Higher quality leads: get to a list that\u2019s so relevant, you\u2019ll want to spend time getting introduced to people there, instead of sending another 1,000 cold emails\r\n\r\n(2) Incredibly easy to set up: get up and running with a list of prospects in hand  in under 10 minutes\r\n\r\n(3) Integrate the best of different sales tools all in one place: no need to switch between different tabs for web research, filtering by company size, and finding prospect LinkedIns",
+      "one_liner": "The easiest way to find high-quality sales leads",
+      "batch": "Summer 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1718910453.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-21T18:01:32.149773"
+  "fetched_at": "2025-05-22T00:02:58.469573"
 }

@@ -1170,7 +1170,7 @@
       "name": "Nova Credit",
       "slug": "nova-credit",
       "website": "http://www.novacredit.com/",
-      "description": "Nova Credit is a consumer-permissioned credit bureau with two products that help businesses make more fair and informed decisions on millions of \u2018thin file\u2019, no credit history, or new-to-country applicants. The Credit Passport\u00ae unlocks cross-border credit bureau data to help businesses underwrite new-to-country newcomer populations. The Cash Atlas\u2122 provides greater insight into the cash flows of any applicant, including verifying their income with greater precision than alternatives. Businesses use these products to approve more applicants without taking on more risk, and consumers are empowered to put their best foot forward in their applications. The company\u2019s differentiated data sources and proprietary analytics are used by leading organizations like American Express, Verizon, HSBC, SoFi, and Yardi. Nova Credit is backed by investors including Kleiner Perkins, General Catalyst, Index Ventures, and Canapi as well as executives from Goldman Sachs, JPMorgan, and Citi. Learn more at www.novacredit.com or reach out to connect@novacredit.com. ",
+      "description": "Nova Credit is a credit infrastructure and analytics company that enables businesses to grow responsibly through alternative credit data. As a Consumer Reporting Agency (CRA), Nova Credit leverages its unique data infrastructure, compliance framework, and credit expertise to help lenders fill critical gaps in traditional credit analytics. The company transforms the fragmented universe of consumer financial data into compliant, actionable risk insights through a comprehensive platform designed to increase conversion through expanded coverage, speed, and reliability. Leading organizations, including HSBC, RBC, SoFi, Scotiabank, Appfolio, and Yardi, work with Nova Credit to make smarter credit decisions through cash flow underwriting with Cash Atlas\u2122, quickly verify income with Income Navigator, and reach new-to-country consumers with Credit Passport\u00ae. Nova Credit is backed by investors including Kleiner Perkins, General Catalyst, Index Ventures, and Canapi as well as executives from Goldman Sachs, JPMorgan, and Citi. \r\n\r\nLearn more at www.novacredit.com or reach out to connect@novacredit.com. ",
       "one_liner": "Bridging a world of consumer-permissioned credit data",
       "batch": "Summer 2016",
       "status": "Active",
@@ -1189,7 +1189,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Fintech"
+        "Fintech",
+        "Data Science"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3341,5 +3342,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-05-21T18:01:36.832890"
+  "fetched_at": "2025-05-22T00:02:59.154724"
 }
