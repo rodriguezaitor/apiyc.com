@@ -342,7 +342,7 @@
       "name": "Airweave",
       "slug": "airweave",
       "website": "https://airweave.ai",
-      "description": "Airweave is an open-source tool that lets agents search any application. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
+      "description": "Airweave is an open-source tool that lets agents search any application. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
       "one_liner": "Open-Source Tool That Lets Agents Search Any App",
       "batch": "Spring 2025",
       "status": "Active",
@@ -359,11 +359,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Open Source",
         "Search",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -907,6 +907,42 @@
       "is_top_company": false,
       "launched_at": 1745803962.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png"
+    },
+    {
+      "id": 30528,
+      "name": "Probo",
+      "slug": "probo",
+      "website": "https://www.getprobo.com/",
+      "description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn\u2019t lose weeks to this stuff. Even one day is too much.\r\n",
+      "one_liner": "We make you SOC 2 (and more) compliant so you focus on your business.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Compliance",
+        "Cybersecurity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747978784.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0e14dfc874747053fa6732daf6dbf9f9ed3e18d.png"
     },
     {
       "id": 30527,
@@ -1711,7 +1747,7 @@
       "slug": "lyrahq",
       "website": "https://lyra.so/",
       "description": "At Lyra, we believe B2B sales hasn\u2019t meaningfully evolved in decades \u2014 until now. The next industrial revolution is here, and we\u2019re building the platform to power it.\r\n\r\nModern buyers want less talk, faster decisions, and seamless experiences. Lyra helps sales teams close more deals, shorten sales cycles, and operate more efficiently \u2014 all with minimal rep involvement.\r\n\r\nWe built our own meeting software from the ground up with a real-time AI agent at its core:\r\n- Surfaces and personalizes relevant sales collateral using live conversation intelligence\r\n- Keeps deals moving by answering buyer questions when reps are offline\r\n- Replaces decks, screen shares, and long email threads with a single interactive workspace \u2014 called a Lyra. It hosts your meetings, onboarding, and integrates tools like DocuSign to give buyers a seamless path from first call to signed contract\r\n\r\nHundreds of sales calls are already hosted on Lyra, including several YC companies. We hit $100K ARR in our first two weeks.\r\n\r\nWe\u2019re rethinking the sales stack from first call to signed contract.",
-      "one_liner": "AI-native meeting rooms for revenue teams",
+      "one_liner": "AI-Native Zoom For Revenue Teams",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -1978,7 +2014,7 @@
       "slug": "runrl",
       "website": "https://runrl.com",
       "description": "RunRL improves LLMs and AI agents with reinforcement learning. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we\u2019ll make your model\u2019s reward go up.",
-      "one_liner": "Run RL on any LLM, with any reward function. Now with agent support!",
+      "one_liner": "Reinforcement learning as a service",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2508,7 +2544,7 @@
       "name": "Better Auth",
       "slug": "better-auth",
       "website": "https://better-auth.com/",
-      "description": "Better Auth is a framework-agnostic authentication solution for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. We\u2019re obsessed with making it ridiculously easy to roll your own auth, so you never have a reason not to. It\u2019s loved by developers and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer for the things that aren\u2019t practical to ship as a library like user management and analytics, bot and fraud detection, transactional email and SMS, global session storage, and tailored support and advisory for your specific Better Auth setup.",
+      "description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It\u2019s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
       "one_liner": "The most comprehensive authentication framework for TypeScript.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2929,6 +2965,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png"
     },
     {
+      "id": 30439,
+      "name": "Clarm",
+      "slug": "clarm",
+      "website": "https://www.clarm.com",
+      "description": "Clarm is your deep research AI agent builder for high-trust environments. Fine-grain control over data sources and research processes ensures that full automation is finally reliable without Compliance and Legal headaches. 40+ integrations into CRM, email, knowledge bases, etc.\r\n\r\nHere's what Clarm is powering today:\r\n\r\n- a law firm to find relevant information within the thousands of emails and documents\r\n- a bank to personalize communication and understand investment preferences on the level of each human\r\n- an asset manager to evaluate proxy voting preferences across 90,000 shareholder meetings\r\n- a luxury goods retailer to increase client response rate from 5% to 50% through deep personalization (as compared to standard Hubspot-generated marketing copy)\r\n- a top open source startup to increase engagement with their Github repo and knowledge base\r\n- a services firm to instantly answer '000s of client support questions, driving up engagement and turning curious prospects into committed customers",
+      "one_liner": "Zero hallucination Deep Research AI agents",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Finance",
+        "Enterprise",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747978633.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png"
+    },
+    {
       "id": 30437,
       "name": "Kaelio",
       "slug": "kaelio",
@@ -3328,17 +3399,23 @@
       "one_liner": "World's first AI Medical Rep for Pharma GTM",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 0,
+      "team_size": 3,
       "industry": "Healthcare",
       "subindustry": "B2B",
       "industries": [
         "Healthcare"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Biotech",
+        "Healthcare",
+        "Enterprise",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4095,5 +4172,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-23T00:02:57.378332"
+  "fetched_at": "2025-05-23T06:01:35.218177"
 }
