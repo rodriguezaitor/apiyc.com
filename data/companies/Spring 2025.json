@@ -2248,7 +2248,7 @@
       "id": 30463,
       "name": "Odapt",
       "slug": "odapt",
-      "website": "https://landing.odapt.ai/",
+      "website": "https://odapt.ai/",
       "description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops\u2014all without writing a line of code. With AI, we\u2019re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford\u2019s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup.\r\n\r\n",
       "one_liner": "How great teams build internal software & agent workflows",
       "batch": "Spring 2025",
@@ -2264,9 +2264,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2861,6 +2861,40 @@
       "is_top_company": false,
       "launched_at": 1745603860.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png"
+    },
+    {
+      "id": 30441,
+      "name": "stratify",
+      "slug": "stratify",
+      "website": "https://www.trystratify.com",
+      "description": "Stratify is the AI-powered user researcher that discovers the why behind every decision, click, and preference.\r\nOur platform uses agentic workflows that instantly recruit participants, conduct user interviews, analyze responses, and provide actionable insights.",
+      "one_liner": "AI agents that help you understand your customers' needs",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Design",
+        "Consumer Products",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747936990.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1a50cfaa4d20f355d56916b604b0530b1c260eb.png"
     },
     {
       "id": 30440,
@@ -4061,5 +4095,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-22T18:01:11.133533"
+  "fetched_at": "2025-05-23T00:02:57.378332"
 }

@@ -4187,7 +4187,7 @@
       "name": "Anara",
       "slug": "anara",
       "website": "https://anara.com",
-      "description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we\u2019ve grown to 4M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we\u2019re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we\u2019re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you\u2019re excited by the idea of being a part of that, definitely reach out.",
+      "description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we\u2019ve grown to 2M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we\u2019re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we\u2019re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you\u2019re excited by the idea of being a part of that, definitely reach out.",
       "one_liner": "AI for researchers",
       "batch": "Summer 2024",
       "status": "Active",
@@ -4206,9 +4206,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7455,7 +7455,7 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "Cheers makes frontline employees (technicians, hospitality staff, field reps) fully observable, measurable, and optimizable. Like Datadog did for cloud infrastructure, Cheers turns frontline interactions into clear, employee-level insights by letting customers instantly leave reviews, tips, and referrals with a single NFC tap.",
+      "description": "Cheers makes frontline employee interactions (with technicians, hospitality staff, field reps) fully observable, measurable, and optimizable. Like Datadog did for cloud infrastructure, Cheers captures frontline touch points and transforms them into clear business insights by letting customers leave reviews, tips, and referrals in the moment, prompted by a simple NFC tap.\r\n\r\nEach interaction captured is attributable to specific employees, allowing Cheers to generate detailed employee performance profiles that managers can utilize for performance reviews, promotions, and coaching, helping them see who is great and who needs support. Vivint Smart Home used these insights to identify top performers and collected over 15,000 five-star Google reviews in two months after implementing Cheers, boosting their average local rating from ~2.0 stars to ~4.9 stars.",
       "one_liner": "Datadog for frontline employees",
       "batch": "Summer 2024",
       "status": "Active",
@@ -8309,5 +8309,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-22T18:01:10.308023"
+  "fetched_at": "2025-05-23T00:02:53.186658"
 }
