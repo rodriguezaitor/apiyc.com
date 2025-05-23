@@ -21,18 +21,18 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
+        "B2B",
         "Sales",
-        "CRM"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747185757.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae1ace3d66e110a8df626460cadb105a22556d0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/523af60648199cf36ae9d89c5bc46aa1a1dd11e5.png"
     },
     {
       "id": 30562,
@@ -984,7 +984,7 @@
       "name": "chrt",
       "slug": "chrt",
       "website": "https://chrt.com",
-      "description": "chrt is a platform for Time-Critical Logistics. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nShippers that place time-critical orders with chrt are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nWe have a marketplace of professional couriers who pick up and deliver these orders. We build the software our couriers use to handle these shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide our shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe\u2019re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we\u2019re also shipping freight.",
+      "description": "chrt is a platform for Time-Critical Logistics. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt provides a marketplace of professional couriers who pick up and deliver these orders. We build the software these couriers use to handle the shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe\u2019re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we\u2019re also shipping freight.",
       "one_liner": "chrt is a platform for Time-Critical Logistics",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1001,9 +1001,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Digital Freight Brokerage",
-        "Marketplace",
-        "AI"
+        "Marketplace"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4206,5 +4206,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-23T12:01:40.112669"
+  "fetched_at": "2025-05-23T18:01:04.027647"
 }
