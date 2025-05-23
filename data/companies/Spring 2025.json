@@ -949,8 +949,8 @@
       "name": "MindFort",
       "slug": "mindfort",
       "website": "https://www.mindfort.ai",
-      "description": "MindFort is building fully autonomous AI agents and models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
-      "one_liner": "Fully autonomous security agents: find, validate, patch.",
+      "description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+      "one_liner": "Fully autonomous offensive security agents & models",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -2969,8 +2969,8 @@
       "name": "Clarm",
       "slug": "clarm",
       "website": "https://www.clarm.com",
-      "description": "Clarm is your deep research AI agent builder for high-trust environments. Fine-grain control over data sources and research processes ensures that full automation is finally reliable without Compliance and Legal headaches. 40+ integrations into CRM, email, knowledge bases, etc.\r\n\r\nHere's what Clarm is powering today:\r\n\r\n- a law firm to find relevant information within the thousands of emails and documents\r\n- a bank to personalize communication and understand investment preferences on the level of each human\r\n- an asset manager to evaluate proxy voting preferences across 90,000 shareholder meetings\r\n- a luxury goods retailer to increase client response rate from 5% to 50% through deep personalization (as compared to standard Hubspot-generated marketing copy)\r\n- a top open source startup to increase engagement with their Github repo and knowledge base\r\n- a services firm to instantly answer '000s of client support questions, driving up engagement and turning curious prospects into committed customers",
-      "one_liner": "Zero hallucination Deep Research AI agents",
+      "description": "Clarm is your AI deep research agent builder for high-trust environments. Our platform connects across 40+ enterprise integrations - CRMs, email, knowledge bases - and lets you build precise, repeatable workflows that transform how teams work without Compliance and Legal headaches.\r\n\r\nHere's what Clarm is powering today:\r\n\r\n- a law firm to find relevant information within the thousands of emails and documents\r\n- a bank to personalize communication and understand investment preferences on the level of each human\r\n- an asset manager to evaluate proxy voting preferences across 90,000 shareholder meetings\r\n- a luxury goods retailer to increase client response rate from 5% to 50% through deep personalization (as compared to standard Hubspot-generated marketing copy)\r\n- a top open source startup to increase engagement with their Github repo and knowledge base\r\n- a services firm to instantly answer '000s of client support questions, driving up engagement and turning curious prospects into committed customers",
+      "one_liner": "Zero hallucination AI Deep Research agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3130,6 +3130,40 @@
       "is_top_company": false,
       "launched_at": 1747554289.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe9d24b61e68d5f71ffc72977fe38d21eece7328.png"
+    },
+    {
+      "id": 30432,
+      "name": "HelixDB",
+      "slug": "helixdb",
+      "website": "https://helix-db.com",
+      "description": "Helix is a graph-vector database that stores both graph and vector types natively. It allows users to future proof their data systems and easily build Graph and Hybrid RAG.\r\n\r\nWe like to think of HelixDB as an LLMs hippocampus. The things we remember are context-rich and connected, they store semantic meaning and relationships; just like data in Helix. \r\n\r\nWe let you store semantic meaning of data via our vector embeddings, but link those up in a knowledge graph to store explicit relationships and information. Helix is a database that lets you combine your structured and un-structured data that makes it easier than ever to build AI agents on top of your data.",
+      "one_liner": "A graph-vector database for building RAG and AI.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Developer Tools",
+        "Open Source",
+        "Infrastructure",
+        "AI",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747978820.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc8c59d06bd11958f3cd88c35b928397093f7d8.png"
     },
     {
       "id": 30431,
@@ -4172,5 +4206,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-23T06:01:35.218177"
+  "fetched_at": "2025-05-23T12:01:40.112669"
 }

@@ -232,14 +232,14 @@
     },
     {
       "id": 29154,
-      "name": "CatX",
-      "slug": "catx",
+      "name": "Catamaran",
+      "slug": "catamaran",
       "website": "https://www.trycatamaran.com",
-      "description": "CatX is a digital marketplace connecting insurance carriers with institutional investors to trade and transfer insurance risk efficiently. We help to make insurance risk models understandable and accessible for asset managers so they can unlock new sources of returns. In addition, we streamline and digitalize the entire risk transfer process, so insurers can get faster, cheaper access to capital from our partner funds. ",
-      "one_liner": "The digital marketplace for insurance risk ",
+      "description": "Catamaran uses AI to help people make clearer, faster decisions about risk. Our platform brings all internal and external risk data into one easy-to-understand workspace. By automating data gathering, checking, and scenario testing, we help insurers, reinsurers, brokers, and investors quickly understand and manage their risks. Catamaran also provides a regulated marketplace to easily buy, sell, and manage insurance coverage.",
+      "one_liner": "The AI-powered risk decision platform ",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -247,9 +247,12 @@
         "Insurance"
       ],
       "regions": [
-        "Unspecified"
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
+      "locations": "London, England, United Kingdom",
       "tags": [
         "Machine Learning",
         "Finance",
@@ -262,7 +265,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687023200.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e9b41e83a612b700ead913b983376272ea61f82.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0af944f6ad96c6f8c2095e8c485de560a528833.png"
     },
     {
       "id": 29153,
@@ -7324,5 +7327,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-23T06:01:32.514017"
+  "fetched_at": "2025-05-23T12:01:37.364512"
 }
