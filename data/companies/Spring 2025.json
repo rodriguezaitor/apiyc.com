@@ -191,8 +191,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
-        "Insurance"
+        "Workflow Automation",
+        "Insurance",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1418,7 +1421,7 @@
       "slug": "klavis-ai",
       "website": "https://www.klavis.ai/",
       "description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code.",
-      "one_liner": "Open source MCP Integrations for AI Applications",
+      "one_liner": "Open Source MCP Integrations for AI Applications",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4206,5 +4209,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-24T00:02:44.090714"
+  "fetched_at": "2025-05-24T06:01:09.660678"
 }
