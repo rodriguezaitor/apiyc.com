@@ -73,7 +73,7 @@
       "name": "Daxa",
       "slug": "daxa",
       "website": "https://www.getdaxa.com/",
-      "description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time \u2014 helping you pinpoint application issues before users churn and plan features that maximize conversion. ",
+      "description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time \u2014 helping you pinpoint application issues before users churn and plan features that maximize conversion. Oftentimes, issues in your product don't make it to a support ticket until dozens of users have experienced it first. Daxa helps you combat this problem by watching users interact directly with your product and notifying you in real time via Slack or email if any issues or interesting phenomenon arise (dropoff on certain pages, features not performing as expected, etc)",
       "one_liner": "Boost revenue and retention with an AI PM",
       "batch": "Spring 2025",
       "status": "Active",
@@ -511,16 +511,16 @@
       "name": "Wavedash",
       "slug": "wavedash",
       "website": "https://wavedash.gg",
-      "description": "Wavedash is a video game platform that automates expensive distribution, research, and development workflows. \r\n\r\nWavedash saves studios time and money, helping them create and distribute better games, faster. ",
-      "one_liner": "Helping game studios rapidly distribute games",
+      "description": "Wavedash uses cutting edge browser technology to let gamers play the latest releases with no downloads or installation.\r\n\r\n",
+      "one_liner": "Play the latest games in your browser with no downloads",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "Consumer",
+        "Gaming"
       ],
       "regions": [
         "United States of America",
@@ -530,11 +530,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Workflow Automation",
+        "Artificial Intelligence",
+        "Consumer",
         "Gaming",
-        "AI"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4275,5 +4274,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-24T12:01:12.809228"
+  "fetched_at": "2025-05-24T18:01:07.596587"
 }
