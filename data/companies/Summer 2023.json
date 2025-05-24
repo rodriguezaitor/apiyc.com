@@ -3902,7 +3902,7 @@
         "Health Tech"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689362011.0,
@@ -5693,8 +5693,8 @@
       "name": "Zelos Cloud",
       "slug": "zelos-cloud",
       "website": "https://zeloscloud.io",
-      "description": "Zelos Cloud is accelerating electronics product development with powerful tools for emulation, tracing, and automated testing on real microcontrollers in the cloud.\r\n\r\nAs firmware engineers, we spent years developing and shipping products at scale. Between batteries, bootloaders and brain implants, we've seen it all. Our mission is to build the tools we wish we had to enable teams to ship higher quality products, faster.",
-      "one_liner": "The First Cloud Platform for Firmware Development and Testing",
+      "description": "Zelos Cloud is the data platform for mission-critical systems that enables teams to observe, control, and test systems from prototype to production. The platform connects across entire ecosystems, capturing data from many protocols, enabling remote command execution, and facilitating team collaboration through shared workspaces and real-time annotations. By integrating data collection, processing, and visualization into one seamless pipeline, Zelos Cloud eliminates complexity and breaks down silos between engineering, operations, and quality teams.",
+      "one_liner": "The Data Platform for Mission\u2011Critical Systems",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -5718,7 +5718,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688766669.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ca0ecc537f7ce785f91c1050c2526cde53e2f22.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f39c44456d13de7e8a74abab6a45e95cb32375.png"
     },
     {
       "id": 28809,
@@ -7327,5 +7327,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-23T18:01:03.754374"
+  "fetched_at": "2025-05-24T00:02:41.730240"
 }

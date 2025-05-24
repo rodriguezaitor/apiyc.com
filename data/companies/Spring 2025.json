@@ -175,7 +175,7 @@
       "slug": "aegis",
       "website": "https://aegishealth.us/",
       "description": "Aegis is the all-in-one platform that helps healthcare providers recover lost revenue by automating insurance denial appeals\u2014from intake to resolution. Built for billing teams, healthcare providers and hospitals.",
-      "one_liner": "Faster Revenue Recovery for Healthcare Providers",
+      "one_liner": "We Help Healthcare Providers fight Health Insurance Denials",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -1964,9 +1964,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement",
-        "AI"
+        "Sales Enablement"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2233,11 +2233,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Biotech",
         "Nanotechnology",
-        "Advanced Materials",
-        "Semiconductors",
-        "AI"
+        "Data Engineering",
+        "Advanced Materials"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3136,7 +3136,7 @@
       "name": "HelixDB",
       "slug": "helixdb",
       "website": "https://helix-db.com",
-      "description": "Helix is a graph-vector database that stores both graph and vector types natively. It allows users to future proof their data systems and easily build Graph and Hybrid RAG.\r\n\r\nWe like to think of HelixDB as an LLMs hippocampus. The things we remember are context-rich and connected, they store semantic meaning and relationships; just like data in Helix. \r\n\r\nWe let you store semantic meaning of data via our vector embeddings, but link those up in a knowledge graph to store explicit relationships and information. Helix is a database that lets you combine your structured and un-structured data that makes it easier than ever to build AI agents on top of your data.",
+      "description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
       "one_liner": "A graph-vector database for building RAG and AI.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4206,5 +4206,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-23T18:01:04.027647"
+  "fetched_at": "2025-05-24T00:02:44.090714"
 }
