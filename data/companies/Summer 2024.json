@@ -5,8 +5,8 @@
       "name": "Outerport",
       "slug": "outerport",
       "website": "https://outerport.com",
-      "description": "Outerport helps AI read documents the way a researcher would - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary. It can leverage this deep understanding to perform more complex tasks over documents, like comparative gap analysis and change tracking.\r\n\r\nOuterport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",
-      "one_liner": "Compare documents and clarify business processes with AI",
+      "description": "Outerport helps convert proprietary visual data- every diagram, drawing, webpages, documents, CAD files and more into an exact text representation that can be ingested by LLMs and re-rendered back. For example, flowcharts are notoriously common in enterprise documents and are used to describe mission critical business processes. Instead of relying on faulty VLMs to understand these properly, Outerport converts this into an text-based graph object that can be reliably parsed by LLMs and are easier to debug / run evals when there are issues. ",
+      "one_liner": "Make every diagram, drawing, and document queryable wtih LLMs",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -8309,5 +8309,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-25T06:01:25.107473"
+  "fetched_at": "2025-05-25T12:01:38.053983"
 }
