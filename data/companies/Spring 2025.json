@@ -2581,7 +2581,7 @@
       "name": "Parsewise",
       "slug": "parsewise",
       "website": "https://parsewise.ai",
-      "description": "Turn complex documents into validation information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
+      "description": "Turn complex documents into validated information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
       "one_liner": "Extract Validated Data from Complex Documents",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2596,9 +2596,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Data Engineering",
-        "AI"
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2613,7 +2613,7 @@
       "slug": "better-auth",
       "website": "https://better-auth.com/",
       "description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It\u2019s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
-      "one_liner": "The most comprehensive authentication framework for TypeScript.",
+      "one_liner": "The fastest growing auth library with 14k+ stars and 1.3mil downloads",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3068,6 +3068,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png"
     },
     {
+      "id": 30438,
+      "name": "Beluga Labs",
+      "slug": "beluga-labs",
+      "website": "https://www.belugalabs.ai/",
+      "description": "The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.\r\n\r\nBeluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.",
+      "one_liner": "Rippling for content creators",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Creator Economy",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748129784.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/50d42478a34c0d5bf559cd697f4f613bc54bad1d.png"
+    },
+    {
       "id": 30437,
       "name": "Kaelio",
       "slug": "kaelio",
@@ -3216,9 +3249,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
         "Open Source",
@@ -3673,9 +3709,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4274,5 +4310,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-24T18:01:07.596587"
+  "fetched_at": "2025-05-25T00:03:27.399148"
 }
