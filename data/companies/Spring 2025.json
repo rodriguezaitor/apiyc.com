@@ -1849,8 +1849,8 @@
       "name": "Lucis",
       "slug": "lucis",
       "website": "https://www.lucis.life",
-      "description": "Lucis turns regular blood tests into actionable health insights - so people can act before it\u2019s too late. In 4 months we\u2019ve helped 500 people in Paris get ahead of chronic diseases. Today, we\u2019re expanding across Europe.",
-      "one_liner": "Lucis turns regular blood tests into actionable health insights",
+      "description": "Think Function Health for Europe. We combine medical expertise and AI to transform regular blood testing into actionable insights to help people live healthier, longer.\r\nIn four months in Paris, we've achieved $400K ARR, secured partnerships with France's leading lab networks, and partnered with key health influencers, proving our playbook works and scales rapidly. We are currently opening 4 new countries across Europe.",
+      "one_liner": "Live 100 healthy years from a simple blood test",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -2348,10 +2348,10 @@
     },
     {
       "id": 30462,
-      "name": "Linkd",
-      "slug": "linkd",
-      "website": "https://linkd.inc",
-      "description": "Linkd was built to increase the amount of serendipity in the world. Every person has hundreds of thousands of valuable connections they never realize exist, opportunities hidden within shared experiences, untapped professional networks, and mutual affiliations. We\u2019re here to surface them.",
+      "name": "Clado",
+      "slug": "clado",
+      "website": "https://clado.ai",
+      "description": "Clado was built to increase the amount of serendipity in the world. Every person has hundreds of thousands of valuable connections they never realize exist, opportunities hidden within shared experiences, untapped professional networks, and mutual affiliations. We\u2019re here to surface them.",
       "one_liner": "Deep Research for People",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2368,17 +2368,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Recruiting"
+        "Recruiting",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1742722403.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca320740e24bfef8157d47ca2f7700eff6b263b8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d327d3c59254a3e35fc8c9d3e3faf74c4ab6709b.png"
     },
     {
       "id": 30461,
@@ -4310,5 +4310,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-25T00:03:27.399148"
+  "fetched_at": "2025-05-25T06:01:25.561285"
 }

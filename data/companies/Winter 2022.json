@@ -1253,8 +1253,8 @@
       "name": "Cellbyte",
       "slug": "cellbyte",
       "website": "https://www.cellbyte.com/",
-      "description": "Cellbyte is an AI copilot that helps pharma companies launch new drugs in different countries. We launched 3 months ago, and companies like Lilly and Gilead are already paying us $200k a year to answer questions like \u201cWhat price can we achieve for our new drug in the U.S. versus Germany?\u201c.\r\n\r\nThe right answer heavily depends on data from national healthcare authorities, which must be accurate and comprehensive. One has to first consolidate gigabytes of fragmented, messy and multi-language data from websites and documents scattered across the internet. Prior to LLMs this was nearly impossible and even today it is still difficult without industry knowledge.\r\n\r\nCellbyte instantly turns this data into charts, analyses and reports. By saving pharma companies +$200/hour in analyst fees, we have won enterprise deals against firms with thousands of employees.\r\n\r\nDaniel has experienced this pain first-hand working for a leading global Life Sciences consultancy for 5+ years. Felix has sold $3m+ ACV enterprise deals for his previous startup. Samuel has built AI applications from scratch as one of Celonis\u2019 first employees.",
-      "one_liner": "Copilot for Pharmaceutical Drug Launches",
+      "description": "Cellbyte's AI agents help pharma companies launch new drugs worldwide. Market-leading firms are using Cellbyte to answer questions like \u201cWhat price can we achieve for our new drug in the U.S. versus Germany?\u201c.\r\n\r\nThe three co-founders have known and worked with each other for many years: Daniel brings 5+ years of industry experience from his previous job at leading global Life Sciences consultancy Simon-Kucher. Felix has sold $3m+ ACV enterprise deals to customers like H&M for his previous YC startup. Samuel holds an MSc in Information Systems from TUM, and has built scalable AI applications from scratch as ML Engineer at Celonis.",
+      "one_liner": "AI Agents for Pharma Drug Launches",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 3,
@@ -1270,9 +1270,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Data Science",
-        "Healthcare IT",
-        "AI"
+        "Healthcare IT"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13815,5 +13815,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-05-25T00:03:26.509023"
+  "fetched_at": "2025-05-25T06:01:24.801855"
 }
