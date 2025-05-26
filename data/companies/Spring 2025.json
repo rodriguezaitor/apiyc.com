@@ -361,11 +361,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Open Source",
         "Search",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1204,18 +1203,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Real Estate",
         "Proptech",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747245550.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/378dff1b4c96c256939295e47e1e3e3446784095.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2513957c2cb96d4cf73c23653ae7fb3d644aabb1.png"
     },
     {
       "id": 30516,
@@ -3659,8 +3658,8 @@
       "name": "Avallon AI",
       "slug": "avallon-ai",
       "website": "https://www.avallon.ai/",
-      "description": "Avallon turns complex call operations into automated resolutions, cutting costs and supercharging productivity with agentic workflows.",
-      "one_liner": "AI voice agents for claims operations",
+      "description": "Avallon turns complex insurance claims operations into automated resolutions, cutting costs and supercharging productivity with agentic workflows.",
+      "one_liner": "AI agents for insurance claims operations",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -3675,9 +3674,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3805,9 +3804,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Healthcare",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4276,5 +4275,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-26T00:03:16.981133"
+  "fetched_at": "2025-05-26T06:01:24.690639"
 }
