@@ -4034,17 +4034,12 @@
         "Banking and Exchange"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Fintech",
-        "Consumer Finance",
-        "Trading"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747069734.0,
@@ -4275,5 +4270,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-26T06:01:24.690639"
+  "fetched_at": "2025-05-26T12:01:43.497990"
 }
