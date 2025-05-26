@@ -106,8 +106,8 @@
       "name": "SAVA Robotics",
       "slug": "sava-robotics",
       "website": "https://www.savarobotics.com",
-      "description": "SAVA Robotics builds robot operators for sheet metal machines. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech\u2019s Robotics labs. The team experienced Vedic\u2019s father's 12-hour shifts, operating the machines in his shop because he struggled to find workers. After visiting manufacturers across the US, they have witnessed hundreds of automation cells collect dust while shop owners scramble to find skilled labor.\r\n\r\nSAVA 01 mimics the human operator by reading machine data and manipulating unseen parts. They are starting with the CNC Press Brake and have bent production parts for YC startups. ",
-      "one_liner": "Robot Operators for Sheet Metal",
+      "description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics and Zipline - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
+      "one_liner": "Sheet Metal Super Factory",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -1051,8 +1051,8 @@
       "name": "Mesmer",
       "slug": "mesmer",
       "website": "https://mesmer.co",
-      "description": "Mesmer gives leaders at scaling startups full context on their product development so that they can lead without drowning in meetings and management. We help founder/CTOs at companies worth over $3B keep their orgs fast, flat, and focused as they scale, including Origin, a $400M fintech cofounded by Jo\u00e3o.",
-      "one_liner": "Cursor for CTOs to run product development",
+      "description": "Mesmer is Cursor for CTOs. We give founders and CTOs full visibility into their org without drowning in meetings or chasing updates. We are a team of repeat founders and CTOs with 15+ years of experience each, including leading product development togehter at Origin Financial, a fintech started by Mesmer's CEO, as it scaled to 8-figure ARR, 100+ employees and a $400M valuation. Mesmer reached 6-figure ARR within a week of launching and is already live with companies worth over $8B, including Webflow and Origin Financial.",
+      "one_liner": "Cursor for CTOs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -1063,10 +1063,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Remote",
-        "Partly Remote"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "SaaS",
@@ -2840,7 +2840,7 @@
       "name": "Percival",
       "slug": "percival",
       "website": "https://www.percivaltech.com/",
-      "description": "Percival helps B2B distributors automate data entry by using AI to process documents like purchase orders and price lists. \r\n\r\nDavid and I built automation pipelines at Scale AI and Palantir, and now we\u2019re using that expertise to automate work that\u2019s often handled by full time employees or a team of contractors.",
+      "description": "Percival helps wholesalers and  distributors automate data entry by using AI to process documents like purchase orders and price lists. \r\n\r\nWhen wholesalers and distributors sell to other businesses, they often receive purchase orders as PDFs over email. Customers frequently use different identifiers for items, different units, and close but not quite the same descriptors. Employees aren't just copy-pasting (or manually typing) PDF data into an ERP, they have to validate every item in the ERP.\r\n\r\nWith Percival, businesses can just email customer POs and other requests to a dedicated @percivaltech.com email address. Once the request is handled, Percival responds to the email with the result: whether that's an order number in the ERP or a list of prices.",
       "one_liner": "Automating data entry with AI",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4276,5 +4276,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-25T18:01:22.868613"
+  "fetched_at": "2025-05-26T00:03:16.981133"
 }
