@@ -5154,7 +5154,7 @@
         "Community"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1624934146.0,
@@ -7309,8 +7309,8 @@
       "name": "Secoda",
       "slug": "secoda",
       "website": "https://secoda.co",
-      "description": "Secoda helps data teams deliver trustworthy data for AI and analytics. With Secoda\u2019s search-first approach, your data catalogue won\u2019t collect dust\u2014easily search across all columns, tables, dashboards, events, and metrics. Ask any question and get fast, contextual answers powered by AI.\r\n\r\nBuilt to empower teams, Secoda combines data cataloging, governance, and observability into one seamless platform that\u2019s accessible, intuitive, and even self-hosted if needed. Whether you need a data dictionary, column-level lineage, or AI-powered insights, Secoda makes discovering, understanding, and trusting your data effortless for every employee.",
-      "one_liner": "The second brain for your data team",
+      "description": "We believe that finding the right data shouldn\u2019t require a technical background or hours of digging. That\u2019s why Secoda applies AI to transform messy, siloed analytics into a searchable, intuitive knowledge layer\u2014so every question gets a fast, useful answer.\r\n\r\nOur vision is to become the AI search engine for your company\u2019s analytics, making data discovery as seamless as finding a website on Google. To do that, Secoda gets data AI-ready by unifying governance, cataloging, observability, and lineage into one trusted, easy-to-use platform\u2014empowering every team to move faster, stay compliant, and make smarter decisions.",
+      "one_liner": "Secoda is the AI layer for your Analytics",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 27,
@@ -7328,11 +7328,11 @@
       ],
       "locations": "Toronto, ON, Canada",
       "tags": [
-        "Developer Tools",
         "SaaS",
         "B2B",
         "Analytics",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "stage": "Growth",
       "is_hiring": true,
@@ -13432,5 +13432,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-05-26T12:01:37.679384"
+  "fetched_at": "2025-05-26T18:01:20.934417"
 }

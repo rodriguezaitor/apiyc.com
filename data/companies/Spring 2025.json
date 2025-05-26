@@ -4077,6 +4077,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png"
     },
     {
+      "id": 30336,
+      "name": "Atlog",
+      "slug": "atlog",
+      "website": "https://atlog.ai",
+      "description": "We use voice agents to recover outstanding payments for in-house rental agreements. \r\n\r\nLong-term we will automate all other back-office operations, creating an AI furniture store employee.",
+      "one_liner": "AI Payment Recovery for Rented Furniture",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Furniture",
+        "Retail Tech",
+        "Automation",
+        "Call Center",
+        "Operations"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748272733.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3405b06390efd124a27be23179a4e549fc3f10d0.png"
+    },
+    {
       "id": 30329,
       "name": "Waffle",
       "slug": "waffle",
@@ -4270,5 +4304,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-26T12:01:43.497990"
+  "fetched_at": "2025-05-26T18:01:21.643118"
 }
