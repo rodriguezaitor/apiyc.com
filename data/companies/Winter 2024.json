@@ -7512,7 +7512,7 @@
       "name": "Tesseral",
       "slug": "tesseral",
       "website": "https://tesseral.com",
-      "description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Authentication methods from 'Login with Google' to SAML SSO\r\n* Enterprise directory sync (SCIM)\r\n* Transactional emails\r\n* Multifactor authentication (MFA) with passkeys and authenticator apps\r\n* Self-service settings pages for your customers\r\n* User, organization, and session management",
+      "description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Support for B2B multitenancy\r\n* User impersonation\r\n* Self-service config for your customers\r\n* Magic links\r\n* Social login\r\n* Enterprise single sign-on (SAML SSO)\r\n* Enterprise directory sync (SCIM)\r\n* Role-based access control (RBAC)\r\n* Multifactor authentication (MFA)\r\n* Passkeys (WebAuthn)\r\n* Authenticator apps (TOTPs)\r\n* API key management\r\n* User invitations\r\n* Webhooks\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
       "one_liner": "The open-source auth infrastructure for B2B SaaS",
       "batch": "Winter 2024",
       "status": "Active",
@@ -8299,5 +8299,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-26T18:01:21.113186"
+  "fetched_at": "2025-05-27T00:02:53.434792"
 }

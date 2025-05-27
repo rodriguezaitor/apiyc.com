@@ -2078,16 +2078,10 @@
         "Industrials"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Hardware",
-        "Manufacturing",
-        "Supply Chain"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5170,7 +5164,7 @@
       "one_liner": "Your AI billing teammate that automates contracts to revenue",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -5183,16 +5177,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "FinOps",
         "Workflow Automation",
-        "AI"
+        "Billing"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722618064.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff6c2cd737d27675ee462a56fa75e3fd28c7f81f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7300af84eef84e88a5fc2a972bbf576cb517a4cb.png"
     },
     {
       "id": 29701,
@@ -8309,5 +8304,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-26T18:01:21.194207"
+  "fetched_at": "2025-05-27T00:02:53.593793"
 }
