@@ -394,17 +394,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Search",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744594621.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d46327d39d6d471e78471c63b18a9b06c8166938.png"
     },
     {
       "id": 30548,
@@ -1882,8 +1882,8 @@
       "name": "Flott HQ",
       "slug": "flott-hq",
       "website": "https://www.flotthq.com",
-      "description": "Flott HQ is an all-in-one fleet operations platform that helps transport, logistics and field service teams boost profitability with AI-powered planning, tracking, invoicing, and payments \u2014 all in one place.\r\nWe centralize what most teams manage across 5+ tools, helping our clients grow faster while cutting operational costs.",
-      "one_liner": "AI-powered operating system for vehicle fleet management",
+      "description": "Flott helps transport and logistics companies run leaner, smarter, and more profitable operations. Flott unifies everything transport and logistics teams need in a single, AI-powered cntrol center\u2014bringing planning, live tracking (gps, fuel, etc), invoicing, and payments into one place and delivering true end-to-end visibility. Flott\u2019s AI agents act as an extension of fleet managers \u2014 automating repetitive tasks and optimizing workflows.This lets companies focus on what truly matters: growing the business.",
+      "one_liner": "AI-native operating system for vehicle fleet management",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2414,6 +2414,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d60074c98f74b46443d4cb4aaad793b532b48401.png"
     },
     {
+      "id": 30460,
+      "name": "VoiceOS",
+      "slug": "voiceos",
+      "website": "https://voiceos.com",
+      "description": "Hiring at scale is broken. \r\n\r\nOur solution: AI voice agents that instantly interview every applicant \u2014 holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent\u2019s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise \u2014 we\u2019re poised to make it the new global standard for conversational hiring.",
+      "one_liner": "Automates screenings to streamline volume hiring",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Human Resources",
+        "Recruiting",
+        "Enterprise",
+        "Operations"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748319646.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/448b1a4a715ad6ca5aa526e5a22dfe883b86f132.png"
+    },
+    {
       "id": 30459,
       "name": "Chiron",
       "slug": "chiron",
@@ -2905,7 +2940,7 @@
       "slug": "vibegrade",
       "website": "https://vibegrade.com",
       "description": "VibeGrade is the AI that works directly inside Google Classroom, Google Docs, and Canvas to grade papers 10x faster, in the teacher's style. \r\n\r\nTeachers often spend hours of their own time grading hundreds of papers, which can lead to rushed and generic feedback for students. \r\n\r\nUnlike other grading tools that require bulk uploads and remove teachers from the process, VibeGrade allows teachers to use AI to write high-quality, teacher-like feedback\u2014right within the LMS.",
-      "one_liner": "AI that helps teachers grade papers 10x faster in their style.",
+      "one_liner": "AI Teacher Assistant to grade papers 10x faster in their style.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2920,9 +2955,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Education",
-        "Edtech",
-        "AI"
+        "Edtech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3304,7 +3339,7 @@
       "name": "Almond",
       "slug": "almond-2",
       "website": "https://almondbot.com/",
-      "description": "Almond is building a vision-first AI robot for high-mix pick & place automation for manufacturers & warehouses. We provide customers a fully-integrated robot-as-a-service.",
+      "description": "Almond is building a vision-based AI robot for high-mix pick & place automation. We provide a fully-integrated robot-as-a-service that helps manufacturers save money and increase their revenue.",
       "one_liner": "AI robots for high-mix pick & place automation",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3991,7 +4026,7 @@
       "slug": "plexe",
       "website": "https://plexe.ai",
       "description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-      "one_liner": "Open-source agent that builds ML models from a prompt",
+      "one_liner": "Build predictive ML models from a prompt",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4374,5 +4409,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-27T00:02:54.831839"
+  "fetched_at": "2025-05-27T06:01:23.154926"
 }
