@@ -262,18 +262,18 @@
     },
     {
       "id": 30351,
-      "name": "Dex",
-      "slug": "dex-2",
-      "website": "https://joindex.com/",
-      "description": "Dex is the AI copilot built for the browser.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
-      "one_liner": "The AI Browser Copilot",
+      "name": "ThirdLayer",
+      "slug": "thirdlayer",
+      "website": "https://thirdlayer.inc",
+      "description": "ThirdLayer is an applied research and product lab building the next interface for human-AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
+      "one_liner": "Building Dex, the AI Browser Copilot",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
-        "Consumer"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -281,10 +281,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Productivity",
         "Consumer Products",
-        "Automation",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -292,7 +292,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737217789.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588b96acab2b06d3a6d0c0dc1df4ed1a4bf0d80.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b8230cea80b14be0026f198edeff9c8f351272c.png"
     },
     {
       "id": 30350,
@@ -5302,5 +5302,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-05-27T06:01:23.079460"
+  "fetched_at": "2025-05-27T12:01:42.595998"
 }

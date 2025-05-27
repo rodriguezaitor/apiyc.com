@@ -919,43 +919,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b36a43190da640752bb01710dff43f2c6e5ff91.png"
     },
     {
-      "id": 1835,
-      "name": "Mojo",
-      "slug": "mojo",
-      "website": "https://mojo-app.com",
-      "description": "",
-      "one_liner": "Mobile app for creating pro-quality social media videos",
-      "batch": "Winter 2018",
-      "status": "Active",
-      "team_size": 20,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Virtual and Augmented Reality",
-      "industries": [
-        "Consumer",
-        "Content"
-      ],
-      "regions": [
-        "France",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Paris, \u00cele-de-France, France",
-      "tags": [
-        "Consumer",
-        "B2B",
-        "Design Tools",
-        "Video",
-        "Subscriptions"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1510196655.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab15fdb2009046919edffcb203ca318de5911113.png"
-    },
-    {
       "id": 1834,
       "name": "Aspire",
       "slug": "aspire",
@@ -3261,6 +3224,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c9e2d9613351e5ded12760bc18a55ad140d6f08.png"
     },
     {
+      "id": 1835,
+      "name": "Mojo",
+      "slug": "mojo",
+      "website": "https://mojo-app.com",
+      "description": "",
+      "one_liner": "Mobile app for creating pro-quality social media videos",
+      "batch": "Winter 2018",
+      "status": "Acquired",
+      "team_size": 20,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "France",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Paris, \u00cele-de-France, France",
+      "tags": [
+        "Consumer",
+        "B2B",
+        "Design Tools",
+        "Video",
+        "Subscriptions"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1510196655.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab15fdb2009046919edffcb203ca318de5911113.png"
+    },
+    {
       "id": 1830,
       "name": "Dataform",
       "slug": "dataform",
@@ -4928,5 +4928,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-05-27T06:01:23.118981"
+  "fetched_at": "2025-05-27T12:01:42.873902"
 }

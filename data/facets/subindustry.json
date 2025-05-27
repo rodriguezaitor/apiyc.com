@@ -17,8 +17,8 @@
     "B2B -> Sales": 117,
     "B2B -> Finance and Accounting": 115,
     "Healthcare -> Consumer Health and Wellness": 115,
+    "Consumer -> Content": 110,
     "Healthcare -> Healthcare IT": 110,
-    "Consumer -> Content": 109,
     "Consumer": 107,
     "B2B -> Security": 100,
     "Consumer -> Food and Beverage": 96,
@@ -52,12 +52,12 @@
     "Industrials -> Agriculture": 28,
     "Consumer -> Transportation Services": 27,
     "B2B -> Office Management": 25,
-    "Consumer -> Virtual and Augmented Reality": 23,
+    "Consumer -> Virtual and Augmented Reality": 22,
     "Real Estate and Construction": 21,
     "Industrials -> Automotive": 19,
     "Industrials -> Drones": 17,
     "Consumer -> Job and Career Services": 16,
     "Industrials": 15
   },
-  "fetched_at": "2025-05-27T06:01:23.915215"
+  "fetched_at": "2025-05-27T12:01:49.982333"
 }
