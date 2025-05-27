@@ -22,7 +22,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739827651.0,
@@ -265,7 +265,7 @@
       "name": "ThirdLayer",
       "slug": "thirdlayer",
       "website": "https://thirdlayer.inc",
-      "description": "ThirdLayer is an applied research and product lab building the next interface for human-AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks\u2014you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps\u2014these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
+      "description": "ThirdLayer is an applied research and product lab building the next interface for human\u2013AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy\u2014spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent \u2014 it\u2019s a foundation for:\r\n\r\n- Long-term, cross-modal memory grounded in real workflows\r\n\r\n- A new interaction layer to replace static UI with a collaborative canvas \r\n\r\n- Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.\r\n\r\n",
       "one_liner": "Building Dex, the AI Browser Copilot",
       "batch": "Winter 2025",
       "status": "Active",
@@ -5302,5 +5302,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-05-27T12:01:42.595998"
+  "fetched_at": "2025-05-27T18:01:34.437006"
 }

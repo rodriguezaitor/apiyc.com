@@ -1380,8 +1380,8 @@
       "name": "Vassar Robotics",
       "slug": "vassar-robotics",
       "website": "https://www.vassarrobotics.com",
-      "description": "",
-      "one_liner": "Adaptive Automation That's Useful Today",
+      "description": "We\u2019re unlocking cutting-edge robot AI for the nerd in your life. Our hardware and software let them teach robots skills like playing chess in just a few hours\u2014no robotics PhD required.",
+      "one_liner": "Unlocking Cutting-Edge Robot AI for the Nerd in Your Life",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1407,6 +1407,37 @@
       "is_top_company": false,
       "launched_at": 1745005061.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png"
+    },
+    {
+      "id": 30508,
+      "name": "Sygaldry Technologies",
+      "slug": "sygaldry-technologies",
+      "website": "https://www.sygaldry.com",
+      "description": "We\u2019re building quantum-accelerated AI servers so organizations building AI can exponentially speed up training and inference. And we\u2019re making tools for AI researchers to integrate quantum capabilities into AI models and workflows. \r\n",
+      "one_liner": "quantum-accelerated AI hardware.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": null,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Hard Tech",
+        "Quantum Computing",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748361107.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d02ac12a4120fdef0e7944b90606a7333b87bb8f.png"
     },
     {
       "id": 30507,
@@ -2418,8 +2449,8 @@
       "name": "VoiceOS",
       "slug": "voiceos",
       "website": "https://voiceos.com",
-      "description": "Hiring at scale is broken. \r\n\r\nOur solution: AI voice agents that instantly interview every applicant \u2014 holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent\u2019s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise \u2014 we\u2019re poised to make it the new global standard for conversational hiring.",
-      "one_liner": "Automates screenings to streamline volume hiring",
+      "description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant \u2014 holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent\u2019s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise \u2014 we\u2019re poised to make it the new global standard for conversational hiring.",
+      "one_liner": "Voice AI for Enterprise Hiring",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -2925,7 +2956,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "SaaS"
+        "SaaS",
+        "Sales",
+        "Supply Chain",
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4409,5 +4443,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-27T12:01:43.159728"
+  "fetched_at": "2025-05-27T18:01:35.033428"
 }
