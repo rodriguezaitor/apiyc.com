@@ -103,8 +103,8 @@
     },
     {
       "id": 30560,
-      "name": "SAVA Robotics",
-      "slug": "sava-robotics",
+      "name": "SAVA",
+      "slug": "sava",
       "website": "https://www.savarobotics.com",
       "description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics and Zipline - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
       "one_liner": "Sheet Metal Super Factory",
@@ -132,7 +132,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746512449.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfd3f761dfc0fcff51a0650948673bd04f8702b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee2e9cd5e80fd86d9eb6531e8aa3154bb61a0585.png"
     },
     {
       "id": 30559,
@@ -840,6 +840,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png"
     },
     {
+      "id": 30532,
+      "name": "Nimbic AI",
+      "slug": "nimbic-ai",
+      "website": "https://nimbic-ai.com",
+      "description": "",
+      "one_liner": "Automatically write and update internal docs with every code commit.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748402935.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png"
+    },
+    {
       "id": 30531,
       "name": "Moby Analytics",
       "slug": "moby-analytics",
@@ -876,7 +907,7 @@
       "name": "Rimba",
       "slug": "rimba",
       "website": "https://rimba.ai",
-      "description": "Rimba is a vertical SaaS platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80 % cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
+      "description": "Rimba is building the AI-native operating system for industrial compliance\u2014replacing legacy giants like SAP. As industrial companies face mounting regulatory complexity, legacy ERP and compliance systems fail to keep up. \r\nWe're building a vertical platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80% cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
       "one_liner": "AI for Energy & Industrial Compliance",
       "batch": "Spring 2025",
       "status": "Active",
@@ -895,9 +926,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2315,7 +2346,7 @@
       "name": "Photonium",
       "slug": "photonium",
       "website": "https://www.photoniumoptics.com/",
-      "description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow\u2014from optimization and verification to sourcing\u2014for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology.",
+      "description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow\u2014from optimization and verification to sourcing\u2014for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology for semiconductor fabrication.",
       "one_liner": "AI-driven optical design automation",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2649,7 +2680,7 @@
       "name": "operative.sh",
       "slug": "operative-sh",
       "website": "https://operative.sh/",
-      "description": "Operative provides the runtime intelligence for coding agents to test changes via browser agents. We connect into coding agents such as Cursor, Windsurf, Cline and others via MCP, and support vibe-coders on the web with operative create.",
+      "description": "Operative uses AI to build web apps that are, well, operative! With the best in-app debugging tools, the operative agent can not only code up your site, but test it too. Try in web or download operative MCP for Cursor.",
       "one_liner": "Web application code generation with debugging tools built in",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3207,8 +3238,8 @@
       "name": "Kaelio",
       "slug": "kaelio",
       "website": "https://kaelio.com/",
-      "description": "Kaelio is building an analytics copilot for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI copilot that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
-      "one_liner": "Analytics copilot for healthcare organizations",
+      "description": "Kaelio is building analytics agents for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI agent that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
+      "one_liner": "AI analytics for healthcare organizations",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3224,10 +3255,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Healthcare",
         "Health Insurance",
-        "Healthcare IT",
-        "AI"
+        "Healthcare IT"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4386,8 +4417,8 @@
       "name": "Tropir",
       "slug": "tropir",
       "website": "https://www.tropir.com/",
-      "description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke\u2014a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the information flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-      "one_liner": "Traceback why your AI failed",
+      "description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don\u2019t just trace where your pipeline broke\u2014we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+      "one_liner": "The AI that builds better AIs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4402,9 +4433,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4510,5 +4541,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-28T00:03:03.519879"
+  "fetched_at": "2025-05-28T06:01:28.390355"
 }
