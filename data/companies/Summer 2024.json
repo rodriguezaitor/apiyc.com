@@ -1177,11 +1177,11 @@
       "name": "Diode Computers, Inc.",
       "slug": "diode-computers-inc",
       "website": "https://diode.computer",
-      "description": "Diode automates hardware design, like hiring a senior electronic engineer for your projects. We use generative AI models to create and manufacture custom printed circuit boards in minutes, not weeks.",
+      "description": "Diode automates circuit board design. We work with hardware companies to get them the PCBs they need, fast.",
       "one_liner": "Automate circuit board design using AI",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -1189,10 +1189,15 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Hardware",
+        "Manufacturing",
+        "Electronics"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -8298,5 +8303,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-28T12:01:46.893297"
+  "fetched_at": "2025-05-28T18:01:05.969335"
 }

@@ -4153,6 +4153,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fef90b2fedf3b6bcd07d770648c6074b9717d2a0.png"
     },
     {
+      "id": 30402,
+      "name": "Kashikoi",
+      "slug": "kashikoi",
+      "website": "https://www.getkashikoi.com",
+      "description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
+      "one_liner": "Simulation engine for benchmarking AI agents",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Generative AI",
+        "Machine Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748454120.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b53ea02cadc039e2f1da3a4ff49737fadde2b66.png"
+    },
+    {
       "id": 30400,
       "name": "Plexe",
       "slug": "plexe",
@@ -4541,5 +4574,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-28T12:01:47.341424"
+  "fetched_at": "2025-05-28T18:01:08.231034"
 }
