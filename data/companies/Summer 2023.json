@@ -720,11 +720,11 @@
     },
     {
       "id": 29118,
-      "name": "Structured Labs",
-      "slug": "structured-labs",
-      "website": "https://www.structuredlabs.com/",
-      "description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
-      "one_liner": "Build data apps with AI",
+      "name": "Preswald",
+      "slug": "preswald",
+      "website": "https://www.preswald.com/",
+      "description": "Preswald is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
+      "one_liner": "Build interactive data apps with AI",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 5,
@@ -740,11 +740,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Analytics",
         "Open Source",
-        "Data Visualization"
+        "Data Visualization",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2659,7 +2659,7 @@
         "Edtech"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1686701426.0,
@@ -7323,5 +7323,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-05-27T18:01:33.251638"
+  "fetched_at": "2025-05-28T00:03:01.765932"
 }

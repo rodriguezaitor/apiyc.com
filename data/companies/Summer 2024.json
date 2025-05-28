@@ -1189,16 +1189,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Generative AI",
-        "SaaS",
-        "Manufacturing",
-        "Electronics"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -7450,7 +7444,7 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "Corporate initiatives fail at the frontline because nobody can track execution or measure employee performance in real time. Cheers closes this last-mile gap. Our NFC badges let customers leave a review, download an app, join a loyalty program, tip, or refer with a single tap, automatically tying every action to the employee who earned it. The result is the first real-time performance dataset for frontline workers. \r\n\r\nManagers see exactly who drives results, which programs convert, and where to coach. Vivint Smart Home used Cheers to capture 16,000+ five-star Google reviews in two months and raised its local Google ratings from ~2.0 to ~4.9 stars. Cheers is turning millions of frontline interactions into actionable data and becoming the intelligence layer of the frontline economy.",
+      "description": "Most corporate initiatives stall at the frontline because companies lack real-time visibility into execution and employee performance. Without clear insights, it's impossible to know what's working, who\u2019s driving results, or where improvement is needed. Cheers closes this last-mile gap. Our NFC badges let customers leave a review, download an app, join a loyalty program, tip, or refer with a single tap, automatically tying every action to the employee who earned it. The result is the first real-time performance dataset for frontline workers.\r\n\r\nManagers see exactly who drives results, which programs convert, and where to coach. Vivint Smart Home used Cheers to capture 16,000+ five-star Google reviews in two months and raised its local Google ratings from ~2.0 to ~4.9 stars. Cheers is turning millions of frontline interactions into actionable data and becoming the intelligence layer of the frontline economy.",
       "one_liner": "Datadog for frontline employees",
       "batch": "Summer 2024",
       "status": "Active",
@@ -7466,9 +7460,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
         "Feedback",
+        "AI",
         "Reviews"
       ],
       "stage": "Early",
@@ -8304,5 +8298,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-27T18:01:32.331661"
+  "fetched_at": "2025-05-28T00:03:00.766220"
 }

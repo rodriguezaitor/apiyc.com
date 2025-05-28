@@ -1906,7 +1906,7 @@
       "locations": "Remote",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": true,
       "is_top_company": false,
       "launched_at": 1648132243.0,
@@ -8848,7 +8848,7 @@
         "Customer Support"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1645918305.0,
@@ -13815,5 +13815,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-05-27T18:01:30.598921"
+  "fetched_at": "2025-05-28T00:02:58.941710"
 }

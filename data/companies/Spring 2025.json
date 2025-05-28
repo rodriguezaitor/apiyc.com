@@ -2311,6 +2311,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2328f04b2a69a293a3f3a79d7e648159242574.png"
     },
     {
+      "id": 30465,
+      "name": "Photonium",
+      "slug": "photonium",
+      "website": "https://www.photoniumoptics.com/",
+      "description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow\u2014from optimization and verification to sourcing\u2014for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology.",
+      "one_liner": "AI-driven optical design automation",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Hard Tech",
+        "Lidar",
+        "Quantum Computing",
+        "Semiconductors",
+        "Biotechnology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748388578.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff2fd0b8e2a6e3d9320055214a0e22da17a8b8e.png"
+    },
+    {
       "id": 30464,
       "name": "Sixtyfour",
       "slug": "sixtyfour",
@@ -2615,7 +2650,7 @@
       "slug": "operative-sh",
       "website": "https://operative.sh/",
       "description": "Operative provides the runtime intelligence for coding agents to test changes via browser agents. We connect into coding agents such as Cursor, Windsurf, Cline and others via MCP, and support vibe-coders on the web with operative create.",
-      "one_liner": "Browser agent tools to test web apps from within coding agents",
+      "one_liner": "Web application code generation with debugging tools built in",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3272,8 +3307,8 @@
       "name": "The Robot Learning Company",
       "slug": "the-robot-learning-company",
       "website": "https://www.robot-learning.co/",
-      "description": "The Robot Learning Company empowers engineers to build their own intelligent robot applications, no matter their skillset or experience.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
-      "one_liner": "API to the Physical World",
+      "description": "TRLC allows any software engineer to build their own intelligent robot applications.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
+      "one_liner": "Software Platform for AI-powered Robotics",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -3562,6 +3597,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b44e1fc178c097389ce6520bba94bf26d79a57c1.png"
     },
     {
+      "id": 30423,
+      "name": "neoncoral",
+      "slug": "neoncoral",
+      "website": "http://neoncoral.inc",
+      "description": "Brewing the next AI generated consumer video platform...",
+      "one_liner": "AI consumer social ",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Consumer",
+        "Social Media",
+        "Social",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748371593.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/36f438e6b8799c126e63ad2bfeefaf55ae7bf179.png"
+    },
+    {
       "id": 30422,
       "name": "Galen AI",
       "slug": "galen-ai",
@@ -3777,9 +3844,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4443,5 +4510,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-27T18:01:35.033428"
+  "fetched_at": "2025-05-28T00:03:03.519879"
 }
