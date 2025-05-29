@@ -1844,11 +1844,11 @@
       "name": "autarc",
       "slug": "autarc",
       "website": "https://www.autarc.energy/en",
-      "description": "With autarc we are building the OS for Europe's One-Stop Energy Installers. We are live with 400 customers and an ARR of $1.4 million.\r\n\r\nThe problem: Energy installers are eager to expand their deployment of heat pump and photovoltaic systems, yet they are constrained by inefficient sales, planning, and installation processes.\r\n\r\nThe solution: Our B2B software integrates CRM, planning, and design tools into a unified platform. This enables SMB installers to drastically cut down the pre-installation phase of home energy projects\u2014from several weeks to just minutes. By leveraging LiDAR for spatial analysis, computer vision for automated assessment, and AI for system recommendations, we streamline the entire workflow. This results in a time reduction of up to 90%, enabling installers to confidently transition to and scale up sustainable home energy solutions.",
+      "description": "With autarc we are building the OS for Europe's One-Stop Energy Installers.\r\n\r\nThe problem: Energy installers are eager to expand their deployment of heat pump and photovoltaic systems, yet they are constrained by inefficient sales, planning, and installation processes.\r\n\r\nThe solution: Our B2B software integrates CRM, planning, and design tools into a unified platform. This enables SMB installers to drastically cut down the pre-installation phase of home energy projects\u2014from several weeks to just minutes. By leveraging LiDAR for spatial analysis, computer vision for automated assessment, and AI for system recommendations, we streamline the entire workflow. This results in a time reduction of up to 90%, enabling installers to confidently transition to and scale up sustainable home energy solutions.",
       "one_liner": "autarc is the OS for Europe's One-Stop Energy Installers",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1862,11 +1862,11 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Lidar",
         "Computer Vision",
         "B2B",
-        "Climate"
+        "Climate",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8304,5 +8304,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-29T06:01:30.316717"
+  "fetched_at": "2025-05-29T12:01:34.497597"
 }
