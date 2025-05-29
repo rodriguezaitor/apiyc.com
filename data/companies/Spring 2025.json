@@ -1542,6 +1542,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png"
     },
     {
+      "id": 30504,
+      "name": "Third Chair",
+      "slug": "third-chair",
+      "website": "https://usethirdchair.com",
+      "description": "We\u2019re building agents for in-house legal teams, starting with media/entertainment. Our customers use Third Chair to discover IP infringements, collect evidence, and recover millions of dollars in damages.",
+      "one_liner": "Agents for in-house legal teams",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Entertainment",
+        "Legal",
+        "Music"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748486427.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/18cebff9bcd74859dde2e614ddfdcdaf32c2ffb3.png"
+    },
+    {
       "id": 30503,
       "name": "Vesence",
       "slug": "vesence",
@@ -1742,7 +1777,7 @@
       "id": 30492,
       "name": "Prism AI",
       "slug": "prism-ai",
-      "website": "https://prismreplay.com",
+      "website": "https://prismreplay.com/",
       "description": "",
       "one_liner": "AI that watches session replays and tells developers what to fix",
       "batch": "Spring 2025",
@@ -1871,6 +1906,37 @@
       "is_top_company": false,
       "launched_at": 1746417759.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/08d53e0e1d5ae814a7eb6f975ac81736e6a9beb7.png"
+    },
+    {
+      "id": 30485,
+      "name": "Cleon",
+      "slug": "cleon",
+      "website": "https://getcleon.ai",
+      "description": "Cleon reduces B2B implementation time. Our AI platform takes over manual coordination tasks, giving implementation teams clear visibility into every software implementation.",
+      "one_liner": "End-to-end AI software implementation platform",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Generative AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748491833.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c894808b66b4f54f3f7cd4001a8074d7a42f198f.png"
     },
     {
       "id": 30484,
@@ -2517,7 +2583,7 @@
       "slug": "voiceos",
       "website": "https://voiceos.com",
       "description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant \u2014 holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent\u2019s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise \u2014 we\u2019re poised to make it the new global standard for conversational hiring.",
-      "one_liner": "Realtime Interviews for Enterprise Hiring",
+      "one_liner": "Scaling Interviews for Enterprise Hiring",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -4224,8 +4290,8 @@
       "name": "Plexe",
       "slug": "plexe",
       "website": "https://plexe.ai",
-      "description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-      "one_liner": "Build predictive ML models from a prompt",
+      "description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
+      "one_liner": "Open-source agents to build predictive ML models from a prompt",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4608,5 +4674,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-29T00:02:59.587587"
+  "fetched_at": "2025-05-29T06:01:33.821197"
 }
