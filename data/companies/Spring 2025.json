@@ -1200,9 +1200,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Logistics"
+        "Logistics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1546,7 +1546,7 @@
       "name": "Third Chair",
       "slug": "third-chair",
       "website": "https://usethirdchair.com",
-      "description": "We\u2019re building agents for in-house legal teams, starting with media/entertainment. Our customers use Third Chair to discover IP infringements, collect evidence, and recover millions of dollars in damages.",
+      "description": "We\u2019re building agents for in-house legal teams, starting with media/entertainment. \r\n\r\nOur customers use Third Chair to discover IP infringements, collect evidence, and recover millions of dollars in damages.\r\n\r\nAI will enable the first one-person unicorn. Third Chair will be their legal team. ",
       "one_liner": "Agents for in-house legal teams",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1563,11 +1563,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Entertainment",
         "Legal",
-        "Music"
+        "Music",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4649,8 +4649,8 @@
       "name": "Leeroo",
       "slug": "leeroo",
       "website": "https://www.leeroo.com/",
-      "description": "Leeroo develops trainable deep agents. They are \"deep\" because they perform complex reasoning and dynamic information integration during inference, and \"trainable\" because they continuously adapt through user feedback\u2014capturing subtle nuances and personalized requirements unique to each task and domain.\r\n",
-      "one_liner": "Trainable Deep Agents",
+      "description": "Leeroo delivers trainable AI agents that learn much like human colleagues\u2014 from knowledge bases, human feedback, and even their own past experiences. That continuous learning bridges the gap between generic AI and the expert performance companies need. We\u2019re starting with agents for data- and AI-teams.",
+      "one_liner": "Trainable AI Agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -4664,15 +4664,17 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Data Science",
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1732293207.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-05-29T12:01:38.098753"
+  "fetched_at": "2025-05-29T18:01:28.798672"
 }

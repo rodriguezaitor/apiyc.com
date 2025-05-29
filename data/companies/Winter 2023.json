@@ -3875,19 +3875,19 @@
     },
     {
       "id": 27935,
-      "name": "FiddleCube",
-      "slug": "fiddlecube",
-      "website": "https://fiddlecube.ai/",
-      "description": "FiddleCube's AI agent helps teams build safe, enterprise-ready Gen AI systems. FiddleCube generates the most comprehensive and up-to-date set of adversarial tests for red-teaming, ensuring safety and compliance with laws across the EU, USCAN, and MENA countries.",
-      "one_liner": "Build safe, enterprise-ready Gen AI systems",
+      "name": "compliant-llm (fka FiddleCube)",
+      "slug": "compliant-llm-fka-fiddlecube",
+      "website": "https://www.compliantllm.com/",
+      "description": "Compliant LLM is a comprehensive toolkit for ensuring the compliance and security of AI systems.\r\n\r\nInfosec, compliance, and gen AI teams use compliant-llm to ensure that their AI agents are secure and compliant with internal policies and frameworks like NIST, ISO, HIPAA, GDPR, etc.\r\n\r\nIt supports multiple LLM providers and can be used to test prompts, agents, MCP servers, and GenAI models.",
+      "one_liner": "Build Secure and Compliant AI agents and MCP Servers",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
-        "Infrastructure"
+        "Security"
       ],
       "regions": [
         "United States of America",
@@ -3895,18 +3895,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
         "Generative AI",
-        "Data Science",
-        "Data Labeling",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690346092.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fb2ae6f476fb244457c0798bb0fc47f11be99bb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e836589affa3183241d8a3c3f2914bb8dc44d2a8.png"
     },
     {
       "id": 27928,
@@ -9358,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-29T12:01:33.566295"
+  "fetched_at": "2025-05-29T18:01:28.287681"
 }
