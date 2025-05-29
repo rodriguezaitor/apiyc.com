@@ -6449,8 +6449,8 @@
       "name": "Pledge Health",
       "slug": "pledge-health",
       "website": "https://www.pledge.health/",
-      "description": "Pledge automates patient billing for independent healthcare clinics. We estimate how much insurance will cover for each visit, so clinics can charge patients at the time of service, rather than waiting weeks for insurance to process.",
-      "one_liner": "Automated patient billing for independent healthcare clinics",
+      "description": "Our AI browser assistant automates insurance tasks like verifying benefits, submitting prior auths, checking claim statuses, and more across all payer portals, directly from the clinic's EHR. It does exactly what the admin team is doing today, just helps them do it 10x faster and as thoroughly as a seasoned teammate.",
+      "one_liner": "AI RCM assistant that handles any insurance task on payer portals for\u2026",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 2,
@@ -6466,7 +6466,6 @@
       ],
       "locations": "",
       "tags": [
-        "Fintech",
         "SaaS",
         "Health Tech",
         "B2B",
@@ -7142,8 +7141,8 @@
       "name": "Lume",
       "slug": "lume-2",
       "website": "https://www.lume.ai",
-      "description": "Lume automates data mapping using AI. Lume helps teams ingest client data, normalize data from different sources, and create one to many integrations, automatically.",
-      "one_liner": "Automate data mapping using AI",
+      "description": "Lume speeds up customer implementation with AI. Lume helps teams analyze, map, and ingest customer data up to 87% faster, accelerating time-to-revenue.",
+      "one_liner": "Speed up customer implementation with AI",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 5,
@@ -7158,11 +7157,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Data Engineering",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -9359,5 +9358,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-28T18:01:05.385241"
+  "fetched_at": "2025-05-29T00:02:59.096296"
 }

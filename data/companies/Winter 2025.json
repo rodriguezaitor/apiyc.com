@@ -642,7 +642,7 @@
       "name": "Paratus Health",
       "slug": "paratus-health",
       "website": "https://paratushealth.com/",
-      "description": "Paratus Health began as an AI voice intake nurse that automates pre-appointment patient interviews, saving doctors time and improving clinical accuracy. By conducting dynamic symptom assessments before the visit, it generates structured summaries that help doctors walk in prepared, reducing missed diagnoses and boosting clinic efficiency. Now, we're expanding the platform into AI agents for end-to-end care delivery, automating the most costly and repetitive manual labor across the patient journey. From intake to post-visit follow-up, Paratus Health transforms wasted time into better care, higher ROI, and a scalable solution for modern healthcare.",
+      "description": "Paratus Health is the AI operations layer for outpatient clinics. We build autonomous agents that don\u2019t just assist staff - they replace them, fully handling front desk calls, patient intake, insurance verification, documentation, and billing prep. Everything is deeply integrated into EHRs like Epic and Athena, eliminating the need for fragmented tools and manual work.\r\nNo toggling between systems. No busywork. Just one intelligent system running your clinical operations - faster, smarter, and more profitably than ever before.",
       "one_liner": "AI-powered intake nurse",
       "batch": "Winter 2025",
       "status": "Active",
@@ -656,7 +656,11 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Digital Health",
+        "Healthcare IT",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4495,11 +4499,11 @@
     },
     {
       "id": 30193,
-      "name": "Guse",
-      "slug": "guse",
-      "website": "https://www.guse.io/",
-      "description": "Prompt to automation",
-      "one_liner": "Prompt to automation",
+      "name": "Orchids",
+      "slug": "orchids",
+      "website": "https://www.orchids.app/",
+      "description": "Make a beautiful website with just natural language. No code, no drag-and-drop, just prompt.",
+      "one_liner": "Make a beautiful website with just natural language",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -4509,21 +4513,21 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI",
-        "AI Assistant"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737490708.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dcf2376b464fd50045959dc6a710b37dfb75ab2.png"
     },
     {
       "id": 30192,
@@ -5302,5 +5306,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-05-28T18:01:07.773685"
+  "fetched_at": "2025-05-29T00:02:59.517283"
 }

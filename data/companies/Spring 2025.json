@@ -69,39 +69,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa849f70a991d46ed789deab2ddee170d952bc14.png"
     },
     {
-      "id": 30561,
-      "name": "Daxa",
-      "slug": "daxa",
-      "website": "https://www.getdaxa.com/",
-      "description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time \u2014 helping you pinpoint application issues before users churn and plan features that maximize conversion. Oftentimes, issues in your product don't make it to a support ticket until dozens of users have experienced it first. Daxa helps you combat this problem by watching users interact directly with your product and notifying you in real time via Slack or email if any issues or interesting phenomenon arise (dropoff on certain pages, features not performing as expected, etc)",
-      "one_liner": "Boost revenue and retention with an AI PM",
-      "batch": "Spring 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "Analytics",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1744274885.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png"
-    },
-    {
       "id": 30560,
       "name": "SAVA",
       "slug": "sava",
@@ -1178,6 +1145,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcf73573dccf318ed1596f35ee2d75c694aefda.png"
     },
     {
+      "id": 30521,
+      "name": "Janus",
+      "slug": "janus",
+      "website": "https://www.withjanus.com/",
+      "description": "Janus tests conversational AI Agents for hallucinations, rule violations, tool call failures, and performance breakdowns pre-launch. We do this by simulating thousands of realistic AI users to eliminate manual testing and low-confidence in AI deployment. \r\n\r\nOur platform generates personalized datasets for custom evals and continuous model improvement.",
+      "one_liner": "Battle-Test AI Agents with Human Simulation",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Developer Tools",
+        "Monitoring",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748466933.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b44f7b050ecc3ee1451baeb4e0a733b19937955.png"
+    },
+    {
       "id": 30519,
       "name": "Hemut",
       "slug": "hemut",
@@ -1545,7 +1546,7 @@
       "name": "Vesence",
       "slug": "vesence",
       "website": "https://vesence.com",
-      "description": "Launched in February, and we\u2019ve already rolled out the product firm-wide with our first enterprise customer. Focus on Transactional Law Firms.",
+      "description": "Vesence is building Cursor for Lawyers.\r\n\r\nAlready rolled out firm-wide with a first major law firm. We launched in February.\r\n\r\nImagine programming in Apple Notes. No linting, no cursor, you are on your own. That is how it is for many lawyers to draft and review contracts in Microsoft Word. We are here to change that.",
       "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2516,7 +2517,7 @@
       "slug": "voiceos",
       "website": "https://voiceos.com",
       "description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant \u2014 holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent\u2019s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise \u2014 we\u2019re poised to make it the new global standard for conversational hiring.",
-      "one_liner": "Voice AI for Enterprise Hiring",
+      "one_liner": "Realtime Interviews for Enterprise Hiring",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -2611,6 +2612,39 @@
       "is_top_company": false,
       "launched_at": 1746772622.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png"
+    },
+    {
+      "id": 30457,
+      "name": "Trapeze",
+      "slug": "trapeze",
+      "website": "https://www.trapezehealth.com",
+      "description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we\u2019ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how consumers and clinics get scheduled and connect.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
+      "one_liner": "AI scheduling agents for healthcare",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": null,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Scheduling"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748462955.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/899619e92df1f3c424bc3715e6b996ecc554d4a1.png"
     },
     {
       "id": 30456,
@@ -2808,7 +2842,7 @@
       "slug": "kestral",
       "website": "https://kestral.team",
       "description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
-      "one_liner": "AI Work Prioritizer that connects customer impact to your work",
+      "one_liner": "AI Agents that prioritize the highest impact work across Sales and R&D",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3072,7 +3106,7 @@
       "slug": "youlearn",
       "website": "https://www.youlearn.ai/",
       "description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we\u2019ve grown from $1K to $70K MRR, and over 150,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we\u2019re building the one you\u2019ll never want to skip class on.",
-      "one_liner": "An AI tutor personalized to each student. ",
+      "one_liner": "AI tutor for each student. ",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -3088,9 +3122,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Education",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3440,7 +3474,7 @@
       "slug": "almond-2",
       "website": "https://almondbot.com/",
       "description": "Almond is building a vision-based AI robot for high-mix pick & place automation. We provide a fully-integrated robot-as-a-service that helps manufacturers save money and increase their revenue.",
-      "one_liner": "AI robots for high-mix pick & place automation",
+      "one_liner": "AI robots for factory automation",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4574,5 +4608,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png"
     }
   ],
-  "fetched_at": "2025-05-28T18:01:08.231034"
+  "fetched_at": "2025-05-29T00:02:59.587587"
 }
