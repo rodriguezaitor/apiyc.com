@@ -2184,42 +2184,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67947093536f80ec72184b51287e3a58f8211696.png"
     },
     {
-      "id": 28074,
-      "name": "Keep",
-      "slug": "keep",
-      "website": "https://www.keephq.dev",
-      "description": "Keep is an open-source AIOps platform. Keep acts as a single pane of glass to all your alerts from any monitoring tool and helps you turn 1000s into just 10s of meaningful alerts.\r\n\r\nKeep joined forces with Elastic on May 2025.",
-      "one_liner": "The open-source AIOps platform",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Israel",
-        "Middle East and North Africa",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Open Source",
-        "Monitoring"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1674164403.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca57c15ee63fa6b716d10d0f8f29a5e1732f44e4.png"
-    },
-    {
       "id": 28073,
       "name": "PlayHT",
       "slug": "playht",
@@ -8332,6 +8296,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/94a18b5c0cc3a340150d731fa97acee3a6a56ebd.png"
     },
     {
+      "id": 28074,
+      "name": "Keep",
+      "slug": "keep",
+      "website": "https://www.keephq.dev",
+      "description": "Keep is an open-source AIOps platform. Keep acts as a single pane of glass to all your alerts from any monitoring tool and helps you turn 1000s into just 10s of meaningful alerts.\r\n\r\nKeep joined forces with Elastic on May 2025.",
+      "one_liner": "The open-source AIOps platform",
+      "batch": "Winter 2023",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Israel",
+        "Middle East and North Africa",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Open Source",
+        "Monitoring"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1674164403.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca57c15ee63fa6b716d10d0f8f29a5e1732f44e4.png"
+    },
+    {
       "id": 27945,
       "name": "Fairway Health",
       "slug": "fairway-health",
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-05-29T18:01:28.287681"
+  "fetched_at": "2025-05-30T00:03:00.741299"
 }

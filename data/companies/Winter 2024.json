@@ -7312,10 +7312,10 @@
       "slug": "greptile",
       "website": "https://www.greptile.com",
       "description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
-      "one_liner": "AI expert on your codebase that you can query via an API",
+      "one_liner": "AI code reviewer with complete context of your codebase",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7337,7 +7337,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1695668492.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f71e2192666be11ddc0e606e5c3ac0d905c3b3fa.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b36d17df23b1b97acf8da329ffce929fa129ce.png"
     },
     {
       "id": 29207,
@@ -8303,5 +8303,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-05-29T18:01:28.339054"
+  "fetched_at": "2025-05-30T00:03:01.123110"
 }

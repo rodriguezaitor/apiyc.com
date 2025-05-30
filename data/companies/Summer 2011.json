@@ -935,34 +935,6 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
-      "id": 131,
-      "name": "Hungry Labs",
-      "slug": "hungry-labs",
-      "website": "http://hungrylabs.com",
-      "description": null,
-      "one_liner": "Now part of Snaplayer.",
-      "batch": "Summer 2011",
-      "status": "Acquired",
-      "team_size": 2,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Social",
-      "industries": [
-        "Consumer",
-        "Social"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1326789648.0,
-      "logo_url": "/company/thumb/missing.png"
-    },
-    {
       "id": 130,
       "name": "Automatic",
       "slug": "automatic",
@@ -1554,6 +1526,34 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
+      "id": 131,
+      "name": "Hungry Labs",
+      "slug": "hungry-labs",
+      "website": "http://hungrylabs.com",
+      "description": null,
+      "one_liner": "Now part of Snaplayer.",
+      "batch": "Summer 2011",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326789648.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
       "id": 128,
       "name": "Zeus",
       "slug": "zeus",
@@ -1930,5 +1930,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-05-29T18:01:29.258731"
+  "fetched_at": "2025-05-30T00:03:08.850397"
 }

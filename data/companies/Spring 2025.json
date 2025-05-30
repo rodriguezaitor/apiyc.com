@@ -1476,8 +1476,8 @@
       "name": "ParaQuery",
       "slug": "paraquery",
       "website": "https://paraquery.com",
-      "description": "ParaQuery is a fully-managed GPU-accelerated Spark solution providing double the performance at half the cost compared to solutions like Databricks and BigQuery. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in. ParaQuery makes it trivial to run large SQL and Spark workloads efficiently and serverlessly, without any data migrations.",
-      "one_liner": "Fully-managed Spark + SQL at 2x speed and half the cost",
+      "description": "ParaQuery is GPU-accelerated, fully-managed Spark + SQL at 4x efficiency. Customers are using ParaQuery to easily process petabyte-scale pipelines at 2x speed and half the cost. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in.",
+      "one_liner": "Managed GPU-accelerated Spark + SQL at 2x speed and half the cost",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -1607,6 +1607,41 @@
       "is_top_company": false,
       "launched_at": 1747133222.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png"
+    },
+    {
+      "id": 30502,
+      "name": "PowerMatrix",
+      "slug": "powermatrix",
+      "website": "https://pwrmatrix.com",
+      "description": "PowerMatrix provides the MOST efficient and compact next-generation high-performance power supplies for emerging technologies, such as GPUs, xPUs, AI server, datacenters, drones, EV, aerospace, etc. \r\n\r\nBased on patented circuit topology, embedded packaging, and novel magnetics, our power supply systems can reduce energy loss by up to 50%. \r\n\r\nWe have developed several prototypes and are collaborating with world-leading customers.",
+      "one_liner": "Next-generation efficient and compact power supply for AI computing",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe"
+      ],
+      "locations": "Cambridge, England, United Kingdom",
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Energy",
+        "Semiconductors",
+        "Electronics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748546232.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3151e6fee623bc4e7d2fd788b61365adf887f421.png"
     },
     {
       "id": 30501,
@@ -1912,7 +1947,7 @@
       "name": "Cleon",
       "slug": "cleon",
       "website": "https://getcleon.ai",
-      "description": "Cleon reduces B2B implementation time. Our AI platform takes over manual coordination tasks, giving implementation teams clear visibility into every software implementation.",
+      "description": "Cleon is building an AI-native software implementation platform to speed up customer onboarding, beginning with a focus on ingesting complex Excel files with agentic AI. \r\n\r\nB2B SaaS companies have millions of dollars of contracted revenue sitting behind implementations. Cleon handles everything from the big picture (generating requirements and aligning stakeholders) to the details (data cleaning and schema mapping). \r\n\r\nThe team consists of Alexandros (ex-athlete in rowing and engineer at a proptech startup), Rohan (engineer at a fintech startup with long implementations and at an SAP code migration startup), and Ric (banker at RBC and enterprise sales at Palantir).",
       "one_liner": "End-to-end AI software implementation platform",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1929,6 +1964,8 @@
       "locations": "New York, NY, USA",
       "tags": [
         "Generative AI",
+        "B2B",
+        "Enterprise Software",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4665,8 +4702,8 @@
       "locations": "",
       "tags": [
         "Artificial Intelligence",
-        "Data Science",
-        "Automation"
+        "Generative AI",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4676,5 +4713,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-05-29T18:01:28.798672"
+  "fetched_at": "2025-05-30T00:03:04.831023"
 }
