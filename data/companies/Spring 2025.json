@@ -1476,7 +1476,7 @@
       "name": "ParaQuery",
       "slug": "paraquery",
       "website": "https://paraquery.com",
-      "description": "ParaQuery is GPU-accelerated, fully-managed Spark + SQL at 4x efficiency. Customers are using ParaQuery to easily process petabyte-scale pipelines at 2x speed and half the cost. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in.",
+      "description": "ParaQuery is a fully-managed, GPU-accelerated Spark + SQL solution with 4x the efficiency of existing platforms. Our customers are using us to easily process petabyte-scale data pipelines at 2x speed and at half the cost. We deliver a cloud-agnostic experience with no data migration overhead, no vendor lock-in, and full Spark compatibility. The company is founded by Win Wang, formerly a tech lead at Twitter building high-efficiency massively-parallel distributed systems.",
       "one_liner": "Managed GPU-accelerated Spark + SQL at 2x speed and half the cost",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1619,7 +1619,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Industrials",
-      "subindustry": "Unspecified",
+      "subindustry": "Industrials -> Energy",
       "industries": [
         "Industrials",
         "Energy"
@@ -2848,7 +2848,7 @@
       "slug": "parsewise",
       "website": "https://parsewise.ai",
       "description": "Turn complex documents into validated information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
-      "one_liner": "Extract Validated Data from Complex Documents",
+      "one_liner": "Trusted Information Extraction for Business Users",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2858,13 +2858,14 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4282,7 +4283,7 @@
         "Monitoring"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746569409.0,
@@ -4712,5 +4713,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-05-30T18:01:05.192326"
+  "fetched_at": "2025-05-31T00:02:51.374136"
 }
