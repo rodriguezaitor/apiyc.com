@@ -455,10 +455,17 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "DevOps",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -3187,9 +3194,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Education",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3302,8 +3309,8 @@
       "name": "Clarm",
       "slug": "clarm",
       "website": "https://www.clarm.com",
-      "description": "Clarm is your AI deep research agent builder for high-trust environments. Our platform connects across 40+ enterprise integrations - CRMs, email, knowledge bases - and lets you build precise, repeatable workflows that transform how teams work without Compliance and Legal headaches.\r\n\r\nHere's what Clarm is powering today:\r\n\r\n- a law firm to find relevant information within the thousands of emails and documents\r\n- a bank to personalize communication and understand investment preferences on the level of each human\r\n- an asset manager to evaluate proxy voting preferences across 90,000 shareholder meetings\r\n- a luxury goods retailer to increase client response rate from 5% to 50% through deep personalization (as compared to standard Hubspot-generated marketing copy)\r\n- a top open source startup to increase engagement with their Github repo and knowledge base\r\n- a services firm to instantly answer '000s of client support questions, driving up engagement and turning curious prospects into committed customers",
-      "one_liner": "Zero hallucination AI Deep Research agents",
+      "description": "Clarm is your AI deep research agent builder for internal knowledge, particularly for high-trust environments. Our platform connects across 40+ enterprise integrations - CRMs, email, knowledge bases - and lets you build precise, repeatable workflows that transform how teams work without Compliance and Legal headaches.\r\n\r\nHere's what Clarm's customers and prospects are excited about:\r\n\r\n- a law firm to find relevant information within the thousands of emails and documents\r\n- a bank to personalize communication and understand investment preferences on the level of each human\r\n- an asset manager to evaluate proxy voting preferences across 90,000 shareholder meetings\r\n- a top open source startup to increase engagement with their Github repo and knowledge base\r\n- a services firm to instantly answer '000s of client support questions, driving up engagement and turning curious prospects into committed customers",
+      "one_liner": "Zero hallucination Enterprise Agent Builder",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4708,5 +4715,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-01T00:03:42.805870"
+  "fetched_at": "2025-06-01T06:01:15.537971"
 }
