@@ -455,17 +455,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747381971.0,
@@ -1948,7 +1943,7 @@
       "slug": "cleon",
       "website": "https://getcleon.ai",
       "description": "Cleon is building an AI-native software implementation platform to speed up customer onboarding, beginning with a focus on ingesting complex Excel files with agentic AI. \r\n\r\nB2B SaaS companies have millions of dollars of contracted revenue sitting behind implementations. Cleon handles everything from the big picture (generating requirements and aligning stakeholders) to the details (data cleaning and schema mapping). \r\n\r\nThe team consists of Alexandros (ex-athlete in rowing and engineer at a proptech startup), Rohan (engineer at a fintech startup with long implementations and at an SAP code migration startup), and Ric (banker at RBC and enterprise sales at Palantir).",
-      "one_liner": "End-to-end AI software implementation platform",
+      "one_liner": "AI Agents for Software Implementations",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -4587,7 +4582,7 @@
       "name": "Tropir",
       "slug": "tropir",
       "website": "https://www.tropir.com/",
-      "description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don\u2019t just trace where your pipeline broke\u2014we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+      "description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don\u2019t just trace where your pipeline broke\u2014we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
       "one_liner": "The AI that builds better AIs",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4603,9 +4598,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4713,5 +4708,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-05-31T18:01:22.093209"
+  "fetched_at": "2025-06-01T00:03:42.805870"
 }

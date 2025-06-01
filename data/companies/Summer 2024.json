@@ -2823,10 +2823,10 @@
     },
     {
       "id": 29786,
-      "name": "Sado",
-      "slug": "sado",
-      "website": "https://www.trysado.com",
-      "description": "Your army of AI coding agents at your fingertips.\r\n\r\nSado is a remote AI coding agent that can debug issues, implement features, draft designs, review pull requests, and more, in a remotely sandbox environment. Spin up one or multiple Sado agents at the same time, running in parallel with their own context, and watch your productivity skyrocket.\r\n\r\nFor more info, reach out to us at founders@palmier.io",
+      "name": "Palmier",
+      "slug": "palmier",
+      "website": "https://www.palmier.io",
+      "description": "Your army of AI coding agents at your fingertips.\r\n\r\nPalmier is a remote AI coding agent that can debug issues, implement features, draft designs, review pull requests, and more, in a remotely sandbox environment. Spin up one or multiple Palmier agents at the same time, running in parallel with their own context, and watch your productivity skyrocket.\r\n\r\nFor more info, reach out to us at founders@palmier.io",
       "one_liner": "Remote AI Coding Agent",
       "batch": "Summer 2024",
       "status": "Active",
@@ -2843,10 +2843,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8304,5 +8304,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-05-31T18:01:18.880127"
+  "fetched_at": "2025-06-01T00:03:41.657961"
 }
