@@ -309,8 +309,8 @@
       "name": "Blueshoe",
       "slug": "blueshoe",
       "website": "https://blueshoe.com",
-      "description": "Blueshoe puts law firm back office operations on autopilot starting with automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen back office infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
-      "one_liner": "The first AI worker for the legal back office.",
+      "description": "Blueshoe's AI workers put law firm back office operations on autopilot starting with automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen, AI-enabled managed service for professional practices that's reliable, transparent and free of human bottlenecks.",
+      "one_liner": "The AI-native legal back office",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1402,10 +1402,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2848,8 +2848,8 @@
     },
     {
       "id": 30454,
-      "name": "operative.sh",
-      "slug": "operative-sh",
+      "name": "Operative",
+      "slug": "operative",
       "website": "https://operative.sh/",
       "description": "Operative uses AI to build web apps that are, well, operative! With the best in-app debugging tools, the operative agent can not only code up your site, but test it too. Try in web or download operative MCP for Cursor.",
       "one_liner": "Web application code generation with debugging tools built in",
@@ -3342,8 +3342,8 @@
       "name": "Clarm",
       "slug": "clarm",
       "website": "https://www.clarm.com",
-      "description": "Clarm is your AI deep research agent builder for internal knowledge, particularly for high-trust environments. Our platform connects across 40+ enterprise integrations - CRMs, email, knowledge bases - and lets you build precise, repeatable workflows that transform how teams work without Compliance and Legal headaches.\r\n\r\nHere's what Clarm's customers and prospects are excited about:\r\n\r\n- a law firm to find relevant information within the thousands of emails and documents\r\n- a bank to personalize communication and understand investment preferences on the level of each human\r\n- an asset manager to evaluate proxy voting preferences across 90,000 shareholder meetings\r\n- a top open source startup to increase engagement with their Github repo and knowledge base\r\n- a services firm to instantly answer '000s of client support questions, driving up engagement and turning curious prospects into committed customers",
-      "one_liner": "Zero hallucination Enterprise Agent Builder",
+      "description": "Clarm is your AI-native search and agent builder on internal knowledge. Our platform is built on agentic search, connecting across 40+ enterprise integrations - CRMs, email, knowledge bases - letting you build precise, repeatable workflows.\r\n\r\nAgents often fail because their underlying context windows are mismatched, leading them to hallucinate. We built agentic search to ensure agents have all the context they need to operate fully autonomously.\r\n\r\nHere's what Clarm's paying customers use us for:\r\n\r\n- a blockchain company to provide an on-demand source of product truth in natural language, reducing alignment meetings by 90%\r\n- a financial services firm to supercharge their own product by integrating it with the target's enterprise knowledge\r\n- a top open source startup to increase engagement with their Github repo and knowledge base, turning repo visitors into contributors and customers\r\n- a healthcare firm to tailor '000s of client support questions with extremely high sensitivity, driving up engagement and turning prospects into committed customers",
+      "one_liner": "AI-native enterprise search & agent builder",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4523,7 +4523,7 @@
       "name": "Atlog",
       "slug": "atlog",
       "website": "https://atlog.ai",
-      "description": "We use voice agents to recover outstanding payments for in-house rental agreements. \r\n\r\nLong-term we will create a SMB ERP system.",
+      "description": "We use voice agents to conduct sales and recover outstanding payments for in-house furniture rental agreements. Currently, each store makes 200+ sales and collections calls per day. ",
       "one_liner": "Voice Agents for Furniture Retail",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4748,5 +4748,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-02T00:03:25.690350"
+  "fetched_at": "2025-06-02T06:01:44.010264"
 }
