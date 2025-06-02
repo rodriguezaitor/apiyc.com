@@ -842,37 +842,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png"
     },
     {
-      "id": 30532,
-      "name": "Nimbic AI",
-      "slug": "nimbic-ai",
-      "website": "https://nimbic-ai.com",
-      "description": "",
-      "one_liner": "Automatically write and update internal docs with every code commit.",
-      "batch": "Spring 2025",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "Unspecified",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1748402935.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png"
-    },
-    {
       "id": 30531,
       "name": "Moby Analytics",
       "slug": "moby-analytics",
@@ -1511,7 +1480,7 @@
       "name": "ParaQuery",
       "slug": "paraquery",
       "website": "https://paraquery.com",
-      "description": "ParaQuery is a fully-managed, GPU-accelerated Spark + SQL solution with 4x the efficiency of existing platforms. Our customers are using us to easily process petabyte-scale data pipelines at 2x speed and at half the cost. We deliver a cloud-agnostic experience with no data migration overhead, no vendor lock-in, and full Spark compatibility. The company is founded by Win Wang, formerly a tech lead at Twitter building high-efficiency massively-parallel distributed systems.",
+      "description": "ParaQuery is a fully-managed GPU-accelerated Spark solution providing double the performance at half the cost compared to solutions like Databricks and BigQuery. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in. ParaQuery makes it trivial to run large SQL and Spark workloads efficiently and serverlessly, without any data migrations.",
       "one_liner": "Managed GPU-accelerated Spark + SQL at 2x speed and half the cost",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4401,7 +4370,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "B2B",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -4748,5 +4717,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-02T12:01:42.606047"
+  "fetched_at": "2025-06-02T18:01:03.781822"
 }
