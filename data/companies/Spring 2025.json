@@ -580,7 +580,7 @@
       "slug": "linewise",
       "website": "https://www.linewise.io/",
       "description": "LineWise is building an AI assistant for manufacturing teams to get their line back up and running.\r\n\r\nWhen a line goes down, it can take hours to identify the problem. Engineers and technicians scramble, chasing PLC data and logs, flipping through manuals and troubleshooting guides, while production stalls.\r\n\r\nLineWise connects siloed data from PLCs, maintenance logs, and machine manuals to triage potential causes for the issue at hand. Once the issue is resolved, LineWise will remember everything for the next time and advocate preventative actions.",
-      "one_liner": "Troubleshoot factory line problems faster using AI",
+      "one_liner": "AI Engineer to troubleshoot production line issues",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 5,
@@ -2214,8 +2214,8 @@
       "name": "Morphik",
       "slug": "morphik",
       "website": "https://morphik.ai",
-      "description": "Morphik is an open-source multimodal end to end RAG service. Developers use Morphik to ingest any data, create knowledge graphs, and retrieve relevant information from private data.",
-      "one_liner": "Open-source RAG alternative for building AI apps over multimodal\u2026",
+      "description": "Morphik is an open-source AI knowledge management system. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
+      "one_liner": "Open-source Glean",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2231,8 +2231,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Open Source",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -3837,7 +3837,7 @@
       "slug": "galen-ai",
       "website": "https://www.galenai.com/",
       "description": "Galen is an AI-powered personal healthcare companion. We enable patients to securely connect their medical records from over 800 healthcare institutions across more than 12,000 locations in the United States, United Kingdom, and Canada. We also connect with over 20 popular wearable devices including Apple Watch, Fitbit, and Dexcom, bringing all your medical records and health data into one unified space. \r\n\r\nWe founded Galen because for over four years, Viraj struggled to navigate several conditions related to chronic low back pain. He often found himself waiting weeks for responses from his care team, received little guidance or education about new diagnoses, and was overwhelmed trying to manage overlapping conditions and medications.\r\n\r\nHis experiences are not unique. Our healthcare system is overloaded and fragmented, and often, patients are left to navigate their care on their own. Everyday there are nearly 1 billion health-related Google searches, but the responses to such queries are generic and impersonalized, because the searches lack any insight into a users personal health background.\r\n\r\nBy leveraging your own data and state-of-the art LLM memory capabilities, Galen delivers personalized insights, proactive health recommendations, and 24/7 on-demand medical support \u2014 empowering patients to be an active part of their health team. We are a consumer app in beta testing and will be available on the App Store soon!",
-      "one_liner": "AI agent for healthcare, powered by clinical and wearable data.",
+      "one_liner": "Personal AI healthcare agent, powered by clinical and wearable data.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4748,5 +4748,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-01T18:01:18.625744"
+  "fetched_at": "2025-06-02T00:03:25.690350"
 }
