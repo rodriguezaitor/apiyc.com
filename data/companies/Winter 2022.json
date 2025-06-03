@@ -485,7 +485,7 @@
         "Computer Vision"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1648154182.0,
@@ -2904,7 +2904,7 @@
       "id": 25954,
       "name": "Status",
       "slug": "status",
-      "website": "https://apps.apple.com/us/app/status-sims-but-social-media/id6596771144",
+      "website": "https://www.statusai.com/",
       "description": "Status allows users to live in immersive fantasy worlds through the familiar lens of social media.\r\n",
       "one_liner": "Sims but Social Media",
       "batch": "Winter 2022",
@@ -2924,9 +2924,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "Social"
+        "Social",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13815,5 +13815,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-06-02T18:01:01.784795"
+  "fetched_at": "2025-06-03T00:03:03.325456"
 }

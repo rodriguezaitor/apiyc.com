@@ -2826,7 +2826,7 @@
       "name": "Palmier",
       "slug": "palmier",
       "website": "https://www.palmier.io",
-      "description": "Your army of AI coding agents at your fingertips.\r\n\r\nPalmier is a remote AI coding agent that can debug issues, implement features, draft designs, review pull requests, and more, in a remotely sandbox environment. Spin up one or multiple Palmier agents at the same time, running in parallel with their own context, and watch your productivity skyrocket.\r\n\r\nFor more info, reach out to us at founders@palmier.io",
+      "description": "Your army of AI coding agents at your fingertips.\r\n\r\nPalmier is a remote AI coding agent that can debug issues, implement features, draft designs, review pull requests, and more, in a remote sandbox environment. Spin up one or multiple Palmier agents at the same time, running in parallel with their own context, and watch your productivity skyrocket.\r\n\r\nFor more info, reach out to us at founders@palmier.io",
       "one_liner": "Remote AI Coding Agent",
       "batch": "Summer 2024",
       "status": "Active",
@@ -2843,10 +2843,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4496,17 +4496,17 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Security",
-        "Privacy",
-        "AI"
+        "Privacy"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722269171.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/684d445454c310e4251363e84c9c9fc3f0320e84.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c287d41c131d5c10886a84c3cd7fd46b393f7af.png"
     },
     {
       "id": 29728,
@@ -6709,7 +6709,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722734654.0,
@@ -8304,5 +8304,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-02T18:01:02.585776"
+  "fetched_at": "2025-06-03T00:03:05.654089"
 }
