@@ -249,10 +249,12 @@
         "Content"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -4755,11 +4757,11 @@
     },
     {
       "id": 29341,
-      "name": "Markprompt",
-      "slug": "markprompt",
-      "website": "https://markprompt.com",
-      "description": "Close customer support tickets faster with AI.\r\n\r\nWe\u2019re building AI infrastructure to power customer support at scale. With Markprompt, companies can automate customer support, scale without increasing headcount, and deliver exceptional user experiences.\r\n \r\nScaling customer support with headcount is expensive, with human resources accounting for 90%+ of customer support expenses. On top of that, customer support agents often burn out leading to turnover and reduced quality. As companies grow, so does their expert knowledge, which is hard to access at scale and makes keeping employees up-to-date nearly impossible.\r\n\r\nMarkprompt addresses the root of the information access problem by indexing all available knowledge within a company, setting the foundation for a robust system of record to feed the AI. Built from the ground up with an API-first approach, Markprompt provides SDKs (such as React hooks and components) and no-code tools to enable integrations at all touchpoints in the customer journey.",
-      "one_liner": "AI for customer support",
+      "name": "14.ai",
+      "slug": "14-ai",
+      "website": "https://14.ai",
+      "description": "14.ai is a Zendesk alternative built from the ground up for AI agents. The Cursor for customer support.",
+      "one_liner": "Customer support for 1000x teams",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 3,
@@ -4775,10 +4777,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Customer Support",
         "Infrastructure",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4786,7 +4788,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1700867535.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93868cea387df28baae15a7e6d63968d4621e82d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png"
     },
     {
       "id": 29340,
@@ -8303,5 +8305,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-03T12:01:36.770919"
+  "fetched_at": "2025-06-03T18:01:10.056285"
 }
