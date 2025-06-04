@@ -1462,10 +1462,10 @@
       "locations": "Boston, MA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Hard Tech",
         "Robotics",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1683,7 +1683,7 @@
       "slug": "jazzberry",
       "website": "https://jazzberry.ai",
       "description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
-      "one_liner": "(formerly Prophet) Training LLMs to be expert software testers",
+      "one_liner": "Training LLMs to be expert software testers",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2208,7 +2208,7 @@
       "slug": "morphik",
       "website": "https://morphik.ai",
       "description": "Morphik is an open-source AI knowledge management system. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
-      "one_liner": "Open-source Glean",
+      "one_liner": "Open-source AI native knowledge base",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2224,8 +2224,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Open Source",
-        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -2782,7 +2782,7 @@
       "slug": "tinfoil",
       "website": "https://tinfoil.sh",
       "description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe\u2019ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don\u2019t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA\u2019s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil\u2019s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don\u2019t log your queries.\u201d Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user \u2014 not even by Tinfoil or the cloud provider it\u2019s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating \u201cGod in a box\u201d, we are putting God in a blackbox, so Satan can\u2019t spy.",
-      "one_liner": "AI that runs on the cloud with the privacy of on-prem",
+      "one_liner": "Tinfoil makes your AI workflows secure, verifiable, and private.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -2798,9 +2798,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
+        "B2B",
         "Security",
-        "Cryptography",
-        "AI"
+        "Privacy",
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3504,8 +3506,8 @@
       "name": "The Robot Learning Company",
       "slug": "the-robot-learning-company",
       "website": "https://www.robot-learning.co/",
-      "description": "TRLC allows any software engineer to build their own intelligent robot applications.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
-      "one_liner": "Software Platform for AI-powered Robotics",
+      "description": "TRLC is building robots to automate repetitive and stationary tasks in retail and hospitality. For this, they are developing robotic manipulation models designed to perform out-of-the-box in any environment.",
+      "one_liner": "AI-powered Robotics for Everyday Automation",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -4736,5 +4738,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-04T00:03:00.432000"
+  "fetched_at": "2025-06-04T06:01:27.338198"
 }
