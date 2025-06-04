@@ -1478,40 +1478,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ce9903fd51750823677b9306832c5a1884050f.png"
     },
     {
-      "id": 12244,
-      "name": "Kovi",
-      "slug": "kovi",
-      "website": "https://www.kovi.com.br",
-      "description": "",
-      "one_liner": "Making car ownership more inclusive, flexible and simple.",
-      "batch": "Winter 2019",
-      "status": "Active",
-      "team_size": 890,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Credit and Lending",
-      "industries": [
-        "Fintech",
-        "Credit and Lending"
-      ],
-      "regions": [
-        "Brazil",
-        "Latin America",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "S\u00e3o Paulo, SP, Brazil",
-      "tags": [
-        "Auto Commerce",
-        "Mobility"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1543950206.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/550584b5ede9d05c71bf6270532602123644a502.png"
-    },
-    {
       "id": 12242,
       "name": "AccioJob",
       "slug": "acciojob",
@@ -4630,6 +4596,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/95bd3baee270d1b082340a1d56709977638c161c.png"
     },
     {
+      "id": 12244,
+      "name": "Kovi",
+      "slug": "kovi",
+      "website": "https://www.kovi.com.br",
+      "description": "",
+      "one_liner": "Making car ownership more inclusive, flexible and simple.",
+      "batch": "Winter 2019",
+      "status": "Acquired",
+      "team_size": 890,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Credit and Lending",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "regions": [
+        "Brazil",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "S\u00e3o Paulo, SP, Brazil",
+      "tags": [
+        "Auto Commerce",
+        "Mobility"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1543950206.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/550584b5ede9d05c71bf6270532602123644a502.png"
+    },
+    {
       "id": 12241,
       "name": "Shiok Meats",
       "slug": "shiok-meats",
@@ -6559,5 +6559,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-06-03T18:01:12.578464"
+  "fetched_at": "2025-06-04T00:02:59.238985"
 }

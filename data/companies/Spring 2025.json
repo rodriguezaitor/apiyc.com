@@ -1440,6 +1440,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png"
     },
     {
+      "id": 30509,
+      "name": "Boost Robotics",
+      "slug": "boost-robotics",
+      "website": "https://www.boostrobotics.ai",
+      "description": "Boost Robotics is building autonomous mobile manipulation robots to remotely perform manual tasks in data centers. \r\n\r\nThe surge in AI applications is pushing data centers to scale faster than they can manage, leading to suboptimal operations and staffing shortages amid rising power and compute demands.\r\n\r\nWe save data centers millions in insurance premiums and SLA violations by increasing the frequency of inspection and maintenance while reducing the time it takes to triage and address failures.",
+      "one_liner": "Robots for the inspection and maintenance of data centers",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Boston, MA, USA",
+      "tags": [
+        "AIOps",
+        "Hard Tech",
+        "Robotics",
+        "Infrastructure",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748984174.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ab11f23c518bbbd560df743f85f60218829e65f.png"
+    },
+    {
       "id": 30508,
       "name": "Sygaldry Technologies",
       "slug": "sygaldry-technologies",
@@ -4701,5 +4736,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-03T18:01:14.119930"
+  "fetched_at": "2025-06-04T00:03:00.432000"
 }
