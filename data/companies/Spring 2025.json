@@ -462,6 +462,7 @@
       "tags": [
         "AI-Enhanced Learning",
         "Generative AI",
+        "Consumer",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -828,11 +829,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1683,7 +1684,7 @@
       "slug": "jazzberry",
       "website": "https://jazzberry.ai",
       "description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
-      "one_liner": "Training LLMs to be expert software testers",
+      "one_liner": "Training LLMs to be expert bug finders",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1881,7 +1882,7 @@
       "slug": "novoflow",
       "website": "https://www.novoflow.io/",
       "description": "Novoflow is an AI receptionist that automates front and back office phone workflows for medical practices. Built for healthcare providers and hospitals.",
-      "one_liner": "AI employees that automate medical operations.",
+      "one_liner": "AI employees that automate medical operations for clinics. ",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2377,7 +2378,7 @@
       "slug": "clidey",
       "website": "https://clidey.com",
       "description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation\u2014right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo\u2014whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation\u2014without slowing you down.\r\n\r\nIt\u2019s developer-first, fully editable, and always in sync\u2014so you never have to choose between speed and quality again.",
-      "one_liner": "Auto-generated, always-current documentation from your codebase",
+      "one_liner": "Documentation made for AI Agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3894,7 +3895,7 @@
       "slug": "cua",
       "website": "https://trycua.com",
       "description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
-      "one_liner": "Docker Container for Computer-Use Agents on macOS",
+      "one_liner": "Docker for Computer-use Agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4738,5 +4739,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-04T18:01:21.566726"
+  "fetched_at": "2025-06-05T00:03:01.407495"
 }
