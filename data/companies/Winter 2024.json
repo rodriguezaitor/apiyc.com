@@ -4519,14 +4519,14 @@
     },
     {
       "id": 29350,
-      "name": "Aether Energy",
-      "slug": "aether-energy",
+      "name": "Aether",
+      "slug": "aether",
       "website": "https://www.aethernrg.com/",
-      "description": "Aether is an AI-powered end-to-end platform for rooftop solar and roofing installers in the US and Western European markets. \r\n\r\nSome of our innovations:\r\n\r\n- In-house computer vision and fine-tuned AI models built for solar\r\n- Rapid and accurate photovoltaic site design, 10x faster\r\n- Co-pilot for rooftop solar to streamline & automate various tasks for solar installers. \r\n\r\nWhy it\u2019s needed: Today, rooftop solar is still complex, expensive, and inaccurate. More than half of the cost of a rooftop solar project comes from soft costs. We started Aether with the sole aim of reducing solar soft costs. \r\n\r\nOur vision: Aether will be a big player in the young and emerging Solar software vertical, which has a projected 20B Global TAM up for grabs by 2025.",
-      "one_liner": "Solar and roofing workflow software for solar installers worldwide",
+      "description": "Aether is AI-powered front-office platform for contractors \u2014 a go-to-market engine that combines targeting, design, proposals, and deal management into one system built for trades like Roofing, Solar, HVAC, Landscaping, and Fire Mitigation. \r\n\r\n",
+      "one_liner": "AI-powered GTM stack for field service trades",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 14,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4541,18 +4541,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "Solar Power",
         "Climate",
-        "Renewable Energy"
+        "CRM",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709429693.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdcedd6988abbc35bfedf1d78f7da44ed6d08f4a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d730be252a337a985a4ed186c91c97076cf81355.png"
     },
     {
       "id": 29348,
@@ -8301,5 +8299,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-06T12:01:32.233247"
+  "fetched_at": "2025-06-06T18:01:26.602718"
 }
