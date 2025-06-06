@@ -2287,7 +2287,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708458900.0,
@@ -6532,8 +6532,8 @@
       "name": "Garage",
       "slug": "garage-2",
       "website": "https://www.withgarage.com/",
-      "description": "Garage is a marketplace for pre-owned equipment, starting with firefighting equipment. \r\n\r\nGarage helps fire departments buy and sell used equipment in seconds rather than days. Our marketplace handles payments, freight, and financing \u2013 making buying and selling equipment easy & secure.",
-      "one_liner": "Marketplace for used firefighting equipment.",
+      "description": "Garage is a marketplace for used equipment and vehicles, starting with government surplus. \r\n\r\nBy automating every part of the transaction\u2014including payments, freight, paperwork, warranty, and financing\u2014we reduce what used to take months down to minutes. We're building the modern platform for equipment that powers America\u2019s essential industries.",
+      "one_liner": "Marketplace for emergency vehicles, equipment, and more.",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 8,
@@ -6543,9 +6543,10 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "New York, NY, USA",
       "tags": [
         "Marketplace"
       ],
@@ -6554,7 +6555,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709146834.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a24f129018121f0f11acf236ee4243337faf58f7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b097e3ed808fe533aff49062b2a59a6f1f2805fd.png"
     },
     {
       "id": 29268,
@@ -8300,5 +8301,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-05T12:01:44.970281"
+  "fetched_at": "2025-06-06T00:02:57.481110"
 }

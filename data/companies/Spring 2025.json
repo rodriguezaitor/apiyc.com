@@ -829,11 +829,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -885,7 +885,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "Industrials",
-      "subindustry": "Industrials",
+      "subindustry": "Industrials -> Climate",
       "industries": [
         "Industrials",
         "Climate"
@@ -3201,7 +3201,7 @@
       "slug": "vibegrade",
       "website": "https://vibegrade.com",
       "description": "VibeGrade is the AI that works directly inside Google Classroom, Google Docs, and Canvas to grade papers 10x faster, in the teacher's style. \r\n\r\nTeachers often spend hours of their own time grading hundreds of papers, which can lead to rushed and generic feedback for students. \r\n\r\nUnlike other grading tools that require bulk uploads and remove teachers from the process, VibeGrade allows teachers to use AI to write high-quality, teacher-like feedback\u2014right within the LMS.",
-      "one_liner": "Integrated AI for Schools",
+      "one_liner": "Cursor for Teachers",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3216,9 +3216,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Education",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4084,7 +4084,7 @@
       "slug": "cubic",
       "website": "https://cubic.dev/",
       "description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 40% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
-      "one_liner": "AI-powered code review platform",
+      "one_liner": "Cursor for code review",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4606,7 +4606,7 @@
       "name": "Tropir",
       "slug": "tropir",
       "website": "https://www.tropir.com/",
-      "description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don\u2019t just trace where your pipeline broke\u2014we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+      "description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don\u2019t just trace where your pipeline broke\u2014we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
       "one_liner": "The AI that builds better AIs",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4622,9 +4622,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4732,5 +4732,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-05T12:01:46.236642"
+  "fetched_at": "2025-06-06T00:03:00.575084"
 }
