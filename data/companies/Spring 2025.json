@@ -950,7 +950,7 @@
       "slug": "probo",
       "website": "https://www.getprobo.com/",
       "description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn\u2019t lose weeks to this stuff. Even one day is too much.\r\n",
-      "one_liner": "We make you SOC 2 (and more) compliant so you focus on your business.",
+      "one_liner": "We help you get SOC 2 (and more) compliant, you focus on your\u2026",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1057,17 +1057,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Customer Success",
         "Sales",
-        "Customer Support"
+        "Customer Support",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747773891.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51923708ddf66171a6468453b53717108db55a3.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7739235b539c91f55bd250da7893871d1a966b2.png"
     },
     {
       "id": 30523,
@@ -2840,8 +2840,8 @@
       "name": "Operative",
       "slug": "operative",
       "website": "https://operative.sh/",
-      "description": "Operative uses AI to build web apps that are, well, operative! With the best in-app debugging tools, the operative agent can not only code up your site, but test it too. Try in web or download operative MCP for Cursor.",
-      "one_liner": "Web application code generation with debugging tools built in",
+      "description": "Operative is a platform for organizations to build internal applications quickly using AI. We provide a web interface where organizations can create new web applications tailored to specific use cases, using their existing backend APIs (supporting existing authentication & authorization). We're like retool but we connect directly with a company's internal APIs and allow users to generate arbitrary frontend code.\r\n\r\nWe've launched a consumer product that has been well received, and most recently have discovered that businesses & enterprises are interested in code generation for internal applications as well, and we're now focused on this direciton.",
+      "one_liner": "Web application code generation for an organizations internal APIs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3854,7 +3854,7 @@
       "name": "SynthioLabs",
       "slug": "synthiolabs",
       "website": "https://synthiolabs.com/",
-      "description": "Pharma spends billions on medical and sales teams. Yet many physicians still don\u2019t get the timely, relevant medical insight they need.\r\n\r\nSo we built an AI Medical Expert for Pharma GTM teams. Our Medical grade Voice AI Platform delivers compliant, science-first engagement to physicians and patients\r\n\r\nIt\u2019s like adding 100 medical reps to your team, without the headcount.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholders \u2014 patients and HCPs\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! ",
+      "description": "Pharma spends billions on medical and sales teams. Yet many physicians still don\u2019t get the timely, relevant medical insight they need.\r\n\r\nSo we built an AI Medical Expert for Pharma GTM teams. Our Medical grade Voice AI Platform delivers compliant, science-first engagement to physicians and patients\r\n\r\nIt\u2019s like adding 100 medical reps to your team, without the headcount.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholders \u2014 patients and HCPs\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. \r\n\r\nWe're synthiolabs.com. Reach out to learn more! ",
       "one_liner": "Voice AI Medical Rep for Pharma",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4314,7 +4314,7 @@
       "slug": "kashikoi",
       "website": "https://www.getkashikoi.com",
       "description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
-      "one_liner": "Simulation Engine for Benchmarking AI Agents",
+      "one_liner": "Simulation Engine for Benchmarking AI Products",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4329,10 +4329,10 @@
       ],
       "locations": "Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Machine Learning",
-        "AI"
+        "Machine Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4732,5 +4732,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-06T00:03:00.575084"
+  "fetched_at": "2025-06-06T06:01:06.842079"
 }
