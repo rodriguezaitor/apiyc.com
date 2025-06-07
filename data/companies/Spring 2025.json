@@ -140,7 +140,7 @@
       "slug": "godela",
       "website": "http://godela.ai",
       "description": "What if every experiment you wanted to run could be modeled using AI? \r\nGodela is an AI-powered physics engine that gives engineers faster, cheaper replacement to simulations and physical prototypes.\r\nNo set up, no wait. Just ask\u2014and get simulation quality result.\r\n",
-      "one_liner": "AI Physics Engine",
+      "one_liner": "AI Physics Engine to replace simulations and prototypes",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -646,7 +646,7 @@
       "name": "Lumari",
       "slug": "lumari",
       "website": "https://www.lumari.io/",
-      "description": "Lumari enables non-technical teams to create custom internal apps and agentic workers without writing any code or wasting budget on inflexible off-the-shelf software. Simply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
+      "description": "Lumari enables non-technical GTM teams to create custom internal apps and agentic workers without writing any code. \r\n\r\nSimply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
       "one_liner": "Agentic internal tools",
       "batch": "Spring 2025",
       "status": "Active",
@@ -663,10 +663,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "No-code"
+        "No-code",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -879,7 +879,7 @@
       "slug": "moby-analytics",
       "website": "https://www.mobyanalytics.com/",
       "description": "At Moby Analytics, we provide the first AI agentic platform built for financial auditors. Auditors easily create and deploy AI agents to automate audit workflows. No code, just prompts and domain expertise.",
-      "one_liner": "AI Platform for financial auditors",
+      "one_liner": "AI financial auditors",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -1532,7 +1532,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748361107.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d02ac12a4120fdef0e7944b90606a7333b87bb8f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b823f3c80717edc8f64a948bc05e97aba3056906.png"
     },
     {
       "id": 30507,
@@ -4781,5 +4781,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-07T12:01:34.683697"
+  "fetched_at": "2025-06-07T18:01:29.293408"
 }

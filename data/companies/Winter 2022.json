@@ -6124,11 +6124,11 @@
       "name": "Cogram",
       "slug": "cogram",
       "website": "https://cogram.com",
-      "description": "Cogram is an LLM-based productivity platform for the architecture, engineering, and construction (AEC) industry. Our product automates a growing number of AEC workflows such as meeting notes, site visits, project administration, and RFP bidding.",
-      "one_liner": "AI for the AEC industry\u2014online and in the field.",
+      "description": "Cogram is an AI platform for the architecture, engineering, and construction (AEC) industry. Our products automate a growing number of AEC workflows such as site reports, meeting minutes, mail management, and RFP bidding.",
+      "one_liner": "The AI Platform for Architects, Builders, and Engineers",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -6136,15 +6136,15 @@
         "Productivity"
       ],
       "regions": [
-        "Germany",
-        "Europe",
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Berlin, Berlin, Germany",
+      "locations": "New York, NY, USA",
       "tags": [
-        "B2B",
-        "AI"
+        "Artificial Intelligence",
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6293,8 +6293,8 @@
     },
     {
       "id": 25662,
-      "name": "digiventures",
-      "slug": "digiventures",
+      "name": "digi",
+      "slug": "digi",
       "website": "https://www.digiventures.la/",
       "description": "Digiventures SaaS enables banks in Latin America to digitize their loan origination and account opening process. We are live with 30 clients (including 7 banks) in 9 countries.",
       "one_liner": "Enabling banks have a fintech-style loan origination process",
@@ -6307,19 +6307,13 @@
         "Fintech"
       ],
       "regions": [
-        "Argentina",
-        "Latin America",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Buenos Aires, CABA, Argentina",
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "B2B"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1640228964.0,
@@ -13815,5 +13809,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-06-07T12:01:30.179668"
+  "fetched_at": "2025-06-07T18:01:25.262741"
 }
