@@ -107,7 +107,7 @@
       "slug": "sava",
       "website": "https://www.savarobotics.com",
       "description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics and Zipline - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
-      "one_liner": "Sheet Metal Super Factory",
+      "one_liner": "Autonomous Factories for American Manufacturing",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -175,7 +175,7 @@
       "slug": "bitpatrol",
       "website": "https://www.bitpatrol.io/",
       "description": "Leverage cutting-edge AI to detect exposed credentials in real time and protect your organization from high-impact data breaches.",
-      "one_liner": "Secret detection that actually works",
+      "one_liner": "AI-powered code security",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -377,7 +377,7 @@
       "name": "Airweave",
       "slug": "airweave",
       "website": "https://airweave.ai",
-      "description": "Airweave is an open-source tool that lets agents search any application. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
+      "description": "Airweave is an open-source tool that lets agents search any app. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
       "one_liner": "Open-Source Tool That Lets Agents Search Any App",
       "batch": "Spring 2025",
       "status": "Active",
@@ -394,10 +394,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Search",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -412,7 +412,7 @@
       "slug": "theorem-2",
       "website": "https://theoremlabs.com/",
       "description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
-      "one_liner": "Program verification for mission critical code",
+      "one_liner": "Superhuman code for mission critical systems",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -477,8 +477,8 @@
       "name": "StarSling",
       "slug": "starsling",
       "website": "https://www.starsling.dev/",
-      "description": "StarSling is building an agentic internal developer portal (IDP) that houses all your internal services, applications, APIs, documentation and has AI agents continuously improving them for you. It\u2019s one interface that automates all the tasks that eat up a developer\u2019s time after they\u2019ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you\u2019ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your portal.",
-      "one_liner": "AI Portal for Developers That Ship \ud83d\udef8",
+      "description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer\u2019s time after they\u2019ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you\u2019ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
+      "one_liner": "Cursor for DevOps",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -548,7 +548,7 @@
       "name": "Cactus",
       "slug": "oncactus",
       "website": "https://oncactus.com",
-      "description": "We're building an AI copilot for solopreneurs to automate their admin work. Our AI answers the phone, qualifies customers, and books in revenue. Think Jarvis for Ironman. Cactus is the AI business assistant that empowers solopreneurs to succeed.",
+      "description": "We're building an AI copilot for solopreneurs to automate their admin work. Our AI answers the phone, qualifies customers, and books in revenue. We see a future where solopreneurs will fully vibe code and run their entire business on Cactus.\r\n",
       "one_liner": "AI copilot for solopreneurs",
       "batch": "Spring 2025",
       "status": "Active",
@@ -564,9 +564,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -779,7 +779,7 @@
       "slug": "cotool",
       "website": "https://cotool.ai",
       "description": "Cotool is an agentic security platform that eliminates manual and repetitive work for security teams.\r\n\r\nToday\u2019s cybersecurity teams remain bogged down by alert fatigue, context switching, and documentation overhead. Security teams don't need more dashboards with \"AI-powered insights\" \u2014 they need their time back.\r\n\r\nCotool empowers teams to build security their way. Our platform provides an AI co-pilot that automatically assembles context across tools, a no-code agent builder that transforms successful investigations into reusable automations, and automated report generation, providing comprehensive documentation in seconds.\r\n\r\nUnlike solutions that force teams to adapt to vendor workflows, Cotool puts the power of AI directly in practitioners' hands, letting them shape tools around their unique processes. Early users have already cut time spent on investigation and detection engineering by 70%.",
-      "one_liner": "Free your security team to hunt threats, not handle workflows",
+      "one_liner": "AI Agents for Security Operations Teams",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -863,8 +863,8 @@
       ],
       "locations": "",
       "tags": [
-        "SaaS",
-        "AI"
+        "Artificial Intelligence",
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1140,8 +1140,8 @@
       "name": "Relixir",
       "slug": "relixir",
       "website": "https://relixir.ai",
-      "description": "Relixir drops magic AI elixir to help brands rank higher and sell more on ChatGPT, Perplexity, etc. \r\n\r\nSEO is dead and 50% of decision makers now use AI search instead to find solutions so it's crucial to now optimize for these generative engines \u2014 enter Generative Engine Optimization (GEO).\r\n\r\nRelixir helps teams automate end-to-end GEO by granting instant AI search engine visibility on their product, identifying search result blindspots for competitor/gaps, and then generating high quality content from original customer/team insights.\r\n\r\nWe're moving fast, signed 15+ pilots and 5+ paid customers seeing results in production. Join us and start using Relixir! \r\n\r\nThe founders Sean and Dennis built an early version of a GEO system that amassed 300k+ views, 5k+ clicks/mo, and 10 inbound calls/wk at their prev. company.\r\n",
-      "one_liner": "The AI Generative Engine Optimization (GEO) Platform",
+      "description": "Relixir is the content automation platform for AI search visibility.\r\n\r\nFor the first time in 20 years, google search has dipped below a 90% market share. This is because people are switching to AI search.\r\n\r\nHowever, old SEO content only works for Google, leaving teams helpless as their customers turn to AI assistants for answers and recommendations that leave them out.\r\n\r\nThat\u2019s where Relixir comes in to automatically discover, write, and update GEO content that pushes companies to be the answer on ChatGPT, Perplexity, etc.",
+      "one_liner": "Content Automation for AI Search Visibility",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1191,9 +1191,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
-        "Monitoring"
+        "Monitoring",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1490,11 +1490,11 @@
       ],
       "locations": "Boston, MA, USA",
       "tags": [
-        "AIOps",
-        "Artificial Intelligence",
         "Hard Tech",
+        "Hardware",
         "Robotics",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1509,7 +1509,7 @@
       "slug": "sygaldry-technologies",
       "website": "https://www.sygaldry.com",
       "description": "We\u2019re building quantum-accelerated AI servers so organizations building AI can exponentially speed up training and inference. And we\u2019re making tools for AI researchers to integrate quantum capabilities into AI models and workflows. \r\n",
-      "one_liner": "quantum-accelerated AI hardware.",
+      "one_liner": "quantum-accelerated AI servers",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": null,
@@ -1523,9 +1523,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Hard Tech",
-        "Quantum Computing",
-        "AI"
+        "Quantum Computing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1576,7 +1576,7 @@
       "name": "Klavis AI",
       "slug": "klavis-ai",
       "website": "https://www.klavis.ai/",
-      "description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code.",
+      "description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code. Co-founder Xiangkai Zeng co-authored the Gemini paper and pioneered the tool calling infrastructure for Gemini. https://www.klavis.ai/",
       "one_liner": "Open Source MCP Integrations for AI Applications",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1593,6 +1593,7 @@
       "locations": "",
       "tags": [
         "Artificial Intelligence",
+        "SaaS",
         "Open Source",
         "API",
         "AI"
@@ -1661,8 +1662,7 @@
       "locations": "",
       "tags": [
         "Machine Learning",
-        "B2B",
-        "LegalTech"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1762,6 +1762,7 @@
       "locations": "Redwood City, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Generative AI",
         "Reinforcement Learning",
         "Data Labeling"
@@ -1828,9 +1829,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Customer Success",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1845,7 +1846,7 @@
       "slug": "qualgent",
       "website": "https://qualgent.ai",
       "description": "QualGent is an AI-powered QA tester for mobile apps that mimics a real human, helping teams catch bugs and ship faster\u2014without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders\u2019 experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent\u2019s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck\u2014software verification\u2014unlocking truly scalable, end-to-end software development.",
-      "one_liner": "AI Quality Assurance agent for mobile software testing",
+      "one_liner": "AI Mobile App Quality Assurance Tester",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1893,9 +1894,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Design",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2044,7 +2045,7 @@
       "slug": "throxy",
       "website": "https://throxy.com/",
       "description": "throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken\u2014generic automation gets ignored, and legacy sectors are hard to crack. throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We\u2019re not just automating outbound, we\u2019re redefining what sales execution looks like in traditional industries.\r\n\r\nthroxy is the AI SDR purpose-built for the sectors software forgot.",
-      "one_liner": "Book meetings without the busywork. Bespoke fully managed outbound.",
+      "one_liner": "Vertical AI agents that run the sales funnel on autopilot",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -2059,10 +2060,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Sales",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2144,7 +2145,7 @@
       "slug": "crimson",
       "website": "https://crimson.law",
       "description": "Crimson is the first AI platform purpose-built for complex disputes. Litigation teams use Crimson to analyze case files, draft legal documents and answer case-specific questions. By automating manual workflows throughout the lifecycle of a case, Crimson helps lawyers save more than 10 hours per week on common litigation tasks.",
-      "one_liner": "The AI platform for litigation lawyers",
+      "one_liner": "The AI Associate for Litigation Lawyers",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -2220,9 +2221,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement",
-        "AI"
+        "Sales Enablement"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2236,7 +2237,7 @@
       "name": "Morphik",
       "slug": "morphik",
       "website": "https://morphik.ai",
-      "description": "Morphik is an open-source AI knowledge management system. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
+      "description": "Morphik is an open-source AI-native knowledge base. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
       "one_liner": "Open-source AI native knowledge base",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2254,7 +2255,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
+        "Developer Tools",
         "Open Source",
+        "Search",
         "Databases"
       ],
       "stage": "Early",
@@ -2353,10 +2356,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Robotic Process Automation",
-        "Workflow Automation"
+        "Workflow Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2423,10 +2426,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2506,8 +2509,8 @@
       "name": "Photonium",
       "slug": "photonium",
       "website": "https://www.photoniumoptics.com/",
-      "description": "Photonium is building an end-to-end, AI-powered platform for optical system design automation. We handle the full design workflow\u2014from optimization and verification to sourcing\u2014for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology for semiconductor fabrication.",
-      "one_liner": "AI-driven optical design automation",
+      "description": "Photonium automates optical system design. Think of us as Cadence or Synopsys chip design automation, but for optics instead of semiconductors. We handle the full design workflow\u2014from optimization and verification to sourcing\u2014for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology for semiconductor fabrication.",
+      "one_liner": "AI-Driven Optical System Design",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2827,11 +2830,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Security",
         "Privacy",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2846,7 +2849,7 @@
       "slug": "the-llm-data-company",
       "website": "https://www.thellmdatacompany.com/",
       "description": "The LLM Data Company creates tooling to write, version and execute evals for models and agents. We help you measure performance and define rewards for reinforcement learning.",
-      "one_liner": "Tooling for evals, judges and RL rewards",
+      "one_liner": "Datagen Tooling for Evals & RL",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -2861,7 +2864,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AIOps"
+        "AIOps",
+        "Artificial Intelligence",
+        "Generative AI",
+        "Data Labeling",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2875,8 +2882,8 @@
       "name": "Operative",
       "slug": "operative",
       "website": "https://operative.sh/",
-      "description": "Operative is a platform for organizations to build internal applications quickly using AI. We provide a web interface where organizations can create new web applications tailored to specific use cases, using their existing backend APIs (supporting existing authentication & authorization). We're like retool but we connect directly with a company's internal APIs and allow users to generate arbitrary frontend code.\r\n\r\nWe've launched a consumer product that has been well received, and most recently have discovered that businesses & enterprises are interested in code generation for internal applications as well, and we're now focused on this direciton.",
-      "one_liner": "Web application code generation for an organizations internal APIs",
+      "description": "Operative helps organizations build internal applications fast with AI.\r\nWe let teams generate fully functional frontends on top of their existing backend APIs. Think of it as Retool, but with direct integration to internal APIs and full internal web app code generation.\r\n\r\nAfter launching a consumer product with strong traction, we\u2019re now focused on serving businesses and enterprises looking to accelerate internal tool development.",
+      "one_liner": "Web application code generation for internal APIs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2892,7 +2899,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools"
+        "Artificial Intelligence",
+        "Developer Tools",
+        "API",
+        "Data Engineering",
+        "Data Visualization"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2973,8 +2984,8 @@
       "name": "Bluejay",
       "slug": "bluejay",
       "website": "https://getbluejay.ai/",
-      "description": "",
-      "one_liner": "E2E testing platform for AI voice agents.",
+      "description": "Bluejay\u2019s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
+      "one_liner": "The world's first quality assurance agency for voice AI.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2990,8 +3001,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
-        "Monitoring"
+        "Monitoring",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3154,10 +3165,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Grocery",
         "Computer Vision",
-        "Retail",
-        "AI"
+        "Retail"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3188,8 +3199,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Robotics",
-        "AI"
+        "Artificial Intelligence",
+        "Robotics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3254,9 +3265,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Education",
-        "Edtech",
-        "AI"
+        "Edtech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3338,7 +3349,7 @@
       "slug": "simstudio",
       "website": "https://www.simstudio.ai",
       "description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.8k stars on GitHub in the last 2 months.",
-      "one_liner": "The UI to build AI agents",
+      "one_liner": "The open source AI agent builder ",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3571,7 +3582,7 @@
       "slug": "helixdb",
       "website": "https://helix-db.com",
       "description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
-      "one_liner": "The fastest open-source graph-vector database for RAG and AI agents",
+      "one_liner": "The database for intelligence",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3589,10 +3600,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Infrastructure",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -3608,7 +3619,7 @@
       "slug": "chonkie",
       "website": "https://www.chonkie.ai",
       "description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
-      "one_liner": "Make Documents AI Ready",
+      "one_liner": "Open Source Data Ingestion For AI",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4005,9 +4016,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
         "Supply Chain",
+        "AI",
         "AI Assistant",
         "Industrial"
       ],
@@ -4104,17 +4115,17 @@
       ],
       "locations": "Z\u00fcrich, ZH, Switzerland",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Design Tools",
-        "No-code"
+        "No-code",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748292751.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d5ae8ca4abb2f537b07e827d413c374a63abebb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3577a0e8b2ab3aba26616432bba656fef491a245.png"
     },
     {
       "id": 30411,
@@ -4579,8 +4590,8 @@
       "name": "Waffle",
       "slug": "waffle",
       "website": "https://www.waffle.ai",
-      "description": "Build custom web apps in minutes. Use Waffle to built, edit, and publish web apps without writing a line of code. \r\n\r\nComing soon: build web apps with a real backend! That means databases, authentication, email services, file storage, and more.",
-      "one_liner": "Vibe code web apps",
+      "description": "Waffle is an AI website builder for SMBs. We\u2019re using an LLM-powered, Lovable-style interface to kill Wix. Waffle builds websites in 2 mins and makes edits in 30 seconds. We're building plugins with 3rd party services like Clerk, Neon, and Stripe so users can build production-ready websites. Since launching 3 weeks ago, 550 new projects have been built with Waffle.",
+      "one_liner": "AI Website Builder for SMBs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4678,7 +4689,7 @@
       "slug": "willow",
       "website": "https://willowvoice.com/",
       "description": "Willow is an AI dictation app that lets you type with your voice. Built to 4x the productivity of anyone spending too much time on email, docs, and AI prompting workflows.\r\n\r\nWe\u2019re Mac-only for now. You can try it free at WillowVoice.com",
-      "one_liner": "Powering the future of voice-first computing",
+      "one_liner": "The voice interface replacing your keyboard",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4770,5 +4781,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-07T00:02:57.153209"
+  "fetched_at": "2025-06-07T06:01:28.951968"
 }
