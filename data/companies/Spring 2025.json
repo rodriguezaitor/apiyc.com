@@ -4,9 +4,9 @@
       "id": 30565,
       "name": "Cohesive",
       "slug": "cohesive",
-      "website": "https://getcohesiveai.com/",
+      "website": "https://getcohesiveai.com",
       "description": "Cohesive is the agentic CRM for blue collar businesses like janitorial, pressure washing, landscaping, HVAC, and pest control businesses. Cohesive fully automates sales and marketing outreach to local businesses and property owners in the service area, helping local service businesses grow even while servicing clients in the field.",
-      "one_liner": "The agentic CRM for blue collar businesses",
+      "one_liner": "The agentic CRM for blue-collar services",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -21,11 +21,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Sales",
-        "AI"
+        "Sales"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -56,10 +56,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -208,7 +208,7 @@
       "slug": "aegis",
       "website": "https://aegishealth.us/",
       "description": "Aegis is the all-in-one platform that helps healthcare providers recover lost revenue by automating insurance denial appeals\u2014from intake to resolution. Built for billing teams, healthcare providers and hospitals.",
-      "one_liner": "We Help Healthcare Providers fight Health Insurance Denials",
+      "one_liner": "AI Agents to win denied health insurance claims.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -224,11 +224,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Workflow Automation",
         "Insurance",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -246,7 +246,7 @@
       "one_liner": "Deep space communications as a service",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -647,7 +647,7 @@
       "slug": "lumari",
       "website": "https://www.lumari.io/",
       "description": "Lumari enables non-technical teams to create custom internal apps and agentic workers without writing any code or wasting budget on inflexible off-the-shelf software. Simply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
-      "one_liner": "AI internal software builder for non-technical teams",
+      "one_liner": "Agentic internal tools",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -663,10 +663,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "No-code",
-        "AI"
+        "No-code"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -763,8 +763,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -829,11 +829,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -841,6 +841,37 @@
       "is_top_company": false,
       "launched_at": 1746945144.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png"
+    },
+    {
+      "id": 30532,
+      "name": "Nimbic AI",
+      "slug": "nimbic-ai",
+      "website": "https://nimbic-ai.com",
+      "description": "",
+      "one_liner": "Automatically write and update internal docs with every code commit.",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "SaaS",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1748402935.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png"
     },
     {
       "id": 30531,
@@ -950,7 +981,7 @@
       "slug": "probo",
       "website": "https://www.getprobo.com/",
       "description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn\u2019t lose weeks to this stuff. Even one day is too much.\r\n",
-      "one_liner": "We help you get SOC 2 (and more) compliant, you focus on your\u2026",
+      "one_liner": "We help you get compliant while you focus on your business.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -986,7 +1017,7 @@
       "slug": "mindfort",
       "website": "https://www.mindfort.ai",
       "description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
-      "one_liner": "Fully autonomous offensive security agents & models",
+      "one_liner": "Autonomous Security Agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -1160,9 +1191,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
-        "Monitoring",
-        "AI"
+        "Monitoring"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1378,7 +1409,7 @@
       "slug": "morphoai",
       "website": "https://morpho.ai/",
       "description": "We're building an AI powered platform for engineers that are building new robots and machines. \r\n\r\nWe allow users to invent and modify machine designs in a matter of minutes, not years. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024 as their programs were wrapping up. We're commercializing 10+ years research done by our team at Harvard and MIT on this space. Our team wrote the very first papers on applying GenAI and optimization algorithms to compose robots from parts and applying computational design to fine tune machine designs. We're bringing in our deep knowledge of modifying equipment and integrating it into factories keenly understanding what makes hardware hard. \r\n\r\nWe take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces. \r\n\r\nWe are venture backed and supported by a GBP 2.5MM grant by ARIA, the UK Government's invention agency. ",
-      "one_liner": "AI powered CAD for robotics and machine engineering",
+      "one_liner": "Software tool for designing robots and machines ",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 5,
@@ -1392,7 +1423,11 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Robotics",
+        "Manufacturing"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -1406,10 +1441,10 @@
       "slug": "vassar-robotics",
       "website": "https://www.vassarrobotics.com",
       "description": "We\u2019re unlocking cutting-edge robot AI for the nerd in your life. Our hardware and software let them teach robots skills like playing chess in just a few hours\u2014no robotics PhD required.",
-      "one_liner": "Unlocking Cutting-Edge Robot AI for the Nerd in Your Life",
+      "one_liner": "Al robot arms that learn new skills in 30 min.",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "Consumer",
       "subindustry": "Consumer -> Consumer Electronics",
       "industries": [
@@ -1642,7 +1677,7 @@
       "slug": "powermatrix",
       "website": "https://pwrmatrix.com",
       "description": "PowerMatrix provides the MOST efficient and compact next-generation high-performance power supplies for emerging technologies, such as GPUs, xPUs, AI server, datacenters, drones, EV, aerospace, etc. \r\n\r\nBased on patented circuit topology, embedded packaging, and novel magnetics, our power supply systems can reduce energy loss by up to 50%. \r\n\r\nWe have developed several prototypes and are collaborating with world-leading customers.",
-      "one_liner": "Next-generation efficient and compact power supply for AI computing",
+      "one_liner": "Efficient and compact power supply for AI hardware",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1711,7 +1746,7 @@
       "slug": "besimple-ai",
       "website": "https://besimple.ai",
       "description": "Spin up your own data annotation platform in 60 seconds!\r\n\r\nHigh-quality, human-reviewed data is essential for improving AI models.  Yet, many teams still use outdated tools or spreadsheets that aren\u2019t built for complex data from LLMs and AI agents. This slows down iteration, drives up costs, and makes model performance unpredictable in real-world use.\r\n\r\nWith Besimple, you can generate your own platform for annotating AI evaluation and training data instantly.  Simply paste or stream any type of raw data\u2014text, chat, audio, video, or LLM outputs\u2014and we'll instantly generate a tailored annotation interface, clear guidelines, and an automated human-in-the-loop workflow.  Our AI Judges quickly learn from human annotations, take over labeling for easy cases, and evaluate live production data, letting your team focus only on critical edge cases.\r\n\r\nKey differentiators\r\n1. Instant custom UI - Automatically generate tailored annotation interfaces just by uploading your data. Adjust easily whenever data or needs change.\r\n2. Tailored guidelines \u2013 Import any existing guidelines or we will draft new ones aligned with your business goals, ready for annotation\r\n3. AI Judges for real-time evaluation \u2013 AI-powered judges continuously improve by learning human preferences, automatically labeling data and flagging tough cases for expert review.\r\n4. Enterprise-grade deployment \u2013 On-prem optional install, and robust user management for internal SMEs, external vendors, or Besimple\u2019s vetted annotators.\r\n5. Lightning-Fast Setup: No code, no plugins\u2014just drop in your data, set guidelines, and you\u2019re good to go.\r\n\r\nToday we power evaluation and training pipelines for leading AI companies in customer support, search, education, and more.  For example, the leading AI grading company Edexia uses besimple to annotate hundreds of decisions and improve their evals.\r\n\r\nBesimple is built by a team that has done this before. Yi Zhong and Bill Wang built the annotation platform for Meta\u2019s Llama models, significantly improving quality of data and shortening model development cycle.\r\n\r\nReach out!\r\n\r\nIf you\u2019re building an AI product and struggle with good eval or training data \u2014or if you have models in prod with no idea why they fail\u2014let\u2019s talk. We\u2019ll show you how to launch a custom annotation flow in a minute, bootstrap an AI Judge in an afternoon, and start shipping better models tomorrow.",
-      "one_liner": "We make data annotation simple",
+      "one_liner": "AI powered data annotation",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1842,7 +1877,7 @@
       "slug": "prism-ai",
       "website": "https://prismreplay.com/",
       "description": "",
-      "one_liner": "AI that watches session replays and tells developers what to fix",
+      "one_liner": "The Last Product Analytics Tool",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -1858,9 +1893,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Design",
-        "Web Development",
-        "AI"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2042,7 +2077,7 @@
       "slug": "lucis",
       "website": "https://www.lucis.life",
       "description": "Think Function Health for Europe. We combine medical expertise and AI to transform regular blood testing into actionable insights to help people live healthier, longer.\r\nIn four months in Paris, we've achieved $400K ARR, secured partnerships with France's leading lab networks, and partnered with key health influencers, proving our playbook works and scales rapidly. We are currently opening 4 new countries across Europe.",
-      "one_liner": "Live 100 healthy years from a simple blood test",
+      "one_liner": "Function Health for Europe ",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -2172,7 +2207,7 @@
       "one_liner": "Cursor for Sales",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -2185,9 +2220,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement"
+        "Sales Enablement",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2388,10 +2423,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2437,8 +2472,8 @@
       "name": "Labric",
       "slug": "labric",
       "website": "https://labric.co",
-      "description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it\u2014so researchers can actually use AI to accelerate discovery.",
-      "one_liner": "Data infrastructure and AI for scientific research labs",
+      "description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it\u2014 so researchers can actually use AI to accelerate discovery.",
+      "one_liner": "The data layer for scientific research",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2546,7 +2581,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2588,10 +2623,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Recruiting",
-        "AI"
+        "Recruiting"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2887,9 +2922,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Data Engineering",
-        "AI"
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2904,7 +2939,7 @@
       "slug": "better-auth",
       "website": "https://better-auth.com/",
       "description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It\u2019s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
-      "one_liner": "The fastest growing auth library with 14k+ stars and 1.3mil downloads",
+      "one_liner": "The fastest growing auth library with 14k+ stars and 1.5M+ downloads",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2915,10 +2950,12 @@
         "Security"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
         "Security",
@@ -2984,9 +3021,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Productivity",
-        "Team Collaboration"
+        "Team Collaboration",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3035,7 +3072,7 @@
       "slug": "pgdog",
       "website": "https://pgdog.dev",
       "description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
-      "one_liner": "Scale PostgreSQL with automatic sharding.",
+      "one_liner": "Scaling engine for PostgreSQL",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -3069,7 +3106,7 @@
       "slug": "caucus",
       "website": "https://www.getcaucus.com/",
       "description": "Caucus is the last piece of software the American government will ever need. We\u2019re building Cursor for government: general purpose AI agents designed to understand workflows, integrate with existing tools, and eliminate the friction of fragmented software. Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
-      "one_liner": "The Last Piece of Software for the American Government",
+      "one_liner": "AI CRM for Government",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3084,9 +3121,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Civic Tech",
-        "GovTech",
-        "AI"
+        "GovTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3100,8 +3137,8 @@
       "name": "Kirana AI",
       "slug": "kirana-ai",
       "website": "https://www.kirana-ai.com",
-      "description": "Kirana AI is building the first full-stack AI store manager for independent grocers.\r\n\r\nOur first product utilizes an on-premise GPU that monitors the store 24/7, scans for theft, looks for workplace health and safety issues, and optimizes customer service. \r\n\r\nWith future POS/ordering data integrations, our manager will automate many of the day-to-day tasks of running a store, such as ordering, pricing, assortment, and delegating.\r\n\r\nOur CEO's family has owned and operated grocery stores for over 100 years, giving us unique insights into the independent grocery industry.",
-      "one_liner": "AI manager for grocery stores",
+      "description": "Kirana AI is building the first full-stack AI store manager.\r\n\r\nWith 100 years of family experience owning and operating grocery stores, we are starting there to prove our impact.\r\n\r\nOur first product utilizes an on-premise GPU that monitors the store 24/7, scans for theft, looks for workplace health and safety issues, and optimizes customer service. \r\n\r\nWith future POS/ordering data integrations, our manager will automate many of the day-to-day tasks of running a store, such as ordering, pricing, assortment, and delegating.",
+      "one_liner": "AI manager for physical stores",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3117,9 +3154,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Grocery",
-        "Computer Vision"
+        "Computer Vision",
+        "Retail",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3150,8 +3188,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Robotics"
+        "Robotics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3232,7 +3270,7 @@
       "name": "YouLearn",
       "slug": "youlearn",
       "website": "https://www.youlearn.ai/",
-      "description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we\u2019ve grown from $1K to $70K MRR, and over 150,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we\u2019re building the one you\u2019ll never want to skip class on.",
+      "description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we\u2019ve grown from $1K to $77K MRR, and over 200,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we\u2019re building the one you\u2019ll never want to skip class on.",
       "one_liner": "AI tutor for each student. ",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3281,10 +3319,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Design",
         "Consumer Products",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -3332,7 +3370,7 @@
       "slug": "clarm",
       "website": "https://www.clarm.com",
       "description": "Clarm is your AI-native search and agent builder on internal docs. Our first customers are delighted to pay us 10x less than they would spend on a Chief of Staff, creating daily product release notes, customer feedback analysis, capturing sales objections, and running dedicated customer support channels. The COO's hair is on fire and we put it out.\r\n\r\nOur platform is built on agentic search, connecting across 40+ enterprise integrations - CRMs, email, knowledge bases.\r\n\r\nAgents often fail because their underlying context windows are mismatched, leading them to hallucinate. We built enterprise native agentic search to ensure agents have all the context they need to operate fully autonomously.\r\n\r\nHere's what Clarm's C-suite buyers use us for:\r\n\r\n- a blockchain company to provide an on-demand source of product truth in natural language, reducing alignment meetings by 90%\r\n- a financial services firm to supercharge their own product by integrating it with the target's enterprise knowledge\r\n- the top 5 X25 open source startups (by star count) to increase engagement with their Github repo and knowledge base, turning repo visitors into contributors and customers\r\n- North America's largest fertility clinic to tailor '000s of client support questions with extremely high sensitivity, driving up engagement and turning prospects into committed customers",
-      "one_liner": "AI-native enterprise search & agent builder",
+      "one_liner": "Perplexity for internal docs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3350,7 +3388,7 @@
       "tags": [
         "Artificial Intelligence",
         "SaaS",
-        "Finance",
+        "Productivity",
         "Enterprise",
         "AI"
       ],
@@ -3367,7 +3405,7 @@
       "slug": "beluga-labs",
       "website": "https://www.belugalabs.ai/",
       "description": "The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.\r\n\r\nBeluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.",
-      "one_liner": "Rippling for content creators",
+      "one_liner": "Rippling for Content Creators",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3501,7 +3539,7 @@
       "slug": "the-robot-learning-company",
       "website": "https://www.robot-learning.co/",
       "description": "TRLC is building robots to automate repetitive and stationary tasks in retail and hospitality. For this, they are developing robotic manipulation models designed to perform out-of-the-box in any environment.",
-      "one_liner": "AI-powered Robotics for Everyday Automation",
+      "one_liner": "AI-powered robotics for everyday automation",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -3533,7 +3571,7 @@
       "slug": "helixdb",
       "website": "https://helix-db.com",
       "description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
-      "one_liner": "A graph-vector database for building RAG and AI.",
+      "one_liner": "The fastest open-source graph-vector database for RAG and AI agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3551,10 +3589,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Infrastructure",
-        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -3602,7 +3640,7 @@
       "slug": "almond-2",
       "website": "https://almondbot.com/",
       "description": "Almond is building a vision-based AI robot for high-mix pick & place automation. We provide a fully-integrated robot-as-a-service that helps manufacturers save money and increase their revenue.",
-      "one_liner": "AI robots for factory automation",
+      "one_liner": "AI robots for manufacturing",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3645,9 +3683,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3967,9 +4005,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
         "Supply Chain",
-        "AI",
         "AI Assistant",
         "Industrial"
       ],
@@ -4031,9 +4069,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4083,8 +4121,8 @@
       "name": "cubic",
       "slug": "cubic",
       "website": "https://cubic.dev/",
-      "description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 40% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
-      "one_liner": "Cursor for code review",
+      "description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
+      "one_liner": "AI-powered code review platform",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4264,9 +4302,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4329,10 +4367,10 @@
       ],
       "locations": "Remote",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4395,11 +4433,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Data Labeling",
-        "AI"
+        "Data Labeling"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4507,7 +4545,7 @@
       "name": "Atlog",
       "slug": "atlog",
       "website": "https://atlog.ai",
-      "description": "We use voice agents to conduct sales and recover outstanding payments for in-house furniture rental agreements. Currently, each store makes 200+ sales and collections calls per day. ",
+      "description": "Atlog uses voice agents to conduct sales and recover outstanding payments for in-house furniture rental agreements. Currently, each store makes 200+ sales and collections calls per day. ",
       "one_liner": "Voice Agents for Furniture Retail",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4706,7 +4744,7 @@
       "slug": "leeroo",
       "website": "https://www.leeroo.com/",
       "description": "Leeroo delivers trainable AI agents that learn much like human colleagues\u2014 from knowledge bases, human feedback, and even their own past experiences. That continuous learning bridges the gap between generic AI and the expert performance companies need. We\u2019re starting with agents for data- and AI-teams.",
-      "one_liner": "Trainable AI Agents",
+      "one_liner": "Continuously Learning AI Agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -4732,5 +4770,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-06T18:01:27.405320"
+  "fetched_at": "2025-06-07T00:02:57.153209"
 }

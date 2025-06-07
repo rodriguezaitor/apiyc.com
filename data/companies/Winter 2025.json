@@ -672,9 +672,9 @@
       "id": 30335,
       "name": "Pig",
       "slug": "pig",
-      "website": "https://pig.dev",
-      "description": "Pig is an API to launch and automate Windows desktops. Pig's SDK tools plug into your agent loops to allow them to navigate UIs and integrate with software that doesn't have an API.\r\n",
-      "one_liner": "An API for automating Windows apps with AI",
+      "website": "https://github.com/pig-dot-dev/muscle-mem",
+      "description": "Pig is building Muscle Mem, an SDK for recording and deterministically replaying tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.\r\n",
+      "one_liner": "Behavioral Cache for Agents",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 1,
@@ -5294,5 +5294,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-06-06T18:01:27.265097"
+  "fetched_at": "2025-06-07T00:02:56.630214"
 }
