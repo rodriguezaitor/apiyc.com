@@ -763,8 +763,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Enterprise Software",
-        "AI"
+        "Artificial Intelligence",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -829,11 +829,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1959,10 +1959,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Reinforcement Learning",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2561,10 +2561,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
         "Sales Enablement",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3969,7 +3969,7 @@
       "slug": "minerva",
       "website": "https://www.tryminerva.ai",
       "description": "From bookkeeping to tax filing\u2014Minerva effortlessly does your business accounting at a fraction of the cost.",
-      "one_liner": "Instant, flawless AI accountant",
+      "one_liner": "Human-like AI bookkeeper for SMBs",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3985,7 +3985,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4781,5 +4781,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-07T06:01:28.951968"
+  "fetched_at": "2025-06-07T12:01:34.683697"
 }
