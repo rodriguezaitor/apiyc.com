@@ -564,9 +564,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -646,7 +646,7 @@
       "name": "Lumari",
       "slug": "lumari",
       "website": "https://www.lumari.io/",
-      "description": "Lumari enables non-technical GTM teams to create custom internal apps and agentic workers without writing any code. \r\n\r\nSimply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
+      "description": "Lumari enables non-technical GTM teams to create custom internal apps and agentic workers without writing any code. \r\nSimply describe what you want, and we'll generate and deploy fully integrated, secure apps in minutes.",
       "one_liner": "Agentic internal tools",
       "batch": "Spring 2025",
       "status": "Active",
@@ -655,7 +655,7 @@
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
-        "Operations"
+        "Sales"
       ],
       "regions": [
         "United States of America",
@@ -946,7 +946,7 @@
       "slug": "workdone",
       "website": "https://www.wrkdn.com",
       "description": "WorkDone is an AI compliance copilot for hospitals. We prevent documentation errors that cause 250 million insurance claim denials every year\u2014before they happen.",
-      "one_liner": "AI compliance copilot for hospitals to maximize insurance payouts",
+      "one_liner": "Real-time AI Compliance for Medical Documentation",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 5,
@@ -1072,8 +1072,8 @@
       "name": "Lapel",
       "slug": "lapel",
       "website": "https://lapel.com/",
-      "description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies\u2014great for metrics, terrible for humans.\r\n\r\nCustomers don\u2019t see lines between Sales, Success, and Support, and your software shouldn\u2019t either. Learn more at lapel.com",
-      "one_liner": "Customer operations platform for internet businesses.",
+      "description": "Lapel is a customer operations platform that brings hospitality to the internet.\r\n\r\nWe unify every signal into one real-time view of each account\u2014then power every touchpoint across sales, success, and support.\r\n\r\nMost customer relationships today are managed through dashboards, funnels, and canned replies. Great for metrics, terrible for humans. We believe service should feel personal, not transactional. Lapel helps you scale that feeling to every customer.",
+      "one_liner": "Scale personalized service to every customer.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -1088,10 +1088,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Customer Success",
         "Sales",
-        "Customer Support",
-        "AI"
+        "Customer Support"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1357,9 +1357,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1730,7 +1730,7 @@
         "Developer Tools",
         "Reinforcement Learning",
         "SaaS",
-        "AI Assistant",
+        "AI",
         "ML"
       ],
       "stage": "Early",
@@ -2162,9 +2162,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Legal"
+        "Legal",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2375,7 +2375,7 @@
       "name": "HABIT",
       "slug": "habit",
       "website": "https://habitrobotics.com",
-      "description": "HABIT is building a network of robotic deployment centers. Our locations will deploy on-demand robotic labor to you \u2014 and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical \u2014 the $45B car wash and auto detailing market \u2014 is high cost, labor intensive, and already offered in thousands of locations across America.",
+      "description": "HABIT is building a network of robotic deployment centers, and we have $77M in LOIs + a $1.9M binding contract for our first vertical \u2014 auto detailing.\r\n\r\nOur locations will deploy on-demand robotic labor to you \u2014 and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical \u2014 the $45B car wash and auto detailing market \u2014 is high cost, labor intensive, and already offered in thousands of locations across America.",
       "one_liner": "Reshaping neighborhood services with robotics. Auto details are first.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2680,8 +2680,8 @@
       "name": "VoiceOS",
       "slug": "voiceos",
       "website": "https://voiceos.com",
-      "description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant \u2014 holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent\u2019s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise \u2014 we\u2019re poised to make it the new global standard for conversational hiring.",
-      "one_liner": "Scaling Interviews for Enterprise Hiring",
+      "description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant \u2014 holds lifelike interviews tailored to each applicant's unique background. Recruiters see only a curated shortlist as VoiceOS fine-tunes the questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise.\r\n\r\nVoiceOS is setting a new standard for hiring excellence.",
+      "one_liner": "Voice AI Interviews for Enterprise",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -2708,15 +2708,15 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748319646.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/448b1a4a715ad6ca5aa526e5a22dfe883b86f132.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8fb4dcdeadaf70c4ec641fff15a8be647ecc10d.png"
     },
     {
       "id": 30459,
       "name": "Chiron",
       "slug": "chiron",
       "website": "https://projectchiron.org",
-      "description": "Chiron is an iPad app that understands math as it\u2019s written - like Grammarly for algebra. We\u2019re both Oxford math grads, have tutored for a decade, and we\u2019re creating the future of learning which will be entirely 1:1.",
-      "one_liner": "Grammarly for math",
+      "description": "Chiron is an iPad app that understands math as it\u2019s written - like Grammarly for algebra. We\u2019re both Oxford math grads, have tutored for a decade, and we\u2019re creating the future of learning which will be entirely 1-on-1.",
+      "one_liner": "Grammarly for Math \u270f\ufe0f",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2765,9 +2765,9 @@
       ],
       "locations": "Cocoa, FL, USA",
       "tags": [
-        "Artificial Intelligence",
         "Manufacturing",
         "Aerospace",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3002,7 +3002,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AIOps",
+        "Machine Learning",
+        "DevOps",
         "Monitoring",
         "AI"
       ],
@@ -3201,8 +3202,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Robotics"
+        "Robotics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3300,9 +3301,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Education",
-        "Edtech",
-        "AI"
+        "Edtech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3382,7 +3383,7 @@
       "name": "Clarm",
       "slug": "clarm",
       "website": "https://www.clarm.com",
-      "description": "Clarm is your AI-native search and agent builder on internal docs. Our first customers are delighted to pay us 10x less than they would spend on a Chief of Staff, creating daily product release notes, customer feedback analysis, capturing sales objections, and running dedicated customer support channels. The COO's hair is on fire and we put it out.\r\n\r\nOur platform is built on agentic search, connecting across 40+ enterprise integrations - CRMs, email, knowledge bases.\r\n\r\nAgents often fail because their underlying context windows are mismatched, leading them to hallucinate. We built enterprise native agentic search to ensure agents have all the context they need to operate fully autonomously.\r\n\r\nHere's what Clarm's C-suite buyers use us for:\r\n\r\n- a blockchain company to provide an on-demand source of product truth in natural language, reducing alignment meetings by 90%\r\n- a financial services firm to supercharge their own product by integrating it with the target's enterprise knowledge\r\n- the top 5 X25 open source startups (by star count) to increase engagement with their Github repo and knowledge base, turning repo visitors into contributors and customers\r\n- North America's largest fertility clinic to tailor '000s of client support questions with extremely high sensitivity, driving up engagement and turning prospects into committed customers",
+      "description": "Clarm is your AI-native search and agent builder on internal docs. We are the #1 alignment meeting killer.\r\n\r\nOur first customers are delighted to pay us 10x less than they would spend on a Chief of Staff, creating daily product release notes, customer feedback analysis, capturing sales objections, and running dedicated customer support channels. The COO's hair is on fire and we put it out.\r\n\r\nOur platform is built on agentic search, connecting across 40+ enterprise integrations - CRMs, email, knowledge bases.\r\n\r\nAgents often fail because their underlying context windows are mismatched, leading them to hallucinate. We built enterprise native agentic search to ensure agents have all the context they need to operate fully autonomously.\r\n\r\nHere's what Clarm's C-suite buyers use us for:\r\n\r\n- a blockchain company to provide an on-demand source of product truth in natural language, reducing alignment meetings by 90%\r\n- a financial services firm to supercharge their own product by integrating it with the target's enterprise knowledge\r\n- the top 5 X25 open source startups (by star count) to increase engagement with their Github repo and knowledge base, turning repo visitors into contributors and customers\r\n- North America's largest fertility clinic to tailor '000s of client support questions with extremely high sensitivity, driving up engagement and turning prospects into committed customers",
       "one_liner": "Perplexity for internal docs",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3485,7 +3486,7 @@
       "name": "Zenobia Pay",
       "slug": "zenobia-pay",
       "website": "https://zenobiapay.com",
-      "description": "Zenobia Pay makes payments software for luxury retailers to accept pay-by-bank to avoid fraud, chargebacks, and credit card fees. We're on a mission to make it 3x cheaper to transact online, handling payments for a 1% fee.\r\n\r\nZenobia Pay integrates to your store through our ecommerce plugins (Shopify, BigCommerce, Woocomerce, etc), or through our open-source Javascript packages.\r\n\r\nIt's pay-by-bank with instant clearance, with a bundled fraud chargeback guarantee, for 1%. No need to handle sensitive account details, either. Your customers log into their bank and store access tokens on their own hardware in the secure enclave. ",
+      "description": "Zenobia Pay enables luxury brands and jewelers to accept pay-by-bank. We\u2019ve built an instant clearing pay-by-bank network with bundled fraud insurance that costs 3 times less in fees than credit card processing.\r\n\r\nWe are building Zenobia Pay specifically for expensive goods. Items are high intentionality, so we can actually convert customers at checkout. Payments go through your phone without you having to download an app.\r\n\r\nWe use purchase metadata to provide a digital proof of purchase for the entire lifespan of luxury goods so that brands can earn fees verification fees on the $39B resale market, which is growing 3 times faster than new sales.\u00a0\r\n\r\nZenobia Pay is a branded pay-by-bank rewards network that is the default payment mechanism for all purchases over $200.",
       "one_liner": "Bank transfers as payments for luxury retailers.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3503,7 +3504,8 @@
       "locations": "New York, NY, USA",
       "tags": [
         "Fintech",
-        "Payments"
+        "Payments",
+        "E-commerce"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3534,10 +3536,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotic Process Automation",
         "Robotics",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3551,7 +3553,7 @@
       "name": "The Robot Learning Company",
       "slug": "the-robot-learning-company",
       "website": "https://www.robot-learning.co/",
-      "description": "TRLC is building robots to automate repetitive and stationary tasks in retail and hospitality. For this, they are developing robotic manipulation models designed to perform out-of-the-box in any environment.",
+      "description": "TRLC is building robots to automate repetitive and stationary tasks. For this, they are developing robotic manipulation models designed to perform out-of-the-box in any environment.",
       "one_liner": "AI-powered robotics for everyday automation",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3696,9 +3698,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3713,7 +3715,7 @@
       "slug": "capacitive",
       "website": "https://capacitive.ai/",
       "description": "Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.\r\n\r\nCapacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context \u2014 or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",
-      "one_liner": "The enterprise data gateway company.",
+      "one_liner": "The AI Agent Platform for Knowledge Workers.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3791,9 +3793,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Consumer"
+        "Consumer",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3808,7 +3810,7 @@
       "slug": "auctor",
       "website": "https://getauctor.com",
       "description": "Auctor is used by leading solution engineers, system integrators, and professional services teams. Our AI agents capture requirements, generate aligned artifacts, and streamline discovery to deployment\u2014turning weeks into hours.",
-      "one_liner": "AI for best-in-class pre-sales and delivery teams.",
+      "one_liner": "Automating Enterprise Software Implementations",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -4082,9 +4084,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4117,10 +4119,10 @@
       ],
       "locations": "Z\u00fcrich, ZH, Switzerland",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Design Tools",
-        "No-code",
-        "AI"
+        "No-code"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4215,9 +4217,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4380,10 +4382,10 @@
       ],
       "locations": "Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Machine Learning",
-        "AI"
+        "Machine Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4641,9 +4643,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Design Tools",
-        "Semiconductors"
+        "Semiconductors",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4783,5 +4785,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-08T00:03:33.446072"
+  "fetched_at": "2025-06-08T06:01:06.229311"
 }

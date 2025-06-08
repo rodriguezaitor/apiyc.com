@@ -1726,8 +1726,8 @@
       "name": "Lingo.dev",
       "slug": "lingodotdev",
       "website": "https://lingo.dev",
-      "description": "Lingo.dev is an AI-powered CLI for app localization. It generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
-      "one_liner": "Automated AI localization for dev teams. (formerly Replexica)",
+      "description": "Lingo.dev helps dev teams use LLMs for app localization and content translation. Lingo.dev Compiler helps React developers localize apps without rewriting the existing code. Lingo.dev CLI helps web and mobile teams use AI for producing perfect translations for their user interfaces and docs. Lingo.dev SDK helps use LLMs for real-time translations.",
+      "one_liner": "Open-source, AI-powered i18n toolkit for instant localization.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 4,
@@ -3095,5 +3095,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-06-08T00:03:33.749458"
+  "fetched_at": "2025-06-08T06:01:08.580412"
 }

@@ -6010,6 +6010,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d2d742eff5354c7ab2613bb9ba4ba6a64e707b5.png"
     },
     {
+      "id": 29671,
+      "name": "Scape",
+      "slug": "scape",
+      "website": "https://scape.app",
+      "description": "Automatically organizes your team's emails and meeting notes. Find anything in seconds, get intelligent email drafts, and reclaim hours every day.",
+      "one_liner": "AI-native CRM that captures all your conversations",
+      "batch": "Summer 2024",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "SaaS",
+        "API",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1724272483.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fff3fc37d3c4e4bfb73fc4ab19ab297fac64b0b.png"
+    },
+    {
       "id": 29670,
       "name": "Zuni",
       "slug": "zuni",
@@ -8302,5 +8337,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-08T00:03:32.960485"
+  "fetched_at": "2025-06-08T06:01:03.329619"
 }
