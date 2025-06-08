@@ -428,9 +428,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -531,10 +531,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Gaming",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1033,7 +1033,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747245373.0,
@@ -1391,10 +1391,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1627,11 +1627,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Entertainment",
         "Legal",
-        "Music",
-        "AI"
+        "Music"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1845,7 +1845,7 @@
       "name": "QualGent",
       "slug": "qualgent",
       "website": "https://qualgent.ai",
-      "description": "QualGent is an AI-powered QA tester for mobile apps that mimics a real human, helping teams catch bugs and ship faster\u2014without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders\u2019 experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent\u2019s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck\u2014software verification\u2014unlocking truly scalable, end-to-end software development.",
+      "description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders\u2019 experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent\u2019s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck\u2014software verification\u2014unlocking truly scalable, end-to-end software development.",
       "one_liner": "AI Mobile App Quality Assurance Tester",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1927,7 +1927,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Health Tech",
         "Healthcare",
+        "API",
         "Customer Service",
         "Conversational AI"
       ],
@@ -2044,7 +2046,7 @@
       "name": "throxy",
       "slug": "throxy",
       "website": "https://throxy.com/",
-      "description": "throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken\u2014generic automation gets ignored, and legacy sectors are hard to crack. throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We\u2019re not just automating outbound, we\u2019re redefining what sales execution looks like in traditional industries.\r\n\r\nthroxy is the AI SDR purpose-built for the sectors software forgot.",
+      "description": "throxy is building vertical AI agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken\u2014generic automation gets ignored, and legacy sectors are hard to crack. throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We\u2019re not just automating outbound, we\u2019re redefining what sales execution looks like in traditional industries.\r\n\r\nthroxy is the AI SDR purpose-built for the sectors software forgot.",
       "one_liner": "Vertical AI agents that run the sales funnel on autopilot",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2160,9 +2162,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Legal",
-        "AI"
+        "Legal"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2254,10 +2256,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Search",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -2561,10 +2563,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
         "Sales Enablement",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2763,9 +2765,9 @@
       ],
       "locations": "Cocoa, FL, USA",
       "tags": [
+        "Artificial Intelligence",
         "Manufacturing",
         "Aerospace",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2781,10 +2783,10 @@
       "slug": "trapeze",
       "website": "https://www.trapezehealth.com",
       "description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we\u2019ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how consumers and clinics get scheduled and connect.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
-      "one_liner": "AI scheduling agents for healthcare",
+      "one_liner": "AI-native Zocdoc",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": null,
+      "team_size": 2,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -2797,9 +2799,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Scheduling"
+        "Scheduling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3320,7 +3322,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3582,7 +3584,7 @@
       "slug": "helixdb",
       "website": "https://helix-db.com",
       "description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
-      "one_liner": "The database for intelligence",
+      "one_liner": "HelixDB is an open source database built for AI retrieval",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3694,9 +3696,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3773,7 +3775,7 @@
       "slug": "approval-ai",
       "website": "https://getapproval.ai",
       "description": "Approval AI is an AI-powered mortgage co-pilot that automates the most complex parts of getting a mortgage: rate shopping, negotiation, and paperwork, all in one place. We automate what brokers and loan officers do, and hand those tools directly to the buyer.",
-      "one_liner": "AI that shops your mortgage, negotiates it, and wins",
+      "one_liner": "One-click mortgage: AI shops, negotiates, and handles your application",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3919,10 +3921,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Biotech",
         "Healthcare",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4080,9 +4082,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4246,9 +4248,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Healthcare",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4514,7 +4516,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747069734.0,
@@ -4671,9 +4673,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4781,5 +4783,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-07T18:01:29.293408"
+  "fetched_at": "2025-06-08T00:03:33.446072"
 }

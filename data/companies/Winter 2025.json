@@ -2517,15 +2517,10 @@
         "Agriculture"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "AI-powered Drug Discovery",
-        "Agriculture",
-        "Sustainable Agriculture"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5294,5 +5289,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-06-07T18:01:28.628136"
+  "fetched_at": "2025-06-08T00:03:33.361112"
 }

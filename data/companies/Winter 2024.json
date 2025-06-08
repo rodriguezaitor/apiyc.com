@@ -3104,7 +3104,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1704780983.0,
@@ -6820,12 +6820,12 @@
       "id": 29257,
       "name": "Tuesday Lab",
       "slug": "tuesday-lab",
-      "website": "https://www.tuesdaylab.com/",
-      "description": "Tuesday makes delightful robots for your everyday life",
+      "website": "https://www.tuesdaylab.com",
+      "description": "Tuesday makes delightful robots that tidy your home for you",
       "one_liner": "Delightful robots",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 5,
       "industry": "Consumer",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -6841,10 +6841,11 @@
         "Robotics",
         "Consumer",
         "Gaming",
+        "Electronics",
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706678921.0,
@@ -8299,5 +8300,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-07T18:01:26.500814"
+  "fetched_at": "2025-06-08T00:03:32.905180"
 }
