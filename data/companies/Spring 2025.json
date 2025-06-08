@@ -21,11 +21,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Sales"
+        "Sales",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -394,10 +394,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Search",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -730,10 +730,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Team Collaboration"
+        "Team Collaboration",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -945,11 +945,11 @@
       "name": "WorkDone",
       "slug": "workdone",
       "website": "https://www.wrkdn.com",
-      "description": "WorkDone is an AI compliance copilot for hospitals. We prevent documentation errors that cause 250 million insurance claim denials every year\u2014before they happen.",
+      "description": "WorkDone is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
       "one_liner": "Real-time AI Compliance for Medical Documentation",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 4,
       "industry": "Healthcare",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -962,11 +962,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Compliance",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1088,10 +1088,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Customer Success",
         "Sales",
-        "Customer Support",
-        "AI"
+        "Customer Support"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1259,9 +1259,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Open Source",
         "Email",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1610,7 +1610,7 @@
       "name": "Third Chair",
       "slug": "third-chair",
       "website": "https://usethirdchair.com",
-      "description": "We\u2019re building agents for in-house legal teams, starting with media/entertainment. \r\n\r\nOur customers use Third Chair to discover IP infringements, collect evidence, and recover millions of dollars in damages.\r\n\r\nAI will enable the first one-person unicorn. Third Chair will be their legal team. ",
+      "description": "We\u2019re building agents for in-house legal teams, starting with media/entertainment. Our customers use Third Chair to discover IP infringements, collect evidence, and recover millions of dollars in damages.\r\n\r\nWe\u2019re both second-time, exited YC founders with deep domain expertise in this market. My last startup sold marketing analytics to Universal Music Group and Mr. Beast. My cofounder Shourya founded a fintech platform and scaled it to 2 million users and tens of millions in transactions. \r\n\r\nAI will enable the first one-person unicorn. Third Chair will be their legal team. ",
       "one_liner": "Agents for in-house legal teams",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1627,11 +1627,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Entertainment",
         "Legal",
-        "Music"
+        "Music",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2162,9 +2162,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Legal",
-        "AI"
+        "Legal"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2195,7 +2195,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747691019.0,
@@ -2708,7 +2708,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748319646.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8fb4dcdeadaf70c4ec641fff15a8be647ecc10d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/05a829f2f84ac056fc78c01fb62b51d575e84a82.png"
     },
     {
       "id": 30459,
@@ -2765,9 +2765,9 @@
       ],
       "locations": "Cocoa, FL, USA",
       "tags": [
+        "Artificial Intelligence",
         "Manufacturing",
         "Aerospace",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2782,7 +2782,7 @@
       "name": "Trapeze",
       "slug": "trapeze",
       "website": "https://www.trapezehealth.com",
-      "description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we\u2019ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how consumers and clinics get scheduled and connect.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
+      "description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we\u2019ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how patients and providers find each other.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
       "one_liner": "AI-native Zocdoc",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3002,10 +3002,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "DevOps",
-        "Monitoring",
-        "AI"
+        "Monitoring"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3119,7 +3119,7 @@
       "name": "Caucus",
       "slug": "caucus",
       "website": "https://www.getcaucus.com/",
-      "description": "Caucus is the last piece of software the American government will ever need. We\u2019re building Cursor for government: general purpose AI agents designed to understand workflows, integrate with existing tools, and eliminate the friction of fragmented software. Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
+      "description": "Caucus is the last piece of software the American government will ever need. We're building an AI CRM for government. Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
       "one_liner": "AI CRM for Government",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3135,9 +3135,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Civic Tech",
-        "GovTech"
+        "GovTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3841,7 +3841,7 @@
       "name": "neoncoral",
       "slug": "neoncoral",
       "website": "http://neoncoral.inc",
-      "description": "Consumer social platform with all AI generated videos",
+      "description": "",
       "one_liner": "AI TikTok - social media platform with all AI generated videos",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3856,10 +3856,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Social Media",
-        "Social",
-        "AI"
+        "Social"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4448,11 +4448,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Data Labeling"
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4788,5 +4788,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-08T12:01:33.794186"
+  "fetched_at": "2025-06-08T18:01:22.340349"
 }
