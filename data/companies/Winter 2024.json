@@ -3855,15 +3855,16 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent helps teams create better prompts for AI coding. It connects to your tools like GitHub and Posthog to turn real context into evolving instructions that improve how coding agents work.\r\n",
-      "one_liner": "Better prompts for vibe coding",
+      "description": "Superagent builds infrastructure for running and embedding AI coding agents in real workflows \u2014 safely, flexibly, and with full control.\r\n\r\nOur latest open-source release is VibeKit, an open-source SDK for running agents like Codex or Claude inside secure, isolated environments. It supports multiple sandbox providers, adds streaming output, telemetry, and async execution \u2014 making it easy to integrate agents into apps, GitHub flows, or internal tools.\r\n\r\nLearn more: https://www.vibekit.sh/",
+      "one_liner": "Infrastructure for coding agents. Builders of VibeKit.",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -3872,8 +3873,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "SaaS",
-        "AI Assistant"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8300,5 +8300,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-09T06:01:35.219132"
+  "fetched_at": "2025-06-09T12:01:34.253350"
 }
