@@ -2302,19 +2302,18 @@
     },
     {
       "id": 419,
-      "name": "Sparkboard",
-      "slug": "sparkboard",
-      "website": "http://sparkboard.com",
-      "description": null,
+      "name": "BrainTripping",
+      "slug": "braintripping",
+      "website": "https://braintripping.com",
+      "description": "",
       "one_liner": "",
       "batch": "Summer 2012",
       "status": "Inactive",
       "team_size": 1,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Productivity",
       "industries": [
-        "B2B",
-        "Productivity"
+        "Consumer"
       ],
       "regions": [
         "Unspecified"
@@ -2675,5 +2674,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-06-09T12:01:40.184050"
+  "fetched_at": "2025-06-09T18:01:32.476211"
 }
