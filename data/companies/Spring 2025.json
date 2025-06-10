@@ -3451,8 +3451,8 @@
       "name": "Kaelio",
       "slug": "kaelio",
       "website": "https://kaelio.com/",
-      "description": "Kaelio is building analytics agents for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI agent that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
-      "one_liner": "AI analytics for healthcare organizations",
+      "description": "Kaelio is building the AI command center for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI agent that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
+      "one_liner": "AI command center for healthcare organizations",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3693,17 +3693,12 @@
         "Healthcare"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Health Tech",
-        "Healthcare"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745902014.0,
@@ -4787,5 +4782,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-10T06:01:31.238241"
+  "fetched_at": "2025-06-10T12:01:35.747648"
 }
