@@ -2356,7 +2356,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690889498.0,
@@ -3821,11 +3821,11 @@
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Jersey City, NJ, USA; Remote",
+      "locations": "Sunnyvale, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Infrastructure",
-        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -7317,5 +7317,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-10T00:03:00.809719"
+  "fetched_at": "2025-06-10T06:01:28.910684"
 }

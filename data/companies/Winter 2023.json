@@ -5126,11 +5126,11 @@
       "name": "Kivo Health",
       "slug": "kivo-health",
       "website": "https://kivohealth.com",
-      "description": "Kivo Health provides telehealth rehab for chronic lung disease patients. We offer an 8-week clinical program led by a live therapist, which saves payers $6,000 per patient. Only 3% of eligible patients are getting this life-changing therapy right now.",
-      "one_liner": "Telehealth lung rehab",
+      "description": "Kivo Health provides AI-powered virtual care for chronic lung disease patients. We offer an Medicare-covered clinical program that improves symptoms and reduces costs of care. ",
+      "one_liner": "AI-powered virtual care for chronic lung disease",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 20,
+      "team_size": 25,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
@@ -5141,9 +5141,9 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Consumer Health Services",
         "Telehealth",
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-06-10T00:02:58.690732"
+  "fetched_at": "2025-06-10T06:01:26.567536"
 }
