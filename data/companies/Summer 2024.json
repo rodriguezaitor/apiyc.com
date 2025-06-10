@@ -1188,7 +1188,7 @@
         "Electronics"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722536101.0,
@@ -4025,7 +4025,7 @@
       "locations": "Austin, TX, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721586663.0,
@@ -8330,5 +8330,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-10T12:01:35.296573"
+  "fetched_at": "2025-06-10T18:01:00.580599"
 }
