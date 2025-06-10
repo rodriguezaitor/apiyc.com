@@ -1627,18 +1627,12 @@
         "Finance and Accounting"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Finance",
-        "Productivity",
-        "Enterprise Software"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736927502.0,
@@ -4175,8 +4169,8 @@
       "name": "Subtrace",
       "slug": "subtrace",
       "website": "https://subtrace.dev",
-      "description": "Subtrace lets developers see every request in their production backend with a single command so that they can root cause issues faster.",
-      "one_liner": "Wireshark for Production Backends",
+      "description": "Subtrace is a zero-code network tracer. It's like having an inspect element button for your whole infra: when you start a process with Subtrace, you'll see every HTTP request coming in and going out in realtime. Under the hood, it uses BPF to make this possible without any root privileges or code changes. We have ~2.5k stars on Github.",
+      "one_liner": "Zero code network tracer",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -4187,9 +4181,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
@@ -5289,5 +5284,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-06-09T18:01:29.564218"
+  "fetched_at": "2025-06-10T00:03:02.350147"
 }

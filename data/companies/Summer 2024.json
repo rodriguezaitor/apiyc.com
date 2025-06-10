@@ -3418,7 +3418,7 @@
       "one_liner": "The cheapest GPU cloud for developing AI/ML",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -3431,11 +3431,11 @@
       ],
       "locations": "Atlanta, GA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Data Science",
         "Cloud Computing",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3695,7 +3695,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1718647013.0,
@@ -8330,5 +8330,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-09T18:01:27.474242"
+  "fetched_at": "2025-06-10T00:02:59.578269"
 }

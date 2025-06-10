@@ -2356,7 +2356,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690889498.0,
@@ -4999,8 +4999,8 @@
       "name": "Ponder",
       "slug": "ponder",
       "website": "https://useponder.ai",
-      "description": "Ponder lets developers build ultra realistic Voice AI agents for web applications in just a few lines of code.\r\n\r\nWe abstract away the messy pipelines of async websockets, voice activity detection, audio streaming and interruption handling, integrating with language models, handling function calling, keeping the voice realistic and contextual to make sure that you get consistent 300-500ms latency that scales across thousands of users.\r\n\r\nPonder lets you easily bring your own LLM or pick from one of the most popular providers.\r\n\r\nThis way developers can focus on building great voice experiences and not maintain complex infrastructure.\r\n\r\nPonder provides abilities to take actions on both front end and backend which enables developers to build agents that can navigate, click, scroll and also access databases and APIs on the backend.\r\n\r\nWe also offer a plug and play component that renders in the bottom right corner of the website letting you get started with Voice AI in just one line of code.",
-      "one_liner": "Voice AI Infrastructure for the Web",
+      "description": "Ponder lets developers deploy and use SOTA text to speech models that scale up and down automatically with no restrictions to concurrency or throughput.\r\n\r\nModels on Ponder support both input and output streaming for realtime applications, maintaining TTFB (audio) in the 10s of milliseconds.",
+      "one_liner": "Inference for Realtime Voice AI",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -5015,10 +5015,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Workflow Automation",
-        "Productivity",
-        "AI",
+        "Cloud Computing",
+        "Infrastructure",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -7317,5 +7317,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-09T18:01:28.435780"
+  "fetched_at": "2025-06-10T00:03:00.809719"
 }
