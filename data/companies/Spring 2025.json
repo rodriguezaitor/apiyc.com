@@ -21,11 +21,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Sales",
-        "AI"
+        "Sales"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -344,7 +344,7 @@
       "name": "sieve",
       "slug": "usesieve",
       "website": "https://usesieve.com/",
-      "description": "sieve solves data cleaning for hedge funds and investment firms by delivering clean, reliable data wherever they already work - via APIs for devs and Excel for analysts. Currently, many firms rely on manual review steps where engineers literally receive emails containing data they need to review. sieve replaces that with an API that integrates directly into their existing data pipelines. Instead of raising for human review, they can send all the same information to our API and get clean, trustworthy data back. On top of our API, we offer an Excel integration that lets analysts pull data from any source (filings, pdfs, images - even ones in other languages!) into their models with with just a URL.\r\n\r\nAnalysts and data scientists complain that AI alone falls short of their accuracy requirements. They end up needing to check AI outputs against source documents to confirm accuracy. We  solve this last mile problem by integrating expert reviewers to catch and correct the issues that AI alone doesn't get right.",
+      "description": "We\u2019re building the AI trust layer. Companies in higher-risk industries want to use AI but can't yet trust it. We verify the AI outputs before they reach the user, so they can be used in industries like finance and medicine. Right now that's using humans, but in the future we'll offer AI-based verification solutions.\r\n\r\nBusinesses complain that AI alone falls short of their accuracy requirements. They end up needing to check AI outputs against source documents to confirm accuracy. We solve this last mile problem by integrating expert reviewers to catch and correct the issues that AI alone doesn't get right.",
       "one_liner": "AI + human review to solve data cleaning - accessible via API or Excel",
       "batch": "Spring 2025",
       "status": "Active",
@@ -394,10 +394,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Search",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -664,10 +664,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "No-code"
+        "No-code",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -830,11 +830,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -912,7 +912,7 @@
       "slug": "rimba",
       "website": "https://rimba.ai",
       "description": "Rimba is building the AI-native operating system for industrial compliance\u2014replacing legacy giants like SAP. As industrial companies face mounting regulatory complexity, legacy ERP and compliance systems fail to keep up. \r\nWe're building a vertical platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80% cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
-      "one_liner": "AI for Energy & Industrial Compliance",
+      "one_liner": "AI to replace consultants for energy & industrial compliance reporting",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -930,9 +930,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3203,8 +3203,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Robotics",
-        "AI"
+        "Artificial Intelligence",
+        "Robotics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4783,5 +4783,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-11T12:01:40.613308"
+  "fetched_at": "2025-06-11T18:01:07.009491"
 }

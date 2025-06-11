@@ -2013,17 +2013,10 @@
         "Operations"
       ],
       "regions": [
-        "France",
-        "Europe"
+        "Unspecified"
       ],
-      "locations": "Paris, \u00cele-de-France, France",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Automation",
-        "Operations",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5877,40 +5870,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e3f7c771362aee962754af2fd00c6281c92c7b2.png"
     },
     {
-      "id": 28799,
-      "name": "Remy",
-      "slug": "remy",
-      "website": "https://www.startremy.com/",
-      "description": "Remy automates insurance-related tasks for practices, starting with phone calls to verify patient benefits and check on claims.",
-      "one_liner": "Making it simpler for medical clinics to work with insurance",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Healthcare",
-      "subindustry": "B2B -> Security",
-      "industries": [
-        "Healthcare",
-        "Healthcare Services"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "Health Insurance",
-        "Operations",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1687066070.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b0f6a6d9697c73c56e4ffd40933940d124fb99.png"
-    },
-    {
       "id": 28796,
       "name": "Sweetspot",
       "slug": "sweetspot",
@@ -7282,6 +7241,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/612d97982fa7188f4b057359d71cb159d3758d7a.png"
     },
     {
+      "id": 28799,
+      "name": "Remy",
+      "slug": "remy",
+      "website": "https://www.startremy.com/",
+      "description": "Remy automates insurance-related tasks for practices, starting with phone calls to verify patient benefits and check on claims.",
+      "one_liner": "Making it simpler for medical clinics to work with insurance",
+      "batch": "Summer 2023",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Health Insurance",
+        "Operations",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1687066070.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b0f6a6d9697c73c56e4ffd40933940d124fb99.png"
+    },
+    {
       "id": 28759,
       "name": "Branch AI",
       "slug": "branch-ai",
@@ -7317,5 +7310,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-11T12:01:38.299973"
+  "fetched_at": "2025-06-11T18:01:05.202246"
 }

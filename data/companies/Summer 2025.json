@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": 30647,
+      "name": "Cyberdesk",
+      "slug": "cyberdesk",
+      "website": "https://www.cyberdesk.io",
+      "description": "Cyberdesk is an open source, self hostable fleet of virtual desktops. We expose a simple API to start and control hundreds of virtual desktops, perfect for building computer use agents that automate repetitive, boring desktop tasks (like data entry).\r\n\r\nUnder the hood, we handle the provisioning of the desktops, a warm pool (for fast boot up times), and sending commands. \r\n\r\nMost importantly, we are fully open source and self-hostable on any Kubernetes cluster, which makes us perfect for agent developers automating in regulated industries such as healthcare, finance, insurance, and more.",
+      "one_liner": "Self hostable fleet of virtual desktops to build computer use agents",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Workflow Automation",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1749659433.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png"
+    }
+  ],
+  "fetched_at": "2025-06-11T18:01:13.030434"
+}
