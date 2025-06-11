@@ -1292,11 +1292,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Real Estate",
         "Proptech",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2223,9 +2223,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement",
-        "AI"
+        "Sales Enablement"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2446,7 +2446,7 @@
       "slug": "opusense-ai",
       "website": "https://www.opusense.com/",
       "description": "Opusense AI automates field report writing for construction field inspectors. Instead of typing up notes at the end of the day, inspectors can now walk a site, speak observations aloud, snap photos, and let our AI assistant generate a detailed, organized report on-site and in real time.\r\n\r\nCombined, the founding team has over 15 years in the construction industry. Writing up these field reports used to take up at least 20% of the week. With Opusense, we cut that time by 5x. Our team combines deep construction experience with technical expertise, Roya has a PhD in civil engineering, and Michael has worked at multiple construction tech startups.\r\n\r\nWhy hasn\u2019t this been done before? Construction is slow to adopt new tech, and reporting is messy, photos, voice notes, and field notes all live in silos. Turning that into a clear, structured report requires real insight into how inspectors work and what clients need. Only now, with advances in AI, can we process unstructured data adequately to generate high-quality reports in real time.\r\n\r\nThe opportunity is massive. Every inspection firm and contractor is struggling with documentation. Manual reports slow them down, create inconsistencies, and delay handoffs. We believe AI can do this better, and Opusense is proving it.",
-      "one_liner": "AI for construction field reports",
+      "one_liner": "AI for Field Inspection Reports",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3536,10 +3536,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Robotic Process Automation",
         "Robotics",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3553,8 +3553,8 @@
       "name": "The Robot Learning Company",
       "slug": "the-robot-learning-company",
       "website": "https://www.robot-learning.co/",
-      "description": "TRLC is building robots to automate repetitive and stationary tasks. For this, they are developing robotic manipulation models designed to perform out-of-the-box in any environment.",
-      "one_liner": "AI-powered robotics for everyday automation",
+      "description": "We make automation accessible to businesses with an affordable, general-purpose robot platform designed to automate repetitive, stationary tasks.",
+      "one_liner": "General-purpose robotics platform",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -4212,9 +4212,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4782,5 +4782,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-10T18:01:00.992581"
+  "fetched_at": "2025-06-11T00:02:55.293248"
 }

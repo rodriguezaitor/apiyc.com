@@ -640,8 +640,8 @@
       "name": "Nomba",
       "slug": "nomba",
       "website": "https://nomba.com",
-      "description": "Nomba provides Banking and payment to 200k+ small business in Nigeria through point of sales solutions.",
-      "one_liner": "Banking and payment services for small businesses in Nigeria",
+      "description": "Nomba provides Banking and payment to over 200k+ business in Africa (Nigeria & DRC).",
+      "one_liner": "Banking and payments for businesses in Africa",
       "batch": "Winter 2017",
       "status": "Active",
       "team_size": 200,
@@ -657,12 +657,12 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Lagos, LA, Nigeria; LA, Nigeria",
+      "locations": "Lagos, LA, Nigeria",
       "tags": [
         "Fintech"
       ],
       "stage": "Growth",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1478717435.0,
@@ -3872,5 +3872,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-06-10T18:01:01.144494"
+  "fetched_at": "2025-06-11T00:02:56.139957"
 }
