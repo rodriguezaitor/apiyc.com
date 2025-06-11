@@ -394,10 +394,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Search",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -412,7 +412,7 @@
       "slug": "theorem-2",
       "website": "https://theoremlabs.com/",
       "description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
-      "one_liner": "Superhuman code for mission critical systems",
+      "one_liner": "Program verification so even your systems engineers can vibecode",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -428,9 +428,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -463,6 +463,7 @@
         "AI-Enhanced Learning",
         "Generative AI",
         "Consumer",
+        "Social",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -663,10 +664,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "No-code",
-        "AI"
+        "No-code"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -763,8 +764,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -929,9 +930,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1173,7 +1174,7 @@
       "name": "Janus",
       "slug": "janus",
       "website": "https://www.withjanus.com/",
-      "description": "Janus tests conversational AI Agents for hallucinations, rule violations, tool call failures, and performance breakdowns pre-launch. We do this by simulating thousands of realistic AI users to eliminate manual testing and low-confidence in AI deployment. \r\n\r\nOur platform generates personalized datasets for custom evals and continuous model improvement.",
+      "description": "Janus tests conversational AI Agents for hallucinations, rule violations, tool call failures, and performance breakdowns pre-launch. We do this by simulating thousands of realistic AI users to eliminate manual testing and low-confidence in AI deployment.\r\n\r\nOur platform generates personalized datasets to evaluate, benchmark, and improve models over time.\r\n\r\n",
       "one_liner": "Battle-Test AI Agents with Human Simulation",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1191,9 +1192,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
-        "Monitoring",
-        "AI"
+        "Monitoring"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1292,11 +1293,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Real Estate",
         "Proptech",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1441,7 +1442,7 @@
       "slug": "vassar-robotics",
       "website": "https://www.vassarrobotics.com",
       "description": "We\u2019re unlocking cutting-edge robot AI for the nerd in your life. Our hardware and software let them teach robots skills like playing chess in just a few hours\u2014no robotics PhD required.",
-      "one_liner": "Al robot arms that learn new skills in 30 min.",
+      "one_liner": "$200 Al robot arms that learn new skills in 30 min.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 1,
@@ -1727,10 +1728,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Reinforcement Learning",
         "SaaS",
-        "AI",
         "ML"
       ],
       "stage": "Early",
@@ -1762,10 +1763,10 @@
       "locations": "Redwood City, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Generative AI",
         "Reinforcement Learning",
-        "Data Labeling"
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1878,7 +1879,7 @@
       "slug": "prism-ai",
       "website": "https://prismreplay.com/",
       "description": "",
-      "one_liner": "The Last Product Analytics Tool",
+      "one_liner": "AI-native Datadog + Amplitude",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -1894,9 +1895,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Design",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2223,9 +2224,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement"
+        "Sales Enablement",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2239,8 +2240,8 @@
       "name": "Morphik",
       "slug": "morphik",
       "website": "https://morphik.ai",
-      "description": "Morphik is an open-source AI-native knowledge base. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
-      "one_liner": "Open-source AI native knowledge base",
+      "description": "Morphik is open-source multimodal search for AI apps. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
+      "one_liner": "Open-source multimodal search for AI apps",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2256,10 +2257,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Search",
-        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -2358,10 +2359,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Robotic Process Automation",
-        "Workflow Automation",
-        "AI"
+        "Workflow Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2708,7 +2709,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748319646.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/05a829f2f84ac056fc78c01fb62b51d575e84a82.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/05dc1fcc381e78f5751ed829114514f490dacdec.png"
     },
     {
       "id": 30459,
@@ -2952,7 +2953,7 @@
       "slug": "better-auth",
       "website": "https://better-auth.com/",
       "description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It\u2019s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
-      "one_liner": "The fastest growing auth library with 14k+ stars and 1.5M+ downloads",
+      "one_liner": "The authentication framework for TypeScript",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3035,9 +3036,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Productivity",
-        "Team Collaboration"
+        "Team Collaboration",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3168,10 +3169,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Grocery",
         "Computer Vision",
-        "Retail"
+        "Retail",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3435,9 +3436,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Creator Economy"
+        "Creator Economy",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3451,8 +3452,8 @@
       "name": "Kaelio",
       "slug": "kaelio",
       "website": "https://kaelio.com/",
-      "description": "Kaelio is building the AI command center for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI agent that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
-      "one_liner": "AI command center for healthcare organizations",
+      "description": "Kaelio is building the AI operating system for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them AI agents that flag emerging risks, and take actions to enhance clinical, financial and operational performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
+      "one_liner": "AI operating system for healthcare organizations",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3536,10 +3537,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotic Process Automation",
         "Robotics",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3984,7 +3985,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4212,9 +4213,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4245,9 +4246,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Healthcare",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4558,8 +4559,8 @@
       "name": "Atlog",
       "slug": "atlog",
       "website": "https://atlog.ai",
-      "description": "Atlog uses voice agents to conduct sales and recover outstanding payments for in-house furniture rental agreements. Currently, each store makes 200+ sales and collections calls per day. ",
-      "one_liner": "Voice Agents for Furniture Retail",
+      "description": "Atlog uses voice agents to conduct sales and recover outstanding payments for in-house agreements. Currently, each store makes 200+ sales and collections calls per day. ",
+      "one_liner": "Voice Agents for Physical Retail Stores",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -4770,9 +4771,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4782,5 +4783,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-11T00:02:55.293248"
+  "fetched_at": "2025-06-11T06:01:35.009210"
 }
