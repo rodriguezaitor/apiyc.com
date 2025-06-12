@@ -7266,7 +7266,7 @@
       "name": "Ubicloud",
       "slug": "ubicloud",
       "website": "https://www.ubicloud.com",
-      "description": "Ubicloud is an open source cloud that can run anywhere.\r\n\r\nOur cloud services include elastic compute, block storage, virtual networking, managed Postgres, and powerful IAM. Ubicloud provides these services on bare metal providers, such as Hetzner, Leaseweb, or AWS Bare Metal.\r\n\r\nYou can self-host our software or use our managed service to reduce your cloud costs by 3-10x.",
+      "description": "Ubicloud is an open source cloud that can run anywhere.\r\n\r\nOur cloud services include elastic compute, block storage, virtual networking, managed Postgres, K8s, AI inference, and powerful IAM. Ubicloud provides these services on bare metal providers, such as Hetzner, Leaseweb, or AWS Bare Metal.\r\n\r\nYou can self-host our software or use our managed service to reduce your cloud costs by 3-10x.",
       "one_liner": "Open source alternative to AWS",
       "batch": "Winter 2024",
       "status": "Active",
@@ -7283,9 +7283,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Cloud Computing",
         "Infrastructure",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -8292,5 +8292,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-12T06:01:27.299471"
+  "fetched_at": "2025-06-12T12:01:29.888132"
 }
