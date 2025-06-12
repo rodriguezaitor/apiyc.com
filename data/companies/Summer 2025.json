@@ -1,6 +1,37 @@
 {
   "data": [
     {
+      "id": 30730,
+      "name": "Idler",
+      "slug": "idler",
+      "website": "https://idler.ai/",
+      "description": "",
+      "one_liner": "AI employees that handle the work, so people can do the magic.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1749750449.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcd86cbc2e4ab44520f932ab828ce39c7bafa4f1.png"
+    },
+    {
       "id": 30647,
       "name": "Cyberdesk",
       "slug": "cyberdesk",
@@ -34,5 +65,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png"
     }
   ],
-  "fetched_at": "2025-06-12T12:01:31.087126"
+  "fetched_at": "2025-06-12T18:01:16.942199"
 }
