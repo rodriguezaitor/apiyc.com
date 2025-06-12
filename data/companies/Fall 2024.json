@@ -210,8 +210,8 @@
       "name": "Canvas",
       "slug": "canvas",
       "website": "https://www.canvas.inc/",
-      "description": "Canvas is the AI-copilot for enterprise customer success teams. By automatically surfacing and addressing the most critical risks and growth opportunities, we transform CSMs from reactive support managers into proactive growth drivers.",
-      "one_liner": "AI-Copilot for Customer Success Teams",
+      "description": "Canvas is the first AI-Powered SDR Agency . By automatically surfacing and addressing the most critical risks and growth opportunities, we transform CSMs from reactive support managers into proactive growth drivers.",
+      "one_liner": "The First AI-Powered SDR Agency",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 3,
@@ -227,11 +227,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Customer Success",
         "Analytics",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -748,7 +748,7 @@
       "one_liner": "AI-powered demand forecasting for retail",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Retail",
       "industries": [
@@ -760,9 +760,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
-        "Retail Tech"
+        "Retail Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -813,11 +813,11 @@
       "name": "Chorrie",
       "slug": "chorrie",
       "website": "https://chorrie.com",
-      "description": "Chorrie is a no-code platform that puts AI in the hands of medical billing teams to prevent denied and under-billed insurance claims.  We use LLMs to empower billing teams to turn their manual claim QA into automated correctness checks.  Co-founders Chris and Jorrie are MIT computer science grads and went on to work at Google, where they used similar applied AI techniques to automate content moderation workflows and prevent real-world threats.  Within a month of launching with our first client, an ophthalmology practice with 8 clinics and 4 surgery centers, Chorrie has already flagged over $300k of claims that were either under-billed, or would've been denied.  Learn more at www.chorrie.com.",
-      "one_liner": "Eliminate medical claim denials & underbilling with AI",
+      "description": "Chorrie provides healthcare RCM automation using AI browser agents to handle the busywork of heavily-manual processes like medical coding, billing, insurance followup, and more.  Using the latest models and custom automation tools tailored specifically for the provider's needs, Chorrie brings scalable automation to healthcare practices so they can focus on what matters.",
+      "one_liner": "Intelligent automation for healthcare",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
@@ -843,7 +843,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731609344.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/752a568bd421c3f4c6a5c8a4ff957dd6915e52c7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58e42b44ddf578985ac405c46b14ca6feb4f771d.png"
     },
     {
       "id": 30100,
@@ -3100,5 +3100,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-06-11T18:01:09.239547"
+  "fetched_at": "2025-06-12T00:02:54.597184"
 }
