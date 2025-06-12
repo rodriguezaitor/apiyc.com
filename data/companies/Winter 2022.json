@@ -7426,7 +7426,7 @@
       "id": 25587,
       "name": "Dart",
       "slug": "dart",
-      "website": "https://itsdart.com",
+      "website": "https://www.dartai.com",
       "description": "Dart is a fully-featured project management tool that uses AI to assist with roadmap planning, report generation, breaking tasks into subtasks, duplicate detection, and executing on writing and design tasks. Teams use Dart in order to chat with their tasks, plan better, and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work.",
       "one_liner": "The only truly AI-native project management tool",
       "batch": "Winter 2022",
@@ -7636,8 +7636,8 @@
       "name": "Beam",
       "slug": "beam",
       "website": "https://beam.cloud",
-      "description": "We help companies run custom models on serverless GPUs in the cloud.",
-      "one_liner": "Ultrafast Inference for AI Products",
+      "description": "We're an open-source platform that helps companies run GPU inference, background jobs, and LLM-generated code on powerful servers in the cloud.",
+      "one_liner": "Serverless Inference and Background Jobs",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 5,
@@ -7655,10 +7655,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Machine Learning",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13811,5 +13811,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-06-12T00:02:48.042278"
+  "fetched_at": "2025-06-12T06:01:25.569758"
 }
