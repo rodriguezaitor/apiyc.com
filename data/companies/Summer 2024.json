@@ -2282,41 +2282,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec60c31775dc7d4aded90c3f6de6c90b4a3e2a4f.png"
     },
     {
-      "id": 29804,
-      "name": "Thyme",
-      "slug": "thyme",
-      "website": "https://www.meetthyme.com/",
-      "description": "There are 300k+ financial advisors in the US using a digital Rolodex to manage their client relationships, and it's time for a makeover.\r\n\r\nAt Thyme we are building the OS for financial advisors that allows them to automatically take notes in meetings (in-person, online, and phone calls), manage their client records with the help of AI, and offer a client portal where clients can track their assets, manage tasks, and even pay for their services. \r\n\r\nOur users have replaced their legacy CRMs and billing solutions with us while deepening their clients' relationships thanks to our client portal and AI tooling that puts rich context at their fingertips.",
-      "one_liner": "The OS for financial advisors",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
-      "industries": [
-        "B2B",
-        "Finance and Accounting"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Fintech",
-        "Finance"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1721429440.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2ad649a18852dafbb67750b37634ebaf5846cdc.png"
-    },
-    {
       "id": 29803,
       "name": "Ionworks",
       "slug": "ionworks",
@@ -8269,6 +8234,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f4ffb580e2b7f9d32ad41f2bca07eed911ae32b.png"
     },
     {
+      "id": 29804,
+      "name": "Thyme",
+      "slug": "thyme",
+      "website": "https://www.meetthyme.com/",
+      "description": "There are 300k+ financial advisors in the US using a digital Rolodex to manage their client relationships, and it's time for a makeover.\r\n\r\nAt Thyme we are building the OS for financial advisors that allows them to automatically take notes in meetings (in-person, online, and phone calls), manage their client records with the help of AI, and offer a client portal where clients can track their assets, manage tasks, and even pay for their services. \r\n\r\nOur users have replaced their legacy CRMs and billing solutions with us while deepening their clients' relationships thanks to our client portal and AI tooling that puts rich context at their fingertips.",
+      "one_liner": "The OS for financial advisors",
+      "batch": "Summer 2024",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Finance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1721429440.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2ad649a18852dafbb67750b37634ebaf5846cdc.png"
+    },
+    {
       "id": 29641,
       "name": "Invaria",
       "slug": "invaria",
@@ -8330,5 +8330,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-12T18:01:15.841240"
+  "fetched_at": "2025-06-13T00:03:21.584157"
 }
