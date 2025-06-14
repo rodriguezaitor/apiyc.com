@@ -2617,16 +2617,16 @@
       "name": "Winford Wealth",
       "slug": "winford-wealth",
       "website": "https://winfordwealth.com",
-      "description": "Winford Wealth empowers financial advisors to enhance client experiences with an AI Meeting Assistant. Our platform automates notetaking, seamlessly integrates with your CRM and tech stack, and delivers unique analytics to help you work smarter. \r\n",
-      "one_liner": "The Leading AI Meeting Assistant for Financial Advisors",
+      "description": "Personalized investing, tax and financial planning. A dedicated human advisor and all-in-one app \u2014 powered by AI, built for every net worth. We are an SEC Registered Investment Advisor, legally bound to act as a financial fiduciary to our customers. \r\n\r\nWe also offer a tax-efficient managed cash account that goes beyond traditional and high yield savings accounts \u2014 allocating your idle dollars into high-quality, short-term bonds through money market funds, personalized for your taxes and goals. Included with Winford subscriptions or available on its own.",
+      "one_liner": "Professional wealth management for everyone.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
-      "industry": "B2B",
+      "industry": "Fintech",
       "subindustry": "B2B -> Productivity",
       "industries": [
-        "B2B",
-        "Finance and Accounting"
+        "Fintech",
+        "Consumer Finance"
       ],
       "regions": [
         "United States of America",
@@ -2634,11 +2634,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
+        "Fintech",
         "Finance",
-        "Workflow Automation",
-        "Productivity",
-        "Enterprise Software"
+        "Consumer Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8335,5 +8334,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-14T12:01:28.689575"
+  "fetched_at": "2025-06-14T18:01:00.670400"
 }
