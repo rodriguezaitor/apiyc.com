@@ -211,7 +211,7 @@
       "slug": "canvas",
       "website": "https://www.canvas.inc/",
       "description": "Canvas is the first AI-Powered SDR Agency. We manage the full sales pipeline: finding warm leads, enriching them, qualifying prospects, and booking demos for your team.",
-      "one_liner": "The First AI-Powered SDR Agency",
+      "one_liner": "AI-Powered Full-Stack SDR Agency",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 3,
@@ -227,11 +227,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Customer Success",
         "Analytics",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1983,19 +1983,18 @@
     },
     {
       "id": 30051,
-      "name": "Protegee",
-      "slug": "protegee",
-      "website": "http://protegee.ai",
-      "description": "We\u2019re excited to launch our first product that allows your AI voice agents to accept payments easily and securely over the phone. We manage compliance, security, and fraud, letting you focus on creating great experiences.  \r\n\r\n\r\nWe are setting the stage for the agentic economy, starting with voice payments. Web and agent-to-agent transactions coming soon.",
-      "one_liner": "Payments API for AI Agents",
+      "name": "attimet",
+      "slug": "attimet",
+      "website": "https://attimet.com/",
+      "description": "",
+      "one_liner": "The past is certain. The future is priced.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
       "industry": "Fintech",
       "subindustry": "Fintech -> Payments",
       "industries": [
-        "Fintech",
-        "Payments"
+        "Fintech"
       ],
       "regions": [
         "United States of America",
@@ -2003,6 +2002,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Deep Learning",
+        "Hard Tech",
         "Finance",
         "AI"
       ],
@@ -2011,7 +2012,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1728431199.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6461ef457cf83a4e19b3aba7d15b9da4c86d9b49.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b9a65188d543037d433040e225613f5f256524.png"
     },
     {
       "id": 30050,
@@ -2154,8 +2155,8 @@
       "name": "Cekura",
       "slug": "cekura-ai",
       "website": "https://www.cekura.ai/",
-      "description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your AI voice agents by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Cekura - a solution that automates the testing process for your AI Voice agents. With Cekura, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real-world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
-      "one_liner": "Testing & Observability for Voice AI agents",
+      "description": "Cekura helps Conversational AI companies with automated QA. From pre-production simulation and evaluations to production call monitoring, to assisting customers in setting up the CI/CD pipeline, we help in QA across the agent lifecycle.\r\n\r\nWe are working with 75+ customers across healthcare, BFSI, logistics, recruitment, and retail. Some of the largest CCAS players and enterprises use Cekura to ship AI voice and chat agents reliably ",
+      "one_liner": "Voice AI and Chat AI agents: Testing and Observability",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 5,
@@ -3100,5 +3101,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-06-13T18:01:09.628228"
+  "fetched_at": "2025-06-14T00:02:56.591132"
 }
