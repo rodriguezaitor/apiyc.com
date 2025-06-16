@@ -3576,7 +3576,7 @@
       "one_liner": "Search engine for trustworthy medical information.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Consumer Health and Wellness",
       "industries": [
@@ -3589,11 +3589,11 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Consumer Health Services",
         "Digital Health",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7308,5 +7308,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-16T06:01:26.375633"
+  "fetched_at": "2025-06-16T12:01:35.916229"
 }
