@@ -304,43 +304,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a4fff30f35e3a762faef5e5536665740b762d78.png"
     },
     {
-      "id": 22301,
-      "name": "Quell",
-      "slug": "quell",
-      "website": "https://playquell.com",
-      "description": "Quell is an immersive fitness game where players get fit fighting their way through a fantasy world. Our low-cost wearable uses smart resistance bands to guide you through an exciting, effective combat workout at home. We\u2019re Peloton meets gaming at 1/10th of the price\r\n",
-      "one_liner": "Get fit fighting your way through a fantasy world.",
-      "batch": "Summer 2020",
-      "status": "Active",
-      "team_size": 40,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Consumer Electronics",
-      "industries": [
-        "Consumer",
-        "Consumer Electronics"
-      ],
-      "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "London, England, United Kingdom",
-      "tags": [
-        "Hardware",
-        "Machine Learning",
-        "Sports Tech",
-        "Fitness",
-        "Gaming"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1597757414.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/133bcd99ce642360941054c47cfd64820d35818f.png"
-    },
-    {
       "id": 22294,
       "name": "Clau",
       "slug": "clau",
@@ -5840,6 +5803,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56c7ef5e92980547f109adff516d7c08cf47b59f.png"
     },
     {
+      "id": 22301,
+      "name": "Quell",
+      "slug": "quell",
+      "website": "https://playquell.com",
+      "description": "Quell is an immersive fitness game where players get fit fighting their way through a fantasy world. Our low-cost wearable uses smart resistance bands to guide you through an exciting, effective combat workout at home. We\u2019re Peloton meets gaming at 1/10th of the price\r\n",
+      "one_liner": "Get fit fighting your way through a fantasy world.",
+      "batch": "Summer 2020",
+      "status": "Inactive",
+      "team_size": 40,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Consumer Electronics",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Hardware",
+        "Machine Learning",
+        "Sports Tech",
+        "Fitness",
+        "Gaming"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1597757414.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/133bcd99ce642360941054c47cfd64820d35818f.png"
+    },
+    {
       "id": 22268,
       "name": "Parade",
       "slug": "parade",
@@ -7129,5 +7129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-06-16T12:01:35.961687"
+  "fetched_at": "2025-06-16T18:01:05.978765"
 }
