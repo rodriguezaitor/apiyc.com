@@ -2888,11 +2888,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "API",
-        "Data Engineering",
-        "Data Visualization",
-        "AI"
+        "SaaS",
+        "B2B",
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3288,9 +3288,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Education",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4480,11 +4480,11 @@
       "name": "QFEX",
       "slug": "qfex",
       "website": "https://qfex.com",
-      "description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler or cheaper than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
+      "description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
       "one_liner": "24/7 Global Stock Exchange",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "Fintech",
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
@@ -4492,9 +4492,10 @@
         "Banking and Exchange"
       ],
       "regions": [
-        "Unspecified"
+        "United Kingdom",
+        "Europe"
       ],
-      "locations": "",
+      "locations": "London, England, United Kingdom",
       "tags": [
         "Fintech",
         "Marketplace"
@@ -4766,5 +4767,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-16T00:03:16.895295"
+  "fetched_at": "2025-06-16T06:01:27.729040"
 }
