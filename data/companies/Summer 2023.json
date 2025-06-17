@@ -1914,7 +1914,7 @@
       "one_liner": "The all-in-one AI platform for companies.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 18,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -4076,18 +4076,18 @@
     },
     {
       "id": 28884,
-      "name": "Big Smart AI",
-      "slug": "big-smart-ai",
-      "website": "https://bigsmart.ai",
-      "description": "Search for anything and get instant up-to-date answers with links, images, videos, and news.",
-      "one_liner": "Bigger, smarter, AI-powered search",
+      "name": "Dialtone",
+      "slug": "dialtone",
+      "website": "https://usedialtone.com",
+      "description": "Build and deploy AI agents to automate your enterprise workflows.",
+      "one_liner": "AI agents for enterprise workflows",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer -> Social",
       "industries": [
-        "Consumer"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -4096,15 +4096,14 @@
       "locations": "Mountain View, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Consumer",
-        "Search"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688669019.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6862e0879eef05fb0ca8c2f4eb80effd66d6b73.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ccd4f004a0fc03052f9e9b433519a7d7c47f8d7.png"
     },
     {
       "id": 28883,
@@ -4939,7 +4938,7 @@
       "one_liner": "Serverless RAG to connect AI to company, industry, or person-specific\u2026",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7308,5 +7307,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-16T18:01:05.619125"
+  "fetched_at": "2025-06-17T00:02:57.490944"
 }

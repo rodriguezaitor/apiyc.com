@@ -1042,7 +1042,7 @@
       "id": 27172,
       "name": "Lancey",
       "slug": "lancey",
-      "website": "https://lancey.ai",
+      "website": "https://trylancey.com",
       "description": "Lancey understands your product feedback, CRM and product analytics data to help product teams build their next big idea.",
       "one_liner": "AI agents to help product teams operate faster.",
       "batch": "Summer 2022",
@@ -1061,11 +1061,11 @@
       ],
       "locations": "Toronto, ON, Canada; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
         "B2B",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2711,7 +2711,7 @@
       "id": 26913,
       "name": "Aurelian",
       "slug": "aurelian",
-      "website": "https://www.aurelian.io/",
+      "website": "https://www.aurelian.com/",
       "description": "Aurelian automates non-emergency calls for 911 centers. Our AI-powered operator instantly routes, triages, and resolves calls so citizens get exactly what they need and 911 dispatchers get to focus on emergencies.\r\n\r\nUpwards of 80% of total call volume faced by public safety agencies are administrative calls e.g., citizens trying to pay parking tickets or reporting a power outage. Aurelian lessens this burden and lets 9-1-1 dispatchers deal with actual emergencies.\r\n\r\nTo date, Aurelian has automated hundreds of thousands of calls and sent over 10,000 emergent calls (that typically would've sat on hold) to the 911 line to be handled immediately.",
       "one_liner": "Automating non-emergency calls for 911 centers",
       "batch": "Summer 2022",
@@ -2728,9 +2728,9 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "GovTech"
+        "GovTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8122,5 +8122,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-06-16T18:01:04.888034"
+  "fetched_at": "2025-06-17T00:02:56.748017"
 }

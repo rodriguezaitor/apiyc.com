@@ -1762,7 +1762,7 @@
       "id": 30059,
       "name": "Sphinx",
       "slug": "sphinx",
-      "website": "https://sphinxlabs.ai/",
+      "website": "https://sphinxhq.com/",
       "description": "Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.\r\n",
       "one_liner": "AI Compliance Analysts for Banks & Fintechs",
       "batch": "Fall 2024",
@@ -2345,41 +2345,6 @@
       "is_top_company": false,
       "launched_at": 1729643205.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png"
-    },
-    {
-      "id": 30040,
-      "name": "supercontrast",
-      "slug": "supercontrast",
-      "website": "https://supercontrast.com/",
-      "description": "At Hive we worked on a product called Gencraft, an ai art generator we ramped from 0 to $1M ARR in 6 months. This inspired us to build supercontrast, an AI Copilot which empowers anyone to create and refine high quality designs and assets. ",
-      "one_liner": "AI Co-Pilot for Design",
-      "batch": "Fall 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Machine Learning",
-        "Design",
-        "Design Tools"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1727282803.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/790820337661ae1bc9c065bae89b47e0ad126432.png"
     },
     {
       "id": 30039,
@@ -3071,6 +3036,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd64bca7fac097523dd134d6167e96f5fb79ab98.png"
     },
     {
+      "id": 30040,
+      "name": "supercontrast",
+      "slug": "supercontrast",
+      "website": "https://supercontrast.com/",
+      "description": "At Hive we worked on a product called Gencraft, an ai art generator we ramped from 0 to $1M ARR in 6 months. This inspired us to build supercontrast, an AI Copilot which empowers anyone to create and refine high quality designs and assets. ",
+      "one_liner": "AI Co-Pilot for Design",
+      "batch": "Fall 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Machine Learning",
+        "Design",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1727282803.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/790820337661ae1bc9c065bae89b47e0ad126432.png"
+    },
+    {
       "id": 30028,
       "name": "Gait",
       "slug": "gait",
@@ -3102,5 +3102,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-06-16T18:01:10.375763"
+  "fetched_at": "2025-06-17T00:03:02.482757"
 }
