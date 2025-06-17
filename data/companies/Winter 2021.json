@@ -2522,8 +2522,8 @@
       "name": "Infracost",
       "slug": "infracost",
       "website": "https://infracost.io",
-      "description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. GP2 volumes should be GP3).\r\n\r\nThis creates a cost-aware engineering culture.",
-      "one_liner": "Shift FinOps Left: tell engineers how much code changes will cost\u2026",
+      "description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. using Graviton processors and storage lifecycle rules).\r\n\r\nThis creates a cost-aware engineering culture.",
+      "one_liner": "Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues",
       "batch": "Winter 2021",
       "status": "Active",
       "team_size": 10,
@@ -11539,5 +11539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-06-17T00:02:54.985973"
+  "fetched_at": "2025-06-17T06:01:23.199239"
 }
