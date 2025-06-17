@@ -1707,8 +1707,8 @@
       "name": "Cedalio",
       "slug": "cedalio",
       "website": "https://cedalio.com/",
-      "description": "At Cedalio, we automate sustainability data collection using AI. Gather, extract, and consolidate data from diverse sources like PDFs, ERPs, and bills. Cedalio delivers precise, real-time, validated data for accurate carbon accounting and ESG reporting, ensuring compliance and driving sustainable business practices. ",
-      "one_liner": "Accurate Sustainability Data with AI",
+      "description": "Track and control emissions, energy, water, gas, and more\u2014across all sites and countries, from a single place.\r\nCedalio automates utility bill processing, detects anomalies, and centralizes your data into one source of truth. Save hours of manual work, make faster decisions, and enhance your sustainability efforts.\u200b",
+      "one_liner": "Turn your utility bills into smart decisions with AI",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 6,
@@ -1725,9 +1725,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Data Engineering",
-        "ClimateTech",
-        "AI"
+        "Artificial Intelligence",
+        "Energy",
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6173,9 +6173,9 @@
     },
     {
       "id": 28784,
-      "name": "Elyos",
-      "slug": "elyos",
-      "website": "",
+      "name": "Elyos AI",
+      "slug": "elyos-ai",
+      "website": "https://www.elyos.ai/",
       "description": "Optimizing operations using voice agents",
       "one_liner": "Optimizing operations using voice agents",
       "batch": "Summer 2023",
@@ -7307,5 +7307,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-17T12:01:42.176089"
+  "fetched_at": "2025-06-17T18:01:31.338132"
 }
