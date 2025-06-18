@@ -467,7 +467,7 @@
       "one_liner": "Data Warehouse for ML/AI",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -11903,11 +11903,11 @@
     },
     {
       "id": 25075,
-      "name": "Swades AI",
-      "slug": "swades-ai",
-      "website": "https://www.swades.ai/",
-      "description": "Swades AI is an AI research lab building commercial applications using breakthrough AI models. We leverage both open/closed source models to solve application level problems.\r\n\r\nOur family of startups include:\r\n\r\nOpenMic (https://www.openmic.ai/) : AI phone agents that can do both inbound/outbound calls across different use-cases such as healthcare, logistics & trucking, sales automation etc.\r\n\r\nSNR Audio (https://www.snr.audio/) : TTS/STT API at 1/10 the cost of existing providers.\r\n\r\nPoolcompute (https://www.poolcompute.com/): GPU marketplace for both centralized/decentralized GPUs at lowest costs\r\n\r\nOptic Intellect (https://www.opticintellect.com/) : Large vision models for computer vision tasks\r\n\r\nJoinarena.ai (https://www.joinarena.ai/) : AI interviewer for screening calls\r\n\r\nPowerdialer.ai (https://www.powerdialer.ai/): Cold calling Sales automation tool\r\n\r\nCodesama (https://www.codesama.com/): AI powered github code reviews",
-      "one_liner": "Applied AI Research Lab",
+      "name": "Joinarena",
+      "slug": "joinarena",
+      "website": "https://www.joinarena.ai/",
+      "description": "Joinarena.ai (https://www.joinarena.ai/) : AI interviewer for screening calls",
+      "one_liner": "AI interviewer",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 5,
@@ -11931,7 +11931,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1648584304.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d42156f7b0b74559b331f0378ce76167cf04d05b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fff41f383ee0e47c0d418ce11f7e1bbd4ec08fe2.png"
     },
     {
       "id": 25061,
@@ -13811,5 +13811,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-06-18T12:01:32.193936"
+  "fetched_at": "2025-06-18T18:01:18.664556"
 }
