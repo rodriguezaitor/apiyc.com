@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 30761,
+      "name": "Reacher",
+      "slug": "reacher",
+      "website": "https://reacherapp.com/",
+      "description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \r\n\r\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
+      "one_liner": "AI-powered marketplace connecting brands with top creators",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Marketplace",
+        "B2B",
+        "E-commerce",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750191046.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e18f0a8b8fff511049fe03b4ad0dc3b98bce28b5.png"
+    },
+    {
       "id": 30730,
       "name": "Idler",
       "slug": "idler",
@@ -98,5 +134,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png"
     }
   ],
-  "fetched_at": "2025-06-17T18:01:39.220160"
+  "fetched_at": "2025-06-18T00:03:03.151509"
 }
