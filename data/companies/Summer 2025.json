@@ -21,10 +21,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "GovTech",
-        "Compliance"
+        "Compliance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -44,7 +44,7 @@
       "status": "Active",
       "team_size": 8,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -68,6 +68,41 @@
       "is_top_company": false,
       "launched_at": 1750191046.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e18f0a8b8fff511049fe03b4ad0dc3b98bce28b5.png"
+    },
+    {
+      "id": 30755,
+      "name": "Pally",
+      "slug": "pally",
+      "website": "https://pally.com",
+      "description": "Hey \ud83d\udc4b,\u00a0we\u2019re Haz and Wyatt, the founders of Pally, and we\u2019re building at the intersection of AI and Human Relationships. \r\n\r\nWe believe that while AI will automate a lot of low-level tasks, that this will dramatically increase the value of human connection at the highest level.\r\n\r\nIn a world full of \u2018AI SDRs\u2019, our warm connections become more important than ever. \r\n\r\nYet today, keeping track of thousands of connections across countless social platforms is impossible. We forget to respond, we miss important moments, we lose touch.  \r\n\r\nWe\u2019re building Pally to solve that. \r\n\r\nWe bring together every connection, across every platform. Our AI researches everything they\u2019ve ever posted online, and uses its deep understanding of each person to help you achieve your goals; whether hiring, fundraising, or sales.",
+      "one_liner": "Pally is an AI Relationship Management Platform",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer",
+        "B2B",
+        "Productivity",
+        "Search",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750346506.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d88454d0945b7a53c66cb49ef0f0e337f6156105.png"
     },
     {
       "id": 30730,
@@ -199,5 +234,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-19T12:01:36.534320"
+  "fetched_at": "2025-06-19T18:01:27.235727"
 }
