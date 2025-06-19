@@ -3044,8 +3044,8 @@
       "name": "Raindrop",
       "slug": "raindrop",
       "website": "https://www.raindrop.ai",
-      "description": "Monitor your AI app the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI products.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
-      "one_liner": "Sentry for AI products",
+      "description": "Monitor your AI agents the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI agents.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
+      "one_liner": "Sentry for AI Agents",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 4,
@@ -3062,7 +3062,6 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
         "B2B",
         "Monitoring",
         "AI"
@@ -8261,5 +8260,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-19T00:03:03.468526"
+  "fetched_at": "2025-06-19T06:01:29.996007"
 }
