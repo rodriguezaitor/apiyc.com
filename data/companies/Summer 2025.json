@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 30794,
+      "name": "Vulcan Technologies",
+      "slug": "vulcan-technologies",
+      "website": "https://www.vulcan-tech.com/",
+      "description": "Vulcan automates lawful regulatory drafting for government agencies and regulatory compliance for industry. Our intelligent legal cartography automatically maps relationships between statutes and regulations, equipping agencies to comply with changing state and federal law, and enabling business to comment, contest, and comply with regulatory requirements.",
+      "one_liner": "AI legal cartography",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "GovTech",
+        "Compliance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750286926.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png"
+    },
+    {
       "id": 30761,
       "name": "Reacher",
       "slug": "reacher",
@@ -132,7 +165,39 @@
       "is_top_company": false,
       "launched_at": 1749659433.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png"
+    },
+    {
+      "id": 30609,
+      "name": "Halluminate",
+      "slug": "halluminate",
+      "website": "https://halluminate.ai/",
+      "description": "Halluminate provides data and sandboxes to train computer and browser use agents.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They\u2019ve been working and studying together for 7+ years. \r\n",
+      "one_liner": "Data and environments to train computer use AI",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Machine Learning",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750270235.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-18T18:01:21.329955"
+  "fetched_at": "2025-06-19T00:03:11.035957"
 }

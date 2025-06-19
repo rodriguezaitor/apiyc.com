@@ -4135,11 +4135,11 @@
     },
     {
       "id": 28882,
-      "name": "Vigilant",
-      "slug": "vigilant",
-      "website": "https://vigilant.run",
-      "description": "Vigilant is a lightweight observability tool that helps developers at startups track what's happening in their application. You send us data like logs, and metrics, and errors. Then from our dashboard, you can search, graph, and create alerts on your data. We're a team of builders with relentless focus on polished design and engineering excellence.",
-      "one_liner": "Lightweight logging, metrics, and error monitoring for startups",
+      "name": "Repaint",
+      "slug": "repaint",
+      "website": "https://repaint.com",
+      "description": "Repaint is an AI website builder that helps non-technical users create professional, custom websites just by chatting. You describe what you want\u2014pages, style, content\u2014and our AI builds it in real time. It's great for small businesses, portfolios, nonprofits, and more. We're a team of builders obsessed with design, speed, and using AI to give people superpowers.",
+      "one_liner": "Build professional websites by chatting with AI",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -4155,17 +4155,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
+        "Artificial Intelligence",
         "SaaS",
-        "Analytics",
-        "DevOps"
+        "Chatbot",
+        "Design",
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690825892.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19a0c38283d04000fce0feb0b23f72a7d428a442.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/03dfcca42cc18ab05a66bfb1ac760c686411352a.png"
     },
     {
       "id": 28881,
@@ -6082,7 +6083,7 @@
       "one_liner": "Sales call roleplay with realistic conversational AI buyers",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 16,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -6436,7 +6437,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1686444973.0,
@@ -6491,7 +6492,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689168813.0,
@@ -7307,5 +7308,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-18T18:01:19.524261"
+  "fetched_at": "2025-06-19T00:03:04.537254"
 }

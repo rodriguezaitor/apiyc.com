@@ -2069,41 +2069,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/83927ef9957ba6a2aac4a859cd38eec8ef4fde7b.png"
     },
     {
-      "id": 13348,
-      "name": "PillarPlus",
-      "slug": "pillarplus",
-      "website": "https://pillarplus.com",
-      "description": "We put life into a building by designing it\u2019s mechanical, fire, electrical, plumbing services. Architects and contractors hire consultants, who still design the building manually. Our software automates this design step and even calculates the bill of materials with project cost estimates.",
-      "one_liner": "Software to automatically create construction blueprints",
-      "batch": "Winter 2020",
-      "status": "Active",
-      "team_size": 30,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Construction",
-      "industries": [
-        "Real Estate and Construction",
-        "Construction"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "MH, India",
-      "tags": [
-        "Artificial Intelligence",
-        "Construction",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1583954357.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b019dc9df86b0e3d7418198422cddd4c458d87a6.png"
-    },
-    {
       "id": 13347,
       "name": "farmtheory",
       "slug": "farmtheory",
@@ -6426,6 +6391,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/88ed649d4ffefdc8e5652f12e5915dd242bed4ff.png"
     },
     {
+      "id": 13348,
+      "name": "PillarPlus",
+      "slug": "pillarplus",
+      "website": "https://pillarplus.com",
+      "description": "We put life into a building by designing it\u2019s mechanical, fire, electrical, plumbing services. Architects and contractors hire consultants, who still design the building manually. Our software automates this design step and even calculates the bill of materials with project cost estimates.",
+      "one_liner": "Software to automatically create construction blueprints",
+      "batch": "Winter 2020",
+      "status": "Inactive",
+      "team_size": 30,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Construction",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "MH, India",
+      "tags": [
+        "Artificial Intelligence",
+        "Construction",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1583954357.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b019dc9df86b0e3d7418198422cddd4c458d87a6.png"
+    },
+    {
       "id": 13337,
       "name": "goDutch",
       "slug": "godutch",
@@ -7725,5 +7725,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-06-18T18:01:19.426543"
+  "fetched_at": "2025-06-19T00:03:04.276297"
 }

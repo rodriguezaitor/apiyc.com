@@ -73,11 +73,11 @@
     },
     {
       "id": 29989,
-      "name": "Melty",
-      "slug": "melty",
-      "website": "https://melty.sh",
-      "description": "We're building Chorus, a Mac app that lets you chat with O1, Claude, Perplexity, Deepseek, and others on your desktop. Find the right model for each task, get more creativity without copy\u2013pasting prompts, and get more reliability without manually comparing model outputs.",
-      "one_liner": "Chat with a bunch of AIs at once",
+      "name": "Chorus",
+      "slug": "chorus-sh",
+      "website": "https://chorus.sh",
+      "description": "Chat with o3, Claude, Gemini, DeepSeek, and others all at once. The best models, as soon as they come out, in one app.",
+      "one_liner": "All the AI, on your Mac",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -88,16 +88,20 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Chat"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725301012.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6195118747cddb8506edfbe5e8adbb2342788f6.png"
     },
     {
       "id": 29987,
@@ -3050,15 +3054,16 @@
       "name": "Praxos",
       "slug": "praxos",
       "website": "https://www.praxos.ai",
-      "description": "Developers use Praxos to give their AI agents memory, document processing, and autonomous tool use. Build AI that gets smarter and more personalized over time.",
-      "one_liner": "Data layer for AI agents",
+      "description": "Search, retrieve and update data with unprecedented accuracy.",
+      "one_liner": "Kernel for AI agents",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Infrastructure"
       ],
       "regions": [
         "United States of America",
@@ -5647,8 +5652,8 @@
       "name": "Parahelp",
       "slug": "parahelp",
       "website": "https://parahelp.com/",
-      "description": "Parahelp is the AI support agent for software companies.\r\n\r\nLike a teammate, it resolves support tickets end-to-end by using a company's existing knowledge base, SOPs, and tools (like Slack, Stripe, Retool, and Linear).",
-      "one_liner": "The AI support agent for software companies",
+      "description": "Parahelp is an AI support agent that automates support tickets end-to-end for leading software companies, including Perplexity, Framer, Replit, and HeyGen.\r\n\r\nTo do this, Parahelp learns how a company's top customer support agents resolve support tickets today and integrates deeply with their existing infrastructure, including systems like Zendesk, Stripe, Retool, Slack, and Linear.",
+      "one_liner": "Automate complex support tickets end-to-end at scale",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 5,
@@ -8334,5 +8339,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-18T18:01:19.146545"
+  "fetched_at": "2025-06-19T00:03:03.203260"
 }
