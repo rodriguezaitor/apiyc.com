@@ -1623,38 +1623,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8a2ae7dcbe50748392b1a3e607a1f00aa633f51.png"
     },
     {
-      "id": 1599,
-      "name": "Fam",
-      "slug": "fam",
-      "website": "https://www.famapp.com/",
-      "description": "Fam is a group video calling social network to talk with your friends and make new friends.\r\n\r\nFam was part of Y-Combinator\u2019s Summer \u201917 batch under FriendSpot.",
-      "one_liner": "Video calling social network to talk with friends and make new friends",
-      "batch": "Summer 2017",
-      "status": "Active",
-      "team_size": 11,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Social",
-      "industries": [
-        "Consumer",
-        "Social"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Video",
-        "Social"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1493184626.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56990515048bb5a2ebb7da209b3dc0204fa67a7b.png"
-    },
-    {
       "id": 1596,
       "name": "Releaf Earth",
       "slug": "releaf-earth",
@@ -4050,6 +4018,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a74b87209f0fef292c8365d6ab6e926fb4c740c6.png"
     },
     {
+      "id": 1599,
+      "name": "Fam",
+      "slug": "fam",
+      "website": "https://www.famapp.com/",
+      "description": "Fam is a group video calling social network to talk with your friends and make new friends.\r\n\r\nFam was part of Y-Combinator\u2019s Summer \u201917 batch under FriendSpot.",
+      "one_liner": "Video calling social network to talk with friends and make new friends",
+      "batch": "Summer 2017",
+      "status": "Inactive",
+      "team_size": 11,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Video",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1493184626.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56990515048bb5a2ebb7da209b3dc0204fa67a7b.png"
+    },
+    {
       "id": 1589,
       "name": "Prism Labs",
       "slug": "prism-labs",
@@ -4142,5 +4142,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95842a8ebd992360790565045dc0b9949e8dea8.png"
     }
   ],
-  "fetched_at": "2025-06-20T12:01:35.634959"
+  "fetched_at": "2025-06-20T18:01:12.914216"
 }
