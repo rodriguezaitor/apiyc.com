@@ -1265,14 +1265,14 @@
         "Healthcare IT"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Germany",
+        "Europe"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "Munich, BY, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Data Science",
-        "Healthcare IT"
+        "Healthcare IT",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13811,5 +13811,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-06-19T18:01:25.922106"
+  "fetched_at": "2025-06-20T00:02:57.216499"
 }

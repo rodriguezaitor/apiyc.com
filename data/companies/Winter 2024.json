@@ -5398,40 +5398,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7a7195a4d8bec15ad4ae4cd76acb1103fb1d125.png"
     },
     {
-      "id": 29311,
-      "name": "Engines",
-      "slug": "engines",
-      "website": "https://engines.dev",
-      "description": "Engines is an AI platform engineer that containerizes codebases, debugs Terraform code, and helps you get complex monorepos setup.",
-      "one_liner": "Setup any repo with one command",
-      "batch": "Winter 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "DevOps",
-        "Infrastructure"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1709590695.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f746cab4c1fdc6ea404f1bbe73e27c8e7bf34caf.png"
-    },
-    {
       "id": 29310,
       "name": "Tusk",
       "slug": "tusk",
@@ -8123,6 +8089,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/708de5f70d1c62cfdbd2dc173bb1fb905166fb19.png"
     },
     {
+      "id": 29311,
+      "name": "Engines",
+      "slug": "engines",
+      "website": "https://engines.dev",
+      "description": "Engines is an AI platform engineer that containerizes codebases, debugs Terraform code, and helps you get complex monorepos setup.",
+      "one_liner": "Setup any repo with one command",
+      "batch": "Winter 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "DevOps",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1709590695.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f746cab4c1fdc6ea404f1bbe73e27c8e7bf34caf.png"
+    },
+    {
       "id": 29307,
       "name": "Blume Benefits",
       "slug": "blume-benefits",
@@ -8260,5 +8260,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-19T18:01:26.216871"
+  "fetched_at": "2025-06-20T00:02:57.535068"
 }
