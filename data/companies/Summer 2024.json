@@ -5317,8 +5317,8 @@
       "name": "AminoAnalytica",
       "slug": "aminoanalytica",
       "website": "https://www.aminoanalytica.com",
-      "description": "At AminoAnalytica, we specialize in AI-powered protein optimization. We\u2019re developing the world's first dedicated AI agent for protein engineering (or AI protein engineer, if you will) that integrates with 'human' bioengineering teams. Common protein engineering challenges like protein property enhancement \u2013 whether it's the stability of therapeutic peptides or the activity of industrial enzymes at high temperatures \u2013 can now be done semi-autonomously, at a fraction of the cost. ",
-      "one_liner": "Your biotech's first AI protein engineer",
+      "description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else \u2013 from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
+      "one_liner": "The AI-Native Operating System for Protein Engineering",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -5336,11 +5336,11 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
+        "SaaS",
         "Synthetic Biology",
         "Biotech",
-        "Manufacturing",
-        "Climate",
-        "AI"
+        "Climate"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8338,5 +8338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-21T18:01:16.204247"
+  "fetched_at": "2025-06-22T00:03:24.099360"
 }
