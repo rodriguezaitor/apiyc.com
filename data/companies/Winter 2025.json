@@ -4044,19 +4044,12 @@
         "Security"
       ],
       "regions": [
-        "Israel",
-        "Middle East and North Africa"
+        "Unspecified"
       ],
-      "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "tags": [
-        "GovTech",
-        "Computer Vision",
-        "B2B",
-        "Security",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738284252.0,
@@ -5286,5 +5279,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-06-23T12:01:34.891775"
+  "fetched_at": "2025-06-23T18:01:15.880394"
 }

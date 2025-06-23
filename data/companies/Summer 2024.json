@@ -1774,7 +1774,7 @@
       "one_liner": "Data Development for Advanced AI",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1782,7 +1782,9 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -3448,16 +3450,15 @@
       "name": "Emergent",
       "slug": "emergent",
       "website": "https://emergent.sh",
-      "description": "At Emergent we are building autonomous coding agents that can automate internal facing software engineering tasks starting with code migration and modernization. \r\n",
-      "one_liner": "Autonomous coding agents for software migration and modernization",
+      "description": "At Emergent we are building autonomous coding agents that build real production ready apps and websites, from just a prompt.",
+      "one_liner": "Build Apps with AI - no coding required",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 12,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -8338,5 +8339,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-23T12:01:32.406849"
+  "fetched_at": "2025-06-23T18:01:13.480512"
 }
