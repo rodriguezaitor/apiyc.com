@@ -2328,7 +2328,7 @@
       "one_liner": "The only customer support platform built for B2B.",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 30,
+      "team_size": 35,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -2341,10 +2341,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Customer Success",
-        "Customer Support",
-        "AI"
+        "Customer Support"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6828,7 +6828,7 @@
       "one_liner": "Rippling for the Construction Industry",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Human Resources",
       "industries": [
@@ -6837,9 +6837,9 @@
       ],
       "regions": [
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Remote",
+      "locations": "",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-06-23T06:01:32.790613"
+  "fetched_at": "2025-06-23T12:01:31.998396"
 }
