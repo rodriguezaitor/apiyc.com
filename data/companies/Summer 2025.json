@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 30806,
+      "name": "Uplift AI",
+      "slug": "uplift-ai",
+      "website": "https://upliftai.org/",
+      "description": "We build speech understanding and speech generation models for the five major languages spoken in Pakistan, where 42% of the adult population can not read any language. \r\n\r\nPakistan is the 5th most populous country in the world with a $411 billion GDP. Yet its overlooked and no practical voice models exist for the local languages.\r\n\r\nWith our APIs and SDKs, businesses offer high-quality voice interfaces in domains like banking, agriculture, healthcare, and government services. This enables them to finally offer digital services to every customer -- often for the first time.\r\n\r\nOur founding team has a decade of experience building world-leading voice products, including at Alexa and Siri. We have launched entire AWS services; and software written by us previously is used by millions daily.\r\n\r\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.\r\n\r\nWe are on a mission to uplift entire nations through better access to digital information and digital services.",
+      "one_liner": "Foundational Voice AI for Pakistani Languages",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Pakistan",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Lahore, Punjab, Pakistan",
+      "tags": [
+        "Speech Recognition",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750590533.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png"
+    },
+    {
       "id": 30794,
       "name": "Vulcan Technologies",
       "slug": "vulcan-technologies",
@@ -138,6 +171,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cc7c45ea4fbab294226a104bf2bacc21f8cb627.png"
     },
     {
+      "id": 30738,
+      "name": "Altur",
+      "slug": "altur",
+      "website": "https://altur.io",
+      "description": "",
+      "one_liner": "AI agents for debt collection and sales",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mexico City, CDMX, Mexico",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Telecommunications"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750622964.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png"
+    },
+    {
       "id": 30730,
       "name": "Idler",
       "slug": "idler",
@@ -267,5 +334,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-22T18:01:32.284582"
+  "fetched_at": "2025-06-23T00:03:33.557028"
 }
