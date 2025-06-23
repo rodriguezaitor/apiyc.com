@@ -3498,41 +3498,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea3b87fd86a38827492c7301ba323f80925ce00c.png"
     },
     {
-      "id": 1791,
-      "name": "Correlia Biosystems",
-      "slug": "correlia-biosystems",
-      "website": "http://www.correliabio.com",
-      "description": "Correlia Biosystems is a UC Berkeley spinoff company based in Berkeley, CA. Correlia develops innovative microscale tools that accelerate rapid quantification of biomolecules.\r\n\r\nOur versatile \"SimpleScan\" technology opens up new biological questions from one microliter of sample, with rapid results that allow for dynamic monitoring of protein expression profiles (rather than simple end-point measurement). Applications range from enabling next-gen proteomic data sets to point-of-care diagnostics.",
-      "one_liner": "Next-gen blood testing to provide 1000x more data to pharma companies",
-      "batch": "Winter 2018",
-      "status": "Acquired",
-      "team_size": 16,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Diagnostics",
-      "industries": [
-        "Healthcare",
-        "Diagnostics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Berkeley, CA, USA",
-      "tags": [
-        "Hardware",
-        "Lab-on-a-chip",
-        "Microfluidics"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1510027355.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9aad85e9ea2a3b4df72a9807d29b7536bcb76ce.png"
-    },
-    {
       "id": 1789,
       "name": "Evry Health",
       "slug": "evry-health",
@@ -4544,6 +4509,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a375bb2b5825f333532f9af82e4748e3712a25c8.png"
     },
     {
+      "id": 1791,
+      "name": "Correlia Biosystems",
+      "slug": "correlia-biosystems",
+      "website": "http://www.correliabio.com",
+      "description": "Correlia Biosystems is a UC Berkeley spinoff company based in Berkeley, CA. Correlia develops innovative microscale tools that accelerate rapid quantification of biomolecules.\r\n\r\nOur versatile \"SimpleScan\" technology opens up new biological questions from one microliter of sample, with rapid results that allow for dynamic monitoring of protein expression profiles (rather than simple end-point measurement). Applications range from enabling next-gen proteomic data sets to point-of-care diagnostics.",
+      "one_liner": "Next-gen blood testing to provide 1000x more data to pharma companies",
+      "batch": "Winter 2018",
+      "status": "Inactive",
+      "team_size": 16,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Berkeley, CA, USA",
+      "tags": [
+        "Hardware",
+        "Lab-on-a-chip",
+        "Microfluidics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1510027355.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9aad85e9ea2a3b4df72a9807d29b7536bcb76ce.png"
+    },
+    {
       "id": 1776,
       "name": "Curious Fictions",
       "slug": "curious-fictions",
@@ -4927,5 +4927,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-06-23T00:03:27.236646"
+  "fetched_at": "2025-06-23T06:01:36.792507"
 }

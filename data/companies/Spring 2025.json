@@ -3525,8 +3525,8 @@
       "name": "HelixDB",
       "slug": "helixdb",
       "website": "https://helix-db.com",
-      "description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
-      "one_liner": "The database for intelligence",
+      "description": "As AI agents replace traditional software, they need a way to store, recall, and reason over contextual data. HelixDB gives them all of that in one system. We\u2019re building the knowledge infrastructure every AI agent will depend on.",
+      "one_liner": "Supabase for agents",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3544,10 +3544,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Infrastructure",
-        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -4708,5 +4708,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-23T00:03:27.543768"
+  "fetched_at": "2025-06-23T06:01:37.152871"
 }
