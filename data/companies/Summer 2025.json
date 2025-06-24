@@ -33,8 +33,8 @@
     },
     {
       "id": 30805,
-      "name": "RealRoots Inc.",
-      "slug": "realroots-inc",
+      "name": "RealRoots",
+      "slug": "realroots",
       "website": "http://www.therealroots.com",
       "description": "We are a marketplace that helps women make new friends in her city via curated matching and guided shared experiences. Users fill out a 10-minute survey, and we match her with a group of compatible women nearby. The group then enjoys a series of 6 bonding experiences, leaving with at least one new friend -- guaranteed.",
       "one_liner": "RealRoots guarantees women new friendships.",
@@ -333,6 +333,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png"
     },
     {
+      "id": 30669,
+      "name": "Dash",
+      "slug": "dash",
+      "website": "https://www.usedash.ai/",
+      "description": "",
+      "one_liner": "Agent that connects to Gmail, Slack, Calendar, etc.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Workflow Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750786342.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png"
+    },
+    {
       "id": 30647,
       "name": "Cyberdesk",
       "slug": "cyberdesk",
@@ -398,5 +430,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-24T12:01:39.507051"
+  "fetched_at": "2025-06-24T18:00:59.008496"
 }

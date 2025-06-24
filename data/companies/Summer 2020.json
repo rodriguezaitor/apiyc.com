@@ -1850,11 +1850,11 @@
       "name": "Kingdom Supercultures",
       "slug": "kingdom-supercultures",
       "website": "https://kingdomsupercultures.com",
-      "description": "Kingdom Supercultures designs novel microbial cultures that make it easy for food manufacturers to create exciting new foods.  We've developed the world's first 0-calorie fermented sodas, beers with entirely new flavors, and novel plant-based dairy replacements.",
-      "one_liner": "New foods with microbes",
+      "description": "Kingdom Supercultures creates and sells Superculture\u00ae ingredients.  Superculture\u00ae ingredients are a new class of postbiotics made from natural microbes that we intentionally design to make a quantifiable impact on unmet consumer health needs and to address these needs at their root.  We're actively selling Superculture\u00ae ingredients for oral health and immune health in pets, each with best-in-class clinical efficacy and new marketing claims for our partner brands.",
+      "one_liner": "Natural functional ingredients that actually work",
       "batch": "Summer 2020",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 18,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Industrial Bio",
       "industries": [
@@ -1867,6 +1867,7 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Health & Wellness",
         "Food Tech"
       ],
       "stage": "Early",
@@ -3265,7 +3266,7 @@
       "one_liner": "Manage, create & optimize your ecommerce product content using AI",
       "batch": "Summer 2020",
       "status": "Active",
-      "team_size": 13,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3279,10 +3280,10 @@
       ],
       "locations": "Singapore, Singapore",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Machine Learning",
-        "E-commerce"
+        "E-commerce",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7129,5 +7130,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-06-24T12:01:38.721242"
+  "fetched_at": "2025-06-24T18:00:58.220809"
 }
