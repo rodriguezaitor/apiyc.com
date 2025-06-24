@@ -1302,8 +1302,8 @@
       "name": "Abundant",
       "slug": "abundant",
       "website": "https://www.abundant.ai/",
-      "description": "Abundant powers reliable and safe AI deployment via our API. Our network of specialized operators works alongside AI agents to:\r\n\r\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\r\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
-      "one_liner": "Human Supervision for AI Agents",
+      "description": "Abundant produces high-quality training data for advanced AI labs, startups, and enterprises building agents and multimodal AI. Companies use our modular annotation platform and network of specialized operators to:\r\n\r\n(1) Produce imitation training data for computer-use/web agents;\r\n(2) Annotate ground truth datasets for training and hillclimbing; and\r\n(3) Label outcomes and rewards, or correct nuanced failure modes.",
+      "one_liner": "Data for Agents and Multimodal AI",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 3,
@@ -1812,9 +1812,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3100,5 +3100,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-06-24T00:03:09.647962"
+  "fetched_at": "2025-06-24T12:01:39.166000"
 }

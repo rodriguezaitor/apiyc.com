@@ -32,6 +32,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png"
     },
     {
+      "id": 30805,
+      "name": "RealRoots Inc.",
+      "slug": "realroots-inc",
+      "website": "http://www.therealroots.com",
+      "description": "We are a marketplace that helps women make new friends in her city via curated matching and guided shared experiences. Users fill out a 10-minute survey, and we match her with a group of compatible women nearby. The group then enjoys a series of 6 bonding experiences, leaving with at least one new friend -- guaranteed.",
+      "one_liner": "RealRoots guarantees women new friendships.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Consumer",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketplace",
+        "Consumer"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750729944.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1826c85adc2f6ea01d50ca7c977e6f72c739c3f.png"
+    },
+    {
       "id": 30794,
       "name": "Vulcan Technologies",
       "slug": "vulcan-technologies",
@@ -366,5 +398,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-24T00:03:13.209413"
+  "fetched_at": "2025-06-24T12:01:39.507051"
 }

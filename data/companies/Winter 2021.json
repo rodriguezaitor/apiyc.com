@@ -4079,8 +4079,8 @@
       "name": "Codingal",
       "slug": "codingal",
       "website": "https://www.codingal.com",
-      "description": "Codingal (www.codingal.com) is a leading online after-school where kids & teens learn AI and Coding from expert instructors through live, interactive classes. Our mission is to build the world\u2019s largest & most loved programming school for kids & teens, powered by human & AI tutors.\r\n\r\nMany countries have great technical universities but literally zero programming education at the K-12 level. Parents want their kids to get started with programming earlier, and that's why they use Codingal.\r\n\r\nAll our instructors come from Computer Science background, and they are rigorously vetted and trained. Every student gets a personalized learning path and individual attention in 1:1 private classes or small group classes with expert instructors. Students learn by building apps, games, animations, and websites in a fun & engaging way.\r\n\r\nKids find it so fun & engaging that NPS is just outstanding - 86. They have rated teachers at 4.9 out of 5. Curriculum content is rated at 4.8 out of 5.\r\n\r\nCodingal is on a mission to inspire kids to fall in love with AI & Coding, so that they can create anything they can imagine and grow up to become entrepreneurs, engineers, and scientists.",
-      "one_liner": "Leading online after-school for kids & teens to learn AI and Coding",
+      "description": "Codingal (www.codingal.com) is the global leader in online AI and coding education for kids and teens (Grades 1-12). Our mission is to help students fall in love with AI & coding and become creators of the future - entrepreneurs, engineers, and scientists by providing high-quality, accessible, and personalized computer science education.\r\n\r\nIn many countries, top technical universities exist, but there\u2019s a significant gap in K-12 programming education. Parents want their kids to start learning programming early, and that\u2019s why they choose Codingal. We offer live, interactive classes with expert instructors from Computer Science backgrounds. All our instructors are rigorously vetted and trained to ensure a high-quality learning experience.\r\n\r\nEvery student receives a personalized learning path tailored to their age and skill level. Our curriculum is STEM.org-accredited, aligned with the K\u201312 Computer Science Framework, and delivered in 1:1 and small-group formats, ensuring individual attention and engagement.\r\n\r\nStudents learn by building real-world projects using popular tools and technologies like Scratch, Python, Roblox, Minecraft, MIT App Inventor, Thunkable, Pygame, HTML/CSS, JavaScript, website development, Java, Data Science, AP Computer Science content, and AI tools like ChatGPT and Machine Learning frameworks. Through this hands-on approach, students create apps, games, animations, and websites in a fun, engaging way that fosters problem-solving and creative skills.\r\n\r\nBeyond classes, students participate in global coding competitions, hackathons like HPE CodeWars, and online coding camps, further nurturing their creativity, confidence, and innovative spirit. With a 4.9/5 student rating and NPS of 86, Codingal is trusted by over 1 million registered students in 70+ countries.\r\n\r\nCodingal combines the best of human instruction and AI-driven learning to inspire the next generation of tech leaders. We are poised to lead the next generation of coding education and make a significant impact in this rapidly growing market.",
+      "one_liner": "Leading online after-school for kids & teens to learn AI & coding",
       "batch": "Winter 2021",
       "status": "Active",
       "team_size": 60,
@@ -6147,40 +6147,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/552447facd8d9e007c6306d2f307ff1eee8ac30a.png"
     },
     {
-      "id": 22823,
-      "name": "June",
-      "slug": "june",
-      "website": "http://june.so",
-      "description": "June is a plug & play product analytics for B2B SaaS. \r\n\r\nIt automatically generates graphs of the metrics you should track, lets you view your company-level metrics, and zoom into them! ",
-      "one_liner": "June is the new way to do product analytics",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 6,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Analytics",
-        "Data Visualization"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614364832.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f5da22c38acb9a212882198584da041113894b.png"
-    },
-    {
       "id": 22806,
       "name": "Per Diem",
       "slug": "per-diem",
@@ -6903,7 +6869,7 @@
         "SaaS"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1614621114.0,
@@ -10758,6 +10724,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/57cf46a8c4c907e8200f99b2e7300f6218f56fdc.png"
     },
     {
+      "id": 22823,
+      "name": "June",
+      "slug": "june",
+      "website": "http://june.so",
+      "description": "June is a plug & play product analytics for B2B SaaS. \r\n\r\nIt automatically generates graphs of the metrics you should track, lets you view your company-level metrics, and zoom into them! ",
+      "one_liner": "June is the new way to do product analytics",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Analytics",
+        "Data Visualization"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614364832.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f5da22c38acb9a212882198584da041113894b.png"
+    },
+    {
       "id": 22784,
       "name": "Huddlefire",
       "slug": "huddlefire",
@@ -11539,5 +11539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-06-24T00:03:03.633006"
+  "fetched_at": "2025-06-24T12:01:38.307970"
 }
