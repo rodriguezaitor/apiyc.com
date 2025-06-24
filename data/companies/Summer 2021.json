@@ -1854,39 +1854,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/45d14c57e3b4e2739c65c0bb84a511608548ffa2.png"
     },
     {
-      "id": 24701,
-      "name": "Byte Kitchen",
-      "slug": "byte-kitchen",
-      "website": "https://www.bytekitchen.io/",
-      "description": "Byte is able to quickly expand the geographic footprint of any given brand with minimal up front investment by licensing their IP, and rolling out their cuisine across a network of next generation kitchens optimized for delivery, pick up, and take out.\r\n",
-      "one_liner": "Increasing restaurant profitability through our AI Operating System",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Food and Beverage",
-      "industries": [
-        "Consumer",
-        "Food and Beverage"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Mateo, CA, USA",
-      "tags": [
-        "Ghost Kitchens",
-        "B2B",
-        "E-commerce"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1626654510.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5afe14ba19b9cdb3da5c7cc7bd71d9b8db706dc5.png"
-    },
-    {
       "id": 24691,
       "name": "Orderli",
       "slug": "orderli",
@@ -11450,6 +11417,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/878138d78cf12a2804dbaa8d5ac3805115d3d5b8.png"
     },
     {
+      "id": 24701,
+      "name": "Byte Kitchen",
+      "slug": "byte-kitchen",
+      "website": "https://www.bytekitchen.io/",
+      "description": "Byte is able to quickly expand the geographic footprint of any given brand with minimal up front investment by licensing their IP, and rolling out their cuisine across a network of next generation kitchens optimized for delivery, pick up, and take out.\r\n",
+      "one_liner": "Increasing restaurant profitability through our AI Operating System",
+      "batch": "Summer 2021",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Mateo, CA, USA",
+      "tags": [
+        "Ghost Kitchens",
+        "B2B",
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1626654510.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5afe14ba19b9cdb3da5c7cc7bd71d9b8db706dc5.png"
+    },
+    {
       "id": 24649,
       "name": "Kapacity.io",
       "slug": "kapacity-io",
@@ -13435,5 +13435,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-06-23T18:01:12.380006"
+  "fetched_at": "2025-06-24T00:03:03.272263"
 }
