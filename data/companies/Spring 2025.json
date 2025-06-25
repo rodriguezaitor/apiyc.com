@@ -69,39 +69,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa849f70a991d46ed789deab2ddee170d952bc14.png"
     },
     {
-      "id": 30561,
-      "name": "Daxa",
-      "slug": "daxa",
-      "website": "https://www.getdaxa.com/",
-      "description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time \u2014 helping you pinpoint application issues before users churn and plan features that maximize conversion. Oftentimes, issues in your product don't make it to a support ticket until dozens of users have experienced it first. Daxa helps you combat this problem by watching users interact directly with your product and notifying you in real time via Slack or email if any issues or interesting phenomenon arise (dropoff on certain pages, features not performing as expected, etc)",
-      "one_liner": "An AI that watches how people use your product",
-      "batch": "Spring 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Analytics"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1744274885.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png"
-    },
-    {
       "id": 30560,
       "name": "SAVA",
       "slug": "sava",
@@ -1441,7 +1408,7 @@
       "one_liner": "$200 Al robot arms that learn new skills in 30 min.",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 3,
       "industry": "Consumer",
       "subindustry": "Consumer -> Consumer Electronics",
       "industries": [
@@ -1453,13 +1420,9 @@
         "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Machine Learning",
-        "Robotics",
-        "Consumer"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745005061.0,
@@ -2363,19 +2326,12 @@
         "Manufacturing and Robotics"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "El Segundo, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Hard Tech",
-        "Robotics",
-        "AI",
-        "Automotive"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747768090.0,
@@ -2920,7 +2876,7 @@
       "name": "Better Auth",
       "slug": "better-auth",
       "website": "https://better-auth.com/",
-      "description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It\u2019s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
+      "description": "Better Auth is a comprehensive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It\u2019s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
       "one_liner": "The authentication framework for TypeScript",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4745,5 +4701,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-25T12:01:37.361604"
+  "fetched_at": "2025-06-25T18:01:09.040761"
 }
