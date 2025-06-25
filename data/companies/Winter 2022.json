@@ -462,9 +462,9 @@
       "id": 26254,
       "name": "Eventual",
       "slug": "eventual",
-      "website": "https://www.eventualcomputing.com",
-      "description": "Eventual is a data warehouse for ML/AI.\r\n\r\nWe are building an integrated development experience for data scientists and engineers to build ML/AI applications which query and process multimodal data (images, video, audio and 3D scans).\r\n\r\nDaft (https://www.getdaft.io) is our open-sourced distributed data query engine. It has a Python Dataframe API and is built in Rust, providing both ease of use and performance for use-cases such as ML data engineering, training data ingestion and general data analytics.\r\n\r\nWe are funded by investors such as Caffeinated Capital, Array.vc and top angels in the valley from Databricks, Meta and Lyft. Our team has deep expertise in high performance computing, big data technologies, cloud infrastructure and machine learning.\r\n",
-      "one_liner": "Data Warehouse for ML/AI",
+      "website": "https://www.daft.ai/",
+      "description": "Every breakthrough AI application, from foundation models to autonomous vehicles, relies on processing massive volumes of images, video, and complex data. But today\u2019s data platforms (like Databricks and Snowflake) are built on top of tools made for spreadsheet-like analytics, not the petabytes of multimodal data that power AI. As a result, teams waste months on brittle infrastructure instead of conducting research and building their core product.\r\n\r\nEventual was founded in 2022 to solve this. Our mission is to make querying any kind of data, images, video, audio, text, as intuitive as working with tables, and powerful enough to scale to production workloads. Our open-source engine, Daft, is purpose-built for real-world AI systems: coordinating with external APIs, managing GPU clusters, and handling failures that traditional engines can\u2019t. Daft already powers critical workloads at companies like Amazon, Mobileye, Together AI, and CloudKitchens.\r\n\r\nWe\u2019ve assembled a world-class team from Databricks, AWS, Nvidia, Pinecone, GitHub Copilot, Tesla, and more, quadrupling our size within a year. With backing from Y Combinator, Caffeinated Capital, Array.vc, and top angels from the co-founders of Databricks and Perplexity, we\u2019re looking to double the team now. Join us\u2014Eventual is just getting started.\r\n\r\nPlease note we are looking for someone who is willing and able to come into our San Francisco office in the Mission district 4 days / week.",
+      "one_liner": "Building the AI data engine for any modality and scale",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 18,
@@ -13811,5 +13811,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-06-25T00:03:09.866901"
+  "fetched_at": "2025-06-25T06:01:24.528134"
 }
