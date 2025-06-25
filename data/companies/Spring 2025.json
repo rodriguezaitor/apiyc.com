@@ -3138,8 +3138,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Robotics"
+        "Robotics",
+        "Automation",
+        "AI",
+        "Industrial"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3981,11 +3983,17 @@
         "Aviation and Space"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Manufacturing",
+        "Aerospace"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4704,5 +4712,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-24T18:00:58.419625"
+  "fetched_at": "2025-06-25T00:03:10.564573"
 }

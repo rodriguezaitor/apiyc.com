@@ -7167,42 +7167,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfea3ef1c729dbc6ec5526da896c404d28fa550f.png"
     },
     {
-      "id": 24195,
-      "name": "Tarsal",
-      "slug": "tarsal",
-      "website": "https://www.tarsal.co/",
-      "description": "Tarsal is a data pipeline custom built for security teams. As security data grows 25% year over year, security teams desperately need access to best-in-class data infrastructure. Tarsal bridges the gap between the modern data stack and security teams, pioneering the modern security data stack. \r\n",
-      "one_liner": "Data pipeline for your security data lake.",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 10,
-      "industry": "B2B",
-      "subindustry": "B2B -> Security",
-      "industries": [
-        "B2B",
-        "Security"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
-      "tags": [
-        "B2B",
-        "Cybersecurity",
-        "Big Data",
-        "Data Engineering"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1680491615.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75747b61e59eadbd8831c406fbe1beed2fd4957b.png"
-    },
-    {
       "id": 24194,
       "name": "Aqua",
       "slug": "aqua",
@@ -11828,6 +11792,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e12060432546be212b6fccb6641d81cb777072e1.png"
     },
     {
+      "id": 24195,
+      "name": "Tarsal",
+      "slug": "tarsal",
+      "website": "https://www.tarsal.co/",
+      "description": "Tarsal is a data pipeline custom built for security teams. As security data grows 25% year over year, security teams desperately need access to best-in-class data infrastructure. Tarsal bridges the gap between the modern data stack and security teams, pioneering the modern security data stack. \r\n",
+      "one_liner": "Data pipeline for your security data lake.",
+      "batch": "Summer 2021",
+      "status": "Acquired",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+      "tags": [
+        "B2B",
+        "Cybersecurity",
+        "Big Data",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1680491615.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75747b61e59eadbd8831c406fbe1beed2fd4957b.png"
+    },
+    {
       "id": 24136,
       "name": "MadEats",
       "slug": "madeats",
@@ -13435,5 +13435,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-06-24T18:00:57.797792"
+  "fetched_at": "2025-06-25T00:03:09.935345"
 }

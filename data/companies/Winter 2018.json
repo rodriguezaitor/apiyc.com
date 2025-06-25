@@ -1974,11 +1974,11 @@
       "name": "Promise",
       "slug": "promise",
       "website": "http://promise-pay.com",
-      "description": "Promise modernizes and humanizes government payments. We are a comprehensive payments platform that increases revenue and efficiency for government agencies. We help residents navigate payments with dignity and ease to avoid the negative consequences of non-payment. Promise\u2019s win-win services strengthen the bond between government agencies and the communities which they serve.",
-      "one_liner": "A modern payment processing platform focused on government agencies.",
+      "description": "Promise modernizes government payments helping agencies recover more revenue while giving residents flexible, humane ways to pay. We replace broken systems with tech that actually works for everyone.",
+      "one_liner": "Better payment systems for governments and the communities they serve.",
       "batch": "Winter 2018",
       "status": "Active",
-      "team_size": 70,
+      "team_size": 80,
       "industry": "Government",
       "subindustry": "Government",
       "industries": [
@@ -1986,21 +1986,21 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "Oakland, CA, USA",
       "tags": [
         "Fintech",
-        "GovTech"
+        "GovTech",
+        "Payments",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1509645829.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f469f29205bdaeb83cbefb97085b4a311f3f670.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/25d5c9f4e48e09f1d27797d840d867bea150b1fb.png"
     },
     {
       "id": 1768,
@@ -4927,5 +4927,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-06-24T18:00:58.382512"
+  "fetched_at": "2025-06-25T00:03:10.528924"
 }
