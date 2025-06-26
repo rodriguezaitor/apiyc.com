@@ -4363,9 +4363,9 @@
     },
     {
       "id": 29731,
-      "name": "Paradome",
-      "slug": "paradome",
-      "website": "https://paradome.com",
+      "name": "Zoa Research",
+      "slug": "zoa-research",
+      "website": "https://zoaresearch.com",
       "description": "We are entering what Rich Sutton terms the \u201cEra of Experience\u201d, where agents learn from continuous feedback in a realistic environment. In our view, the key bottleneck to entering this era is high-feedback realistic environments which agents can inhabit. So far, coding and math have proven to be rich task-horizon environments, but we believe that open-horizon environments are the critical next step \u2014 environments with a continuous, open goal, much like the world we live in.\r\n\r\nAt Paradome, we're focusing on one of the highest-feedback open environments in the world: trading. We believe trading is one of the best domains to train models to develop research taste and intuition based on real-world continuous feedback. We're building the infrastructure to make this happen.\r\n\r\nSam's ex-girlfriend introduced him to Greg back at Carnegie Mellon in 2017, and while that relationship didn't last, their friendship has. After college, Greg went to Harvard Law School, while Sam worked for three years at Jane Street on their Options desk, building & leading a satellite dev team.",
       "one_liner": "Realistic RL environments for open-horizon tasks",
       "batch": "Summer 2024",
@@ -4382,15 +4382,15 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Data Science"
+        "Data Science",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724859181.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01205bdd5ddd62484a7c2a3506b6076cdf85af1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a603d093e3e3a39d0f3743b7f24486743b3bd06.png"
     },
     {
       "id": 29730,
@@ -7005,7 +7005,7 @@
         "Automotive"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716219164.0,
@@ -8339,5 +8339,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-06-25T18:01:04.860176"
+  "fetched_at": "2025-06-26T00:03:07.736562"
 }

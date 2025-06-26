@@ -4993,8 +4993,8 @@
       "name": "Speck",
       "slug": "speck",
       "website": "https://speck.sh",
-      "description": "Speck is an autonomous AI sales enablement team. Organizations use Speck to centralize and use realtime sales data to onboard and continually up-skill their sales reps.",
-      "one_liner": "Autonomous AI sales enablement team.",
+      "description": "Turn frantic tab-switching into seamless storytelling. Speck listens to every word, learns, and shares winning talk-tracks and research in real time.",
+      "one_liner": "AI Wingman for Every Sales Call",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -5329,7 +5329,7 @@
       "locations": "New York, NY, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705081211.0,
@@ -8265,5 +8265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-25T18:01:05.337306"
+  "fetched_at": "2025-06-26T00:03:07.828969"
 }

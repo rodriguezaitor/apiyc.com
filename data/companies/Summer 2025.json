@@ -365,6 +365,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png"
     },
     {
+      "id": 30653,
+      "name": "Skope",
+      "slug": "skope",
+      "website": "https://useskope.com",
+      "description": "We\u2019re building an autonomous revenue engine for nonprofit fundraisers, powered by AI agents. Skope allows organizations to enrich human profiles and make sense of their old data, while constantly finding new ideal donors.",
+      "one_liner": "AI Agents for Nonprofits.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Nonprofit",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1750879126.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d598c9ae6f0adaf363dce2801fe32db30733e9bd.png"
+    },
+    {
       "id": 30647,
       "name": "Cyberdesk",
       "slug": "cyberdesk",
@@ -430,5 +462,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-25T18:01:16.515387"
+  "fetched_at": "2025-06-26T00:03:09.818502"
 }
