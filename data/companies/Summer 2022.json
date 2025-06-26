@@ -3789,7 +3789,7 @@
       "slug": "aragorn-ai",
       "website": "https://www.aragorn.ai",
       "description": "Aragorn enables people ops and IT teams to continuously maintain employee data across diverse systems in a reliable, scalable, and cost-effective manner, all on a single platform - whether through API, EDI, Webhook, or file feeds.",
-      "one_liner": "Platform to automate employee data from everywhere to anywhere",
+      "one_liner": "Platform to automate employee related data to and from any\u2026",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 4,
@@ -3805,7 +3805,7 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Dallas, TX, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "SaaS",
         "B2B",
@@ -4044,7 +4044,7 @@
         "SaaS"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1659420849.0,
@@ -8122,5 +8122,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-06-26T12:01:28.208784"
+  "fetched_at": "2025-06-26T18:01:10.846844"
 }
