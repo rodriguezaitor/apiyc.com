@@ -73,7 +73,7 @@
       "name": "SAVA",
       "slug": "sava",
       "website": "https://www.savarobotics.com",
-      "description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics and Zipline - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
+      "description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
       "one_liner": "Autonomous Factories for American Manufacturing",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2387,15 +2387,16 @@
         "Analytics"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Biotech",
         "Nanotechnology",
         "Data Engineering",
-        "Advanced Materials"
+        "Advanced Materials",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2988,18 +2989,13 @@
         "Infrastructure"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Database Sharding",
-        "Databases"
-      ],
+      "locations": "Remote",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745009582.0,
@@ -4667,5 +4663,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-06-26T18:01:13.862779"
+  "fetched_at": "2025-06-27T00:03:26.145168"
 }
