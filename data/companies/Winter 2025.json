@@ -1544,8 +1544,8 @@
       "name": "Sennu AI",
       "slug": "sennu-ai",
       "website": "https://www.sennu.ai",
-      "description": "Sennu AI is building AI agents for tech consulting firms, starting with sales. We plan to help these firms to automate all parts of their business from sales to project delivery to back office.",
-      "one_liner": "AI Agents Automating the $400B Tech Consulting Market",
+      "description": "Sennu's AI agents automate Salesforce functional testing. Just connect your user stories and we'll take care of the rest.",
+      "one_liner": "Hands off Salesforce QA",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -1555,9 +1555,10 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "Generative AI",
@@ -2288,7 +2289,7 @@
       "id": 30269,
       "name": "Strike",
       "slug": "strike",
-      "website": "http://strikebet.app",
+      "website": "http://tradestrike.app",
       "description": "Strike is a daily fantasy sports platform that leverages options-style contracts to reward user conviction. By offering continuous payouts instead of binary outcomes, we aim to help transform daily fantasy sports and ultimately all event contracts from a casual pastime into a sophisticated asset class.\r\n",
       "one_liner": "Transforming betting into a sophisticated asset class",
       "batch": "Winter 2025",
@@ -5283,5 +5284,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-06-28T12:01:22.504857"
+  "fetched_at": "2025-06-28T18:01:26.839286"
 }
