@@ -9431,38 +9431,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc98a09682a41887bdb0e02c2a46d451af3432d2.png"
     },
     {
-      "id": 25401,
-      "name": "Onyx Private",
-      "slug": "onyx-private",
-      "website": "https://www.onyxprivate.com",
-      "description": "Onyx is a modern, accessible private bank for the next generation of affluent young professionals. We offer a unified digital-native premium banking and wealth management experience tailored for the overlooked groups of young high-earners and illiquid entrepreneurs, investors, and tech employees. Onyx aims to be the next-generation UBS. ",
-      "one_liner": "A modern and more accessible private bank for the new generation ",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 10,
-      "industry": "Fintech",
-      "subindustry": "Fintech",
-      "industries": [
-        "Fintech"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Miami, FL, USA",
-      "tags": [
-        "Fintech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1646242797.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fbe8c7045dae33304d548585ce6f327970f8299.png"
-    },
-    {
       "id": 25400,
       "name": "Industrial Next",
       "slug": "industrial-next",
@@ -12660,6 +12628,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/077148a8281f282d5a5d6825d93aedf0b71c08b4.png"
     },
     {
+      "id": 25401,
+      "name": "Onyx Private",
+      "slug": "onyx-private",
+      "website": "https://www.onyxprivate.com",
+      "description": "Onyx is a modern, accessible private bank for the next generation of affluent young professionals. We offer a unified digital-native premium banking and wealth management experience tailored for the overlooked groups of young high-earners and illiquid entrepreneurs, investors, and tech employees. Onyx aims to be the next-generation UBS. ",
+      "one_liner": "A modern and more accessible private bank for the new generation ",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 10,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Miami, FL, USA",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1646242797.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fbe8c7045dae33304d548585ce6f327970f8299.png"
+    },
+    {
       "id": 25396,
       "name": "HomeRoom",
       "slug": "homeroom",
@@ -13811,5 +13811,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-06-27T18:01:19.092934"
+  "fetched_at": "2025-06-28T00:02:38.432446"
 }

@@ -3848,8 +3848,8 @@
       "name": "Bilanc",
       "slug": "bilanc",
       "website": "https://www.bilanc.co",
-      "description": "The AI-powered Engineering Productivity Platform",
-      "one_liner": "The Engineering Productivity Platform",
+      "description": "The AI Engineering Productivity Platform",
+      "one_liner": "The AI Engineering Productivity Platform",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 3,
@@ -6465,7 +6465,7 @@
       "one_liner": "Marketplace for emergency vehicles, equipment, and more.",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -6856,8 +6856,8 @@
       "name": "Andon Labs",
       "slug": "andon-labs",
       "website": "https://andonlabs.com/",
-      "description": "",
-      "one_liner": "Preparing the world for AGI",
+      "description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
+      "one_liner": "Autonomous organizations without humans in the loop",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -6872,8 +6872,8 @@
       ],
       "locations": "",
       "tags": [
-        "Machine Learning",
-        "AI"
+        "Artificial Intelligence",
+        "Machine Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8265,5 +8265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-27T18:01:21.401675"
+  "fetched_at": "2025-06-28T00:02:40.227855"
 }

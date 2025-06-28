@@ -337,8 +337,8 @@
       "name": "Dash",
       "slug": "dash",
       "website": "https://www.usedash.ai/",
-      "description": "",
-      "one_liner": "Agent that connects to Gmail, Slack, Calendar, etc.",
+      "description": "Dash is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
+      "one_liner": "ChatGPT with Hands",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -354,8 +354,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Workflow Automation"
+        "Workflow Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -496,5 +496,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-27T18:01:32.299601"
+  "fetched_at": "2025-06-28T00:02:48.330180"
 }
