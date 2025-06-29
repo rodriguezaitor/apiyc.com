@@ -542,9 +542,9 @@
       "id": 29123,
       "name": "Glide",
       "slug": "glide-2",
-      "website": "https://paywithglide.xyz",
-      "description": "**What is Glide?**\r\nGlide lets users pay for transactions with tokens they already have on any chain. This eliminates the need to swap, bridge, or hold specific tokens to pay for transactions.\r\n\r\nGlide supports all EVM-compatible chains and hundreds of tokens, and lets users transact with the most popular smart contracts.\r\n\r\n**Who is Glide for?**\r\nGlide can be used by dapps and wallets to help their users complete transactions with tokens they already have. These tokens can be used to make cross-chain or same-chain transactions.",
-      "one_liner": "Let users pay for onchain transactions with any token on any chain",
+      "website": "https://buildwithglide.com",
+      "description": "Glide lets apps accept crypto deposits from any chain, wallet, or exchange using pre-built wallet funding flows. Users can fund wallets directly \u2014 no bridges, no swaps, no repeated KYC.",
+      "one_liner": "Crypto Deposits, Wallet Funding, and Pay-with-crypto Infra",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -7319,5 +7319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-06-28T18:01:25.213472"
+  "fetched_at": "2025-06-29T00:03:36.013942"
 }

@@ -365,6 +365,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png"
     },
     {
+      "id": 30666,
+      "name": "CareSwift",
+      "slug": "careswift",
+      "website": "https://www.careswift.com/",
+      "description": "",
+      "one_liner": "The operating system for modern EMS",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "SaaS",
+        "Health Tech",
+        "Workflow Automation",
+        "Healthcare IT",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751153734.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f57117138aa46056d21a2d0bd92569a3da39e148.png"
+    },
+    {
       "id": 30653,
       "name": "Skope",
       "slug": "skope",
@@ -496,5 +530,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-28T18:01:35.032293"
+  "fetched_at": "2025-06-29T00:03:45.392029"
 }
