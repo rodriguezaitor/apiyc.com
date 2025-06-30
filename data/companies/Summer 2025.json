@@ -367,6 +367,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png"
     },
     {
+      "id": 30692,
+      "name": "Wisp AI",
+      "slug": "wisp-ai",
+      "website": "https://wispai.app/",
+      "description": "Wisp AI is the executive assistant for everyone \u2014 not just CEOs. It manages your calendar, drafts emails, summarizes meetings and notes, and handles your to-dos and reminders. Built for small business owners and busy employees, Wisp saves hours every week by automating admin work \u2014 all for a fraction of the cost of a human assistant.",
+      "one_liner": "Wisp AI is an executive assistant for the everyday user.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Productivity",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751244737.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af1b75ac54386edfe8b2d84e507e2337ad380cce.png"
+    },
+    {
       "id": 30669,
       "name": "Dash",
       "slug": "dash",
@@ -502,7 +534,7 @@
       "name": "AgentMail",
       "slug": "agentmail",
       "website": "https://agentmail.to",
-      "description": "AgentMail is a developer-first email API built for AI Agents. Instantly provision unlimited inboxes for agents on your own domains, integrate across any stack, and use our standalone infrastructure to skip the limitations of Gmail\u2019s legacy API.",
+      "description": "AgentMail is a developer-first email infrastructure, specifically built for AI Agents. Instantly provision unlimited inboxes for agents on your own domains, integrate across any stack, and use our standalone infrastructure to skip the limitations of Gmail\u2019s legacy API.",
       "one_liner": "An email inbox for every AI agent",
       "batch": "Summer 2025",
       "status": "Active",
@@ -519,10 +551,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "API",
-        "Email",
-        "AI"
+        "Email"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -564,5 +596,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-06-30T00:03:33.814808"
+  "fetched_at": "2025-06-30T06:01:33.170188"
 }

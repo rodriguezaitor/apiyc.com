@@ -752,11 +752,11 @@
       "name": "Recall.ai",
       "slug": "recall-ai",
       "website": "https://www.recall.ai",
-      "description": "Recall is the universal API for meeting bots. We offer a unified API to capture data from meeting platforms like Zoom, Microsoft Teams, and Google Meet. \r\n\r\nOver 1000 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
-      "one_liner": "The universal API for meeting video, audio and metadata",
+      "description": "Recall.ai is the API to get recordings, transcripts, and metadata from meetings. We offer several form factors to capture this data: \r\n1. Meetings bots\r\n2. A desktop recording SDK\r\n3. A mobile recording SDK\r\n\r\nWe integrate with meeting platforms like Zoom, Google Meet, Microsoft Teams, and more, as well as in-person meetings.\r\n\r\nOver 1000 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
+      "one_liner": "The API to get recordings, transcripts, and metadata from meetings",
       "batch": "Winter 2020",
       "status": "Active",
-      "team_size": 20,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -771,8 +771,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "API",
-        "AI"
+        "Artificial Intelligence",
+        "API"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7725,5 +7725,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-06-30T00:03:26.378611"
+  "fetched_at": "2025-06-30T06:01:24.745354"
 }
