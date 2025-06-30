@@ -3223,11 +3223,11 @@
       "name": "Noloco",
       "slug": "noloco",
       "website": "https://noloco.io",
-      "description": "Noloco is the no-code platform for teams to create internal tools on top of their data in PostgreSQL, MySQL, Airtable & Google Sheets. With Noloco, you can build backoffice tools, CRUD apps and admin panels without writing a single line of code. ",
-      "one_liner": "Build the custom app your business needs \u2014 in minutes, without code",
+      "description": "Give your Ops teams the power to build the tools your business needs, with native data, logic, automation, and AI \u2014 without code",
+      "one_liner": "Flexible Business Apps for Modern Teams",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3238,20 +3238,20 @@
         "Ireland",
         "Europe",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Dublin, County Dublin, Ireland; Remote",
+      "locations": "Dublin, County Dublin, Ireland",
       "tags": [
         "Developer Tools",
         "SaaS",
         "No-code"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1627056154.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc0e83cec319be4be3188dc1d0b66bb5324a57f7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/201600bf7fcca3398cb1ecbf2e073352ee612ae3.png"
     },
     {
       "id": 24558,
@@ -5208,7 +5208,7 @@
       "one_liner": "AI Copilot for insights & strategy",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 11,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5220,9 +5220,9 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "NLP"
+        "NLP",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -10479,7 +10479,7 @@
         "Payments"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628553410.0,
@@ -13435,5 +13435,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-06-30T12:01:31.590300"
+  "fetched_at": "2025-06-30T18:01:22.281594"
 }

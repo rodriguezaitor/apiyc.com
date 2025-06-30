@@ -7477,9 +7477,9 @@
       "id": 29185,
       "name": "Relari",
       "slug": "relari",
-      "website": "https://www.relari.ai/",
-      "description": "Relari helps AI teams simulate, test, and validate complex AI applications throughout the development lifecycle.\r\n\r\nWe are the company behind continuous-eval, an open-source modular evaluation framework with metrics covering text generation, code generation, retrieval, classification, agents, and other LLM use cases. Our cloud platform generates custom synthetic data and simulates user behavior to stress test and harden GenAI applications.",
-      "one_liner": "Testing and Simulation Stack for GenAI Systems",
+      "website": "https://www.nuvi.dev/",
+      "description": "Relari is building the infrastructure for trustworthy AI agents in the Software 3.0 era.\r\nWe\u2019re the company behind Nuvi.dev \u2014 a natural language agent builder that turns plain-English specifications into intelligent, verifiable agents \u2014 as well as the open-source frameworks Agent Contract and continuous-eval, which ensure AI systems behave as intended.",
+      "one_liner": "AI Agent Builder for Software 3.0",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -8265,5 +8265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-06-30T12:01:33.384609"
+  "fetched_at": "2025-06-30T18:01:23.379432"
 }
