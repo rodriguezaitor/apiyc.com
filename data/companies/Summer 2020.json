@@ -105,7 +105,7 @@
       "name": "Payflow",
       "slug": "payflow-2",
       "website": "https://www.payflow.ai",
-      "description": "Building Luca: an AI FP&A analyst providing executives with AI-powered financial insights, analytics, detailed reporting, planning and forecasting. Luca enables companies to save tens of thousands of dollars and 400+ hours per year, while getting critical business value from week one.\r\nLevel-4 autonomy for FP&A. Learn more: https://payflow.ai",
+      "description": "Building Luca: an AI FP&A analyst providing executives with AI-powered financial insights, analytics, detailed reporting, planning and forecasting. Luca enables companies to save tens of thousands of dollars and 400+ hours per year, while getting critical business value from week one.\r\nLevel-3 autonomy for FP&A. Learn more: https://payflow.ai",
       "one_liner": "AI FP&A Agent for insights, reports, planning and forecasting.",
       "batch": "Summer 2020",
       "status": "Active",
@@ -129,7 +129,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1595401779.0,
@@ -7130,5 +7130,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-06-29T18:00:55.207233"
+  "fetched_at": "2025-06-30T00:03:27.015973"
 }
