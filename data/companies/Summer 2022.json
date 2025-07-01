@@ -3460,7 +3460,7 @@
         "Proptech"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1652269934.0,
@@ -6078,43 +6078,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4857d95e94326dab2796fc4935e39cb912bd34e3.png"
     },
     {
-      "id": 26690,
-      "name": "Truva",
-      "slug": "truva",
-      "website": "https://www.truva.ai/",
-      "description": "Truva handles the busywork intelligently saving your sales team hours each week, so they can focus on what matters most - building and closing deals. Many teams have seen up to 25% increase in sales where Truva's AI agents automated tedious tasks such as email follow up, CRM data entry, and process optimizations.",
-      "one_liner": "Sell more. Grind less with AI agents.",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 9,
-      "industry": "B2B",
-      "subindustry": "B2B -> Marketing",
-      "industries": [
-        "B2B",
-        "Marketing"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "Sales",
-        "Sales Enablement",
-        "AI",
-        "Conversational AI"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1659500031.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba9e5d56fa5dcbae0584f3529d576be10b251a7.png"
-    },
-    {
       "id": 26675,
       "name": "Birch Biosciences",
       "slug": "birch-biosciences",
@@ -7146,6 +7109,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f7e22aa96dc1d6baabade2bc3dad88a3cdc9bb8.png"
     },
     {
+      "id": 26690,
+      "name": "Truva",
+      "slug": "truva",
+      "website": "https://www.truva.ai/",
+      "description": "Truva handles the busywork intelligently saving your sales team hours each week, so they can focus on what matters most - building and closing deals. Many teams have seen up to 25% increase in sales where Truva's AI agents automated tedious tasks such as email follow up, CRM data entry, and process optimizations.",
+      "one_liner": "Sell more. Grind less with AI agents.",
+      "batch": "Summer 2022",
+      "status": "Acquired",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Sales",
+        "Sales Enablement",
+        "AI",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1659500031.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba9e5d56fa5dcbae0584f3529d576be10b251a7.png"
+    },
+    {
       "id": 26657,
       "name": "HyperDX",
       "slug": "hyperdx",
@@ -8122,5 +8122,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-06-30T18:01:23.627280"
+  "fetched_at": "2025-07-01T00:03:29.413891"
 }

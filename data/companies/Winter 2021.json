@@ -204,41 +204,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9238e86542fecb16b8599ba8f4748c9160f7266.png"
     },
     {
-      "id": 23640,
-      "name": "eqtble",
-      "slug": "eqtble",
-      "website": "https://eqtble.com/",
-      "description": "At eqtble, we\u2019re on a mission is to empower companies to make more equitable decisions around their employees. We're building a people analytics platform that enables talent and people leaders to access a rich set of analytics and insights out of their existing data.\r\n\r\nWithin a short time period, we've vaulted to the top of the HR tech industry with our tech-first people analytics solution. With customers such as Etsy, Chobani, Nuro, Harrys, Checkr - eqtble is on a path to being the leader in the people analytics space.",
-      "one_liner": "Turning HR data into actionable insights",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Human Resources",
-      "industries": [
-        "B2B",
-        "Human Resources"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "New York, NY, USA; Remote",
-      "tags": [
-        "SaaS",
-        "Human Resources",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614791983.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/24f8cacce5d2f2682093390e63f96ed44a2c1e4f.png"
-    },
-    {
       "id": 23636,
       "name": "R.care",
       "slug": "r-care",
@@ -5972,7 +5937,7 @@
         "Social"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1613165031.0,
@@ -8635,6 +8600,41 @@
       "is_top_company": false,
       "launched_at": 1615457343.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/adfd1c33ceed7c9e58e31857fc68ab3c74ad1ad4.png"
+    },
+    {
+      "id": 23640,
+      "name": "eqtble",
+      "slug": "eqtble",
+      "website": "https://eqtble.com/",
+      "description": "At eqtble, we\u2019re on a mission is to empower companies to make more equitable decisions around their employees. We're building a people analytics platform that enables talent and people leaders to access a rich set of analytics and insights out of their existing data.\r\n\r\nWithin a short time period, we've vaulted to the top of the HR tech industry with our tech-first people analytics solution. With customers such as Etsy, Chobani, Nuro, Harrys, Checkr - eqtble is on a path to being the leader in the people analytics space.",
+      "one_liner": "Turning HR data into actionable insights",
+      "batch": "Winter 2021",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "SaaS",
+        "Human Resources",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614791983.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/24f8cacce5d2f2682093390e63f96ed44a2c1e4f.png"
     },
     {
       "id": 23638,
@@ -11539,5 +11539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-06-30T18:01:22.576127"
+  "fetched_at": "2025-07-01T00:03:28.783110"
 }

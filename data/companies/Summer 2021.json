@@ -7454,41 +7454,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fed32ab70a12bd36d21cdf1279b175682454ee3c.png"
     },
     {
-      "id": 24176,
-      "name": "Maroo",
-      "slug": "maroo",
-      "website": "https://maroo.us/",
-      "description": "",
-      "one_liner": "Business management platform for creatives",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
-      "industries": [
-        "B2B",
-        "Finance and Accounting"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "New York, NY, USA; Remote",
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1624484595.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eaf6cd73a245bd22f839792c218cc3d7342c02b.png"
-    },
-    {
       "id": 24170,
       "name": "Awesomic",
       "slug": "awesomic",
@@ -12955,6 +12920,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab9214122c1f44be841827f0b43c68e15d29f063.png"
     },
     {
+      "id": 24176,
+      "name": "Maroo",
+      "slug": "maroo",
+      "website": "https://maroo.us/",
+      "description": "",
+      "one_liner": "Business management platform for creatives",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1624484595.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eaf6cd73a245bd22f839792c218cc3d7342c02b.png"
+    },
+    {
       "id": 24163,
       "name": "Commery",
       "slug": "commery",
@@ -13435,5 +13435,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-06-30T18:01:22.281594"
+  "fetched_at": "2025-07-01T00:03:28.618681"
 }
