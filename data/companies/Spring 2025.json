@@ -2961,12 +2961,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
-        "B2B",
-        "DevOps",
         "Infrastructure"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747089464.0,
@@ -4228,7 +4226,7 @@
         "Monitoring"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746569409.0,
@@ -4651,5 +4649,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-07-01T00:03:30.501791"
+  "fetched_at": "2025-07-01T06:01:26.585243"
 }
