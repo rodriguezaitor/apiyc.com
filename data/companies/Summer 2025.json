@@ -568,8 +568,8 @@
       "name": "AgentMail",
       "slug": "agentmail",
       "website": "https://agentmail.to",
-      "description": "AgentMail is a developer-first email infrastructure, specifically built for AI Agents. Instantly provision unlimited inboxes for agents on your own domains, integrate across any stack, and use our standalone infrastructure to skip the limitations of Gmail\u2019s legacy API.",
-      "one_liner": "An email inbox for every AI agent",
+      "description": "AgentMail is an email API that allows your agent to have its own inbox. Think of it like Gmail, but for AI Agents.",
+      "one_liner": "Email Infrastructure for AI Agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -585,10 +585,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "API",
-        "Email"
+        "Email",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -630,5 +630,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-07-01T06:01:27.187238"
+  "fetched_at": "2025-07-01T12:01:39.859348"
 }

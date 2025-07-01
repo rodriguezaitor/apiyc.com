@@ -5099,11 +5099,11 @@
     },
     {
       "id": 28836,
-      "name": "Sigma",
-      "slug": "sigma",
-      "website": "https://mysigma.ai/",
-      "description": "Sigma is an open-source AI personal assistant inside a todo app.\r\n\r\nSigma learns your style, organizes your day, and sweeps up the busywork\u2014auto-creating tasks, drafting replies, and running routine workflows\u2014so you can focus on what truly matters.",
-      "one_liner": "Your AI Personal Assistant now in a todo app",
+      "name": "SOL",
+      "slug": "sol",
+      "website": "https://heysol.ai/",
+      "description": "SOL is your unified command center for tasks, coding, and alerts\u2014powered by CORE memory that adapts to your style and workflow.\r\n\r\nIt brings together your work from Slack, GitHub, Linear, and Gmail, delivering AI-powered assistance that gets smarter with every interaction.",
+      "one_liner": "Your AI Personal Assistant for daily focus",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -5119,17 +5119,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "SaaS",
-        "AI"
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687596955.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e79b312104fdeeee2f5cf870c7a37a04fa388877.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9a8cad6a65c7427fbc1ed42b8409c70bc0ef599.png"
     },
     {
       "id": 28835,
@@ -7317,5 +7317,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-01T06:01:26.316773"
+  "fetched_at": "2025-07-01T12:01:31.087655"
 }

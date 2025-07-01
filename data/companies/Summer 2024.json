@@ -1501,7 +1501,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722719636.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/886e679b5cbd64c33306564aa7caabb0748574d5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/83db64301a123c8f20195581b448254e59c1a24f.png"
     },
     {
       "id": 29836,
@@ -2031,7 +2031,7 @@
       "name": "Propaya",
       "slug": "propaya",
       "website": "https://www.propaya.com",
-      "description": "Propaya uses AI to automate commercial lease abstractions and reviews. Propaya customers save 90% of lease review processing time and cost compared to before.",
+      "description": "Propaya uses AI to instantly abstract and analyze commercial leases - delivering clause-cited insights, linked schedules, and export-ready data in minutes. Beyond lease reviews, we empower brokers and attorneys with market benchmarks and deal evaluation tools to negotiate smarter, faster.",
       "one_liner": "AI commercial lease abstractions and review",
       "batch": "Summer 2024",
       "status": "Active",
@@ -2050,10 +2050,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
         "Housing",
-        "Proptech"
+        "Proptech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8338,5 +8338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-01T06:01:26.114222"
+  "fetched_at": "2025-07-01T12:01:29.500958"
 }
