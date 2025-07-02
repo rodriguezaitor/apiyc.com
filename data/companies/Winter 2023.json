@@ -6677,41 +6677,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f30c988fde8ec60cc14e8c5cf656b62cd6d35d.png"
     },
     {
-      "id": 27734,
-      "name": "Rubber Ducky Labs",
-      "slug": "rubber-ducky-labs",
-      "website": "https://www.rubberduckylabs.io/",
-      "description": "We built Rubber Ducky Labs to help e-commerce teams effortlessly improve product discovery through better metadata. Our tool enables non-technical users to leverage multi-modal AI on product catalogs\u2014just upload a CSV and start tagging metadata in minutes.",
-      "one_liner": "AI Powered Product Discovery",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "E-commerce",
-        "Recommendation System"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1671139016.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/80d1f55be06d00fd52db1ea9553e87aa6f8ac9d1.png"
-    },
-    {
       "id": 27728,
       "name": "Nango",
       "slug": "nango",
@@ -9157,6 +9122,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/388789f1c6ffe4850160572101030a86b8e7bc8c.png"
     },
     {
+      "id": 27734,
+      "name": "Rubber Ducky Labs",
+      "slug": "rubber-ducky-labs",
+      "website": "https://www.rubberduckylabs.io/",
+      "description": "We built Rubber Ducky Labs to help e-commerce teams effortlessly improve product discovery through better metadata. Our tool enables non-technical users to leverage multi-modal AI on product catalogs\u2014just upload a CSV and start tagging metadata in minutes.",
+      "one_liner": "AI Powered Product Discovery",
+      "batch": "Winter 2023",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "E-commerce",
+        "Recommendation System"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1671139016.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/80d1f55be06d00fd52db1ea9553e87aa6f8ac9d1.png"
+    },
+    {
       "id": 27725,
       "name": "Parabolic",
       "slug": "parabolic",
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-07-01T18:01:14.086087"
+  "fetched_at": "2025-07-02T00:02:59.096917"
 }

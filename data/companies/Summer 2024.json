@@ -3394,8 +3394,8 @@
       "name": "Thunder Compute",
       "slug": "thunder-compute",
       "website": "https://www.thundercompute.com",
-      "description": "Thunder Compute is the world's cheapest GPU cloud platform for researchers, data scientists, and startups. The team is building a proprietary orchestration stack to improve GPU utilization by 5x. Try it today.",
-      "one_liner": "The cheapest GPU cloud for developing AI/ML",
+      "description": "Self-serve GPUs in VS Code with persistent storage, snapshots, and hot-swappable hardware, with prices 80% lower than AWS.",
+      "one_liner": "Launch GPU instances in one click for 80% less",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 4,
@@ -3411,11 +3411,11 @@
       ],
       "locations": "Atlanta, GA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Data Science",
         "Cloud Computing",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8343,5 +8343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-01T18:01:14.427040"
+  "fetched_at": "2025-07-02T00:02:59.551927"
 }
