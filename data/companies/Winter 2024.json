@@ -3879,11 +3879,11 @@
     },
     {
       "id": 29372,
-      "name": "Rehearsal.so",
-      "slug": "rehearsal-so",
-      "website": "https://rehearsal.so/",
-      "description": "",
-      "one_liner": "Voice AI Roleplays",
+      "name": "Ramble.gg",
+      "slug": "ramble-gg",
+      "website": "https://ramble.gg",
+      "description": "Ramble is an AI role-playing game where you have ten minutes to convince an AI character. For example, convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent, etc.",
+      "one_liner": "AI Role-Playing Games",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -3903,6 +3903,8 @@
       "tags": [
         "Artificial Intelligence",
         "Generative AI",
+        "Consumer",
+        "Gaming",
         "AI"
       ],
       "stage": "Early",
@@ -6393,35 +6395,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9e617a95e53816124e714ff8891962cb1177806.png"
     },
     {
-      "id": 29271,
-      "name": "DGI Apparel",
-      "slug": "dgi-apparel",
-      "website": "https://www.dgiapparel.com/",
-      "description": "DGI Apparel is a one-stop shop for custom screen printers to purchase all of the supplies needed to operate their business. DGI enables users to connect their existing vendor accounts to compare prices, inventory, and shipping time across all of their vendors on a single website. They can also manage all of their vendor carts, checkout, and view purchase tracking and analytics right from DGI.",
-      "one_liner": "Expedia for ordering blank apparel",
-      "batch": "Winter 2024",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1706993476.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee1a0cab463910beae62d9d3212eb8390758edb8.png"
-    },
-    {
       "id": 29270,
       "name": "Buster",
       "slug": "buster",
@@ -8196,6 +8169,35 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/adeef8e1af9dbd08cd58abd347c0b5085123d33a.png"
     },
     {
+      "id": 29271,
+      "name": "DGI Apparel",
+      "slug": "dgi-apparel",
+      "website": "https://www.dgiapparel.com/",
+      "description": "DGI Apparel is a one-stop shop for custom screen printers to purchase all of the supplies needed to operate their business. DGI enables users to connect their existing vendor accounts to compare prices, inventory, and shipping time across all of their vendors on a single website. They can also manage all of their vendor carts, checkout, and view purchase tracking and analytics right from DGI.",
+      "one_liner": "Expedia for ordering blank apparel",
+      "batch": "Winter 2024",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1706993476.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee1a0cab463910beae62d9d3212eb8390758edb8.png"
+    },
+    {
       "id": 29260,
       "name": "Quary",
       "slug": "quary",
@@ -8265,5 +8267,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-02T12:01:30.138425"
+  "fetched_at": "2025-07-02T18:00:58.629191"
 }

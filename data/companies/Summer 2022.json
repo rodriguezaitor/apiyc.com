@@ -5905,42 +5905,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f42f37fbf9cfcc260b859200cbb3a37baa67c05.png"
     },
     {
-      "id": 26706,
-      "name": "Superpowered AI",
-      "slug": "superpowered-ai",
-      "website": "https://superpowered.ai",
-      "description": "Superpowered AI makes it easy to build production-ready LLM applications with access to external knowledge.\r\n\r\nOur API lets you connect external sources of knowledge (like regulatory archives, for example) to LLMs. We leverage proprietary RAG technology to dramatically improve retrieval performance and reliability for a wide variety of use cases.\r\n\r\nIf you have an LLM-based application in mind, please reach out! We've helped companies build real-world applications, ranging from internal productivity tools to complete external products.",
-      "one_liner": "API for Retrieval Augmented Generation",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Salt Lake City, UT, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "Generative AI",
-        "SaaS",
-        "B2B",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1656019414.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a99f13ea3e8f11f56a566c16c863057d1e5557b.png"
-    },
-    {
       "id": 26705,
       "name": "Stackup",
       "slug": "stackup",
@@ -7882,6 +7846,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd40b32ea9b1e9505e7a9ab1cc86d9b4829cfd1.png"
     },
     {
+      "id": 26706,
+      "name": "Superpowered AI",
+      "slug": "superpowered-ai",
+      "website": "https://superpowered.ai",
+      "description": "Superpowered AI makes it easy to build production-ready LLM applications with access to external knowledge.\r\n\r\nOur API lets you connect external sources of knowledge (like regulatory archives, for example) to LLMs. We leverage proprietary RAG technology to dramatically improve retrieval performance and reliability for a wide variety of use cases.\r\n\r\nIf you have an LLM-based application in mind, please reach out! We've helped companies build real-world applications, ranging from internal productivity tools to complete external products.",
+      "one_liner": "API for Retrieval Augmented Generation",
+      "batch": "Summer 2022",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Salt Lake City, UT, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "Generative AI",
+        "SaaS",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1656019414.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a99f13ea3e8f11f56a566c16c863057d1e5557b.png"
+    },
+    {
       "id": 26681,
       "name": "Alma",
       "slug": "alma",
@@ -8122,5 +8122,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-02T12:01:30.195064"
+  "fetched_at": "2025-07-02T18:00:58.731705"
 }
