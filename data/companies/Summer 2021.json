@@ -1459,17 +1459,11 @@
         "Human Resources"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "New York, NY, USA; Remote",
-      "tags": [
-        "Mental Health Tech",
-        "B2B",
-        "Healthcare"
-      ],
+      "locations": "Remote",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -8316,11 +8310,11 @@
     },
     {
       "id": 24137,
-      "name": "ShopMyGPT.com",
-      "slug": "shopmygpt-com",
-      "website": "https://www.shopmygpt.com/",
-      "description": "ShopMyGPT.com is building AI Search for eCommerce brands to help customers find the products they want to buy.",
-      "one_liner": "AI Search inside eCommerce stores",
+      "name": "Watu",
+      "slug": "watu",
+      "website": "https://www.watu.email/",
+      "description": "Watu is building an email iOS app to enable 1 click checkout inside of emails.",
+      "one_liner": "Checkout inside of email",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": null,
@@ -8336,7 +8330,7 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; New York, NY, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "SaaS",
         "B2B",
@@ -13435,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-07-02T00:02:58.168679"
+  "fetched_at": "2025-07-02T06:01:18.320603"
 }
