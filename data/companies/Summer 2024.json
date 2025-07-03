@@ -4397,7 +4397,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724859181.0,
@@ -4837,7 +4837,7 @@
       "one_liner": "Instantly Repair LLM-Generated Code",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5306,19 +5306,12 @@
         "Legal"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "Legal",
-        "LegalTech",
-        "AI",
-        "Conversational AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720334032.0,
@@ -8343,5 +8336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-02T18:00:58.538321"
+  "fetched_at": "2025-07-03T00:03:02.740196"
 }

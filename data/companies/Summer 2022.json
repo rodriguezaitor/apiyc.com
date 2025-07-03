@@ -937,34 +937,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca7dff480b4b49f376fc3b90d1adc3c17872277f.png"
     },
     {
-      "id": 27176,
-      "name": "Slingshot",
-      "slug": "slingshot",
-      "website": "https://slingshotml.com",
-      "description": "Slingshot is AI  that analyzes medical records to determine if the diagnosis is supported by the clinical evidence.\r\n\r\nThe company is founded by Pranov Duggasani, a former Google and Microsoft AI engineer, and Zoe Holderness, a former Lyft and Tesla engineer. They started working on Slingshot after facing their own frustrations with inflated and erroneous medical bills with the goal to save patients more money with less work.\r\n",
-      "one_liner": "Analyze medical records in seconds",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare",
-      "industries": [
-        "Healthcare"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1657062978.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66860903383756dd41adff13becb456311759cb.png"
-    },
-    {
       "id": 27175,
       "name": "uwi",
       "slug": "uwi",
@@ -2605,8 +2577,8 @@
       "name": "Cobbery",
       "slug": "cobbery",
       "website": "https://cobbery.com",
-      "description": "Cobbery hand-crafts AI phone agents for your business to scale operations and reduce operating costs.",
-      "one_liner": "AI Agents to Scale Your Outbound Phone Ops",
+      "description": "We're bringing senior care into 2025 with next-generation tools for caretakers that give them superpowers instead of getting in their way",
+      "one_liner": "Fixing senior care",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 4,
@@ -2624,7 +2596,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6894,6 +6866,34 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/22e8f105fb29e8957dec4db2a7b28a0c24a20539.png"
     },
     {
+      "id": 27176,
+      "name": "Slingshot",
+      "slug": "slingshot",
+      "website": "https://slingshotml.com",
+      "description": "Slingshot is AI  that analyzes medical records to determine if the diagnosis is supported by the clinical evidence.\r\n\r\nThe company is founded by Pranov Duggasani, a former Google and Microsoft AI engineer, and Zoe Holderness, a former Lyft and Tesla engineer. They started working on Slingshot after facing their own frustrations with inflated and erroneous medical bills with the goal to save patients more money with less work.\r\n",
+      "one_liner": "Analyze medical records in seconds",
+      "batch": "Summer 2022",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1657062978.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66860903383756dd41adff13becb456311759cb.png"
+    },
+    {
       "id": 27174,
       "name": "Monterey AI",
       "slug": "monterey-ai",
@@ -8122,5 +8122,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-02T18:00:58.731705"
+  "fetched_at": "2025-07-03T00:03:03.394761"
 }

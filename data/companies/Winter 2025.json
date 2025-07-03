@@ -2906,7 +2906,7 @@
       "name": "GradeWiz",
       "slug": "gradewiz",
       "website": "https://www.gradewiz.ai/",
-      "description": "GradeWiz is an AI assistant that helps educators create rubrics, grade student work and give detailed feedback on handwritten worksheets and tests, saving 4+ hrs a week.",
+      "description": "GradeWiz is an AI assistant that helps educators create rubrics, grade student work and give detailed feedback on handwritten worksheets and tests, saving 10+ hrs a week.",
       "one_liner": "AI Grading for Teachers",
       "batch": "Winter 2025",
       "status": "Active",
@@ -2923,8 +2923,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3884,8 +3884,8 @@
       "name": "Contrario",
       "slug": "contrario",
       "website": "https://contrario.ai",
-      "description": "Contrario is the first autonomous recruiting agency powered entirely by Al. We help companies built early-stage teams faster by sourcing and screening high-quality candidates for you. Our platform leverages proprietary AI matching algorithms to identify job seekers and uses an elite network of pre-vetted expert recruiters to fill your hardest roles. We also leverage voice AI to perform behavioral screenings before passing candidates forward. We help Seed to Series C+ companies find the best talent to build their teams. ",
-      "one_liner": "The 1st fully autonomous AI recruiting agency",
+      "description": "Contrario is an AI-native recruiter marketplace helping growth-stage startups and enterprises fill hard roles fast. We combine AI-powered candidate matching and voice-based behavioral screening with a network of expert recruiters to deliver high-signal candidates quickly. Unlike typical marketplaces, Contrario pairs proprietary AI models with recruiter workflows to filter noise and surface only the best-fit talent.",
+      "one_liner": "AI-Native Talent Marketplace",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -5025,15 +5025,10 @@
         "Credit and Lending"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "Lending",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5273,5 +5268,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-07-02T18:00:59.195011"
+  "fetched_at": "2025-07-03T00:03:05.230872"
 }
