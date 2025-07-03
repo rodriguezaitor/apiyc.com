@@ -2636,7 +2636,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1656434795.0,
@@ -8122,5 +8122,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-03T06:01:29.706219"
+  "fetched_at": "2025-07-03T12:01:37.691056"
 }

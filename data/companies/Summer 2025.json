@@ -631,6 +631,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png"
     },
     {
+      "id": 30644,
+      "name": "Herdora",
+      "slug": "herdora",
+      "website": "https://www.herdora.com",
+      "description": "Herdora optimizes GPU code automatically. Our agents rewrite kernels to run faster and cheaper on any hardware. Companies get full GPU utilization without manual tuning.",
+      "one_liner": "Supercharge your GPU performance",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751530242.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/66abb17a3df84fe0726adf6b1d88e334ca44863c.png"
+    },
+    {
       "id": 30611,
       "name": "AgentMail",
       "slug": "agentmail",
@@ -697,5 +729,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-07-03T06:01:37.448790"
+  "fetched_at": "2025-07-03T12:01:47.571596"
 }
