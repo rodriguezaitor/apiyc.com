@@ -153,7 +153,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736800806.0,
@@ -2923,8 +2923,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Edtech",
-        "AI"
+        "Artificial Intelligence",
+        "Edtech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5301,5 +5301,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-07-03T12:01:40.136149"
+  "fetched_at": "2025-07-03T18:01:23.448263"
 }
