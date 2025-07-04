@@ -372,7 +372,7 @@
       "slug": "perseus-defense",
       "website": "https://perseusdefense.ai",
       "description": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our micro-guided missile system is man-portable, multi-domain capable, and has both forward-deployed and low-collateral defeat variants. It senses, engages, and eliminates threats with drastically reduced cost per engagement. \r\n\r\nSolving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued a PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \r\n\r\n\"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer\r\n\r\nThe White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. \r\n\r\nTraction: \r\nA UAS prototype was designed and built in one week and a prototype of the guided missile was prototyped in four days. Following the Stanford Hacking for Defense process that Perseus Defense adviser and former Army Ranger Dr. Jeff Decker wrote the book on, Jason and Steve used 60 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. Perseus has already been invited to a Phase-II in-person pitch of their solution to government end-users, signaling progress towards contract opportunities. ",
-      "one_liner": "Autonomous micro-missiles for Counter UxS.",
+      "one_liner": "Guided micro-missiles for Counter-UAS.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -498,6 +498,41 @@
       "is_top_company": false,
       "launched_at": 1751244737.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af1b75ac54386edfe8b2d84e507e2337ad380cce.png"
+    },
+    {
+      "id": 30690,
+      "name": "Flai",
+      "slug": "flai",
+      "website": "https://www.useflai.com/",
+      "description": "Flai helps retail, restaurant, and warehouse employers hire faster and find candidates who actually stay on the job.\r\n\r\nThe problem we solve: frontline managers waste hours interviewing candidates who quit before training ends. With 100%+ annual turnover, hiring becomes a daily firefight of filling shifts with whoever shows up.\r\n\r\nWe use AI voice interviewers that run first-round phone screenings. But we don't stop at screening; our AI also monitors new hires through check-in calls during their critical first 90 days to detect early attrition signals and flag these for managers to prevent it.\r\n\r\nThis creates a learning loop. The screening AI gets smarter with each placement, learning to recognize which candidates will stick around versus those who will leave early. Over time, this means fewer bad hires and less turnover.\r\n\r\nThe result: managers stop wasting time on candidates who won't last, cost per hire drops as turnover decreases, and shifts get covered by people who actually want to be there.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just screening candidates, we're redefining how retail businesses approach hiring and retention in high-turnover industries.",
+      "one_liner": "We help retail hire faster and keep workers longer",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "SaaS",
+        "Recruiting",
+        "Retail",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751567522.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b90c0f9fa101c9a96455820ea0a553837b94f49.png"
     },
     {
       "id": 30669,
@@ -729,5 +764,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-07-03T18:01:24.117478"
+  "fetched_at": "2025-07-04T00:03:22.743442"
 }

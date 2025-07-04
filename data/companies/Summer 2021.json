@@ -1263,7 +1263,7 @@
       "id": 24817,
       "name": "Bytebot",
       "slug": "bytebot",
-      "website": "https://github.com/bytebot-ai/bytebot",
+      "website": "https://www.bytebot.ai/",
       "description": "Bytebot simplifies and streamlines the development of computer use agents with a ready made container for desktop automation, including APIs for mouse movements, keyboard input, and screenshot capture. \r\n\r\nThe container enables developers to build robust, dynamic computer use agents that can be configured and run anywhere.",
       "one_liner": "Bytebot is the open source container for AI desktop agents.",
       "batch": "Summer 2021",
@@ -1283,10 +1283,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Robotic Process Automation",
         "SaaS",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -8447,11 +8447,11 @@
     },
     {
       "id": 24130,
-      "name": "Aldermate",
-      "slug": "aldermate",
-      "website": "https://www.aldermate.com",
-      "description": "AI phone companion for the elderly that calls our loved ones every day, starting with daily check-ins and medication reminders.",
-      "one_liner": "AI phone companion for the elderly",
+      "name": "VitalStrata",
+      "slug": "vitalstrata",
+      "website": "https://www.vitalstrata.com",
+      "description": "Automate and scale post-discharge follow-up calls with AI coordinators that specialize in transition of care.",
+      "one_liner": "AI coordinators for post-discharge follow-up calls",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 2,
@@ -8459,7 +8459,7 @@
       "subindustry": "B2B -> Security",
       "industries": [
         "Healthcare",
-        "Consumer Health and Wellness"
+        "Healthcare IT"
       ],
       "regions": [
         "United States of America",
@@ -8469,17 +8469,17 @@
       ],
       "locations": "New York, NY, USA; Remote",
       "tags": [
-        "Assistive Tech",
-        "Consumer Health Services",
         "Health Tech",
-        "Telehealth"
+        "Telehealth",
+        "Healthcare",
+        "Healthcare IT"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628792922.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3587b55b33a72212a09aa768973297af3f0c7422.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd0109481d906e6297d06b8dd77f7ea4ff307796.png"
     },
     {
       "id": 24129,
@@ -13429,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-07-03T18:01:22.851508"
+  "fetched_at": "2025-07-04T00:03:11.169059"
 }

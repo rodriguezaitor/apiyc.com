@@ -5591,7 +5591,7 @@
       "name": "TokenOwl",
       "slug": "tokenowl",
       "website": "https://tokenowl.ai",
-      "description": "TokenOwl aggregates crypto and other financial accounts in one place with trustless AI. It lets highly active traders calculate taxes with greater accuracy and generate AI powered insights about their portfolio.\r\n\r\nUsers can execute trades with prompts, build custom dashboards, and query their logs in natural language. Low fee networks like Solana have brought a new generation of traders with thousands of transactions, and TokenOwl saves them hours of time and unlocks analytics that lead to higher profitability.\r\n",
+      "description": "TokenOwl aggregates financial accounts in one place with trustless AI. It lets highly active traders calculate taxes with greater accuracy and generate AI powered insights about their portfolio.\r\n\r\nUsers can execute trades with prompts, build custom dashboards, and query their logs in natural language.\r\n",
       "one_liner": "AI portfolio tools for the next generation of finance",
       "batch": "Winter 2024",
       "status": "Active",
@@ -5609,9 +5609,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Crypto / Web3",
-        "AI",
-        "Cryptocurrency"
+        "Artificial Intelligence",
+        "Crypto / Web3"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8260,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-03T18:01:23.096452"
+  "fetched_at": "2025-07-04T00:03:12.976641"
 }
