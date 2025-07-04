@@ -200,6 +200,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e18f0a8b8fff511049fe03b4ad0dc3b98bce28b5.png"
     },
     {
+      "id": 30758,
+      "name": "Hera",
+      "slug": "hera-video",
+      "website": "https://hera.video/",
+      "description": "Hera is an AI motion designer that turns 5-hour projects into 5-minute tasks. \r\n\r\nWhen you're a YouTuber making an infographic animation, instead of spending hours manually clicking buttons in Adobe After Effects, you can create the same animation in minutes in Hera. \r\n\r\nThrough talking to our users, we realized that 95% of time spent on motion graphics is manual button clicking, not creative work. This insight led us to focus on automating the tedious parts while giving the user all creative control.\r\n\r\nWe launched in May 2025, got 100k waitlist signups in 8 weeks, and we're doubling revenue monthly.",
+      "one_liner": "AI Motion Designer",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "SaaS",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751591849.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f7b7a995019aa5e4fd80611bc112b4f179b24d0.png"
+    },
+    {
       "id": 30755,
       "name": "Pally",
       "slug": "pally",
@@ -764,5 +797,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-07-04T00:03:22.743442"
+  "fetched_at": "2025-07-04T06:01:26.112535"
 }

@@ -4275,7 +4275,11 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Machine Learning",
+        "Data Science",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4643,5 +4647,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-07-04T00:03:16.517158"
+  "fetched_at": "2025-07-04T06:01:24.174913"
 }

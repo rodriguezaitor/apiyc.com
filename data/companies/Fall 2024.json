@@ -607,7 +607,7 @@
       "name": "Surge",
       "slug": "surge",
       "website": "https://surge.app",
-      "description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge will win the market by enabling easy carrier registration and keeping customers with our higher level APIs and no code UI components. We have 11 paying customers so far, and our revenue is growing 58% month over month.",
+      "description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge wins by enabling easy carrier registration, better support, and higher level APIs and no code UI components to make implementation easier for startups and developers.",
       "one_liner": "Stripe for telephony",
       "batch": "Fall 2024",
       "status": "Active",
@@ -635,7 +635,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731622401.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f55889b876077192ae88368c48e83468f24487c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f4a489f75647f08676e6de181d0f4d27016b18f.png"
     },
     {
       "id": 30106,
@@ -2946,15 +2946,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "Enterprise",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3094,5 +3089,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-04T00:03:19.385242"
+  "fetched_at": "2025-07-04T06:01:25.080118"
 }

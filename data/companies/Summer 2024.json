@@ -5124,8 +5124,8 @@
       "name": "LedgerUp",
       "slug": "ledgerup",
       "website": "https://ledgerup.ai/",
-      "description": "LedgerUp is your AI RevOps teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics\u2014allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your RevOps for you.",
-      "one_liner": "Your AI billing teammate that automates contracts to revenue",
+      "description": "LedgerUp is your AI billing teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics, allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your billing for you.",
+      "one_liner": "Your AI teammate that handles all billing and revenue from Slack",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 5,
@@ -5141,10 +5141,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "FinOps",
         "Workflow Automation",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6481,7 +6481,7 @@
         "Compliance"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721851005.0,
@@ -8328,5 +8328,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-04T00:03:12.546987"
+  "fetched_at": "2025-07-04T06:01:22.753752"
 }
