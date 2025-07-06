@@ -1,6 +1,37 @@
 {
   "data": [
     {
+      "id": 30818,
+      "name": "Nox Metals",
+      "slug": "nox-metals",
+      "website": "https://noxmetals.co/",
+      "description": "Nox Metals is building the fastest processing metals factory in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply CNC shops with custom-cut material at unmatched speed and efficiency.",
+      "one_liner": "The modern factory for fast, low-cost metals. ",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Industrials",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Detroit, MI, USA",
+      "tags": [
+        "Manufacturing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751751667.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d953f614b90f897eb3f17d74909591b83860cbc1.png"
+    },
+    {
       "id": 30806,
       "name": "Uplift AI",
       "slug": "uplift-ai",
@@ -827,5 +858,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-07-05T18:01:19.291762"
+  "fetched_at": "2025-07-06T00:03:30.628681"
 }
