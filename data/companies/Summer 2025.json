@@ -256,7 +256,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751591849.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f7b7a995019aa5e4fd80611bc112b4f179b24d0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd3ba56cdaf20a79f8f70e2c9eada1d3249e08b.png"
     },
     {
       "id": 30755,
@@ -692,6 +692,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f57117138aa46056d21a2d0bd92569a3da39e148.png"
     },
     {
+      "id": 30664,
+      "name": "Kestroll",
+      "slug": "kestroll",
+      "website": "https://www.kestroll.com/",
+      "description": "Kestroll is the AI-powered media asset management platform for professional and collegiate sports organizations.\r\n\r\nKestroll automatically ingests, labels, and organizes all of a team's media assets (game photos, gameplay footage, creative content, press interviews, broadcast clips, etc.), and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
+      "one_liner": "AI media asset management for sports organizations",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Sports Tech",
+        "Computer Vision",
+        "Video",
+        "Automation",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751838348.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/146dcc3d13f9a26c2300485534fada61ffbc8c0f.png"
+    },
+    {
       "id": 30653,
       "name": "Skope",
       "slug": "skope",
@@ -890,5 +925,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     }
   ],
-  "fetched_at": "2025-07-06T18:00:57.910505"
+  "fetched_at": "2025-07-07T00:03:23.878989"
 }
