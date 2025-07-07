@@ -6550,19 +6550,18 @@
     },
     {
       "id": 29265,
-      "name": "Pretzel AI",
-      "slug": "pretzel-ai",
-      "website": "https://withpretzel.com",
-      "description": "**Jupyter is used by millions** of data scientists and analysts but it has _many_ problems.\r\n\r\n**Pretzel fixes Jupyter's problems** with native AI-tooling, collaboration, modern code-editing features, native SQL support and a visual, AI-assisted data exploration and dashboarding suite.\r\n\r\n**We're two ex-Stripe founders**. Prasoon worked as a Data Scientist at Stripe, Goldman Sachs and Klarna for over 7 years.\r\n\r\nWe recently launched on GitHub and got **1000 GitHub stars in two weeks**, 500+ DAU, usage at large companies like Stripe and Bayer and 7 new code contributors.",
-      "one_liner": "Open-source & AI-native replacement for Jupyter Notebooks",
+      "name": "Lumen Payments",
+      "slug": "lumen-payments",
+      "website": "https://getlumen.dev",
+      "description": "",
+      "one_liner": "Ship AI billing fast - track usage, credits & flexible pricing models!",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Fintech",
       "subindustry": "Unspecified",
       "industries": [
-        "B2B",
-        "Analytics"
+        "Fintech"
       ],
       "regions": [
         "Germany",
@@ -6570,18 +6569,18 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
-        "Artificial Intelligence",
-        "Analytics",
-        "Collaboration",
+        "Fintech",
+        "Payments",
         "Open Source",
-        "Data Science"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710864971.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cf7e56ca345b5a9b329ec635ac2f39ef918b613.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9374ac7f590e35b961fa334f50707ea210eda158.png"
     },
     {
       "id": 29263,
@@ -8262,5 +8261,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-07T06:01:24.572063"
+  "fetched_at": "2025-07-07T12:01:26.299136"
 }
