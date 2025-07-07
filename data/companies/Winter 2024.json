@@ -2522,19 +2522,18 @@
     },
     {
       "id": 29419,
-      "name": "Tredit IQ",
-      "slug": "tredit-iq",
-      "website": "https://www.treditiq.com/",
-      "description": "From easily configurable, branded onboarding experiences to advanced AI automation and real-time verification, Tredit IQ allows businesses to easily process, monitor, and scale their trade partnerships with ease.",
-      "one_liner": "Platform to Streamline the B2B Credit Process",
+      "name": "Lumetric",
+      "slug": "lumetric",
+      "website": "https://www.lumetric.ai/",
+      "description": "We embed AI builders inside SMBs to automate bottlenecks and ship custom software in weeks, not months. Our mission is to give every business the AI edge currently reserved for tech giants and scrappy startups.",
+      "one_liner": "Your AI Team On Demand",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
-        "B2B",
-        "Finance and Accounting"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -2543,7 +2542,6 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Fintech",
         "B2B"
       ],
       "stage": "Early",
@@ -2551,7 +2549,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705627336.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/565dee3c1911ac59b558d37a3c1be10833af83e6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6cac19e623e13addf32db802747c6b73371a9bd.png"
     },
     {
       "id": 29418,
@@ -8261,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-07T12:01:26.299136"
+  "fetched_at": "2025-07-07T18:01:27.188512"
 }

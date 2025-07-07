@@ -190,6 +190,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c6be0818283f49c20fc921c3bc7db67bfb60bf5.png"
     },
     {
+      "id": 30769,
+      "name": "Juxta",
+      "slug": "juxta",
+      "website": "https://usejuxta.org",
+      "description": "Juxta is creating the first Universal Positioning System (UPS) \u2014 a GPS alternative that can monitor movement anywhere on earth with no new hardware, minimal internet connection, and remote deployment. Using custom machine learning models and a first-of-its-kind synthetic fingerprinting technology, Juxta can make any indoor, outdoor, or underground space location-aware in minutes for a fraction of the cost of any other geospatial technology.\r\n\r\nJuxta's UPS can be leveraged across industries \u2014 from securely tracking soldiers in combat zones to providing offline positioning for robots to offering asset tracking in warehouses and ports around the globe.",
+      "one_liner": "Building a GPS alternative 100x more powerful with no hardware needed.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Indoor Mapping",
+        "Computer Vision",
+        "ML"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751908614.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2406b819c520b6b5c6f58e45423c720bf0661d.png"
+    },
+    {
       "id": 30761,
       "name": "Reacher",
       "slug": "reacher",
@@ -727,6 +761,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/146dcc3d13f9a26c2300485534fada61ffbc8c0f.png"
     },
     {
+      "id": 30660,
+      "name": "Magnitude",
+      "slug": "magnitude",
+      "website": "https://magnitude.run",
+      "description": "Magnitude is the open-source, vision-first browser agent. \r\n\r\nIt interacts with the browser much like a human would. It\u2019s accurate, reliable, and fully customizable, enabling real production usage.\r\n\r\nYou can use it to automate tasks on the web, intelligently extract data, test your web apps, or as a building block for your own browser agents.\r\n\r\nWe recently achieved a state-of-the-art 94% success rate on the WebVoyager benchmark, beating all other browser agents.",
+      "one_liner": "Open-source, vision-first browser agent",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Open Source",
+        "Automation",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751905744.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e3212fa8db054c4295b1c0fc5127a5521fe81a5.png"
+    },
+    {
       "id": 30653,
       "name": "Skope",
       "slug": "skope",
@@ -959,5 +1028,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     }
   ],
-  "fetched_at": "2025-07-07T12:01:29.118215"
+  "fetched_at": "2025-07-07T18:01:34.209861"
 }

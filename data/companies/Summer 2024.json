@@ -3034,7 +3034,7 @@
       "one_liner": "Foundation models for time series",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5897,7 +5897,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720465631.0,
@@ -7935,7 +7935,7 @@
       "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7948,9 +7948,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8327,5 +8327,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-07T12:01:26.162110"
+  "fetched_at": "2025-07-07T18:01:26.874320"
 }

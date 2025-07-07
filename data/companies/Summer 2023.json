@@ -2826,27 +2826,26 @@
       "id": 28974,
       "name": "Gleam",
       "slug": "gleam",
-      "website": "https://www.gleamcare.com/",
-      "description": "Gleam lets employers give their teams pre-loaded cards for purchasing insurance coverage.\r\n\r\nAs an employer, you simply set a budget\u2014and we handle the rest. Say goodbye to insurance carriers, surprise rate hikes, and the frustration of finding out that an employee's doctors or medications aren\u2019t in-network.\r\n\r\nAs an employee, you have the freedom to choose the plan that fits you best from your local marketplace. Gleam provides personalized guidance to help you make the right choice, and we supply pre-loaded payment cards you can use for premiums and eligible medical expenses. You get full control over your coverage and costs without having to worry about restrictive networks or unexpected bills.",
-      "one_liner": "The gift card for health insurance",
+      "website": "https://joingleam.com",
+      "description": "Gleam is an AI platform that helps clinical research sites, sponsors, and CROs get to bring life-saving products to market faster.",
+      "one_liner": "AI for Clinical Research",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
-      "industry": "Fintech",
+      "industry": "Healthcare",
       "subindustry": "Fintech -> Insurance",
       "industries": [
-        "Fintech",
-        "Insurance"
+        "Healthcare"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Fintech",
-        "Healthcare",
-        "Health Insurance"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7312,5 +7311,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-07T12:01:26.695916"
+  "fetched_at": "2025-07-07T18:01:28.125664"
 }
