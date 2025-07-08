@@ -4790,15 +4790,16 @@
       "name": "Clarion",
       "slug": "clarion",
       "website": "https://clarionhealth.com",
-      "description": "Clarion is building the most advanced AI communication layer for healthcare, enabling clinics overwhelmed by routine calls and messages to finally come up for air. Our multichannel AI agents automate complex workflows end-to-end, freeing staff to focus on patient care. \r\n\r\nThe reality of healthcare today: clinics miss 30-40% of inbound calls due to staffing shortages, while patients struggle to connect with providers. We've built AI agents that handle scheduling, billing, prescription refills, and more\u2014serving tens of thousands of patients monthly.\r\n\r\nWe're growing rapidly, serving dozens of customers including virtual care companies, outpatient health systems, and a $5B publicly traded health insurance company. With demand surging and revenue quadrupling in recent months, we're scaling our team.\r\n\r\nWe are an in-person company based in New York. We've raised $5.3M from Accel, Y Combinator, Sequoia (scout), and founders of Ophelia, Medallion, Counsel, Elemy, and Sana. \r\n\r\nOur clinician-led founding team combines healthcare operations expertise with technical excellence. Dr. Ryan Gallagher, our CEO, is a Stanford/Harvard-trained physician from the founding teams of Two Chairs and Ophelia (YC W20). Jeffrey Lamothe, our CTO, worked on voice AI at Amazon Alexa and led AI/ML projects at Salesforce and Citi.\r\n\r\nJoin us as we transform healthcare communication. We're creating a future where patients receive faster resolutions, staff are happier, and providers have more time for what matters most: patient care.",
+      "description": "Clarion is building the most advanced AI communication layer for healthcare. Our AI agents handle the overwhelming volume of calls and messages that clinics face daily\u2014from scheduling to billing to prescription refills\u2014freeing staff to focus on patient care. We're an in-person company based in New York.\r\n\r\nToday, clinics miss 30-40% of inbound calls due to staffing shortages. We're solving this by automating complex workflows end-to-end, already serving tens of thousands of patients monthly across virtual care companies, health systems, and a $5B health insurance company.\r\n\r\nWe've raised $5.4M from Accel, Y Combinator, Sequoia (scout), and healthcare founders from Ophelia, Medallion, and Counsel Health. \r\n\r\nOur founders bring both clinical and technical expertise\u2014our CEO Ryan is a Stanford/Harvard-trained physician who was on the founding teams of Two Chairs and Ophelia, while our CTO Jeffrey built voice AI at Amazon Alexa and led AI/ML teams at Salesforce.\r\n\r\nJoin us as we transform healthcare communication\u2014creating a future where patients get faster resolutions and providers reclaim time for what matters most.",
       "one_liner": "The AI communication layer for healthcare",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
-        "Healthcare"
+        "Healthcare",
+        "Healthcare IT"
       ],
       "regions": [
         "United States of America",
@@ -4806,17 +4807,17 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "Digital Health",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709616757.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d42943b90f437bd5f4540ef5967011e4865a3427.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/432d68fb8d71ce9c9eb3fa7d348c2adef27646f4.png"
     },
     {
       "id": 29338,
@@ -8259,5 +8260,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-08T12:01:30.128015"
+  "fetched_at": "2025-07-08T18:01:07.387673"
 }
