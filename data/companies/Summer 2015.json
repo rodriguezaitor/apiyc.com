@@ -1086,14 +1086,14 @@
     },
     {
       "id": 898,
-      "name": "Reach Labs",
-      "slug": "reach-labs",
-      "website": "https://reachlabs.co/",
+      "name": "Reach",
+      "slug": "reach",
+      "website": "https://reachpower.com",
       "description": "Reach Labs is building long-range wireless power networks that deliver scalable, resilient energy infrastructure.",
       "one_liner": "Long range, wireless energy distribution that scales",
       "batch": "Summer 2015",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 45,
       "industry": "Industrials",
       "subindustry": "Industrials -> Energy",
       "industries": [
@@ -1102,9 +1102,11 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "Emeryville, CA, USA",
+      "locations": "Redwood City, CA, USA",
       "tags": [
         "Climate",
         "Energy"
@@ -3455,5 +3457,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-07-08T00:03:18.714590"
+  "fetched_at": "2025-07-08T06:01:34.993436"
 }

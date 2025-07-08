@@ -10128,11 +10128,11 @@
       "name": "Stably AI",
       "slug": "stably-ai",
       "website": "https://www.stably.ai",
-      "description": "Our AI explores your web and mobile apps, generates comprehensive Playwright test scripts, and adapts to changes on the fly. \r\n\r\nStably has helped hundreds of product teams ship fast without breaking things. ",
-      "one_liner": "AI agent for QA testing. Runnable in your CI.",
+      "description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull\u2011request and production release\u2014no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution\u2014only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain\u2011English editor letting PMs and QAs add tests without writing code.\r\n- One\u2011click GitHub App or API for instant pipeline integration.",
+      "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -10147,11 +10147,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "DevOps",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-07-08T00:03:17.748381"
+  "fetched_at": "2025-07-08T06:01:27.961656"
 }

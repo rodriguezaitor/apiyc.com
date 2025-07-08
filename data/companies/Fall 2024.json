@@ -1223,7 +1223,7 @@
       "name": "Dexter",
       "slug": "dexter",
       "website": "https://www.getdexter.co/",
-      "description": "Dexter builds AI agents for mechanical contractors, like HVAC, electrical, and plumbing businesses. Our agents capture field updates by voice, digitize paperwork, and automate reporting so jobs run on time and teams spend less time on admin.",
+      "description": "Dexter builds AI agents for mechanical contractors, like HVAC and plumbing businesses. Our agents capture field updates by conversation, digitize paperwork, and automate reporting, giving back-office teams real-time visibility into the field.",
       "one_liner": "AI agents for mechanical contractors",
       "batch": "Fall 2024",
       "status": "Active",
@@ -1251,7 +1251,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1727913374.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a640770e44d916eedcf893b34946c8c3b3f3f840.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc1d327c6dd1df139ea6177767194e0a1289d32b.png"
     },
     {
       "id": 30079,
@@ -1853,7 +1853,7 @@
       "name": "RiskCube",
       "slug": "riskcube",
       "website": "https://riskcube.com",
-      "description": "RiskCube Insurance is building a modern, AI-native insurance brokerage \u2014 designed to help businesses access smarter, faster, and more transparent coverage. We were founded to protect the financial well-being of hardworking American businesses. \r\nWe're currently in the licensing process in California and will be launching soon. Our initial focus will be on business property and compliance insurance.\r\n\r\nIf you're a carrier interested in partnering with us, we'd love to connect \u2014 please send us a DM!",
+      "description": "RiskCube Insurance is building a modern, AI-powered commercial insurance brokerage \u2014 designed for startups and high-growth businesses.\r\nWe\u2019re currently in the licensing process in California and will be launching soon, with an initial focus on business liability insurance.\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
       "one_liner": "AI-native insurance brokerage",
       "batch": "Fall 2024",
       "status": "Active",
@@ -1870,9 +1870,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1985,7 +1985,7 @@
       "one_liner": "we predict stuff",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Fintech",
       "subindustry": "Fintech -> Payments",
       "industries": [
@@ -1997,10 +1997,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Deep Learning",
         "Hard Tech",
-        "Finance",
-        "AI"
+        "Finance"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3083,5 +3083,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-08T00:03:18.777611"
+  "fetched_at": "2025-07-08T06:01:35.553441"
 }
