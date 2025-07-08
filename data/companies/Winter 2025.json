@@ -1951,11 +1951,11 @@
     },
     {
       "id": 30279,
-      "name": "Vovana",
-      "slug": "vovana",
-      "website": "https://www.vovana.com/",
-      "description": "Serving dealmakers.",
-      "one_liner": "AI software for buy-side M&A",
+      "name": "Bystreet",
+      "slug": "bystreet",
+      "website": "https://www.bystreet.com/",
+      "description": "Building a suite of AI tools for buy-side M&A.",
+      "one_liner": "AI analyst for buy-side M&A.",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 4,
@@ -1981,7 +1981,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740115759.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f43d3795a7ad715a27326b757c85b8f3c48e3df.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a63a82b8c1b014ed5c4d72cbefbc3086ec423529.png"
     },
     {
       "id": 30278,
@@ -5211,8 +5211,8 @@
       "name": "YouShift",
       "slug": "youshift",
       "website": "https://www.you-shift.com/",
-      "description": "YouShift uses AI to automate hospital shift scheduling, eliminating the need for full-time schedulers and outdated, manual processes. And scheduling is just the beginning \u2014 we're building the future of healthcare workforce management.",
-      "one_liner": "Rippling for healthcare.",
+      "description": "YouShift uses AI to automate hospital shift scheduling, replacing legacy software and eliminating the need for full-time schedulers. And scheduling is just the beginning \u2014 we're building the future of healthcare workforce management.",
+      "one_liner": "The OS for healthcare staffing, starting with scheduling AI agents.",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 3,
@@ -5301,5 +5301,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-07-07T18:01:29.307749"
+  "fetched_at": "2025-07-08T00:03:18.426263"
 }

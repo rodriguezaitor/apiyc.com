@@ -2631,8 +2631,8 @@
       "name": "Winford Wealth",
       "slug": "winford-wealth",
       "website": "https://winfordwealth.com",
-      "description": "Personalized investing, tax and financial planning. A dedicated human advisor and all-in-one app \u2014 powered by AI, built for every net worth. We are an SEC Registered Investment Advisor, legally bound to act as a financial fiduciary to our customers. \r\n\r\nOur belief: 1% AUM fees from financial advisors are outdated and eat away at your wealth over the long-run. Winford Wealth offers the same level of quality & care starting at $14/month.\r\n\r\nWe also offer a tax-efficient managed cash account that goes beyond traditional and high yield savings accounts \u2014 allocating your idle dollars into high-quality, short-term bonds through money market funds, personalized for your taxes and goals. Included with Winford subscriptions or available on its own.",
-      "one_liner": "Professional wealth management for everyone.",
+      "description": "We\u2019re solving personal finances for a generation that\u2019s been left to figure it all out alone. From managing cash to filing taxes to actually starting to invest, Winford gives everyone the real guidance and tools they need, all in one place. Download our app on the app store to get started!\r\n\r\nWe also offer a cash account (AlphaCash) that goes beyond traditional and high yield savings accounts \u2014 allocating your idle dollars into high-quality, short-term bonds through money market funds, personalized for your taxes and goals. Included with Winford subscriptions or available on its own.",
+      "one_liner": "Making Money Make Sense For Everyone",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -2643,18 +2643,12 @@
         "Consumer Finance"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Fintech",
-        "Finance",
-        "Consumer Finance"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722879025.0,
@@ -7577,7 +7571,7 @@
       "one_liner": "An AI agent for scientific research",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": null,
       "industry": "B2B",
       "subindustry": "Education",
       "industries": [
@@ -7589,10 +7583,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Biotech",
-        "Search",
-        "AI"
+        "Search"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8327,5 +8321,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-07T18:01:26.874320"
+  "fetched_at": "2025-07-08T00:03:17.992393"
 }
