@@ -2634,7 +2634,7 @@
       "name": "Klarismo",
       "slug": "klarismo",
       "website": "http://klarismo.com",
-      "description": "Fully-automated Quantitative MR Image Analysis.\n\nOur software converts a user\u2019s full body magnetic resonance scan (MRI) into a 3D virtual model of their body in the cloud. The model is annotated with explanatory information so they can easily explore and learn about different parts of their body.\n\nKlarismo is the only provider of MR analytics that can offer truly scalable analysis for large data collections. Cloud-based processing allows 1000s of acquisitions to be analyzed simultaneously. Machine learning techniques utilize Klarismo\u2019s proprietary collection of labelled MRI data and eliminate the need for manual processing to produce precise volumetric measurements.\n\nKlarismo specializes in the detailed analysis of body composition, including volumetric measurements of different muscle and fat tissues, from whole-body acquisitions.",
+      "description": "Fully-automated Quantitative MR Image Analysis.\r\n\r\nOur software converts a user\u2019s full body magnetic resonance scan (MRI) into a 3D virtual model of their body in the cloud. The model is annotated with explanatory information so they can easily explore and learn about different parts of their body.\r\n\r\nKlarismo is the only provider of MR analytics that can offer truly scalable analysis for large data collections. Cloud-based processing allows 1000s of acquisitions to be analyzed simultaneously. Machine learning techniques utilize Klarismo\u2019s proprietary collection of labelled MRI data and eliminate the need for manual processing to produce precise volumetric measurements.\r\n\r\nKlarismo specializes in the detailed analysis of body composition, including volumetric measurements of different muscle and fat tissues, from whole-body acquisitions.",
       "one_liner": "Klarismo turns your body into an interactive experience. We built a\u2026",
       "batch": "Summer 2015",
       "status": "Inactive",
@@ -2659,7 +2659,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1430435618.0,
-      "logo_url": "/company/thumb/missing.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b735035a5d3492fb1057eb5b35bd5b80ee018df.png"
     },
     {
       "id": 951,
@@ -3457,5 +3457,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-07-08T18:01:11.957905"
+  "fetched_at": "2025-07-09T00:03:25.887289"
 }

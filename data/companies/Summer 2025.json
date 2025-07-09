@@ -211,9 +211,9 @@
       ],
       "locations": "Bielefeld, NRW, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -255,6 +255,40 @@
       "is_top_company": false,
       "launched_at": 1751908614.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2406b819c520b6b5c6f58e45423c720bf0661d.png"
+    },
+    {
+      "id": 30763,
+      "name": "dScribe AI",
+      "slug": "dscribe-ai",
+      "website": "https://dscribeai.com/",
+      "description": "dScribe AI uses autonomous drones and 3D scans to help quarries and farms determine exactly how much stockpile inventory they have. \r\n\r\nToday most of the industry still relies on guesswork. Operators \"climb\" piles to eyeball volumes or wait months for expensive manual surveys, often off by 20\u201330%. That kind of error leads to seven-figure write-offs, misreported financials, and poor decision-making across supply chains.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform that\u2019s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+      "one_liner": "Monitor bulk inventory with 3D Vision AI",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Overland Park, KS, USA",
+      "tags": [
+        "B2B",
+        "Supply Chain",
+        "Agriculture",
+        "AI",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752017595.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png"
     },
     {
       "id": 30761,
@@ -323,7 +357,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751591849.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0060a6a08035962b60fb2dda0fee6ba2d17ff04b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2215299a08cad90042336d5a56fdbaddfd3c49c5.png"
     },
     {
       "id": 30755,
@@ -359,6 +393,39 @@
       "is_top_company": false,
       "launched_at": 1750346506.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cc7c45ea4fbab294226a104bf2bacc21f8cb627.png"
+    },
+    {
+      "id": 30743,
+      "name": "Opennote",
+      "slug": "opennote",
+      "website": "https://opennote.com",
+      "description": "Opennote is building an interactive AI tutor that gives every student a truly personalized learning experience.\r\n\r\nMost students never get to engage deeply with material in traditional classrooms or generic online tools. Opennote changes that by acting as a human-like, intuitive tutor\u2014one that remembers your progress and adapts every session to how you learn best.",
+      "one_liner": "The Interactive AI Tutor That Knows You",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education",
+        "SaaS",
+        "Consumer"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752018108.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbef42e17cd76584a4249ebbc49a1db7307ab1b1.png"
     },
     {
       "id": 30738,
@@ -556,6 +623,39 @@
       "is_top_company": false,
       "launched_at": 1750048762.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdd4deac94e3261e5048ff6c4ffdd39942a5840.png"
+    },
+    {
+      "id": 30707,
+      "name": "Phases",
+      "slug": "phases",
+      "website": "https://phases.ai",
+      "description": "We\u2019re building the first full-stack AI agent company to automate clinical trials for pharma companies.",
+      "one_liner": "Automating clinical trials with agents, starting in recruitment",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Healthcare IT",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1751998711.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png"
     },
     {
       "id": 30705,
@@ -1061,5 +1161,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     }
   ],
-  "fetched_at": "2025-07-08T18:01:14.660590"
+  "fetched_at": "2025-07-09T00:03:29.668527"
 }
