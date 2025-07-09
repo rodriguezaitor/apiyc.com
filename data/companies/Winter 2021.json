@@ -8098,11 +8098,11 @@
       "name": "Humaans",
       "slug": "humaans",
       "website": "https://humaans.io",
-      "description": "Humaans is an HRIS system designed to help People Ops/Finance/IT teams operate collaboratively with all the best in class point solutions they want for their staff while maintaining a central record of employee data.\r\n\r\nThe goal is to automate the employee lifecycle by integrating deeply with other complementary solutions and turn complex/manual processes (e.g. onboarding, offboarding, compensation management, etc) into simple workflows.",
-      "one_liner": "The fastest way to onboard and manage employees",
+      "description": "Humaans is a next generation HRIS supporting globally distributed organisations. Powered by a flexible data model, deep integrations, fast APIs, and enriched by AI, Humaans removes manual work, reduce compliance risk and enhance your employee experience. Humaans reduces ongoing administrative work by 65% and onboarding time by an average of 55%.\r\n\r\nWe've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lu\u0308tke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
+      "one_liner": "AI-Powered HRIS for high performing teams",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 32,
+      "team_size": 43,
       "industry": "B2B",
       "subindustry": "B2B -> Human Resources",
       "industries": [
@@ -8119,7 +8119,9 @@
       "tags": [
         "SaaS",
         "Human Resources",
-        "B2B"
+        "B2B",
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -11541,5 +11543,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-07-09T12:01:39.421815"
+  "fetched_at": "2025-07-09T18:01:24.706318"
 }

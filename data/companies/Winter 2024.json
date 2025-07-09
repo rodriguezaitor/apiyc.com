@@ -7072,8 +7072,8 @@
       "name": "ion design",
       "slug": "ion-design",
       "website": "https://www.ion.design/",
-      "description": "ion is an AI-powered front-end editor that lets designers and PMs ship real code changes\u2014without engineers.\r\n\r\nWe streamline product iteration and collaboration so your team can move faster and stay focused on what matters most: building great experiences.",
-      "one_liner": "The AI visual editor for your codebase, built for collaboration",
+      "description": "We created Ruby, an AI Product designer who improves your product while you sleep.\r\n\r\nYou can assign Ruby design tasks right in slack, like optimizing a flow or creating a new page.\r\nShe clarifies requirements, researches, designs multiple options, iterates with you, and ships PRs to your codebase. She will then monitor performance and suggest future improvements.\r\n\r\nShe\u2019s like Devin, but for Product Design work.",
+      "one_liner": "We built the 1st Autonomous AI Product Designer",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 3,
@@ -7089,10 +7089,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Design Tools",
-        "Web Development",
-        "AI"
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7710,11 +7710,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Open Source",
         "NLP",
         "Enterprise",
-        "Search",
-        "AI"
+        "Search"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8260,5 +8260,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-09T12:01:40.433313"
+  "fetched_at": "2025-07-09T18:01:26.074004"
 }
