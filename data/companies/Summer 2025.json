@@ -261,8 +261,8 @@
       "name": "dScribe AI",
       "slug": "dscribe-ai",
       "website": "https://dscribeai.com/",
-      "description": "dScribe AI uses autonomous drones and 3D scans to help quarries and farms determine exactly how much stockpile inventory they have. \r\n\r\nToday most of the industry still relies on guesswork. Operators \"climb\" piles to eyeball volumes or wait months for expensive manual surveys, often off by 20\u201330%. That kind of error leads to seven-figure write-offs, misreported financials, and poor decision-making across supply chains.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform that\u2019s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
-      "one_liner": "Monitor bulk inventory with 3D Vision AI",
+      "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think piles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it\u2019s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform that\u2019s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+      "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -466,8 +466,8 @@
       "name": "Humoniq",
       "slug": "humoniq",
       "website": "https://humoniq.ai",
-      "description": "Humoniq is finally fixing travel support. We make it effortless for travelers to get help and resolve issues with airlines, OTAs, and TMCs using powerful voice and text AI. \r\n\r\nOur team is uniquely equipped to solve this challenge. At Flightfox (YC S12), we scaled a software-based TMC to over $20M in annual sales while handling more than one million customer support requests. \r\n\r\nBy partnering with the largest travel providers, we are on a mission to give travelers the fastest and most helpful support of any industry. We already have major customers signed and a rapidly growing pipeline of new deals.",
-      "one_liner": "Finally fixing travel support with voice and text AI",
+      "description": "Humoniq is building voice AI agents to handle customer support for travel companies, such as airlines.\r\n\r\nOur team is uniquely equipped to solve this challenge. We grew a travel management company, Flightfox (YC S12), to over $20M in annual sales while handling millions of customer support requests.\r\n\r\nOur mission now is to make customer support in travel the fastest and most helpful of any industry. We already have major travel companies signed and a rapidly growing deal pipeline.",
+      "one_liner": "Voice AI agents for customer support in travel",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1161,5 +1161,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     }
   ],
-  "fetched_at": "2025-07-09T00:03:29.668527"
+  "fetched_at": "2025-07-09T06:01:20.869374"
 }
