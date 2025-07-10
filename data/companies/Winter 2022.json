@@ -9366,14 +9366,14 @@
     },
     {
       "id": 25403,
-      "name": "Vance",
-      "slug": "vance",
-      "website": "https://vance.tech",
-      "description": "Vance is a Global Neobank that lets you make international payments at live google rates, avail credit in new countries, and invest around the world. We are building a bank that is not bound by borders.",
+      "name": "Aspora",
+      "slug": "aspora",
+      "website": "https://aspora.com",
+      "description": "Aspora is a Global Neobank that lets you make international payments at live google rates, avail credit in new countries, and invest around the world. We are building a bank that is not bound by borders.",
       "one_liner": "Single account to manage money across the world",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 14,
+      "team_size": 85,
       "industry": "Fintech",
       "subindustry": "Fintech -> Consumer Finance",
       "industries": [
@@ -9381,19 +9381,19 @@
         "Consumer Finance"
       ],
       "regions": [
-        "India",
-        "South Asia"
+        "United Kingdom",
+        "Europe"
       ],
-      "locations": "Bengaluru, KA, India; MH, India",
+      "locations": "London, England, United Kingdom",
       "tags": [
         "Fintech"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1648226260.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7feb696f698c179edacd098880a1143a71698b5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbe4d28604f468a7e3489896fa7df64038a7987a.png"
     },
     {
       "id": 25402,
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-07-10T12:01:30.382023"
+  "fetched_at": "2025-07-10T18:01:24.158513"
 }

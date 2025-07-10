@@ -929,8 +929,8 @@
       "name": "Kestroll",
       "slug": "kestroll",
       "website": "https://www.kestroll.com/",
-      "description": "Kestroll is the AI-powered media asset management platform for professional and collegiate sports organizations.\r\n\r\nKestroll automatically ingests, labels, and organizes all of a team's media assets (game photos, gameplay footage, creative content, press interviews, broadcast clips, etc.), and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
-      "one_liner": "AI media asset management for sports organizations",
+      "description": "Kestroll is the AI-powered media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets (videos, photos, audio files, etc.) and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
+      "one_liner": "AI media asset management",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -946,11 +946,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Sports Tech",
+        "Artificial Intelligence",
         "Computer Vision",
         "Video",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1227,5 +1226,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     }
   ],
-  "fetched_at": "2025-07-10T12:01:40.498782"
+  "fetched_at": "2025-07-10T18:01:27.875668"
 }
