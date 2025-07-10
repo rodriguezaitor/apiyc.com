@@ -663,10 +663,10 @@
     },
     {
       "id": 30335,
-      "name": "Pig",
-      "slug": "pig",
-      "website": "https://github.com/pig-dot-dev/muscle-mem",
-      "description": "Pig is building Muscle Mem, an SDK for recording and deterministically replaying tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.\r\n",
+      "name": "Butter",
+      "slug": "butter",
+      "website": "https://butter.dev",
+      "description": "Butter is building Muscle Mem, an SDK for recording and deterministically replaying tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.\r\n",
       "one_liner": "Behavioral Cache for Agents",
       "batch": "Winter 2025",
       "status": "Active",
@@ -691,7 +691,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737747738.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3437c7f4ad304476128a2d8a0ca87303aae00169.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b64c400f904efc92ff7fbdaca3a66411ac4b795.png"
     },
     {
       "id": 30334,
@@ -1955,7 +1955,7 @@
       "slug": "bystreet",
       "website": "https://www.bystreet.com/",
       "description": "Building a suite of AI tools for buy-side M&A.",
-      "one_liner": "AI analyst for buy-side M&A.",
+      "one_liner": "GenAI for dealmaking. ",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 4,
@@ -2349,7 +2349,7 @@
       "slug": "lopus-ai",
       "website": "https://lopus.ai",
       "description": "Enterprise deals stall and die because scattered emails, siloed call transcripts, and hidden blockers force reps into constant firefights. Your deal teams burn hours reconstructing context instead of proactively closing revenue\u2014costing you millions.\r\n\r\nWe've built Lopus AI, an AI-powered Deal Intelligence platform that automatically surfaces hidden deal blockers, unifies every stakeholder interaction into actionable insights, and turns your team's best wins into repeatable playbooks.\r\n\r\nEngineered by Lopus AI, the GTM weapons lab.\r\n",
-      "one_liner": "Deep Research for Enterprise Deals",
+      "one_liner": "AI-Native Enterprise Deal Execution Platform",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -2365,11 +2365,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Sales",
         "Market Research",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2773,14 +2773,14 @@
     },
     {
       "id": 30254,
-      "name": "HUD",
+      "name": "hud",
       "slug": "hud",
       "website": "https://www.hud.so",
-      "description": "Sam Altman and Dario Amodei have both said that we\u2019ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren\u2019t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like a foundation lab (nda), Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n",
-      "one_liner": "HUD is building evals for the drop-in worker",
+      "description": "Sam Altman and Dario Amodei have both said that we\u2019ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren\u2019t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like foundation labs (nda), Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n",
+      "one_liner": "hud is building evals for the drop-in worker",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -2794,13 +2794,16 @@
         "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Reinforcement Learning"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740930546.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ba1775f18d84d7a5c6d25f0e693dc75df8d544.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png"
     },
     {
       "id": 30253,
@@ -5301,5 +5304,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-07-09T18:01:28.908462"
+  "fetched_at": "2025-07-10T00:03:26.769147"
 }
