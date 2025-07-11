@@ -3429,11 +3429,11 @@
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Healthcare",
+      "industry": "Industrials",
       "subindustry": "Healthcare -> Industrial Bio",
       "industries": [
-        "Healthcare",
-        "Industrial Bio"
+        "Industrials",
+        "Manufacturing and Robotics"
       ],
       "regions": [
         "United States of America",
@@ -3441,10 +3441,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Robotic Process Automation",
         "Robotics",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4668,5 +4668,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-07-10T18:01:26.142514"
+  "fetched_at": "2025-07-11T00:03:12.952784"
 }

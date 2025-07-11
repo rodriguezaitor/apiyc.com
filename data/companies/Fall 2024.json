@@ -569,19 +569,19 @@
     },
     {
       "id": 30108,
-      "name": "Bramble",
-      "slug": "bramble",
-      "website": "https://usebramble.com",
-      "description": "Bramble is a video-first search platform for real estate, powered by AI. It helps agents auto-generate beautiful video listings and helps buyers search them for what they actually care about, like natural light or a big yard.\r\n\r\nWe launched as a flat-rate real estate brokerage. After helping customers close on $10M worth of homes, we learned that lead generation is the biggest problem in real estate. By helping agents market their listings with videos and allowing buyers to find homes visually, we'll build a next-generation Zillow.",
-      "one_liner": "The next generation Zillow.",
+      "name": "Edgedive",
+      "slug": "edgedive",
+      "website": "https://edgedive.com",
+      "description": "Listening to your customers is really hard at scale. Edgedive makes it easy.\r\n\r\nWe collect, tag, and synthesize all incoming feedback from every channel and link it to your CRM so you Product, Eng, and CX teams can focus on building what their customers want.\r\n\r\n\ud83d\udd0e\u00a0Answer any question about anything your customers are saying\r\n\r\n\ud83c\udfab\u00a0Automatically tag support tickets & quantify revenue impact\r\n\r\n\ud83d\udde3\ufe0f Schedule custom, automatic voice of customer reports\r\n\r\n\ud83d\udcb8 Identify gaps leading to churn or closed-lost deals\r\n\r\n\ud83e\uddea Get  a shortlist good beta testers for any feature\r\n\r\n\ud83e\udd29\u00a0Monitor customer reactions to launches, live\r\n\r\n\u2026all in seconds, not days (or weeks).",
+      "one_liner": "Understand what your customers are actually saying",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "Real Estate and Construction",
+      "industry": "B2B",
       "subindustry": "Real Estate and Construction -> Housing and Real Estate",
       "industries": [
-        "Real Estate and Construction",
-        "Housing and Real Estate"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -590,17 +590,17 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Real Estate",
-        "Consumer",
-        "Proptech",
-        "Consumer Products"
+        "B2B",
+        "Customer Success",
+        "Enterprise Software",
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1727386579.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a625a1e0108dee94476d236469880a321cd5752.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f92fa322d1cca62c4066915fee6ecf728cde156.png"
     },
     {
       "id": 30107,
@@ -3083,5 +3083,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-10T18:01:27.051147"
+  "fetched_at": "2025-07-11T00:03:13.592745"
 }

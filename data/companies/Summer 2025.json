@@ -792,6 +792,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png"
     },
     {
+      "id": 30695,
+      "name": "Channel3",
+      "slug": "channel3",
+      "website": "https://trychannel3.com",
+      "description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don\u2019t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants\u2014even when listings and images differ\u2014recognize variants, and surface the perfect matches for every search. As we grow, we\u2019ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+      "one_liner": "Database of every product on the internet",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "Retail Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752182938.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ab8f3604e8e37628ae61b0f2bc76124389ada3.png"
+    },
+    {
       "id": 30692,
       "name": "Wisp AI",
       "slug": "wisp-ai",
@@ -857,6 +891,41 @@
       "is_top_company": false,
       "launched_at": 1751567522.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b90c0f9fa101c9a96455820ea0a553837b94f49.png"
+    },
+    {
+      "id": 30675,
+      "name": "BootLoop",
+      "slug": "bootloop",
+      "website": "https://bootloop.ai/",
+      "description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+      "one_liner": "Firmware in minutes, not months - rigorously tested on real hardware",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Hard Tech",
+        "Hardware",
+        "Robotics",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752184530.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png"
     },
     {
       "id": 30669,
@@ -1224,7 +1293,40 @@
       "is_top_company": false,
       "launched_at": 1751847740.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
+    },
+    {
+      "id": 30510,
+      "name": "Cactus",
+      "slug": "cactus",
+      "website": "https://www.cactuscompute.com/",
+      "description": "Cross-platform open-source framework for deploying LLMs, VLMs, Embedding Models and TTS models locally on smartphones.\r\n\r\nGoogle AI Edge and Apple Foundation Frameworks are platform-specific and primarily support specific models from the companies. \r\n\r\nTo this end, Cactus:\r\n\r\n- Is available in Flutter and React-Native for cross-platform developers, since most apps are built with these today.\r\n\r\n- Supports any GGUF model you can find on Huggingface; Qwen, Gemma, Llama, DeepSeek, Phi, Mistral, SmolLM, SmolVLM, InternVLM, Jan Nano etc.\r\n\r\n- Accommodates from FP32 to as low as 2-bit quantized models, for better efficiency and less device strain. \r\n\r\n- Have MCP tool-calls to make models performant, truly helpful (set reminder, gallery search, reply messages) and more. \r\n\r\n- Fallback to big cloud models for complex, constrained or large-context tasks, ensuring robustness and high availability.\r\n\r\nTell us how we can make it great!\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+      "one_liner": "Deploy AI models locally on smartphones.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Developer Tools",
+        "Hard Tech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752189935.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png"
     }
   ],
-  "fetched_at": "2025-07-10T18:01:27.875668"
+  "fetched_at": "2025-07-11T00:03:14.063137"
 }
