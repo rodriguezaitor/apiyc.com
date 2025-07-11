@@ -293,7 +293,7 @@
       "name": "dScribe AI",
       "slug": "dscribe-ai",
       "website": "https://dscribeai.com/",
-      "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think piles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it\u2019s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform that\u2019s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+      "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think stockpiles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it\u2019s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform that\u2019s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
       "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
       "batch": "Summer 2025",
       "status": "Active",
@@ -309,10 +309,10 @@
       ],
       "locations": "Overland Park, KS, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Supply Chain",
         "Agriculture",
-        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -1299,7 +1299,7 @@
       "name": "Cactus",
       "slug": "cactus",
       "website": "https://www.cactuscompute.com/",
-      "description": "Cross-platform open-source framework for deploying LLMs, VLMs, Embedding Models and TTS models locally on smartphones.\r\n\r\nGoogle AI Edge and Apple Foundation Frameworks are platform-specific and primarily support specific models from the companies. \r\n\r\nTo this end, Cactus:\r\n\r\n- Is available in Flutter and React-Native for cross-platform developers, since most apps are built with these today.\r\n\r\n- Supports any GGUF model you can find on Huggingface; Qwen, Gemma, Llama, DeepSeek, Phi, Mistral, SmolLM, SmolVLM, InternVLM, Jan Nano etc.\r\n\r\n- Accommodates from FP32 to as low as 2-bit quantized models, for better efficiency and less device strain. \r\n\r\n- Have MCP tool-calls to make models performant, truly helpful (set reminder, gallery search, reply messages) and more. \r\n\r\n- Fallback to big cloud models for complex, constrained or large-context tasks, ensuring robustness and high availability.\r\n\r\nTell us how we can make it great!\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+      "description": "Open-source inference engine for deploying AI locally on smartphones. Available in React-Native, Flutter, and C/C++. Supports multimodal models, text-to-speech, embedding models and more.\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
       "one_liner": "Deploy AI models locally on smartphones.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1316,9 +1316,9 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Hard Tech",
-        "AI"
+        "Hard Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1328,5 +1328,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png"
     }
   ],
-  "fetched_at": "2025-07-11T00:03:14.063137"
+  "fetched_at": "2025-07-11T06:01:35.766117"
 }
