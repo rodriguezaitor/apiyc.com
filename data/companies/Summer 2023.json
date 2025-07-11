@@ -2524,9 +2524,9 @@
       "id": 28991,
       "name": "Inlet",
       "slug": "inlet-2",
-      "website": "https://getinlet.ai",
-      "description": "Inlet gets customer data into your system.\r\n\r\nB2B companies use Inlet to sync data from ERPs and other sources, connect to any API, and transform data quickly with our AI tools.\r\n\r\nReach out:\r\n\r\nfounders@getinlet.ai",
-      "one_liner": "AI-powered ETL for complex data",
+      "website": "https://inletai.com",
+      "description": "Family law practices juggle dozens of matters, context-switching throughout the day and often failing to record their time for every billable task.\r\n\r\nInlet records these tasks automatically \u2013\u00a0eliminating painful admin time and increasing their revenue.",
+      "one_liner": "Automated timekeeping for family law.",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -2534,7 +2534,7 @@
       "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Legal"
       ],
       "regions": [
         "United States of America",
@@ -2543,16 +2543,16 @@
       "locations": "New York, NY, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
         "B2B",
-        "Data Engineering"
+        "Legal",
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687479544.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/25e62f89ae4f3fef57571a6c9170c93f95eb4d80.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/947ea79d41ed24389e0a80ad75da05f02c0c5dd7.png"
     },
     {
       "id": 28983,
@@ -7311,5 +7311,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-11T12:01:25.788616"
+  "fetched_at": "2025-07-11T18:01:31.712404"
 }
