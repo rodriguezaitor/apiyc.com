@@ -29,11 +29,11 @@
     },
     {
       "id": 30130,
-      "name": "Bifrost Orbital",
-      "slug": "bifrost-orbital",
-      "website": "https://bifrostorbital.com/",
-      "description": "Bifrost Orbital is building an advanced, enhanced network of optical relay satellites to deliver 24/7 in-orbit connectivity to satellite companies with their low orbiting satellites. Our approach is designed to offer increased uptime and data rates for telemetry related operations.",
-      "one_liner": "24/7 and real-time connectivity for satellites",
+      "name": "Apolink",
+      "slug": "apolink",
+      "website": "https://apolink.space",
+      "description": "Apolink is building the world\u2019s most interoperable satellite relay network in low Earth orbit. Our hybrid communication architecture combines RF and optical inter-satellite links to enable real-time, continuous connectivity for satellite operators across industries.",
+      "one_liner": "24/7 satellite connectivity in low Earth orbit",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 4,
@@ -47,7 +47,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "Palo Alto, CA, USA",
       "tags": [
         "Satellites",
         "Aerospace",
@@ -58,7 +58,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1727908250.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1219f5e027975bd7978b7ee111bde2679eedba9c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/22c2bd83d673e7df9f3a78b87b760253845534a0.png"
     },
     {
       "id": 30129,
@@ -3083,5 +3083,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-11T06:01:33.069227"
+  "fetched_at": "2025-07-11T12:01:26.788415"
 }
