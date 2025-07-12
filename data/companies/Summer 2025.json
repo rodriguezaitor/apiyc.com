@@ -95,6 +95,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1826c85adc2f6ea01d50ca7c977e6f72c739c3f.png"
     },
     {
+      "id": 30804,
+      "name": "Luminal",
+      "slug": "luminal",
+      "website": "https://luminalai.com",
+      "description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/jafioti/luminal\r\nDiscord: https://discord.gg/2Mxur3CgYT",
+      "one_liner": "Simple ML framework and cloud for generating fast GPU code.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Cloud Computing",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752295982.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea5712b0999a90a5be78dda48232d17ccfea44f.png"
+    },
+    {
       "id": 30794,
       "name": "Vulcan Technologies",
       "slug": "vulcan-technologies",
@@ -256,7 +289,7 @@
       "slug": "flywheel-ai",
       "website": "https://useflywheel.ai/",
       "description": "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies.",
-      "one_liner": "A construction heavy equipment autonomy company",
+      "one_liner": "Waymo for excavators",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -850,6 +883,38 @@
       "is_top_company": false,
       "launched_at": 1750717483.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png"
+    },
+    {
+      "id": 30703,
+      "name": "Riff",
+      "slug": "riff",
+      "website": "https://goriff.com/",
+      "description": "Riff is a super powered music editor where experienced producers can be dramatically more productive and hobbyists can delight in music without needing technical chops.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
+      "one_liner": "Cursor for music production",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Entertainment",
+        "Music"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752283172.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63a87fa04a91e21264426ce96efd1e5bed8b086.png"
     },
     {
       "id": 30700,
@@ -1486,5 +1551,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-12T00:03:11.243799"
+  "fetched_at": "2025-07-12T06:01:28.310567"
 }
