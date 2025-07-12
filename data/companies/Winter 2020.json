@@ -541,17 +541,16 @@
       "id": 13548,
       "name": "Tambua Health",
       "slug": "tambua-health",
-      "website": "https://www.tambuahealth.com",
-      "description": "",
-      "one_liner": "The T-Scope is an app-based handheld ultrasound system that brings\u2026",
+      "website": "https://tambua.health/",
+      "description": "Juno is a fully offline, local-first autonomous AI agent engineered to control and operate medical imaging and diagnostic devices\u2014such as Siemens Healthineers' MRI and CT scanners, hematology analyzers, and PCR machines\u2014with human-like proficiency, powered exclusively by an Embedded System on Module (SoM) AI accelerator. Designed as a \"virtual technician,\" Juno observes device interfaces, reasons over contextual data, and executes actions in a closed-loop system, automating calibration, workflow execution, and optimization without any cloud dependency, internet access, or external APIs. This architecture draws inspiration from agents like ManusAI and Microsoft Copilot's Computer Use Agent (CUA), adapting their observation-reasoning-execution paradigms to treat medical device UIs as controllable \"virtual desktops,\" but confines all processing to edge hardware for compliance with stringent medical safety standards and operational reliability in disconnected environments.",
+      "one_liner": "Juno is ManusAI for controlling medical imaging& diagnostic device GUI",
       "batch": "Winter 2020",
       "status": "Active",
       "team_size": 13,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Medical Devices",
       "industries": [
-        "Healthcare",
-        "Medical Devices"
+        "Healthcare"
       ],
       "regions": [
         "United States of America",
@@ -561,8 +560,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Health Tech",
-        "Medical Devices"
+        "Health Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7729,5 +7727,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-07-12T06:01:20.589856"
+  "fetched_at": "2025-07-12T12:01:23.329165"
 }
