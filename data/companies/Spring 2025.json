@@ -4485,15 +4485,16 @@
       "name": "Waffle",
       "slug": "waffle",
       "website": "https://www.waffle.ai",
-      "description": "Travel agents, fitness instructors, and personal tutors are using Waffle to manage their online presence. Since launching 3 weeks ago, our users have created 600 websites on Waffle. We\u2019re now building plugins with Stripe, Resend, and Neon so users can manage their payments, email marketing, and booking system on Waffle too. We\u2019re targeting $200B+ in annual spend by US SMBs on their customer acquisition tech stack.",
-      "one_liner": "AI Operating System for SMBs",
+      "description": "Create web-based games with AI",
+      "one_liner": "AI Game Builder",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
-        "B2B"
+        "Consumer",
+        "Gaming"
       ],
       "regions": [
         "United States of America",
@@ -4501,8 +4502,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Generative AI",
-        "Web Development"
+        "Gaming",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4670,5 +4671,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-07-12T18:01:22.018332"
+  "fetched_at": "2025-07-13T00:03:33.768547"
 }
