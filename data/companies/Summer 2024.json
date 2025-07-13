@@ -799,19 +799,18 @@
     },
     {
       "id": 29955,
-      "name": "Felafax",
-      "slug": "felafax",
-      "website": "https://felafax.ai",
-      "description": "Felafax is building AI infra for non-NVIDIA GPUs. With our ML experience from Google and Meta, we built a new AI stack that is 2x more cost-efficient and performant without needing Nvidia\u2019s CUDA.",
-      "one_liner": "Building AI Infra for non-NVIDIA GPUs ",
+      "name": "BrowserOS",
+      "slug": "browseros",
+      "website": "https://browserOS.com/",
+      "description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
+      "one_liner": "Open source Agentic Browser",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
-        "B2B",
-        "Infrastructure"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -822,7 +821,6 @@
         "Artificial Intelligence",
         "Generative AI",
         "Machine Learning",
-        "Infrastructure",
         "AI"
       ],
       "stage": "Early",
@@ -830,7 +828,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722468998.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19098ddbcbcba713e4458237b6983a1d740db751.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0569d225c5895045f70a5f0dc83c9dc50b44852.png"
     },
     {
       "id": 29954,
@@ -8321,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-13T00:03:30.872373"
+  "fetched_at": "2025-07-13T06:01:04.364840"
 }
