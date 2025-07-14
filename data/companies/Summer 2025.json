@@ -1088,7 +1088,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Embedder is building the Cursor for embedded software engineers.\r\n\r\nEvery day, embedded engineers deal with fragmented workflows, archaic developer tooling and complex technical documentation. Our mission is to eliminate these roadblocks and allow engineers to focus on what matters most: speed and innovation.\r\n\r\nOur software currently allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
+      "description": "Embedder is building a next-generation IDE for embedded engineers. Our software allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
       "one_liner": "Cursor for Embedded",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1096,7 +1096,8 @@
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -1105,7 +1106,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
-        "Generative AI"
+        "Generative AI",
+        "Hardware"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1350,6 +1352,41 @@
       "is_top_company": false,
       "launched_at": 1750879126.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d598c9ae6f0adaf363dce2801fe32db30733e9bd.png"
+    },
+    {
+      "id": 30651,
+      "name": "Alter AI",
+      "slug": "alter-ai",
+      "website": "https://alterai.dev",
+      "description": "",
+      "one_liner": "Secure access control and orchestration platform for agent workflows",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "AIOps",
+        "Artificial Intelligence",
+        "Developer Tools",
+        "DevSecOps",
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752476002.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a30946452aaca1a7c8b4b8fefafd9807f194243.png"
     },
     {
       "id": 30647,
@@ -1618,5 +1655,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-14T06:01:28.587148"
+  "fetched_at": "2025-07-14T12:01:38.571148"
 }

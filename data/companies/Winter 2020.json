@@ -4876,11 +4876,11 @@
       "name": "Finlens",
       "slug": "finlens",
       "website": "https://finlens.app",
-      "description": "Finlens is a modern accounting platform purpose built for modern businesses. Finlens helps you stay on top of your financial metrics, taxes and books without having to email your accountant. \r\n\r\nWe auto-categorize your transactions, keep your books clean and provide a managed accounting powered by humans and augmented by LLMs.\r\n\r\n",
-      "one_liner": "Modern accounting stack for businesses.",
+      "description": "Finlens is an AI co-pilot for QuickBooks, built for founders and accounting firms who want faster closes, real-time visibility, and clean books without the spreadsheet chaos.\r\n\r\nWe automate categorisation, GAAP schedules, and collaboration, all on top of your existing QuickBooks setup. No migrations. No change management. Just a smarter way to work with the stack you already use.\r\n\r\nBacked by Y Combinator (W20) and Accel.\r\nBuilt by second-time founders who\u2019ve seen the finance backend break \u2014 and decided to rebuild it.",
+      "one_liner": "AI Accounting for Founders & Accountants",
       "batch": "Winter 2020",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -4895,9 +4895,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "FinOps",
+        "SaaS",
         "Finance",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7727,5 +7728,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-07-14T06:01:27.121953"
+  "fetched_at": "2025-07-14T12:01:33.085860"
 }
