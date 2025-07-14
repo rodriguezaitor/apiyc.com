@@ -189,6 +189,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png"
     },
     {
+      "id": 30782,
+      "name": "TectoAI",
+      "slug": "tectoai",
+      "website": "https://www.tecto.ai/",
+      "description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployement, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
+      "one_liner": "Governance for AI Employees",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752441321.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png"
+    },
+    {
       "id": 30778,
       "name": "Perspectives Health",
       "slug": "perspectives-health",
@@ -1585,5 +1616,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-13T18:01:31.723267"
+  "fetched_at": "2025-07-14T00:03:28.837439"
 }
