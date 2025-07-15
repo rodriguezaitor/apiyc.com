@@ -601,8 +601,8 @@
       "name": "CopyCat",
       "slug": "copycat",
       "website": "https://runcopycat.com",
-      "description": "CopyCat brings RPA into the AI era with bespoke agentic automations built for real operational problems. Powered by LLMs, browser actions, and APIs, each system is custom-designed to streamline internal workflows across industries.",
-      "one_liner": "Next-Gen RPA, Powered by Browser Agents",
+      "description": "CopyCat is the easiest way to build & run browser agents. Through our self-serve builder, users can create automations using a combination of browser agent prompts and deterministic actions. These automations can be run in the cloud via API or on schedules.",
+      "one_liner": "The easiest way to build & run browser agents",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 3,
@@ -953,7 +953,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739402915.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/044a61892de93a1b3b4e729e7a83401954eae201.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png"
     },
     {
       "id": 30319,
@@ -1586,7 +1586,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "Huntington Beach, CA, USA",
+      "locations": "Long Beach, CA, USA",
       "tags": [
         "Hard Tech",
         "Space Exploration",
@@ -1597,7 +1597,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736353830.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0db0d8de1348b071e0208bdcb4c218bddb686220.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ccfac9158f715a3fcf78ea1e265fd47ddc1f5bf.png"
     },
     {
       "id": 30292,
@@ -3940,12 +3940,12 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Recruiting"
+        "Recruiting",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740035301.0,
@@ -5304,5 +5304,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-07-15T00:03:27.863285"
+  "fetched_at": "2025-07-15T06:01:27.263421"
 }

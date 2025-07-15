@@ -1103,16 +1103,10 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Marketing",
-        "Advertising",
-        "SEO"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -2299,7 +2293,7 @@
       "name": "HABIT",
       "slug": "habit",
       "website": "https://habitrobotics.com",
-      "description": "HABIT is building a network of robotic deployment centers, and we have $77M in LOIs + a $1.9M binding contract for our first vertical \u2014 auto detailing.\r\n\r\nOur locations will deploy on-demand robotic labor to you \u2014 and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical \u2014 the $45B car wash and auto detailing market \u2014 is high cost, labor intensive, and already offered in thousands of locations across America.",
+      "description": "HABIT will deploy on-demand robotic labor to you \u2014 and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical \u2014 the $45B car wash and auto detailing market \u2014 is high cost, labor intensive, and already offered in thousands of locations across America.",
       "one_liner": "Reshaping neighborhood services with robotics.",
       "batch": "Spring 2025",
       "status": "Active",
@@ -2315,11 +2309,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Hard Tech",
         "Robotics",
         "Consumer",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4660,5 +4654,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-07-15T00:03:27.940864"
+  "fetched_at": "2025-07-15T06:01:27.798988"
 }
