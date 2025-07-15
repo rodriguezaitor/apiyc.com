@@ -894,10 +894,10 @@
     },
     {
       "id": 30529,
-      "name": "WorkDone",
-      "slug": "workdone",
+      "name": "WorkDone Health",
+      "slug": "workdone-health",
       "website": "https://www.wrkdn.com",
-      "description": "WorkDone is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
+      "description": "WorkDone Health is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
       "one_liner": "Real-time AI Compliance for Medical Documentation",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4660,5 +4660,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-07-14T18:01:05.553404"
+  "fetched_at": "2025-07-15T00:03:27.940864"
 }

@@ -271,41 +271,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/515be9fcda4dad738d6f69b48e4df0e71ed64103.png"
     },
     {
-      "id": 12356,
-      "name": "Memfault",
-      "slug": "memfault",
-      "website": "https://memfault.com",
-      "description": "Memfault is the first IoT reliability platform that empowers teams to build more robust devices with software at scale. We believe that device reliability engineering will transform how developers build and operate IoT and edge devices with more productivity and more collaboration. As IoT applications continue to grow in complexity, it is more important than ever for developers to have Memfault\u2019s performance monitoring, device debugging, and OTA update capabilities built into their fleet of devices for proactive device operations. We built Memfault to enable developers with a more scalable and sustainable process to accelerate go-to-market, de-risk product launches, cut product costs, and deliver overall superior products.",
-      "one_liner": "First IoT reliability platform for debugging, monitoring, OTA updates",
-      "batch": "Winter 2019",
-      "status": "Active",
-      "team_size": 80,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "IoT"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1545442498.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/69aff41aabfb54d70629bb4411a828953bd10011.png"
-    },
-    {
       "id": 12355,
       "name": "YourChoice Therapeutics",
       "slug": "yourchoice-therapeutics",
@@ -4460,6 +4425,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4c35a6f8f553f40faf34ff03bdf8c8fdf76754.png"
     },
     {
+      "id": 12356,
+      "name": "Memfault",
+      "slug": "memfault",
+      "website": "https://memfault.com",
+      "description": "Memfault is the first IoT reliability platform that empowers teams to build more robust devices with software at scale. We believe that device reliability engineering will transform how developers build and operate IoT and edge devices with more productivity and more collaboration. As IoT applications continue to grow in complexity, it is more important than ever for developers to have Memfault\u2019s performance monitoring, device debugging, and OTA update capabilities built into their fleet of devices for proactive device operations. We built Memfault to enable developers with a more scalable and sustainable process to accelerate go-to-market, de-risk product launches, cut product costs, and deliver overall superior products.",
+      "one_liner": "First IoT reliability platform for debugging, monitoring, OTA updates",
+      "batch": "Winter 2019",
+      "status": "Acquired",
+      "team_size": 80,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "IoT"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1545442498.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/69aff41aabfb54d70629bb4411a828953bd10011.png"
+    },
+    {
       "id": 12344,
       "name": "Accept.inc (formerly BoardRE)",
       "slug": "accept-inc",
@@ -6559,5 +6559,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-07-14T18:01:05.397392"
+  "fetched_at": "2025-07-15T00:03:27.785217"
 }

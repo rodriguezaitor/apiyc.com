@@ -487,6 +487,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74b33eae20672c87a08f3ca790501128e2c07280.png"
     },
     {
+      "id": 30756,
+      "name": "nottelabs",
+      "slug": "nottelabs",
+      "website": "https://www.notte.cc/",
+      "description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
+      "one_liner": "Building infrastructure for reliable web agents",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Automation",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752518156.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png"
+    },
+    {
       "id": 30755,
       "name": "Pally",
       "slug": "pally",
@@ -1007,8 +1039,9 @@
       "tags": [
         "Artificial Intelligence",
         "Developer Tools",
+        "Generative AI",
         "API",
-        "APIs"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1088,7 +1121,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Embedder is building a next-generation IDE for embedded engineers. Our software allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
+      "description": "Embedder is building the AI-IDE for embedded engineers. Our software allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
       "one_liner": "Cursor for Embedded",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1150,6 +1183,41 @@
       "is_top_company": false,
       "launched_at": 1751567522.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b90c0f9fa101c9a96455820ea0a553837b94f49.png"
+    },
+    {
+      "id": 30681,
+      "name": "Parachute",
+      "slug": "parachute",
+      "website": "https://parachute-ai.com",
+      "description": "Parachute is the AI Quality Assurance Lab for hospitals \u2014 end-to-end governance that lets clinical AI move from inception to implementation with confidence. We pre-vet vendors, enforce compliance, track every model in real time, and preserve an immutable audit log that stands up to regulators and litigators, enabling safe, scalable AI in healthcare.",
+      "one_liner": "Quality Assurance & Governance Infrastructure for Clinical AI",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Health Tech",
+        "B2B",
+        "Healthcare",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752533752.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e646d9f32ef0488d82e8f1cd509cd90f6302770.png"
     },
     {
       "id": 30675,
@@ -1257,7 +1325,7 @@
       "name": "Kestroll",
       "slug": "kestroll",
       "website": "https://www.kestroll.com/",
-      "description": "Kestroll is the AI-powered media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets (videos, photos, audio files, etc.) and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
+      "description": "Kestroll is the AI-powered media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets (photos, audio, and especially videos) and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
       "one_liner": "AI media asset management",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1274,10 +1342,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "Video",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1426,8 +1494,8 @@
       "name": "Herdora",
       "slug": "herdora",
       "website": "https://www.herdora.com",
-      "description": "Herdora optimizes GPU code to run faster and cheaper on any hardware. Companies get full GPU utilization without hours of manual tuning.",
-      "one_liner": "Supercharge your GPU performance",
+      "description": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
+      "one_liner": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1443,15 +1511,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "AI"
+        "Artificial Intelligence",
+        "Developer Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751530242.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/66abb17a3df84fe0726adf6b1d88e334ca44863c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4c71ece046811452b38f77a8c1c6661fdc19925.png"
     },
     {
       "id": 30642,
@@ -1555,6 +1623,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
     },
     {
+      "id": 30606,
+      "name": "Acrely",
+      "slug": "acrely",
+      "website": "https://www.acrely.ai",
+      "description": "We provide residential real estate agents voice AI to maximize lead capture and outbound.\r\n\r\nMeet Jane, your AI-powered assistant. When someone calls your number and you don't pick up, Jane does. She talks to your leads, figures out what they need, and helps them \u2014 whether it's scheduling a showing, recommending listings, or just making sure serious buyers get a fast response.\r\n\r\nReal estate is one of the last few archaic industries that still uses phone calls as the crux of communication, and voice AI is just getting good enough to make humans willing to engage.\r\n\r\nReal estate is a industry of connections, without a clear break-in strategy, or without industry connections, attempting to pitch to a realtor is like finding a needle in a haystack, as they are already flooded with sales calls.\r\n\r\nRealtors plaster their phone numbers all over the internet, as well as all over the world and are flooded with unqualified leads, drowning out possible five-figure clients. By saving realtors qualified leads and providing the feeling of a human interaction, realtors save tens of thousands in missed opportunities.\r\n\r\n",
+      "one_liner": "voice ai for realtors that answers, so you can close",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Real Estate",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752517197.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/599629b9dce294f5621aeaf663b76424933bd820.png"
+    },
+    {
       "id": 30603,
       "name": "Closera",
       "slug": "closera",
@@ -1655,5 +1754,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-14T18:01:05.961504"
+  "fetched_at": "2025-07-15T00:03:28.376366"
 }

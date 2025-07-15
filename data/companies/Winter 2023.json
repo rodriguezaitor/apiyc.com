@@ -2191,39 +2191,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67947093536f80ec72184b51287e3a58f8211696.png"
     },
     {
-      "id": 28073,
-      "name": "PlayAI",
-      "slug": "playai",
-      "website": "https://play.ai/",
-      "description": "Play is a Voice AI company that specializes in building conversational voice models capable of cloning any voice or accent and generating speech in real-time. ",
-      "one_liner": "Our mission is to make Voice AI accessible and useful to all.",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 35,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Mountain View, CA, USA",
-      "tags": [
-        "Generative AI",
-        "API"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1674701237.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51a234c04b9c04472dc8991c3d411ee0f347db7.png"
-    },
-    {
       "id": 28072,
       "name": "Holacasa",
       "slug": "holacasa",
@@ -8304,6 +8271,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca57c15ee63fa6b716d10d0f8f29a5e1732f44e4.png"
     },
     {
+      "id": 28073,
+      "name": "PlayAI",
+      "slug": "playai",
+      "website": "https://play.ai/",
+      "description": "Play is a Voice AI company that specializes in building conversational voice models capable of cloning any voice or accent and generating speech in real-time. ",
+      "one_liner": "Our mission is to make Voice AI accessible and useful to all.",
+      "batch": "Winter 2023",
+      "status": "Acquired",
+      "team_size": 35,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [
+        "Generative AI",
+        "API"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1674701237.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51a234c04b9c04472dc8991c3d411ee0f347db7.png"
+    },
+    {
       "id": 27945,
       "name": "Fairway Health",
       "slug": "fairway-health",
@@ -9362,5 +9362,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-07-14T18:01:05.047239"
+  "fetched_at": "2025-07-15T00:03:27.427419"
 }

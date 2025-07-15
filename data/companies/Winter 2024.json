@@ -1910,7 +1910,7 @@
       "one_liner": "AI-Native Data Engine for LLMs, Computer Vision, & Enterprise AI",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -1922,11 +1922,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Machine Learning",
         "Computer Vision",
-        "Data Engineering",
-        "AI"
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2964,7 +2964,7 @@
         "Operations"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706475260.0,
@@ -4126,7 +4126,7 @@
         "Healthcare"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709929195.0,
@@ -7796,12 +7796,12 @@
       "id": 28896,
       "name": "GovernGPT",
       "slug": "governgpt",
-      "website": "https://www.governgpt.ai/",
+      "website": "https://www.governgpt.com/",
       "description": "For money managers to raise their next billion, they dedicate entire teams to spend days filling diligence questionnaires with recycled content. We do it in minutes using AI.\r\n",
-      "one_liner": "AI Back Office for Fund Managers",
+      "one_liner": "The RFP Platform Asset Managers Adopt",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -7811,16 +7811,10 @@
         "Canada",
         "America / Canada"
       ],
-      "locations": "Toronto, ON, Canada",
-      "tags": [
-        "Artificial Intelligence",
-        "Finance",
-        "B2B",
-        "Investing",
-        "AI"
-      ],
+      "locations": "Montreal, QC, Canada",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1699569347.0,
@@ -8261,5 +8255,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-14T18:01:05.153050"
+  "fetched_at": "2025-07-15T00:03:27.535522"
 }
