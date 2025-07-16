@@ -840,21 +840,16 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Food Tech",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740196480.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e4459405201022951d5710f5aa762e376db082.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cff7bd4def5b924171143a3862b8a7356ce0c580.png"
     },
     {
       "id": 30322,
@@ -2150,7 +2145,7 @@
       "name": "Mirror",
       "slug": "mirror",
       "website": "https://usemirror.ai/",
-      "description": "We make sure your team's expertise are available to everyone, instantly. Mirror Clones runs invisibly alongside your work, understanding context and pulling data in real-time. Someone mentions Q3 revenue in a meeting? Mirror fetches live numbers from your ERP. Ask about a project deadline? It grabs the latest timeline from Jira or Asana. \r\n\r\nNo more scheduling meetings to get simple answers. No more knowledge bottlenecks when key employees are unavailable. Mirror ensures critical information flows seamlessly across your organization, breaking down silos and accelerating decision-making.\r\n",
+      "description": "We make sure your team's expertise are available to everyone, instantly. Mirror Clones runs invisibly alongside your work, understanding context and pulling data in real-time.\r\n\r\nNo more scheduling meetings to get simple answers. No more knowledge bottlenecks when key employees are unavailable. Mirror ensures critical information flows seamlessly across your organization, breaking down silos and accelerating decision-making.\r\n",
       "one_liner": "Clone your best employees",
       "batch": "Winter 2025",
       "status": "Active",
@@ -4481,7 +4476,7 @@
       "one_liner": "Autonomous patrol-boats for National Security ",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "Industrials",
       "subindustry": "Unspecified",
       "industries": [
@@ -4489,9 +4484,10 @@
         "Drones"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "El Segundo, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -5304,5 +5300,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-07-15T18:01:33.256840"
+  "fetched_at": "2025-07-16T00:03:18.932724"
 }
