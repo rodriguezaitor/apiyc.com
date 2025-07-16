@@ -1120,41 +1120,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe59dec0db5818a11a7306f36b67e952ee2c037.png"
     },
     {
-      "id": 24821,
-      "name": "Pactima",
-      "slug": "pactima",
-      "website": "https://pactima.com/",
-      "description": "Pactima is a value-centric, fast-growing, and venture-backed company that\u2019s transforming the manner in which businesses conduct transactions in our remote world.\r\n\r\nOur flagship product, Live eSignatures<sup>TM</sup>, is a real-time solution that allows people to view and sign documents while simultaneously hosting a secured video call. This easy-to-use solution allows transactions that could only be done in-person to now be performed online.",
-      "one_liner": "Live video signing for real-time agreements",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B -> Legal",
-      "industries": [
-        "B2B",
-        "Legal"
-      ],
-      "regions": [
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Ottawa, ON, Canada; Remote",
-      "tags": [
-        "Documents",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1625764563.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd5b61907c3569a6b9a7653c553f169ebd5b23c1.png"
-    },
-    {
       "id": 24820,
       "name": "Medium Biosciences",
       "slug": "medium-biosciences",
@@ -11338,6 +11303,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/878138d78cf12a2804dbaa8d5ac3805115d3d5b8.png"
     },
     {
+      "id": 24821,
+      "name": "Pactima",
+      "slug": "pactima",
+      "website": "https://pactima.com/",
+      "description": "Pactima is a value-centric, fast-growing, and venture-backed company that\u2019s transforming the manner in which businesses conduct transactions in our remote world.\r\n\r\nOur flagship product, Live eSignatures<sup>TM</sup>, is a real-time solution that allows people to view and sign documents while simultaneously hosting a secured video call. This easy-to-use solution allows transactions that could only be done in-person to now be performed online.",
+      "one_liner": "Live video signing for real-time agreements",
+      "batch": "Summer 2021",
+      "status": "Acquired",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Ottawa, ON, Canada; Remote",
+      "tags": [
+        "Documents",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1625764563.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd5b61907c3569a6b9a7653c553f169ebd5b23c1.png"
+    },
+    {
       "id": 24701,
       "name": "Byte Kitchen",
       "slug": "byte-kitchen",
@@ -13427,5 +13427,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-07-16T00:03:18.303314"
+  "fetched_at": "2025-07-16T06:01:18.807621"
 }

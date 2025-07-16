@@ -1588,6 +1588,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b509b40e2c3c32e42ebe7d8742a534de91515647.png"
     },
     {
+      "id": 30616,
+      "name": "Async",
+      "slug": "async",
+      "website": "https://www.async.build/",
+      "description": "Async is a platform to manage a team of coding agents from anywhere.\r\nIt lets you issue tasks, then handles coding and testing in the background. Review results on mobile or desktop, preview changes in-app, run tasks in parallel, and move faster than ever before.\r\n\r\nOur mission is to do the work that you don't want to: bug fixes, UI tweaks, papercuts, and KTLO.\r\nDo what's important - delegate the rest to Async.",
+      "one_liner": "A team of coding agents in your pocket",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752630869.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6a6a6deeb99cb0fdc200c141518d2d94972bd2b.png"
+    },
+    {
       "id": 30611,
       "name": "AgentMail",
       "slug": "agentmail",
@@ -1719,6 +1751,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     },
     {
+      "id": 30520,
+      "name": "Synthetic Society",
+      "slug": "synthetic-society",
+      "website": "https://syntheticsociety.ai/",
+      "description": "",
+      "one_liner": "Synthetic Agents to Simulate Real Users",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752639112.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e5d3f91528ae16c7a1f7f4cd1e7a80ccb2ae42a.png"
+    },
+    {
       "id": 30510,
       "name": "Cactus",
       "slug": "cactus",
@@ -1785,5 +1848,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-16T00:03:19.420099"
+  "fetched_at": "2025-07-16T06:01:26.936976"
 }
