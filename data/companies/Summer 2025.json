@@ -486,7 +486,7 @@
     },
     {
       "id": 30756,
-      "name": "nottelabs",
+      "name": "Nottelabs",
       "slug": "nottelabs",
       "website": "https://www.notte.cc/",
       "description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
@@ -505,9 +505,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1848,5 +1848,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-16T06:01:26.936976"
+  "fetched_at": "2025-07-16T12:01:35.002169"
 }
