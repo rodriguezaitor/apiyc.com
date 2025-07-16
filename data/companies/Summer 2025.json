@@ -585,6 +585,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68bf871c0fe363c6048343df283d9282ab990f4.png"
     },
     {
+      "id": 30744,
+      "name": "SigmanticAI",
+      "slug": "sigmanticai",
+      "website": "https://www.sigmanticai.com",
+      "description": "SigmanticAI is building an AI-native hardware development assistant that automates the entire RTL design flow, from natural language to synthesizable HDL and testbenches, inside a seamless VSCode fork. Powered by fine-tuned Verilog LLMs, reinforcement learning, and real compiler feedback, SigmanticAI iteratively refines code until it compiles and passes synthesis, no matter how complex the design. It\u2019s like the Cursor for HDL design. \r\n\r\nIn addition to code generation, SigmanticAI can generate token-level annotations and onboarding documents to accelerate ramp-up for new engineers. With support for both cloud and on-prem deployment, it integrates with existing EDA tools to dramatically reduce debug time, improve collaboration, and accelerate hardware design across teams",
+      "one_liner": "Suite of AI Agents and Tools to Accelerate HDL Design",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Dublin, CA, USA",
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Semiconductors",
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752688016.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/551c81e2cf1198e6431c7a170e74ee43deff6f61.png"
+    },
+    {
       "id": 30743,
       "name": "Opennote",
       "slug": "opennote",
@@ -648,6 +683,37 @@
       "is_top_company": false,
       "launched_at": 1752264420.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/76b581290f19eb08a9fc677f74b5ecc46cfd20a1.png"
+    },
+    {
+      "id": 30741,
+      "name": "F4",
+      "slug": "f4",
+      "website": "https://f4.dev/",
+      "description": "Made by ex-Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly, so your team doesn\u2019t waste time on back-and-forth reviews or supplier confusion. Clean, standard-compliant drawings reduce the risk of costly scrap and rework by making expectations clear from the start. \r\n\r\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\r\n\r\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\r\n\r\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\r\n\r\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, including the critical stack-up paths,  applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.\r\n",
+      "one_liner": "Automating compliance checks for engineering drawings",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Hardware",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752681359.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png"
     },
     {
       "id": 30738,
@@ -1152,7 +1218,7 @@
       "name": "Flai",
       "slug": "flai",
       "website": "https://www.useflai.com/",
-      "description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe use AI voice assistants that answer dealership calls around the clock to schedule appointments, book test drives, and handle customer inquiries. But we don't stop at phone calls; we also optimize dealerships for AI-powered search, ensuring they get found when customers search for \"car dealerships near me\" on ChatGPT and similar platforms.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability and discoverability determine who gets the sale.",
+      "description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
       "one_liner": "We Bring More Customers to Your Dealership",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1848,5 +1914,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-16T12:01:35.002169"
+  "fetched_at": "2025-07-16T18:01:24.288030"
 }

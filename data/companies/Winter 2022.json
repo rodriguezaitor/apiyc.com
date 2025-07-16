@@ -10441,7 +10441,7 @@
       "slug": "promptloop",
       "website": "https://www.promptloop.com/",
       "description": "PromptLoop helps GTM teams automate account research and data enrichment at scale. We turn manual web scraping and qualification workflows into automated processes, enabling teams to enrich thousands of accounts with detailed company data and buying intent markers in minutes.\r\n\r\nWhy PromptLoop? Sales and marketing teams traditionally spend hours manually researching accounts or rely on outdated data providers. We automatically crawl and extract precise data points from company websites, social profiles, and public sources at 10% the cost of manual research, with built-in quality controls and strict sourcing. Teams can process 10k+ accounts simultaneously, turning raw URLs into actionable qualification data tailored to your goals.",
-      "one_liner": "AI for market research and analysis",
+      "one_liner": "AI agents to build B2B datasets",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 2,
@@ -10457,11 +10457,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "Sales",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-07-16T12:01:26.374173"
+  "fetched_at": "2025-07-16T18:01:20.883248"
 }
