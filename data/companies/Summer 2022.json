@@ -2610,16 +2610,16 @@
       "name": "Fini",
       "slug": "fini",
       "website": "https://www.usefini.com",
-      "description": "Resolve 70% of customer questions with your new AI teammate - helping you\r\nsave costs, and keep your customer happy. Fini securely integrates with your\r\nknowledgebase, and gives you an AI agent, ready 24/7 to solve even the thorniest customer\r\nqueries on Zendesk, Slack, Discord and more",
-      "one_liner": "Turn your knowledgebase into AI chat, in 2 minutes",
+      "description": "Fini builds AI agents that autonomously resolve up to 80% of customer support tickets for enterprises specially in Fintech, E-commerce, Gaming and Fitness tech.\r\n\r\nOur agents understand complex workflows, take real actions (like refunds or KYC checks), and improve in real-time. Built on a proprietary knowledge engine, our agents deliver 98%+ accuracy and integrate deeply with tools like Zendesk, Salesforce, and internal APIs.\r\n\r\nEnterprises like Bitdefender and Training Peaks use Fini to slash support costs by 50% while boosting CSAT by 10%.",
+      "one_liner": "Fini | Automate 80% of enterprise support with AI agents",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 14,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Operations"
       ],
       "regions": [
         "Netherlands",
@@ -2629,11 +2629,11 @@
       ],
       "locations": "Amsterdam, NH, Netherlands",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Machine Learning",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8120,5 +8120,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-17T12:01:31.099884"
+  "fetched_at": "2025-07-17T18:01:05.490756"
 }

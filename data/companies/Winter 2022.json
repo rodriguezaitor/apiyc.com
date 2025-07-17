@@ -4109,40 +4109,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1482a962d8fe4ce7caaf57c66235bd646c33977.png"
     },
     {
-      "id": 25817,
-      "name": "Lifecast",
-      "slug": "lifecast",
-      "website": "http://www.lifecastvr.com",
-      "description": "We make tools for state-of-the-art 3D VR video, which fix motion sickness for a more comfortable and immersive experience. Our team's experience includes building VR cameras at Facebook, and robot perception systems at Lyft and Google X.",
-      "one_liner": "Software to create 3D video for VR, robotics and film.",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Consumer",
-      "subindustry": "Consumer",
-      "industries": [
-        "Consumer"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Palo Alto, CA, USA; Remote",
-      "tags": [
-        "Machine Learning",
-        "Robotics",
-        "Virtual Reality"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1645743234.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a29e222d654365932751024c04701eec4344d05.png"
-    },
-    {
       "id": 25814,
       "name": "Duplo",
       "slug": "duplo",
@@ -13010,6 +12976,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8d639e2da217393023962cadbf5e44f0794f06.png"
     },
     {
+      "id": 25817,
+      "name": "Lifecast",
+      "slug": "lifecast",
+      "website": "http://www.lifecastvr.com",
+      "description": "We make tools for state-of-the-art 3D VR video, which fix motion sickness for a more comfortable and immersive experience. Our team's experience includes building VR cameras at Facebook, and robot perception systems at Lyft and Google X.",
+      "one_liner": "Software to create 3D video for VR, robotics and film.",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Palo Alto, CA, USA; Remote",
+      "tags": [
+        "Machine Learning",
+        "Robotics",
+        "Virtual Reality"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1645743234.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a29e222d654365932751024c04701eec4344d05.png"
+    },
+    {
       "id": 25757,
       "name": "AntWalk",
       "slug": "antwalk",
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-07-17T12:01:29.426147"
+  "fetched_at": "2025-07-17T18:01:02.788150"
 }
