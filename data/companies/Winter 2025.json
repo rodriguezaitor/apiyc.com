@@ -329,7 +329,7 @@
       "one_liner": "Assurance and audit AI",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -2545,8 +2545,8 @@
       "name": "Lucid",
       "slug": "lucid",
       "website": "https://lucid.ai",
-      "description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modeling at Rainmaker. Rami previously founded a telecom services company and was the CTO of a govtech contractor.\r\n\r\nNow we\u2019re training a hyper realistic world model!",
-      "one_liner": "Generative simulations powered by fast world models",
+      "description": "We are building universe simulations powered by interactive video models.\r\n\r\nWe train video models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nNow we\u2019re training a hyper realistic world model!",
+      "one_liner": "interactive video models",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 3,
@@ -2556,19 +2556,13 @@
         "Consumer"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Berkeley, CA, USA",
-      "tags": [
-        "Deep Learning",
-        "Generative AI",
-        "Machine Learning"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738541860.0,
@@ -3225,7 +3219,7 @@
       "id": 30237,
       "name": "Trim",
       "slug": "trim",
-      "website": "https://trimresearch.com/",
+      "website": "https://trimresearch.com",
       "description": "Trim is building a general intelligence AI model that can simulate real-world physical systems evolving over time. For example, given the starting position of waves on a beach, the model generates how those waves move forward in time.",
       "one_liner": "A foundation model for physics.",
       "batch": "Winter 2025",
@@ -3243,7 +3237,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5300,5 +5294,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-07-16T18:01:22.628290"
+  "fetched_at": "2025-07-17T00:03:19.276606"
 }

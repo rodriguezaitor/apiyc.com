@@ -2194,7 +2194,7 @@
       "name": "Starcloud",
       "slug": "starcloud",
       "website": "https://www.starcloud.com/",
-      "description": "(Formerly known as Lumen Orbit) \r\nStarcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in July 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
+      "description": "(Formerly known as Lumen Orbit) \r\nStarcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in late 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
       "one_liner": "Data centers in space",
       "batch": "Summer 2024",
       "status": "Active",
@@ -2211,11 +2211,11 @@
       ],
       "locations": "Redmond, WA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hard Tech",
         "Satellites",
         "Climate",
-        "Cloud Computing"
+        "Cloud Computing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8319,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-16T18:01:21.563173"
+  "fetched_at": "2025-07-17T00:03:16.085935"
 }
