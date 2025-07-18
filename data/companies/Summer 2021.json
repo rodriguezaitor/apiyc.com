@@ -6549,19 +6549,19 @@
     },
     {
       "id": 24256,
-      "name": "Muse",
-      "slug": "muse",
-      "website": "https://www.muse.place/",
-      "description": "Muse allows anyone to transform their static website into a virtual world. We do this through our no-code editor,. Our websites are quickly replacing traditional personal websites commonly built using Shopify, Squarespace, or Wix. ",
-      "one_liner": "Build your website as an immersive virtual world. 3D website builder.",
+      "name": "AI Tech Packs",
+      "slug": "ai-tech-packs",
+      "website": "https://www.aitechpacks.com",
+      "description": "AI Tech Packs turns images into production-ready tech packs within minutes. We allow fashion brands to save hundreds of hours and thousands of dollars otherwise spent creating manual tech packs \u2014 which typically cost $100\u2013$500 per style and take days or even weeks to complete.",
+      "one_liner": "Build factory ready tech packs in minutes.",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 2,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer -> Virtual and Augmented Reality",
       "industries": [
-        "Consumer",
-        "Virtual and Augmented Reality"
+        "B2B",
+        "Supply Chain and Logistics"
       ],
       "regions": [
         "United States of America",
@@ -6569,18 +6569,17 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Sunnyvale, CA, USA; Los Angeles, CA, USA",
+      "locations": "Sunnyvale, CA, USA",
       "tags": [
         "SaaS",
-        "Virtual Reality",
-        "E-commerce"
+        "Manufacturing"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1625036819.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e92fa8ce6691a19c550c68542b31e9bb2237a6c4.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6427a932886d345ee567b4d32212b20d32be6163.png"
     },
     {
       "id": 24254,
@@ -13427,5 +13426,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-07-17T18:01:03.270585"
+  "fetched_at": "2025-07-18T00:03:12.694562"
 }
