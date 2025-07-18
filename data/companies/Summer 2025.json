@@ -674,10 +674,10 @@
       ],
       "locations": "Dublin, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hard Tech",
         "Hardware",
         "Semiconductors",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1050,6 +1050,40 @@
       "is_top_company": false,
       "launched_at": 1752263741.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png"
+    },
+    {
+      "id": 30710,
+      "name": "mcp-use",
+      "slug": "mcp-use",
+      "website": "https://mcp-use.com",
+      "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 100,000 downloads and 4,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+      "one_liner": "Open-source dev tools and infrastructure for MCP.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Open Source",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752861544.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png"
     },
     {
       "id": 30708,
@@ -1659,6 +1693,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a30946452aaca1a7c8b4b8fefafd9807f194243.png"
     },
     {
+      "id": 30648,
+      "name": "Janet AI",
+      "slug": "tryjanet",
+      "website": "https://tryjanet.ai",
+      "description": "Big companies are drowning in Jira tickets. They get thousands of reported issues\u2014most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that\u2019s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it auto-displays all relationships, auto\u2011categorizes issues, and surfaces those that matter most.\r\n\r\nBecause the data\u2019s structured, useful questions become instantly answerable. \"What are the highest priority login bugs hitting enterprise customers running version X?\" \"What fixes would unblock the most ARR right now?\"\r\n\r\nSeveral multi\u2011billion\u2011dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.",
+      "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "DevOps"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752861520.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png"
+    },
+    {
       "id": 30647,
       "name": "Cyberdesk",
       "slug": "cyberdesk",
@@ -2052,5 +2119,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-18T12:01:37.321400"
+  "fetched_at": "2025-07-18T18:01:27.081219"
 }

@@ -1624,7 +1624,7 @@
       "one_liner": "The performance hub for modern athletes",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -1636,18 +1636,18 @@
       ],
       "locations": "Boston, MA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Fitness",
         "Social",
-        "Digital Health"
+        "Digital Health",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730403041.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/565b470f8b93fd65e5df28c060b64e46b7aa4e73.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c9c9e9401c331a915e89803f89ed7452f03d962.png"
     },
     {
       "id": 30063,
@@ -3078,5 +3078,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-18T12:01:36.184184"
+  "fetched_at": "2025-07-18T18:01:25.571911"
 }
