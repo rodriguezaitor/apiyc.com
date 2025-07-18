@@ -725,7 +725,7 @@
       "name": "Sira",
       "slug": "sira",
       "website": "https://sira.team",
-      "description": "",
+      "description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR \u2014 purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you \u2014 like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters \u2014 while we take care of the team.",
       "one_liner": "AI HR manager for hourly teams",
       "batch": "Summer 2025",
       "status": "Active",
@@ -737,13 +737,14 @@
         "Human Resources"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "HR Tech"
+        "HR Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1322,7 +1323,7 @@
       "slug": "flai",
       "website": "https://www.useflai.com/",
       "description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
-      "one_liner": "We Bring More Customers to Your Dealership",
+      "one_liner": "We Bring Customers to Your Dealership",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1486,6 +1487,41 @@
       "is_top_company": false,
       "launched_at": 1751153734.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f57117138aa46056d21a2d0bd92569a3da39e148.png"
+    },
+    {
+      "id": 30665,
+      "name": "Pangolin",
+      "slug": "pangolin",
+      "website": "https://digpangolin.com",
+      "description": "Pangolin provides a simple way to securely expose applications on private networks with identity-aware access control and high availability. It\u2019s an open-source cloud and self-hosted solution that enables administrators to maintain data sovereignty and control user interaction with essential tools.",
+      "one_liner": "Open-source secure gateway to private networks",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Next-gen Network Security",
+        "SaaS",
+        "Open Source",
+        "DevOps",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752801073.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e255c0b8547eae92642ef5a790e42e33f9bed016.png"
     },
     {
       "id": 30664,
@@ -2016,5 +2052,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-18T00:03:13.702961"
+  "fetched_at": "2025-07-18T06:01:29.307198"
 }
