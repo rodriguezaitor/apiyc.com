@@ -6899,8 +6899,8 @@
       "name": "Unsloth AI",
       "slug": "unsloth-ai",
       "website": "https://unsloth.ai/",
-      "description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
-      "one_liner": "Open Source Fine-tuning & Training of LLMs",
+      "description": "Unsloth helps builders create custom models better & faster using RL and custom kernels. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make training and open-source the best it can be!",
+      "one_liner": "Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -6916,11 +6916,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "Open Source",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8319,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-18T06:01:20.781717"
+  "fetched_at": "2025-07-18T12:01:30.833137"
 }
