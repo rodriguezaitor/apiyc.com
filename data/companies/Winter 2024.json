@@ -2585,11 +2585,11 @@
     },
     {
       "id": 29417,
-      "name": "Brainbase",
-      "slug": "brainbase",
-      "website": "https://usebrainbase.com",
-      "description": "Brainbase is an AI workflow automation builder designed to handle complex enterprise workflows. Our customers use us to spin up everything from sales autopilots to full fledged customer support workflows in less than a day.\r\n\r\nSMBs and unicorns choose us over our competitors because we are the only platform that combines the power of AI with the ease and robustness of an off-the-shelf enterprise tool.",
-      "one_liner": "AI workflow automations for enterprise",
+      "name": "Brainbase Labs",
+      "slug": "brainbase-labs",
+      "website": "https://brainbaselabs.com",
+      "description": "Brainbase Labs is an applied AI research lab enabling AI in the workforce by building high-fidelity agent environments and tooling.\r\n\r\n",
+      "one_liner": "Applied AI research lab enabling the global AI workforce",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -6459,7 +6459,7 @@
       "name": "Mango Health",
       "slug": "mango-health",
       "website": "https://themangohealth.com",
-      "description": "Mango Health delivers AI-powered therapy for OCD, offering personalized care that adapts to your experience.\r\n\r\nStart today at TheMangoHealth.com :)",
+      "description": "Mango Health is building the market-leading AI Guide for OCD. OCD is often hidden in plain sight, with research showing it takes an average of 12 years to diagnose, and nearly 2% of the world population affected.  We are on a mission to improve accessibility to the best resources available. With a focus on ERP like sessions, 24/7 support, and countless AI-guided lessons - we are looking to bring motivation and meaning back to the lives of millions at a fraction of the cost of traditional treatment. \r\n\r\nStart today at TheMangoHealth.com :)",
       "one_liner": "AI Therapy for OCD",
       "batch": "Winter 2024",
       "status": "Active",
@@ -6475,7 +6475,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1707477404.0,
@@ -8250,5 +8250,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-18T18:01:19.130835"
+  "fetched_at": "2025-07-19T00:03:22.433383"
 }

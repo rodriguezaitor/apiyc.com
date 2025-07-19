@@ -64,8 +64,8 @@
       "name": "RealRoots",
       "slug": "realroots",
       "website": "http://www.therealroots.com",
-      "description": "We are a marketplace that helps women make new friends in her city via curated matching and guided shared experiences. Users fill out a 10-minute survey, and we match her with a group of compatible women nearby. The group then enjoys a series of 6 bonding experiences, leaving with at least one new friend -- guaranteed.",
-      "one_liner": "RealRoots guarantees women new friendships.",
+      "description": "RealRoots is a mobile app that guarantees women lifelong friendships. After a quick 10-minute survey, we match each user with compatible friends nearby. From there, our AI assistant plans thoughtful, recurring hangs - so her social calendar stays full of meaningful connection.",
+      "one_liner": "RealRoots is a mobile all that guarantees women lifelong friendships.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -82,7 +82,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Marketplace",
-        "Consumer"
+        "Consumer",
+        "Scheduling",
+        "Conversational AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1713,10 +1715,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps"
+        "DevOps",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1763,8 +1765,8 @@
       "name": "Herdora",
       "slug": "herdora",
       "website": "https://www.herdora.com",
-      "description": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
-      "one_liner": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
+      "description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
+      "one_liner": "Cursor for CUDA",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1780,8 +1782,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools"
+        "Developer Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1824,6 +1826,39 @@
       "is_top_company": false,
       "launched_at": 1751662616.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a35549672464ddd96cd4caea3ef725e10f03c19.png"
+    },
+    {
+      "id": 30627,
+      "name": "Sentinel",
+      "slug": "sentinel",
+      "website": "https://yoursentinel.ai",
+      "description": "Sentinel is your 24/7 on-call engineer which investigates, diagnoses and suggests resolutions for production issues. Sentinel helps teams reduce alert fatigue and downtime, saving engineers from firefighting so they can focus on building.",
+      "one_liner": "AI on-call engineer",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "B2B",
+        "DevOps",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1752879716.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a052e8aa25b2ceda1151defe0701a1c831075c57.png"
     },
     {
       "id": 30621,
@@ -2119,5 +2154,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-18T18:01:27.081219"
+  "fetched_at": "2025-07-19T00:03:23.341573"
 }
