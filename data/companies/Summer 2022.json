@@ -3099,11 +3099,11 @@
       "name": "Coris",
       "slug": "coris",
       "website": "https://coris.ai/",
-      "description": "Coris is a Risk API for SaaS companies and Fintechs that underwrite SMBs. We built the risk systems at eBay, PayPal, WePay, and Google. Leveraging our expertise, we were able to build the product in less than 3 months, launch it within few weeks, and already have live pilots with companies such as Housecall Pro and Wave Accounting",
-      "one_liner": "Risk Infra for SaaS companies and Fintechs that Underwrite SMBs",
+      "description": "Coris is building the AI layer for payments risk and operations. We work with the most ambitious platforms, marketplaces, and payment providers around the globe such as GoFundMe, Kajabi, Clio and Cherry to automate and accelerate merchant onboarding, monitoring, and decision-making. What risk teams only imagined two years ago, Coris is delivering today with our risk platform and AI agents.\r\n\r\nWe\u2019re backed by Y Combinator, Lux Capital, Pathlight Ventures, and other world-class investors \u2014 and we\u2019re just getting started !",
+      "one_liner": "AI-powered risk platform for Payment Providers, Banks, SaaS platforms\u2026",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -3119,10 +3119,12 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Fintech",
-        "Insurance"
+        "B2B",
+        "Compliance",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1659411610.0,
@@ -5448,10 +5450,11 @@
       ],
       "locations": "London, England, United Kingdom; Remote",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Open Source",
-        "Sales"
+        "Sales",
+        "Marketing",
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8120,5 +8123,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-21T06:01:30.816090"
+  "fetched_at": "2025-07-21T12:01:45.008101"
 }
