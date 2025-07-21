@@ -3030,8 +3030,8 @@
       "name": "Mintplex Labs",
       "slug": "mintplex-labs",
       "website": "https://mintplexlabs.com",
-      "description": "Mintplex Labs builds AnythingLLM, an all-in-one desktop AI application that handles everything an LLM should do to increase your productivity while remaining fully private. \r\n\r\nCurrent tools are:\r\nAnythingLLM (https://github.com/Mintplex-Labs/anything-llm)\r\nVectorAdmin (https://github.com/Mintplex-Labs/vector-admin)",
-      "one_liner": "Building the all-in-one private desktop AI assistant",
+      "description": "Mintplex Labs builds AnythingLLM, an all-in-one desktop, mobile, and open-source on-device AI application that makes local AI practically useful for the everyday person. From chatting with documents to building complex AI Agentic flows - we do it all. \r\n\r\nAnythingLLM (45K stars) (https://github.com/Mintplex-Labs/anything-llm)",
+      "one_liner": "Building the definitive all-in-one on-device AI tool suite",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 3,
@@ -3046,14 +3046,14 @@
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Irvine, CA, USA; Los Angeles, CA, USA; Remote",
+      "locations": "Irvine, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Open Source",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1652840561.0,
@@ -8120,5 +8120,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-20T18:01:09.861537"
+  "fetched_at": "2025-07-21T00:03:35.419644"
 }

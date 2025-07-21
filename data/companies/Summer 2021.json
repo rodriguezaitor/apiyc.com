@@ -3599,7 +3599,7 @@
       "one_liner": "Demo Platform for API-First Companies",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 25,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -4175,11 +4175,11 @@
       "name": "Cumbuca",
       "slug": "cumbuca",
       "website": "https://www.cumbuca.com",
-      "description": "Cumbuca is the first digital group account for Brazilian families. By grouping individual accounts with a shared permission system that's completely customizable, Cumbuca mimics the experience of American joint accounts - which aren't available in Brazil - providing features such as shared savings, debt tracking and bill splitting on everything from utilities to groceries and online delivery, so you don't ever have to argue with your loved ones again.",
-      "one_liner": "Multiplayer banking with bill splitting for Brazilian families.",
+      "description": "Cumbuca is an infratech bank for developers to build financial products with direct Central Bank connectivity. Instead of working around unreliable middleware, you get bare-metal access to Pix, payment initiation, and data APIs under our license, so you ship products faster and we handle the compliance. There's no vendor lock-in, and your service will never be disrupted by us. \r\n",
+      "one_liner": "Bare-metal access to Brazil's Open Finance and Pix systems",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 18,
+      "team_size": 5,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -4194,7 +4194,9 @@
       "locations": "S\u00e3o Paulo, SP, Brazil",
       "tags": [
         "Fintech",
-        "Community"
+        "B2B",
+        "API",
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13426,5 +13428,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-07-20T18:01:07.589588"
+  "fetched_at": "2025-07-21T00:03:33.599435"
 }
