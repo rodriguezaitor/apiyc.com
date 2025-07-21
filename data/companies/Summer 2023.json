@@ -5478,8 +5478,8 @@
       "name": "Atla",
       "slug": "atla",
       "website": "https://www.atla-ai.com/",
-      "description": "Atla helps developers find AI mistakes at scale, so they can build more reliable GenAI applications. Generative AI can only reach its full potential when it consistently produces safe and useful outputs. We train models to catch mistakes, monitor AI performance, and understand critical failure modes.",
-      "one_liner": "We train frontier models to evaluate generative AI",
+      "description": "Atla is the eval and improvement platform for AI agents. \r\n\r\nWe help developers cut time spent on manually reviewing traces. Atla\u2019s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes\u2014so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe\u2019re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 40,000+ times.",
+      "one_liner": "Find and fix AI agent failures",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 12,
@@ -5494,8 +5494,10 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
+        "AIOps",
         "Artificial Intelligence",
-        "Generative AI",
+        "Developer Tools",
+        "Analytics",
         "AI"
       ],
       "stage": "Early",
@@ -7311,5 +7313,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-21T12:01:45.847109"
+  "fetched_at": "2025-07-21T18:01:03.991641"
 }
