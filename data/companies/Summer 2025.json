@@ -627,7 +627,7 @@
       "slug": "convexia",
       "website": "https://convexia.bio",
       "description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silica.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
-      "one_liner": "AI-maximalist pharma company to buy and sell early-stage drugs",
+      "one_liner": "The world's first AI-maximalist pharma company",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -644,8 +644,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-powered Drug Discovery",
-        "Biotech",
-        "AI"
+        "Artificial Intelligence",
+        "Biotech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1691,8 +1691,8 @@
       "name": "Skope",
       "slug": "skope",
       "website": "https://useskope.com",
-      "description": "We\u2019re building an autonomous revenue engine for nonprofit fundraisers, powered by AI agents. Skope allows organizations to enrich human profiles and make sense of their old data, while constantly finding new ideal donors.",
-      "one_liner": "AI Agents for Nonprofits.",
+      "description": "",
+      "one_liner": "",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1707,9 +1707,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Nonprofit",
-        "B2B",
-        "AI"
+        "Artificial Intelligence",
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2215,5 +2214,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-21T00:03:40.797135"
+  "fetched_at": "2025-07-21T06:01:38.264459"
 }
