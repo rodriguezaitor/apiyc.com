@@ -3367,7 +3367,7 @@
       "one_liner": "AI that makes compliance effortless",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -3382,11 +3382,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Compliance",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6145,8 +6145,8 @@
       "name": "MathDash",
       "slug": "mathdash",
       "website": "https://mathdash.com",
-      "description": "MathDash is an online live math-competition platform that gets students addicted to learning. Our target audience already spends hundreds of hours each year doing math questions competitively. Now they will train on MathDash because it is more thrilling and exciting to compete live, see yourself on a leaderboard, and improve your 'ELO' rating. \r\n\r\nWe are USA Math Olympians, and have been the top power users on every single product marketed towards competitive math learners. What's missing is a personalized math training experience and online math gym.",
-      "one_liner": "Training Platform for Math Competitions",
+      "description": "MathDash is an online math education platform that gets students addicted to working through textbooks and seeing their improvement.",
+      "one_liner": "Learning Platform for Math Competitions",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -6156,10 +6156,14 @@
         "Education"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Education",
+        "Consumer"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -7040,22 +7044,27 @@
       "name": "Maihem",
       "slug": "maihem",
       "website": "https://www.maihem.com",
-      "description": "Maihem creates AI agents that test AI products. We enable companies to automate their AI quality assurance, enhancing AI performance and reliability before and after deployment.\r\n",
-      "one_liner": "Industry-leading quality testing for mission critical AI",
+      "description": "Maihem's generative AI platform lets you intuitively direct robots to complete varied tasks in changing environments without manual reprogramming.",
+      "one_liner": "Adaptable AI robots for your complex and dynamic workflows",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
-      "industry": "B2B",
+      "industry": "Industrials",
       "subindustry": "B2B -> Analytics",
       "industries": [
-        "B2B",
-        "Analytics"
+        "Industrials",
+        "Manufacturing and Robotics"
       ],
       "regions": [
-        "Unspecified"
+        "United Kingdom",
+        "Europe"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Robotics",
+        "Manufacturing",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -8250,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-21T18:01:02.943738"
+  "fetched_at": "2025-07-22T00:03:20.962397"
 }

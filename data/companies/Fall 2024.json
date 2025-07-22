@@ -2110,11 +2110,11 @@
     },
     {
       "id": 30047,
-      "name": "Lune",
-      "slug": "lune",
-      "website": "https://www.lune.dev/",
-      "description": "A modern agent-human hybrid developer platform. Ask a technical question, get instant answers from both humans and AI agents that read docs, code bases, and more.",
-      "one_liner": "Where devs go to get instant answers from agents and humans.",
+      "name": "Cosmic",
+      "slug": "cosmic-new",
+      "website": "https://www.cosmic.new/",
+      "description": "The AI platform that has everything you need to build, monetize, and deploy full-stack websites in minutes. \r\n\r\nBeautiful UIs, auth, database, payment processing, deployments, and more natively integrated in one place.",
+      "one_liner": "Build, monetize, and deploy full-stack websites in minutes",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2129,16 +2129,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "AI Assistant"
+        "Generative AI",
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731874326.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc91afadd07f2a2caade9c12e1a24853766b16b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b682e5ea520f8569ed33fc24bbbdaf361e7d7b.png"
     },
     {
       "id": 30046,
@@ -3078,5 +3079,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-21T18:01:08.178760"
+  "fetched_at": "2025-07-22T00:03:26.006785"
 }

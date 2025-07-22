@@ -3007,37 +3007,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/211741e576e95e4b60804792a946753d0b41a090.png"
     },
     {
-      "id": 25949,
-      "name": "Jamsocket",
-      "slug": "jamsocket",
-      "website": "https://jamsocket.com",
-      "description": "We are a platform for high-performance browser-based applications. We make it easier for developers to deploy apps that give every user a dedicated backend.\r\n\r\nThis is a system design that apps like Figma and GitHub codespaces use, but it's currently difficult for others to replicate it. We make it as easy as deploying a traditional web server.",
-      "one_liner": "Run compute-intensive apps in a browser",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Cloud Computing"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1643314979.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49c1f43f10b8f99493ac3006583172298d236974.png"
-    },
-    {
       "id": 25948,
       "name": "Spade",
       "slug": "spade",
@@ -12281,6 +12250,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/694d10c6d3aa9fbb123fa5718b0d58f13aba547c.png"
     },
     {
+      "id": 25949,
+      "name": "Jamsocket",
+      "slug": "jamsocket",
+      "website": "https://jamsocket.com",
+      "description": "We are a platform for high-performance browser-based applications. We make it easier for developers to deploy apps that give every user a dedicated backend.\r\n\r\nThis is a system design that apps like Figma and GitHub codespaces use, but it's currently difficult for others to replicate it. We make it as easy as deploying a traditional web server.",
+      "one_liner": "Run compute-intensive apps in a browser",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Cloud Computing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1643314979.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49c1f43f10b8f99493ac3006583172298d236974.png"
+    },
+    {
       "id": 25923,
       "name": "HOAi",
       "slug": "hoai",
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-07-21T18:01:01.092668"
+  "fetched_at": "2025-07-22T00:03:19.061843"
 }
