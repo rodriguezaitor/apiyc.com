@@ -518,6 +518,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png"
     },
     {
+      "id": 30762,
+      "name": "Kernel",
+      "slug": "kernel",
+      "website": "https://www.onkernel.com/",
+      "description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don\u2019t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud. Whether you are building a QA agent or a vertical-specific agent to automate back office processes on the internet, Kernel allows you to focus on your core product logic, rather than the infra required for agents to use the web.\r\n\r\nWe're open source, HIPAA compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework: Playwright, Puppeteer, CUA agents, Browser Use, Magnitude, and more: https://github.com/onkernel",
+      "one_liner": "High performance browsers-as-a-service for web agents & automations",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Cloud Computing",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753229701.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png"
+    },
+    {
       "id": 30761,
       "name": "Reacher",
       "slug": "reacher",
@@ -1384,6 +1420,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cd3632057a23091b73c4c26a68f56e59b7f0ba4.png"
     },
     {
+      "id": 30696,
+      "name": "GhostEye",
+      "slug": "ghosteye",
+      "website": "https://ghosteye.ai",
+      "description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\r\n\r\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
+      "one_liner": "The AI-powered human pentesting platform",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Cybersecurity",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753230986.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png"
+    },
+    {
       "id": 30695,
       "name": "Channel3",
       "slug": "channel3",
@@ -2179,6 +2248,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d37647098f0e48b82775e4aeffec72627577735.png"
     },
     {
+      "id": 30612,
+      "name": "truthsystems",
+      "slug": "truthsystems",
+      "website": "https://www.truthsystems.ai",
+      "description": "Truth Systems provides a unified compliance agent to govern the use of generative AI across a company's systems. It translates a firm's operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
+      "one_liner": "Building the unified governance layer for regulated industries",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "LegalTech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753229882.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8136f761e13642b6fed7c2f34b631be3b028652.png"
+    },
+    {
       "id": 30611,
       "name": "AgentMail",
       "slug": "agentmail",
@@ -2409,5 +2513,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-23T00:03:32.765469"
+  "fetched_at": "2025-07-23T06:01:53.921982"
 }
