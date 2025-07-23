@@ -670,8 +670,6 @@
       "tags": [
         "Artificial Intelligence",
         "Generative AI",
-        "API",
-        "Infrastructure",
         "AI"
       ],
       "stage": "Early",
@@ -2186,7 +2184,7 @@
         "Medical Devices"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1684515035.0,
@@ -2197,20 +2195,22 @@
       "name": "Roundtable",
       "slug": "roundtable",
       "website": "https://roundtable.ai",
-      "description": "Proof of Human API. Creating the invisible Turing Test for the Internet.",
-      "one_liner": "Proof-of-Human API",
+      "description": "Roundtable is building Proof of Human, an invisible API that verifies online human identity. Founded by 2 Princeton cognitive scientists, Roundtable leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
+      "one_liner": "Proof of Human - online human verification",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
-        "B2B"
+        "B2B",
+        "Security"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -7313,5 +7313,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-22T18:01:21.652838"
+  "fetched_at": "2025-07-23T00:03:26.272666"
 }

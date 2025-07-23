@@ -1337,10 +1337,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Consumer",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1981,6 +1981,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a35549672464ddd96cd4caea3ef725e10f03c19.png"
     },
     {
+      "id": 30640,
+      "name": "Monarcha",
+      "slug": "monarcha",
+      "website": "https://monarcha.ai",
+      "description": "Monarcha is an AI-powered geospatial platform that turns natural language into spatial analysis, styling, and workflows with no GIS expertise required. It connects to your data, understands context, and can runs 50+ spatial tools instantly on the map.",
+      "one_liner": "The AI GIS Platform ",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Geographic Information System",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753222195.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/034888ab143a441ea743ea81e2251a44e18362e3.png"
+    },
+    {
       "id": 30627,
       "name": "Sentinel",
       "slug": "sentinel",
@@ -2112,6 +2144,39 @@
       "is_top_company": false,
       "launched_at": 1752630869.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6a6a6deeb99cb0fdc200c141518d2d94972bd2b.png"
+    },
+    {
+      "id": 30615,
+      "name": "Lanesurf",
+      "slug": "lanesurf",
+      "website": "https://www.lanesurf.com/",
+      "description": "We help freight brokers book shipments with vetted carriers at the best price, by negotiating rates across multiple calls in parallel.\r\n",
+      "one_liner": "Voice AI for booking freight",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Logistics",
+        "Supply Chain"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753218115.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d37647098f0e48b82775e4aeffec72627577735.png"
     },
     {
       "id": 30611,
@@ -2344,5 +2409,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-22T18:01:22.853466"
+  "fetched_at": "2025-07-23T00:03:32.765469"
 }

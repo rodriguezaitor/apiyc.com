@@ -2318,7 +2318,7 @@
       "one_liner": "Documentation made for AI Agents",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -2332,10 +2332,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4621,18 +4621,14 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Enterprise Software"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1732293207.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-07-22T18:01:22.105755"
+  "fetched_at": "2025-07-23T00:03:28.609711"
 }

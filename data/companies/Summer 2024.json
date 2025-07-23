@@ -8131,8 +8131,8 @@
       "name": "Simplex",
       "slug": "simplex",
       "website": "https://simplex.sh",
-      "description": "Simplex builds developer-first web agents that companies use to integrate with legacy portals. Customers use Simplex to dispatch freight shipments, download customers\u2019 invoices, fetch websites\u2019 internal APIs, and more, often as part of a larger AI agent workflow.",
-      "one_liner": "Production-grade web agents for developers",
+      "description": "Simplex builds web agents that companies use to integrate with legacy portals. Customers use Simplex to dispatch freight shipments, download customers\u2019 invoices, fetch websites\u2019 internal APIs, and more.",
+      "one_liner": "Production-grade web agents.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -8148,10 +8148,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Robotic Process Automation",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8319,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-22T18:01:21.298619"
+  "fetched_at": "2025-07-23T00:03:24.530278"
 }
