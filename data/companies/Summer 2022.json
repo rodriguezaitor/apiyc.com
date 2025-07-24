@@ -4800,41 +4800,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4950fc8f2e99716dad617535576e4ea17c9fb623.png"
     },
     {
-      "id": 26752,
-      "name": "Delegasi",
-      "slug": "delegasi",
-      "website": "https://delegasi.co/",
-      "description": "Financial statements are definitely a hassle for business owners. Many accounting software are available, yet not everyone has the capability to operate them.\r\n\r\nAmidst this problem, Delegasi dares to provide a solution. As the first virtual financial manager in Indonesia, we assist SMB owners in putting together their financial statements and business analysis. By simply uploading receipts and bank statements, owners will receive their financial statements and business analyses with guaranteed accuracy, allowing them to make well informed financial decisions.",
-      "one_liner": "Automated accounting service for small businesses in Indonesia",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
-      "industries": [
-        "B2B",
-        "Finance and Accounting"
-      ],
-      "regions": [
-        "Indonesia",
-        "Southeast Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Bandung, West Java, Indonesia",
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1659248138.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/401f1712c75af775727056181128d235a71bb8e5.png"
-    },
-    {
       "id": 26751,
       "name": "Signatur Biosciences",
       "slug": "signatur-biosciences",
@@ -7710,6 +7675,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5e1b47cd7ecdbae56cbc14240cd9bee1aa76d22.png"
     },
     {
+      "id": 26752,
+      "name": "Delegasi",
+      "slug": "delegasi",
+      "website": "https://delegasi.co/",
+      "description": "Financial statements are definitely a hassle for business owners. Many accounting software are available, yet not everyone has the capability to operate them.\r\n\r\nAmidst this problem, Delegasi dares to provide a solution. As the first virtual financial manager in Indonesia, we assist SMB owners in putting together their financial statements and business analysis. By simply uploading receipts and bank statements, owners will receive their financial statements and business analyses with guaranteed accuracy, allowing them to make well informed financial decisions.",
+      "one_liner": "Automated accounting service for small businesses in Indonesia",
+      "batch": "Summer 2022",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "Indonesia",
+        "Southeast Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Bandung, West Java, Indonesia",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1659248138.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/401f1712c75af775727056181128d235a71bb8e5.png"
+    },
+    {
       "id": 26738,
       "name": "Integration Labs",
       "slug": "integration-labs",
@@ -8123,5 +8123,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-24T06:01:27.551678"
+  "fetched_at": "2025-07-24T12:01:32.443371"
 }

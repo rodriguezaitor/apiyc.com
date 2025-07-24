@@ -1912,6 +1912,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/146dcc3d13f9a26c2300485534fada61ffbc8c0f.png"
     },
     {
+      "id": 30661,
+      "name": "Stockline",
+      "slug": "stockline",
+      "website": "https://stockline.ai",
+      "description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
+      "one_liner": "AI-native ERP for food wholesalers",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Food",
+        "Food Tech",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753355964.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png"
+    },
+    {
       "id": 30660,
       "name": "Magnitude",
       "slug": "magnitude",
@@ -2530,9 +2564,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2608,5 +2642,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-24T06:01:33.282257"
+  "fetched_at": "2025-07-24T12:01:33.182587"
 }
