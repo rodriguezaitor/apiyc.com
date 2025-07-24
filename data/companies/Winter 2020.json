@@ -2407,7 +2407,7 @@
         "API",
         "Health & Wellness"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2684,40 +2684,6 @@
       "is_top_company": false,
       "launched_at": 1594937948.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1fc72499603c65b614fa89ee6cd64919abda54.png"
-    },
-    {
-      "id": 13273,
-      "name": "Dropbase",
-      "slug": "dropbase",
-      "website": "https://dropbase.io",
-      "description": "Dropbase is a prompt-based app builder that empowers developers to create custom back-office software fast and efficiently.\r\n\r\nWith Dropbase, you can build backend panels, order/billing dashboards, and internal\u00a0tools that can fetch data and trigger action across any database or service.\r\n\r\nKey Features:\r\n* Rapid development of backend panels, order/billing dashboards, and internal tools\r\n* Seamless data fetching and action triggering across any database or service\r\n* Intuitive prompt-based interface for streamlined app development\r\n\r\nDropbase customers are companies in support and operations-intensive industries such as financial services, telecom, logistics, and retail that want to:\r\n* Dramatically reduce software development costs\r\n* Enhance operational efficiency\r\n* Accelerate the creation of tools to empower business teams\u00a0",
-      "one_liner": "AI app builder for internal tools. Build back-office software faster\u2026",
-      "batch": "Winter 2020",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1584664576.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e161edccc732227e99414008db01b3c382b9908.png"
     },
     {
       "id": 13265,
@@ -6591,6 +6557,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f0f6120a4f5d5eec591fab3383980fccd539e54.png"
     },
     {
+      "id": 13273,
+      "name": "Dropbase",
+      "slug": "dropbase",
+      "website": "https://dropbase.io",
+      "description": "Dropbase is a prompt-based app builder that empowers developers to create custom back-office software fast and efficiently.\r\n\r\nWith Dropbase, you can build backend panels, order/billing dashboards, and internal\u00a0tools that can fetch data and trigger action across any database or service.\r\n\r\nKey Features:\r\n* Rapid development of backend panels, order/billing dashboards, and internal tools\r\n* Seamless data fetching and action triggering across any database or service\r\n* Intuitive prompt-based interface for streamlined app development\r\n\r\nDropbase customers are companies in support and operations-intensive industries such as financial services, telecom, logistics, and retail that want to:\r\n* Dramatically reduce software development costs\r\n* Enhance operational efficiency\r\n* Accelerate the creation of tools to empower business teams\u00a0",
+      "one_liner": "AI app builder for internal tools. Build back-office software faster\u2026",
+      "batch": "Winter 2020",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1584664576.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e161edccc732227e99414008db01b3c382b9908.png"
+    },
+    {
       "id": 13227,
       "name": "Welcome",
       "slug": "welcome",
@@ -7727,5 +7727,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-07-23T18:01:01.511809"
+  "fetched_at": "2025-07-24T00:03:25.839482"
 }
