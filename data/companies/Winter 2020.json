@@ -2933,7 +2933,7 @@
       "name": "QueryPie",
       "slug": "querypie",
       "website": "https://www.querypie.com",
-      "description": "QueryPie is a leading access governance platform that provides unified, Zero Trust-based security for managing and monitoring access to databases, servers, Kubernetes clusters, and internal web applications. \r\nTrusted by over 130 enterprises and fully compliant with global standards such as ISMS, PCI-DSS, and GDPR, QueryPie enables organizations to implement secure and scalable data access control. \r\nWith built-in support for AI infrastructure, QueryPie connects LLMs, AI agents, and Model Context Protocol (MCP) servers through a centralized control layer\u2014ensuring all automated workflows across SaaS tools, cloud environments, and internal systems are secure, auditable, and compliant. \r\nFeaturing native MCPs and verified integrations with tools like Slack, GitHub, and AWS, QueryPie is the enterprise-ready solution for governing AI-powered access in modern data environments.",
+      "description": "QueryPie is the enterprise-ready solution for governing AI-powered access in modern data environments. With native Model Context Protocol (MCP) support and verified integrations with tools like Slack, GitHub, and AWS, QueryPie sets a new standard for secure, centralized access governance.\r\nAs a unified access governance platform based on Zero Trust principles, QueryPie enables organizations to manage and monitor access to databases, servers, Kubernetes clusters, and internal web applications with precision and ease.\r\nTrusted by over 130 enterprises and fully compliant with global standards such as ISMS, PCI-DSS, and GDPR, QueryPie empowers organizations to build secure and scalable data access control frameworks.\r\nWith built-in support for AI infrastructure, QueryPie seamlessly connects large language models (LLMs), AI agents, and MCP servers through a centralized control layer\u2014ensuring that all automated workflows across SaaS tools, cloud environments, and internal systems remain secure, auditable, and compliant.",
       "one_liner": "QueryPie: Secure Enterprise AI Hub",
       "batch": "Winter 2020",
       "status": "Active",
@@ -2952,10 +2952,10 @@
       ],
       "locations": "San Mateo, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Compliance",
         "Security",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Growth",
       "is_hiring": false,
@@ -7727,5 +7727,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-07-24T12:01:32.497613"
+  "fetched_at": "2025-07-24T18:01:14.915279"
 }

@@ -2046,6 +2046,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a30946452aaca1a7c8b4b8fefafd9807f194243.png"
     },
     {
+      "id": 30650,
+      "name": "Imprezia",
+      "slug": "imprezia",
+      "website": "https://imprezia.ai",
+      "description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
+      "one_liner": "The World's First AI-Native Ad Network.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "B2B",
+        "Advertising",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753378295.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcf816765d47aaccb81f4306b7dcf298ccb8337e.png"
+    },
+    {
       "id": 30648,
       "name": "Janet AI",
       "slug": "tryjanet",
@@ -2083,8 +2118,8 @@
       "name": "Cyberdesk",
       "slug": "cyberdesk",
       "website": "https://www.cyberdesk.io",
-      "description": "Cyberdesk is an open source, self hostable fleet of virtual desktops. We expose a simple API to start and control hundreds of virtual desktops, perfect for building computer use agents that automate repetitive, boring desktop tasks (like data entry).\r\n\r\nUnder the hood, we handle the provisioning of the desktops, a warm pool (for fast boot up times), and sending commands. \r\n\r\nMost importantly, we are fully open source and self-hostable on any Kubernetes cluster, which makes us perfect for agent developers automating in regulated industries such as healthcare, finance, insurance, and more.",
-      "one_liner": "Self hostable fleet of virtual desktops to build computer use agents",
+      "description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \r\n\r\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+      "one_liner": "The computer use agent for automating Windows apps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2101,8 +2136,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
-        "Workflow Automation",
-        "Open Source"
+        "Workflow Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2642,5 +2676,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-24T12:01:33.182587"
+  "fetched_at": "2025-07-24T18:01:19.620960"
 }

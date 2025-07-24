@@ -2213,14 +2213,14 @@
     },
     {
       "id": 23324,
-      "name": "Leap Club",
-      "slug": "leap-club",
-      "website": "https://leapclub.in",
-      "description": "Leapclub.in is bringing farmer\u2019s markets online. With us customers can order fresh, healthy, pesticide & preservative free food from carefully vetted producers and get it delivered within 12 hours of harvesting or baking. This gives families a wide range of assortment to shop from.\r\n\r\nWe believe at Leap Club we can leverage technology to bring fresh healthy groceries and guide consumers to make choices that are good for them and the planet.",
-      "one_liner": "Curated marketplace for healthy organic groceries",
+      "name": "Swadesi Way",
+      "slug": "swadesi-way",
+      "website": "https://swadesiway.com/",
+      "description": "At Swadesi Way, we\u2019re building an organic food brand movement that connects us back to real food. A few things set us apart:\r\n\r\n1. We source exclusively from organic small farmer collectives. No traders.\r\n\r\n2. We operate with capped margins: 60% to farmers, 30% to ops, 10% for overheads, ensuring fair value distribution \r\n\r\n3. We practice radical transparency: customers know where their food comes from, how it\u2019s priced, and how much the farmer earns",
+      "one_liner": "Healthy organic food that creates a positive impact",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 9,
       "industry": "Consumer",
       "subindustry": "Consumer -> Food and Beverage",
       "industries": [
@@ -2235,14 +2235,18 @@
       ],
       "locations": "Delhi, DL, India; Remote",
       "tags": [
-        "Climate"
+        "Grocery",
+        "Consumer",
+        "Climate",
+        "E-commerce",
+        "Food"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1614660558.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/12de40c130b957b8aace28366b799c3b8c7c620a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/18ed953b65acb811cfab977dce40b00b894932f0.png"
     },
     {
       "id": 23317,
@@ -11543,5 +11547,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-07-24T12:01:32.191757"
+  "fetched_at": "2025-07-24T18:01:13.218957"
 }

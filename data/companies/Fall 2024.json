@@ -89,7 +89,7 @@
       "name": "Loombotic",
       "slug": "loombotic",
       "website": "https://www.loombotic.com",
-      "description": "Loombotic is automating wire harness manufacturing with AI and robotics, to cut down the 70% labor cost, and 6-8 week lead time, to get cheaper wire harnesses in as little as 7 days.",
+      "description": "Loombotic is automating wire harness manufacturing.",
       "one_liner": "Wire Harnesses in as little as 7 days",
       "batch": "Fall 2024",
       "status": "Active",
@@ -106,7 +106,6 @@
       ],
       "locations": "Toronto, ON, Canada",
       "tags": [
-        "Robotics",
         "Manufacturing"
       ],
       "stage": "Early",
@@ -3079,5 +3078,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-24T12:01:33.129729"
+  "fetched_at": "2025-07-24T18:01:19.149116"
 }
