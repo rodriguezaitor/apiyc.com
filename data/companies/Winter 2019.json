@@ -1708,14 +1708,14 @@
     },
     {
       "id": 12096,
-      "name": "Maple Materials (fka Saratoga Energy)",
-      "slug": "maple-materials-fka-saratoga-energy",
+      "name": "Maple Materials",
+      "slug": "maple-materials",
       "website": "http://maplematerials.com",
       "description": "Maple Materials, Inc. (Richmond, California) develops a low-cost electrolysis process to split carbon dioxide into graphite and oxygen. Due to several unique features of our production process and product, we have potential to produce battery-grade graphite anode material one-third the cost of current graphite anode materials. When powered by renewables, this process has the potential to be carbon negative.",
-      "one_liner": "We turn CO2 into graphite and oxygen.",
+      "one_liner": "We turn CO2 into battery-grade graphite and oxygen.",
       "batch": "Winter 2019",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "Industrials",
       "subindustry": "Industrials -> Climate",
       "industries": [
@@ -1728,7 +1728,7 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Richmond, CA, USA; Berkeley, CA, USA",
+      "locations": "Richmond, CA, USA",
       "tags": [
         "Advanced Materials"
       ],
@@ -6559,5 +6559,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-07-25T12:01:27.464114"
+  "fetched_at": "2025-07-25T18:01:07.571572"
 }

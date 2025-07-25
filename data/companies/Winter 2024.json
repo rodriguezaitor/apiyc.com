@@ -3794,7 +3794,7 @@
         "Automotive"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701065445.0,
@@ -4911,7 +4911,7 @@
       "name": "Decipher AI",
       "slug": "decipher-ai",
       "website": "https://getdecipher.com",
-      "description": "Decipher\u2019s AI agents watch all your user sessions \u2013 helping you identify and act on product issues and insights. \r\n\r\nLoved by fast-growing companies like Exa, Pinecone, and 11x. ",
+      "description": "Decipher\u2019s AI agents watch all your user sessions \u2013 helping you identify and act on product issues and insights. \r\n\r\nLoved by fast-growing companies like Pinecone, 11x, and Vial. ",
       "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
       "batch": "Winter 2024",
       "status": "Active",
@@ -4928,11 +4928,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Analytics",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8285,5 +8285,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-25T12:01:25.541551"
+  "fetched_at": "2025-07-25T18:01:05.054637"
 }
