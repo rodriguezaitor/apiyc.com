@@ -1220,6 +1220,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png"
     },
     {
+      "id": 30709,
+      "name": "Novaflow",
+      "slug": "novaflow",
+      "website": "https://www.novaflowapp.com/",
+      "description": "Novaflow is an AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
+      "one_liner": "Automating data analysis for life science researchers ",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Biotech",
+        "Analytics",
+        "Genomics",
+        "No-code"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753390612.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png"
+    },
+    {
       "id": 30708,
       "name": "Perseus Defense",
       "slug": "perseus-defense",
@@ -1784,6 +1818,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png"
     },
     {
+      "id": 30671,
+      "name": "AgentHub",
+      "slug": "agenthub-2",
+      "website": "https://www.agenthub.build",
+      "description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nOur RL simulation engine lets you test, trace, and evaluate agentic workflows using curated and synthetic test cases. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what\u2019s working (and what\u2019s not).\r\n\r\nBuilt by a former tech lead from Apple\u2019s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast\u2014no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
+      "one_liner": "The simulation and evaluation engine for AI agents",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Analytics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753389326.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f60bf8bb62884c58ca2344e9db1f1970348a8311.png"
+    },
+    {
       "id": 30669,
       "name": "Dash",
       "slug": "dash",
@@ -2085,7 +2151,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Big companies are drowning in Jira tickets. They get thousands of reported issues\u2014most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that\u2019s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it auto-displays all relationships, auto\u2011categorizes issues, and surfaces those that matter most.\r\n\r\nBecause the data\u2019s structured, useful questions become instantly answerable. \"What are the highest priority login bugs hitting enterprise customers running version X?\" \"What fixes would unblock the most ARR right now?\"\r\n\r\nSeveral multi\u2011billion\u2011dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.",
+      "description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly\u2014most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that\u2019s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\r\n\r\nBecause the data\u2019s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. \u201cAre we already tracking issues related to X?\u201d \u201cHow should I fix issue PROJ-123?\u201d \u201cWhat are the most critical issues related to PROJ-456 and how should I prioritize these?\u201d\r\n\r\nSeveral multi\u2011billion\u2011dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
       "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2598,16 +2664,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752639112.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5c811def0eaa720524078186acfe45c4cefc53f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b8be4ce1ebb38b874cd798499bbc2de228fc36.png"
     },
     {
       "id": 30510,
@@ -2676,5 +2742,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-24T18:01:19.620960"
+  "fetched_at": "2025-07-25T00:03:29.421219"
 }
