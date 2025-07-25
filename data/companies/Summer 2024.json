@@ -4160,7 +4160,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1715615655.0,
@@ -7430,7 +7430,7 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "Corporate transformations that fail to engage frontline employees succeed only 3% of the time (McKinsey), because companies lack visibility into individual performance -- making it impossible to optimize the customer experience.\r\n\r\nCheers changes that. Our AI-native platform leverages NFC employee badges and AI agents to transform every employee interaction into measurable data: customers tap to leave reviews, join loyalty programs, download apps, or tip, with each action instantly attributed to the employee responsible.\r\n\r\nThis unlocks the first real-time performance dataset for frontline workers. Managers gain instant insights into who drives 3x more app downloads, which shifts convert highest, and precisely where coaching delivers impact. Vivint powered by Cheers amassed 50,000+ five-star reviews in just 4 months, skyrocketing their Google rating from 2.0 to 4.9 stars.\r\n\r\nCheers empowers your frontline to be as data-driven, measurable, and optimizable as your digital channels.",
+      "description": "Cheers magnifies customer-employee interactions by streamlining review generation, loyalty sign-ups, app downloads, and tipping \u2014all of which is instantly attributed to specific employees, teams, locations, and regions.\r\n\r\nThis matters because many companies struggle to measure individual frontline performance, making it difficult to optimize customer experiences. Without buy-in from the frontline, corporate transformations fail 97% of the time (McKinsey).\r\n\r\nOur AI-native platform uses NFC employee badges and AI agents to turn customer interactions into measurable data, unlocking the first real-time performance dataset for frontline workers.\r\n\r\nManagers gain instant insights into who's successfully driving corporate initiatives, enabling them to answer questions like: \"Who's driving the most positive reviews?\", \"Which employees get the most loyalty sign-ups?\", and \"Where will coaching will deliver the most impact?\"\r\n\r\nVivint used Cheers to track and incentivize frontline sales staff for positive customer interactions. As a result, workers amassed 50,000+ five-star reviews in just 4 months, skyrocketing their Google rating from 2.0 to 4.9 stars across 400 locations.\r\n\r\nCheers empowers your frontline to be as data-driven, measurable, and optimizable as your digital channels.",
       "one_liner": "Google Analytics for frontline workers",
       "batch": "Summer 2024",
       "status": "Active",
@@ -7446,9 +7446,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Analytics",
         "Feedback",
-        "AI",
         "Reviews"
       ],
       "stage": "Early",
@@ -8319,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png"
     }
   ],
-  "fetched_at": "2025-07-25T00:03:22.340244"
+  "fetched_at": "2025-07-25T06:01:31.692511"
 }

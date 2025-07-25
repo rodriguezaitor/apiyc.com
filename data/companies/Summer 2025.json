@@ -354,7 +354,7 @@
       "name": "stagewise",
       "slug": "stagewise",
       "website": "https://stagewise.io",
-      "description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like \u201cmake it green and put it in the top right corner\u201d, and immediately seeing the result.\r\n\r\nWe are two German engineers who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we\u2019re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
+      "description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project.\r\n\r\nOur agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like \u201cmake it green and put it in the top right corner\u201d, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we\u2019re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
       "one_liner": "A frontend coding agent that lives inside your browser on localhost.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -371,9 +371,9 @@
       ],
       "locations": "Bielefeld, NRW, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -611,7 +611,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Restaurant Tech"
+        "SaaS",
+        "B2B",
+        "Restaurant Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1116,6 +1119,40 @@
       "is_top_company": false,
       "launched_at": 1751416575.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png"
+    },
+    {
+      "id": 30719,
+      "name": "April",
+      "slug": "april",
+      "website": "https://tryapril.com",
+      "description": "April is a voice powered AI assistant that manages your email and calendar hands-free - helping you reach inbox zero and stay on top of your schedule without looking at a screen.",
+      "one_liner": "Voice AI Executive Assistant",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer",
+        "Productivity",
+        "Calendar",
+        "Email",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753405058.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d3a6edb5621c81b20be14a648f9b57921bf764.png"
     },
     {
       "id": 30716,
@@ -2345,6 +2382,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a052e8aa25b2ceda1151defe0701a1c831075c57.png"
     },
     {
+      "id": 30622,
+      "name": "Symbia",
+      "slug": "symbia",
+      "website": "https://symbiauto.com",
+      "description": "We help biotech, pharma, and CROs write their clinical trial applications twice as fast\u2014fast-tracking approval and saving hundreds of hours.",
+      "one_liner": "We automate clinical trial applications",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Health Tech",
+        "B2B",
+        "Biotech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753401226.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/163bc24ed8ca28aa30e4fe248825489bc41c5d4d.png"
+    },
+    {
       "id": 30621,
       "name": "Pond",
       "slug": "pond",
@@ -2742,5 +2815,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-25T00:03:29.421219"
+  "fetched_at": "2025-07-25T06:01:33.015524"
 }
