@@ -9366,15 +9366,16 @@
       "name": "Kalam Labs",
       "slug": "kalam-labs",
       "website": "http://www.kalamlabs.in",
-      "description": "Kalam Labs is India's First Kids Space Organization. \r\nWe are creating a place where kids take part in actual ambitious space missions.\r\n\r\nThe Missions are done with India's Top Space Organizations:\r\n\r\n- Unfurling India's Flag in Space with Hrithik Roshan\r\n- Building a Stratospheric Retrieval Drone with IIT-Kanpur\r\n- Building a Navigable Balloon TIFR\r\n\r\nKids get to work on these missions at their home by our Kalam Labs-Space Kits and by playing our Kalam Labs app.",
-      "one_liner": "India's Kids Space Organization",
+      "description": "Building Stratospheric Near Space UAV Platform.\r\n\r\nUtilized by military to provide:-\r\n- Stratospheric high altitude stealth ISR\r\n- Low-cost stealth loitering kamikaze strikes\r\n- Atmospheric Meterological Data Capture and Nuclear Fallout testing\r\n\r\nSystems currently deployed at Indo-China LoC to help out the free-world's military.",
+      "one_liner": "Stratospheric Aerial Robotics Lab",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 10,
-      "industry": "Consumer",
+      "industry": "Industrials",
       "subindustry": "Consumer",
       "industries": [
-        "Consumer"
+        "Industrials",
+        "Drones"
       ],
       "regions": [
         "India",
@@ -9382,9 +9383,9 @@
       ],
       "locations": "India",
       "tags": [
-        "Artificial Intelligence",
-        "Education",
-        "Generative AI"
+        "Drones",
+        "Aerospace",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13428,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-07-26T12:01:25.405345"
+  "fetched_at": "2025-07-26T18:01:15.174845"
 }
