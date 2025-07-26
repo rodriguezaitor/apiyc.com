@@ -933,30 +933,34 @@
     },
     {
       "id": 30096,
-      "name": "Scrapybara",
-      "slug": "scrapybara",
-      "website": "https://scrapybara.com",
-      "description": "Scrapybara hosts remote desktop instances for computer use agents like CUA and Claude Computer Use. With our unified API, developers can write one line of code to execute agents with any model and access low-level controls like the browser, filesystem, and code sandboxes. We handle autoscaling, auth, and system environments so anyone can deploy fleets of agents to production and automate any free-form computing task at scale.",
-      "one_liner": "Virtual Desktops for AI Agents",
+      "name": "Scout",
+      "slug": "scout-new",
+      "website": "https://scout.new",
+      "description": "Scout is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
+      "one_liner": "AI Software Engineer",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730261485.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9ad486292e2ee10cb4cccf0d676cfb2e2ac571f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a02216c7c53484d3ad973ad32b59b2140a197d7e.png"
     },
     {
       "id": 30095,
@@ -3079,5 +3083,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-25T18:01:12.072764"
+  "fetched_at": "2025-07-26T00:03:19.641103"
 }
