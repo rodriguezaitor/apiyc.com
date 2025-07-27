@@ -1488,7 +1488,7 @@
       "name": "Stewdio",
       "slug": "stewdio",
       "website": "https://www.stewdio.ai",
-      "description": "",
+      "description": "Stewdio is a collaborative platform for creative teams to use all the latest image + video generation models in one place. Music video directors, ad agencies, and architects use Stewdio to create everything from rap videos for Quavo and Loco, advertising storyboards, to architectural renderings.",
       "one_liner": "All-in-one AI creative platform",
       "batch": "Fall 2024",
       "status": "Active",
@@ -1499,15 +1499,16 @@
         "Consumer"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Design",
         "Design Tools",
         "Video",
-        "Advertising"
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3083,5 +3084,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-27T12:01:32.800666"
+  "fetched_at": "2025-07-27T18:01:19.671219"
 }
