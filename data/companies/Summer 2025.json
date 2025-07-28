@@ -762,7 +762,7 @@
       "name": "Convexia",
       "slug": "convexia",
       "website": "https://convexia.bio",
-      "description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silica.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
+      "description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
       "one_liner": "The world's first AI-maximalist pharma company",
       "batch": "Summer 2025",
       "status": "Active",
@@ -780,8 +780,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-powered Drug Discovery",
-        "Artificial Intelligence",
-        "Biotech"
+        "Biotech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2117,6 +2117,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png"
     },
     {
+      "id": 30656,
+      "name": "DeepGrove",
+      "slug": "deepgrove",
+      "website": "",
+      "description": "Developing the next suite of 1-bit foundation models that can run on edge devices.",
+      "one_liner": "Frontier Intelligence. On Any Device.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Deep Learning",
+        "Edge Computing Semiconductors",
+        "IoT",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753646840.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7fe0614c6ae0025bdee703043846f9c1a5b0367.png"
+    },
+    {
       "id": 30653,
       "name": "Skope",
       "slug": "skope",
@@ -2916,5 +2949,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-27T18:01:19.924244"
+  "fetched_at": "2025-07-28T00:03:26.612370"
 }
