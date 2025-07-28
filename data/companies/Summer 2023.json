@@ -3341,8 +3341,8 @@
       "name": "Empirical Health",
       "slug": "empirical-health",
       "website": "https://empirical.health",
-      "description": "Empirical Health is proactive primary care. We use AI to triage healthcare resources to efficiently manage chronic illness and succeed in value-based care payment models. We're licensed, registered, and insured to deliver real medical care in 8 US states.",
-      "one_liner": "Proactive primary care, scaled with AI",
+      "description": "The best way to measure, predict, and prevent heart disease. Heart disease kills more people than all cancers combined, but is 90% preventable. Licensed, registered, and insured to deliver real medical care in 30+ US states.",
+      "one_liner": "Don't die of a heart attack",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 4,
@@ -3354,15 +3354,13 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Telehealth",
         "Healthcare",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -7313,5 +7311,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-28T00:03:21.046776"
+  "fetched_at": "2025-07-28T06:02:02.443393"
 }

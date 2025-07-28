@@ -115,17 +115,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Open Source",
-        "Cloud Computing"
+        "Cloud Computing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752295982.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea5712b0999a90a5be78dda48232d17ccfea44f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d9c818fe88489dd24e5032f7a25a97571050869.png"
     },
     {
       "id": 30796,
@@ -1122,6 +1122,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e2ca9bf4442a297067557ded4df426f78a01f37.png"
     },
     {
+      "id": 30722,
+      "name": "Omnara",
+      "slug": "omnara",
+      "website": "https://omnara.com",
+      "description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\r\n\r\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, n8n workflows, or custom builds.",
+      "one_liner": "The command center for your AI agents",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753676392.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/517120504bbe6167aa6c03b7d54e211b8e74e3db.png"
+    },
+    {
       "id": 30720,
       "name": "Autosana",
       "slug": "autosana",
@@ -1723,7 +1755,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Embedder is building developer tools for embedded software.",
+      "description": "Embedder is building the first hardware-aware coding agent.",
       "one_liner": "Cursor for Embedded",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2154,8 +2186,8 @@
       "name": "Skope",
       "slug": "skope",
       "website": "https://useskope.com",
-      "description": "",
-      "one_liner": "",
+      "description": "We\u2019re taking a new approach to the legacy billing system, for AI-native companies. On top of normal pricing models, Skope allows companies to create a new stream of revenue by capturing a portion of the value their agents create through \u201coutcome-based pricing\".",
+      "one_liner": "A modern billing system for AI-native companies.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2178,7 +2210,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1750879126.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d598c9ae6f0adaf363dce2801fe32db30733e9bd.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/82d2f489e4b14f2238a1be7f3e96f4c6e21b78a6.png"
     },
     {
       "id": 30651,
@@ -2949,5 +2981,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-28T00:03:26.612370"
+  "fetched_at": "2025-07-28T06:02:08.032162"
 }
