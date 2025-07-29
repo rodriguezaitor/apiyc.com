@@ -289,6 +289,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png"
     },
     {
+      "id": 30779,
+      "name": "Anytrace",
+      "slug": "anytrace",
+      "website": "http://anytrace.ai/",
+      "description": "Anytrace is the first AI agent that automates the end-to-end workflow of a support engineer. Our agent resolves technical support tickets by interacting with customers, investigating root causes, and tracking issues to completion.\r\n\r\nSam and Taira have been friends for the last six years after meeting at UC Berkeley. We have over five years of experience handling complex support tickets for customers ranging from small startups to Fortune 500 companies like Salesforce.\r\n\r\nWe came into YC with just an idea, and we already have our first pilot customer paying $5 per support ticket.\r\n\r\nEssentially every B2B software company devotes engineering time to support, and our goal is to automate this away.",
+      "one_liner": "The AI support engineering agent",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Workflow Automation",
+        "Customer Support"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753758221.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc19730e88c6efd02f5d493a5a665dad188e2188.png"
+    },
+    {
       "id": 30778,
       "name": "Perspectives Health",
       "slug": "perspectives-health",
@@ -1594,6 +1627,36 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png"
     },
     {
+      "id": 30704,
+      "name": "Albacore Inc.",
+      "slug": "albacore-inc",
+      "website": "https://www.albacore.inc",
+      "description": "Albacore is building 8ft-long autonomous submarines to deter maritime invasions. They can be launched from land in minutes and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
+      "one_liner": "Autonomous undersea vehicles to deter maritime invasions.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Government",
+      "subindustry": "Industrials -> Drones",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Drones",
+        "Maritime"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753760756.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/136331286874ea99fbd7e2a7b2acfee659b0c7bf.png"
+    },
+    {
       "id": 30703,
       "name": "Riff",
       "slug": "riff",
@@ -2233,16 +2296,15 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Food",
         "Food Tech",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2876,10 +2938,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "API",
-        "Email"
+        "Email",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2953,6 +3015,36 @@
       "is_top_company": false,
       "launched_at": 1750270235.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png"
+    },
+    {
+      "id": 30608,
+      "name": "MangoDesk",
+      "slug": "mangodesk",
+      "website": "https://www.mangodesk.com/",
+      "description": "We\u2019re an end-to-end AI platform to source, screen, and manage domain experts to evaluate and improve AI models with high-quality data. \r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Finding the right experts and creating this data reliably is a complex operational challenge. We solve this end-to-end. Our customers are foundation model labs and application layer AI companies. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
+      "one_liner": "We improve AI models by sourcing domain experts for data and evals.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753752561.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f75fbb2513c3b5ef3e67a4b3c47ce3995f896b.png"
     },
     {
       "id": 30606,
@@ -3152,5 +3244,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-29T00:03:42.936957"
+  "fetched_at": "2025-07-29T06:01:48.609078"
 }

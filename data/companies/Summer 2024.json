@@ -2822,8 +2822,8 @@
       "name": "Simple AI",
       "slug": "simple-ai",
       "website": "https://www.usesimple.ai",
-      "description": "Simple AI makes it easy for businesses to build hyper-realistic AI phone agents. Businesses use us for customer support, leads qualification, and more.",
-      "one_liner": "AI Phone Agents",
+      "description": "Simple AI makes it easy to build and deploy enterprise-grade phone agents in days, not weeks. Iconic businesses use us for sales calls, customer support, leads qualification, and more.",
+      "one_liner": "AI phone agents for enterprise",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -2850,7 +2850,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723575608.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c50573b45d659501dae827b978a7b3ed03ea460.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc2c60d479b7ebde0f22e07c40db2956ad5ff6c.png"
     },
     {
       "id": 29784,
@@ -6374,19 +6374,19 @@
     },
     {
       "id": 29654,
-      "name": "Moonglow",
-      "slug": "moonglow",
-      "website": "https://moonglow.ai",
-      "description": "https://moonglow.ai",
-      "one_liner": "",
+      "name": "Stardrift",
+      "slug": "stardrift",
+      "website": "https://stardrift.ai",
+      "description": "Stardrift is your AI Travel Agent, helping you plan and book complex itineraries. Users use us to find the flights that work for their schedules and needs.",
+      "one_liner": "Your AI Travel Agent",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
+      "team_size": 1,
+      "industry": "Consumer",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "Consumer",
+        "Travel, Leisure and Tourism"
       ],
       "regions": [
         "United States of America",
@@ -6394,10 +6394,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "Machine Learning",
-        "Robotic Process Automation",
-        "Infrastructure",
+        "Consumer",
+        "Travel",
         "AI"
       ],
       "stage": "Early",
@@ -6405,7 +6403,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721868567.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c29a51fe4495bb246b4aafa097f950601ff7e364.png"
     },
     {
       "id": 29653,
@@ -7412,14 +7410,14 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "Open Source",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716511817.0,
@@ -8319,5 +8317,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-07-29T00:03:37.482538"
+  "fetched_at": "2025-07-29T06:01:42.052129"
 }
