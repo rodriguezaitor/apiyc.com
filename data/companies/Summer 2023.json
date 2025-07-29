@@ -3797,11 +3797,11 @@
     },
     {
       "id": 28894,
-      "name": "Lysto",
-      "slug": "lysto",
-      "website": "https://lysto.ai",
-      "description": "Lysto is an AI CRM that updates itself by pulling and structuring data from emails, messages, calls, and product analytics. With this context, Lysto helps you know what to do next, and generate the content you need to engage customers with full context.",
-      "one_liner": "AI CRM that updates itself",
+      "name": "Airfront",
+      "slug": "airfront-ai",
+      "website": "https://airfront.ai/",
+      "description": "Airfront is a 24/7 AI receptionist that answers every call, qualifies the caller, and books appointments. It syncs notes and scheduling to your existing systems so you never lose a lead after hours or on busy days.",
+      "one_liner": "AI receptionist for busy service teams.",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -3817,18 +3817,14 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Customer Success",
-        "Sales",
-        "CRM",
-        "Automation"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725912013.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9b75a90e086561266bc01eba100df62d8f9b324.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b86e87191ef1a7382782422ec34bd133d964ea0.png"
     },
     {
       "id": 28893,
@@ -4961,11 +4957,11 @@
     },
     {
       "id": 28841,
-      "name": "Ponder",
-      "slug": "ponder",
-      "website": "https://useponder.ai",
-      "description": "Ponder lets developers deploy and use SOTA text to speech models that scale up and down automatically with no restrictions to concurrency or throughput.\r\n\r\nModels on Ponder support both input and output streaming for realtime applications, maintaining TTFB (audio) in the 10s of milliseconds.",
-      "one_liner": "Inference for Realtime Voice AI",
+      "name": "SuperCraft",
+      "slug": "supercraft",
+      "website": "https://supercraft.ai",
+      "description": "SuperCraft lets teams design physical products with natural language",
+      "one_liner": "Figma for designing physical products",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -4980,18 +4976,18 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cloud Computing",
-        "Infrastructure",
-        "Conversational AI"
+        "Productivity",
+        "Design",
+        "3D Printing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688534176.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/caf3f0ccabd97dc716cb79ccd3b9004daa1db779.png"
     },
     {
       "id": 28839,
@@ -7311,5 +7307,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-29T12:01:38.669405"
+  "fetched_at": "2025-07-29T18:01:17.867734"
 }
