@@ -2281,6 +2281,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/146dcc3d13f9a26c2300485534fada61ffbc8c0f.png"
     },
     {
+      "id": 30662,
+      "name": "DeepAware AI",
+      "slug": "deepaware-ai",
+      "website": "https://deepawareai.com/",
+      "description": "DeepAware builds an AI-driven automation system for GPU-intensive data centers. Our reinforcement-learning scheduler, real-time market integration, and unified dashboard slice energy waste by up to 30%. Coming soon: autonomous \u201crobot-hand\u201d inspections and maintenance to enable 24/7 operations with minimal staff.",
+      "one_liner": "Make AI data centers more efficient.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Enterprise"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753029704.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f361055ad23340a67d324b48d58339307211fb.png"
+    },
+    {
       "id": 30661,
       "name": "Stockline",
       "slug": "stockline",
@@ -3244,5 +3275,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-29T06:01:48.609078"
+  "fetched_at": "2025-07-29T12:01:43.779596"
 }
