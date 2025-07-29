@@ -128,6 +128,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d9c818fe88489dd24e5032f7a25a97571050869.png"
     },
     {
+      "id": 30797,
+      "name": "Veritus Agent",
+      "slug": "veritus-agent",
+      "website": "http://veritusagent.ai",
+      "description": "Veritus is a platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nWe license our platform to lenders and collections agencies, and we're also in the process of getting licensed in all 50 states to enable our own third-party collections and debt buying. By combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+      "one_liner": "AI agents for loan servicing and collections",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Credit and Lending",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753735109.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b301b9f0345d2f7e32e073734be71f290ed3ea40.png"
+    },
+    {
       "id": 30796,
       "name": "Outrove",
       "slug": "outrove",
@@ -1190,6 +1225,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e2ca9bf4442a297067557ded4df426f78a01f37.png"
     },
     {
+      "id": 30724,
+      "name": "Risely AI",
+      "slug": "risely-ai",
+      "website": "https://www.risely.ai/",
+      "description": "Risely is building an agentic AI operating system for higher ed that automates university administrative tasks like processing student records, managing advising requests, handling enrollment, and verifying graduation eligibility. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution\u2019s unique workflows, and deploys specialized AI digital workers. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.\r\n\r\nThis hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.\r\n\r\nSadia previously built Salesforce\u2019s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.\r\n\r\nDanial was one of DoorDash\u2019s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. \r\n\r\nShahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He\u2019s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He\u2019s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.\r\n\r\nWe launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.\r\n\r\nWith unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
+      "one_liner": "AI teammates that automate university admin tasks across campus",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 9,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Ramon, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Education",
+        "SaaS",
+        "B2B",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753739140.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png"
+    },
+    {
       "id": 30722,
       "name": "Omnara",
       "slug": "omnara",
@@ -1993,7 +2062,7 @@
       "name": "AgentHub",
       "slug": "agenthub-2",
       "website": "https://www.agenthub.build",
-      "description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nOur RL simulation engine lets you test, trace, and evaluate agentic workflows using curated and synthetic test cases. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what\u2019s working (and what\u2019s not).\r\n\r\nBuilt by a former tech lead from Apple\u2019s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast\u2014no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
+      "description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what\u2019s working (and what\u2019s not).\r\n\r\nBuilt by a former tech lead from Apple\u2019s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast\u2014no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
       "one_liner": "The simulation and evaluation engine for AI agents",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2009,9 +2078,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2388,8 +2457,8 @@
       "name": "Cyberdesk",
       "slug": "cyberdesk",
       "website": "https://www.cyberdesk.io",
-      "description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \r\n\r\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
-      "one_liner": "The computer use agent for automating Windows apps",
+      "description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. \r\n\r\nWe've designed our agent to follow memorized steps reliably, while falling back to computer use models during unexpected popups. Customers in healthcare, finance, and more are using our agent to automate EHRs, accounting apps, and other legacy apps.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+      "one_liner": "The computer use agent for developers to automate Windows apps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2397,7 +2466,7 @@
       "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
-        "Infrastructure"
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -2405,6 +2474,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Workflow Automation"
       ],
@@ -2950,6 +3020,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     },
     {
+      "id": 30582,
+      "name": "Pingo AI",
+      "slug": "pingo-ai",
+      "website": "https://mypingoai.com",
+      "description": "Pingo AI is an AI language learning app helping users build fluency through speaking. Pingo immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo \u2014 a companion who understands your goals, remembers your progress, and keeps you motivated.",
+      "one_liner": "AI companion that helps you learn languages",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Education",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753741789.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c01715a01a6f73433d324a587d34bafc2adf824.png"
+    },
+    {
       "id": 30520,
       "name": "Synthetic Society",
       "slug": "synthetic-society",
@@ -3049,5 +3152,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
     }
   ],
-  "fetched_at": "2025-07-28T18:01:31.673295"
+  "fetched_at": "2025-07-29T00:03:42.936957"
 }

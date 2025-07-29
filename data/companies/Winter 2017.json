@@ -1495,9 +1495,9 @@
       "id": 1468,
       "name": "Nuvola",
       "slug": "nuvola",
-      "website": "http://www.millibatt.com",
-      "description": "Millibatt makes high power rechargeable coin batteries for fast growing products such as trackers, earbuds, and health monitors. Millibatt\u2019s coin battery is safe, provides reliable wireless connectivity with high power capabilities and is easily integrated into device assembly.\r\n\r\nMillibatt helps hardware product designers choose best battery for their design by providing wide range of custom batteries with minimum order quantity as low as 10 batteries in less than 6 weeks. With Millibatt\u2019s fast turnaround custom batteries, product designers can quickly iterate multiple designs for the best product outcome.",
-      "one_liner": "10x power coin batteries for reliable connectivity on IoT trackers",
+      "website": "http://nuvola.tech",
+      "description": "At Nuvola, we're commercializing SafeCoat, a spray-on separator that is directly deposited onto electrodes, removing the need for conventional separator films and the massive infrastructure to build them.\r\n\r\nSafeCoat has been piloted with top-tier battery and automotive manufacturers and is ready for commercial deployment. Industry leaders are drawn to its impact: it reduces fire risk by 99%, cuts manufacturing scrap by 70%, and saves $350M per 40GWh factory. Our capital-light model requires just $8M in CAPEX to reach profitability in 2027.",
+      "one_liner": "Nuvola is transforming battery manufacturing, making EV batteries\u2026",
       "batch": "Winter 2017",
       "status": "Active",
       "team_size": 4,
@@ -1505,16 +1505,17 @@
       "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
         "Industrials",
-        "Manufacturing and Robotics"
+        "Energy"
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "Los Angeles, CA, USA",
       "tags": [
         "Alternative Battery Tech",
-        "Medical Devices",
         "Climate"
       ],
       "stage": "Early",
@@ -1522,7 +1523,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1478194835.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/83cd6763e8e4e12dfd7d3c6afe266646d1710960.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a69a38d3f5dd1a9919eee8cbd6aa2fcb4dc31a4c.png"
     },
     {
       "id": 1464,
@@ -3872,5 +3873,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-07-28T18:01:30.298593"
+  "fetched_at": "2025-07-29T00:03:41.547752"
 }
