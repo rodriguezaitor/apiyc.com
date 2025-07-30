@@ -3796,6 +3796,36 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2a1e40bf12e61df1ea8d4d6a4f8b7691ac3982f.png"
     },
     {
+      "id": 28899,
+      "name": "maintouch",
+      "slug": "maintouch",
+      "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
+      "description": "AI tools + human experts that put organic marketing on autopilot.\r\nSEO, GEO, LinkedIn, X, Video, Newsletters, and Case Studies done for you.",
+      "one_liner": "Full-stack organic marketing for B2B.",
+      "batch": "Summer 2023",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketing"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1690571664.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png"
+    },
+    {
       "id": 28894,
       "name": "Airfront",
       "slug": "airfront-ai",
@@ -7307,5 +7337,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-30T12:01:39.894144"
+  "fetched_at": "2025-07-30T18:01:32.536372"
 }
