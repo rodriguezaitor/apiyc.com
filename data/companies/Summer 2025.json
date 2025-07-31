@@ -2883,11 +2883,11 @@
     },
     {
       "id": 30637,
-      "name": "Arcada",
-      "slug": "arcada",
-      "website": "https://www.arcada.dev/",
+      "name": "Design Arena",
+      "slug": "design-arena",
+      "website": "https://www.designarena.ai/",
       "description": "",
-      "one_liner": "Largest crowdsourced benchmark for AI-generated design",
+      "one_liner": "World's largest crowdsourced benchmark for AI-generated design",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2946,6 +2946,38 @@
       "is_top_company": false,
       "launched_at": 1752879716.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a052e8aa25b2ceda1151defe0701a1c831075c57.png"
+    },
+    {
+      "id": 30626,
+      "name": "ContextFort",
+      "slug": "contextfort",
+      "website": "https://contextfort.ai/",
+      "description": "ContextFort is bringing the power of AI to the three trillion dollar construction industry, starting with an AI co-pilot that reviews every revision of your architectural and structural drawings in minutes\u2014not weeks.\r\n\r\nOur Software:\r\n\u2022 Detects missing or conflicting dimensions across sheets\r\n\u2022 Highlights overlay mismatches between versions\r\n\u2022 Checks if an issue is already resolved in the latest set\r\n\u2022 Auto-drafts spec-compliant RFIs so you hit \u201csend,\u201d not \u201ctype\u201d\r\n\r\nContractors save 2-3 weeks per project, cut costly rework, and keep schedules on track.",
+      "one_liner": "Automating drawing reviews for construction contractors",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Real Estate and Construction",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Construction",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753951898.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/55ebca1865c9d530bfb4cbbb0758af64ea680a1e.png"
     },
     {
       "id": 30624,
@@ -3611,5 +3643,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png"
     }
   ],
-  "fetched_at": "2025-07-31T06:01:33.450244"
+  "fetched_at": "2025-07-31T12:01:47.859482"
 }
