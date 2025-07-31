@@ -1697,7 +1697,7 @@
       "name": "Albacore Inc.",
       "slug": "albacore-inc",
       "website": "https://www.albacore.inc",
-      "description": "Albacore is building 8ft-long autonomous submarines to deter maritime invasions. They can be launched from land in minutes and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
+      "description": "Albacore is building 6ft-long autonomous submarines to deter maritime invasions. They can be launched from land in minutes and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
       "one_liner": "Autonomous undersea vehicles to deter maritime invasions.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2175,18 +2175,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752533752.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/625472a8e9d0ac1ef69518108579e249e52ac811.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dea1f04b2d250b7dd6948c616c2684171b7258c.png"
     },
     {
       "id": 30675,
@@ -3414,6 +3414,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     },
     {
+      "id": 30601,
+      "name": "Planisphere",
+      "slug": "planisphere",
+      "website": "https://planisphere.ai/",
+      "description": "Planisphere connects to commercial real estate analyst's inbox and helps them find the 10 deals they are interested from the 500 they receive daily.\r\n\r\nWe replace analysts paid hundreds of thousands of dollars. Turner was one of these and noticed AI was perfect for this job. We are selling this to his old boss and are working with a handful of firms to deploy our product ",
+      "one_liner": "The first AI-native acquisitions platform that automates deal\u2026",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Documents",
+        "Artificial Intelligence",
+        "Real Estate",
+        "Proptech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753921674.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1740f66a5d0a194c6ce6dfe34c3c9efd5414a101.png"
+    },
+    {
       "id": 30582,
       "name": "Pingo AI",
       "slug": "pingo-ai",
@@ -3550,7 +3583,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe act as a telemetry system for your customer relationships, synthesizing critical signals from your messy data to generate a dynamic digital model of every account. Ambral then delivers proactive directives on who needs attention, why, and the exact actions needed to expand an account, prevent churn, or create a new customer champion. \r\n\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI/ML Product at Everlywell and early PM at Wonder (now valued at $7bn). He lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. ",
+      "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe act as a telemetry system for your customer relationships, synthesizing critical signals from your messy data to generate a dynamic digital model of every customer. Ambral then delivers proactive directives on who needs attention, why, and the exact actions needed to expand an account, prevent churn, or create a new customer champion. \r\n\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI/ML Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. ",
       "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3566,17 +3599,17 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753910833.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a10083a0d67acfb4eebcc595079fc61c87d34a03.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png"
     }
   ],
-  "fetched_at": "2025-07-31T00:03:26.742639"
+  "fetched_at": "2025-07-31T06:01:33.450244"
 }
