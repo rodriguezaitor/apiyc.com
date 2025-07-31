@@ -4627,33 +4627,32 @@
       "name": "Datrics",
       "slug": "datrics",
       "website": "https://datrics.ai",
-      "description": "Datrics.ai transforms enterprise sales and finance operations with an AI-powered digital coworker, streamlining complex analyses into simple conversations. Imagine a bank CFO querying, 'How did our loan performance this quarter compare to the last?' and instantly receiving detailed, visual analyses directly via MS Teams chat. This revolutionizes tasks that were once time-consuming and complex.\r\n\r\nOur vision is to cultivate a vast ecosystem of digital coworkers, enabling businesses to harness the power of data-driven decisions effortlessly.\r\n\r\nAt the core of Datrics lies our unique low-code data workflow automation platform, designed to simplify data handling for digital analysts. This platform empowers analytics teams to dive into data exploration and blending, uncover insights, and create automated workflows and dashboards for sharing insights \u2014 all without the need for coding.\r\n\r\n\r\n\r\n",
-      "one_liner": "A tool to create AI-powered \ud83e\udd16 digital coworkers for BI and analytics.",
+      "description": "Datrics HCP streamlines healthcare insurance claims with advanced AI technology,\r\nimproving accuracy, reducing processing time, and eliminating costly errors.",
+      "one_liner": "Generative AI Healthcare Coding Automation",
       "batch": "Winter 2021",
       "status": "Active",
       "team_size": 22,
-      "industry": "B2B",
+      "industry": "Healthcare",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Analytics"
+        "Healthcare"
       ],
       "regions": [
         "United States of America",
         "America / Canada",
         "Remote",
-        "Partly Remote"
+        "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Finance",
         "B2B",
         "Analytics",
-        "No-code",
+        "Healthcare",
+        "Health Insurance",
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1611469416.0,
@@ -11543,5 +11542,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-07-31T12:01:42.450911"
+  "fetched_at": "2025-07-31T18:01:27.094416"
 }

@@ -326,7 +326,7 @@
       "name": "Anytrace",
       "slug": "anytrace",
       "website": "http://anytrace.ai/",
-      "description": "Anytrace is the first AI agent that automates the end-to-end workflow of a support engineer. Our agent resolves technical support tickets by interacting with customers, investigating root causes, and tracking issues to completion.\r\n\r\nSam and Taira have been friends for the last six years after meeting at UC Berkeley. We have over five years of experience handling complex support tickets for customers ranging from small startups to Fortune 500 companies like Salesforce.\r\n\r\nWe came into YC with just an idea, and we already have our first pilot customer paying $5 per support ticket.\r\n\r\nEssentially every B2B software company devotes engineering time to support, and our goal is to automate this away.",
+      "description": "Anytrace is the first AI agent that automates the end-to-end workflow of a support engineer. Our agent resolves technical support tickets by interacting with customers, investigating root causes, and tracking issues to completion.\r\n\r\nSam (CEO) was previously the co-founder and CEO of a DevOps platform that raised\u202f$2M. Taira (CTO) was the youngest SDE 2 at AWS Sagemaker Inference. We have over five years of experience handling technical support for customers ranging from small startups to Fortune 500 companies like Salesforce.\r\n\r\nWe came into YC with just an idea, and we already have our first pilot customer paying $5 per support ticket.\r\n\r\nEssentially every B2B software company devotes engineering time to support, and our goal is to automate this away.",
       "one_liner": "The AI support engineering agent",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3483,7 +3483,7 @@
       "name": "Pingo AI",
       "slug": "pingo-ai",
       "website": "https://mypingoai.com",
-      "description": "Pingo AI is an AI language learning app helping users build fluency through speaking. Pingo immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo \u2014 a companion who understands your goals, remembers your progress, and keeps you motivated.",
+      "description": "Pingo AI is an AI language learning app that helps users build fluency through speaking. It immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo \u2014 a companion who understands your goals, remembers your progress, and keeps you motivated.",
       "one_liner": "AI companion that helps you learn languages",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3501,8 +3501,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Education",
-        "AI"
+        "Artificial Intelligence",
+        "Education"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3615,7 +3615,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe act as a telemetry system for your customer relationships, synthesizing critical signals from your messy data to generate a dynamic digital model of every customer. Ambral then delivers proactive directives on who needs attention, why, and the exact actions needed to expand an account, prevent churn, or create a new customer champion. \r\n\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI/ML Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. ",
+      "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe act as a telemetry system for your customer relationships, synthesizing critical signals from your messy data to generate a dynamic AI model of every account. We then deliver proactive directives on who needs attention, why, and recommend (or autonomously take) the exact next action needed to expand an account, prevent churn, or create a new customer champion. \r\n\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI/ML Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. ",
       "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3631,9 +3631,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3643,5 +3643,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png"
     }
   ],
-  "fetched_at": "2025-07-31T12:01:47.859482"
+  "fetched_at": "2025-07-31T18:01:32.343055"
 }

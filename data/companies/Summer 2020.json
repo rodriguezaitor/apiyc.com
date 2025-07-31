@@ -5156,6 +5156,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9315542ed06d8a722e5739c5365aceb689b1d937.png"
     },
     {
+      "id": 21906,
+      "name": "webapp.io",
+      "slug": "webapp-io",
+      "website": "https://webapp.io",
+      "description": "Webapp.io's custom hypervisor makes webapp CI/CD, E2E testing, and preview environments as simple as writing a Dockerfile.\r\n\r\nIf your team is building a webapp + using github/gitlab/bitbucket, please reach out!",
+      "one_liner": "Build webapps faster with 10x better CI/CD + preview envs",
+      "batch": "Summer 2020",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Toronto, ON, Canada; Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1597858027.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/31c19d6a46df0610402b7fe27d52dc80c7cf4893.png"
+    },
+    {
       "id": 21901,
       "name": "Workbase",
       "slug": "workbase",
@@ -6493,41 +6528,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdac7458407c2472b87de3194ad1154d76a70387.png"
     },
     {
-      "id": 21906,
-      "name": "webapp.io",
-      "slug": "webapp-io",
-      "website": "https://webapp.io",
-      "description": "Webapp.io's custom hypervisor makes webapp CI/CD, E2E testing, and preview environments as simple as writing a Dockerfile.\r\n\r\nIf your team is building a webapp + using github/gitlab/bitbucket, please reach out!",
-      "one_liner": "Build webapps faster with 10x better CI/CD + preview envs",
-      "batch": "Summer 2020",
-      "status": "Inactive",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Toronto, ON, Canada; Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1597858027.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/31c19d6a46df0610402b7fe27d52dc80c7cf4893.png"
-    },
-    {
       "id": 21899,
       "name": "ClearMix",
       "slug": "clearmix",
@@ -7134,5 +7134,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-07-31T12:01:44.756588"
+  "fetched_at": "2025-07-31T18:01:29.394735"
 }
