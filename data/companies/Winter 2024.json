@@ -3160,7 +3160,7 @@
         "Investments"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1711348390.0,
@@ -3366,7 +3366,7 @@
       "one_liner": "AI-native investment bank for small businesses",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3378,10 +3378,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "SMB",
-        "AI"
+        "SMB"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8285,5 +8285,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-07-30T18:01:30.856526"
+  "fetched_at": "2025-07-31T00:03:20.368511"
 }

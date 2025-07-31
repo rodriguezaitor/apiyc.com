@@ -1024,6 +1024,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png"
     },
     {
+      "id": 30739,
+      "name": "Eden",
+      "slug": "tryeden",
+      "website": "https://tryeden.ai",
+      "description": "Eden allows e-commerce brands to use customer data effectively when running campaigns. We help marketing teams understand their customers' stories by using data from their store, sales, support tickets, and marketing channels to turn hesitant browsers into customers who buy.\r\n\r\nAlex and Jason met at TJHSST where they became nationally ranked debate partners and eventually coworkers at Datadog. Alex led operations at Phia, scaling to 100+ brand affiliate partners. Jason led retargeting ads at Reddit and previously sold an AI recruiting startup.\r\n\r\nExisting marketing data sits in silos, underutilized. AI enables marketers to unlock a treasure trove of data to create more effective campaigns in a fraction of the time. We will make every marketing department data-driven.",
+      "one_liner": "We turn customer and brand data into campaigns that convert",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "E-commerce",
+        "Marketing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753907556.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e2b6f5015b57999fb093d978cb158f3dd21666f.png"
+    },
+    {
       "id": 30738,
       "name": "Altur",
       "slug": "altur",
@@ -1989,7 +2022,7 @@
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
       "description": "Embedder is building the first hardware-aware coding agent.",
-      "one_liner": "Cursor for Embedded",
+      "one_liner": "Agentic Coding for Embedded",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3016,6 +3049,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b509b40e2c3c32e42ebe7d8742a534de91515647.png"
     },
     {
+      "id": 30619,
+      "name": "Shor",
+      "slug": "shor",
+      "website": "https://www.tryshor.com",
+      "description": "Shor is using AI Agents and Stablecoins to create the fastest, most affordable global Employer of Record (EOR), payroll, and cross-border payments platform, designed specifically for high-growth remote companies ",
+      "one_liner": "Affordable, Simple, Fast Payroll for Global Remote Teams",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "B2B",
+        "HR Tech",
+        "Payroll",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753916245.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4831b44f5c4fb81b23bc71603346f936a8519a8.png"
+    },
+    {
       "id": 30618,
       "name": "Golpo",
       "slug": "golpo",
@@ -3476,7 +3544,39 @@
       "is_top_company": false,
       "launched_at": 1752219403.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
+    },
+    {
+      "id": 30362,
+      "name": "Ambral",
+      "slug": "ambral",
+      "website": "https://www.ambral.com/",
+      "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe act as a telemetry system for your customer relationships, synthesizing critical signals from your messy data to generate a dynamic digital model of every account. Ambral then delivers proactive directives on who needs attention, why, and the exact actions needed to expand an account, prevent churn, or create a new customer champion. \r\n\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI/ML Product at Everlywell and early PM at Wonder (now valued at $7bn). He lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. ",
+      "one_liner": "AI-powered Account Managers",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1753910833.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a10083a0d67acfb4eebcc595079fc61c87d34a03.png"
     }
   ],
-  "fetched_at": "2025-07-30T18:01:37.387898"
+  "fetched_at": "2025-07-31T00:03:26.742639"
 }

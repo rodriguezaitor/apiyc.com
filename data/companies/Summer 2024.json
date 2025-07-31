@@ -1778,7 +1778,7 @@
       "name": "Sepal AI",
       "slug": "sepal-ai",
       "website": "https://www.sepalai.com",
-      "description": "Sepal AI works with the world\u2019s leading experts for developing advanced capability training data, expert annotations, and bespoke model evaluations. \r\n\r\nOur team comes from Turing, Vercel, McKinsey, and Bain. At Turing, we built the LLM training business and products to support $100+M revenue for companies like OpenAI, Google, and Anthropic.\r\n\r\nWe learned that data development for advanced AI use cases is more complex and has unique needs different from traditional label generation \r\n\r\nFoundational AI companies and large enterprises that we worked with, like OpenAI, PepsiCo, and Johnson &Johnson, don't have the data they need to train models to produce value for highly technical use cases. Which means they\u2019re not going to unlock the value from AI without a partner.\r\n\r\nWe are working with the most influential companies of our time to develop models and systems that extend human knowledge and capabilities.\r\n",
+      "description": "Sepal AI works with the world\u2019s leading experts for developing advanced capability reinforcement learning environments, data, expert annotations, and bespoke model evaluations. \r\n\r\nOur team comes from Turing, Vercel, McKinsey, and Bain. At Turing, we built the LLM training business and products to support $100+M revenue for companies like OpenAI, Google, and Anthropic.\r\n\r\nWe learned that data development for advanced AI use cases is more complex and has unique needs different from traditional label generation \r\n\r\nWe are working with the most influential companies of our time to develop models and systems that extend human knowledge and capabilities.",
       "one_liner": "Data Development for Advanced AI",
       "batch": "Summer 2024",
       "status": "Active",
@@ -1796,8 +1796,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Data Labeling"
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7429,8 +7429,8 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "Cheers magnifies customer-employee interactions by streamlining review generation, loyalty sign-ups, app downloads, and tipping \u2014all of which is instantly attributed to specific employees, teams, locations, and regions. This matters because many companies struggle to measure individual frontline performance, making it difficult to optimize customer experiences. Without buy-in from the frontline, corporate transformations fail 97% of the time (McKinsey).\r\n\r\nOur AI-native platform uses NFC employee badges and AI agents to turn customer interactions into measurable data, unlocking the first real-time performance dataset for frontline workers.\r\n\r\nManagers gain instant insights into who's successfully driving corporate initiatives, enabling them to answer questions like: \"Who's driving the most positive reviews?\", \"Which employees get the most loyalty sign-ups?\", and \"Where will coaching will deliver the most impact?\" Vivint used Cheers to track and incentivize frontline sales staff for positive customer interactions. As a result, workers amassed 50,000+ five-star reviews in just 4 months, skyrocketing their Google rating from 2.0 to 4.9 stars across 400 locations.\r\n\r\nCheers empowers your frontline to be as data-driven, measurable, and optimizable as your digital channels.",
-      "one_liner": "AI for frontline performance metrics",
+      "description": "Cheers is the control center for your frontline brand, answering three critical questions:\r\n- What's our reputation?\r\n- Who is driving it?\r\n- How do we improve it?\r\n\r\nOur AI-powered platform creates the first real-time dataset that attributes online reviews, social mentions, loyalty sign-ups, and NPS surveys directly to individual frontline employees. Instead of vague reports, managers receive clear, actionable insights: which employees need coaching, who deserves recognition, and how to elevate customer experience.\r\n\r\nVivint Smart Home used our platform to identify and reward their top performers, resulting in 60,000+ new five-star reviews in five months across 400 locations.\r\n\r\nTake control of your frontline brand with Cheers. ",
+      "one_liner": "Your Frontline Brand Control Center",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -7445,9 +7445,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
         "Feedback",
+        "AI",
         "Reviews"
       ],
       "stage": "Early",
@@ -8318,5 +8318,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-07-30T18:01:31.277886"
+  "fetched_at": "2025-07-31T00:03:20.844135"
 }
