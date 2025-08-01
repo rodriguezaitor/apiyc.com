@@ -823,8 +823,8 @@
       "name": "Locata",
       "slug": "locata",
       "website": "https://www.locatahealth.com/",
-      "description": "Locata is an AI referral management platform for Primary Care practices. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don\u2019t get the care they need. These factors point to a glaring gap in the system\u2014where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta\u2019s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we\u2019ve secured $80K ARR and are in the process of taking our first customer live.",
-      "one_liner": "AI referral management for Primary Care Practices",
+      "description": "Locata is an AI referral management platform for Health Centers. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don\u2019t get the care they need. These factors point to a glaring gap in the system\u2014where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta\u2019s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we\u2019ve secured $80K ARR and are in the process of taking our first customer live.",
+      "one_liner": "AI referral management for Health Centers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -840,10 +840,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3114,8 +3114,8 @@
       "name": "Shor",
       "slug": "shor",
       "website": "https://www.tryshor.com",
-      "description": "Shor is using AI Agents and Stablecoins to make the fastest, simplest, and most affordable way for growing remote companies to hire and pay global employees and contractors",
-      "one_liner": "Affordable, Simple, Fast Payroll for Global Remote Teams",
+      "description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5\u201310% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
+      "one_liner": "The fastest, most affordable payroll for global teams",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3131,11 +3131,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "B2B",
         "HR Tech",
-        "Payroll",
-        "AI"
+        "Payroll"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3612,7 +3612,7 @@
       "slug": "nixo",
       "website": "https://withnixo.com/",
       "description": "",
-      "one_liner": "The modern Zendesk for scaling high-touch customer support",
+      "one_liner": "The first ops platform built for FDEs",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3627,10 +3627,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Customer Support"
+        "Customer Success",
+        "Customer Support",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3707,5 +3708,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png"
     }
   ],
-  "fetched_at": "2025-08-01T06:02:24.818532"
+  "fetched_at": "2025-08-01T12:01:32.013181"
 }
