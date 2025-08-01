@@ -1015,15 +1015,16 @@
       "name": "Lancey",
       "slug": "lancey",
       "website": "https://lancey.ai",
-      "description": "Lancey understands your product feedback, CRM and product analytics data to help product teams build their next big idea.",
-      "one_liner": "AI agents to help product teams operate faster.",
+      "description": "Lancey helps you plan and execute code tasks as a team, in the background. Built for teams looking to 100x their output.\r\n",
+      "one_liner": "Multiplayer agents for your engineering team",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "Canada",
@@ -1033,11 +1034,10 @@
       ],
       "locations": "Toronto, ON, Canada; Remote",
       "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
+        "Developer Tools",
         "SaaS",
         "B2B",
-        "Enterprise"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8123,5 +8123,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-07-31T18:01:28.483399"
+  "fetched_at": "2025-08-01T00:03:37.972389"
 }

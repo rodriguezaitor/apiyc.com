@@ -1572,6 +1572,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93debe185cf01796dca3de42aa2f07d3e37fbab2.png"
     },
     {
+      "id": 12210,
+      "name": "Endpoint Health",
+      "slug": "endpoint-health",
+      "website": "https://endpointhealth.com/",
+      "description": "Endpoint Health is on a mission to address urgent needs in immune-driven critical and chronic illnesses by delivering therapies that are personalized to each patient\u2019s biology. We built Endpoint Health from the ground up to develop and commercialize therapeutics and therapy-guiding tests, to ensure that every patient receives personalized treatment that will dramatically improve their outcomes. Our vision is a world in which all patients have effective, personalized treatment, because therapies are targeted to the right patient at the right time.",
+      "one_liner": "Precision-first therapies",
+      "batch": "Winter 2019",
+      "status": "Active",
+      "team_size": 23,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Palo Alto, CA, USA; Remote",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1594656273.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/91f103c5ea8ba96047f1ef891154ca0f0c8dea47.png"
+    },
+    {
       "id": 12136,
       "name": "AmpUp",
       "slug": "ampup",
@@ -2210,7 +2241,7 @@
         "Security"
       ],
       "stage": "Growth",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1592193583.0,
@@ -5514,37 +5545,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0d268f1433885c466eead20338651157ba4886f.png"
     },
     {
-      "id": 12210,
-      "name": "Endpoint Health",
-      "slug": "endpoint-health",
-      "website": "https://endpointhealth.com/",
-      "description": "Endpoint Health is on a mission to address urgent needs in immune-driven critical and chronic illnesses by delivering therapies that are personalized to each patient\u2019s biology. We built Endpoint Health from the ground up to develop and commercialize therapeutics and therapy-guiding tests, to ensure that every patient receives personalized treatment that will dramatically improve their outcomes. Our vision is a world in which all patients have effective, personalized treatment, because therapies are targeted to the right patient at the right time.",
-      "one_liner": "Precision-first therapies",
-      "batch": "Winter 2019",
-      "status": "Inactive",
-      "team_size": 23,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Therapeutics",
-      "industries": [
-        "Healthcare",
-        "Therapeutics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Palo Alto, CA, USA; Remote",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1594656273.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/91f103c5ea8ba96047f1ef891154ca0f0c8dea47.png"
-    },
-    {
       "id": 12175,
       "name": "Capture",
       "slug": "capture",
@@ -6559,5 +6559,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-07-31T18:01:29.648102"
+  "fetched_at": "2025-08-01T00:03:38.179953"
 }

@@ -535,7 +535,7 @@
       "slug": "futureclinic",
       "website": "https://www.futureclinic.com",
       "description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
-      "one_liner": "We help doctors launch their own digital clinics",
+      "one_liner": "We help doctors launch their own chat-based clinics",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 4,
@@ -559,7 +559,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731439180.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9018c32bd18c4d49ac93e3961dbbbfa92688f03.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3b08e81035ebf0c9a387c0217e6d0895d6a1136.png"
     },
     {
       "id": 30108,
@@ -1147,39 +1147,6 @@
       "is_top_company": false,
       "launched_at": 1729014786.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb5e156a2d833200fe0f915ffe682c440528c6a.png"
-    },
-    {
-      "id": 30086,
-      "name": "Autumn",
-      "slug": "autumn",
-      "website": "https://useautumn.com",
-      "description": "Autumn is an open-source layer over Stripe that handles any pricing model in a few lines of code.",
-      "one_liner": "Build any pricing model in a few lines of code",
-      "batch": "Fall 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "SaaS",
-        "Payments",
-        "B2B",
-        "Subscriptions",
-        "Billing"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1730430835.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     },
     {
       "id": 30083,
@@ -2081,8 +2048,8 @@
       "name": "Astrix Health",
       "slug": "astrix-health",
       "website": "https://www.astrix.health",
-      "description": "Astrix builds AI purchasing agents for healthcare providers. Astrix agents normalize and aggregate large-scale data on medical supply pricing allowing providers to make informed purchasing decisions.\r\n\r\n",
-      "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
+      "description": "We build better data products for identifying and understanding healthcare providers, facilities, and services. Easily access our data via our easy-to-use UI and API.",
+      "one_liner": "Astrix builds better healthcare data products.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2099,11 +2066,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Collaboration",
         "Healthcare",
-        "Supply Chain",
-        "AI"
+        "Supply Chain"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3079,5 +3046,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-07-31T18:01:33.081900"
+  "fetched_at": "2025-08-01T00:03:38.703724"
 }

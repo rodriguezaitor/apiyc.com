@@ -444,7 +444,7 @@
       "slug": "flair-technologies",
       "website": "https://www.flairhealth.com",
       "description": "",
-      "one_liner": "Driving Better Contract Negotiation for Hospitals",
+      "one_liner": "Driving The Smartest Contract Negotiation for Hospitals",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": null,
@@ -460,11 +460,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Data Science",
-        "Healthcare IT"
+        "Healthcare IT",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2954,37 +2954,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78fb6a9f034f5447cc3472b66f6c660fdf0cfa60.png"
     },
     {
-      "id": 28967,
-      "name": "MantleBio",
-      "slug": "mantlebio",
-      "website": "https://www.mantlebio.com",
-      "description": "Mantle brings modern data engineering to the lab to help scientists turn insights into world-changing breakthroughs.",
-      "one_liner": "Transform scientific data into discoveries",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "SaaS",
-        "Biotech",
-        "Data Science"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1689053097.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/15716b62f7c6d475631f039d985c650683ee0837.png"
-    },
-    {
       "id": 28966,
       "name": "Pincites",
       "slug": "pincites",
@@ -3673,22 +3642,31 @@
       "name": "Surface Labs",
       "slug": "surface-labs",
       "website": "https://withsurface.com",
-      "description": "We\u2019re building tools to help companies collect richer customer data and convert more website visitors to customers.\r\n\r\nEvery business site has some sort of a Contact Us, Talk to Sales, Request Demo, or other type of intake form designed to collect data from their users. But the majority of these forms are extremely under-optimized and lack the rich analytics and personalization capabilities needed to truly engage users. \r\n\r\nWe've optimized forms, self-serve pipelines, and ran experiments alongside growth teams at companies like Snowflake and various startups and know exactly what is needed to enable better business forms.",
-      "one_liner": "Surface Labs helps B2B marketing teams optimize website conversions\u2026",
+      "description": "Surface Labs helps B2B companies capture, qualify, and convert inbound leads through intelligent contact forms. We replace tools like HubSpot Forms, Zapier, and Chili Piper with a single platform that embeds on any site with one line of code.\r\n\r\nOur AI agents handle lead capture, enrichment, routing, follow-up, and CRO testing \u2014 automating what used to require full marketing ops teams. Customers see a 30% lift in conversions in under 2 weeks, and our partial response capture feature collects 50% more emails from form drop-offs.",
+      "one_liner": "AI conversion engine for B2B websites -- just add 1 line of code",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
-        "Sales"
+        "Marketing"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Sales",
+        "Marketing",
+        "Advertising",
+        "Conversational AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4202,11 +4180,11 @@
       "name": "FleetWorks",
       "slug": "fleetworks",
       "website": "https://fleetworks.ai",
-      "description": "FleetWorks automates the 2B phone calls and emails that the freight industry makes every year. We use voice synthesis, generative AI, and integrations with logistics systems to solve the largest cost in this industry - people. \r\n\r\n\r\nWhen Uber Freight needs to ship a truckload of Coca-Cola going from Phoenix to Bentonville. They can use FleetWorks to call the driver to get an ETA, alert the receiver and shipper that the driver is running late, and reschedule the appointment - all with automated text messages, phone calls, and emails.",
-      "one_liner": "Automating the 2B phone calls and emails that keep freight moving",
+      "description": "FleetWorks is building a vertical AI agent that powers a massive, overlooked marketplace: matching trucks with jobs.\r\n\r\nEvery year, companies spend over $1 trillion moving freight across the country, but the process is still slow, manual, and chaotic. It often takes dozens of back-and-forth calls and messages just to find and book a single truck. FleetWorks replaces all of that manual work with an AI enabled marketplace that matches trucks with jobs",
+      "one_liner": "AI enabled marketplace matching trucks with jobs",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 20,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -7063,6 +7041,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81c4b7cfa70455fe6fc21054b703c4fd719269b2.png"
     },
     {
+      "id": 28967,
+      "name": "MantleBio",
+      "slug": "mantlebio",
+      "website": "https://www.mantlebio.com",
+      "description": "Mantle brings modern data engineering to the lab to help scientists turn insights into world-changing breakthroughs.",
+      "one_liner": "Transform scientific data into discoveries",
+      "batch": "Summer 2023",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "SaaS",
+        "Biotech",
+        "Data Science"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1689053097.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/15716b62f7c6d475631f039d985c650683ee0837.png"
+    },
+    {
       "id": 28931,
       "name": "Vizly",
       "slug": "vizly",
@@ -7337,5 +7346,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-07-31T18:01:29.135784"
+  "fetched_at": "2025-08-01T00:03:38.078801"
 }
