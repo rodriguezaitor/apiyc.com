@@ -1451,6 +1451,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d3a6edb5621c81b20be14a648f9b57921bf764.png"
     },
     {
+      "id": 30717,
+      "name": "Iron Grid",
+      "slug": "iron-grid",
+      "website": "https://getirongrid.com/",
+      "description": "",
+      "one_liner": "AI Insurance for hardware.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Industrials -> Energy",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Hardware",
+        "Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754064844.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5610ae5725e1a7d03a6b23f760c9728a748276f.png"
+    },
+    {
       "id": 30716,
       "name": "Finto",
       "slug": "finto-de",
@@ -1977,6 +2009,40 @@
       "is_top_company": false,
       "launched_at": 1752182938.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ab8f3604e8e37628ae61b0f2bc76124389ada3.png"
+    },
+    {
+      "id": 30694,
+      "name": "Epicenter",
+      "slug": "epicenter",
+      "website": "https://epicenter.so/",
+      "description": "We're building a suite of open-source, local-first apps that share a single memory\u2014so your ideas, plans, and code live in one connected space. Most tools divide you: one for notes, one for tasks, one for contacts. Epicenter is designed to blur those lines\u2014so you can stay in flow across disciplines.\r\n\r\nWe\u2019ve started with tools like Whispering (a fast, local transcription tool) and epicenter.sh (a way to talk to a folder on your computer). But this is just the beginning. We're building a plain-text-native ecosystem: a text editor, chat, a personal assistant, and more\u2014designed to work together out of the box, and run on your own machine.\r\n\r\nIf you\u2019re tired of switching apps to finish a thought\u2014or of vendors owning your memory\u2014Epicenter might feel like home.",
+      "one_liner": "All your tools\u2014transcription, chat, writing\u2014sharing one local,\u2026",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Productivity",
+        "Open Source",
+        "Note-taking",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754070642.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cc929fc17a99efa9b76ed8acc3ec6c7a0574ae5.png"
     },
     {
       "id": 30692,
@@ -2575,6 +2641,39 @@
       "is_top_company": false,
       "launched_at": 1751905744.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png"
+    },
+    {
+      "id": 30659,
+      "name": "Keystone",
+      "slug": "keystone",
+      "website": "https://withkeystone.com",
+      "description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA ever again.",
+      "one_liner": "AI agents that test your application.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1749673205.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png"
     },
     {
       "id": 30656,
@@ -3708,5 +3807,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png"
     }
   ],
-  "fetched_at": "2025-08-01T12:01:32.013181"
+  "fetched_at": "2025-08-01T18:01:29.547939"
 }

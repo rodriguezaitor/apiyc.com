@@ -1814,7 +1814,7 @@
       "status": "Active",
       "team_size": 8,
       "industry": "Government",
-      "subindustry": "Unspecified",
+      "subindustry": "Government",
       "industries": [
         "Government"
       ],
@@ -3902,10 +3902,10 @@
     },
     {
       "id": 29372,
-      "name": "Ramble.gg",
-      "slug": "ramble-gg",
-      "website": "https://ramble.gg",
-      "description": "Ramble is an AI role-playing game where you have ten minutes to convince an AI character. For example, convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent, etc.",
+      "name": "Sagaland",
+      "slug": "sagaland",
+      "website": "https://sagaland.ai",
+      "description": "Sagaland is an AI role-playing game where you have ten minutes to convince an AI character. For example, convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent, etc.",
       "one_liner": "AI Role-Playing Games",
       "batch": "Winter 2024",
       "status": "Active",
@@ -8286,5 +8286,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-01T12:01:27.619858"
+  "fetched_at": "2025-08-01T18:01:24.940950"
 }

@@ -3248,43 +3248,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/beed13dcdb170626c398b7c8ce66df8a3978a4e3.png"
     },
     {
-      "id": 25929,
-      "name": "Quan",
-      "slug": "quan",
-      "website": "https://www.quanwellbeing.com/",
-      "description": "We provide a self-assessment which identifies the underlying causes of poor wellbeing and match proven solutions for individuals and teams.\r\n\r\nhttps://www.quanwellbeing.com/",
-      "one_liner": "End-to-end platform to improve wellbeing and team performance. ",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 17,
-      "industry": "B2B",
-      "subindustry": "B2B -> Human Resources",
-      "industries": [
-        "B2B",
-        "Human Resources"
-      ],
-      "regions": [
-        "Netherlands",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "The Hague, ZH, Netherlands; Remote",
-      "tags": [
-        "Mental Health Tech",
-        "SaaS",
-        "B2B",
-        "HR Tech",
-        "Subscriptions"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1643311003.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3573ed35730b92a5b04a47f7fa6fb74e053a4a4.png"
-    },
-    {
       "id": 25928,
       "name": "Attain",
       "slug": "attain",
@@ -12281,6 +12244,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49c1f43f10b8f99493ac3006583172298d236974.png"
     },
     {
+      "id": 25929,
+      "name": "Quan",
+      "slug": "quan",
+      "website": "https://www.quanwellbeing.com/",
+      "description": "We provide a self-assessment which identifies the underlying causes of poor wellbeing and match proven solutions for individuals and teams.\r\n\r\nhttps://www.quanwellbeing.com/",
+      "one_liner": "End-to-end platform to improve wellbeing and team performance. ",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 17,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "Netherlands",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "The Hague, ZH, Netherlands; Remote",
+      "tags": [
+        "Mental Health Tech",
+        "SaaS",
+        "B2B",
+        "HR Tech",
+        "Subscriptions"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1643311003.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3573ed35730b92a5b04a47f7fa6fb74e053a4a4.png"
+    },
+    {
       "id": 25923,
       "name": "HOAi",
       "slug": "hoai",
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-08-01T12:01:26.259962"
+  "fetched_at": "2025-08-01T18:01:23.472482"
 }
