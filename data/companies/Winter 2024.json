@@ -6610,14 +6610,14 @@
     },
     {
       "id": 29263,
-      "name": "Apriora",
-      "slug": "apriora",
-      "website": "https://www.apriora.ai",
-      "description": "Apriora conducts live interviews with an AI recruiter. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+      "name": "Alex",
+      "slug": "alex-com",
+      "website": "https://alex.com",
+      "description": "Alex is an AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
       "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 20,
       "industry": "B2B",
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
@@ -6630,11 +6630,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Recruiting",
-        "HR Tech",
-        "AI"
+        "HR Tech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8286,5 +8286,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-02T00:03:25.737579"
+  "fetched_at": "2025-08-02T06:01:10.411496"
 }
