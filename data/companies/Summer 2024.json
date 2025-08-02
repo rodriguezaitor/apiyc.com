@@ -475,11 +475,11 @@
       "name": "Patched",
       "slug": "patched",
       "website": "https://patched.codes",
-      "description": "Patched empowers development teams to build and deploy AI-assisted workflows that can autonomously complete post-code tasks like documentation, code reviews, and security patching. Our workflows can be customized using a visual builder and can be self-hosted with any AI model, enabling automation without compromising security, control, or compliance.",
-      "one_liner": "Open-source workflow automation for dev teams",
+      "description": "Patched empowers Enterprise IT and Ops teams to build and deploy agentic workflows that can autonomously resolve tickets, service requests, and incidents.",
+      "one_liner": "Agentic workflows for Enterprise IT and Ops teams",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -8315,5 +8315,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-02T06:01:10.700829"
+  "fetched_at": "2025-08-02T12:01:40.907621"
 }
