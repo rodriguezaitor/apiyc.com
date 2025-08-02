@@ -1760,7 +1760,7 @@
       "one_liner": "AI Mobile App Quality Assurance Tester",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -2495,11 +2495,11 @@
       "name": "Clado",
       "slug": "clado",
       "website": "https://clado.ai",
-      "description": "Clado puts 200 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you\u2019re interested in a global people search for sales, spreadsheets, hiring, and more, try our product.",
+      "description": "Clado puts 800 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you\u2019re interested in a global people search for sales, spreadsheets, hiring, and more, try our product at clado.ai",
       "one_liner": "Deep Research for People",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "Consumer -> Social",
       "industries": [
@@ -3207,11 +3207,11 @@
     },
     {
       "id": 30440,
-      "name": "Sim Studio",
-      "slug": "simstudio",
-      "website": "https://www.simstudio.ai",
-      "description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 4k stars on GitHub in the last 2 months.",
-      "one_liner": "The open source AI agent builder ",
+      "name": "Sim",
+      "slug": "sim",
+      "website": "https://sim.ai",
+      "description": "Sim helps fast-growing teams build agent workflows. \r\n\r\nOur Figma-like canvas lets developers quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).",
+      "one_liner": "Open source platform to build AI agent workflows",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3235,7 +3235,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746478234.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6364aefff525f87988267b6c493e25ee8f50af75.png"
     },
     {
       "id": 30439,
@@ -4611,5 +4611,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-08-01T18:01:28.075819"
+  "fetched_at": "2025-08-02T00:03:29.825050"
 }

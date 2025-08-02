@@ -535,16 +535,15 @@
       "name": "Mica AI",
       "slug": "mica-ai",
       "website": "https://usemica.com/",
-      "description": "Mica builds AI Agents that automate B2B sales. Our agents analyze sales calls, generate tailored collateral, and follow up until the deal is closed.\r\n\r\nThe founders met at UC Berkeley, and at our last jobs, we saw that the best sales reps weren\u2019t just great at selling\u2014they were elite content creators. They crafted tailored collateral like decks and highlight videos for each buyer, and their champions used this info to advocate for purchasing their product within their companies. \r\n\r\nHowever, because this takes more than 30 minutes per call, even the best reps could only do tailored follow-ups for a few clients, leaving millions in lost deals.\r\n\r\nMica\u2019s agents reduce that time to less than a minute. This lets top performers do A+ work on every deal and helps the rest of the team sell like a top performer.\r\n\r\nSales collateral creation and follow-up is a $11b market in the US but this is just our beachhead. We\u2019ll ship a fleet of agents that automate and eventually replace every other facet of the $80b enterprise sales market.  \r\n\r\n",
-      "one_liner": "AI Agents that Automate B2B Sales",
+      "description": "Mica is a no-code AI Agent builder that turns plain-English prompts into enterprise quality AI agents. Just describe your agent:\r\n\u201cEvery morning, pull in pricing data from our data lake. I want you to take this data and run a report every morning on price movements broken down by brand and retailer and email this report to the relevant stakeholders every morning. Also upload the data into our datavis platform and send me a slack message once you do.\u201d\r\n\r\nMica instantly builds a live agent that:\r\n\r\n1. Connects to your apps (OAuth, APIs, auth flows)\r\n2. Runs multi-step automations continuously\r\n3. Improves and changes behavior in real-time with simple instructions in English\r\n4. No need to mess around with drag and drop UIs or add complicated chains or rules\r\n\r\nIn short: no coding, no convoluted setup, just results.",
+      "one_liner": "Build Enterprise-Quality AI Agents in English",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
-        "B2B",
-        "Sales"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -554,8 +553,7 @@
       "tags": [
         "Artificial Intelligence",
         "SaaS",
-        "Sales",
-        "Sales Enablement",
+        "Enterprise Software",
         "AI"
       ],
       "stage": "Early",
@@ -563,7 +561,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720831958.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5673bb763cddf60cddfa3da8562713ab0fdce74.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e4f97e07f6e1a169c14a54417c11eec5688e0c6.png"
     },
     {
       "id": 29965,
@@ -6227,7 +6225,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Enterprise Software",
+        "AIOps",
+        "Developer Tools",
         "Cloud Computing",
         "Infrastructure"
       ],
@@ -6393,9 +6392,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "Travel",
-        "AI"
+        "Travel"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7427,7 +7426,7 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "Cheers is the control center for your frontline brand, answering three critical questions:\r\n- What's our reputation?\r\n- Who is driving it?\r\n- How do we improve it?\r\n\r\nOur AI-powered platform creates the first real-time dataset that attributes online reviews, social mentions, loyalty sign-ups, and NPS surveys directly to individual frontline employees. Instead of vague reports, managers receive clear, actionable insights: which employees need coaching, who deserves recognition, and how to elevate customer experience.\r\n\r\nVivint Smart Home used our platform to identify and reward their top performers, resulting in 60,000+ new five-star reviews in five months across 400 locations.\r\n\r\nTake control of your frontline brand with Cheers. ",
+      "description": "Cheers is the control center for your frontline brand, answering three critical questions:\r\n1. What's our reputation?\r\n2. Who's driving it?\r\n3. How do we improve it?\r\n\r\nCurrent tools answer #1. Nobody answers #2. Without #2, you can't do #3.\r\n\r\nOur AI-powered platform creates the first real-time dataset that attributes online reviews, social mentions, loyalty sign-ups, and NPS surveys directly to individual frontline employees. Instead of vague reports, managers receive clear, actionable insights: which employees need coaching, who deserves recognition, and how to elevate customer experience.\r\n\r\nVivint Smart Home used our platform to identify and reward their top performers, resulting in 60,000+ new five-star reviews in five months across 400 locations.\r\n\r\nTake control of your frontline brand with Cheers. ",
       "one_liner": "Your Frontline Brand Control Center",
       "batch": "Summer 2024",
       "status": "Active",
@@ -8316,5 +8315,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-01T18:01:25.317754"
+  "fetched_at": "2025-08-02T00:03:26.186204"
 }

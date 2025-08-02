@@ -1584,17 +1584,12 @@
         "Aviation and Space"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "Long Beach, CA, USA",
-      "tags": [
-        "Hard Tech",
-        "Space Exploration",
-        "Aerospace"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736353830.0,
@@ -2329,17 +2324,12 @@
         "Marketing"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Analytics",
-        "Marketing",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739175359.0,
@@ -2641,7 +2631,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1734639467.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png"
     },
     {
       "id": 30258,
@@ -5331,5 +5321,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-01T18:01:27.496507"
+  "fetched_at": "2025-08-02T00:03:29.040815"
 }
