@@ -2250,6 +2250,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4f710ccf11734c2c75ffd07ca7442b64c2f35ab.png"
     },
     {
+      "id": 30683,
+      "name": "Louiza Labs",
+      "slug": "louiza-labs",
+      "website": "https://www.louiza.ai/",
+      "description": "Louiza Labs accurately simulates human biology so medical technology (devices, robots, etc) can be trained and tested without real patients or hard to access real-world medical data.\r\n\r\nOur physics-driven AI engine creates hyper-accurate, multi-organ human models with unprecedented speed and fidelity.\r\n\r\nInstead of spending millions on data for clinical trials, cadaver labs, or risky human testing\u2014use Louiza to:\r\n1. Test devices on digital twins\u2014faster FDA, no animal trials.\r\n2. Generate rare, high-fidelity edge-case datasets.\r\n3. Train AI for combat, triage, and robotic procedures in extreme conditions.\r\n4. Simulate stressed anatomy (e.g., Bruno Fernandes under fatigue, fighter pilots under G-force).\r\n\r\nBonus: Our anatomically accurate models are indistinguishable from real humans and can be \u201cimaged\u201d (e.g., X-ray, ultrasound) for use in ML pipelines.",
+      "one_liner": "Simulated human biology and synthetic medical datasets.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Medical Robotics",
+        "Robotic Process Automation",
+        "Synthetic Biology",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754166755.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4220e2cfc6aae811d256a42fb434498602e5b513.png"
+    },
+    {
       "id": 30681,
       "name": "Parachute",
       "slug": "parachute",
@@ -2697,17 +2731,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Deep Learning",
         "Edge Computing Semiconductors",
-        "IoT",
-        "AI"
+        "IoT"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753646840.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7fe0614c6ae0025bdee703043846f9c1a5b0367.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/59526ba018b33a62299943322dc03eae29a298f4.png"
     },
     {
       "id": 30653,
@@ -3098,15 +3132,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Construction",
-        "AI"
+        "Artificial Intelligence",
+        "Construction"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753951898.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/55ebca1865c9d530bfb4cbbb0758af64ea680a1e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91581bcfa012c99e743448988de1cd919c97389.png"
     },
     {
       "id": 30624,
@@ -3712,7 +3746,7 @@
       "slug": "nixo",
       "website": "https://withnixo.com/",
       "description": "",
-      "one_liner": "The first ops platform built for FDEs",
+      "one_liner": "The ops platform FDE teams use to cut time to customer impact",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3727,11 +3761,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Customer Success",
-        "Customer Support",
-        "AI"
+        "Customer Success"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3808,5 +3841,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png"
     }
   ],
-  "fetched_at": "2025-08-02T18:01:03.489454"
+  "fetched_at": "2025-08-03T00:03:40.282240"
 }
