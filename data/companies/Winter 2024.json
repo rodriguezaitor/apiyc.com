@@ -3939,10 +3939,10 @@
     },
     {
       "id": 29370,
-      "name": "Bitter",
-      "slug": "bitter",
-      "website": "https://www.readbitter.com/",
-      "description": "Bitter is an AI reader to help researchers understand books and papers faster. ",
+      "name": "Browser Buddy",
+      "slug": "browser-buddy",
+      "website": "https://www.browserbuddy.com/",
+      "description": "The AI reader to understand books and papers faster. ",
       "one_liner": "AI Reader ",
       "batch": "Winter 2024",
       "status": "Active",
@@ -3959,15 +3959,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Consumer"
+        "Consumer",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701246038.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/416fc81945dfe68e0b79958bd0f250af1178d3d3.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ee6645e8e73e60100ef3c3c0a7d44601e0d88c8.png"
     },
     {
       "id": 29369,
@@ -8286,5 +8286,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-03T00:03:35.925753"
+  "fetched_at": "2025-08-03T06:01:31.708763"
 }

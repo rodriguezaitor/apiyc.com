@@ -2016,8 +2016,8 @@
       "name": "Epicenter",
       "slug": "epicenter",
       "website": "https://epicenter.so/",
-      "description": "We're building a suite of open-source, local-first apps that share a single memory\u2014so your ideas, plans, and code live in one connected space. Most tools divide you: one for notes, one for tasks, one for contacts. Epicenter is designed to blur those lines\u2014so you can stay in flow across disciplines.\r\n\r\nWe\u2019ve started with tools like Whispering (a fast, local transcription tool) and epicenter.sh (a way to talk to a folder on your computer). But this is just the beginning. We're building a plain-text-native ecosystem: a text editor, chat, a personal assistant, and more\u2014designed to work together out of the box, and run on your own machine.\r\n\r\nIf you\u2019re tired of switching apps to finish a thought\u2014or of vendors owning your memory\u2014Epicenter might feel like home.",
-      "one_liner": "All your tools\u2014transcription, chat, writing\u2014sharing one local,\u2026",
+      "description": "Epicenter is an open-source, local-first ecosystem for writers, builders, and privacy enthusiasts. It stores all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. \u2764\ufe0f\r\n\r\n\r\n\r\n",
+      "one_liner": "A database for your mind, built on plain text.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -2516,7 +2516,7 @@
       "slug": "pangolin",
       "website": "https://digpangolin.com",
       "description": "Pangolin provides a simple way to securely expose applications on private networks with identity-aware access control and high availability. It\u2019s an open-source cloud and self-hosted solution that enables administrators to maintain data sovereignty and control user interaction to internal tools.",
-      "one_liner": "Open-source secure gateway to private networks",
+      "one_liner": "Open-source identity-aware gateway to applications on private networks",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2645,11 +2645,11 @@
     },
     {
       "id": 30660,
-      "name": "Magnitude",
-      "slug": "magnitude",
-      "website": "https://magnitude.run",
-      "description": "Knowledge workers spend 85% of their day in the browser.\r\n\r\nYet so much of this work is\u00a0tedious, time-consuming labor.\r\n\r\nAI has revolutionized browser automation - but it's trapped behind APIs, SDKs, and complex interfaces. Tools like UIPath and Zapier tried to help, but they're still too technical, expensive, or complicated.\r\n\r\nWhat if automating your repetitive browser work was as easy as explaining it to a coworker?\r\n\r\nThat\u2019s Magnitude. Simply record yourself taking actions on your browser, talk through the details, and our AI builds your automation. Run it instantly or schedule it - no maintenance required.",
-      "one_liner": "Automate any browser workflow with a narrated screen recording",
+      "name": "Sidekick",
+      "slug": "heysidekick",
+      "website": "https://heysidekick.app",
+      "description": "Just chat to build powerful, multi-step automations. No drag-and-drop canvas or complex flowcharts required.\r\n\r\nJoin the waitlist now!",
+      "one_liner": "The simplicity of ChatGPT meets the power of Zapier",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2665,10 +2665,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Productivity",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2776,11 +2776,11 @@
     },
     {
       "id": 30651,
-      "name": "Alter AI",
-      "slug": "alter-ai",
+      "name": "Alter",
+      "slug": "alter",
       "website": "https://alterai.dev",
       "description": "",
-      "one_liner": "Secure access control and orchestration platform for agent workflows",
+      "one_liner": "Secure access control and authorization platform for agent workflows",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3839,7 +3839,40 @@
       "is_top_company": false,
       "launched_at": 1753994250.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png"
+    },
+    {
+      "id": 30086,
+      "name": "Autumn",
+      "slug": "autumn",
+      "website": "https://useautumn.com",
+      "description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
+      "one_liner": "Stripe for AI startups",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "SaaS",
+        "Payments",
+        "B2B",
+        "Subscriptions",
+        "Billing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1730430835.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-03T00:03:40.282240"
+  "fetched_at": "2025-08-03T06:01:32.796375"
 }
