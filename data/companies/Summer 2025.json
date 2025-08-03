@@ -2682,7 +2682,7 @@
       "name": "Keystone",
       "slug": "keystone",
       "website": "https://withkeystone.com",
-      "description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA ever again.",
+      "description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA again.",
       "one_liner": "AI agents that test your application.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2698,10 +2698,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3761,10 +3761,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Customer Success"
+        "Customer Success",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3874,5 +3874,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-03T06:01:32.796375"
+  "fetched_at": "2025-08-03T12:01:31.332679"
 }
