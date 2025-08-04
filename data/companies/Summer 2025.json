@@ -155,6 +155,36 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d9c818fe88489dd24e5032f7a25a97571050869.png"
     },
     {
+      "id": 30803,
+      "name": "Mobile Operator",
+      "slug": "mobile-operator",
+      "website": "https://mobileoperator.com",
+      "description": "Stop manually testing your app. Simply connect Mobile Operator to your CI/CD and let our AI agents take over. They explore your app like real users, not only catching crashes and bugs but also spotting UX problems. \r\nWithin 2 hours of testing, you\u2019ll receive a detailed report highlighting everything that needs fixing, so you can fix it and release with confidence",
+      "one_liner": "AI agent that does QA on mobile apps",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754272215.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d68045187489ed759dbce55922735d8dfc70b89.png"
+    },
+    {
       "id": 30797,
       "name": "Veritus Agent",
       "slug": "veritus-agent",
@@ -926,8 +956,8 @@
       "name": "Opennote",
       "slug": "opennote",
       "website": "https://opennote.com",
-      "description": "Opennote is building an interactive AI tutor that gives every student a truly personalized learning experience.\r\n\r\nMost students never get to engage deeply with material in traditional classrooms or generic online tools. Opennote changes that by acting as a human-like, intuitive tutor\u2014one that remembers your progress and adapts every session to how you learn best.",
-      "one_liner": "The Interactive AI Tutor That Knows You",
+      "description": "Opennote is building an AI tutor that lives in your notes, giving every student a truly personalized learning experience.\r\n\r\nMost students struggle with scattered knowledge across different apps and tools that don't understand their learning style. Opennote changes that with an intelligent note-taking platform where your AI tutor knows your learning style, connects your existing knowledge bases and the web, and provides real-time feedback right where you're already working.",
+      "one_liner": "The AI tutor that lives in your notes",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2797,10 +2827,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "DevSecOps",
-        "Security"
+        "Security",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3642,6 +3672,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c01715a01a6f73433d324a587d34bafc2adf824.png"
     },
     {
+      "id": 30566,
+      "name": "Rid",
+      "slug": "rid",
+      "website": "https://rid.me",
+      "description": "At Rid we're determined to make selling easier than buying. All you have to do is text us what you're selling, and we'll take care of the rest -- researching the product, listing on marketplaces, negotiating with buyers, answering questions, and handling delivery. \r\n\r\nWe all have that thing we've been too lazy to sell. Rid makes it so easy we can't even be lazy. ",
+      "one_liner": "Sell with a text.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Virtual and Augmented Reality",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketplace",
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754272842.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1583a51adf24cb86ab18bad935b2c25ef0f2170.png"
+    },
+    {
       "id": 30520,
       "name": "Synthetic Society",
       "slug": "synthetic-society",
@@ -3841,5 +3903,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-04T00:03:40.310085"
+  "fetched_at": "2025-08-04T06:04:14.126802"
 }
