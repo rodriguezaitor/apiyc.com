@@ -2043,7 +2043,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754070642.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cc929fc17a99efa9b76ed8acc3ec6c7a0574ae5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png"
     },
     {
       "id": 30692,
@@ -2357,7 +2357,7 @@
       "id": 30671,
       "name": "AgentHub",
       "slug": "agenthub-2",
-      "website": "https://www.agenthub.build",
+      "website": "https://www.agenthublabs.com",
       "description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what\u2019s working (and what\u2019s not).\r\n\r\nBuilt by a former tech lead from Apple\u2019s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast\u2014no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
       "one_liner": "The simulation and evaluation engine for AI agents",
       "batch": "Summer 2025",
@@ -2374,9 +2374,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3841,5 +3841,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-03T18:01:06.887036"
+  "fetched_at": "2025-08-04T00:03:40.310085"
 }

@@ -2123,7 +2123,7 @@
         "Construction"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1556761531.0,
@@ -3405,14 +3405,14 @@
     },
     {
       "id": 12536,
-      "name": "Heroic Story",
-      "slug": "heroic-story",
-      "website": "https://heroicstory.com",
-      "description": "We're building the world's first true Author OS - an intelligent engine that will transform how stories are created, shared, and loved. Our mission is to give storytellers superpowers, removing every barrier between imagination and reality through AI. Founded by brothers who've pushed creative boundaries across VR gaming, Twitch streaming, and Hollywood, we combine deep technical expertise with an innate understanding of what makes stories work. Our CEO, a former world-class poker player, brings the same strategic depth and calculated boldness that won millions to our mission of empowering creators. We're a team of rebellious optimists who believe we're standing at the threshold of storytelling's next great evolution. The printing press gave stories reach. We're giving them wings.",
-      "one_liner": "AI-native Book Publishing",
+      "name": "Plotdrive",
+      "slug": "plotdrive",
+      "website": "https://plotdrive.com",
+      "description": "We're building the world's first AI that actually remembers your entire book - an intelligent writing companion that transforms how stories get finished. Our mission is to solve the #1 reason books die unfinished: writers losing track of their own stories across hundreds of pages. Founded by brothers who've pushed creative boundaries across poker, VR gaming, and interactive storytelling, we combine deep technical expertise with an obsessive focus on what writers actually need. Our CEO, a former world-class poker player, brings the same strategic depth that won millions to ensuring every writer can finally type \"The End.\" We're a team of rebellious optimists who've already helped authors break through decade-long blocks and publish books they thought would never see the light of day. The printing press gave stories reach. We're giving them wings.",
+      "one_liner": "AI that remembers your book & writes like you",
       "batch": "Summer 2019",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "Consumer",
       "subindustry": "Consumer -> Gaming",
       "industries": [
@@ -3427,10 +3427,10 @@
       ],
       "locations": "Los Angeles, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Entertainment",
         "Marketing",
         "Creator Economy",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3438,7 +3438,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1556041719.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc80e89e8e84a807f38d676cc225132abec1b885.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9cac4be6a65c842360b6e500df9d1f0805f3c9.png"
     },
     {
       "id": 12534,
@@ -5961,5 +5961,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-08-03T18:01:04.998228"
+  "fetched_at": "2025-08-04T00:03:37.646663"
 }
