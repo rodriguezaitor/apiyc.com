@@ -3804,37 +3804,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png"
     },
     {
-      "id": 28894,
-      "name": "Airfront",
-      "slug": "airfront-ai",
-      "website": "https://airfront.ai/",
-      "description": "Airfront is a 24/7 AI receptionist that answers every call, qualifies the caller, and books appointments. It syncs notes and scheduling to your existing systems so you never lose a lead after hours or on busy days.",
-      "one_liner": "AI receptionist for busy service teams.",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1725912013.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b86e87191ef1a7382782422ec34bd133d964ea0.png"
-    },
-    {
       "id": 28893,
       "name": "VetRec",
       "slug": "vetrec",
@@ -4050,7 +4019,7 @@
       "name": "Dialtone",
       "slug": "dialtone",
       "website": "https://usedialtone.com",
-      "description": "Build and deploy AI agents to automate your enterprise workflows.",
+      "description": "Dialtone helps enterprises transform cross-functional, cross-system tasks into intelligent, self-running workflows. Companies across technology, sports and entertainment, healthcare, finance, and retail deploy Dialtone Agents to speed up both internal operations and customer-facing processes.\r\n\r\nWhat sets us apart:\r\n1. Agentic AI delivered on day one: Our platform couples cutting-edge AI infrastructure with built-in reliability, security, and observability so teams can launch production-grade agents in days, not months.\r\n2. White-glove engineering included: Every enterprise subscription comes with dedicated Dialtone engineers who partner end-to-end - from scoping to launch to continuous optimization - at no extra cost.\r\n3. Success over software: We measure our impact by real business outcomes, not seat counts. If our agents aren\u2019t moving the needle, we\u2019re not done.\r\n\r\nDialtone offers an intuitive no-code builder for designing and launching agents, a full API for programmatic control, secure custom actions that connect to proprietary systems, and an ever-expanding library of integrations with the SaaS tools enterprises already depend on.",
       "one_liner": "AI agents for enterprise workflows",
       "batch": "Summer 2023",
       "status": "Active",
@@ -4061,16 +4030,12 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "Mountain View, CA, USA",
-      "tags": [
-        "Enterprise",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688669019.0,
@@ -4180,7 +4145,7 @@
       "name": "FleetWorks",
       "slug": "fleetworks",
       "website": "https://fleetworks.ai",
-      "description": "FleetWorks is building a vertical AI agent that powers a massive, overlooked marketplace: matching trucks with jobs.\r\n\r\nEvery year, companies spend over $1 trillion moving freight across the country, but the process is still slow, manual, and chaotic. It often takes dozens of back-and-forth calls and messages just to find and book a single truck. FleetWorks replaces all of that manual work with an AI enabled marketplace that matches trucks with jobs",
+      "description": "FleetWorks is rebuilding the $1 trillion freight marketplace with AI.\r\n\r\nEvery year, companies spend over a trillion dollars moving freight across the U.S. \u2014 but the system for matching trucks with jobs is still slow, manual, and fragmented.\r\n\r\nFleetWorks is fixing that. We\u2019re turning today\u2019s chaotic freight market into a modern, intelligent marketplace \u2014 one where AI agents replace the endless phone calls, texts and emails and match jobs to trucks instantly.",
       "one_liner": "AI enabled marketplace matching trucks with jobs",
       "batch": "Summer 2023",
       "status": "Active",
@@ -4197,8 +4162,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Logistics",
-        "AI"
+        "Artificial Intelligence",
+        "Logistics"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7346,5 +7311,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-04T12:01:37.603377"
+  "fetched_at": "2025-08-04T18:01:08.884818"
 }
