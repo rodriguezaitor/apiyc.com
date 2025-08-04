@@ -3467,8 +3467,8 @@
       "name": "Hazel",
       "slug": "hazel-2",
       "website": "https://hazelai.com",
-      "description": "Hazel sells AI-powered procurement software to the 19,000+ local, state, and federal government entities which procure $2.7T a year. We use AI to write solicitations 10x faster and find 10x as many vendors, saving time and money",
-      "one_liner": "AI-enabled procurement software for government",
+      "description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving mission delivery.",
+      "one_liner": "AI-enabled procurement for government",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -3485,9 +3485,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
-        "Procurement"
+        "Procurement",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8286,5 +8286,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-04T06:04:13.052690"
+  "fetched_at": "2025-08-04T12:01:35.894928"
 }
