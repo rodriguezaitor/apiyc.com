@@ -476,6 +476,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c6be0818283f49c20fc921c3bc7db67bfb60bf5.png"
     },
     {
+      "id": 30775,
+      "name": "Fleetline",
+      "slug": "fleetline",
+      "website": "https://fleetline.ai",
+      "description": "Fleetline is building the first complete-context algorithmic load planner for\u00a0 mid to large-sized trucking fleets. Today\u2019s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet\u2019s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
+      "one_liner": "Optimizing fleet planning with data driven algorithms",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Logistics",
+        "Supply Chain",
+        "Data Science"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754335865.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7f2d064227baf73862c76f498eff3ea9f6c7d.png"
+    },
+    {
       "id": 30772,
       "name": "stagewise",
       "slug": "stagewise",
@@ -854,7 +888,7 @@
       "name": "Locata",
       "slug": "locata",
       "website": "https://www.locatahealth.com/",
-      "description": "Locata is an AI referral management platform for Health Centers. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don\u2019t get the care they need. These factors point to a glaring gap in the system\u2014where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta\u2019s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we\u2019ve secured $80K ARR and are in the process of taking our first customer live.",
+      "description": "Locata is an AI referral management platform for Health Centers. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don\u2019t get the care they need. These factors point to a glaring gap in the system\u2014where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta\u2019s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and are implementing our system to automate their entire referral workflow.",
       "one_liner": "AI referral management for Health Centers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1154,7 +1188,7 @@
       "name": "Avelis Health",
       "slug": "avelis-health",
       "website": "https://avelishealth.com",
-      "description": "\ud835\udc16\ud835\udc21\ud835\udc32 \ud835\udc30\ud835\udc1e \ud835\udc1b\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc2c:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1b\ud835\udc25\ud835\udc1e\ud835\udc26:\r\n\u2022 Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n\u2022 Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n\u2022\u00a0Existing audit software is static: Decades-old rule engines can\u2019t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n\u2022 Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n\ud835\udc0e\ud835\udc2e\ud835\udc2b \ud835\udc12\ud835\udc28\ud835\udc25\ud835\udc2e\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n\ud835\udc00\ud835\udc1b\ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc14\ud835\udc2c:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
+      "description": "\ud835\udc16\ud835\udc21\ud835\udc32 \ud835\udc30\ud835\udc1e \ud835\udc1b\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc2c:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $300K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1b\ud835\udc25\ud835\udc1e\ud835\udc26:\r\n\u2022 Self-insured employers waste $60 B+ each year on claims that never should have been paid. Healthcare is the 2nd largest company expense after payroll.\r\n\r\n\u2022 Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n\u2022\u00a0Existing audit software is static: Decades-old rule engines can\u2019t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n\u2022 Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n\ud835\udc0e\ud835\udc2e\ud835\udc2b \ud835\udc12\ud835\udc28\ud835\udc25\ud835\udc2e\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n\ud835\udc00\ud835\udc1b\ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc14\ud835\udc2c:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
       "one_liner": "We audit medical claims for self-insured employers and health plans.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1171,8 +1205,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
+        "Healthcare",
+        "Health Insurance",
+        "Healthcare IT",
         "AI"
       ],
       "stage": "Early",
@@ -1928,10 +1964,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Consumer",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2875,6 +2911,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcf816765d47aaccb81f4306b7dcf298ccb8337e.png"
     },
     {
+      "id": 30649,
+      "name": "Lilac",
+      "slug": "lilac",
+      "website": "https://getlilac.com",
+      "description": "Lilac is an open-source tool that ensures your data scientists always have enough gpus for their work. We seamlessly connect compute from any source, on-prem or cloud.",
+      "one_liner": "Open-Source MLOps platform ensuring your data scientists have GPUs",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Machine Learning",
+        "Open Source",
+        "Data Science",
+        "Infrastructure",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754345371.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png"
+    },
+    {
       "id": 30648,
       "name": "Janet AI",
       "slug": "tryjanet",
@@ -3104,7 +3176,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753857560.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d8ed7b9922cd71ce20920968c5cf25934ce4ad1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png"
     },
     {
       "id": 30627,
@@ -3903,5 +3975,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-04T18:01:09.576333"
+  "fetched_at": "2025-08-05T00:03:27.906039"
 }

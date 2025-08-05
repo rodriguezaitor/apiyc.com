@@ -1381,15 +1381,13 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "New York, NY, USA",
       "tags": [
         "Fintech",
-        "B2B",
-        "AI"
+        "Generative AI",
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2424,11 +2422,11 @@
       "name": "&AI",
       "slug": "ai-2",
       "website": "https://www.tryandai.com/",
-      "description": "&AI is an AI-powered workspace designed for patent attorneys. Leverage agentic AI to accelerate entire prosecution & litigation workflows in one secure, collaborative workspace.",
-      "one_liner": "Professional-Grade AI for Patent Attorneys",
+      "description": "Andy is the AI patent lawyer that tackles your most complex work end-to-end, returning litigation-ready results in a collaborate workspace for easy review.",
+      "one_liner": "Andy, the AI Patent Lawyer",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -5894,7 +5892,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720465631.0,
@@ -8321,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-04T18:01:08.607896"
+  "fetched_at": "2025-08-05T00:03:23.657018"
 }

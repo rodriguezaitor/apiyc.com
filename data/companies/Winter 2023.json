@@ -3777,10 +3777,10 @@
     },
     {
       "id": 27935,
-      "name": "compliant-llm (fka FiddleCube)",
-      "slug": "compliant-llm-fka-fiddlecube",
+      "name": "compliant-llm",
+      "slug": "compliant-llm",
       "website": "https://www.compliantllm.com/",
-      "description": "Compliant LLM is a comprehensive toolkit for ensuring the compliance and security of AI systems.\r\n\r\nInfosec, compliance, and gen AI teams use compliant-llm to ensure that their AI agents are secure and compliant with internal policies and frameworks like NIST, ISO, HIPAA, GDPR, etc.\r\n\r\nIt supports multiple LLM providers and can be used to test prompts, agents, MCP servers, and GenAI models.",
+      "description": "Compliant LLM analyzes user interactions with LLMs to detect and mitigate security risks in real-time.\r\n\r\nThe system monitors AI applications deployed in an enterprise, detecting unauthorized data access and malicious activity.",
       "one_liner": "Build Secure and Compliant AI agents and MCP Servers",
       "batch": "Winter 2023",
       "status": "Active",
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-08-04T18:01:08.431178"
+  "fetched_at": "2025-08-05T00:03:22.876370"
 }

@@ -1346,7 +1346,7 @@
       "name": "FuseAI",
       "slug": "fuseai",
       "website": "https://tryfuse.ai/",
-      "description": "We're building a new agentic operating system to enable enterprises to automate their entire go-to-market (GTM) organizations with vertical AI agents. You can think of the platform as a consolidation of every tool you would ever need to run your sales org. We enable you to run your entire sales deal cycle through a simple AI-powered interface, built on-top of an E2E product suite - use natural language to manage customer relationships, enrich B2B contacts, find high-intent leads, and engage with clients in seconds.",
+      "description": "We're building a new agentic operating system to enable startups to automate their entire go-to-market (GTM) organizations with vertical AI agents. You can think of the platform as a consolidation of every tool you would ever need to run your sales org. We enable you to run your entire sales deal cycle through a simple AI-powered interface - use natural language to manage customer relationships, enrich B2B contacts, find high-intent leads, and engage with clients in seconds.",
       "one_liner": "The only sales software you will ever need. ",
       "batch": "Winter 2025",
       "status": "Active",
@@ -2135,7 +2135,7 @@
         "Investing"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738274242.0,
@@ -5321,5 +5321,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-04T18:01:09.191492"
+  "fetched_at": "2025-08-05T00:03:25.970982"
 }
