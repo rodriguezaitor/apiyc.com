@@ -2784,14 +2784,14 @@
     },
     {
       "id": 30019,
-      "name": "ShowAndTell",
-      "slug": "showandtell",
-      "website": "https://www.tryshowandtell.com",
-      "description": "ShowAndTell creates AI agents for dental patient operations. Our agents educate patients, boost case acceptance, and build lasting trust. We enable dental staff to focus on patient care rather than patient operations.",
+      "name": "Avora",
+      "slug": "avora",
+      "website": "https://www.getavora.ai",
+      "description": "Avora helps dental groups (DSOs) boost case acceptance and institutionalize clinical excellence. We deploy agents that listen to appointments, identify coachable moments, and chart notes to save provider time.",
       "one_liner": "Agents for dental operations",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "Healthcare",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -2803,17 +2803,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Health Tech",
-        "Dental",
-        "AI"
+        "Dental"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1732046929.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c665b16548130250a715fffb82efe08cc789e047.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9165440cbb8c969d63144d50dbb3c762d777035.png"
     },
     {
       "id": 30018,
@@ -3046,5 +3046,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-08-05T12:01:36.061304"
+  "fetched_at": "2025-08-05T18:01:31.785032"
 }

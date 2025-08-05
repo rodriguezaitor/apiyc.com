@@ -3794,7 +3794,7 @@
         "Automotive"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701065445.0,
@@ -4273,16 +4273,17 @@
       "id": 29358,
       "name": "Aedilic",
       "slug": "aedilic",
-      "website": "https://www.saysoapp.com",
-      "description": "AI-assisted language learning.",
-      "one_liner": "AI-assisted language learning",
+      "website": "https://www.nonescape.com",
+      "description": "Open-source software for detecting AI-generated images (diffusion, GAN, deepfakes).",
+      "one_liner": "Open-Source AI-generated image/deepfake detection",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Security"
       ],
       "regions": [
         "United States of America",
@@ -4293,14 +4294,14 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Consumer"
+        "Computer Vision"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710792793.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ec5dcd3c0f011b54c766fa37bc1f04bd6b47351.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e453f612e8022f9284505dc7f70270165e918ea9.png"
     },
     {
       "id": 29357,
@@ -8286,5 +8287,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-05T12:01:35.272412"
+  "fetched_at": "2025-08-05T18:01:26.278115"
 }

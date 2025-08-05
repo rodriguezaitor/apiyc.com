@@ -5,11 +5,11 @@
       "name": "Nox Metals",
       "slug": "nox-metals",
       "website": "https://noxmetals.co/",
-      "description": "Nox Metals is building the fastest processing metals factory in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply CNC shops with custom-cut material at unmatched speed and efficiency.",
+      "description": "Nox Metals is building the fastest metals processing factories in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply America's industrial base with custom-cut material at unmatched speed and efficiency.",
       "one_liner": "The modern factory for fast, low-cost metals. ",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 2,
       "industry": "Industrials",
       "subindustry": "Unspecified",
       "industries": [
@@ -17,9 +17,10 @@
         "Manufacturing and Robotics"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "Detroit, MI, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -1371,11 +1372,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "Fraud Prevention",
-        "Fraud Detection",
-        "AI"
+        "Enterprise",
+        "Fraud Detection"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2114,7 +2115,7 @@
       "name": "Epicenter",
       "slug": "epicenter",
       "website": "https://epicenter.so/",
-      "description": "Epicenter is an open-source, local-first ecosystem for writers, builders, and privacy enthusiasts. It stores all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. \u2764\ufe0f\r\n\r\n\r\n\r\n",
+      "description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. \u2764\ufe0f\r\n\r\n\r\n\r\n",
       "one_liner": "A database for your mind, built on plain text.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2862,8 +2863,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "AI"
+        "Billing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3912,7 +3914,7 @@
       "name": "Nixo",
       "slug": "nixo",
       "website": "https://withnixo.com/",
-      "description": "",
+      "description": "Most orgs think custom implementations are slow because each one is too unique. In reality, FDEs lose days chasing customers for details and redoing overlapping work. With Nixo, you can scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across accounts.",
       "one_liner": "The first ops platform built for FDEs",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3938,7 +3940,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752219403.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png"
     },
     {
       "id": 30362,
@@ -4041,5 +4043,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-05T12:01:35.863916"
+  "fetched_at": "2025-08-05T18:01:30.231468"
 }
