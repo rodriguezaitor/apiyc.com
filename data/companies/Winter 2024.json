@@ -5114,11 +5114,11 @@
       "name": "Keywords AI",
       "slug": "keywords-ai",
       "website": "https://keywordsai.co",
-      "description": "Keywords AI is used by 40+ fastest growing YC startups to ship reliable AI features really fast.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
+      "description": "Keywords AI is used by 60+ fastest growing YC startups to ship reliable AI features really fast.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
       "one_liner": "LLM observability, prompt management, evals.",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -5134,10 +5134,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "Monitoring"
+        "Monitoring",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8286,5 +8286,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-05T06:02:09.225455"
+  "fetched_at": "2025-08-05T12:01:35.272412"
 }
