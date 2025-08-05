@@ -159,7 +159,7 @@
       "name": "Mobile Operator",
       "slug": "mobile-operator",
       "website": "https://mobileoperator.com",
-      "description": "Stop manually testing your app. Simply connect Mobile Operator to your CI/CD and let our AI agents take over. They explore your app like real users, not only catching crashes and bugs but also spotting UX problems. \r\nWithin 2 hours of testing, you\u2019ll receive a detailed report highlighting everything that needs fixing, so you can fix it and release with confidence",
+      "description": "Stop manually testing your app. Simply connect Mobile Operator to your CI/CD and let our AI agents take over. They explore your app like real users, not only catching crashes and bugs but also spotting UX problems. ",
       "one_liner": "AI agent that does QA on mobile apps",
       "batch": "Summer 2025",
       "status": "Active",
@@ -182,7 +182,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754272215.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d68045187489ed759dbce55922735d8dfc70b89.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/01723c14359ca49347f0c56cac50b76e726bd492.png"
     },
     {
       "id": 30797,
@@ -1120,7 +1120,7 @@
       "name": "Altur",
       "slug": "altur",
       "website": "https://altur.io",
-      "description": "",
+      "description": "Altur replaces contact\u2011center reps with autonomous voice/text agents that collect debt and close sales, while supervisors jump in only when the AI requests help.",
       "one_liner": "AI agents for debt collection and sales",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1138,9 +1138,9 @@
       ],
       "locations": "Mexico City, CDMX, Mexico",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Telecommunications"
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1554,7 +1554,7 @@
       "name": "Finto",
       "slug": "finto-de",
       "website": "https://www.gofinto.com/",
-      "description": "Finto automates accounting for enterprises. With agents, we double an accountant's productivity in handling accounts payable - from invoice verification and supplier communication to account assignment, approval workflows, and ERP postings, all in one streamlined step.",
+      "description": "Finto builds an AI platform that automates the invoice-to-pay process for enterprises operating on ERP Systems. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.\r\n",
       "one_liner": "AI accounting for enterprises",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1571,10 +1571,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1750,6 +1750,38 @@
       "is_top_company": false,
       "launched_at": 1751998711.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png"
+    },
+    {
+      "id": 30706,
+      "name": "Solva",
+      "slug": "solva",
+      "website": "https://www.solvatechnology.com",
+      "description": "Harvey for insurance - AI that automates insurance claims and stops wrongful payouts\r\n\r\nWe've spent the last decade battling legacy systems and dogma across highly regulated sectors of the financial industry. Between the three of us we have experience from scaling Europe\u2019s fastest-growing InsurTech and founding a EU-licensed bank (EBA CRD CI). ",
+      "one_liner": "Harvey for insurance",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Insurance",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Insurance",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754360048.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3433319e1ee9ca49d1592168aee7f875a287f1ea.png"
     },
     {
       "id": 30705,
@@ -3975,5 +4007,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-05T00:03:27.906039"
+  "fetched_at": "2025-08-05T06:02:10.297123"
 }
