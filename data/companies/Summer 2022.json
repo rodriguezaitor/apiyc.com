@@ -1674,7 +1674,7 @@
       "name": "Avina",
       "slug": "avina",
       "website": "https://avina.io",
-      "description": "Avina is a signals orchestration platform for B2B GTM teams that unlocks their hidden pipeline by gathering, prioritizing and enabling them to act on the most important buying signals and tasks.",
+      "description": "Avina uses AI agents to find prospects that are ready to buy, surface the warmest ones to your team and automate outreach to the rest.\r\n\r\nCompare us to tools like Unify or Common Room.",
       "one_liner": "GTM signals engine for sales teams. Automate warm outbound with AI.",
       "batch": "Summer 2022",
       "status": "Active",
@@ -1691,10 +1691,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Sales",
-        "Marketing",
-        "AI"
+        "Marketing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6254,9 +6254,9 @@
       "id": 26660,
       "name": "Chordio",
       "slug": "chordio",
-      "website": "https://prdkit.ai",
-      "description": "Chordio is an AI design companion that reviews your designs for UX copy, best practices, and design system compliance. It also helps you ideate and compose solid product briefs in minutes, including flow charts and lo-fi wireframes. \r\n\r\nIt goes beyond generic advice and learns the nuances of your product, design system, and best practices. This means every suggestion is fine tuned to help you thoughtfully enhance your existing product. \r\n\r\nFinally, it works where you do - in Figma, Slack, and web, so it's easy to incorporate into your existing workflow. \r\n",
-      "one_liner": "UX design copilot",
+      "website": "https://chordio.com",
+      "description": "Chordio is an AI-powered design review tool that helps product teams catch issues early, reduce QA grunt work,  and ship polished interfaces with confidence.\r\n\r\nIt works across Figma (plugin) and web (Chrome extension), so it's easy to incorporate into an existing design-development workflow. \r\n",
+      "one_liner": "AI-powered design reviews that guard your standards",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 4,
@@ -8123,5 +8123,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-08-05T18:01:26.976400"
+  "fetched_at": "2025-08-06T00:03:25.425879"
 }

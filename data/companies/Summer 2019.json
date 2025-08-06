@@ -2123,7 +2123,7 @@
         "Construction"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1556761531.0,
@@ -3261,7 +3261,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1556079534.0,
@@ -5961,5 +5961,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-08-05T18:01:28.440777"
+  "fetched_at": "2025-08-06T00:03:25.812320"
 }
