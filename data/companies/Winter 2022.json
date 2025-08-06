@@ -3938,40 +3938,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ce533baa712c5f3600e9396283ebfae0b33da7.png"
     },
     {
-      "id": 25820,
-      "name": "Fello",
-      "slug": "fello",
-      "website": "https://fello.in",
-      "description": "Fello is a game-based savings and investment application for the gen-z and young millennials of India to save play and earn returns more than a traditional savings bank account. We are merging the worlds of gaming and finance to make finance fun, easy and rewarding!\r\n\r\nUsers can save and invest in financial assets and for every rupee they save they get one gaming token using which they can play daily and weekly games and if they win in these games they get to win Rs.1 lakh every week!\r\n\r\nJust within a short span of 12 weeks of launch, we onboarded 250,000 users with 92% of them being referred users, 88% of them being first-time investors who are spending over 12 minutes on an average per day on the app saving and playing games together!",
-      "one_liner": "Grow money and win $1000 every week by saving and playing games",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 24,
-      "industry": "Fintech",
-      "subindustry": "Fintech",
-      "industries": [
-        "Fintech"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Bengaluru, KA, India",
-      "tags": [
-        "Fintech",
-        "Consumer",
-        "Gaming"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1644430130.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5217735d0eee015e36414930d3f8d9c1c25f207e.png"
-    },
-    {
       "id": 25819,
       "name": "Broccoli AI",
       "slug": "broccoli-ai",
@@ -12976,6 +12942,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8d639e2da217393023962cadbf5e44f0794f06.png"
     },
     {
+      "id": 25820,
+      "name": "Fello",
+      "slug": "fello",
+      "website": "https://fello.in",
+      "description": "Fello is a game-based savings and investment application for the gen-z and young millennials of India to save play and earn returns more than a traditional savings bank account. We are merging the worlds of gaming and finance to make finance fun, easy and rewarding!\r\n\r\nUsers can save and invest in financial assets and for every rupee they save they get one gaming token using which they can play daily and weekly games and if they win in these games they get to win Rs.1 lakh every week!\r\n\r\nJust within a short span of 12 weeks of launch, we onboarded 250,000 users with 92% of them being referred users, 88% of them being first-time investors who are spending over 12 minutes on an average per day on the app saving and playing games together!",
+      "one_liner": "Grow money and win $1000 every week by saving and playing games",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 24,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Bengaluru, KA, India",
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Gaming"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1644430130.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5217735d0eee015e36414930d3f8d9c1c25f207e.png"
+    },
+    {
       "id": 25817,
       "name": "Lifecast",
       "slug": "lifecast",
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-08-06T12:01:48.206022"
+  "fetched_at": "2025-08-06T18:01:27.658415"
 }
