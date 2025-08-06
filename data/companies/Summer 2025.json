@@ -481,7 +481,7 @@
       "name": "Fleetline",
       "slug": "fleetline",
       "website": "https://fleetline.ai",
-      "description": "Fleetline is building the first complete-context algorithmic load planner for\u00a0 mid to large-sized trucking fleets. Today\u2019s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet\u2019s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
+      "description": "Fleetline is building the first complete-context algorithmic load planner for\u00a0mid to large-sized trucking fleets. Today\u2019s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet\u2019s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
       "one_liner": "Optimizing fleet planning with data driven algorithms",
       "batch": "Summer 2025",
       "status": "Active",
@@ -498,10 +498,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Logistics",
         "Supply Chain",
-        "Data Science"
+        "Data Science",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3345,6 +3345,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/08842805c015165cf0d7e591168f2b15a9e9c85a.png"
     },
     {
+      "id": 30623,
+      "name": "Pharmie AI",
+      "slug": "pharmie-ai",
+      "website": "https://www.pharmie.app/",
+      "description": "Pharmie is an AI assistant for pharmacies. It can pick up calls, process prescriptions, handle insurance follow-ups, and even help upsell specific drugs and services. Pharmacies can get 50+ phone calls a day, and missing phone calls means lost revenue from filling prescriptions.\r\n\r\nPharmacy workflows are complex and custom to each pharmacy's needs. Generic tools are not enough, which is why AI agents can handle tasks end-to-end that previously could not be automated. We are constantly evolving Pharmie to become a suite of agents that supercharge your pharmacy.\r\n\r\nIn the future, pharmacies will evolve into patient care centers, bridging the gaps in access caused by today\u2019s overburdened healthcare system. Successful pharmacies will use AI to optimize their operations, resulting in a higher quality patient experience traditional pharmacies cannot match.",
+      "one_liner": "Your AI pharmacy technician",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Health Tech",
+        "Digital Health",
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754457298.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d229305f98494015f6e3f083bec99ca9e83082a.png"
+    },
+    {
       "id": 30622,
       "name": "Symbia",
       "slug": "symbia",
@@ -4111,5 +4146,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-06T00:03:26.224283"
+  "fetched_at": "2025-08-06T06:02:30.199229"
 }
