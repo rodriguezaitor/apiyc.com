@@ -6740,9 +6740,9 @@
       "id": 22745,
       "name": "CashBook",
       "slug": "cashbook",
-      "website": "https://cashbookapp.in",
-      "description": "CashBook is a cash accounting app for small businesses in India to record income and expenses. \r\nWe launched 6 months ago and already have 200k monthly active users on our app, and growing 27% month over month. Last month our users recorded $500 million of cash transactions using cash book\r\n\r\nIndia is still a cash-driven economy & home to 70M small businesses still recording their transactions on pen and paper.\r\n",
-      "one_liner": "Cash Accounting App for Small Businesses in India",
+      "website": "https://cashbook.in",
+      "description": "Issue UPI wallets to employees, track and control the spend.",
+      "one_liner": "Ramp for Indian Businesses - UPI Wallets for Employee Expenses",
       "batch": "Winter 2021",
       "status": "Active",
       "team_size": 4,
@@ -6754,9 +6754,9 @@
       ],
       "regions": [
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Remote",
+      "locations": "",
       "tags": [
         "Fintech",
         "SaaS",
@@ -11542,5 +11542,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-08-06T06:02:24.095685"
+  "fetched_at": "2025-08-06T12:01:48.967720"
 }

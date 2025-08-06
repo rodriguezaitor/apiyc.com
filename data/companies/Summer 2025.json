@@ -511,6 +511,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7f2d064227baf73862c76f498eff3ea9f6c7d.png"
     },
     {
+      "id": 30774,
+      "name": "Clodo",
+      "slug": "clodo",
+      "website": "https://clodo.ai",
+      "description": "Clodo is the AI Assistant for Real Estate Agents. \r\n\r\nClodo helps agents remember and follow up with all their leads. Building up your database and following up with leads are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and turning their database into a stronger engine for business.",
+      "one_liner": "The AI Assistant for Real Estate Agents",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Real Estate",
+        "Proptech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754475903.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd11a4f37675b9e0d48069394f06602cb460984f.png"
+    },
+    {
       "id": 30772,
       "name": "stagewise",
       "slug": "stagewise",
@@ -2418,6 +2452,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dea1f04b2d250b7dd6948c616c2684171b7258c.png"
     },
     {
+      "id": 30680,
+      "name": "Riverbank",
+      "slug": "riverbank",
+      "website": "https://www.riverbanksecurity.com/",
+      "description": "Riverbank is creating the first AI native internal security team, starting with the $3B pentesting market. We blend AI agents with experienced human operators and red teamers to find what traditional vulnerability scanners miss to create more secure, resilient cyber postures. ",
+      "one_liner": "AI Agents for Penetration Testing",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "IoT Security",
+        "Cybersecurity",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754465108.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2c4cd4965511ab936008331a12f4b2958401280.png"
+    },
+    {
       "id": 30675,
       "name": "BootLoop",
       "slug": "bootloop",
@@ -3882,6 +3951,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png"
     },
     {
+      "id": 30602,
+      "name": "Meteor",
+      "slug": "meteor",
+      "website": "https://browse.dev",
+      "description": "Meet Meteor: a Chrome-alternative that can actually do your work for you.\r\n\r\nWith agents getting better by the day (literally), we realize that it\u2019s time to automate the boring, tedious work.\r\n\r\nWe use your browser session to empower agents to act like your personal assistants (ex. book a calendar, find cheaper flights, buy clothes on amazon etc.)\r\n\r\nSome of Meteor\u2019s features:\r\n\r\n- Chat with any page\r\n- Integrate with popular apps like Gmail, Google Calendar, Twitter etc.\r\n- Browser agent to autonomously navigate the web and perform tasks\r\n- More coming soon!\r\n\r\nWe're excited to usher in a new era of browsing.",
+      "one_liner": "An AI-Native Browser",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754469732.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/463b3d216b98b96d985f820caa0a09e2c3c9ee44.png"
+    },
+    {
       "id": 30582,
       "name": "Pingo AI",
       "slug": "pingo-ai",
@@ -4146,5 +4247,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-06T06:02:30.199229"
+  "fetched_at": "2025-08-06T12:01:53.519246"
 }
