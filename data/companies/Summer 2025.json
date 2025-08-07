@@ -2421,8 +2421,8 @@
       "name": "Parachute",
       "slug": "parachute",
       "website": "https://parachute-ai.com",
-      "description": "Parachute is the AI Quality Assurance Lab for hospitals \u2014 end-to-end governance that lets clinical AI move from inception to implementation with confidence. We pre-vet vendors, enforce compliance, track every model in real time, and preserve an immutable audit log that stands up to regulators and litigators, enabling safe, scalable AI in healthcare.",
-      "one_liner": "Governance Infrastructure to Evaluate, Deploy, and Monitor Clinical AI",
+      "description": "Parachute helps hospitals adopt AI safely and at scale. We match hospitals with AI tools that fill their gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
+      "one_liner": "Evaluate, Deploy, and Monitor Clinical AI",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2438,11 +2438,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2910,6 +2910,40 @@
       "is_top_company": false,
       "launched_at": 1753646840.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/59526ba018b33a62299943322dc03eae29a298f4.png"
+    },
+    {
+      "id": 30655,
+      "name": "Frizzle",
+      "slug": "frizzle",
+      "website": "https://www.frizzle.com",
+      "description": "Founded in June of 2025, Frizzle uses AI to automatically grade math worksheets and assignments. The average teacher spends 10 hours per week grading homework - our software gets it done in minutes.\r\n\r\nFrizzle eliminates the most time-consuming part of teachers\u2019 workflows, and is the most valuable piece of software ever for teachers. Our platform helps educators automate repetitive tasks like grading and feedback, so they can focus on what matters most - teaching. \r\n\r\nTwo principles guide our work. First, build tools teachers actually trust and enjoy using. Second, design products that are simple, fast, and seamlessly fit into the classroom.",
+      "one_liner": "AI grading and feedback for K\u201312 math teachers",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Artificial Intelligence",
+        "Education",
+        "SaaS",
+        "Edtech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754512868.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/abe1fcfe7ee928c43b6fa34748a1f7b5f5133287.png"
     },
     {
       "id": 30653,
@@ -3539,11 +3573,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "DevOps",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4247,5 +4281,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-06T18:01:32.492903"
+  "fetched_at": "2025-08-07T00:03:25.578586"
 }

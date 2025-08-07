@@ -9572,6 +9572,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1786834366804ba2ed29076ffc03671952338d22.png"
     },
     {
+      "id": 22771,
+      "name": "Avenue",
+      "slug": "avenue",
+      "website": "https://avenue.app/",
+      "description": "Avenue is a simple way for business teams to set up alerts from their database or data warehouse. Think Datadog / PagerDuty for operations teams.\r\n\r\nOperations teams create set-and-forget alerts on all their data, so they can be more proactive with their time (and monitor on more nuanced triggers than just what fits on their dashboard page).\r\n\r\nAvenue can improve response times to critical problems from several days to real-time by alerting directly on the data sources that customers already use.",
+      "one_liner": "Observability platform for operations teams",
+      "batch": "Winter 2021",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614620141.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f67e2ce27f5eb8afbeff838eb65ceab7f77903.png"
+    },
+    {
       "id": 22752,
       "name": "ClipDrop",
       "slug": "clipdrop",
@@ -10896,39 +10929,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2939fc1f345f3d723e20ae656bdeadcc024ba9e0.png"
     },
     {
-      "id": 22771,
-      "name": "Avenue",
-      "slug": "avenue",
-      "website": "https://avenue.app/",
-      "description": "Avenue is a simple way for business teams to set up alerts from their database or data warehouse. Think Datadog / PagerDuty for operations teams.\r\n\r\nOperations teams create set-and-forget alerts on all their data, so they can be more proactive with their time (and monitor on more nuanced triggers than just what fits on their dashboard page).\r\n\r\nAvenue can improve response times to critical problems from several days to real-time by alerting directly on the data sources that customers already use.",
-      "one_liner": "Observability platform for operations teams",
-      "batch": "Winter 2021",
-      "status": "Inactive",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Data Engineering"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614620141.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f67e2ce27f5eb8afbeff838eb65ceab7f77903.png"
-    },
-    {
       "id": 22755,
       "name": "Finary",
       "slug": "finary",
@@ -11542,5 +11542,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-08-06T18:01:28.351938"
+  "fetched_at": "2025-08-07T00:03:23.876742"
 }

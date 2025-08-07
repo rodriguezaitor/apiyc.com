@@ -1190,41 +1190,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0af36732c31f9de500d8cee39a790da8b6870407.png"
     },
     {
-      "id": 24818,
-      "name": "BlackOakTV",
-      "slug": "blackoaktv",
-      "website": "https://blackoak.tv",
-      "description": "BlackOakTV is a subscription video platform hyper-serving black viewers and creators. We make it easy for black viewers to find, watch and engage with the content and creators that most reflect their lives and experiences. ",
-      "one_liner": "A video subscription platform serving black viewers and creators.",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Content",
-      "industries": [
-        "Consumer",
-        "Content"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Entertainment",
-        "Community",
-        "Subscriptions"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1625141871.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41c332786204766da2f20d0713ecf7263a1e799b.png"
-    },
-    {
       "id": 24817,
       "name": "Bytebot",
       "slug": "bytebot",
@@ -12162,6 +12127,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3734c55745b1bc2f44cad8282c8cfa0c0e4f9bc.png"
     },
     {
+      "id": 24818,
+      "name": "BlackOakTV",
+      "slug": "blackoaktv",
+      "website": "https://blackoak.tv",
+      "description": "BlackOakTV is a subscription video platform hyper-serving black viewers and creators. We make it easy for black viewers to find, watch and engage with the content and creators that most reflect their lives and experiences. ",
+      "one_liner": "A video subscription platform serving black viewers and creators.",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Entertainment",
+        "Community",
+        "Subscriptions"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1625141871.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41c332786204766da2f20d0713ecf7263a1e799b.png"
+    },
+    {
       "id": 24787,
       "name": "Squire.ai",
       "slug": "squire-ai",
@@ -13429,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-08-06T18:01:28.020541"
+  "fetched_at": "2025-08-07T00:03:23.703002"
 }
