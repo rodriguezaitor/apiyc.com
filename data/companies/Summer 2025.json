@@ -68,7 +68,7 @@
       "slug": "paloma",
       "website": "https://getpaloma.ai/",
       "description": "Paloma is a modular quote-to-cash stack that lets you manage pricing, quoting, and billing processes using natural language.\r\n\r\nB2B quoting and billing systems are stuck in the past. Rigid configurations and overly templatized rules slow down businesses, lead to erroneous manual processes , and result in fragmented sources of truths. Paloma lets you define your business rules in natural language, integrate your playbooks into the sales and quoting process, and automate bespoke billing processes for each of your contracts.",
-      "one_liner": "AI-native B2B quoting and billing",
+      "one_liner": "Modular quote-to-cash stack configured using natural language",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -4019,7 +4019,7 @@
       "name": "Closera",
       "slug": "closera",
       "website": "https://closera.com",
-      "description": "We're building AI employees for commercial real estate (CRE) brokerages that are better than today's best analysts.\r\n\r\nWe're starting by automating the workflows done by human brokers while marketing commercial properties (creating listings, staging properties, drafting offering memorandums, and more). We save them time and enable them to personalize materials, so they can do more deals, improve conversion rates, and make more money.\r\n\r\nWe see this as our wedge into the market as we work towards our vision of building a full-stack AI system that handles all the repetitive and time-consuming parts of a CRE broker\u2019s job (and eventually in other industries as well). \r\n\r\nWe envision a future where people in the industry are free from making decks and doing grunt work, so they can focus on the parts of the job they love (or just have more free time for pickleball \ud83c\udfd3)!\r\n\r\nCurious? Check us out at closera.com",
+      "description": "We are building Harvey for Commercial Real Estate. \r\n\r\n\r\nClosera automates the most time-consuming tasks that slows deals down:\r\n\u2022 Sales decks that used to take 4 weeks and cost $5,000? Now done in minutes\r\n\u2022 Property valuation models that took hours? Built in seconds\r\n\u2022 Verifying data for thousands of listings? Happens all at once, not over days\r\n\r\nClosera is building the AI native operating system for the $37T commercial real estate industry. \r\n\r\nLearn more at closera.com",
       "one_liner": "AI employees for commercial real estate",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4035,11 +4035,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Real Estate",
         "B2B",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4265,15 +4265,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Real Estate"
+        "Real Estate",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754534050.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cd7b8c46884575ab715c9679d548445893f9c85.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fca13dc43fd4d61ca3e94f6ac18b35f94f668a4c.png"
     },
     {
       "id": 30362,
@@ -4376,5 +4376,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-07T06:01:54.767395"
+  "fetched_at": "2025-08-07T12:01:44.982231"
 }
