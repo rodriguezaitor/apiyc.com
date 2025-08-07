@@ -2888,31 +2888,34 @@
     },
     {
       "id": 30016,
-      "name": "Andoria",
-      "slug": "andoria",
-      "website": "https://andoria.ai/",
-      "description": "Andoria is building AI for enterprise training, enablement, and onboarding.",
-      "one_liner": "AI onboarding and training",
+      "name": "Zeroframe",
+      "slug": "zeroframe",
+      "website": "https://zeroframe.ai",
+      "description": "",
+      "one_liner": "Pushing the boundaries of AI",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730323819.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e231d5b9221bb861a6f913385a74f69a4763ea0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     },
     {
       "id": 30014,
@@ -3046,5 +3049,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-08-07T00:03:26.350531"
+  "fetched_at": "2025-08-07T06:01:57.225752"
 }

@@ -63,6 +63,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f718a96f18441a4d4318fcd60339769b1c6a4118.png"
     },
     {
+      "id": 30807,
+      "name": "Paloma",
+      "slug": "paloma",
+      "website": "https://getpaloma.ai/",
+      "description": "Paloma is a modular quote-to-cash stack that lets you manage pricing, quoting, and billing processes using natural language.\r\n\r\nB2B quoting and billing systems are stuck in the past. Rigid configurations and overly templatized rules slow down businesses, lead to erroneous manual processes , and result in fragmented sources of truths. Paloma lets you define your business rules in natural language, integrate your playbooks into the sales and quoting process, and automate bespoke billing processes for each of your contracts.",
+      "one_liner": "AI-native B2B quoting and billing",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Sales",
+        "Billing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754546482.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/01497e515547ce9c7bea00cb2ba411a693d241a5.png"
+    },
+    {
       "id": 30806,
       "name": "Uplift AI",
       "slug": "uplift-ai",
@@ -254,12 +288,44 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png"
     },
     {
+      "id": 30795,
+      "name": "NOSO LABS",
+      "slug": "noso-labs",
+      "website": "https://noso.so",
+      "description": "In the home services industry, field technicians are expected to handle three key tasks: diagnosing issues, making sales, and completing paperwork. It's rare to find individuals who excel at all three. We build AI agents to support technicians by improving diagnostic accuracy and helping them capture sales opportunities.",
+      "one_liner": "Build AI agents for field technicians to diagnose and sell 10x better",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Diagnostics",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754539415.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/65242d9e142c66d4afe70eb47ebf05c1dcff789c.png"
+    },
+    {
       "id": 30794,
       "name": "Vulcan Technologies",
       "slug": "vulcan-technologies",
       "website": "https://www.vulcan-tech.com/",
-      "description": "Vulcan primarily offers two different AI services for two different constituencies:\r\n1) Automatic regulatory drafting for executive branch agencies in government and \r\n2) Regulatory compliance and comment for industry\r\nBeneath these tools is a proprietary system that we call \"intelligent legal cartography,\" an automatic mapping of relationships between statutes, regulations, and case law. In short: Vulcan equips agencies to comply with changing state and federal law, and enables business to comment, contest, and comply with regulatory requirements.",
-      "one_liner": "AI legal cartography",
+      "description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the private sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
+      "one_liner": "AI regulatory drafting and compliance",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -274,10 +340,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "GovTech",
-        "Compliance"
+        "Compliance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2917,7 +2983,7 @@
       "slug": "frizzle",
       "website": "https://www.frizzle.com",
       "description": "Founded in June of 2025, Frizzle uses AI to automatically grade math worksheets and assignments. The average teacher spends 10 hours per week grading homework - our software gets it done in minutes.\r\n\r\nFrizzle eliminates the most time-consuming part of teachers\u2019 workflows, and is the most valuable piece of software ever for teachers. Our platform helps educators automate repetitive tasks like grading and feedback, so they can focus on what matters most - teaching. \r\n\r\nTwo principles guide our work. First, build tools teachers actually trust and enjoy using. Second, design products that are simple, fast, and seamlessly fit into the classroom.",
-      "one_liner": "AI grading and feedback for K\u201312 math teachers",
+      "one_liner": "AI grading for math teachers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2933,10 +2999,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Education",
         "SaaS",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2950,7 +3016,7 @@
       "name": "Skope",
       "slug": "skope",
       "website": "https://useskope.com",
-      "description": "We\u2019re taking a new approach to the legacy billing system, for AI-native companies. On top of normal pricing models, Skope allows companies to create a new stream of revenue by capturing a portion of the value their agents create through \u201coutcome-based pricing\".",
+      "description": "We\u2019re building a billing system, for AI companies. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are excited to be the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
       "one_liner": "A modern billing system for AI-native companies.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2966,9 +3032,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3088,7 +3154,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly\u2014most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that\u2019s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\r\n\r\nBecause the data\u2019s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. \u201cWhat are the highest priority login bugs hitting enterprise customers running version X?\u201d \u201cHow should I fix issue PROJ-123?\u201d \u201cWhat are the most critical issues related to PROJ-456 and how should I prioritize these?\u201d\r\n\r\nSeveral multi\u2011billion\u2011dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
+      "description": "Big companies are drowning in Jira tickets. They get thousands of reported issues every month\u2014most never seen by anyone with full context. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Teams spend hundreds of hours just figuring out what\u2019s important\u2014before they can even start fixing it.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and compares it to everything that\u2019s come before. It builds a knowledge graph across projects: which tickets are duplicates, which share the same root cause, and which roll up into the same component failure. It automatically surfaces related tickets, flags prior fixes, and identifies what matters most\u2014across all projects and teams.\r\n\r\nThis transforms how organizations handle tickets at scale:\r\n\u2022 Customer support can immediately check if engineering is already working on a reported issue, reducing back-and-forth and surfacing statuses and fixes faster.\r\n\u2022 Ticket routing becomes smarter\u2014Janet shows which individuals or teams are already tackling related issues.\r\n\u2022 Engineering teams get cross-project visibility\u2014seeing how other teams are solving similar problems and avoiding redundant work.\r\n\u2022 No more context lost in silos\u2014when 20 related tickets each contain a piece of the puzzle, Janet AI connects the dots. You can ask Janet to explore related issues and extract the insights you\u2019d otherwise miss.\r\n\r\nSeveral multi\u2011billion\u2011dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Visit tryjanet.ai to book a demo, get started, or watch short videos showing how Janet AI works across each use case.",
       "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3104,10 +3170,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps"
+        "DevOps",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3256,7 +3322,7 @@
       "name": "Monarcha",
       "slug": "monarcha",
       "website": "https://monarcha.ai",
-      "description": "Monarcha is an AI-powered geospatial platform that turns natural language into spatial analysis, styling, and workflows with no GIS expertise required. It connects to your data, understands context, and can runs 50+ spatial tools instantly on the map.",
+      "description": "Monarcha is an AI-powered geospatial platform built for logistics, real estate, urban planning, and environmental teams. It turns natural language into powerful spatial analysis, styling, and workflows with no GIS expertise required.\r\n\r\nWorking with geospatial data today is slow, fragmented, and deeply technical. Simple tasks often require desktop based software and coding expertise. Most platforms rely on outdated desktop software, steep learning curves, and disconnected tools. Even simple tasks like uploading data, running a buffer, or visualizing zones can take hours and require specialists.\r\n\r\nMonarcha changes that.\r\nWe connect directly to your data, enrich it with public datasets, understand spatial context, and let you run 50+ spatial tools instantly on the map. Upload vector or raster files, run PostGIS SQL queries, generate heatmaps, clip zones, and more all with a simple prompt. We're giving everyone the power of advanced spacial analysis to help save time, money and unlock siloed geospatial data across entire organizations. \r\n\r\nWant to learn more? Check out monarcha.ai",
       "one_liner": "The AI GIS Platform ",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3471,8 +3537,6 @@
       "tags": [
         "SaaS",
         "Health Tech",
-        "Digital Health",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4181,6 +4245,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png"
     },
     {
+      "id": 30364,
+      "name": "Wayline",
+      "slug": "wayline",
+      "website": "https://wayline.com",
+      "description": "Wayline is an AI front desk assistant purpose-built for real estate to answer calls and messages 24/7. It\u2019s like an always-on property manager that can convert leads and resolve issues better than any human, day or night. Our AI can be setup in as little as 24 hours and works seamlessly with existing phone/management software. Uniquely, our AI knowledge base is domain-specific to learn and handle the most complex real estate workflows. For property operators, Wayline instantly replaces robo-menus and call centers, while centralizing and scaling back-office teams.",
+      "one_liner": "AI voice assistant for real estate managers",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction",
+      "industries": [
+        "Real Estate and Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Real Estate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754534050.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cd7b8c46884575ab715c9679d548445893f9c85.png"
+    },
+    {
       "id": 30362,
       "name": "Ambral",
       "slug": "ambral",
@@ -4281,5 +4376,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-07T00:03:25.578586"
+  "fetched_at": "2025-08-07T06:01:54.767395"
 }
