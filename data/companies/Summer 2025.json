@@ -68,7 +68,7 @@
       "slug": "paloma",
       "website": "https://getpaloma.ai/",
       "description": "Paloma is a modular quote-to-cash stack that lets you manage pricing, quoting, and billing processes using natural language.\r\n\r\nB2B quoting and billing systems are stuck in the past. Rigid configurations and overly templatized rules slow down businesses, lead to erroneous manual processes , and result in fragmented sources of truths. Paloma lets you define your business rules in natural language, integrate your playbooks into the sales and quoting process, and automate bespoke billing processes for each of your contracts.",
-      "one_liner": "Modular quote-to-cash stack configured using natural language",
+      "one_liner": "Modular quoting and billing platform configured using natural language",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -83,11 +83,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Sales",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -303,17 +303,12 @@
         "Industrials"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "Diagnostics",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754539415.0,
@@ -2487,7 +2482,7 @@
       "name": "Parachute",
       "slug": "parachute",
       "website": "https://parachute-ai.com",
-      "description": "Parachute helps hospitals adopt AI safely and at scale. We match hospitals with AI tools that fill their gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
+      "description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
       "one_liner": "Evaluate, Deploy, and Monitor Clinical AI",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2504,18 +2499,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752533752.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dea1f04b2d250b7dd6948c616c2684171b7258c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png"
     },
     {
       "id": 30680,
@@ -4376,5 +4371,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-07T12:01:44.982231"
+  "fetched_at": "2025-08-07T18:01:12.292308"
 }
