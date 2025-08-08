@@ -2131,19 +2131,19 @@
     },
     {
       "id": 13344,
-      "name": "HumBee",
-      "slug": "humbee",
-      "website": "",
-      "description": "",
-      "one_liner": "Pseudonymous avatar based social app for young Indians ",
+      "name": "Chutney Inc",
+      "slug": "chutney-inc",
+      "website": "https://www.chutneystore.com",
+      "description": "Chutney Inc builds AI agents for Product managers. Our 1st AI agent Flasho conducts user interviews, synthesises information and provides instant insights. ",
+      "one_liner": "Autonomous AI agents to conduct user interviews for product managers",
       "batch": "Winter 2020",
       "status": "Active",
       "team_size": 5,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "Consumer",
-        "Social"
+        "B2B",
+        "Productivity"
       ],
       "regions": [
         "India",
@@ -2153,15 +2153,15 @@
       ],
       "locations": "Bengaluru, KA, India; Remote",
       "tags": [
-        "Consumer",
-        "Social"
+        "Artificial Intelligence",
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1583799212.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/17e5e258121ec65b2cd26145798213c477eaed03.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ce42720f9e875d1a3ef445809b60e9d32c83ce7.png"
     },
     {
       "id": 13343,
@@ -7725,5 +7725,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-08-08T12:01:29.491896"
+  "fetched_at": "2025-08-08T18:01:14.252831"
 }
