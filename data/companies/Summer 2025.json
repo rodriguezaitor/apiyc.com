@@ -224,7 +224,7 @@
       "name": "burnt",
       "slug": "burnt",
       "website": "https://getburnt.ai/",
-      "description": "Food Supply Chain companies have been using legacy ERPs for decades. Everyone knows these are necessary evils that essentially run the business but take up a lot of operational capacity. They are not about to just rip and replace their existing system that runs their whole business with a system that takes years to implement. Imagine if they could implement AI that runs the ERP for them, in weeks?\r\n\r\nBurnt\u2019s building an agentic OS for the Food Supply Chain with AI Agents for each department. \r\n\r\nOur AI Agent, Ozai, replaces the whole order management job function at food distribution companies, so that sales and customer service teams can focus on what matters - the customer. Ozai monitors all incoming messages (emails, phone calls, voicemails, whatsapp, fax etc.), figures out if it's an order, learns each customer's habits, shorthand, and favorite products, picks up on any prep notes, and enters it straight into the existing ERP. It'll even go back to the customers on your behalf when it's not sure about something, clarify things and carry on working. \r\n\r\nThe more it sees, the smarter it gets. ",
+      "description": "Food Supply Chain companies have been using legacy ERPs for decades. Everyone knows these are necessary evils that essentially run the business but take up a lot of operational capacity. They are not about to just rip and replace their existing system that runs their whole business with a system that takes years to implement. Imagine if they could implement AI that runs the ERP for them, in weeks?\r\n\r\nBurnt\u2019s building an agentic OS for the Food Supply Chain with AI Agents for each department. \r\n\r\nOur AI Agent, Ozai, has started by replacing the whole order management job function at food distribution companies, so that sales and customer service teams can focus on what matters - the customer. Ozai monitors all incoming messages (emails, phone calls, voicemails, whatsapp, fax etc.), figures out if it's an order, learns each customer's habits, shorthand, and favorite products, picks up on any prep notes, and enters it straight into the existing ERP. It'll even go back to the customers on your behalf when it's not sure about something, clarify things and carry on working. \r\n\r\nThe more it sees, the smarter it gets. \r\n",
       "one_liner": "Agentic Operating System for Food Supply Chain",
       "batch": "Summer 2025",
       "status": "Active",
@@ -241,9 +241,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Supply Chain",
-        "Food Tech"
+        "Food Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2343,8 +2343,8 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "",
-      "one_liner": "Hardware-Aware Coding Agent",
+      "description": "Generate and test firmware with AI agents.",
+      "one_liner": "Cursor for Embedded",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3342,7 +3342,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751530242.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4c71ece046811452b38f77a8c1c6661fdc19925.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png"
     },
     {
       "id": 30642,
@@ -4436,5 +4436,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-08T00:03:25.336787"
+  "fetched_at": "2025-08-08T06:01:50.551593"
 }
