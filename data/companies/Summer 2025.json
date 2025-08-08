@@ -220,6 +220,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/01723c14359ca49347f0c56cac50b76e726bd492.png"
     },
     {
+      "id": 30801,
+      "name": "burnt",
+      "slug": "burnt",
+      "website": "https://getburnt.ai/",
+      "description": "Food Supply Chain companies have been using legacy ERPs for decades. Everyone knows these are necessary evils that essentially run the business but take up a lot of operational capacity. They are not about to just rip and replace their existing system that runs their whole business with a system that takes years to implement. Imagine if they could implement AI that runs the ERP for them, in weeks?\r\n\r\nBurnt\u2019s building an agentic OS for the Food Supply Chain with AI Agents for each department. \r\n\r\nOur AI Agent, Ozai, replaces the whole order management job function at food distribution companies, so that sales and customer service teams can focus on what matters - the customer. Ozai monitors all incoming messages (emails, phone calls, voicemails, whatsapp, fax etc.), figures out if it's an order, learns each customer's habits, shorthand, and favorite products, picks up on any prep notes, and enters it straight into the existing ERP. It'll even go back to the customers on your behalf when it's not sure about something, clarify things and carry on working. \r\n\r\nThe more it sees, the smarter it gets. ",
+      "one_liner": "Agentic Operating System for Food Supply Chain",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Supply Chain",
+        "Food Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754594051.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af9e43cd6c77970b3bff5071024e812ac9ee3e0.png"
+    },
+    {
       "id": 30797,
       "name": "Veritus Agent",
       "slug": "veritus-agent",
@@ -737,6 +770,39 @@
       "is_top_company": false,
       "launched_at": 1752707566.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2f1b7539d172894c5a52bd97c07fa059c46ce1.png"
+    },
+    {
+      "id": 30765,
+      "name": "Daymi",
+      "slug": "daymi",
+      "website": "https://www.daymi.ai/",
+      "description": "Daymi is an AI clone of the user that they can text or call. Daymi's familiar voice makes it easy for users to share their thoughts, explore new ideas, and just have fun. \r\n\r\nChatGPT is boring. AI girlfriends are harmful. Daymi is a new take on a personal AI companion that is both entertaining and productive.",
+      "one_liner": "Text your personal AI clone",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer",
+        "Messaging",
+        "AI",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754592638.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5848c29223896aa826a2859d9f3fcc6f8a26406.png"
     },
     {
       "id": 30763,
@@ -1852,7 +1918,7 @@
       "name": "Solva",
       "slug": "solva",
       "website": "https://solvatechnology.com",
-      "description": "Harvey for insurance - AI that automates insurance claims and stops wrongful payouts\r\n\r\nWe've spent the last decade battling legacy systems and dogma across highly regulated sectors of the financial industry. Between the three of us we have experience from scaling Europe\u2019s fastest-growing InsurTech and founding a EU-licensed bank (EBA CRD CI). ",
+      "description": "Harvey for insurance - AI that automates insurance claims and stops wrongful payouts\r\n\r\nWe've spent the last decade battling legacy systems and dogma across highly regulated sectors of the financial industry. Between the three of us we have experience from scaling Europe\u2019s fastest-growing InsurTech and founding a licensed bank (EBA CRD CI). ",
       "one_liner": "Harvey for insurance",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1869,8 +1935,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Insurance",
-        "AI"
+        "Artificial Intelligence",
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2241,18 +2307,19 @@
     },
     {
       "id": 30692,
-      "name": "Wisp AI",
-      "slug": "wisp-ai",
-      "website": "https://wispai.app/",
-      "description": "Wisp AI is the executive assistant for everyone \u2014 not just CEOs. It manages your calendar, drafts emails, summarizes meetings and notes, and handles your to-dos and reminders. Built for small business owners and busy employees, Wisp saves hours every week by automating admin work \u2014 all for a fraction of the cost of a human assistant.",
-      "one_liner": "Wisp AI is an executive assistant for the everyday user.",
+      "name": "Candytrail",
+      "slug": "candytrail",
+      "website": "https://candytrail.ai/",
+      "description": "Candytrail uses AI Agents to run your sales funnel on autopilot and train your reps.\r\n\r\n\u2022 AI Lead Discovery: Web-crawling agents crawl your ideal market to surface high-intent leads and deliver personalized outreach. You receive a curated list of buyers plus a ready-to-send, personalized email crafted to maximize replies.\r\n\r\n\u2022 Conversation Intelligence: Every call is automatically recorded, transcribed, and scored. Candytrail\u2019s pattern-engine highlights the phrases, objection-handling tactics, and talk-time ratios that correlate with closed deals.\r\n\r\n\u2022 Auto-Coaching at Scale: Reps get real-time tips on winning conversation patterns, and managers can drop timestamped feedback that lands straight on each rep\u2019s phone\u2014delivering \u201cride-along\u201d insights after every single call.\r\n\r\nWe\u2019re starting with Med Spas, but support any sales organization from B2B SaaS to cash-pay clinics.",
+      "one_liner": "AI Agents that run your sales funnel and train your reps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Sales"
       ],
       "regions": [
         "United States of America",
@@ -2260,16 +2327,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Generative AI",
-        "Productivity",
-        "AI Assistant"
+        "Artificial Intelligence",
+        "Sales",
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751244737.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/af1b75ac54386edfe8b2d84e507e2337ad380cce.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0fdeec730be1800b110510e5da85dc49f55644c.png"
     },
     {
       "id": 30691,
@@ -3542,42 +3609,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d229305f98494015f6e3f083bec99ca9e83082a.png"
     },
     {
-      "id": 30622,
-      "name": "Symbia",
-      "slug": "symbia",
-      "website": "https://symbiauto.com",
-      "description": "We help biotechs and CROs generate high-quality IND reports in minutes with AI.",
-      "one_liner": "We automate clinical trial applications",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "Health Tech",
-        "B2B",
-        "Biotech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1753401226.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/163bc24ed8ca28aa30e4fe248825489bc41c5d4d.png"
-    },
-    {
       "id": 30621,
       "name": "Pond",
       "slug": "pond",
@@ -3779,6 +3810,40 @@
       "is_top_company": false,
       "launched_at": 1753218115.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d37647098f0e48b82775e4aeffec72627577735.png"
+    },
+    {
+      "id": 30614,
+      "name": "Gaus",
+      "slug": "gaus",
+      "website": "https://www.joingaus.com/",
+      "description": "Gaus is building Cursor for individual investors. \r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Gaus gives every active investor an AI investment analyst working around the clock to surface their next great investment. We\u2019re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don\u2019t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
+      "one_liner": "Cursor for individual investors",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "Investing",
+        "Consumer Finance",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754607917.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46613747d4e524395d78d130167310be1c6c0303.png"
     },
     {
       "id": 30613,
@@ -4162,9 +4227,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4275,7 +4340,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic AI models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, and make sure no request falls through the cracks.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+      "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic digital models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, and make sure no request falls through the cracks.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
       "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4291,9 +4356,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4371,5 +4436,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-07T18:01:12.292308"
+  "fetched_at": "2025-08-08T00:03:25.336787"
 }

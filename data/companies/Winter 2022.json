@@ -5263,11 +5263,11 @@
       "name": "Finnt",
       "slug": "finnt",
       "website": "https://finnt.com",
-      "description": "Finnt AI Agents improve and accelerate Corporate Finance procedures in FP&A, Controllership, Accounting, Tax etc. \r\n",
+      "description": "Finnt AI Agents run Controllership and Accounting procedures to accelerate time to close and increase accuracy. ERP-ready journals and financial reports delivered in under 5 minutes, with audit-trail and commentary. \r\n",
       "one_liner": "AI Agents for CFO and Finance teams",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -5280,18 +5280,18 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Finance",
         "B2B",
         "Workflow Automation",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643292732.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bd1190f4287a4028c8822c8ac5cf6da24fcd9.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/76ced0ae663413325aa735ad7b15bae4019f286f.png"
     },
     {
       "id": 25711,
@@ -6690,7 +6690,7 @@
         "Analytics"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1644374925.0,
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-08-07T18:01:06.841129"
+  "fetched_at": "2025-08-08T00:03:20.232058"
 }
