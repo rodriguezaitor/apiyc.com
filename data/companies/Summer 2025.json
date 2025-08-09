@@ -2716,10 +2716,10 @@
     },
     {
       "id": 30669,
-      "name": "Dash",
-      "slug": "dash",
-      "website": "https://www.usedash.ai/",
-      "description": "Dash is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
+      "name": "Slashy",
+      "slug": "slashy",
+      "website": "https://www.slashy.ai/",
+      "description": "Slashy is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
       "one_liner": "ChatGPT with Hands",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2736,8 +2736,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Workflow Automation",
-        "AI"
+        "Artificial Intelligence",
+        "Workflow Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3378,6 +3378,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png"
     },
     {
+      "id": 30643,
+      "name": "Nuntius",
+      "slug": "nuntius",
+      "website": "https://www.nuntius.ai",
+      "description": "We\u2019re building automated infrastructure for post-training and alignment, with the ability to semi-autonomously generate thousands of multi-turn scenarios and fully automate their quality assurance.",
+      "one_liner": "We\u2019re building automated infrastructure for model alignment.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754692935.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6253fd674dae7ce1952ac4c50cd5e1851395f7c0.png"
+    },
+    {
       "id": 30642,
       "name": "Orange Slice",
       "slug": "orange-slice",
@@ -3679,7 +3710,7 @@
       "name": "Ghostship",
       "slug": "ghostship",
       "website": "https://tryghostship.dev/",
-      "description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship \u2014 ship something people want.",
+      "description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship \u2014 ship something people love.",
       "one_liner": "AI Agents that Find Bugs in Your Product",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3696,11 +3727,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "DevOps",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4108,6 +4139,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/599629b9dce294f5621aeaf663b76424933bd820.png"
     },
     {
+      "id": 30604,
+      "name": "Parametric",
+      "slug": "parametric",
+      "website": "https://parametric.company/",
+      "description": "Modern robots perform complex tasks but operate as black boxes. Operators can't understand their decision-making or predict when they may fail. This uncertainty gates widespread adoption across countless industries where errors are unacceptable.\r\n\r\nParametric is training safe robotics models that reveal internal reasoning and offer real-time intervention to unlock deployment across safety-critical industries. ",
+      "one_liner": "Robotics models for automating industries where errors can kill",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Deep Learning",
+        "Reinforcement Learning",
+        "Robotics",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754696414.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54fe3c1f5ea37b2861f3e64d7b8d15333c1def29.png"
+    },
+    {
       "id": 30603,
       "name": "Closera",
       "slug": "closera",
@@ -4469,5 +4534,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-08T18:01:17.095507"
+  "fetched_at": "2025-08-09T00:02:56.152917"
 }

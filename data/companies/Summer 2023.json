@@ -1163,7 +1163,7 @@
       "one_liner": "Flight search engine using credit card points and miles",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "Consumer",
       "subindustry": "Fintech -> Consumer Finance",
       "industries": [
@@ -1176,11 +1176,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Travel",
         "Airlines",
-        "Consumer Finance",
-        "AI"
+        "Consumer Finance"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7343,5 +7343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-08T18:01:14.607727"
+  "fetched_at": "2025-08-09T00:02:53.378287"
 }

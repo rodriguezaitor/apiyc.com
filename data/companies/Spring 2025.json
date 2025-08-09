@@ -1996,19 +1996,13 @@
         "Consumer Health and Wellness"
       ],
       "regions": [
-        "France",
-        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Paris, \u00cele-de-France, France",
-      "tags": [
-        "Anti-Aging",
-        "Consumer Health Services",
-        "Health & Wellness"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745363793.0,
@@ -2978,12 +2972,12 @@
       "id": 30447,
       "name": "Caucus",
       "slug": "caucus",
-      "website": "https://www.getcaucus.com/",
+      "website": "https://www.usecaucus.com/",
       "description": "Caucus is the last piece of software the American government will ever need. We're building an AI CRM for government. Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
       "one_liner": "AI CRM for Government",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Government",
       "subindustry": "B2B",
       "industries": [
@@ -3146,8 +3140,8 @@
       "locations": "",
       "tags": [
         "AI-Enhanced Learning",
-        "Education",
-        "AI"
+        "Artificial Intelligence",
+        "Education"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4596,5 +4590,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-08-08T18:01:16.742637"
+  "fetched_at": "2025-08-09T00:02:55.733193"
 }

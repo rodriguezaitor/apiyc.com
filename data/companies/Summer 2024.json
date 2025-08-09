@@ -73,11 +73,11 @@
     },
     {
       "id": 29989,
-      "name": "Chorus",
-      "slug": "chorus-sh",
-      "website": "https://chorus.sh",
-      "description": "Chat with o3, Claude, Gemini, DeepSeek, and others all at once. The best models, as soon as they come out, in one app.",
-      "one_liner": "All the AI, on your Mac",
+      "name": "Conductor",
+      "slug": "conductor",
+      "website": "https://conductor.build",
+      "description": "Each Claude gets an isolated workspace. See who\u2019s working, see who\u2019s stuck, and what\u2019s changed.",
+      "one_liner": "Run a bunch of Claude Codes in parallel",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -93,15 +93,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Chat"
+        "Developer Tools",
+        "Chat",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725301012.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6195118747cddb8506edfbe5e8adbb2342788f6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a811c5f5bc8e1c9739a69487c00a23298cda0e19.png"
     },
     {
       "id": 29987,
@@ -4158,7 +4159,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1715615655.0,
@@ -8321,5 +8322,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-08T18:01:13.090251"
+  "fetched_at": "2025-08-09T00:02:51.636498"
 }
