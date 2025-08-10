@@ -6448,7 +6448,7 @@
       "one_liner": "Kino automatically organizes footage to make video editing faster. ",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -6456,16 +6456,22 @@
         "Productivity"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Entertainment",
+        "Video",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689168813.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/236edce8d65891082c7aa4675c370a79d943bee2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99d7a44ea4e674cd9a88d4827761019a291032c6.png"
     },
     {
       "id": 28663,
@@ -7343,5 +7349,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-10T12:01:32.960835"
+  "fetched_at": "2025-08-10T18:01:20.124353"
 }
