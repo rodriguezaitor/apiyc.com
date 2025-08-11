@@ -3916,8 +3916,8 @@
       "name": "Gaus",
       "slug": "gaus",
       "website": "https://www.joingaus.com/",
-      "description": "Gaus is building Cursor for individual investors. \r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Gaus gives every active investor an AI investment analyst working around the clock to surface their next great investment. We\u2019re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don\u2019t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
-      "one_liner": "Cursor for individual investors",
+      "description": "Gaus is building AI agents for individual investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Gaus gives every active investor an AI investment analyst working around the clock to surface their next great investment. We\u2019re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don\u2019t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
+      "one_liner": "AI agents for individual investors",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3933,10 +3933,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Investing",
-        "Consumer Finance",
-        "AI"
+        "Consumer Finance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4148,8 +4148,8 @@
       "name": "Acrely",
       "slug": "acrely",
       "website": "https://www.acrely.ai",
-      "description": "We provide residential real estate agents voice AI to maximize lead capture and outbound.\r\n\r\nMeet Jane, your AI-powered assistant. When someone calls your number and you don't pick up, Jane does. She talks to your leads, figures out what they need, and helps them \u2014 whether it's scheduling a showing, recommending listings, or just making sure serious buyers get a fast response.\r\n\r\nReal estate is one of the last few archaic industries that still uses phone calls as the crux of communication, and voice AI is just getting good enough to make humans willing to engage.\r\n\r\nReal estate is a industry of connections, without a clear break-in strategy, or without industry connections, attempting to pitch to a realtor is like finding a needle in a haystack, as they are already flooded with sales calls.\r\n\r\nRealtors plaster their phone numbers all over the internet, as well as all over the world and are flooded with unqualified leads, drowning out possible five-figure clients. By saving realtors qualified leads and providing the feeling of a human interaction, realtors save tens of thousands in missed opportunities.\r\n\r\n",
-      "one_liner": "voice ai for realtors that answers, so you can close",
+      "description": "We provide HVAC business owners with voice AI to capture every inbound call and turn it into booked jobs.\r\n\r\nMeet Jane, your AI-powered customer relations lead. When a customer calls and you can\u2019t pick up, Jane does. She talks to your callers, understands their problem, and gets them scheduled \u2014 whether it\u2019s an emergency repair, seasonal maintenance, or a quote for a new install.\r\n\r\nHVAC is still a phone-first industry, and voice AI is just now good enough for customers to feel comfortable talking to it. Every missed call is lost revenue, and most owners have their number plastered on trucks, websites, and directories that bring in as many tire-kickers as paying customers. Jane makes sure the real money never slips through.\r\n\r\nInbound is our first optimization \u2014 but it\u2019s just the beginning. We\u2019re building the first agentic fleet for HVAC. Jane runs customer relations, booking jobs and following up with customers. Ralph is the business admin, managing PNL, scheduling crews, ordering parts, and keeping the back office humming. Joe is the technician\u2019s right hand, guiding techs through diagnostics, troubleshooting, and safety checks in real time. Together, they form a 24/7 AI-native staff that works without breaks, remembers every detail, and scales with your business so you can focus on growing instead of juggling.",
+      "one_liner": "ai-native admin for HVAC",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -4164,7 +4164,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Real Estate",
+        "Artificial Intelligence",
+        "Home Services",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4570,5 +4571,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-10T18:01:22.090306"
+  "fetched_at": "2025-08-11T00:03:34.391954"
 }
