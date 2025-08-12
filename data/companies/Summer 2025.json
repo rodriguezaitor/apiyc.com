@@ -419,7 +419,7 @@
       "name": "Vulcan Technologies",
       "slug": "vulcan-technologies",
       "website": "https://www.vulcan-tech.com/",
-      "description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the private sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
+      "description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
       "one_liner": "AI regulatory drafting and compliance",
       "batch": "Summer 2025",
       "status": "Active",
@@ -435,10 +435,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "GovTech",
-        "Compliance",
-        "AI"
+        "Compliance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1349,8 +1349,8 @@
       "name": "Altur",
       "slug": "altur",
       "website": "https://altur.io",
-      "description": "Altur replaces contact\u2011center reps with autonomous AI agents that collect debt and close sales.",
-      "one_liner": "AI agents for debt collection and sales",
+      "description": "Voice AI Agents for Debt Collection",
+      "one_liner": "Voice AI Agents for Debt Collection",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -1367,9 +1367,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Telecommunications"
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2313,7 +2313,7 @@
       "one_liner": "Modern compliance for drones, robots, IoT, and beyond",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 0,
+      "team_size": 2,
       "industry": "Industrials",
       "subindustry": "Industrials",
       "industries": [
@@ -2325,10 +2325,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Compliance",
         "Manufacturing",
+        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -2610,6 +2610,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2aef05823ea025fd58985ddba1bb239174e788.png"
     },
     {
+      "id": 30686,
+      "name": "Preempt",
+      "slug": "preempt",
+      "website": "https://www.preempt.me",
+      "description": "We're building www.TheInterface.com, a virtual world for AI.  \r\n\r\nWe believe world experience data is the future of AI, and collecting this data from the real world is time-consuming and limited. So we\u2019re building a virtual world\u2014a place for humans to prototype and game with AI.",
+      "one_liner": "An applied simulations lab.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "B2B",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Cloud Gaming",
+        "Gaming"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754968088.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb52c4b7c00886d51f41b415a4648a3dc5f1835c.png"
+    },
+    {
       "id": 30685,
       "name": "IronLedger.ai",
       "slug": "ironledger-ai",
@@ -2841,9 +2874,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3537,15 +3570,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Reinforcement Learning"
+        "Reinforcement Learning",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754692935.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8a01b9d20c4fb82fe2dfd3c77cf6b019c7572c6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     },
     {
       "id": 30642,
@@ -4710,5 +4743,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-12T00:03:08.392541"
+  "fetched_at": "2025-08-12T06:01:18.782750"
 }
