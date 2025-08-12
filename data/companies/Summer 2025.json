@@ -2854,6 +2854,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png"
     },
     {
+      "id": 30673,
+      "name": "Nexa Labs",
+      "slug": "nexa-labs",
+      "website": "https://nexa.farm/",
+      "description": "Nexa is developing the solution for cattle monitoring, leveraging implantable microchips that collect more comprehensive biometrics than anything else on the market. Our accompanying AI-driven animal health engine empowers farmers with early disease detection, reproductive insights, GPS tracking, and more. \r\n\r\nWe're saving farmers time and money while collecting the world's largest cattle health dataset. We believe that cattle farming should be a science, not an art - this will secure the world's food supply and increase economic output that billions of people depend on.",
+      "one_liner": "Implantable microchips for cattle monitoring",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Agriculture",
+      "industries": [
+        "Industrials",
+        "Agriculture"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Livestock Health",
+        "Medical Devices",
+        "Agriculture",
+        "AI",
+        "Biotechnology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755009056.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/489fd97ad45ee1d6d874c7a99792bf1552ebddc2.png"
+    },
+    {
       "id": 30671,
       "name": "AgentHub",
       "slug": "agenthub-2",
@@ -4743,5 +4778,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-12T12:01:43.433806"
+  "fetched_at": "2025-08-12T18:01:05.371203"
 }

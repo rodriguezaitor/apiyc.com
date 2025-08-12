@@ -2854,7 +2854,7 @@
       "name": "FlyCode",
       "slug": "flycode",
       "website": "https://www.flycode.com",
-      "description": "FlyCode Dunning & Payment Management AI that helps subscription merchants maximize revenue. We reduce passive churn by managing payment failures intelligently.\r\n\r\nWe\u2019re Jake, Etai, and TD and we\u2019re building FlyCode.\r\n\r\nTL;DR: If you sell SaaS or B2C subscriptions, we\u2019re here to help you recover lost revenue due to failed payments and involuntary churn.\r\n\r\n\u2018Involuntary\u2019 or \u2018Passive\u2019 churn is a hidden Revenue Killer \ud83d\udcb3 for Subscription Businesses\r\n\r\n\u274c THE PROBLEM: Recovering Failed Payments is Complex\r\nInvoluntary churn refers to the loss of subscribers due to payment failures, not due to them actively canceling. While it is both possible and a worthwhile strategy to attempt to win back a customer during the cancellation process \u2014 involuntary churn is not intentional and in most cases, your customers aren\u2019t even aware that their payment failed.\r\n\r\n\ud83d\udcb0 Bottom line?\r\nEffective payment optimization does reduce involuntary churn and will increase ARR by as much as 5-10%\r\n\r\nFLYCODE SOLUTION \ud83d\udca1\r\nFlyCode leverages ML and AI to provide Payment Optimization and smart payment retries to maximize subscription revenue and reduce churn. We apply a unique model tailored to each Merchant and their customers to ensure optimal results.\r\n\r\n\u26a1\ufe0fAutomatically recover failed subscription payments and reduce passive churn\r\n\r\n\u26a1\ufe0fUse ML & AI based payment optimization to find the best time to charge your customers\r\n\r\n\u26a1\ufe0f Improve customer experience by coordinating payment retries with customer emails/SMS\r\n\r\n\ud83d\udee0\ufe0f We support OOTB + Custom Integrations for Merchants and White-Label for Platforms\r\n",
+      "description": "FlyCode helps subscription merchants maximize revenue. We reduce involuntary churn by managing payment failures intelligently.\r\n\r\nWe\u2019re Jake, Etai, and Tzachi and we\u2019re building FlyCode.\r\n\r\nTL;DR: If you sell SaaS or B2C subscriptions, we\u2019re here to help you recover lost revenue due to failed payments and involuntary churn.\r\n\r\n\u2018Involuntary\u2019 or \u2018Passive\u2019 churn is a hidden Revenue Killer \ud83d\udcb3 for Subscription Businesses\r\n\r\n\u274c THE PROBLEM: Recovering Failed Payments is Complex\r\nInvoluntary churn refers to the loss of subscribers due to payment failures, not due to them actively canceling. While it is both possible and a worthwhile strategy to attempt to win back a customer during the cancellation process \u2014 involuntary churn is not intentional and in most cases, your customers aren\u2019t even aware that their payment failed.\r\n\r\n\ud83d\udcb0 Bottom line?\r\nEffective payment optimization does reduce involuntary churn and will increase ARR by as much as 5-10%\r\n\r\nFLYCODE SOLUTION \ud83d\udca1\r\nFlyCode leverages ML and AI to provide Payment Optimization and smart payment retries to maximize subscription revenue and reduce churn. We apply a unique model tailored to each Merchant and their customers to ensure optimal results.\r\n\r\n\u26a1\ufe0fAutomatically recover failed subscription payments and reduce passive churn\r\n\r\n\u26a1\ufe0fUse ML & AI based payment optimization to find the best time to charge your customers\r\n\r\n\u26a1\ufe0f Improve customer experience by coordinating payment retries with customer emails/SMS\r\n\r\n\ud83d\udee0\ufe0f We support OOTB + Custom Integrations for Merchants and White-Label for Platforms\r\n",
       "one_liner": "Recover failed subscription payments to increase retention and LTV",
       "batch": "Summer 2022",
       "status": "Active",
@@ -2870,20 +2870,20 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Boston, MA, USA; New York, NY, USA",
+      "locations": "Boston, MA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "E-commerce",
-        "Subscriptions",
-        "AI"
+        "Subscriptions"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1657031035.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7596d226b5b6094c49f77468cb84b8b8f064ddbf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cd904583699bd121334a407aea4c0921152f48a.png"
     },
     {
       "id": 26900,
@@ -8124,5 +8124,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-08-12T12:01:41.380715"
+  "fetched_at": "2025-08-12T18:01:03.135100"
 }
