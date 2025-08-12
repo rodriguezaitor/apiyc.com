@@ -3778,7 +3778,7 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent builds infrastructure for running and embedding AI coding agents in real workflows \u2014 safely, flexibly, and with full control.\r\n\r\nOur latest open-source release is VibeKit, an open-source SDK for running agents like Codex or Claude inside secure, isolated environments. It supports multiple sandbox providers, adds streaming output, telemetry, and async execution \u2014 making it easy to integrate agents into apps, GitHub flows, or internal tools.\r\n\r\nLearn more: https://www.vibekit.sh/",
+      "description": "Superagent builds infrastructure for running and embedding AI coding agents in real workflows \u2014 safely, flexibly, and with full control.\r\n\r\nOur latest open-source release is VibeKit, a CLI wrapper for coding agents like Claude Code, Gemini CLI, and Codex. It runs agent-generated code in isolated Docker containers, redacts secrets automatically, and streams output in real-time. No cloud signup required \u2014 works locally by default.\r\n\r\nVibeKit lets developers swap models behind any agent CLI, see exactly what agents do (not just text output), and run agents without affecting their local environment. Teams use it to meet compliance requirements while giving developers the tools they actually want to use.\r\n\r\nLearn more: https://www.vibekit.sh/",
       "one_liner": "Infrastructure for coding agents. Builders of VibeKit.",
       "batch": "Winter 2024",
       "status": "Active",
@@ -3796,7 +3796,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4451,8 +4452,8 @@
       "name": "Aether",
       "slug": "aether",
       "website": "https://www.aethergtm.com/",
-      "description": "Aether is AI-powered front-office platform for contractors. A go-to-market engine that combines targeting, design, proposals, and deal management into one system built for trades like Roofing, Solar, HVAC, Landscaping, and Fire Mitigation. \r\n",
-      "one_liner": "AI-powered GTM engine for home services. ",
+      "description": "Aether helps home services teams generate more revenue by instantly targeting high-intent properties, measuring property, managing deals and sending quotes-in one platform. \r\n",
+      "one_liner": "AI go-to-market revenue engine for home services installers. ",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 8,
@@ -4470,9 +4471,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Climate",
-        "CRM"
+        "CRM",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8226,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-12T06:01:18.026607"
+  "fetched_at": "2025-08-12T12:01:41.120703"
 }
