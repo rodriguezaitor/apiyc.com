@@ -3939,40 +3939,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png"
     },
     {
-      "id": 29747,
-      "name": "deepsilicon",
-      "slug": "deepsilicon",
-      "website": "https://www.deepsilicon.net/",
-      "description": "",
-      "one_liner": "Software and hardware to run neural networks faster and cheaper",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Industrials",
-      "subindustry": "Industrials",
-      "industries": [
-        "Industrials"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Edge Computing Semiconductors",
-        "Hard Tech",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1724647478.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/86bf1a250ebd174788e945f8cb80bbfa5fad5a1c.png"
-    },
-    {
       "id": 29746,
       "name": "Drillbit",
       "slug": "drillbit",
@@ -4702,7 +4668,7 @@
       "name": "CreativeMode",
       "slug": "creativemode",
       "website": "https://creativemode.net",
-      "description": "CreativeMode allows players to create mods for their favorite video games without coding, starting with Minecraft.",
+      "description": "CreativeMode enables players to create mods for their favorite video games without coding, starting with Minecraft.",
       "one_liner": "Vibe coding platform for video game mods",
       "batch": "Summer 2024",
       "status": "Active",
@@ -4725,7 +4691,7 @@
         "Gaming"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723073466.0,
@@ -8263,6 +8229,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2ad649a18852dafbb67750b37634ebaf5846cdc.png"
     },
     {
+      "id": 29747,
+      "name": "deepsilicon",
+      "slug": "deepsilicon",
+      "website": "https://www.deepsilicon.net/",
+      "description": "",
+      "one_liner": "Software and hardware to run neural networks faster and cheaper",
+      "batch": "Summer 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Edge Computing Semiconductors",
+        "Hard Tech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1724647478.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/86bf1a250ebd174788e945f8cb80bbfa5fad5a1c.png"
+    },
+    {
       "id": 29641,
       "name": "Invaria",
       "slug": "invaria",
@@ -8324,5 +8324,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-11T18:01:28.945685"
+  "fetched_at": "2025-08-12T00:03:03.814499"
 }

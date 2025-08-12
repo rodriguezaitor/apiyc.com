@@ -1680,6 +1680,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/517120504bbe6167aa6c03b7d54e211b8e74e3db.png"
     },
     {
+      "id": 30721,
+      "name": "Knowlify",
+      "slug": "knowlify",
+      "website": "https://knowlify.net/",
+      "description": "Everyone loves the way 3Blue1Brown explains complex ideas. Now imagine having that same level of clarity for any topic, tailored to each learner\u2019s needs.\r\n\r\nThat\u2019s what we\u2019re building at Knowlify.\r\n\r\nCurrent use cases:\r\n- Researchers turn dense papers into clear, digestible explanations\r\n- Textbook publishers help students grasp challenging concepts\r\n- Universities produce high-quality content while cutting costs by 90%\r\n- Corporations keep teams sharp and up to date on the latest technologies\r\n\r\nWith Knowlify, the possibilities for learning are limitless.",
+      "one_liner": "Convert textual content into explainer videos in < 15s",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754937543.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c7327b2253f8bd8e5f5ae01e113ba12ee0e4bd.png"
+    },
+    {
       "id": 30720,
       "name": "Autosana",
       "slug": "autosana",
@@ -1767,16 +1800,16 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754064844.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5610ae5725e1a7d03a6b23f760c9728a748276f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74e6bdb4c255f21276dac2d593eebde20bf29b57.png"
     },
     {
       "id": 30716,
@@ -2270,6 +2303,40 @@
       "is_top_company": false,
       "launched_at": 1753000104.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cd3632057a23091b73c4c26a68f56e59b7f0ba4.png"
+    },
+    {
+      "id": 30697,
+      "name": "Normal",
+      "slug": "normal",
+      "website": "https://www.normalfactory.com/",
+      "description": "Automated hardware certification and testing.\r\n\r\nReduce your team's compliance hours by 50x. Currently supporting FCC, ISED, CE, ASTM F963.",
+      "one_liner": "Modern compliance for drones, robots, IoT, and beyond",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Hardware",
+        "Compliance",
+        "Manufacturing",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754954871.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41742610e9abf1c307890c4206c045f1bce68bce.png"
     },
     {
       "id": 30696,
@@ -3767,11 +3834,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "B2B",
         "Data Labeling",
-        "Big Data"
+        "Big Data",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4253,7 +4320,7 @@
       "slug": "parametric",
       "website": "https://parametric.company/",
       "description": "Modern robots perform complex tasks but operate as black boxes. Operators can't understand their decision-making or predict when they may fail. This uncertainty gates widespread adoption across countless industries where errors are unacceptable.\r\n\r\nParametric is training safe robotics models that reveal internal reasoning and offer real-time intervention to unlock deployment across safety-critical industries. ",
-      "one_liner": "Robotics models for automating industries where errors can kill",
+      "one_liner": "Robotics models to automate industries where errors can kill",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4532,8 +4599,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Real Estate",
-        "AI"
+        "Artificial Intelligence",
+        "Real Estate"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4643,5 +4710,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-11T18:01:32.156765"
+  "fetched_at": "2025-08-12T00:03:08.392541"
 }
