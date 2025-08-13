@@ -448,6 +448,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png"
     },
     {
+      "id": 30791,
+      "name": "Spotlight Realty",
+      "slug": "spotlight-realty",
+      "website": "https://www.spotlight.realty",
+      "description": "We are a full-service sell-side residential brokerage that lists and markets your properties. We also screen and schedule tenants showings with our AI agent for a third of the normal commission. ",
+      "one_liner": "AI powered brokerage reducing residential rental commissions in NYC\u2026",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction",
+      "industries": [
+        "Real Estate and Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Machine Learning",
+        "Real Estate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755023391.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/677917fd980b1f33bfa85125a5b4023b60d9fa41.png"
+    },
+    {
       "id": 30789,
       "name": "Interfere",
       "slug": "interfere",
@@ -2344,7 +2375,7 @@
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
       "description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\r\n\r\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
-      "one_liner": "The AI-powered human pentesting platform",
+      "one_liner": "AI that red teams the human mind",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2360,9 +2391,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2477,7 +2508,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Generate and test firmware with AI agents.",
+      "description": "Embedder is building an AI coding agent that can write and test firmware.",
       "one_liner": "Cursor for Embedded",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4778,5 +4809,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-12T18:01:05.371203"
+  "fetched_at": "2025-08-13T00:03:05.906377"
 }

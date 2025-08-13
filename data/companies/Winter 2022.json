@@ -5503,40 +5503,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/875f70726bf714e04e2c65653e8ccf92d8beb470.png"
     },
     {
-      "id": 25693,
-      "name": "Tola",
-      "slug": "tola",
-      "website": "https://tolahq.com",
-      "description": "Tola is the simple tool for SMBs to pay bills and get paid. On top of that, we help companies better manage their cashflow by allowing them to buy now and pay later expensive bills in exchange for a small fee.",
-      "one_liner": "The simple, fast and free tool for businesses to pay and get paid",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 12,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
-      "tags": [
-        "Fintech",
-        "SaaS"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1677791099.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbc8c1ee7e52671abb62b7c0735dd822b79fde55.png"
-    },
-    {
       "id": 25692,
       "name": "Livedocs",
       "slug": "livedocs",
@@ -12424,6 +12390,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3b9795e229abf871658c50860feea60e62240de.png"
     },
     {
+      "id": 25693,
+      "name": "Tola",
+      "slug": "tola",
+      "website": "https://tolahq.com",
+      "description": "Tola is the simple tool for SMBs to pay bills and get paid. On top of that, we help companies better manage their cashflow by allowing them to buy now and pay later expensive bills in exchange for a small fee.",
+      "one_liner": "The simple, fast and free tool for businesses to pay and get paid",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 12,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
+      "tags": [
+        "Fintech",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1677791099.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbc8c1ee7e52671abb62b7c0735dd822b79fde55.png"
+    },
+    {
       "id": 25690,
       "name": "Requestly",
       "slug": "requestly",
@@ -13819,5 +13819,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-08-12T18:01:01.055222"
+  "fetched_at": "2025-08-13T00:02:59.680977"
 }

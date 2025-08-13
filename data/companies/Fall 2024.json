@@ -583,14 +583,14 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Enterprise Software",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1727386579.0,
@@ -2658,7 +2658,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1728392131.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/935870ad311d37ea8459ff250f2038a181f03d8c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/65de336868d0c75622bc0c22ef04be57da179d1d.png"
     },
     {
       "id": 30024,
@@ -3049,5 +3049,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-08-12T18:01:07.725509"
+  "fetched_at": "2025-08-13T00:03:09.423038"
 }

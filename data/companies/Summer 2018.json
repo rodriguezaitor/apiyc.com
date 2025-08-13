@@ -1606,11 +1606,11 @@
       "name": "Regology",
       "slug": "regology",
       "website": "http://regology.com",
-      "description": "Our AI engine helps your organization understand applicable laws and follow them through a collaborative platform. The unique combination of software and regulatory content simplify the compliance burden.",
-      "one_liner": "Regulatory compliance powered by AI",
+      "description": "Our AI Agents help your organization understand applicable laws and comply with them. We own the complexity (from Agents to Legal Content), so your team has a seamless experience.",
+      "one_liner": "AI Agents for Regulatory compliance",
       "batch": "Summer 2018",
       "status": "Active",
-      "team_size": 54,
+      "team_size": 60,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -1625,9 +1625,10 @@
       ],
       "locations": "Palo Alto, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "B2B"
+        "Legal",
+        "LegalTech",
+        "Regtech",
+        "AI"
       ],
       "stage": "Growth",
       "is_hiring": false,
@@ -4419,5 +4420,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-08-12T18:01:05.918364"
+  "fetched_at": "2025-08-13T00:03:06.724019"
 }

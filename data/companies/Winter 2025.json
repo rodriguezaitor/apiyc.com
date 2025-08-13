@@ -831,11 +831,11 @@
       "name": "Rebolt",
       "slug": "rebolt",
       "website": "https://rebolt.ai",
-      "description": "Rebolt is AI agents to replace restaurant managers - by automating tasks from refund management to hiring, and supplier communications.\r\n\r\nWe started with delivery app management - Rebolt verifies orders and automates refund management, to prevent mistakes and save restaurants time and money.",
-      "one_liner": "AI Agents to Replace Restaurant Managers",
+      "description": "Rebolt lets everyone in the company build apps, and agents by speaking with AI.\r\n\r\nIntegrated with your company tools, data and authentication. Replacing no-code tools, bloated SaaS and complex spreadsheets, for automating all the boring work.",
+      "one_liner": "Build apps and agents by speaking with AI",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -845,13 +845,17 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Enterprise Software",
+        "AI Assistant"
+      ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740196480.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cff7bd4def5b924171143a3862b8a7356ce0c580.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d210bef447c863e94f1cddeee636d5bcc0a2b455.png"
     },
     {
       "id": 30322,
@@ -1733,7 +1737,7 @@
       "one_liner": "Enterprise-grade AI support reps for call centers",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1745,18 +1749,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "B2B",
-        "Customer Service",
-        "AI"
+        "Customer Service"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738270018.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/faffbf74e034071386a917c3afe0260f950ac8e6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2ad0fe64b625227762a6c6a44c1872475df287d.png"
     },
     {
       "id": 30286,
@@ -5321,5 +5325,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-12T18:01:04.838532"
+  "fetched_at": "2025-08-13T00:03:05.096257"
 }
