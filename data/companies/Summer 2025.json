@@ -979,7 +979,7 @@
       "slug": "reacher",
       "website": "https://reacherapp.com/",
       "description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \r\n\r\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
-      "one_liner": "We help brands scale creator partnerships 10x faster",
+      "one_liner": "AI platform to connect brands with creators",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 8,
@@ -996,11 +996,11 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Marketplace",
         "B2B",
         "E-commerce",
-        "Creator Economy",
-        "AI"
+        "Creator Economy"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1581,8 +1581,8 @@
       "name": "Observee",
       "slug": "observee",
       "website": "https://observee.com/",
-      "description": "All AI Agents rely on external integrations to become truly useful. Our software provides any AI Agent developer with access to over 1,000 MCP integrations through a single API. \r\n\r\nIn the last 6 months, MCP has become the official protocol for connecting AI agents to the outside world. Observee provides developers with Authentication, Observability and Security in one hosted MCP. \r\n\r\nAs AI Agents increasingly take on more manual jobs, they will rely on Observee for underlying infrastructure. ",
-      "one_liner": "Access 1000+ MCP integrations with a single API",
+      "description": "All AI Agents rely on external integrations to become truly useful. Our software provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
+      "one_liner": "Integrations for Vertical AI companies",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1597,10 +1597,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1643,6 +1643,39 @@
       "is_top_company": false,
       "launched_at": 1752778488.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e2ca9bf4442a297067557ded4df426f78a01f37.png"
+    },
+    {
+      "id": 30725,
+      "name": "Minimal AI",
+      "slug": "minimal-ai",
+      "website": "https://gominimal.ai/",
+      "description": "We build AI Support Teams for E-commerce that can be set up in minutes, just by talking to their AI Manager like you would a colleague.\r\n\r\nMinimal AI enables E-commerce companies to:\r\n\u2022 Reduce costs: automate 80%+ of support without the headache\r\n\u2022 Sell more: higher conversion due to personal recommendations and service\r\n\r\nIt feels like outsourcing your support to a team of AI Agents, with the AI Manager as single point of contact.\r\n\r\n45+ E-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
+      "one_liner": "AI Customer Support Teams for E-commerce",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "E-commerce",
+        "Customer Support",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755048998.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c63bc96cffb87cb2d06890455f91a39acb01d02d.png"
     },
     {
       "id": 30724,
@@ -2224,8 +2257,8 @@
       ],
       "locations": "",
       "tags": [
-        "SaaS",
-        "AI"
+        "Artificial Intelligence",
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2508,8 +2541,8 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Embedder is building an AI coding agent that can write and test firmware.",
-      "one_liner": "Cursor for Embedded",
+      "description": "Embedder is an AI agent that can write and test firmware in real-time",
+      "one_liner": "Claude Code for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3780,6 +3813,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png"
     },
     {
+      "id": 30628,
+      "name": "datafruit",
+      "slug": "datafruit",
+      "website": "https://datafruit.dev/",
+      "description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack.",
+      "one_liner": "AI DevOps Engineer",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "DevOps",
+        "Cloud Computing",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755048308.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png"
+    },
+    {
       "id": 30627,
       "name": "Sentinel",
       "slug": "sentinel",
@@ -3844,6 +3910,40 @@
       "is_top_company": false,
       "launched_at": 1753951898.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91581bcfa012c99e743448988de1cd919c97389.png"
+    },
+    {
+      "id": 30625,
+      "name": "ZeroEval",
+      "slug": "zeroeval",
+      "website": "https://zeroeval.com",
+      "description": "We help companies build reliable AI agents through an evaluation harness that learns over time through human feedback.\r\n\r\nThe biggest issue with traditional eval tooling is that they are not fit to evaluate more complex situations like:\r\n- Long running, multi-turn agents with dozens of intermediate tool calls.\r\n- Generalist agents that have no clear (input) / (expected output) but can sometimes feel \u201cwrong\u201d.\r\n- Images, video, UI, personality, taste, etc\r\n\r\nOverall: Things that are difficult to verify programatically.\r\n\r\nWith ZeroEval we are building a way to back-propagate your AI agent's errors and help you optimize your most important metric.\r\n\r\nCurrent LLM judges are static and unreliable when it comes to evaluating complex systems. One way we are solving is through calibrated judges that learn through their mistakes and get better over time. Having a reliable judge is the highest leverage piece any company building with AI can have.\r\n\r\nOur mission is to enable every company to build reliable, self-improving AI software.",
+      "one_liner": "A platform to measure the quality of AI agents using human feedback.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "AIOps",
+        "Developer Tools",
+        "Generative AI",
+        "SaaS",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755052091.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ecfb758177e9198eb8221c46198150c3a277ba.png"
     },
     {
       "id": 30624,
@@ -4356,8 +4456,8 @@
       "name": "MangoDesk",
       "slug": "mangodesk",
       "website": "https://www.mangodesk.com/",
-      "description": "We\u2019re an end-to-end AI platform to source, screen, and manage domain experts to evaluate and improve AI models with high-quality data. \r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Finding the right experts and creating this data reliably is a complex operational challenge. We solve this end-to-end. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
-      "one_liner": "We improve AI models by sourcing domain experts for data and evals.",
+      "description": "We help AI teams accelerate the creation of evals and post-training data by creating bespoke data annotation pipelines in seconds and staffing them with the right domain experts.\r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Creating this data reliably is a complex operational challenge. We solve this end-to-end. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
+      "one_liner": "Cursor for evals and human data",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4372,7 +4472,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4809,5 +4909,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-13T00:03:05.906377"
+  "fetched_at": "2025-08-13T06:01:37.687874"
 }
