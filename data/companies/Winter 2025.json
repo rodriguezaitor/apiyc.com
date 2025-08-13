@@ -2573,7 +2573,7 @@
       "name": "Macadamia",
       "slug": "macadamia",
       "website": "https://macadamialabs.com",
-      "description": "Macadamia builds AI agents in complex engineering projects. \r\nThey automate both engineering & business processes, to automate away all low-leverage work.\r\nIt integrates with all engineering data sources, technical documentation, and third-party software tools.\r\nMacadamia serves customers in mechanical engineering, manufacturing, and construction.",
+      "description": "Macadamia builds AI agents for complex engineering projects. \r\nThey automate both engineering & business processes, to automate away all low-leverage work.\r\nIt integrates with all engineering data sources, technical documentation, and third-party software tools.\r\nMacadamia serves customers in mechanical engineering, manufacturing, and construction.",
       "one_liner": "AI Agents for Complex Engineering Projects",
       "batch": "Winter 2025",
       "status": "Active",
@@ -2585,19 +2585,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Hardware",
-        "Construction",
-        "Design",
-        "Automation",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737733063.0,
@@ -5325,5 +5318,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-13T06:01:37.382688"
+  "fetched_at": "2025-08-13T12:01:49.619015"
 }
