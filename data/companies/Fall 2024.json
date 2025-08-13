@@ -2404,8 +2404,8 @@
       "name": "Rulebase",
       "slug": "rulebase",
       "website": "https://rulebase.co",
-      "description": "We build AI agents that protect fintechs and banks from account takeovers, impersonations, and phishing attacks, while also automating fraud investigations. Our AI agent  gathers and analyzes all the necessary evidence, reducing the average investigation time from 30 minutes to just 2 minutes.\r\n",
-      "one_liner": "AI agents for fraud detection and investigations.",
+      "description": "We build AI agents that help banks and fintechs QA 100% of customer interactions, flagging compliance breaches, high-risk issues, and quality gaps in real time. Our AI agent reviews calls, chats, and emails, then routes issues to the right teammates, cutting escalations by up to 30% and reducing QA review time from hours to minutes.\r\n\r\n",
+      "one_liner": "AI quality assurance for financial services.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2419,7 +2419,11 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Customer Success",
+        "Customer Service",
+        "Customer Support"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -3049,5 +3053,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-08-13T12:01:50.014766"
+  "fetched_at": "2025-08-13T18:01:08.945610"
 }

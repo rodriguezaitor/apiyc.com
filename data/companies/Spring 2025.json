@@ -2424,7 +2424,7 @@
       "one_liner": "AI Agents for Research",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -2437,10 +2437,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
         "Sales Enablement",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3794,7 +3794,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744392234.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4293782b71fdb3a0c57d443e4429a56b4d19f320.png"
     },
     {
       "id": 30419,
@@ -4590,5 +4590,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-08-13T12:01:49.744765"
+  "fetched_at": "2025-08-13T18:01:08.328546"
 }

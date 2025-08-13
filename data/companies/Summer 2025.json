@@ -1511,6 +1511,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b4b4793c04b2144e6d808676c5d789049433c7b.png"
     },
     {
+      "id": 30731,
+      "name": "Palace",
+      "slug": "palace",
+      "website": "https://www.palace.so",
+      "description": "Palace is the all-in-one workspace for private market investors to track, analyze, and report on their investments. It transforms scattered reports and systems into a single source of truth for analysis, benchmarking, and reporting.",
+      "one_liner": "We help private market investors do deal monitoring faster and smarter",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755096535.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fd72ddf0b93f0148d033d252b2b26617bec643f.png"
+    },
+    {
       "id": 30730,
       "name": "Idler",
       "slug": "idler",
@@ -4909,5 +4943,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-13T12:01:49.672517"
+  "fetched_at": "2025-08-13T18:01:08.191927"
 }

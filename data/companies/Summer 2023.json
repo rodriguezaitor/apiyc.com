@@ -3098,8 +3098,8 @@
       "name": "Continue",
       "slug": "continue",
       "website": "https://continue.dev",
-      "description": "Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models",
-      "one_liner": "Create, share, and use custom AI code assistants",
+      "description": "Build and run custom agents across your IDE, terminal, and CI",
+      "one_liner": "Ship faster with Continuous AI",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 10,
@@ -3115,11 +3115,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "DevSecOps",
         "Machine Learning",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7349,5 +7349,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-13T12:01:49.455187"
+  "fetched_at": "2025-08-13T18:01:07.729091"
 }
