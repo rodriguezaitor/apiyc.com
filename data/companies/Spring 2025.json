@@ -303,7 +303,7 @@
     {
       "id": 30552,
       "name": "sieve",
-      "slug": "usesieve",
+      "slug": "sieveai",
       "website": "https://usesieve.com/",
       "description": "We\u2019re building the AI trust layer. Companies in higher-risk industries want to use AI but can't yet trust it. We verify the AI outputs before they reach the user, so they can be used in industries like finance and medicine. Right now that's using humans, but in the future we'll offer AI-based verification solutions.\r\n\r\nBusinesses complain that AI alone falls short of their accuracy requirements. They end up needing to check AI outputs against source documents to confirm accuracy. We solve this last mile problem by integrating expert reviewers to catch and correct the issues that AI alone doesn't get right.",
       "one_liner": "AI + human review to solve data cleaning - accessible via API or Excel",
@@ -4590,5 +4590,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-08-14T00:03:05.517506"
+  "fetched_at": "2025-08-14T06:01:20.085580"
 }

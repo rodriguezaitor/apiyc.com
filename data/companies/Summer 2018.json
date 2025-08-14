@@ -1606,8 +1606,8 @@
       "name": "Regology",
       "slug": "regology",
       "website": "http://regology.com",
-      "description": "Our AI Agents help your organization understand applicable laws and comply with them. We own the complexity (from Agents to Legal Content), so your team has a seamless experience.",
-      "one_liner": "AI Agents for Regulatory compliance",
+      "description": "Regology is an AI-powered regulatory intelligence platform that enables compliance, legal, risk, and operations teams to navigate complex regulatory environments across U.S. Federal, all 50 states, and global jurisdictions. At its core, the Smart Law Library\u2122 provides a curated, continuously updated repository of applicable laws and regulations. Three specialized AI agents drive the platform: the Regulatory Change Agent tracks and alerts on jurisdiction-specific developments; the Compliance Agent maps changes to policies, controls, and risks; and the Regulatory Research Agent delivers plain-language summaries, multi-jurisdictional comparisons, and actionable insights\u2014helping teams anticipate change, mitigate risk, and act decisively in fast-evolving regulatory landscapes.",
+      "one_liner": "AI Agents for Regulatory Compliance",
       "batch": "Summer 2018",
       "status": "Active",
       "team_size": 60,
@@ -1631,11 +1631,11 @@
         "AI"
       ],
       "stage": "Growth",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1525230401.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d64f3c4f837e97a80dc51e0a1c6f4bc76b3626e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4e59148374543e5853a9de0a3bbd86ccab2246e.png"
     },
     {
       "id": 1954,
@@ -4420,5 +4420,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-08-14T00:03:05.586088"
+  "fetched_at": "2025-08-14T06:01:20.420606"
 }
