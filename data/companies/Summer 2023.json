@@ -6081,40 +6081,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d914e5099612c52b407ca205a19346b7915e770f.png"
     },
     {
-      "id": 28787,
-      "name": "Deasy Labs",
-      "slug": "deasy-labs",
-      "website": "https://www.deasylabs.com/",
-      "description": "Deasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\r\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\r\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
-      "one_liner": "Metadata for GenAI workflows",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "Data Labeling",
-        "Big Data",
-        "AI",
-        "AI Assistant",
-        "Databases"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1691123582.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2f7a8dffc7dc8a6fdb4c13dce765cc7d2820b9a.png"
-    },
-    {
       "id": 28786,
       "name": "Accend",
       "slug": "accend",
@@ -6414,11 +6380,11 @@
     },
     {
       "id": 28743,
-      "name": "Leafpress",
-      "slug": "leafpress",
-      "website": "https://www.leafpress.ai",
-      "description": "Leafpress helps large enterprises manage mission-critical energy data.",
-      "one_liner": "AI Copilot for Energy Data",
+      "name": "Cardinal",
+      "slug": "trycardinal",
+      "website": "https://www.trycardinal.ai/",
+      "description": "Cardinal helps enterprises turn complex documents into structured, reliable data.",
+      "one_liner": "The Most Accurate Document Intelligence API",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -6431,13 +6397,17 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Enterprise",
+        "Enterprise Software",
+        "Infrastructure"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689209330.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/046a138a54a89d5f88af4355ea9e901c1a337397.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/addc6ad73062b884d88c6aebcfa9f21f5c2a2f75.png"
     },
     {
       "id": 28707,
@@ -6770,6 +6740,40 @@
       "is_top_company": false,
       "launched_at": 1688094375.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/62df8d00aee97fbc37cd80f37caca0808a69a3a4.png"
+    },
+    {
+      "id": 28787,
+      "name": "Deasy Labs",
+      "slug": "deasy-labs",
+      "website": "https://www.deasylabs.com/",
+      "description": "Deasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\r\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\r\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
+      "one_liner": "Metadata for GenAI workflows",
+      "batch": "Summer 2023",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Data Labeling",
+        "Big Data",
+        "AI",
+        "AI Assistant",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1691123582.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2f7a8dffc7dc8a6fdb4c13dce765cc7d2820b9a.png"
     },
     {
       "id": 28660,
@@ -7349,5 +7353,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-13T18:01:07.729091"
+  "fetched_at": "2025-08-14T00:03:04.970412"
 }

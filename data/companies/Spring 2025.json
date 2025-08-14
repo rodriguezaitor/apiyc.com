@@ -320,7 +320,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
         "Investing",
         "Data Engineering",
@@ -1106,7 +1106,7 @@
       "name": "Janus",
       "slug": "janus",
       "website": "https://www.withjanus.com/",
-      "description": "Janus tests conversational AI Agents for hallucinations, rule violations, tool call failures, and performance breakdowns pre-launch. We do this by simulating thousands of realistic AI users to eliminate manual testing and low-confidence in AI deployment.\r\n\r\nOur platform generates personalized datasets to evaluate, benchmark, and improve models over time.\r\n\r\n",
+      "description": "Janus evaluates AI agents in high-fidelity simulations before launch, catching failures in reasoning, compliance, tool usage, and performance. We simulate thousands of realistic AI users to replace manual testing and remove uncertainty in deployment.\r\n\r\nThe resulting datasets benchmark products and feed post-training loops to continuously improve performance over time.",
       "one_liner": "Battle-Test AI Agents with Human Simulation",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1124,9 +1124,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
-        "Monitoring"
+        "Monitoring",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1384,7 +1384,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745005061.0,
@@ -1778,7 +1778,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747257305.0,
@@ -4590,5 +4590,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-08-13T18:01:08.328546"
+  "fetched_at": "2025-08-14T00:03:05.517506"
 }

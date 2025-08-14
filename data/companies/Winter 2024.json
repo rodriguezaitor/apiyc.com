@@ -1915,7 +1915,7 @@
       "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -3251,7 +3251,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3882,8 +3882,8 @@
       "name": "Browser Buddy",
       "slug": "browser-buddy",
       "website": "https://www.browserbuddy.com/",
-      "description": "Internet research and discovery tool for writers ",
-      "one_liner": "Discovery tool for writers",
+      "description": "Browser Buddy searches the Internet to curate essays, articles, and books you'll find interesting. ",
+      "one_liner": "Internet discovery engine",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -3899,8 +3899,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Consumer"
+        "Consumer",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8227,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a179ac34a5ab0366ecb80a5a4abbd3ccc101dbe.png"
     }
   ],
-  "fetched_at": "2025-08-13T18:01:07.474804"
+  "fetched_at": "2025-08-14T00:03:04.687301"
 }

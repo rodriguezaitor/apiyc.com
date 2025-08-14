@@ -286,6 +286,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af9e43cd6c77970b3bff5071024e812ac9ee3e0.png"
     },
     {
+      "id": 30799,
+      "name": "Avent",
+      "slug": "avent",
+      "website": "https://www.aventindustrial.com",
+      "description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
+      "one_liner": "AI agents for industrial commerce",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "AI",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755109512.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d96212731936adf020604b4e95b7700e967455b1.png"
+    },
+    {
       "id": 30798,
       "name": "Cacao",
       "slug": "cacao",
@@ -1558,15 +1592,17 @@
       "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Operations"
+        "Engineering, Product and Design"
       ],
       "regions": [
         "Unspecified"
       ],
       "locations": "",
       "tags": [
-        "Enterprise Software",
-        "AI"
+        "Artificial Intelligence",
+        "Reinforcement Learning",
+        "Data Engineering",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2973,10 +3009,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Livestock Health",
         "Medical Devices",
         "Agriculture",
-        "AI",
         "Biotechnology"
       ],
       "stage": "Early",
@@ -3093,7 +3129,7 @@
       "one_liner": "Specialized AI agents for professional services ",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3105,9 +3141,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4847,7 +4883,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is an AI account management team built to help you maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of ever account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+      "description": "Ambral is an AI account management team built to help you maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
       "one_liner": "AI-powered account managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4863,9 +4899,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4943,5 +4979,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-13T18:01:08.191927"
+  "fetched_at": "2025-08-14T00:03:05.371014"
 }
