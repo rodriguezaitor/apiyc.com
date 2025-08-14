@@ -4295,7 +4295,7 @@
       "name": "Lanesurf",
       "slug": "lanesurf",
       "website": "https://www.lanesurf.com/",
-      "description": "We help freight brokers book shipments with vetted carriers at the best price, by negotiating rates across multiple calls in parallel.\r\n",
+      "description": "Lanesurf helps freight brokers book shipments with vetted carriers at the best prices by negotiating rates across multiple calls in parallel.\r\n\r\nOur self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.\r\n\r\nWith each booking, the AI learns from aggregated, anonymized lane and pricing data. As more customers use Lanesurf, this learning compounds, driving faster bookings at the best prices and powering a voice-driven freight marketplace.",
       "one_liner": "Voice AI for booking freight",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4311,10 +4311,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Logistics",
-        "Supply Chain"
+        "Supply Chain",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4983,5 +4983,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-14T12:01:43.813902"
+  "fetched_at": "2025-08-14T18:01:03.376540"
 }
