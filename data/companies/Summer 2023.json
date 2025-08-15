@@ -2125,7 +2125,7 @@
       "name": "Silimate",
       "slug": "silimate",
       "website": "https://www.silimate.com",
-      "description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
+      "description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
       "one_liner": "The copilot for chip designers",
       "batch": "Summer 2023",
       "status": "Active",
@@ -2142,11 +2142,11 @@
       ],
       "locations": "Mountain View, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Enterprise Software",
-        "Semiconductors",
-        "AI"
+        "Semiconductors"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5224,7 +5224,7 @@
       "one_liner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 17,
+      "team_size": 18,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -7353,5 +7353,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-14T18:01:01.773150"
+  "fetched_at": "2025-08-15T00:02:55.418560"
 }

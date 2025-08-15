@@ -2688,7 +2688,7 @@
       "one_liner": "Automating non-emergency calls for 911 centers",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 11,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -2700,9 +2700,9 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "GovTech",
-        "AI"
+        "GovTech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5252,11 +5252,11 @@
     },
     {
       "id": 26730,
-      "name": "Champ",
-      "slug": "champ",
-      "website": "https://trychamp.co/",
-      "description": "Champ is the proven #1 outbound AI SDR. Our AI agent has been hired by largest public companies, and fast growing startups to lead their outbound GTM efforts.",
-      "one_liner": "Best Outbound AI SDR in the world. More sales deals, no human needed,\u2026",
+      "name": "Mocke",
+      "slug": "mocke",
+      "website": "https://mocke.co/",
+      "description": "Upload your prepared cold email campaigns to get AI agent mocked results in 1 min, such as replies or unsubscribe, and leads' internal thoughts at the moment of seeing emails. Unlock the core reasons of failed campaigns without waiting.",
+      "one_liner": "Mock email campaigns: know your reply rate 1 min without launch",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 10,
@@ -5274,16 +5274,16 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Sales"
+        "Sales",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1654798414.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/63b4ca6a1359575ae026ae8642bfb13def17ae58.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2cb70201308c4f41ceff6ec22383930a1f465fe.png"
     },
     {
       "id": 26727,
@@ -8124,5 +8124,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-08-14T18:01:01.038881"
+  "fetched_at": "2025-08-15T00:02:55.261707"
 }
