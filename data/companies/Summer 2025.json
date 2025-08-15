@@ -4882,6 +4882,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png"
     },
     {
+      "id": 30413,
+      "name": "Serafis",
+      "slug": "serafis",
+      "website": "https://serafis.ai",
+      "description": "Serafis is a search and discovery engine for long-form content. Our AI knowledge graph turns under-indexed data into structured market intelligence \u2014 starting with podcasts.\r\n\r\nWe help investors and operators:\r\n\u2022 Accelerate research\r\n\u2022 Surface new insights\r\n\u2022 Distill signal from noise\r\n\r\nWe are already live with five organizations managing over $40B in capital. Our library features >10,000 curated transcripts featuring top investors, Series A+ founders, and public company CEOs \u2014 searchable by person, company or theme.",
+      "one_liner": "The AI knowledge graph for long-form content",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Finance",
+        "Search"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755276267.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a815e7868c4a6d85c8b5fdb3324a29a6600f72.png"
+    },
+    {
       "id": 30364,
       "name": "Wayline",
       "slug": "wayline",
@@ -5049,5 +5082,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-15T12:01:36.022212"
+  "fetched_at": "2025-08-15T18:01:06.682038"
 }
