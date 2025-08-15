@@ -1012,11 +1012,11 @@
       "name": "Reacher",
       "slug": "reacher",
       "website": "https://reacherapp.com/",
-      "description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \r\n\r\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
-      "one_liner": "AI platform to connect brands with creators",
+      "description": "Reacher is an AI-powered platform that automates creator marketing workflows\u2014from discovery and outreach to campaign management and content strategy\u2014making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
+      "one_liner": "The marketing agent for creator collaborations",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1030,11 +1030,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
-        "Marketplace",
         "B2B",
         "E-commerce",
-        "Creator Economy"
+        "Creator Economy",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1678,6 +1677,37 @@
       "is_top_company": false,
       "launched_at": 1753297896.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5ca7e872c8a9bcea68e50cafff191bddd77013.png"
+    },
+    {
+      "id": 30727,
+      "name": "Alara",
+      "slug": "alara",
+      "website": "http://alaradental.com",
+      "description": "",
+      "one_liner": "AI-powered procurement software for dentists. Alara aggregates\u2026",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Dental",
+        "Procurement",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755223060.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5adee669e859434dbf90f866697a82e1a2fc2bd.png"
     },
     {
       "id": 30726,
@@ -2611,7 +2641,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "AI coding agent that can write firmware and test it on physical hardware\r\n",
+      "description": "AI coding agent that can write and test firmware on real hardware\r\n",
       "one_liner": "Claude Code for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4983,5 +5013,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png"
     }
   ],
-  "fetched_at": "2025-08-15T00:02:55.772337"
+  "fetched_at": "2025-08-15T06:01:33.031347"
 }

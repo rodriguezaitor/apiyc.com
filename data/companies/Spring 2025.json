@@ -628,7 +628,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747084472.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae796c1f4393a51f059d88307440de874c115900.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png"
     },
     {
       "id": 30539,
@@ -2190,7 +2190,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1743582739.0,
@@ -2233,7 +2233,7 @@
       "one_liner": "Integrate instantly with any website.",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -2881,7 +2881,7 @@
       "slug": "kestral",
       "website": "https://kestral.team",
       "description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
-      "one_liner": "AI Agents that prioritize the highest impact work across Sales and R&D",
+      "one_liner": "We automate your entire product development lifecycle.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2896,9 +2896,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Productivity",
-        "Team Collaboration",
-        "AI"
+        "Team Collaboration"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4590,5 +4590,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     }
   ],
-  "fetched_at": "2025-08-15T00:02:55.928969"
+  "fetched_at": "2025-08-15T06:01:33.528234"
 }

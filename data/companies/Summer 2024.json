@@ -2403,7 +2403,7 @@
       "one_liner": "Self Improving Software",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -2411,9 +2411,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -6040,7 +6041,7 @@
       "name": "Rewbi",
       "slug": "rewbi",
       "website": "https://www.rewbi.com/",
-      "description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery\u2019s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
+      "description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery\u2019s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
       "one_liner": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
       "batch": "Summer 2024",
       "status": "Active",
@@ -7064,19 +7065,19 @@
     },
     {
       "id": 29608,
-      "name": "Rides",
-      "slug": "rides",
-      "website": "https://www.Rides.co",
-      "description": "Rides is a car community platform built for and by enthusiasts. We want to give people a purpose built way to connect with other people that share their love of cars & motorcycles and creates showcases that give every vehicle a page that let's its design, performance, modifications & story take center stage. A social network where the cars shine and the community connects exactly how we do offline and on the road... around a shared passion.",
-      "one_liner": "The car community for the car community.",
+      "name": "Pre",
+      "slug": "pre",
+      "website": "https://pre.bubs.co",
+      "description": "There are millions of startups started every year\u2026 and that is going to grow by an order of magnitude over the next several years with AI making shipping a product nearly free. YC is the best opportunity for a startup, and Pre can help everyone else.",
+      "one_liner": "The software to launch startups.",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
-      "industry": "Consumer",
+      "team_size": 2,
+      "industry": "B2B",
       "subindustry": "Consumer -> Social",
       "industries": [
-        "Consumer",
-        "Social"
+        "B2B",
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -7086,17 +7087,18 @@
       ],
       "locations": "Lake Oswego, OR, USA; Remote",
       "tags": [
-        "Consumer",
-        "Community",
-        "Social",
-        "Automotive"
+        "SaaS",
+        "B2B",
+        "Investing",
+        "Feedback",
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722007649.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/83bc03b4c9a207ebf45f08a3b2959b116a857ba7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cb4af6e9ab45b4431ca1d8d69632b83194f214.png"
     },
     {
       "id": 29607,
@@ -8324,5 +8326,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-15T00:02:55.084524"
+  "fetched_at": "2025-08-15T06:01:30.226991"
 }
