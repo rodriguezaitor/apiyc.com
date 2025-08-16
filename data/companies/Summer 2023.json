@@ -990,40 +990,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/883b7bc8ea92895dbca7a59f5ad014c489f3729a.png"
     },
     {
-      "id": 29105,
-      "name": "FlowiseAI",
-      "slug": "flowiseai",
-      "website": "https://flowiseai.com",
-      "description": "Flowise uses low-code approach that enable developers to manage the whole lifecycle of building LLMs apps in production. From protoyping, evaluation, to iterations.",
-      "one_liner": "Open source GenAI development platform",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Generative AI",
-        "Open Source"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1688552847.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/430a7c6b91b2b976c63ca3ebab6cfe4e2a6371d4.png"
-    },
-    {
       "id": 29104,
       "name": "Shadeform",
       "slug": "shadeform",
@@ -4070,8 +4036,8 @@
       "name": "Repaint",
       "slug": "repaint",
       "website": "https://repaint.com",
-      "description": "Repaint is an AI website builder that helps non-technical users create professional, custom websites just by chatting. You describe what you want\u2014pages, style, content\u2014and our AI builds it in real time. It's great for small businesses, portfolios, nonprofits, and more. We're a team of builders obsessed with design, speed, and using AI to give people superpowers.",
-      "one_liner": "Build professional websites by chatting with AI",
+      "description": "Repaint is an AI web designer. It lets you create custom professional websites just by chatting with AI. You describe what you want\u2014pages, style, content\u2014and Repaint builds it. It's great for startup marketing websites, small businesses, portfolios, nonprofits and more.",
+      "one_liner": "AI for building websites",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -6646,6 +6612,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c64a305e01ba20da74a99d93c7b92f8f9831ffb.png"
     },
     {
+      "id": 29105,
+      "name": "FlowiseAI",
+      "slug": "flowiseai",
+      "website": "https://flowiseai.com",
+      "description": "Flowise uses low-code approach that enable developers to manage the whole lifecycle of building LLMs apps in production. From protoyping, evaluation, to iterations.",
+      "one_liner": "Open source GenAI development platform",
+      "batch": "Summer 2023",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Generative AI",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1688552847.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/430a7c6b91b2b976c63ca3ebab6cfe4e2a6371d4.png"
+    },
+    {
       "id": 29006,
       "name": "Inari",
       "slug": "inari",
@@ -7353,5 +7353,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-15T18:01:06.049568"
+  "fetched_at": "2025-08-16T00:02:52.479879"
 }
