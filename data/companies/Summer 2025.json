@@ -67,7 +67,7 @@
       "name": "Paloma",
       "slug": "paloma",
       "website": "https://getpaloma.ai/",
-      "description": "Paloma is a modular quote-to-cash stack that lets you manage pricing, quoting, and billing processes using natural language.\r\n\r\nB2B quoting and billing systems are stuck in the past. Rigid configurations and overly templatized rules slow down businesses, lead to erroneous manual processes , and result in fragmented sources of truths. Paloma lets you define your business rules in natural language, integrate your playbooks into the sales and quoting process, and automate bespoke billing processes for each of your contracts.",
+      "description": "Paloma is an AI copilot and system of record for renewals, expansions, and billing. It connects to your contracts, CRM, usage data and customer communications to surface revenue opportunities, flag churn risks and automatically update billing. With billing as its foundation, Paloma becomes the single source of truth for post-sales revenue, eliminating leakage and manual work.",
       "one_liner": "AI copilot and system of record for renewals, expansions, and billing",
       "batch": "Summer 2025",
       "status": "Active",
@@ -83,11 +83,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Customer Success",
         "Sales",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -132,7 +132,7 @@
       "name": "RealRoots",
       "slug": "realroots",
       "website": "http://www.therealroots.com",
-      "description": "RealRoots is a mobile app that guarantees women lifelong friendships. Women speak to an AI coach via voice, and get matched with compatible real-life women in her city for meaningful social experiences. ",
+      "description": "This is where real friendships begin. Women speak with our AI coach for 10 minutes to map personality, preferences, and availability. We then host recurring, guided meetups with compatible local matches and keep her social life on track with planning, suggestions, and check-ins.",
       "one_liner": "RealRoots is a mobile app that guarantees women lifelong friendships.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -158,7 +158,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1750729944.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1826c85adc2f6ea01d50ca7c977e6f72c739c3f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c563a3b9ae5c2c2acc674b74b30996afd6ac82d.png"
     },
     {
       "id": 30804,
@@ -2054,7 +2054,7 @@
       "name": "Hyprnote",
       "slug": "hyprnote",
       "website": "https://hyprnote.com",
-      "description": "Hyprnote is a privacy-first AI notetaker for compliance-sensitive enterprises. It runs fully on-device or on-prem, ensuring that no meeting data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - finance, healthcare, government, and beyond.",
+      "description": "Hyprnote is a privacy-first AI notetaker for enterprises. It runs fully on-device or on-prem, ensuring that no meeting data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
       "one_liner": "Privacy-first AI notetaker for enterprises - think open-source Granola",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5183,5 +5183,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-16T00:02:53.893371"
+  "fetched_at": "2025-08-16T06:01:04.258965"
 }
