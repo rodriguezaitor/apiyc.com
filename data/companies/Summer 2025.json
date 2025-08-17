@@ -1516,11 +1516,11 @@
       "name": "Humoniq",
       "slug": "humoniq",
       "website": "https://humoniq.ai",
-      "description": "Humoniq is building voice AI agents to handle customer support for travel companies, such as airlines.\r\n\r\nOur team is uniquely equipped to solve this challenge. We grew a travel management company, Flightfox (YC S12), to over $20M in annual sales while handling thousands of customer support requests.\r\n\r\nOur mission now is to make customer support in travel the fastest and most helpful of any industry. We already have major travel companies signed and a rapidly growing deal pipeline.",
-      "one_liner": "Voice AI agents for customer support in travel",
+      "description": "Humoniq is building an AI-native platform for business process outsourcing in the travel industry. Travel companies outsource more than 50% of their customer support operations to low-cost regions around the world, but with our AI-native approach, we deliver a much better customer experience and maintain competitive pricing.\r\n\r\nOur team is uniquely equipped to solve this challenge. We grew a travel management company (TMC), Flightfox (YC S12), to over $20M in annual sales while handling thousands of customer support requests every month. For 13 years we lived the problems that we are now solving with our AI-native BPO for travel.",
+      "one_liner": "AI-native BPO for travel",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -2280,7 +2280,7 @@
       "name": "Albacore Inc.",
       "slug": "albacore-inc",
       "website": "https://www.albacore.inc",
-      "description": "Albacore is building 6ft-long autonomous submarines to deter maritime invasions. They can be launched from land in minutes and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
+      "description": "Albacore is building 6ft-long drone submarines to deter littoral conflict. Our first product, Ghostfin can be launched from land in minutes, and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
       "one_liner": "Autonomous undersea vehicles to deter maritime invasions.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3516,7 +3516,7 @@
       "name": "Frizzle",
       "slug": "frizzle",
       "website": "https://www.frizzle.com",
-      "description": "Frizzle uses AI to grade math worksheets and assignments for teachers, providing personalized feedback on the page for every question for every student. The average teacher spends 10 hours per week grading homework - our software gets it done in minutes. We've talked to hundreds of teachers across the nation and one pattern keeps coming up: classrooms are moving back to pen-and-paper, but teachers don\u2019t have the time to handle all the paperwork. With the current national teacher shortage where 1 out of 8 teaching positions are still open, superintendents and principals have told us that teacher time is their most valuable resource. Frizzle is the most valuable piece of software for teachers as it eliminates the most time-consuming part of their workflow so they can focus on what matters most - teaching. \r\n\r\nAbhay and Shyam met as roommates in high school at the Illinois Math and Science Academy, and then graduated from Vanderbilt and Carnegie Mellon respectively. Abhay previously drove $50M of incremental revenue at Coinbase and helped scale an e-learning platform to millions; Shyam holds a patent for his work in LLM applications at Microsoft and founded Chicago\u2019s leading math nonprofit that has served hundreds of students over 10 years.\r\n\r\nSince starting in June, we've already graded 1000 worksheets using Frizzle and over 100 teachers are actively using the product despite summer break. We're currently also piloting Frizzle with 2 of the top schools in the nation.\r\n\r\nWe make approximately $25/teacher/month and $25k/district/year. With over 1.4M math teachers and 14,000 districts in the US and clear expansion to other subjects, we have a multi-billion-dollar opportunity across all K\u201312 subjects and geographies. \r\n\r\nTry it out for yourself at frizzle.com!",
+      "description": "Frizzle uses AI to grade handwritten and typed math worksheets for teachers, providing personalized feedback on the page for every student. Teachers spend over 10 hours a week grading - Frizzle does it in minutes.\r\n\r\nWe've talked to hundreds of teachers nationwide and keep hearing the same thing: classrooms are moving back to pen-and-paper, but there's no time to handle all the paperwork. With the current national teacher shortage with 1 in 8 teaching roles still open, superintendents and principals have also told us that teacher time is their most valuable resource. Frizzle is the most valuable piece of software ever for teachers as it eliminates the most time-consuming part of their workflow so they can focus on what matters most - teaching. \r\n\r\nAbhay and Shyam met as roommates in high school 10 years ago at the Illinois Math and Science Academy, and then graduated from Vanderbilt and Carnegie Mellon respectively. Abhay previously drove $50M of incremental revenue at Coinbase and helped scale an e-learning platform to millions; Shyam holds a patent for his work in LLM applications at Microsoft and founded Chicago\u2019s leading math nonprofit that has served hundreds of students over 10 years.\r\n\r\nSince starting in June, we've already graded 1000 worksheets using Frizzle and over 100 teachers are actively using the product despite summer break. We're also piloting Frizzle with 2 of the top high schools in the nation.\r\n\r\nWe make approximately $25/teacher/month and $25k/district/year. With over 1.4M math teachers and 14,000 districts in the US and clear expansion to other subjects, we have a multi-billion-dollar opportunity across all K\u201312 subjects and geographies.",
       "one_liner": "AI grading for math teachers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3814,8 +3814,8 @@
       "name": "Nuntius",
       "slug": "nuntius",
       "website": "https://www.nuntius.ai",
-      "description": "Applying artificial intelligence to economically productive use-cases requires bulletproof alignment. We\u2019re building automated infrastructure for post-training and alignment, with the ability to fully automate generating thousands of multi-turn scenarios and their quality assurance. ",
-      "one_liner": "Automated infrastructure for model alignment.",
+      "description": "Applying artificial intelligence to economically productive use-cases requires bulletproof alignment. We\u2019re solving that.",
+      "one_liner": "The Alignment Company.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3831,8 +3831,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Reinforcement Learning",
-        "AI"
+        "Artificial Intelligence",
+        "Reinforcement Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5178,5 +5178,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-17T00:03:31.733328"
+  "fetched_at": "2025-08-17T06:01:12.201117"
 }
