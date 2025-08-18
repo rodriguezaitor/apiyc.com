@@ -2904,15 +2904,10 @@
         "Drones"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "Washington, DC, USA",
-      "tags": [
-        "Hard Tech",
-        "Drones",
-        "Security"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -8288,5 +8283,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-18T12:01:32.418799"
+  "fetched_at": "2025-08-18T18:01:21.080251"
 }

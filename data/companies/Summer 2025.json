@@ -1651,7 +1651,7 @@
       "name": "Observee",
       "slug": "observee",
       "website": "https://observee.com/",
-      "description": "All AI Agents rely on external integrations to become truly useful. Our software provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
+      "description": "All AI Agents rely on external integrations to become truly useful. Our software provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using MCPs, tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
       "one_liner": "Integrations Infrastructure for Vertical AI companies",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1667,10 +1667,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3255,8 +3255,8 @@
       "name": "Lemma",
       "slug": "lemma",
       "website": "https://www.withlemma.com",
-      "description": "We\u2019re building Lemma because we\u2019ve been there.\r\n\r\nWe\u2019ve worked in professional services and lived the pain \u2014 buried in work that doesn\u2019t move the needle. Aggregating numbers from back surveys. Hunting for that one number buried in a mountain of files. Pulling quotes from hours of expert calls. Drafting version 10 of the interview guide. Rebuilding the same CDD survey from scratch. Programming those 100 question surveys.\r\n\r\nGeneric AI agents don\u2019t work here. They don\u2019t understand your content, your context, or your workflow.\r\n\r\nLemma builds AI teammates tailored to the way you actually work \u2014 built by people who\u2019ve done the work. Our agents plug into your tools, learn your processes, and handle the grunt work behind the scenes \u2014 so you can focus on insights, strategy, and moving fast.",
-      "one_liner": "Specialized AI agents for professional services ",
+      "description": "Lemma is the one-stop agentic insights platform that helps enterprises answer the question: What do people think of our brand and products? \r\n\r\nOur team of Stanford grads previously led the viewer satisfaction data insights platform at YouTube and performed cutting-edge research at the Harvard Medical School and Stanford School of Medicine. We\u2019re working with Disney and other consumer brands to capture customer sentiment on everything from your favorite TV character\u2019s death to the action figurine at the Disneyland gift shop. \r\n\r\nWe are the only all-in-one consumer insights platform with specialized agents that can (1) scour the internet to discover and interpret ongoing conversations to see what people are actually saying, (2) automate survey writing and data collection, and (3) author a draft memo or report in minutes, cutting through days of manual work at a time.\r\n",
+      "one_liner": "The one-stop agentic consumer brands insights platform",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3271,9 +3271,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Market Research"
+        "Customer Success",
+        "Data Science",
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5251,5 +5253,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-18T12:01:35.671248"
+  "fetched_at": "2025-08-18T18:01:24.828568"
 }
