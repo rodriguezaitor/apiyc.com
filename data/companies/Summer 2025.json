@@ -50,9 +50,9 @@
       ],
       "locations": "Santa Clara, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Speech Recognition",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -362,7 +362,7 @@
       "id": 30797,
       "name": "Veritus Agent",
       "slug": "veritus-agent",
-      "website": "http://veritusagent.ai",
+      "website": "https://www.veritusagent.ai",
       "description": "Veritus is a platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nWe license our platform to lenders and collections agencies, and we're also in the process of getting licensed in all 50 states to enable our own third-party collections and debt buying. By combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
       "one_liner": "AI agents for loan servicing and collections",
       "batch": "Summer 2025",
@@ -382,9 +382,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Lending",
-        "AI"
+        "Lending"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1882,11 +1882,11 @@
       "name": "Autosana",
       "slug": "autosana",
       "website": "https://autosana.ai",
-      "description": "A cloud-based tool for mobile teams to run natural language end-to-end tests. Eradicates the need to write/maintain E2E tests and manual testing. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nNo code, no setup, just catching bugs before users do. ",
-      "one_liner": "QA agent for mobile apps",
+      "description": "24/7 AI QA engineer for mobile teams. Add our agent to your mobile app repository and that's it.\r\n\r\nTurns natural language into E2E tests, eradicating manual testing and the need to write/maintain UX scripts. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nSaving your team hours and catching bugs before users do. ",
+      "one_liner": "QA agent for mobile teams",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -1899,9 +1899,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "SaaS"
+        "AIOps",
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3015,6 +3015,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2c4cd4965511ab936008331a12f4b2958401280.png"
     },
     {
+      "id": 30677,
+      "name": "Kalinda",
+      "slug": "kalinda",
+      "website": "https://www.kalinda.ai/",
+      "description": "The nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others.\r\n\r\nKalinda extracts, summarizes, and aggregates data from these records for attorneys in minutes with AI.\r\n\r\nWhen scaled across an entire litigation, Kalinda works tirelessly and in parallel\u2014turning a process that once took months into just a few hours. \r\n\r\nKalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume.\r\n\r\nTo date, we\u2019ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S!",
+      "one_liner": "Deep research for class action lawsuits",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Legal",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755462558.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc717d7521c4543043c20540b7ff90d62356bd8e.png"
+    },
+    {
       "id": 30675,
       "name": "BootLoop",
       "slug": "bootloop",
@@ -3266,7 +3301,10 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Health Tech"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4588,7 +4626,7 @@
       "slug": "traceroot-ai",
       "website": "https://traceroot.ai",
       "description": "TraceRoot.AI is your agentic system for debugging production issues. It has access to logs, traces, source code, commit histories, PRs, issues, Notion, Slack, and more, helping you quickly investigate and resolve issues in complex systems. It visualizes a unified, structured view of your observability data and helps teams debug production issues in complex systems in no time.",
-      "one_liner": "AI agents automatically fix your production bugs",
+      "one_liner": "Open source AI agents automatically fix your production bugs",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5178,5 +5216,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-17T18:01:09.062141"
+  "fetched_at": "2025-08-18T00:03:16.079541"
 }

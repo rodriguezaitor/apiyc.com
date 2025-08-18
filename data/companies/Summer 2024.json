@@ -3737,7 +3737,7 @@
       "one_liner": "Quantum computers on silicon chips using AI.",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Industrials",
       "subindustry": "Industrials",
       "industries": [
@@ -3749,11 +3749,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hard Tech",
         "Machine Learning",
         "Quantum Computing",
-        "Semiconductors",
-        "AI"
+        "Semiconductors"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5773,8 +5773,8 @@
       "name": "Elevate",
       "slug": "elevate-2",
       "website": "https://www.useelevate.dev/",
-      "description": "We build magical data pipelines that use LLMs to integrate, clean, and enrich data living in disparate systems, delivering better KPI and financial reporting. We work with a wide range of customers, with a focus on PE- and VC-backed roll-ups where we provide a single source of truth for portfolio performance across acquisitions. \r\nOur experience is at the intersection of finance x tech. With an increasingly competitive M&A marketplace driven by $0.5T+ of dry powder, clean, usable data is a massive competitive advantage throughout the investment cycle \u2013 in diligence, to make informed investment decisions; in value creation, to execute the strategic plan quickly and confidently; and in exit, where better data leads to better outcomes.  We\u2019re on a mission to make AI useful for any company with messy data. ",
-      "one_liner": "AI-powered data management",
+      "description": "Elevate is a platform for roll-ups to overcome the data challenges that cripple acquisitions and block access to the latest AI technology. We handle hair-on-fire data migrations, provide a centralized repository for cross-portfolio data aggregation, diligence, and analytics, and enable our customers to quickly access and experiment with the latest agentic AI solutions. \r\n\r\nOur experience is at the intersection of finance x tech. As a VP in Private Equity, Scott Cara, the CEO of Elevate, experienced data challenges first-hand and through his vast network of private equity investors and operators. Jeff (CPO) and Steve (CTO) are experienced software engineers with decorated backgrounds in data, finance, and start-ups. The founding team has been friends for every a decade. \r\n\r\nOur customers are private equity-backed roll-ups. Roll-ups have become an increasingly popular value creation strategy in private equity as $0.5T+ of dry powder intersects with a wave of baby boomer retirements. But roll-ups need to be integrated to realize synergies. That\u2019s where Elevate comes in \u2013 we enable our roll-up customers to realize synergies faster through data integrations and AI automations, allowing the team to focus on deal-making and growth. ",
+      "one_liner": "AI-powered data management for roll-ups",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -5792,10 +5792,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Finance",
         "B2B",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8288,5 +8288,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-17T18:01:08.175810"
+  "fetched_at": "2025-08-18T00:03:13.455254"
 }
