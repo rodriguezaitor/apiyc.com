@@ -67,8 +67,8 @@
       "name": "Paloma",
       "slug": "paloma",
       "website": "https://getpaloma.ai/",
-      "description": "Paloma is an AI copilot and system of record for renewals, expansions, and billing. It connects to your contracts, CRM, usage data and customer communications to surface revenue opportunities, flag churn risks and automatically update billing. With billing as its foundation, Paloma becomes the single source of truth for post-sales revenue, eliminating leakage and manual work.",
-      "one_liner": "AI copilot and system of record for renewals, expansions, and billing",
+      "description": "Paloma is an AI copilot and system of record for managing post-sales operations. It connects to your contracts, CRM, usage data and customer communications to surface upsell opportunities, flag churn risks and automatically update billing.",
+      "one_liner": "We help customer facing teams maximize revenue and simplify billing",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -83,11 +83,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Customer Success",
         "Sales",
-        "Billing",
-        "AI"
+        "Billing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3454,8 +3454,8 @@
       "name": "Sidekick",
       "slug": "heysidekick",
       "website": "https://joinsidekick.com",
-      "description": "Just chat to build powerful, multi-step automations. No more tangled flowcharts or endless dropdowns.",
-      "one_liner": "The simplicity of ChatGPT meets the power of Zapier",
+      "description": "Sidekick is automation for the rest of us. Build Zapier-style automations in minutes using natural language.\r\n\r\nTeams in sales, marketing, and ops often turn to platforms like Zapier to automate their busywork. But these platforms are too complex and time-consuming for them. Sidekick replaces the steep learning curve with a simple chat interface, making powerful automation accessible to everyone.\r\n",
+      "one_liner": "Automation for the rest of us",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3614,6 +3614,41 @@
       "is_top_company": false,
       "launched_at": 1750879126.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png"
+    },
+    {
+      "id": 30652,
+      "name": "OnDeck AI",
+      "slug": "ondeck-ai",
+      "website": "https://www.ondeckai.com",
+      "description": "We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it\u2019s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn\u2019t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
+      "one_liner": "Analyze any footage, without training a model",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Vancouver, BC, Canada",
+      "tags": [
+        "Computer Vision",
+        "B2B",
+        "Security",
+        "Video",
+        "Maritime"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755488960.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb6ad4cbd4cdfac49ff1b40404d7053d5789883.png"
     },
     {
       "id": 30651,
@@ -4151,8 +4186,8 @@
       "name": "ZeroEval",
       "slug": "zeroeval",
       "website": "https://zeroeval.com",
-      "description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback.\r\n\r\nThe biggest issue with traditional eval tooling is that they are not fit to evaluate more complex situations like:\r\n- Long running, multi-turn agents with dozens of intermediate tool calls.\r\n- Generalist agents that have no clear (input) / (expected output) but can sometimes feel \u201cwrong\u201d.\r\n- Images, video, UI, personality, taste, etc\r\n\r\nOverall: Things that are difficult to verify programatically.\r\n\r\nWith ZeroEval we are building a way to back-propagate your AI agent's errors and help you optimize your most important metric.\r\n\r\nCurrent LLM judges are static and unreliable when it comes to evaluating complex systems. One way we are solving is through calibrated judges that learn through their mistakes and get better over time. Having a reliable judge is the highest leverage piece any company building with AI can have.\r\n\r\nOur mission is to enable every company to build reliable, self-improving AI software.",
-      "one_liner": "A platform to measure the quality of AI agents using human feedback.",
+      "description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback. \r\n\r\n- Calibrated Judges: LLM Judges that learn from their mistakes and get better over time.\r\n- Autotune: Automatic evals and optimization.\r\n- Arenas: Pairwise comparison of agent outputs + ELO scores.\r\n\r\nDo you have tool call failures? Hallucinations? Outputs that you don't like? We know how to fix that, talk to us.",
+      "one_liner": "A tool to evaluate and optimize AI agents using human feedback.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4168,10 +4203,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4251,7 +4286,7 @@
       "slug": "liva-ai",
       "website": "https://www.theliva.ai",
       "description": "We provide real voice and video data for developing realistic AI.",
-      "one_liner": "Real voice and video data for AI",
+      "one_liner": "ScaleAI for human voice and video data",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4268,11 +4303,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Marketplace",
         "B2B",
         "Data Labeling",
-        "Big Data",
-        "AI"
+        "Big Data"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5216,5 +5251,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-18T00:03:16.079541"
+  "fetched_at": "2025-08-18T06:01:32.164826"
 }
