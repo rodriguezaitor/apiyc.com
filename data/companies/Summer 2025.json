@@ -1244,6 +1244,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f90ca5cca8a2d750b52199dcc520e1fbffdbb6.png"
     },
     {
+      "id": 30748,
+      "name": "Pleom",
+      "slug": "pleom",
+      "website": "https://pleom.com",
+      "description": "At Pleom we are building AI hardware devices that everyday consumers can talk to and rely on for real-world tasks. We\u2019re competing head-to-head with IO (recently merged with OpenAI in a $6.5B deal) with faster iteration as our moat.\r\n\r\nToday, Pleom is a website. Tomorrow, it will be integrated into our family of hardware devices.",
+      "one_liner": "Talk to your AI",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Hardware",
+        "Electronics",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755614874.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e76d8c0743b28030c0f3c37f0d0bfa7f51272.png"
+    },
+    {
       "id": 30747,
       "name": "Convexia",
       "slug": "convexia",
@@ -1549,8 +1583,8 @@
       "name": "Humoniq",
       "slug": "humoniq",
       "website": "https://humoniq.ai",
-      "description": "Humoniq is building an AI-native platform for business process outsourcing in the travel industry. Travel companies outsource more than 50% of their customer support operations to low-cost regions around the world, but with our AI-native approach, we deliver a much better customer experience and maintain competitive pricing.\r\n\r\nOur team is uniquely equipped to solve this challenge. We grew a travel management company (TMC), Flightfox (YC S12), to over $20M in annual sales while handling thousands of customer support requests every month. For 13 years we lived the problems that we are now solving with our AI-native BPO for travel.",
-      "one_liner": "AI-native BPO for travel",
+      "description": "Humoniq is building the first full-stack AI BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.\r\n\r\nOur team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.",
+      "one_liner": "AI-native BPO for travel & transport",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1565,8 +1599,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Travel",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -2277,11 +2311,11 @@
     },
     {
       "id": 30705,
-      "name": "Summon",
-      "slug": "summon",
-      "website": "https://trysummon.com",
-      "description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \r\n\r\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\r\n\r\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
-      "one_liner": "Open-Source Postman for MCP servers",
+      "name": "Twill",
+      "slug": "twill",
+      "website": "https://twill.ai",
+      "description": "Twill is the AI-native Linear connected to the codebase. We help engineering teams transform simple requests like \"Add user authentication\" into complete specifications, generate detailed tickets with full technical context, and dispatch them to AI coding agents in parallel. Teams ship 2x faster while maintaining alignment between product vision and implementation.",
+      "one_liner": "AI native Linear connected to the codebase.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2293,9 +2327,7 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -2307,7 +2339,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1750717483.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d24bb4bb035ac0a592f5ff7cfb7867f6b7c0f52.png"
     },
     {
       "id": 30704,
@@ -3922,6 +3954,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceffd4f572173f3b351bfe31078aa9baee60955e.png"
     },
     {
+      "id": 30645,
+      "name": "Panels",
+      "slug": "panels",
+      "website": "https://www.usepanels.com/",
+      "description": "Panels is an audio data platform that delivers large-scale, richly labeled speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
+      "one_liner": "Voice data that makes machines sound human",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Data Labeling",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755625983.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4b164260ea438a9d56d44266a78d08d778c3bc.png"
+    },
+    {
       "id": 30644,
       "name": "Herdora",
       "slug": "herdora",
@@ -4149,6 +4214,37 @@
       "is_top_company": false,
       "launched_at": 1755582399.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ff2d4057e1128c01e602989e199ee71f53d392.png"
+    },
+    {
+      "id": 30634,
+      "name": "bitrig",
+      "slug": "bitrig",
+      "website": "https://www.bitrig.app",
+      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps\r\n\r\nKyle and Jacob created SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was a co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nTry out bitrig on TestFlight:\r\nhttps://testflight.apple.com/join/4ZXPhYUC",
+      "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Cupertino, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755626076.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cab11cbab7740801b864a1576c8a78d2f69fa8e6.png"
     },
     {
       "id": 30630,
@@ -5388,5 +5484,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-19T12:01:21.666552"
+  "fetched_at": "2025-08-19T18:02:06.050593"
 }

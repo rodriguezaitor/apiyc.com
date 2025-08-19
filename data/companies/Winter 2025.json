@@ -1122,8 +1122,8 @@
       "name": "Pinch",
       "slug": "pinch",
       "website": "https://startpinch.com",
-      "description": "Pinch is a video conferencing platform purpose-built for multilingual meetings.  Our model translates your voice in real-time, allowing the other participants to see and hear you speaking their native language.\r\n\r\nUnlock new markets and authentic connections \u2014 join Pinch!",
-      "one_liner": "Video conferencing with real-time voice translation",
+      "description": "Pinch is the universal translator from Star Trek.  Our desktop app allows you to translate your voice into any online meeting, and get live translated transcripts for any audio you hear.  We also host our own video conferencing platform built for multilingual calls.\r\n\r\nAuthentic connections without language barriers \u2014 join Pinch!",
+      "one_liner": "Real-time AI Voice Translation",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 3,
@@ -3174,6 +3174,38 @@
       "is_top_company": false,
       "launched_at": 1734458813.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png"
+    },
+    {
+      "id": 30240,
+      "name": "Bezel",
+      "slug": "bezel",
+      "website": "https://www.trybezel.com/",
+      "description": "Bezel helps fashion brands create virtual photo/video shoots with AI. \r\n\r\nUpload images of clothes, select the human you want to model it, and Bezel generates pictures and videos that rival a full studio production. \r\n\r\nEvery detail of the clothing is rendered flawlessly. Try it for yourself.",
+      "one_liner": "Digital AI humans that model clothes for e-commerce brands.",
+      "batch": "Winter 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Generative AI",
+        "Machine Learning",
+        "Marketing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755619154.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fff4fb87d06a4a76e786b38906a07e576147ff8.png"
     },
     {
       "id": 30239,
@@ -5319,5 +5351,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-19T12:01:21.318737"
+  "fetched_at": "2025-08-19T18:02:05.898574"
 }

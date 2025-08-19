@@ -2272,12 +2272,12 @@
       "id": 27054,
       "name": "Ekho",
       "slug": "ekho",
-      "website": "https://www.ekhodealer.com",
-      "description": "Using Ekho\u2019s licensed, white-label integration, our partners unlock market coverage and enable buyers to complete checkout, financing, payment, insurance, and titling & registration in a matter of minutes \u2014 all automated and online, without a single visit to the DMV.",
-      "one_liner": "Enabling OEMs, distributors, and dealers to sell more vehicles in the\u2026",
+      "website": "https://www.ekho.com",
+      "description": "Ekho's end-to-end vehicle commerce platform powers compliant, digital sales of title vehicles. Our platform handles checkout, financing, titling, registration, signature collection, and taxes\u2014so dealers and OEMs can sell nationwide with a seamless, Tesla-like experience. Dealers use Ekho Dealer as a \u201cdealership-in-a-box\u201d to capture online sales without needing large back-office teams, while OEMs use Ekho Access and Omni to extend their reach and unify dealers across sales channels.",
+      "one_liner": "Shopify for vehicles",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 22,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -2289,7 +2289,12 @@
         "America / Canada"
       ],
       "locations": "New York, NY, USA",
-      "tags": [],
+      "tags": [
+        "Auto Commerce",
+        "Fintech",
+        "Compliance",
+        "Automotive"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8124,5 +8129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-08-19T12:01:19.368298"
+  "fetched_at": "2025-08-19T18:02:05.015879"
 }
