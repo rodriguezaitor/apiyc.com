@@ -1684,7 +1684,7 @@
       "name": "Observee",
       "slug": "observee",
       "website": "https://observee.com/",
-      "description": "All AI Agents rely on external integrations to become truly useful. Our software provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using MCPs, tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
+      "description": "All AI Agents rely on external integrations to become truly useful. Our infrastructure provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using MCPs, tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
       "one_liner": "Integrations Infrastructure for Vertical AI companies",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1700,10 +1700,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1964,11 +1964,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Productivity",
         "Calendar",
-        "Email",
-        "AI Assistant"
+        "Email"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2082,8 +2082,8 @@
       "name": "Hyprnote",
       "slug": "hyprnote",
       "website": "https://hyprnote.com",
-      "description": "Hyprnote is a privacy-first AI notetaker for enterprises. It runs fully on-device or on-prem, ensuring that no meeting data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
-      "one_liner": "Privacy-first AI notetaker for enterprises - think open-source Granola",
+      "description": "Hyprnote is an open-source AI notetaker for enterprises. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
+      "one_liner": "Open-source AI notetaker for enterprises",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -2094,9 +2094,10 @@
         "Productivity"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "B2B"
@@ -3288,8 +3289,8 @@
       "name": "Lemma",
       "slug": "lemma",
       "website": "https://www.withlemma.com",
-      "description": "Lemma is the one-stop insights platform that helps enterprises answer the question: What do people think of our brand and products?\r\n\r\nOur team of Stanford grads previously led the viewer satisfaction data insights platform at YouTube and performed AI research at Harvard Medical School and Stanford School of Medicine. We\u2019re working with Disney and other consumer brands to capture customer sentiment on everything from your favorite TV character\u2019s death to the action figurine at the Disneyland gift shop.\r\n\r\nWe are the only all-in-one consumer insights platform with specialized agents that can (1) scour the internet to discover and interpret ongoing conversations to see what people are actually saying, (2) automate survey writing and data collection, and (3) author a draft memo or report in minutes, cutting through days of manual work at a time.\r\n",
-      "one_liner": "The one-stop consumer brands insights platform",
+      "description": "Lemma is the consumer insights platform that helps businesses answer the question: What do people think of our brand and products?\r\n\r\nOur team of Stanford grads previously led the viewer satisfaction data insights platform at YouTube and performed AI research at Harvard Medical School and Stanford School of Medicine. We\u2019re working with Disney and other consumer brands to capture customer sentiment on everything from your favorite TV character\u2019s death to the action figurine at the Disneyland gift shop.\r\n\r\nWe are the only all-in-one consumer insights platform with specialized agents that can (1) scour the internet to discover and interpret ongoing conversations to see what people are actually saying, (2) automate survey writing and data collection, and (3) author a draft memo or report in minutes, cutting through days of manual work at a time.",
+      "one_liner": "AI-powered consumer brands insights platform",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4456,8 +4457,8 @@
       "name": "Ghostship",
       "slug": "ghostship",
       "website": "https://tryghostship.dev/",
-      "description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship \u2014 ship something people love.",
-      "one_liner": "AI Agents that Find Bugs in Your Product",
+      "description": "We find bugs in your product with AI agents that crawl across your product and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to production.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app. Good UX is a moat today, but with Ghostship, it'll be the standard tomorrow.\r\n\r\nGhostship \u2014 don't get caught lacking by your users.",
+      "one_liner": "Browser agents for finding UX bugs in your product",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5387,5 +5388,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-19T06:01:15.971055"
+  "fetched_at": "2025-08-19T12:01:21.666552"
 }
