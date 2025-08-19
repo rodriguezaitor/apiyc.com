@@ -3315,7 +3315,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753836881.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/efb463bde44f163800e2bddd4c82e59974256f27.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/011aa58a0ba42b8f8e7f1a23c3baca7f8594935e.png"
     },
     {
       "id": 30666,
@@ -3415,6 +3415,41 @@
       "is_top_company": false,
       "launched_at": 1751838348.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/146dcc3d13f9a26c2300485534fada61ffbc8c0f.png"
+    },
+    {
+      "id": 30663,
+      "name": "Tesora",
+      "slug": "tesora",
+      "website": "https://tesora.ai",
+      "description": "Tesora builds AI procurement analysts for mission-critical industries. Our analyst first handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before. Our analysts can then reach more vendors, drive competition through qualification and price discovery, and unlock major cost savings without adding headcount.",
+      "one_liner": "AI procurement analysts for mission critical industries",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Supply Chain",
+        "Procurement",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755571936.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png"
     },
     {
       "id": 30662,
@@ -3623,8 +3658,8 @@
       "name": "Skope",
       "slug": "skope",
       "website": "https://useskope.com",
-      "description": "We\u2019re building a billing system, for AI companies. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are excited to be the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
-      "one_liner": "A modern billing system for AI-native companies.",
+      "description": "We\u2019re building the billing system for AI products. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are excited to be the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
+      "one_liner": "The billing system for AI products",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3639,9 +3674,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Billing",
-        "AI"
+        "Billing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4021,8 +4056,8 @@
       "name": "Lotas",
       "slug": "lotas",
       "website": "https://www.lotas.ai",
-      "description": "At Lotas, we're accelerating data science with AI. Our first product, Rao, is a fork of RStudio with an embedded AI assistant that is aware of the project\u2019s context (both files and variable environment), can read and write files, can run code or commands, and can interpret textual or visual output. It works with any of the file formats already in RStudio (R, notebooks including RMDs and QMDs, Python, Stan, etc.), allowing it to iteratively perform entire data analyses.",
-      "one_liner": "Cursor for RStudio",
+      "description": "Lotas is building Poisson: a secure, AI-native IDE for data science. Cursor is excellent for software development but it lacks data science-specific tools that are critical to a data scientist\u2019s workflow. Lotas is closing that gap.\r\n\r\nFor our first product, we built Rao: an AI coding assistant into RStudio \u2014 an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
+      "one_liner": "Cursor for Data Science \u2014 secure, AI-native IDE for data scientists",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4081,6 +4116,38 @@
       "is_top_company": false,
       "launched_at": 1753857560.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png"
+    },
+    {
+      "id": 30636,
+      "name": "EffiGov",
+      "slug": "effigov",
+      "website": "https://effi-gov.com",
+      "description": "EffiGov automates the 100k+ administrative calls received by every municipality in America, from pothole reports to records requests. We use voice AI to provide a 24/7 smart assistant that has full context on local policies and procedures and integrates with legacy government CRMs.",
+      "one_liner": "The AI Call Center for Local Government",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "GovTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755582399.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ff2d4057e1128c01e602989e199ee71f53d392.png"
     },
     {
       "id": 30630,
@@ -4919,6 +4986,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/463b3d216b98b96d985f820caa0a09e2c3c9ee44.png"
     },
     {
+      "id": 30598,
+      "name": "GETASAP ASIA",
+      "slug": "getasap-asia",
+      "website": "https://www.getasap.asia",
+      "description": "We use a network of optimized fulfillment centers to offer the lowest prices and 8 hour same-day delivery to corner stores, restaurants, and supermarket chains in Southeast Asia.\r\n",
+      "one_liner": "Tech-Enabled Distribution for Retailers in Southeast Asia",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 17,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Logistics",
+        "E-commerce",
+        "Supply Chain"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755567142.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png"
+    },
+    {
       "id": 30582,
       "name": "Pingo AI",
       "slug": "pingo-ai",
@@ -5088,7 +5189,7 @@
       "slug": "serafis",
       "website": "https://serafis.ai",
       "description": "Serafis is a search and discovery engine for long-form content. Our AI knowledge graph turns under-indexed data into structured market intelligence \u2014 starting with podcasts.\r\n\r\nWe help investors and operators:\r\n\u2022 Accelerate research\r\n\u2022 Surface new insights\r\n\u2022 Distill signal from noise\r\n\r\nWe are already live with five organizations managing over $40B in capital. Our library features >10,000 curated transcripts featuring top investors, Series A+ founders, and public company CEOs \u2014 searchable by person, company or theme.",
-      "one_liner": "The AI knowledge graph for long-form content",
+      "one_liner": "The AI knowledge graph for institutional investors",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5103,10 +5204,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Finance",
-        "Search"
+        "Search",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5286,5 +5387,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-19T00:03:08.216136"
+  "fetched_at": "2025-08-19T06:01:15.971055"
 }
