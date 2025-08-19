@@ -34,8 +34,8 @@
       "name": "Blue",
       "slug": "blue",
       "website": "https://heyblue.com/",
-      "description": "Blue is the first voice assistant that can control every app on your phone.\r\n\r\nMost assistants today, such as Siri, Alexa, or Gemini, are limited to narrow functions like setting timers or answering questions. They cannot message your friends on Messenger, send money on Venmo, or compare ride-share prices to book the best option.\r\n\r\nBlue can do all of this and more.\r\n\r\nIt taps, swipes, and types like a human on both Android and iPhone, so it doesn't need any app-specific integrations. This is made possible through a voice-first computer-use model as well as a custom hardware. \r\n\r\nIt already works in the real world. Users are texting, shopping, and navigating their phones completely hands-free. People who are commuting, cooking, or multitasking are using Blue to reclaim meaningful time during their day.\r\n\r\nOur team brings rare and highly complementary experience. Omar led Google Assistant\u2019s transition to LLMs and holds one of the earliest patents in LLM-based computer control. Peter brings decades of experience designing and building voice-first dialog systems, holds multiple design patents, and was most recently the design lead at Google DeepMind serving actions on the Gemini Live model. Farhan helped ship Apple\u2019s Vision Pro and holds more than 50 patents in hardware and systems design. He's also led several products end-to-end from early prototyping to mass production and global fulfillment.\r\n\r\nTogether, we have built systems used by billions of people and are now building something even more fundamental: re-inventing the way we use and interact with technology.",
-      "one_liner": "The first voice assistant that can control every app on your phone.",
+      "description": "Blue is the only voice assistant that can control every app on your phone so you can get work done hands-free.\r\n\r\nMost voice assistants today, such as Siri, Alexa, or Gemini, are limited to narrow functions like setting timers or answering questions. They cannot help you read and reply to your Slack messages and emails, manage your calendar, file expenses, send money on Venmo, compare Uber and Lyft prices, etc.\r\n\r\nBlue can do all of this and more.\r\n\r\nIt taps, swipes, and types like a human on both iPhone and Android, so it doesn't need any app-specific integrations. This is made possible through a voice-first computer-use model as well as a custom hardware. \r\n\r\nIt already works in the real world. Users are texting, shopping, and navigating their phones completely hands-free. People who are commuting, cooking, or multitasking are using Blue to reclaim meaningful time during their day.\r\n\r\nOur team brings rare and highly complementary experience. Omar led Google Assistant\u2019s transition to LLMs and holds one of the earliest patents in LLM-based computer control. Peter brings decades of experience designing and building voice-first dialog systems, holds multiple design patents, and was most recently the design lead at Google DeepMind serving actions on the Gemini Live model. Farhan helped ship Apple\u2019s Vision Pro and holds more than 50 patents in hardware and systems design. He's also led several products end-to-end from early prototyping to mass production and global fulfillment.\r\n\r\nTogether, we have built systems used by billions of people and are now building something even more fundamental: re-inventing the way we use and interact with technology.",
+      "one_liner": "The only voice assistant that can control every app on your phone.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -839,6 +839,39 @@
       "is_top_company": false,
       "launched_at": 1750156128.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c7285daed594e49818c41dd7e677796b8e4b61.png"
+    },
+    {
+      "id": 30770,
+      "name": "Vibe Code Go",
+      "slug": "vibe-code-go",
+      "website": "https://vibecodego.com",
+      "description": "We've built a mobile app that lets you vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
+      "one_liner": "Code from your phone",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755546681.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffeca89d176d23081681b5dd3135c9a26bcfb7f5.png"
     },
     {
       "id": 30769,
@@ -2984,8 +3017,8 @@
       "name": "Riverbank",
       "slug": "riverbank",
       "website": "https://www.riverbanksecurity.com/",
-      "description": "Riverbank is creating the first AI native internal security team, starting with the $3B pentesting market. We blend AI agents with experienced human operators and red teamers to find what traditional vulnerability scanners miss to create more secure, resilient cyber postures. ",
-      "one_liner": "AI Agents for Penetration Testing",
+      "description": "Riverbank is creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
+      "one_liner": "AI Agents for Offensive Cyber Security",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3002,10 +3035,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "IoT Security",
         "Cybersecurity",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3255,8 +3288,8 @@
       "name": "Lemma",
       "slug": "lemma",
       "website": "https://www.withlemma.com",
-      "description": "Lemma is the one-stop agentic insights platform that helps enterprises answer the question: What do people think of our brand and products? \r\n\r\nOur team of Stanford grads previously led the viewer satisfaction data insights platform at YouTube and performed cutting-edge research at the Harvard Medical School and Stanford School of Medicine. We\u2019re working with Disney and other consumer brands to capture customer sentiment on everything from your favorite TV character\u2019s death to the action figurine at the Disneyland gift shop. \r\n\r\nWe are the only all-in-one consumer insights platform with specialized agents that can (1) scour the internet to discover and interpret ongoing conversations to see what people are actually saying, (2) automate survey writing and data collection, and (3) author a draft memo or report in minutes, cutting through days of manual work at a time.\r\n",
-      "one_liner": "The one-stop agentic consumer brands insights platform",
+      "description": "Lemma is the one-stop insights platform that helps enterprises answer the question: What do people think of our brand and products?\r\n\r\nOur team of Stanford grads previously led the viewer satisfaction data insights platform at YouTube and performed AI research at Harvard Medical School and Stanford School of Medicine. We\u2019re working with Disney and other consumer brands to capture customer sentiment on everything from your favorite TV character\u2019s death to the action figurine at the Disneyland gift shop.\r\n\r\nWe are the only all-in-one consumer insights platform with specialized agents that can (1) scour the internet to discover and interpret ongoing conversations to see what people are actually saying, (2) automate survey writing and data collection, and (3) author a draft memo or report in minutes, cutting through days of manual work at a time.\r\n",
+      "one_liner": "The one-stop consumer brands insights platform",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3271,11 +3304,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Data Science",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3304,11 +3337,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
-        "Health Tech"
+        "Health Tech",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751153734.0,
@@ -4188,7 +4221,7 @@
       "name": "ZeroEval",
       "slug": "zeroeval",
       "website": "https://zeroeval.com",
-      "description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback. \r\n\r\n- Calibrated Judges: LLM Judges that learn from their mistakes and get better over time.\r\n- Autotune: Automatic evals and optimization.\r\n- Arenas: Pairwise comparison of agent outputs + ELO scores.\r\n\r\nDo you have tool call failures? Hallucinations? Outputs that you don't like? We know how to fix that, talk to us.",
+      "description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback. \r\n\r\n\r\n1. The problem:\r\n\r\nCurrent offline eval methods are high-friction, a lot of work is needed to continuously curate labeled data, write experiments and evaluators. \r\n\r\nOn the other hand, current LLM judges are static and often have terrible performance, they lack context on how they fail and the nuances of the task at hand. \r\n\r\n\r\n2. The solution:\r\n\r\nWe're building new evaluation tools that provide signal faster and of higher quality than traditional evals.\r\n\r\n- Calibrated Judges: LLM Judges that learn from their mistakes and get better over time.\r\n\r\n- Autotune: Automatic evals with dozens of models and optimization (genetic prompt tuning & sft).\r\n\r\n- Arenas: Pairwise comparison and ELO rankings of agents with subjective outputs like UI generation, motion design, etc.\r\n\r\nDo you have tool call failures? Hallucinations? Outputs that you don't like? Talk to us.\r\n\r\n\r\n\r\n",
       "one_liner": "A tool to evaluate and optimize AI agents using human feedback.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4205,10 +4238,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "SaaS",
-        "AI"
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5253,5 +5286,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-18T18:01:24.828568"
+  "fetched_at": "2025-08-19T00:03:08.216136"
 }

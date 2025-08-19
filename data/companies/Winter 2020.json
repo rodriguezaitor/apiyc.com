@@ -4119,6 +4119,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/517858a2f6d1535b89d71bd9bf5a0f334c3c7f8d.png"
     },
     {
+      "id": 13108,
+      "name": "yearend",
+      "slug": "yearend",
+      "website": "https://yearend.com",
+      "description": "YearEnd helps startup employees optimize their equity and taxes, and can also file their tax returns. They simply connect their financial accounts and YearEnd will tell them how much tax they\u2019ll owe and will make recommendations on how to make better decisions. At the end of the year, YearEnd can also file their tax return for them or they can collaborate with their existing tax accountant.",
+      "one_liner": "Optimize your equity and taxes in real-time.",
+      "batch": "Winter 2020",
+      "status": "Active",
+      "team_size": 7,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Fintech",
+        "Finance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1579635113.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/96f673cac4ff8f2e5fd5fc81d0fd40a9e6767804.png"
+    },
+    {
       "id": 13105,
       "name": "Factored Quality",
       "slug": "factored-quality",
@@ -5749,40 +5783,6 @@
       "is_top_company": false,
       "launched_at": 1584229476.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3dafb6a330856d4ad26439ff3d8f51fea13507.png"
-    },
-    {
-      "id": 13108,
-      "name": "yearend",
-      "slug": "yearend",
-      "website": "https://yearend.com",
-      "description": "YearEnd helps startup employees optimize their equity and taxes, and can also file their tax returns. They simply connect their financial accounts and YearEnd will tell them how much tax they\u2019ll owe and will make recommendations on how to make better decisions. At the end of the year, YearEnd can also file their tax return for them or they can collaborate with their existing tax accountant.",
-      "one_liner": "Optimize your equity and taxes in real-time.",
-      "batch": "Winter 2020",
-      "status": "Acquired",
-      "team_size": 7,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Consumer Finance",
-      "industries": [
-        "Fintech",
-        "Consumer Finance"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Fintech",
-        "Finance"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1579635113.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/96f673cac4ff8f2e5fd5fc81d0fd40a9e6767804.png"
     },
     {
       "id": 13100,
@@ -7725,5 +7725,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
     }
   ],
-  "fetched_at": "2025-08-18T18:01:22.517328"
+  "fetched_at": "2025-08-19T00:03:05.963527"
 }
