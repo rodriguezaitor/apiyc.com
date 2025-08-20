@@ -34,11 +34,11 @@
       "name": "Blue",
       "slug": "blue",
       "website": "https://heyblue.com/",
-      "description": "Blue is the only voice assistant that can control every app on your phone so you can get work done hands-free.\r\n\r\nMost voice assistants today, such as Siri, Alexa, or Gemini, are limited to narrow functions like setting timers or answering questions. They cannot help you read and reply to your Slack messages and emails, manage your calendar, file expenses, send money on Venmo, compare Uber and Lyft prices, etc.\r\n\r\nBlue can do all of this and more.\r\n\r\nIt taps, swipes, and types like a human on both iPhone and Android, so it doesn't need any app-specific integrations. This is made possible through a voice-first computer-use model as well as a custom hardware. \r\n\r\nIt already works in the real world. Users are texting, shopping, and navigating their phones completely hands-free. People who are commuting, cooking, or multitasking are using Blue to reclaim meaningful time during their day.\r\n\r\nOur team brings rare and highly complementary experience. Omar led Google Assistant\u2019s transition to LLMs and holds one of the earliest patents in LLM-based computer control. Peter brings decades of experience designing and building voice-first dialog systems, holds multiple design patents, and was most recently the design lead at Google DeepMind serving actions on the Gemini Live model. Farhan helped ship Apple\u2019s Vision Pro and holds more than 50 patents in hardware and systems design. He's also led several products end-to-end from early prototyping to mass production and global fulfillment.\r\n\r\nTogether, we have built systems used by billions of people and are now building something even more fundamental: re-inventing the way we use and interact with technology.",
+      "description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (\u201cBud\u201d) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant\u2019s transition to LLMs and holds early patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe\u2019ve built systems used by billions. Now we\u2019re building the control layer that lets AI use phones the way people do.",
       "one_liner": "The only voice assistant that can control every app on your phone.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -46,13 +46,15 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "Santa Clara, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Speech Recognition",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1282,7 +1284,7 @@
       "name": "Convexia",
       "slug": "convexia",
       "website": "https://convexia.bio",
-      "description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
+      "description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, Boltz-2, AlphaFold) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
       "one_liner": "The world's first AI-maximalist pharma company",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1300,8 +1302,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-powered Drug Discovery",
-        "Biotech",
-        "AI"
+        "Artificial Intelligence",
+        "Biotech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1666,17 +1668,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning",
         "Data Engineering",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749750449.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcd86cbc2e4ab44520f932ab828ce39c7bafa4f1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6071213c01d5d50f868a5fdc53ec36d1f79fe88b.png"
     },
     {
       "id": 30729,
@@ -2606,7 +2608,7 @@
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
       "description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\r\n\r\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
-      "one_liner": "AI that red teams the human mind",
+      "one_liner": "Attack Surface Management for Human Risk",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2622,9 +2624,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3085,7 +3087,7 @@
       "name": "Kalinda",
       "slug": "kalinda",
       "website": "https://www.kalinda.ai/",
-      "description": "The nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others.\r\n\r\nKalinda extracts, summarizes, and aggregates data from these records for attorneys in minutes with AI.\r\n\r\nWhen scaled across an entire litigation, Kalinda works tirelessly and in parallel\u2014turning a process that once took months into just a few hours. \r\n\r\nKalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume.\r\n\r\nTo date, we\u2019ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S!",
+      "description": "Kalinda helps class action law firms qualify potential cases in minutes with AI.\r\n\r\nThe nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others.\r\n\r\nKalinda extracts, summarizes, and aggregates data from these records for attorneys with AI.\r\n\r\nWhen scaled across an entire litigation, Kalinda works tirelessly and in parallel\u2014turning a process that once took months into just a few hours. \r\n\r\nKalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume.\r\n\r\nTo date, we\u2019ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S!",
       "one_liner": "Deep research for class action lawsuits",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3184,6 +3186,36 @@
       "is_top_company": false,
       "launched_at": 1755009056.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/489fd97ad45ee1d6d874c7a99792bf1552ebddc2.png"
+    },
+    {
+      "id": 30672,
+      "name": "Induction Labs",
+      "slug": "induction-labs",
+      "website": "https://inductionlabs.com",
+      "description": "Today\u2019s foundation models can generate words, but still cannot reliably operate a computer, where where most real economic value will be unlocked. We\u2019re building models that learn from human behaviour at scale, powered by the largest dataset of computer interactions ever collected. In two months, we trained a model that beats GPT-5 and Claude 4 computer use at OSWorld, an industry standard computer use benchmark.\r\n",
+      "one_liner": "Training the best computer use models in the world. Automate anything.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Generative AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755632182.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2f926be6434de6b8c75a3a873f2b79fe0bdf59.png"
     },
     {
       "id": 30671,
@@ -3776,10 +3808,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "DevSecOps",
-        "Security"
+        "Security",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3821,8 +3853,8 @@
       "name": "Lilac",
       "slug": "lilac",
       "website": "https://getlilac.com",
-      "description": "Lilac is an open-source tool that ensures your data scientists always have enough gpus for their work. We seamlessly connect compute from any source, on-prem or cloud.",
-      "one_liner": "Open-Source MLOps platform ensuring your data scientists have GPUs",
+      "description": "Lilac is a GPU spot marketplace that taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper compute while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
+      "one_liner": "Spot GPU marketplace that uses idle GPUs from enterprises",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3840,8 +3872,7 @@
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
         "Machine Learning",
-        "Open Source",
-        "Data Science",
+        "Cloud Computing",
         "Infrastructure",
         "AI"
       ],
@@ -3857,8 +3888,8 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Big companies are drowning in Jira tickets. They get thousands of reported issues every month\u2014most never seen by anyone with full context. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Teams spend hundreds of hours just figuring out what\u2019s important\u2014before they can even start fixing it.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and compares it to everything that\u2019s come before. It builds a knowledge graph across projects: which tickets are duplicates, which share the same root cause, and which roll up into the same component failure. It automatically surfaces related tickets, flags prior fixes, and identifies what matters most\u2014across all projects and teams.\r\n\r\nThis transforms how organizations handle tickets at scale:\r\n\u2022 Customer support can immediately check if engineering is already working on a reported issue, reducing back-and-forth and surfacing statuses and fixes faster.\r\n\u2022 Ticket routing becomes smarter\u2014Janet shows which individuals or teams are already tackling related issues.\r\n\u2022 Engineering teams get cross-project visibility\u2014seeing how other teams are solving similar problems and avoiding redundant work.\r\n\u2022 No more context lost in silos\u2014when 20 related tickets each contain a piece of the puzzle, Janet AI connects the dots. You can ask Janet to explore related issues and extract the insights you\u2019d otherwise miss.\r\n\r\nSeveral multi\u2011billion\u2011dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Visit tryjanet.ai to book a demo, get started, or watch short videos showing how Janet AI works across each use case.",
-      "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
+      "description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, Jira turns into chaos. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Tickets are never seen by anyone with full context. As a result, teams spend hundreds of manual hours just figuring out what\u2019s important\u2014before they can even start fixing it.\r\n\r\nJanet AI watches every incoming ticket to build a knowledge graph and automatically surfaces related tickets, streamlines routing, flags prior fixes, and identifies what matters most\u2014across all projects and teams.",
+      "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3873,10 +3904,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4189,7 +4220,7 @@
       "slug": "effigov",
       "website": "https://effi-gov.com",
       "description": "EffiGov automates the 100k+ administrative calls received by every municipality in America, from pothole reports to records requests. We use voice AI to provide a 24/7 smart assistant that has full context on local policies and procedures and integrates with legacy government CRMs.",
-      "one_liner": "The AI Call Center for Local Government",
+      "one_liner": "The AI Call Center for Local Governments",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4204,9 +4235,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "GovTech"
+        "GovTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4220,15 +4251,16 @@
       "name": "bitrig",
       "slug": "bitrig",
       "website": "https://www.bitrig.app",
-      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps\r\n\r\nKyle and Jacob created SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was a co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nTry out bitrig on TestFlight:\r\nhttps://testflight.apple.com/join/4ZXPhYUC",
+      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob created SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was a co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nTry out bitrig on TestFlight:\r\nhttps://testflight.apple.com/join/4ZXPhYUC",
       "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -5319,7 +5351,7 @@
       "slug": "wayline",
       "website": "https://wayline.com",
       "description": "Wayline is an AI front desk assistant purpose-built for real estate to answer calls and messages 24/7. It\u2019s like an always-on property manager that can convert leads and resolve issues better than any human, day or night. Our AI can be setup in as little as 24 hours and works seamlessly with existing phone/management software. Uniquely, our AI knowledge base is domain-specific to learn and handle the most complex real estate workflows. For property operators, Wayline instantly replaces robo-menus and call centers, while centralizing and scaling back-office teams.",
-      "one_liner": "AI voice assistant for real estate managers",
+      "one_liner": "AI voice for property managers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5484,5 +5516,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-19T18:02:06.050593"
+  "fetched_at": "2025-08-20T00:03:12.510852"
 }

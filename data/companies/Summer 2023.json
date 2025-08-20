@@ -1925,7 +1925,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687811406.0,
@@ -2161,8 +2161,8 @@
       "name": "Roundtable",
       "slug": "roundtable",
       "website": "https://roundtable.ai",
-      "description": "Roundtable is building Proof of Human, an invisible API that verifies online human identity. Founded by 2 Princeton cognitive scientists, Roundtable leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
-      "one_liner": "Proof of Human - online human verification",
+      "description": "Roundtable Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by 2 Princeton cognitive scientists, Roundtable leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
+      "one_liner": "Proof of Human - invisible bot detection",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -7352,5 +7352,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-19T18:02:05.315824"
+  "fetched_at": "2025-08-20T00:03:10.862199"
 }
