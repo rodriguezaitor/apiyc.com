@@ -2312,21 +2312,24 @@
       "name": "Raycaster",
       "slug": "raycaster",
       "website": "https://raycaster.ai",
-      "description": "Raycaster helps companies sell complex technical products by surfacing hidden insights about their prospects. Our customers use us to automatically uncover everything from lab equipment specifications to API performance metrics - research that traditionally took weeks of manual digging.\r\n\r\nWhat's exciting is how these insights naturally spread. Teams start with BD, then realize their marketing or product teams need this deep customer understanding too. We're building the intelligence layer that helps technical teams make better decisions.",
-      "one_liner": "Research agents for life sciences",
+      "description": "Raycaster is the enterprise AI engine for life sciences providers. Teams at Agilent, Yokogawa, and others use it to grow revenue, accelerate R&D, and speed regulatory and legal research - advancing their Industry 4.0 initiatives with a well-trusted partner.",
+      "one_liner": "Enterprise AI for life sciences providers",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
-        "Sales"
+        "Productivity"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
+      "locations": "New York, NY, USA",
       "tags": [
         "Artificial Intelligence",
         "SaaS",
@@ -3053,5 +3056,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-08-20T00:03:16.757384"
+  "fetched_at": "2025-08-20T06:01:10.230418"
 }

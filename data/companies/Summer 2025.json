@@ -34,7 +34,7 @@
       "name": "Blue",
       "slug": "blue",
       "website": "https://heyblue.com/",
-      "description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (\u201cBud\u201d) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant\u2019s transition to LLMs and holds early patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe\u2019ve built systems used by billions. Now we\u2019re building the control layer that lets AI use phones the way people do.",
+      "description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (\u201cBud\u201d) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant\u2019s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe\u2019ve built systems used by billions. Now we\u2019re building the control layer that lets AI use phones the way people do.",
       "one_liner": "The only voice assistant that can control every app on your phone.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -52,9 +52,9 @@
       ],
       "locations": "Santa Clara, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Speech Recognition",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -69,8 +69,8 @@
       "name": "Paloma",
       "slug": "paloma",
       "website": "https://getpaloma.ai/",
-      "description": "Paloma is an AI copilot and system of record for managing post-sales operations. It connects to your contracts, CRM, usage data and customer communications to surface upsell opportunities, flag churn risks and automatically update billing.",
-      "one_liner": "We help customer facing teams maximize revenue and simplify billing",
+      "description": "We unify your contracts, service consumption, and customer relationship context so that your revenue, success and sales teams can operate from the same ground truth. With everything centralized, you can proactively react to customer signals for upsell and churn while billing is seamlessly handled in the background.",
+      "one_liner": "AI-native CRM for billing, renewals, and expansions",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1250,7 +1250,7 @@
       "name": "Pleom",
       "slug": "pleom",
       "website": "https://pleom.com",
-      "description": "At Pleom we are building AI hardware devices that everyday consumers can talk to and rely on for real-world tasks. We\u2019re competing head-to-head with IO (recently merged with OpenAI in a $6.5B deal) with faster iteration as our moat.\r\n\r\nToday, Pleom is a website. Tomorrow, it will be integrated into our family of hardware devices.",
+      "description": "At Pleom, we are building AI hardware devices that everyday consumers can talk to for real-world tasks that understands your context. We\u2019re going head-to-head with OpenAI, moving faster to market and capturing mindshare first.\r\n\r\nToday, Pleom is a website. Tomorrow, it will be integrated into our family of hardware devices.",
       "one_liner": "Talk to your AI",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1581,6 +1581,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png"
     },
     {
+      "id": 30733,
+      "name": "Nautilus",
+      "slug": "nautilus",
+      "website": "https://nautilus.co",
+      "description": "Nautilus is the all-in-one e-commerce, marketing, and CRM platform for car washes. Mobile-first and membership-led, it unifies one-click checkout on online sales, memberships, two-way messaging, automated campaigns, ticketing, and end-to-end attribution. With a customer automation engine, real-time POS integrations, and AI dashboards, Nautilus launches in 1\u20132 weeks and helps operators convert more visitors, grow members, and reduce churn. Learn more at nautilus.co.",
+      "one_liner": "The car wash platform unifying data, e-commerce, and growth",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Payments",
+        "Marketing",
+        "CRM"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755658554.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6ad11628869059a0e0126b6b03d41bab676578.png"
+    },
+    {
       "id": 30732,
       "name": "Humoniq",
       "slug": "humoniq",
@@ -1753,8 +1787,8 @@
       "name": "Alara",
       "slug": "alara",
       "website": "http://alaradental.com",
-      "description": "",
-      "one_liner": "AI-powered procurement software for dentists. Alara aggregates\u2026",
+      "description": "Alara aggregates product listings from numerous suppliers, shows real-time price comparisons, and lets dentists order from different vendors in a single cart. With Alara, dental offices are saving time and money when ordering supplies. ",
+      "one_liner": "Procurement Platform for Dental Offices",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 0,
@@ -1768,9 +1802,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Dental",
-        "Procurement",
-        "AI"
+        "Procurement"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2608,7 +2642,7 @@
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
       "description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\r\n\r\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
-      "one_liner": "Attack Surface Management for Human Risk",
+      "one_liner": "Attack Surface Management for Humans",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2624,9 +2658,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2879,7 +2913,7 @@
       "slug": "preempt",
       "website": "https://www.preempt.me",
       "description": "We're building www.TheInterface.com, a virtual world for AI.  \r\n\r\nWe believe world experience data is the future of AI, and collecting this data from the real world is time-consuming and limited. So we\u2019re building a virtual world\u2014a place for humans to prototype and game with AI.",
-      "one_liner": "An applied simulations lab.",
+      "one_liner": "An applied simulations lab building The Interface",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2895,9 +2929,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Cloud Gaming",
-        "Gaming"
+        "Gaming",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3049,11 +3083,11 @@
     },
     {
       "id": 30680,
-      "name": "Riverbank",
-      "slug": "riverbank",
+      "name": "Riverbank Security",
+      "slug": "riverbank-security",
       "website": "https://www.riverbanksecurity.com/",
-      "description": "Riverbank is creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
-      "one_liner": "AI Agents for Offensive Cyber Security",
+      "description": "Riverbank is an ex-NSA and DoD team creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
+      "one_liner": "AI-native Red Teaming and Offensive Security ",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3070,10 +3104,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "IoT Security",
         "Cybersecurity",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3116,6 +3150,38 @@
       "is_top_company": false,
       "launched_at": 1755462558.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc717d7521c4543043c20540b7ff90d62356bd8e.png"
+    },
+    {
+      "id": 30676,
+      "name": "Stellon Labs",
+      "slug": "stellon-labs",
+      "website": "https://stellonlabs.com/",
+      "description": "Stellon Labs is an AI research lab that is building tiny frontier AI models that can run on edge devices like smartphones, wearables and embedded systems. Our first open source model, KittenTTS, is a super-tiny text-to-speech model, that got 8K Github stars and 45K model downloads within 2 weeks of launching. ",
+      "one_liner": "Building tiny frontier AI models that run on edge devices",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Edge Computing Semiconductors",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755664851.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0f795844bb7b220e603390ba0b9ce967fb6db26.png"
     },
     {
       "id": 30675,
@@ -3369,18 +3435,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Data Science",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753836881.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/011aa58a0ba42b8f8e7f1a23c3baca7f8594935e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/03cb07163332494b572b0ba31102a585e60a701c.png"
     },
     {
       "id": 30666,
@@ -3623,8 +3689,8 @@
       "name": "Keystone",
       "slug": "keystone",
       "website": "https://withkeystone.com",
-      "description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA again.",
-      "one_liner": "AI agents that test your application.",
+      "description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
+      "one_liner": "Your team's AI software engineer",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -3639,10 +3705,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3921,7 +3987,7 @@
       "name": "Cyberdesk",
       "slug": "cyberdesk",
       "website": "https://www.cyberdesk.io",
-      "description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. \r\n\r\nWe've designed our agent to follow memorized steps reliably, while falling back to computer use models during unexpected popups. Customers in healthcare, finance, and more are using our agent to automate EHRs, accounting apps, and other legacy apps.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+      "description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. Our agent clicks and types on any Windows desktop like a human, replacing the need for developers to hire unreliable remote workers or to build brittle automation scripts. \r\n\r\nWe launched a month ago and we\u2019ve closed 80k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nOur unique insight is in our agent\u2019s intelligent caching, which allows it to be as fast and cheap as traditional automation scripts while self healing from unexpected situations in the screen. \r\n\r\nMahmoud previously scaled RPA to 20K employees at a Fortune 100 company, and Alan is ex-NASA and has been building with computer use models since their earliest releases.\r\n\r\nTraditional robotic process automation is a $6 billion industry, yet it only services a tiny fraction of desktop tasks that can now be automated by our agent. In the long term, our agent will automate every manual computer task.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
       "one_liner": "The computer use agent for developers to automate Windows apps",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3938,9 +4004,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Workflow Automation"
+        "Workflow Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5046,7 +5112,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754696414.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54fe3c1f5ea37b2861f3e64d7b8d15333c1def29.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46c35f4e96ad6533d276ba2d798408427ce1a525.png"
     },
     {
       "id": 30603,
@@ -5516,5 +5582,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-20T00:03:12.510852"
+  "fetched_at": "2025-08-20T06:01:09.219796"
 }

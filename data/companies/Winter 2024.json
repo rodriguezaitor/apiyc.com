@@ -6400,7 +6400,7 @@
       "id": 29269,
       "name": "Garage",
       "slug": "garage-2",
-      "website": "https://www.withgarage.com/",
+      "website": "https://www.shopgarage.com/",
       "description": "Garage is a marketplace for used equipment and vehicles, starting with government surplus. \r\n\r\nBy automating every part of the transaction\u2014including payments, freight, paperwork, warranty, and financing\u2014we reduce what used to take months down to minutes. We're building the modern platform for equipment that powers America\u2019s essential industries.",
       "one_liner": "Marketplace for emergency vehicles, equipment, and more.",
       "batch": "Winter 2024",
@@ -7636,7 +7636,7 @@
       "one_liner": "Open Source AI Assistant and Enterprise Search",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 13,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -7649,11 +7649,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Open Source",
         "NLP",
         "Enterprise",
-        "Search"
+        "Search",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8227,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-08-20T00:03:09.495540"
+  "fetched_at": "2025-08-20T06:01:08.440015"
 }
