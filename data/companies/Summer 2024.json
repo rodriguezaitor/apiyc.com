@@ -1739,9 +1739,9 @@
     },
     {
       "id": 29826,
-      "name": "Simplifine",
-      "slug": "simplifine",
-      "website": "https://www.simplifine.com",
+      "name": "Orca",
+      "slug": "orcaengine",
+      "website": "https://orcaengine.ai",
       "description": "Simplifine is making Orca, the open-source AI game engine, so you don't need to give your years to make a game. We are integrating a chat bot, with complete access to Godot. The chatbot can:\r\n\r\nRead/edit/create/delete files\r\nUnderstand the entire project as context\r\nCreate images and keep consistency across images created\r\nEdit Godot native objects, e.g. nodes, scenes, ...",
       "one_liner": "Jet engine for game development",
       "batch": "Summer 2024",
@@ -1758,10 +1758,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Consumer",
         "Gaming",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4333,7 +4333,7 @@
       "one_liner": "Powerful quantitative forecasting models",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -4345,8 +4345,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Data Science"
+        "Data Science",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8284,5 +8284,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-20T12:01:40.535976"
+  "fetched_at": "2025-08-20T18:01:15.378155"
 }

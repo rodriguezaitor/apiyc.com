@@ -1620,7 +1620,7 @@
       "slug": "humoniq",
       "website": "https://humoniq.ai",
       "description": "Humoniq is building the first full-stack AI BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.\r\n\r\nOur team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.",
-      "one_liner": "AI-native BPO for travel & transport",
+      "one_liner": "Full-stack AI BPO for travel & transport",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1635,8 +1635,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Travel",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -4317,7 +4317,7 @@
       "name": "bitrig",
       "slug": "bitrig",
       "website": "https://www.bitrig.app",
-      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob created SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was a co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nTry out bitrig on TestFlight:\r\nhttps://testflight.apple.com/join/4ZXPhYUC",
+      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob created SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was a co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
       "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5582,5 +5582,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-20T12:01:42.691259"
+  "fetched_at": "2025-08-20T18:01:18.969634"
 }
