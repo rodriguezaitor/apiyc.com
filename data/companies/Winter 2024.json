@@ -7349,8 +7349,8 @@
       "name": "Tesseral",
       "slug": "tesseral",
       "website": "https://tesseral.com",
-      "description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Support for B2B multitenancy\r\n* User impersonation\r\n* Self-service config for your customers\r\n* Magic links\r\n* Social login\r\n* Enterprise single sign-on (SAML SSO)\r\n* Enterprise directory sync (SCIM)\r\n* Role-based access control (RBAC)\r\n* Multifactor authentication (MFA)\r\n* Passkeys (WebAuthn)\r\n* Authenticator apps (TOTPs)\r\n* API key management\r\n* User invitations\r\n* Webhooks\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
-      "one_liner": "The open-source auth infrastructure for B2B SaaS",
+      "description": "Tesseral is the open source platform for managing identity and access in business software. It provides enterprise-grade capabilities, including SAML single sign-on, SCIM provisioning, role-based access control, managed API keys, and audit logs, implemented in just a few lines of code. \r\n\r\nTesseral unifies access management for employees, customers, services, and AI agents, giving organizations the flexibility to adapt to any deployment model and the authority to enforce security policies with precision.\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
+      "one_liner": "The open source platform for managing identity in business software",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -8227,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-08-20T18:01:15.848677"
+  "fetched_at": "2025-08-21T00:02:09.777578"
 }

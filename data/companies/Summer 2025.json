@@ -618,8 +618,8 @@
       "name": "Perspectives Health",
       "slug": "perspectives-health",
       "website": "https://perspectiveshealth.ai/",
-      "description": "",
-      "one_liner": "Automating EMRs for frontline clinicians",
+      "description": "Perspectives listens in on sessions and completes forms for clinicians inside their EMR. Clinicians using Perspectives get half their time back, can see more clients, and can connect better with patients.",
+      "one_liner": "AI Agent for Clinic EMRs",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -782,8 +782,8 @@
       "name": "stagewise",
       "slug": "stagewise",
       "website": "https://stagewise.io",
-      "description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project.\r\n\r\nOur agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like \u201cmake it green and put it in the top right corner\u201d, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we\u2019re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
-      "one_liner": "The frontend coding agent for production codebases",
+      "description": "stagewise builds a frontend coding agent for real codebases. We enable developers, designers and product managers to build and iterate on web apps with any tech stack in a simple and visually guided manner.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like \u201cmake it green and put it in the top right corner\u201d, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we\u2019re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
+      "one_liner": "Frontend coding agent for real codebases",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -799,9 +799,9 @@
       ],
       "locations": "Bielefeld, NRW, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1150,7 +1150,7 @@
       "slug": "nottelabs",
       "website": "https://www.notte.cc/",
       "description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
-      "one_liner": "Building infrastructure for reliable web agents",
+      "one_liner": "The infrastructure for reliable web agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -1165,9 +1165,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1702,17 +1702,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Reinforcement Learning",
         "Data Engineering",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749750449.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6071213c01d5d50f868a5fdc53ec36d1f79fe88b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7c1c2f8123b7ee877d2a832099eb0d9ca21b9e2.png"
     },
     {
       "id": 30729,
@@ -2641,8 +2641,8 @@
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\r\n\r\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
-      "one_liner": "Attack Surface Management for Humans",
+      "description": "GhostEye is the human attack surface management platform that protects organizations from social engineering attacks. Founded to address the 68% of breaches involving human factors, GhostEye makes human risk easy to quantify by measuring employee behavior under realistic attack conditions. \r\n\r\nWe deliver continuous resilience testing proven to prevent social engineering breaches before they happen. With AI-powered simulations across email, SMS, voice, and social media, GhostEye's platform identifies vulnerable employees and strengthens defenses automatically.",
+      "one_liner": "Continuous Attack Surface Management for Humans",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2658,9 +2658,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3606,9 +3606,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Energy",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3755,8 +3755,8 @@
       "name": "Frizzle",
       "slug": "frizzle",
       "website": "https://www.frizzle.com",
-      "description": "Frizzle uses AI to grade handwritten and typed math worksheets for teachers, providing personalized feedback on the page for every student. Teachers spend over 10 hours a week grading - Frizzle does it in minutes.\r\n\r\nWe've talked to hundreds of teachers nationwide and keep hearing the same thing: classrooms are moving back to pen-and-paper, but there's no time to handle all the paperwork. With the current national teacher shortage with 1 in 8 teaching roles still open, superintendents and principals have also told us that teacher time is their most valuable resource. Frizzle is the most valuable piece of software ever for teachers as it eliminates the most time-consuming part of their workflow so they can focus on what matters most - teaching. \r\n\r\nAbhay and Shyam met as roommates in high school 10 years ago at the Illinois Math and Science Academy, and then graduated from Vanderbilt and Carnegie Mellon respectively. Abhay previously drove $50M of incremental revenue at Coinbase and helped scale an e-learning platform to millions; Shyam holds a patent for his work in LLM applications at Microsoft and founded Chicago\u2019s leading math nonprofit that has served hundreds of students over 10 years.\r\n\r\nSince starting in June, we've already graded 1000 worksheets using Frizzle and over 100 teachers are actively using the product despite summer break. We're also piloting Frizzle with 2 of the top high schools in the nation.\r\n\r\nWe make approximately $25/teacher/month and $25k/district/year. With over 1.4M math teachers and 14,000 districts in the US and clear expansion to other subjects, we have a multi-billion-dollar opportunity across all K\u201312 subjects and geographies.",
-      "one_liner": "AI grading for math teachers",
+      "description": "Frizzle uses AI to grade math worksheets and assignments for teachers, providing personalized feedback for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle is an official White House partner for bringing AI into education: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.",
+      "one_liner": "AI grading for teachers, starting with math",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3771,18 +3771,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI-Enhanced Learning",
         "Artificial Intelligence",
         "Education",
         "SaaS",
-        "Edtech"
+        "B2B",
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754512868.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/abe1fcfe7ee928c43b6fa34748a1f7b5f5133287.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3daf2d29bc3da3d9f526ade87b3daa93b0d6a6cd.png"
     },
     {
       "id": 30653,
@@ -4219,7 +4219,7 @@
       "name": "Lotas",
       "slug": "lotas",
       "website": "https://www.lotas.ai",
-      "description": "Lotas is building Poisson: a secure, AI-native IDE for data science. Cursor is excellent for software development but it lacks data science-specific tools that are critical to a data scientist\u2019s workflow. Lotas is closing that gap.\r\n\r\nFor our first product, we built Rao: an AI coding assistant into RStudio \u2014 an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
+      "description": "Lotas is building Erdos: a secure, AI-native IDE for data science. Cursor is excellent for software development but it lacks data science-specific tools that are critical to a data scientist\u2019s workflow. Lotas is closing that gap.\r\n\r\nFor our first product, we built Rao: an AI coding assistant into RStudio \u2014 an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
       "one_liner": "Cursor for Data Science \u2014 secure, AI-native IDE for data scientists",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4236,10 +4236,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Data Science",
-        "Data Visualization"
+        "Data Visualization",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4349,7 +4349,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark provides AI Agents to solve billing issues for subscription companies.\r\n\r\nTeams currently spend tens of hours every week dealing with billing support inquiries and tackling issues like fraud and chargebacks. Our Agents automate all of this work for them by integrating with their existing systems. \r\n\r\nThe result: lower support costs, happier customers, and more recovered revenue.",
+      "description": "Lark builds AI agents to solve billing issues for subscription companies. We\u2019re starting by automating billing support and chargebacks. Vijit and Jack previously built the usage-based billing product at Stripe. Lark is live with three customers: Midjourney, Julius AI, and Joon App.\r\n\r\nAutomating billing actions is nuanced and risky, which is why general support agents like Intercom Fin struggle with it. We have heard this repeatedly from customers. At Lark, we build agents with deep billing integrations that factor in customer usage data, credits, prorations, and more, with strong guardrails to ensure safe actions.\r\n\r\nWe want to be the AI layer on top of billing and are going after a $20B market opportunity in this space.",
       "one_liner": "AI Agents for Billing Operations",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4366,11 +4366,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Customer Support",
         "Fraud Detection",
         "Billing",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4378,6 +4378,40 @@
       "is_top_company": false,
       "launched_at": 1755281037.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67710e46a3214b779fb0c410b22c7dd1f1f89778.png"
+    },
+    {
+      "id": 30629,
+      "name": "Topological",
+      "slug": "topological",
+      "website": "https://www.topological.com",
+      "description": "Topological is developing physics-based foundation models for CAD optimization. We help hardware teams iterate at the same speed that software teams do. Our technology is accelerating the engineering workflow with AI and scales design and optimization to identify the ideal designs for complex problems given their physical constraints with enhanced speed and performance. \r\n\r\nOur first model, UToP-v1, is a SOTA topology optimization model that understands physics, geometry, and manufacturability. It can generate the most efficient design given a problem\u2019s physical requirements. It has <5% compliance error and is 1930x faster than current methods. We're reimagining mechanical engineering and computational design with precision spatial AI.",
+      "one_liner": "Physics-based foundation models for CAD optimization.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Reinforcement Learning",
+        "Robotics",
+        "Design Tools",
+        "3D Printing",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755729176.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9c845239fb1f16317889a4a843409e109b24f6.png"
     },
     {
       "id": 30628,
@@ -4582,8 +4616,8 @@
       "name": "Liva AI",
       "slug": "liva-ai",
       "website": "https://www.theliva.ai",
-      "description": "We provide real voice and video data for developing realistic AI.",
-      "one_liner": "ScaleAI for human voice and video data",
+      "description": "GenAI models trained on internet data still lack realistic, domain-specific results, and we solve this by delivering high-quality offline data through targeted recruitment and a consumer upload platform.",
+      "one_liner": "ScaleAI for video and voice data.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4721,7 +4755,7 @@
       "name": "Golpo",
       "slug": "golpo",
       "website": "https://video.golpoai.com/",
-      "description": "The world's best AI video generator that turns your documents and/or prompts into whiteboard explainer videos. In addition, we have a similar product that generates podcast-style audio explainers from your documents/prompts. API access available for both video and conversational audio. Product of Red Tree Inc. ",
+      "description": "The world's best AI video generator that turns your documents and/or prompts into whiteboard explainer videos. In addition, we have a similar product that generates podcast-style audio explainers from your documents/prompts. API access available for both video and conversational audio. Product of Red Tree Inc. Please reach out at founders@golpoai.com",
       "one_liner": "Most Powerful AI Video Gen Model for Explainer Videos From Documents",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5582,5 +5616,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-20T18:01:18.969634"
+  "fetched_at": "2025-08-21T00:02:10.310133"
 }
