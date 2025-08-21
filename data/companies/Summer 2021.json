@@ -4782,41 +4782,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/28860fcff17e55e8b541e927d50fb68f63ca9d5a.png"
     },
     {
-      "id": 24424,
-      "name": "Kodda",
-      "slug": "kodda",
-      "website": "https://www.kodda.com/",
-      "description": "Community that accompanies you in your transformation towards a healthy and lasting lifestyle, through guided programs made by professionals who will support you every step of the way.",
-      "one_liner": "",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Consumer Health and Wellness",
-      "industries": [
-        "Healthcare",
-        "Consumer Health and Wellness"
-      ],
-      "regions": [
-        "Mexico",
-        "Latin America",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Monterrey, N.L., Mexico",
-      "tags": [
-        "Consumer Health Services",
-        "Digital Health",
-        "Health & Wellness"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1626825976.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c8da2bba727db76895e442b23d60a8e7b942328.png"
-    },
-    {
       "id": 24422,
       "name": "Aleph Solutions (Alephee)",
       "slug": "aleph-solutions-alephee",
@@ -12535,6 +12500,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a64cd5e2d970d541d5f1a0e6d37a974b93b59b21.png"
     },
     {
+      "id": 24424,
+      "name": "Kodda",
+      "slug": "kodda",
+      "website": "https://www.kodda.com/",
+      "description": "Community that accompanies you in your transformation towards a healthy and lasting lifestyle, through guided programs made by professionals who will support you every step of the way.",
+      "one_liner": "",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Monterrey, N.L., Mexico",
+      "tags": [
+        "Consumer Health Services",
+        "Digital Health",
+        "Health & Wellness"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1626825976.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c8da2bba727db76895e442b23d60a8e7b942328.png"
+    },
+    {
       "id": 24405,
       "name": "Mixr",
       "slug": "mixr",
@@ -13429,5 +13429,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-08-21T00:02:09.437067"
+  "fetched_at": "2025-08-21T06:01:02.562711"
 }

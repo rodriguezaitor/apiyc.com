@@ -1150,7 +1150,7 @@
       "slug": "nottelabs",
       "website": "https://www.notte.cc/",
       "description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
-      "one_liner": "The infrastructure for reliable web agents",
+      "one_liner": "Reliable Web Agents for Enterprise",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -1165,9 +1165,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2346,38 +2346,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3433319e1ee9ca49d1592168aee7f875a287f1ea.png"
     },
     {
-      "id": 30705,
-      "name": "Twill",
-      "slug": "twill",
-      "website": "https://twill.ai",
-      "description": "Twill is the AI-native Linear connected to the codebase. We help engineering teams transform simple requests like \"Add user authentication\" into complete specifications, generate detailed tickets with full technical context, and dispatch them to AI coding agents in parallel. Teams ship 2x faster while maintaining alignment between product vision and implementation.",
-      "one_liner": "AI native Linear connected to the codebase.",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Generative AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1750717483.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d24bb4bb035ac0a592f5ff7cfb7867f6b7c0f52.png"
-    },
-    {
       "id": 30704,
       "name": "Albacore Inc.",
       "slug": "albacore-inc",
@@ -2641,7 +2609,7 @@
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "GhostEye is the human attack surface management platform that protects organizations from social engineering attacks. Founded to address the 68% of breaches involving human factors, GhostEye makes human risk easy to quantify by measuring employee behavior under realistic attack conditions. \r\n\r\nWe deliver continuous resilience testing proven to prevent social engineering breaches before they happen. With AI-powered simulations across email, SMS, voice, and social media, GhostEye's platform identifies vulnerable employees and strengthens defenses automatically.",
+      "description": "Organizations have tons of tools protecting your systems, but GhostEye is the tool that protects your humans.\r\n\r\nGhostEye continuously tests employees across all vectors to measure susceptibility to social engineering vulnerabilities before real attackers do. Unlike traditional security training that measures completion rates, GhostEye measures actual resilience through AI-powered attack simulations.\r\n\r\nOur platform replaces quarterly red team assessments with 24/7 human risk monitoring, identifying exactly who's vulnerable to what type of attack so organizations can secure their human attack surface in real-time.",
       "one_liner": "Continuous Attack Surface Management for Humans",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2658,9 +2626,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3987,7 +3955,7 @@
       "name": "Cyberdesk",
       "slug": "cyberdesk",
       "website": "https://www.cyberdesk.io",
-      "description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. Our agent clicks and types on any Windows desktop like a human, replacing the need for developers to hire unreliable remote workers or to build brittle automation scripts. \r\n\r\nWe launched a month ago and we\u2019ve closed 80k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nOur unique insight is in our agent\u2019s intelligent caching, which allows it to be as fast and cheap as traditional automation scripts while self healing from unexpected situations in the screen. \r\n\r\nMahmoud previously scaled RPA to 20K employees at a Fortune 100 company, and Alan is ex-NASA and has been building with computer use models since their earliest releases.\r\n\r\nTraditional robotic process automation is a $6 billion industry, yet it only services a tiny fraction of desktop tasks that can now be automated by our agent. In the long term, our agent will automate every manual computer task.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+      "description": "Cyberdesk is the computer use agent for developers to automate legacy desktop apps. Our agent clicks and types on any desktop like a human, replacing the need for developers to hire unreliable remote workers or to build brittle automation scripts. \r\n\r\nWe launched a month ago and we\u2019ve closed 60k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nOur unique insight is in our agent\u2019s intelligent caching, which allows it to be as fast and cheap as traditional automation scripts while self healing from unexpected situations in the screen. \r\n\r\nMahmoud previously scaled RPA to 20K employees at a Fortune 100 company, and Alan is ex-NASA and has been building with computer use models since their earliest releases.\r\n\r\nTraditional robotic process automation is a $6 billion industry, yet it only services a tiny fraction of desktop tasks that can now be automated by our agent. In the long term, our agent will automate every manual computer task.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
       "one_liner": "The computer use agent for developers to automate Windows apps",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4004,9 +3972,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Workflow Automation",
-        "AI"
+        "Workflow Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4088,8 +4056,8 @@
       "name": "Herdora",
       "slug": "herdora",
       "website": "https://www.herdora.com",
-      "description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
-      "one_liner": "Cursor for CUDA",
+      "description": "We built Herdora to help ML engineers stop paying massive margins to inference providers. Instead of outsourcing model optimization - and losing control of crucial IP - companies can now optimize their inference themselves at a fraction of the cost. We provide the profiling and optimization tools that let engineering teams build faster models in-house. Herdora will democratize the optimization tools behind billion-dollar AI inference margins.\r\n",
+      "one_liner": "We make your ML models faster",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4617,7 +4585,7 @@
       "slug": "liva-ai",
       "website": "https://www.theliva.ai",
       "description": "GenAI models trained on internet data still lack realistic, domain-specific results, and we solve this by delivering high-quality offline data through targeted recruitment and a consumer upload platform.",
-      "one_liner": "ScaleAI for video and voice data.",
+      "one_liner": "Scale AI for video and voice data.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4634,11 +4602,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "B2B",
         "Data Labeling",
-        "Big Data"
+        "Big Data",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5616,5 +5584,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-21T00:02:10.310133"
+  "fetched_at": "2025-08-21T06:01:06.387703"
 }

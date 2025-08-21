@@ -5,8 +5,8 @@
       "name": "Outerport",
       "slug": "outerport",
       "website": "https://outerport.com",
-      "description": "Outerport helps convert proprietary visual data- every diagram, drawing, webpages, documents, CAD files and more into an exact text representation that can be ingested by LLMs and re-rendered back. For example, flowcharts are notoriously common in enterprise documents and are used to describe mission critical business processes. Instead of relying on faulty VLMs to understand these properly, Outerport converts this into an text-based graph object that can be reliably parsed by LLMs and are easier to debug / run evals when there are issues. ",
-      "one_liner": "Make every diagram, drawing, and document queryable with LLMs",
+      "description": "Extract structured data from documents, tables, P&ID diagrams, process flow diagrams, GD&T drawings, electrical CAD, blueprints, and more. Build AI agents with tools that help them understand and measure the world.",
+      "one_liner": "Turn diagrams, technical documents, and CAD into structured data",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -14,21 +14,19 @@
       "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
-        "Infrastructure"
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
-        "SaaS",
-        "Infrastructure"
+        "Construction",
+        "Manufacturing",
+        "Infrastructure",
+        "Industrial"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -140,8 +138,8 @@
       "name": "PathPilot",
       "slug": "pathpilot",
       "website": "https://www.getpathpilot.com/",
-      "description": "We empower CX teams to deploy AI agents, evaluate 100% of conversations for quality, and accelerate automation \u2014 all without needing engineering resources. Whether companies are just starting with AI or already using automation, PathPilot improves agent performance, reduces costs, and ensures the quality and compliance required for high-stakes industries like fintech and gaming.",
-      "one_liner": "AI platform helping Customer Experience teams scale efficiently",
+      "description": "Fintechs, banks, and other institutions managing financial services face constant pressure to reduce costs, enhance customer experience, and ensure regulatory compliance. PathPilot provides the speed of pre-built AI agents combined with the flexibility of full customization. This enables internal teams to remain in full control\u2014designing, deploying, and governing AI solutions independently, without reliance on external vendors.",
+      "one_liner": "AI platform helping fintech/bank teams scale efficiently",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -158,6 +156,7 @@
       "tags": [
         "Artificial Intelligence",
         "SaaS",
+        "Finance",
         "B2B",
         "Customer Support"
       ],
@@ -166,7 +165,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724891975.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75c7444d35c6b426ac80829e6ed40b07d33577d.png"
     },
     {
       "id": 29982,
@@ -8284,5 +8283,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-21T00:02:09.693978"
+  "fetched_at": "2025-08-21T06:01:03.740649"
 }
