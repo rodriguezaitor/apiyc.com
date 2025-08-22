@@ -548,6 +548,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png"
     },
     {
+      "id": 30786,
+      "name": "Munify",
+      "slug": "munify",
+      "website": "https://munify.ai",
+      "description": "Munify is the cross-border Neobank for the Middle East and its diaspora. Instantly open a USD account, get a virtual card, and send money home at the best rates \u2014 all from one app.",
+      "one_liner": "The Cross-Border Neobank for the Middle East and its Diaspora",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Consumer Finance",
+        "Neobank"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755868164.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/905f3adbeab084e1762af3c3a57f96b6c781d02f.png"
+    },
+    {
       "id": 30782,
       "name": "TectoAI",
       "slug": "tectoai",
@@ -1851,8 +1884,8 @@
     },
     {
       "id": 30725,
-      "name": "Minimal AI",
-      "slug": "minimal-ai",
+      "name": "Minimal AI, Inc.",
+      "slug": "minimal-ai-inc",
       "website": "https://gominimal.ai/",
       "description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nThe result: reduced support costs while actually improving customer experience and sales. It feels like outsourcing your support to a team of AI Agents with human-like empathy.\r\n\r\nOver 45 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
       "one_liner": "AI Customer Support Teams for E-commerce",
@@ -5055,7 +5088,7 @@
       "id": 30607,
       "name": "The Prompting Company",
       "slug": "the-prompting-company",
-      "website": "https://www.promptingco.com",
+      "website": "https://www.promptingcompany.com",
       "description": "The problem:\r\nPeople are no longer searching on Google. They\u2019re ASKING AI. If your product doesn\u2019t appear in AI answers, you\u2019re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page:We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report \u2192 promptingcompany.com",
       "one_liner": "We help products get mentioned in ChatGPT.",
       "batch": "Summer 2025",
@@ -5073,11 +5106,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Marketing",
-        "SEO",
-        "AI"
+        "SEO"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5620,5 +5653,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-22T12:01:15.352133"
+  "fetched_at": "2025-08-22T18:01:06.764873"
 }

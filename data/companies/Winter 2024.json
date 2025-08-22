@@ -1049,7 +1049,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706556384.0,
@@ -2626,11 +2626,11 @@
       "name": "Givefront",
       "slug": "givefront",
       "website": "https://givefront.com",
-      "description": "The world\u2019s most important organizations deserve the world\u2019s best financial infrastructure. We\u2019re here to make sure they do.\r\n\r\nAt Givefront, we've built a modern spend management platform designed specifically for nonprofits. With real-time budgeting, built-in compliance, and easy integrations, we replace the spreadsheets and guesswork with smart, automated systems.\r\n\r\nBy transforming financial operations from reactive to real-time, Givefront empowers nonprofits to control every dollar, protect every grant, and move their missions forward faster \u2014 with greater efficiency, transparency, and trust.\r\n\r\n",
-      "one_liner": "Nonprofit Spend Management",
+      "description": "The world\u2019s most important organizations deserve the world\u2019s best financial infrastructure. We\u2019re here to make sure they do.\r\n\r\nAt Givefront, we've built a modern financial management platform designed specifically for nonprofits. With real-time budgeting, built-in compliance, and easy integrations, we replace the spreadsheets and guesswork with smart, automated systems.\r\n\r\nBy transforming financial operations from reactive to real-time, Givefront empowers nonprofits to control every dollar, protect every grant, and move their missions forward faster \u2014 with greater efficiency, transparency, and trust.",
+      "one_liner": "Nonprofit Financial Management",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -8227,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-08-22T12:01:14.789844"
+  "fetched_at": "2025-08-22T18:01:04.589472"
 }

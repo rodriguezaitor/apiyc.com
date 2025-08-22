@@ -5344,11 +5344,11 @@
       "name": "Tandem",
       "slug": "tandem-2",
       "website": "https://tandem.space/",
-      "description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don\u2019t fit today\u2019s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you\u2019re out of luck. \r\n\r\nTandem is an AI-enabled office leasing platform. We\u2019re using technology to unlock flexible, month-to-month agreements in quality, ready-to-go spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we\u2019re serving two primary markets \u2014 NY & SF, with hundreds of active Hosts in each.  We\u2019ve helped match more than 100 companies and have seen double-digit month-over-month growth.",
-      "one_liner": "Marketplace to help companies lease and share office space",
+      "description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don\u2019t fit today\u2019s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you\u2019re out of luck. \r\n\r\nTandem is an AI-enabled office leasing platform. We\u2019re using technology to unlock flexible agreements in quality spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we\u2019re serving two primary markets \u2014 NY & SF, with hundreds of active Hosts in each.  We\u2019ve helped match more than 350 companies and have seen double-digit month-over-month growth.",
+      "one_liner": "AI-assisted office leasing platform",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 16,
       "industry": "B2B",
       "subindustry": "B2B -> Office Management",
       "industries": [
@@ -5357,7 +5357,9 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -8283,5 +8285,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-22T12:01:14.708549"
+  "fetched_at": "2025-08-22T18:01:04.282992"
 }

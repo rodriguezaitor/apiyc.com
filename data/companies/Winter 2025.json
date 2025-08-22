@@ -800,7 +800,7 @@
       "slug": "roark",
       "website": "https://roark.ai",
       "description": "Roark automates the creation of voice agent test suites from real customer journeys and AI-driven edge-case predictions, so you can validate every path before deployment. Instantly import any existing production call - or generate variations for different languages, accents, background noise levels, and more, as repeatable test cases without writing a single line of code.\r\n\r\nIntegrate regression testing directly into your CI/CD pipeline, triggering automated test suites on every build to catch regressions early. Our Evaluator blocks framework tests latency, load-testing, red-team scenarios, tool calls, compliance checks, and custom pass/fail rules tailored to your SLAs.\r\n\r\nShip voice AI updates with confidence, knowing every flow, language variant, and edge condition has been rigorously tested.",
-      "one_liner": "Datadog for Voice AI",
+      "one_liner": "Test, monitor, and improve your voice agents",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -816,8 +816,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -3049,7 +3049,7 @@
       "id": 30244,
       "name": "Mosaic",
       "slug": "mosaic-2",
-      "website": "https://usemosaic.ai",
+      "website": "https://mosaic.so",
       "description": "Mosaic is an agentic video editing paradigm. It enables anyone to create and run their own multimodal video editing agents in a node-based canvas. Our mission is to accelerate hours of video editing work to seconds.",
       "one_liner": "Create and run your own video editing AI agents",
       "batch": "Winter 2025",
@@ -5347,5 +5347,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-22T12:01:15.426981"
+  "fetched_at": "2025-08-22T18:01:07.098505"
 }
