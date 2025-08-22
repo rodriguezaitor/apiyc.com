@@ -748,8 +748,8 @@
       "name": "Clodo",
       "slug": "clodo",
       "website": "https://clodo.ai",
-      "description": "Clodo is the AI Assistant for Real Estate Agents. \r\n\r\nClodo helps agents remember and follow up with all their leads. Building up your database and following up with leads are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and turning their database into a stronger engine for business.",
-      "one_liner": "The AI Assistant for Real Estate Agents",
+      "description": "Clodo is the AI CRM for Real Estate Agents. \r\n\r\nClodo helps agents remember and follow up with all their leads. Building up your database and following up with leads are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and turning their database into a stronger engine for business.",
+      "one_liner": "The AI CRM for Real Estate Agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1138,7 +1138,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751591849.0,
@@ -3691,7 +3691,7 @@
       "name": "DeepGrove",
       "slug": "deepgrove",
       "website": "",
-      "description": "Developing the next suite of 1-bit foundation models that can run on edge devices.",
+      "description": "Foundation models that can run on edge devices.",
       "one_liner": "Frontier Intelligence. On Any Device.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3707,10 +3707,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Deep Learning",
         "Edge Computing Semiconductors",
-        "IoT"
+        "IoT",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3758,7 +3758,7 @@
       "name": "Skope",
       "slug": "skope",
       "website": "https://useskope.com",
-      "description": "We\u2019re building the billing system for AI products. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are excited to be the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
+      "description": "We\u2019re building the billing system for AI products. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
       "one_liner": "The billing system for AI products",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3774,9 +3774,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3956,8 +3956,8 @@
       "name": "Cyberdesk",
       "slug": "cyberdesk",
       "website": "https://www.cyberdesk.io",
-      "description": "Cyberdesk is the computer use agent for developers to automate legacy desktop apps. Our agent clicks and types on any desktop like a human, replacing the need for developers to hire unreliable remote workers or to build brittle automation scripts. \r\n\r\nWe launched a month ago and we\u2019ve closed 60k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nOur unique insight is in our agent\u2019s intelligent caching, which allows it to be as fast and cheap as traditional automation scripts while self healing from unexpected situations in the screen. \r\n\r\nMahmoud previously scaled RPA to 20K employees at a Fortune 100 company, and Alan is ex-NASA and has been building with computer use models since their earliest releases.\r\n\r\nTraditional robotic process automation is a $6 billion industry, yet it only services a tiny fraction of desktop tasks that can now be automated by our agent. In the long term, our agent will automate every manual computer task.\r\n\r\nWe\u2019d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
-      "one_liner": "The computer use agent for developers to automate Windows apps",
+      "description": "Cyberdesk is the computer use agent for developers to automate legacy desktop apps. \r\nFor example, one of our customers is building an AI agent for hospital patient intake, and they\u2019re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. \r\n\r\nWe launched mid July and we\u2019ve closed 86k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nWe\u2019ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.\r\n\r\nMahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. \r\n\r\nAlan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He later bootstrapped a consumer AI startup to 50k in ARR.\r\n\r\nThe US alone has 565k companies with developers, all of which will need us to automate their own legacy desktop workflows or automate other company\u2019s workflows. We'll charge $50k / year for each of these companies to start, which already represents a 29 billion dollar opportunity.\r\n\r\nWe\u2019d love to talk with you for a demo!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+      "one_liner": "The computer use agent for developers to automate legacy desktop apps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5620,5 +5620,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-22T00:02:59.390952"
+  "fetched_at": "2025-08-22T06:01:06.002131"
 }
