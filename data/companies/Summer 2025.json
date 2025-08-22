@@ -1586,7 +1586,7 @@
       "slug": "nautilus",
       "website": "https://nautilus.co",
       "description": "Nautilus is the all-in-one e-commerce, marketing, and CRM platform for car washes. Mobile-first and membership-led, it unifies one-click checkout on online sales, memberships, two-way messaging, automated campaigns, ticketing, and end-to-end attribution. With a customer automation engine, real-time POS integrations, and AI dashboards, Nautilus launches in 1\u20132 weeks and helps operators convert more visitors, grow members, and reduce churn. Learn more at nautilus.co.",
-      "one_liner": "The car wash platform unifying data, e-commerce, and growth",
+      "one_liner": "AI platform to grow and to optimize car washes",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1605,7 +1605,8 @@
         "SaaS",
         "Payments",
         "Marketing",
-        "CRM"
+        "CRM",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1937,7 +1938,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "AI",
+        "Artificial Intelligence",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1945,7 +1946,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753676392.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/517120504bbe6167aa6c03b7d54e211b8e74e3db.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/878412a3d9ba975b0a0a65bd2a45ed8e7067c94f.png"
     },
     {
       "id": 30721,
@@ -3572,9 +3573,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Robotics",
         "Energy",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5049,6 +5052,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f75fbb2513c3b5ef3e67a4b3c47ce3995f896b.png"
     },
     {
+      "id": 30607,
+      "name": "The Prompting Company",
+      "slug": "the-prompting-company",
+      "website": "https://www.promptingco.com",
+      "description": "The problem:\r\nPeople are no longer searching on Google. They\u2019re ASKING AI. If your product doesn\u2019t appear in AI answers, you\u2019re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page:We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report \u2192 promptingcompany.com",
+      "one_liner": "We help products get mentioned in ChatGPT.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Marketing",
+        "SEO",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1755802702.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/465a7528e2de2669ab4bb994eb9cb8630eff6db1.png"
+    },
+    {
       "id": 30606,
       "name": "Acrely",
       "slug": "acrely",
@@ -5582,5 +5620,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-21T18:01:04.258983"
+  "fetched_at": "2025-08-22T00:02:59.390952"
 }
