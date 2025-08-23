@@ -3262,7 +3262,7 @@
       "one_liner": "Training the best computer use models in the world. Automate anything.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 0,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -3552,8 +3552,8 @@
       "name": "Tesora",
       "slug": "tesora",
       "website": "https://tesora.ai",
-      "description": "Tesora builds AI procurement analysts for mission-critical industries. Our analyst first handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before. Our analysts can then reach more vendors, drive competition through qualification and price discovery, and unlock major cost savings without adding headcount.",
-      "one_liner": "AI procurement analysts for mission critical industries",
+      "description": "Tesora builds AI procurement analysts for advanced industries. Our analyst first handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before.  ",
+      "one_liner": "AI procurement analysts for advanced industries",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3569,11 +3569,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Supply Chain",
         "Procurement",
-        "Aerospace"
+        "Aerospace",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5653,5 +5653,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-22T18:01:06.764873"
+  "fetched_at": "2025-08-23T00:02:55.888922"
 }
