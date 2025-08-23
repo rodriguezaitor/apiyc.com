@@ -400,8 +400,8 @@
       "name": "Outrove",
       "slug": "outrove",
       "website": "https://www.outrove.ai/",
-      "description": "We\u2019re building the next-generation sales and marketing automation platform, designed for how B2B go-to-market will work in the AI era.\r\n\r\nAs channels and content formats shift dramatically, we\u2019ll be the OS companies rely on to power their future GTM strategies.",
-      "one_liner": "AI-native Salesforce",
+      "description": "Outrove is the world\u2019s most realistic AI recruiter, with a human-appearing interview agent that has both video and audio and can join Google Meet calls.\r\n",
+      "one_liner": "Ultra-realistic AI Recruiter",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -409,7 +409,7 @@
       "subindustry": "Unspecified",
       "industries": [
         "B2B",
-        "Sales"
+        "Recruiting and Talent"
       ],
       "regions": [
         "United States of America",
@@ -417,9 +417,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Sales Enablement",
-        "Marketing"
+        "Recruiting",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1884,8 +1883,8 @@
     },
     {
       "id": 30725,
-      "name": "Minimal AI, Inc.",
-      "slug": "minimal-ai-inc",
+      "name": "Minimal AI",
+      "slug": "minimal-ai",
       "website": "https://gominimal.ai/",
       "description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nThe result: reduced support costs while actually improving customer experience and sales. It feels like outsourcing your support to a team of AI Agents with human-like empathy.\r\n\r\nOver 45 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
       "one_liner": "AI Customer Support Teams for E-commerce",
@@ -1903,10 +1902,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "E-commerce",
-        "Customer Support",
-        "AI"
+        "Customer Support"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2153,7 +2152,7 @@
       "slug": "motives",
       "website": "https://motives.ai/",
       "description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
-      "one_liner": "Qualitative consumer research run by AI",
+      "one_liner": "Consumer focus groups run by AI",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": null,
@@ -2169,10 +2168,10 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Marketing",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5653,5 +5652,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-23T00:02:55.888922"
+  "fetched_at": "2025-08-23T06:01:03.042864"
 }
