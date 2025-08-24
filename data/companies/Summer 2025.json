@@ -2284,12 +2284,12 @@
       "id": 30708,
       "name": "Perseus Defense",
       "slug": "perseus-defense",
-      "website": "https://perseusdefense.ai",
-      "description": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our micro-guided missile system is man-portable, multi-domain capable, and has both forward-deployed and low-collateral defeat variants. It senses, engages, and eliminates threats with drastically reduced cost per engagement. \r\n\r\nSolving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued a PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \r\n\r\n\"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer\r\n\r\nThe White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. \r\n\r\nTraction: \r\nA UAS prototype was designed and built in one week and a prototype of the guided missile was prototyped in four days. Following the Stanford Hacking for Defense process that Perseus Defense adviser and former Army Ranger Dr. Jeff Decker wrote the book on, Jason and Steve used 60 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. Perseus has already been invited to a Phase-II in-person pitch of their solution to government end-users, signaling progress towards contract opportunities. ",
-      "one_liner": "Guided micro-missiles for Counter-UAS.",
+      "website": "https://perseusdefense.com",
+      "description": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. \r\n\r\nSolving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \r\n\r\n\"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer\r\n\r\nThe White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. \r\n\r\nTraction: \r\nJason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology.  Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program. ",
+      "one_liner": "16\" missiles that target and shoot down drones",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Industrials",
       "subindustry": "Industrials -> Drones",
       "industries": [
@@ -3424,9 +3424,10 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Marketing",
       "industries": [
-        "B2B"
+        "B2B",
+        "Marketing"
       ],
       "regions": [
         "United States of America",
@@ -3434,11 +3435,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Data Science",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3756,7 +3757,7 @@
       "name": "Frizzle",
       "slug": "frizzle",
       "website": "https://www.frizzle.com",
-      "description": "Frizzle uses AI to grade math worksheets and assignments for teachers, providing personalized feedback for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle is an official White House partner for bringing AI into education: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.",
+      "description": "Frizzle uses AI to grade handwritten math assignments for teachers, providing personalized feedback for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle was named an official White House AI Education Partner alongside OpenAI and Meta: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.\r\n",
       "one_liner": "AI grading for teachers, starting with math",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3772,11 +3773,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Education",
         "SaaS",
         "B2B",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4318,7 +4319,7 @@
       "name": "bitrig",
       "slug": "bitrig",
       "website": "https://www.bitrig.app",
-      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob created SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was a co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
+      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
       "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4552,8 +4553,8 @@
       "name": "Verne Robotics",
       "slug": "verne-robotics",
       "website": "https://vernerobotics.com/",
-      "description": "We build the AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
-      "one_liner": "AI software for autonomous robot arms",
+      "description": "We build AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
+      "one_liner": "AI models that teach robots new skills in hours",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4569,8 +4570,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Robotics"
+        "Robotics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4992,7 +4993,7 @@
       "name": "TraceRoot.AI",
       "slug": "traceroot-ai",
       "website": "https://traceroot.ai",
-      "description": "TraceRoot.AI is your agentic system for debugging production issues. It has access to logs, traces, source code, commit histories, PRs, issues, Notion, Slack, and more, helping you quickly investigate and resolve issues in complex systems. It visualizes a unified, structured view of your observability data and helps teams debug production issues in complex systems in no time.",
+      "description": "TraceRoot.AI is the first open source AI agent that monitors production environments and automatically fixes bugs. It connects to telemetry data like traces, logs, metrics and repo to analyze and auto-resolve bugs.",
       "one_liner": "Open source AI agents automatically fix your production bugs",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5019,7 +5020,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753318246.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6a2f94d5815730c16fd2b1391d7e23922d6b8bf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c546d04877283239d7ec7a23ba3351069acc5c9b.png"
     },
     {
       "id": 30609,
@@ -5520,8 +5521,8 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is an AI account management team built to help you maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
-      "one_liner": "AI-powered account managers",
+      "description": "Ambral is an AI account management team built to help B2B SaaS companies maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+      "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5652,5 +5653,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-24T00:03:08.361323"
+  "fetched_at": "2025-08-24T12:01:20.125867"
 }
