@@ -4350,7 +4350,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark builds AI agents to solve billing issues for subscription companies. We\u2019re starting by automating billing support and chargebacks. Vijit and Jack previously built the usage-based billing product at Stripe. Lark is live with three customers: Midjourney, Julius AI, and Joon App.\r\n\r\nAutomating billing actions is nuanced and risky, which is why general support agents like Intercom Fin struggle with it. We have heard this repeatedly from customers. At Lark, we build agents with deep billing integrations that factor in customer usage data, credits, prorations, and more, with strong guardrails to ensure safe actions.\r\n\r\nWe want to be the AI layer on top of billing and are going after a $20B market opportunity in this space.",
+      "description": "Lark builds AI agents to solve billing issues for subscription companies. We\u2019re starting by automating billing support and chargebacks. Vijit and Jack previously built the usage-based billing product at Stripe. Lark is live with three customers: Midjourney, Julius AI, and Joon App.\r\n\r\nAutomating billing actions is nuanced and risky, which is why general support agents like Intercom Fin struggle with it. We have heard this repeatedly from customers. At Lark, we build agents with deep billing integrations that factor in customer usage data, prorations, credits, and more, with strong guardrails to ensure safe actions.\r\n\r\nWe want to be the AI layer on top of billing and are going after a $20B market opportunity in this space.",
       "one_liner": "AI Agents for Billing Operations",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4367,11 +4367,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Customer Support",
         "Fraud Detection",
         "Billing",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5094,7 +5094,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -5123,7 +5123,7 @@
       "name": "Acrely",
       "slug": "acrely",
       "website": "https://www.acrely.ai",
-      "description": "We provide HVAC business owners with voice AI to capture every inbound call and turn it into booked jobs.\r\n\r\nMeet Jane, your AI-powered customer relations lead. When a customer calls and you can\u2019t pick up, Jane does. She talks to your callers, understands their problem, and gets them scheduled \u2014 whether it\u2019s an emergency repair, seasonal maintenance, or a quote for a new install.\r\n\r\nHVAC is still a phone-first industry, and voice AI is just now good enough for customers to feel comfortable talking to it. Every missed call is lost revenue, and most owners have their number plastered on trucks, websites, and directories that bring in as many tire-kickers as paying customers. Jane makes sure the real money never slips through.\r\n\r\nInbound is our first optimization \u2014 but it\u2019s just the beginning. We\u2019re building the first agentic fleet for HVAC. Jane runs customer relations, booking jobs and following up with customers. Ralph is the business admin, managing PNL, scheduling crews, ordering parts, and keeping the back office humming. Joe is the technician\u2019s right hand, guiding techs through diagnostics, troubleshooting, and safety checks in real time. Together, they form a 24/7 AI-native staff that works without breaks, remembers every detail, and scales with your business so you can focus on growing instead of juggling.",
+      "description": "We provide home service business owners with voice AI to capture every inbound call and turn it into booked jobs.\r\n\r\nMeet Jane, your AI-powered customer service rep. When a customer calls and no one answers, Jane does. She talks naturally with callers, understands their problem, and books the job, whether it\u2019s a leaky pipe, an AC repair, or a new installation.\r\n\r\nHome services are still phone-first, but owners lose thousands each month to missed calls and overwhelmed CSRs. Every truck, website, and yard sign funnels calls in, yet too often they go to voicemail or get dropped. Jane makes sure the real jobs, the ones that pay, never slip through.\r\n\r\nWe\u2019re starting by solving inbound, the single most expensive leak in the business. With Jane, contractors never miss a call, never lose a customer to voicemail, and finally have a CSR that works 24/7 without turnover or breaks.",
       "one_liner": "ai-native admin for HVAC",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5139,8 +5139,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Home Services",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5652,5 +5652,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-23T18:01:05.878815"
+  "fetched_at": "2025-08-24T00:03:08.361323"
 }
