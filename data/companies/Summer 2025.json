@@ -719,7 +719,7 @@
       "slug": "magnetic",
       "website": "https://www.magnetictax.com",
       "description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nWe launched this year in the middle of tax season and quickly processed hundreds of returns, earning thousands in ARR, and since tax season we've been growing customers by >30% month-over-month. We've completely automated over 25% of the return process so far and developed a proprietary vision model that beats incumbent scanning technology by almost 2x on accuracy - jumping from 50% field-level accuracy to 89%, approaching the quality of their expensive human-verified service at 92%.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
-      "one_liner": "AI tax preparation for CPAs",
+      "one_liner": "Computer-use agents for CPA firms to automate taxes",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1482,7 +1482,7 @@
       "slug": "tryeden",
       "website": "https://tryeden.ai",
       "description": "Eden allows e-commerce brands to use customer data effectively when running campaigns. We help marketing teams understand their customers' stories by using data from their store, sales, support tickets, and marketing channels to turn hesitant browsers into customers who buy.\r\n\r\nAlex and Jason met at TJHSST where they became nationally ranked debate partners and eventually coworkers at Datadog. Alex led operations at Phia, scaling to 100+ brand affiliate partners. Jason led retargeting ads at Reddit and previously sold an AI recruiting startup.\r\n\r\nExisting marketing data sits in silos, underutilized. AI enables marketers to unlock a treasure trove of data to create more effective campaigns in a fraction of the time. We will make every marketing department data-driven.",
-      "one_liner": "We turn customer and brand data into campaigns that convert",
+      "one_liner": "AI Native Retention Marketing for E-Commerce",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1498,16 +1498,16 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "E-commerce",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753907556.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e2b6f5015b57999fb093d978cb158f3dd21666f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/12c60f7c48d152e63842700acbb1bf22c973bd5a.png"
     },
     {
       "id": 30738,
@@ -2179,6 +2179,41 @@
       "is_top_company": false,
       "launched_at": 1752263741.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png"
+    },
+    {
+      "id": 30712,
+      "name": "Relling",
+      "slug": "relling",
+      "website": "https://rellingsystems.com",
+      "description": "",
+      "one_liner": "Infrastructure for World Models Starting w/ Next Gen Data",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Industrials",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Robotics",
+        "B2B",
+        "Infrastructure",
+        "AR"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1756070413.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d5ff69612096002a3461191b5ad5deda90a7927.png"
     },
     {
       "id": 30711,
@@ -3483,7 +3518,7 @@
       "name": "Pangolin",
       "slug": "pangolin",
       "website": "https://digpangolin.com",
-      "description": "Pangolin provides a simple way to securely expose applications on private networks with identity-aware access control and high availability. It\u2019s an open-source cloud and self-hosted solution that enables administrators to maintain data sovereignty and control user interaction to internal tools.",
+      "description": "Pangolin is building a new kind of open-source proxy: cloud-orchestrated, identity-aware, tunneled, and highly available. It\u2019s the simplest way to securely expose applications on any network\u2014only the people you want get access to your apps, and we block everyone else.",
       "one_liner": "Open-source identity-aware gateway to applications on private networks",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3657,8 +3692,8 @@
       "name": "Sidekick",
       "slug": "heysidekick",
       "website": "https://joinsidekick.com",
-      "description": "Sidekick is automation for the rest of us. Build Zapier-style automations in minutes using natural language.\r\n\r\nTeams in sales, marketing, and ops often turn to platforms like Zapier to automate their busywork. But these platforms are too complex and time-consuming for them. Sidekick replaces the steep learning curve with a simple chat interface, making powerful automation accessible to everyone.\r\n",
-      "one_liner": "Automation for the rest of us",
+      "description": "Build Zapier-style automations in minutes using only a chat interface.\r\n\r\nTeams in sales, marketing, and ops often turn to platforms like Zapier to automate their busywork. But these platforms are too complex and time-consuming for them. Sidekick replaces the steep learning curve with a simple chat interface, making powerful automation accessible to everyone.\r\n",
+      "one_liner": "Lovable for automations",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3674,10 +3709,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Productivity",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3835,10 +3870,9 @@
         "Analytics"
       ],
       "regions": [
-        "Canada",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "Vancouver, BC, Canada",
+      "locations": "",
       "tags": [
         "Computer Vision",
         "B2B",
@@ -5653,5 +5687,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-24T18:01:10.993963"
+  "fetched_at": "2025-08-25T00:03:06.658950"
 }
