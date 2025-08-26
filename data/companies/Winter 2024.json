@@ -463,8 +463,8 @@
       "name": "CrowdVolt",
       "slug": "crowdvolt",
       "website": "https://crowdvolt.com/",
-      "description": "CrowdVolt is a two-sided, bid-ask style live event marketplace similar to StockX. We\u2019ve created the only secondary ticket exchange that supports fully automated order fulfillment.\r\n\r\nContact us at founders@crowdvolt.com",
-      "one_liner": "Bid/ask style ticket exchange powered by automated order fulfillment",
+      "description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
+      "one_liner": "The integration layer for live events infrastructure ",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -477,13 +477,13 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "NY, USA",
+      "locations": "New York, NY, USA",
       "tags": [
         "Marketplace",
         "Entertainment",
         "Social Network",
         "Music",
-        "Ticketing"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8227,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-08-26T12:01:11.165383"
+  "fetched_at": "2025-08-26T18:01:10.314319"
 }
