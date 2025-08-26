@@ -3104,7 +3104,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1675744580.0,
@@ -5595,40 +5595,6 @@
       "is_top_company": false,
       "launched_at": 1680284283.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b1df36488e8c11a87320ccb0a8a66e9313c5bd.png"
-    },
-    {
-      "id": 27834,
-      "name": "Bluebirds",
-      "slug": "bluebirds",
-      "website": "https://www.bluebirds.ai",
-      "description": "Bluebirds helps GTM teams automate outbound targeting with signals. Save your reps 2 hours a day from list building and prospect research. \r\n\r\nCreate custom intent signals from trusted data sources in 3 minutes. Bluebirds continuously scans your market and delivers ready-to-prospect Leads to your CRM.",
-      "one_liner": "Automate outbound with signals",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 6,
-      "industry": "B2B",
-      "subindustry": "B2B -> Sales",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "Sales",
-        "Enterprise",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1676435630.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47112b0379733750dc3671dd3bcaf900644b154a.png"
     },
     {
       "id": 27828,
@@ -8262,6 +8228,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7ffc83c79c7fc5268f3ebcb40e602151effc32b.png"
     },
     {
+      "id": 27834,
+      "name": "Bluebirds",
+      "slug": "bluebirds",
+      "website": "https://www.bluebirds.ai",
+      "description": "Bluebirds helps GTM teams automate outbound targeting with signals. Save your reps 2 hours a day from list building and prospect research. \r\n\r\nCreate custom intent signals from trusted data sources in 3 minutes. Bluebirds continuously scans your market and delivers ready-to-prospect Leads to your CRM.",
+      "one_liner": "Automate outbound with signals",
+      "batch": "Winter 2023",
+      "status": "Acquired",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Sales",
+        "Enterprise",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1676435630.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47112b0379733750dc3671dd3bcaf900644b154a.png"
+    },
+    {
       "id": 27832,
       "name": "Trigo",
       "slug": "trigo",
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-08-25T18:01:03.304276"
+  "fetched_at": "2025-08-26T00:02:58.222583"
 }

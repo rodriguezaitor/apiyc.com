@@ -270,7 +270,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
         "Supply Chain and Logistics"
@@ -4385,7 +4385,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark builds AI agents to solve billing issues for subscription companies. We\u2019re starting by automating billing support and chargebacks. Vijit and Jack previously built the usage-based billing product at Stripe. Lark is live with three customers: Midjourney, Julius AI, and Joon App.\r\n\r\nAutomating billing actions is nuanced and risky, which is why general support agents like Intercom Fin struggle with it. We have heard this repeatedly from customers. At Lark, we build agents with deep billing integrations that factor in customer usage data, prorations, credits, and more, with strong guardrails to ensure safe actions.\r\n\r\nWe want to be the AI layer on top of billing and are going after a $20B market opportunity in this space.",
+      "description": "Lark builds AI agents to handle billing operations. We\u2019re starting by automating billing support and chargebacks for subscription companies. Vijit and Jack previously built the usage-based billing product at Stripe. We are working with four customers: Midjourney, Character AI,  Julius AI, and Joon App.\r\n\r\nAutomating billing actions is nuanced and risky, which is why general support agents like Intercom Fin struggle with it. We have heard this repeatedly from customers. At Lark, we build agents with deep billing integrations that factor in customer usage data, credits, prorations, and more \u2013 while ensuring strong guardrails for safe actions.\r\n\r\nWe want to be the AI layer on top of billing and are going after a $20B market opportunity in this space.",
       "one_liner": "AI Agents for Billing Operations",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4402,11 +4402,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Customer Support",
         "Fraud Detection",
         "Billing",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5687,5 +5687,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-25T18:01:07.377189"
+  "fetched_at": "2025-08-26T00:03:02.201173"
 }
