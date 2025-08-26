@@ -384,9 +384,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Lending"
+        "Lending",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -578,6 +578,40 @@
       "is_top_company": false,
       "launched_at": 1755868164.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/905f3adbeab084e1762af3c3a57f96b6c781d02f.png"
+    },
+    {
+      "id": 30785,
+      "name": "RowFlow",
+      "slug": "rowflow",
+      "website": "https://rowflow.ai",
+      "description": "RowFlow is like if Typeform or SurveyMonkey started as an AI company. We replace clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform aims to double your form\u2019s response rates while cutting your internal overhead in half. \r\n\r\nWith RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.\r\n\r\nForms power billions of business interactions yearly but most have dreadful conversion, waste team hours building complex logic and cleaning messy data, and frustrate users who hate filling them out.  Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from peop- until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",
+      "one_liner": "We turn rigid forms into AI convos that collect better data faster.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "B2B",
+        "Workflow Automation",
+        "Chat",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1756177645.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/51aaa41a3f0c4e6b16bade458da9e13dca473900.png"
     },
     {
       "id": 30782,
@@ -1048,11 +1082,11 @@
       "name": "Kernel",
       "slug": "kernel",
       "website": "https://www.onkernel.com/",
-      "description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don\u2019t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\r\n\r\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\r\n\r\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out \u2014> https://github.com/onkernel/kernel-images",
-      "one_liner": "High performance browsers-as-a-service for web agents & automations",
+      "description": "Kernel is the best place in the world to launch web agents. We handle the hard parts of running browser infrastructure in the cloud so you don\u2019t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\r\n\r\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\r\n\r\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out \u2014> https://github.com/onkernel/kernel-images",
+      "one_liner": "Crazy Fast Browsers-as-a-Service",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -2186,7 +2220,7 @@
       "slug": "relling",
       "website": "https://rellingsystems.com",
       "description": "",
-      "one_liner": "Infrastructure for World Models Starting w/ Next Gen Data",
+      "one_liner": "Next Gen Data",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2202,10 +2236,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Robotics",
         "B2B",
         "Infrastructure",
+        "AI",
         "AR"
       ],
       "stage": "Early",
@@ -2778,8 +2812,8 @@
       "name": "Candytrail",
       "slug": "candytrail",
       "website": "https://candytrail.ai/",
-      "description": "Candytrail uses AI Agents to run your sales funnel on autopilot and train your reps.\r\n\r\n\u2022 AI Lead Discovery: Web-crawling agents crawl your ideal market to surface high-intent leads and deliver personalized outreach. You receive a curated list of buyers plus a ready-to-send, personalized email crafted to maximize replies.\r\n\r\n\u2022 Conversation Intelligence: Every call is automatically recorded, transcribed, and scored. Candytrail\u2019s pattern-engine highlights the phrases, objection-handling tactics, and talk-time ratios that correlate with closed deals.\r\n\r\n\u2022 Auto-Coaching at Scale: Reps get real-time tips on winning conversation patterns, and managers can drop timestamped feedback that lands straight on each rep\u2019s phone\u2014delivering \u201cride-along\u201d insights after every single call.\r\n\r\nWe\u2019re starting with Med Spas, but support any sales organization from B2B SaaS to cash-pay clinics.",
-      "one_liner": "AI Agents that run your sales funnel and train your reps",
+      "description": "We are building conversation intelligence for high-ticket in person teams, recording every customer interaction to pull out analytics and insights. We\u2019re like Gong or Granola for offline retail \u2014 identifying the talk tracks that drive higher close rates, surfacing common customer questions, and delivering actionable insights to in-person teams after every consultation. We're starting with med spas and expanding into IV clinics, plastic surgery, and real estate auctions.\r\n",
+      "one_liner": "Gong.io for high-ticket, in-person sales",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2795,9 +2829,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5687,5 +5721,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-26T00:03:02.201173"
+  "fetched_at": "2025-08-26T06:01:27.099065"
 }

@@ -5452,7 +5452,7 @@
       "name": "camfer",
       "slug": "camfer",
       "website": "https://www.camfer.dev/",
-      "description": "We\u2019re building the first AI mechanical engineer that collaborates with humans to do design tasks end-to-end. Human engineers can talk to camfer to build, test, and iterate 3D designs natively on CAD platforms.",
+      "description": "camfer is the AI CAD tool. Now, engineers can create parametric designs with natural language.",
       "one_liner": "Building the world\u2019s first AI mechanical engineer.",
       "batch": "Summer 2024",
       "status": "Active",
@@ -5469,11 +5469,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Hardware",
         "Productivity",
-        "Manufacturing",
-        "AI"
+        "Manufacturing"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8293,5 +8293,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-26T00:02:58.692021"
+  "fetched_at": "2025-08-26T06:01:23.620772"
 }

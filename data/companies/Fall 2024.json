@@ -329,11 +329,11 @@
       "name": "SRE.ai",
       "slug": "sre-ai",
       "website": "https://sre.ai",
-      "description": "SRE.ai provides AI Agents to power Low-Code DevOps for Low-Code Platforms like Salesforce, SAP, NetSuite, etc.",
-      "one_liner": "Automated DevOps for Low-Code Platforms",
+      "description": "Reliability on autopilot. Free you team to build what's next.",
+      "one_liner": "AI DevOps Agents",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": null,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -346,18 +346,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "DevOps",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731196685.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f375e97363cbcb8f0c3649db7b5728649c8cb303.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1f2b79da0bdbfdd0ca1eda2e6a7f66a6dd2ae7.png"
     },
     {
       "id": 30114,
@@ -1868,14 +1868,14 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Deep Learning",
         "SaaS",
         "B2B",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730040950.0,
@@ -3056,5 +3056,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-08-26T00:03:06.660948"
+  "fetched_at": "2025-08-26T06:01:31.321234"
 }

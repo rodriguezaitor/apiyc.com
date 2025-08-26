@@ -1979,14 +1979,14 @@
     },
     {
       "id": 26012,
-      "name": "Plover Parametrics",
-      "slug": "plover-parametrics",
-      "website": "https://plover.insure",
-      "description": "The insurance industry struggles to insure new risks like climate change. The amount of climate risk that goes uninsured every year is $180 billion and growing. \r\n\r\nPlover's software platform enables insurers to design new insurance products quicker and manage policies cheaper, unlocking new risk markets and geographies.\r\n\r\nPlover's team previously worked together at Palantir, handling data infrastructure for the US Department of Defense.",
-      "one_liner": "Climate change insurance that pays out immediately.",
+      "name": "Postal",
+      "slug": "postal",
+      "website": "https://usepostal.com",
+      "description": "Postal offers a modern virtual mailbox for businesses. Postal provides an official address for government, IRS, and vendor communications so companies don't have to use an apartment / shared office address.\r\n\r\nPostal's AI summarizes mail and recommends compliance actions, and its marketplace of service providers are ready to perform the mundane compliance work that otherwise falls through the cracks. \r\n\r\nCompanies get 6 months free (a $300 value), plus three free hours of compliance services (a $600 value). ",
+      "one_liner": "An AI native virtual address & mailroom for businesses.",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 4,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -1997,14 +1997,19 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "New York, NY, USA; San Francisco, CA, USA",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Compliance",
+        "Operations",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1646246347.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7860780386f1160af8ebf06b9045bc520e218583.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/911ebad4ffeccf83b0c6f626fa7f16fe4bb95679.png"
     },
     {
       "id": 26004,
@@ -13815,5 +13820,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-08-26T00:02:56.718400"
+  "fetched_at": "2025-08-26T06:01:21.594760"
 }
