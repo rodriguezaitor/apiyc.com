@@ -34,7 +34,7 @@
       "name": "Blue",
       "slug": "blue",
       "website": "https://heyblue.com/",
-      "description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (\u201cBud\u201d) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant\u2019s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe\u2019ve built systems used by billions. Now we\u2019re building the control layer that lets AI use phones the way people do.",
+      "description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (\u201cBud\u201d) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant\u2019s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe\u2019ve built systems used by billions. Now we\u2019re on to defining the next era of computing.",
       "one_liner": "The only voice assistant that can control every app on your phone.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -52,9 +52,9 @@
       ],
       "locations": "Santa Clara, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Speech Recognition",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1119,7 +1119,7 @@
       "slug": "reacher",
       "website": "https://reacherapp.com/",
       "description": "Reacher is an AI-powered platform that automates creator marketing workflows\u2014from discovery and outreach to campaign management and content strategy\u2014making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
-      "one_liner": "The marketing agent for creator collaborations",
+      "one_liner": "We automate creator marketing for the world's largest brands",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -1136,10 +1136,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "E-commerce",
-        "Creator Economy",
-        "AI"
+        "Creator Economy"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5720,5 +5720,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-27T12:01:12.926658"
+  "fetched_at": "2025-08-27T18:01:07.242865"
 }

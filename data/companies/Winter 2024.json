@@ -29,7 +29,7 @@
         "Fraud Detection"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708029636.0,
@@ -2136,7 +2136,7 @@
     {
       "id": 29433,
       "name": "Hatchet",
-      "slug": "hatchet-2",
+      "slug": "hatchet-run",
       "website": "https://hatchet.run",
       "description": "Hatchet abstracts away the infrastructure for managing task queues and message brokers, so you can focus on writing your background task and workflow logic. With Hatchet, you can run slow OpenAI requests in the background with async tasks, chain complex tasks together into workflows, and set retries and timeouts to recover from failure. ",
       "one_liner": "Background task orchestration and visibility",
@@ -7182,7 +7182,7 @@
       "one_liner": "AI code reviewer with complete context of your codebase",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -8227,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-08-27T12:01:09.951122"
+  "fetched_at": "2025-08-27T18:01:04.210280"
 }
