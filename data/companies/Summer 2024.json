@@ -5057,11 +5057,11 @@
       "name": "dmodel",
       "slug": "dmodel",
       "website": "https://www.dmodel.ai",
-      "description": "dmodel lets companies look inside the mind of an AI model and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use dmodel to rapidly fine-tune responses for accuracy and brand alignment, without retraining the entire model.",
+      "description": "rl. interp. alignment. data.",
       "one_liner": "Look inside the model",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -8034,8 +8034,8 @@
       "name": "Central",
       "slug": "central",
       "website": "https://centralhq.com",
-      "description": "Traditional payroll software forces you to do all the work. Central replaces it and acts like a teammate in Slack that proactively handles it all: payroll, benefits, state compliance, HR tasks, and more.",
-      "one_liner": "Payroll, benefits, state compliance & other bullsh*t for startups.",
+      "description": "Central kills back-office work for startups. While HR/payroll platforms give you software to figure it out, Central actually does all the work using AI agents and human experts: payroll, benefits, compliance, accounting, taxes, and more. That's 10+ hours back every month. \r\n\r\nThousands of founders trust Central, including high-growth companies like Magic Patterns, Wordware, and Bitesight.\r\n\r\nLearn more and start for free at centralhq.com",
+      "one_liner": "Payroll, benefits, state compliance & other bullsh*t for startups",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 13,
@@ -8053,11 +8053,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
         "HR Tech",
-        "Payroll"
+        "Payroll",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8293,5 +8293,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-26T18:01:09.867167"
+  "fetched_at": "2025-08-27T00:03:24.782329"
 }
