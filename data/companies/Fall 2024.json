@@ -93,7 +93,7 @@
       "one_liner": "Wire Harnesses in as little as 7 days",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Industrials",
       "subindustry": "Unspecified",
       "industries": [
@@ -109,7 +109,7 @@
         "Manufacturing"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731992228.0,
@@ -2863,8 +2863,8 @@
       "name": "Riveter AI",
       "slug": "riveter-ai",
       "website": "https://www.riveterhq.com/",
-      "description": "Riveter empowers non-technical teams to automate data enrichment at scale using AI search agents\u2014no engineers required. With Riveter, you can quickly integrate powerful AI into your existing workflows.\r\n\r\nE-commerce companies save hundreds of hours by using Riveter to streamline critical operations like launching new products, writing SEO-optimized descriptions, analyzing pricing and competitor data, reviewing customer feedback, and more.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
-      "one_liner": "Custom data enrichment by AI agents - designed for non-technical teams",
+      "description": "Riveter is bringing the power of Perplexity to the scale of the spreadsheet. Their AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can\u2019t handle large amounts of data at once. And they\u2019re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter\u2019s web browsing can go further\u2014even reading PDFs and images that may contain answers. \r\n\r\nWith Riveter, anyone can automate complex, auditable web research\u2026 without coding. \r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+      "one_liner": "Thousands of AI search agents running in parallel ",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2891,7 +2891,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731038423.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2451f6aef035ff59e0e614d0f60b6f728d45713a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a037b1acaa5b376575f5e3e8a1fdf2e7e2057ddc.png"
     },
     {
       "id": 30016,
@@ -3056,5 +3056,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-08-27T18:01:11.525508"
+  "fetched_at": "2025-08-28T00:03:14.931817"
 }
