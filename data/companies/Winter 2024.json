@@ -807,11 +807,11 @@
       "name": "Integuru",
       "slug": "integuru",
       "website": "https://www.integuru.ai",
-      "description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that creates permissionless integrations by reverse-engineering internal APIs. Our services include authentication management, building integrations, and hosting.",
-      "one_liner": "Integrations without official APIs",
+      "description": "Integuru turns any website into a reliable, real-time, and low-latency API. No RPA required. Our services include authentication management and integration maintenance.",
+      "one_liner": "Integrate with any website via network requests",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -824,11 +824,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Open Source",
-        "API"
+        "API",
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8227,5 +8227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-08-28T06:01:08.407734"
+  "fetched_at": "2025-08-28T12:01:10.582633"
 }

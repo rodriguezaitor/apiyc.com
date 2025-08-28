@@ -2801,7 +2801,7 @@
       "slug": "candytrail",
       "website": "https://candytrail.ai/",
       "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform records every customer interaction and then answers and coaches reps in real time \u2014 surfacing the talk tracks that actually close, flagging common objections as they come up, and delivering instant tips that drive revenue while the conversation is still happening. Think of it as Gong or Granola for offline sales, but built to guide reps live instead of after the fact. Today, we are deployed across industrial automation, pharmaceuticals, real estate brokerages, and retail.\r\n",
-      "one_liner": "Gong.io for in-person sales",
+      "one_liner": "Granola for in-person conversations",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2817,9 +2817,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5082,7 +5082,7 @@
       "name": "Halluminate",
       "slug": "halluminate",
       "website": "https://halluminate.ai/",
-      "description": "We help foundation model labs and enterprises train computer use AI agents with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They\u2019ve been working and studying together for 7+ years. \r\n",
+      "description": "We help foundation model labs and enterprises train computer use AI with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They\u2019ve been working and studying together for 7+ years. \r\n",
       "one_liner": "Data and environments to train computer use AI",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5708,5 +5708,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-28T06:01:08.972708"
+  "fetched_at": "2025-08-28T12:01:11.720898"
 }
