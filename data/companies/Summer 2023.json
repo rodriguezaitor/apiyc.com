@@ -6071,8 +6071,8 @@
       "name": "Elyos AI",
       "slug": "elyos-ai",
       "website": "https://www.elyos.ai/",
-      "description": "Optimizing operations using voice agents",
-      "one_liner": "Optimizing operations using voice agents",
+      "description": "Elyos AI is a fully autonomous AI Agent, built specifically for trades and field services businesses.",
+      "one_liner": "AI Customer Service Agents for trades and field services",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 7,
@@ -6088,15 +6088,17 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688401921.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fb07088a43033248c962fa30542cc23f2ce4c3e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/76f14de542d5e5e64cbd1bcda09aac3368c32350.png"
     },
     {
       "id": 28780,
@@ -7346,5 +7348,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-28T12:01:11.105174"
+  "fetched_at": "2025-08-28T18:01:08.560334"
 }

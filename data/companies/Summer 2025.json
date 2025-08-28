@@ -2800,7 +2800,7 @@
       "name": "Candytrail",
       "slug": "candytrail",
       "website": "https://candytrail.ai/",
-      "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform records every customer interaction and then answers and coaches reps in real time \u2014 surfacing the talk tracks that actually close, flagging common objections as they come up, and delivering instant tips that drive revenue while the conversation is still happening. Think of it as Gong or Granola for offline sales, but built to guide reps live instead of after the fact. Today, we are deployed across industrial automation, pharmaceuticals, real estate brokerages, and retail.\r\n",
+      "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform records every customer interaction and then answers and coaches reps in real time \u2014 surfacing the talk tracks that actually close, flagging common objections as they come up, and delivering instant tips that drive revenue while the conversation is still happening. Think of it as Granola for offline sales, but built to guide reps live instead of after the fact. Today, we are deployed across industrial automation, pharmaceuticals, real estate brokerages, and retail.\r\n",
       "one_liner": "Granola for in-person conversations",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2817,9 +2817,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3360,9 +3360,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5207,6 +5207,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/599629b9dce294f5621aeaf663b76424933bd820.png"
     },
     {
+      "id": 30605,
+      "name": "Dedalus Labs",
+      "slug": "dedalus-labs",
+      "website": "https://www.dedaluslabs.ai/",
+      "description": "Dedalus Labs is building Vercel for AI Agents. We host MCP servers on our cloud and handle the boring stuff like autoscaling and load balancing so users can go from idea to production in a single click. Our OpenAI-compatible SDK lets users orchestrate complex agentic workflows through one clean API. Route between any LLM provider, connect any MCP tools from our hosted marketplace, and ship in minutes.",
+      "one_liner": "MCP gateway-as-a-service for agentic AI workflows.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Workflow Automation",
+        "DevOps",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1756399069.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png"
+    },
+    {
       "id": 30604,
       "name": "Parametric",
       "slug": "parametric",
@@ -5708,5 +5741,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-28T12:01:11.720898"
+  "fetched_at": "2025-08-28T18:01:10.261322"
 }

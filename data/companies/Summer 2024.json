@@ -3512,6 +3512,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png"
     },
     {
+      "id": 29763,
+      "name": "RigManic",
+      "slug": "rigmanic",
+      "website": "https://rigmanic.com/",
+      "description": "We build humanoid home robots powered by artificial muscles. Compared to motor-driven robots, ours are lighter, softer, safer, and stronger for their weight. Richard dropped out of medicine at Oxford and Chenny left her Oxford PhD in computer science to build the full stack\u2014from custom actuators to embodied AI. We went from zero hardware experience to a full humanoid prototype in just 2 months.",
+      "one_liner": "Humanoid robots for the home",
+      "batch": "Summer 2024",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Industrials",
+      "subindustry": "B2B",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Smart Home Assistants",
+        "Robotics",
+        "AI",
+        "Home Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1756389316.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffa584a1ce64a9d9e1245650f8be4074d76623ff.png"
+    },
+    {
       "id": 29762,
       "name": "Remade",
       "slug": "remade",
@@ -8292,5 +8328,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-08-28T12:01:10.401883"
+  "fetched_at": "2025-08-28T18:01:06.661056"
 }
