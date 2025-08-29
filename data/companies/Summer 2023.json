@@ -824,21 +824,23 @@
       "one_liner": "Clinically-intelligent AI Voice Agents for Healthcare",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 5,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Health Tech",
-        "AI"
+        "Health Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6408,12 +6410,12 @@
       "id": 28663,
       "name": "kapa.ai",
       "slug": "kapa-ai",
-      "website": "https://www.kapa.ai/",
+      "website": "https://www.kapa.ai",
       "description": "kapa.ai makes it easy for technical companies to build AI support and onboarding bots for their users. Teams at +150 leading startups and enterprises incl. OpenAI, Mixpanel, Mapbox, Docker, Next.js and Prisma use kapa to level up their developer experience and reduce support.\r\n\r\nWe enable companies to use their existing technical knowledge sources incl. docs, tutorials, chat logs, and GitHub issues to generate AI bots that answers developer questions automatically. More than 750k developers have access to kapa.ai via website widgets, Slack/Discord bots, API integrations, or via Zendesk.",
-      "one_liner": "Create enterprise-grade AI assistants from your content",
+      "one_liner": "The fastest way to build AI assistants on technical content",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 14,
+      "team_size": 19,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -7348,5 +7350,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-08-29T12:01:39.308706"
+  "fetched_at": "2025-08-29T18:01:09.151665"
 }

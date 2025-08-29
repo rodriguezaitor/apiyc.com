@@ -2149,10 +2149,10 @@
     },
     {
       "id": 30273,
-      "name": "Anomaly",
-      "slug": "anomaly",
-      "website": "https://useanomaly.ai/",
-      "description": "Anomaly AI correlates risk across your security stack to detect insider threats early. LLMs analyze behavior changes to catch AI-enabled attacks\u2014including remote workforce infiltration, pig butchering, and data exfiltration\u2014that traditional tools miss.",
+      "name": "Bastion",
+      "slug": "bastion",
+      "website": "https://usebastion.ai/",
+      "description": "Bastion AI correlates risk across your security stack to detect insider threats early. LLMs analyze behavior changes to catch AI-enabled attacks\u2014including remote workforce infiltration, pig butchering, and data exfiltration\u2014that traditional tools miss.",
       "one_liner": "Insider Threat for the AI era",
       "batch": "Winter 2025",
       "status": "Active",
@@ -2169,15 +2169,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740017526.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c422e8a30b941712957d58381fc6b31e9c8d147.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe59873a8859b1acb594a7d7e628169130a1856f.png"
     },
     {
       "id": 30272,
@@ -5340,5 +5340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-29T12:01:39.683305"
+  "fetched_at": "2025-08-29T18:01:11.376876"
 }

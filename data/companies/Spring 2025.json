@@ -3827,41 +3827,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png"
     },
     {
-      "id": 30418,
-      "name": "Kanava AI",
-      "slug": "kanava-ai",
-      "website": "https://kanava.ai/",
-      "description": "Distributors face a shrinking workforce and rising call volume.\r\n\r\nKanava AI builds voice-based agents that act like junior sales reps \u2014 starting with routine inbound calls, stock and price checks, field note logging, and CRM updates using live ERP data.\r\n\r\nAs the system learns from top reps and real workflows, it levels up: managing full sales calls, surfacing upsells, coaching teams, and reactivating dormant accounts.\r\n\r\nWe help distributors scale sales output without adding headcount \u2014 by automating the work reps shouldn\u2019t be doing in the first place.",
-      "one_liner": "Your First AI Sales Hire for Wholesale Distributors",
-      "batch": "Spring 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Sales",
-        "Supply Chain",
-        "AI",
-        "AI Assistant",
-        "Industrial"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1747765211.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
-    },
-    {
       "id": 30417,
       "name": "GroundControl",
       "slug": "groundcontrol",
@@ -4590,7 +4555,42 @@
       "is_top_company": false,
       "launched_at": 1732293207.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
+    },
+    {
+      "id": 30418,
+      "name": "Kanava AI",
+      "slug": "kanava-ai",
+      "website": "https://kanava.ai/",
+      "description": "Distributors face a shrinking workforce and rising call volume.\r\n\r\nKanava AI builds voice-based agents that act like junior sales reps \u2014 starting with routine inbound calls, stock and price checks, field note logging, and CRM updates using live ERP data.\r\n\r\nAs the system learns from top reps and real workflows, it levels up: managing full sales calls, surfacing upsells, coaching teams, and reactivating dormant accounts.\r\n\r\nWe help distributors scale sales output without adding headcount \u2014 by automating the work reps shouldn\u2019t be doing in the first place.",
+      "one_liner": "Your First AI Sales Hire for Wholesale Distributors",
+      "batch": "Spring 2025",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Sales",
+        "Supply Chain",
+        "AI",
+        "AI Assistant",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747765211.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-08-29T12:01:39.834908"
+  "fetched_at": "2025-08-29T18:01:12.231701"
 }
