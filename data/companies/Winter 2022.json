@@ -9230,9 +9230,9 @@
       "id": 25402,
       "name": "Rownd",
       "slug": "rownd",
-      "website": "https://rownd.io",
-      "description": "Rownd is the dynamic backbone for tomorrow\u2019s AI-powered apps, unifying authentication, messaging, payments, and and more into one adaptive platform. \r\n\r\nOur AI-driven platform makes setup a breeze while Rownd's code snippets and SDKs replace static login walls, user management, and subscription management with personalized, context-aware journeys that scale effortlessly. \r\n\r\nFree up to 1 M MAUs, Rownd gives startups and enterprises the runway to innovate boldly and seize market leadership.",
-      "one_liner": "One platform for auth, messaging, payments & AI-ready services.",
+      "website": "https://llamafarm.dev",
+      "description": "LlamaFarm helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
+      "one_liner": "Build powerful AI projects locally, deploy anywhere",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 7,
@@ -9240,7 +9240,7 @@
       "subindustry": "B2B -> Security",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Infrastructure"
       ],
       "regions": [
         "United States of America",
@@ -9251,15 +9251,16 @@
       "locations": "Raleigh, NC, USA",
       "tags": [
         "Developer Tools",
-        "SaaS",
-        "Security"
+        "Open Source",
+        "AI",
+        "ML"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643295526.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc98a09682a41887bdb0e02c2a46d451af3432d2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8d3ff52cb90605a538dc8d645bc45e1c2fba559.png"
     },
     {
       "id": 25400,
@@ -13820,5 +13821,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-08-29T00:03:07.029923"
+  "fetched_at": "2025-08-29T06:01:03.716206"
 }

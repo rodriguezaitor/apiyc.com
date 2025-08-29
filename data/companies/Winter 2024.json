@@ -5137,10 +5137,15 @@
         "Marketing"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "Lehi, UT, USA",
+      "tags": [
+        "E-commerce",
+        "Marketing",
+        "Email"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8227,5 +8232,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-08-29T00:03:09.400834"
+  "fetched_at": "2025-08-29T06:01:05.776363"
 }

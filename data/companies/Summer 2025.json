@@ -156,7 +156,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1750729944.0,
@@ -1019,9 +1019,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Messaging",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -4437,7 +4437,7 @@
       "name": "datafruit",
       "slug": "datafruit",
       "website": "https://datafruit.dev/",
-      "description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack.",
+      "description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack. \r\n\r\nReach out to us: founders@datafruit.dev",
       "one_liner": "AI DevOps Engineer",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5703,5 +5703,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-29T00:03:12.296186"
+  "fetched_at": "2025-08-29T06:01:08.274549"
 }
