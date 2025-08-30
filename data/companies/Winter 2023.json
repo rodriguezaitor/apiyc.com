@@ -1496,7 +1496,7 @@
         "Enterprise Software"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1674704550.0,
@@ -3086,7 +3086,7 @@
       "one_liner": "Automating Healthcare Revenue Cycle Management with AI Workforce",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 15,
       "industry": "Healthcare",
       "subindustry": "B2B",
       "industries": [
@@ -3099,9 +3099,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -9355,5 +9355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-08-29T18:01:06.756127"
+  "fetched_at": "2025-08-30T00:02:45.444652"
 }

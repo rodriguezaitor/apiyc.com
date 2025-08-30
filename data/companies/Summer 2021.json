@@ -8238,41 +8238,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b893bfee13bdfcc0a2a1b1bfc49d29c819dff05.png"
     },
     {
-      "id": 24135,
-      "name": "Sleek",
-      "slug": "sleek",
-      "website": "https://www.onsleek.com/",
-      "description": "Sleek provides B2C businesses with a custom browser extension that works on both mobile and desktop. With the extension, you can:\r\n- Auto-complete checkout for users with an Apple-pay-like experience tied specifically to your brand.\r\n- Offer Honey-like couponing to help your users save money.\r\n- Grant users extra cashback at 1000's of online stores, funded by Sleek.\r\n\r\nYour users spend time and money in the browser. With Sleek, you can be there for them.",
-      "one_liner": "1-click checkout from every store on the internet + cashback rewards.",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Consumer Finance",
-      "industries": [
-        "Fintech",
-        "Consumer Finance"
-      ],
-      "regions": [
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Toronto, ON, Canada",
-      "tags": [
-        "Fintech",
-        "Machine Learning",
-        "E-commerce"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1629234147.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66df5c1e4eac0579c54f345375ef14714c7b02b.png"
-    },
-    {
       "id": 24132,
       "name": "Keeper",
       "slug": "keeper",
@@ -11787,6 +11752,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/da7ac5641874c143a5cbbb11415e9ddf6446888f.png"
     },
     {
+      "id": 24135,
+      "name": "Sleek",
+      "slug": "sleek",
+      "website": "https://www.onsleek.com/",
+      "description": "Sleek provides B2C businesses with a custom browser extension that works on both mobile and desktop. With the extension, you can:\r\n- Auto-complete checkout for users with an Apple-pay-like experience tied specifically to your brand.\r\n- Offer Honey-like couponing to help your users save money.\r\n- Grant users extra cashback at 1000's of online stores, funded by Sleek.\r\n\r\nYour users spend time and money in the browser. With Sleek, you can be there for them.",
+      "one_liner": "1-click checkout from every store on the internet + cashback rewards.",
+      "batch": "Summer 2021",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "Fintech",
+        "Machine Learning",
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1629234147.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66df5c1e4eac0579c54f345375ef14714c7b02b.png"
+    },
+    {
       "id": 24005,
       "name": "Goodkind",
       "slug": "goodkind",
@@ -13430,5 +13430,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-08-29T18:01:05.746951"
+  "fetched_at": "2025-08-30T00:02:45.243467"
 }

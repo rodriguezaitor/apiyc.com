@@ -3191,7 +3191,7 @@
       "name": "Sim",
       "slug": "sim",
       "website": "https://sim.ai",
-      "description": "Sim helps fast-growing teams build agent workflows. \r\n\r\nOur Figma-like canvas lets developers quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).",
+      "description": "Sim enables fast-growing dev teams to build and deploy AI agent workflows. \r\n\r\n20,000+ developers are already using Sim, integrating with 100+ apps to streamline workflows with AI agents.",
       "one_liner": "Open source platform to build AI agent workflows",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3207,9 +3207,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4592,5 +4592,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-08-29T18:01:12.231701"
+  "fetched_at": "2025-08-30T00:02:46.525622"
 }
