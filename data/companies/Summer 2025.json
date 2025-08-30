@@ -2631,8 +2631,8 @@
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "GhostEye predicts insider threats before they happen. Our behavioral analysis platform integrates with existing security infrastructure to identify high-risk individuals and prevent data breaches.",
-      "one_liner": "Real-time insider risk prediction",
+      "description": "GhostEye is an AI-powered offensive security platform that automatically tests both human and technical vulnerabilities 24/7. We combine social engineering simulations with systems penetration testing to provide continuous security validation for growing companies without the need for expensive consultants.",
+      "one_liner": "AI-Powered Offensive Security Platform",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2648,9 +2648,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2853,6 +2853,39 @@
       "is_top_company": false,
       "launched_at": 1753004647.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a76216fdba4f1c2c1e164dfb8851692bcc330c5.png"
+    },
+    {
+      "id": 30688,
+      "name": "Fulcrum",
+      "slug": "fulcrum",
+      "website": "https://fulcrumresearch.ai",
+      "description": "We build red-teaming agents that help developers fix their RL environments and improve their agents.\r\n\r\nOur customers are tired of being bullshitted by their agents.",
+      "one_liner": "The agentic debugger for AI systems",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Generative AI",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1756517840.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c56987ac351304ba02872fb865e4cb5eebbc22.png"
     },
     {
       "id": 30687,
@@ -5598,5 +5631,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-30T00:02:46.325247"
+  "fetched_at": "2025-08-30T06:01:02.542101"
 }
