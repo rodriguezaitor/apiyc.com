@@ -4905,37 +4905,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6363d414fb5488ba9b815d3ea07e017595dcc75c.png"
     },
     {
-      "id": 12726,
-      "name": "HelpNow",
-      "slug": "helpnow",
-      "website": "http://www.getHelpNow.in",
-      "description": "We are creating an aggregated network of Ambulances, and \"MedCabs\", i.e. ridesharing cabs converted into Medical first responder network, to drastically reduce medical help arrival time in India and save 70,000+ lives daily.\r\n",
-      "one_liner": "India's most reliable Ambulance service. (uber for ambulances)",
-      "batch": "Winter 2020",
-      "status": "Active",
-      "team_size": 50,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare Services",
-      "industries": [
-        "Healthcare",
-        "Healthcare Services"
-      ],
-      "regions": [
-        "India",
-        "South Asia"
-      ],
-      "locations": "MH, India",
-      "tags": [
-        "Health Tech"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1584138995.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
-    },
-    {
       "id": 12725,
       "name": "DocVita",
       "slug": "docvita",
@@ -7723,7 +7692,38 @@
       "is_top_company": false,
       "launched_at": 1583804740.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fc4eed9550a66ab0a862b8bee8e561d3be5134a.png"
+    },
+    {
+      "id": 12726,
+      "name": "HelpNow",
+      "slug": "helpnow",
+      "website": "http://www.getHelpNow.in",
+      "description": "We are creating an aggregated network of Ambulances, and \"MedCabs\", i.e. ridesharing cabs converted into Medical first responder network, to drastically reduce medical help arrival time in India and save 70,000+ lives daily.\r\n",
+      "one_liner": "India's most reliable Ambulance service. (uber for ambulances)",
+      "batch": "Winter 2020",
+      "status": "Inactive",
+      "team_size": 50,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "India",
+        "South Asia"
+      ],
+      "locations": "MH, India",
+      "tags": [
+        "Health Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1584138995.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
     }
   ],
-  "fetched_at": "2025-08-30T06:01:02.172171"
+  "fetched_at": "2025-08-30T12:01:09.567485"
 }
