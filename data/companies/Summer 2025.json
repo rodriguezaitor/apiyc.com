@@ -483,7 +483,7 @@
       "slug": "interfere",
       "website": "https://interfere.com",
       "description": "",
-      "one_liner": "The self-healing layer of the internet",
+      "one_liner": "Next-gen observability that finds & fixes bugs automatically",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -497,7 +497,12 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Developer Tools",
+        "Design",
+        "Web Development",
+        "Infrastructure"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -2631,8 +2636,8 @@
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "GhostEye is an AI-powered offensive security platform that automatically tests both human and technical vulnerabilities 24/7. We combine social engineering simulations with systems penetration testing to provide continuous security validation for growing companies without the need for expensive consultants.",
-      "one_liner": "AI-Powered Offensive Security Platform",
+      "description": "Unlike traditional security consultants who test once and leave, GhostEye runs continuous assessments 24/7. You get the comprehensive security testing of a full red team, powered by AI, without hiring expensive consultants or building an internal security team.",
+      "one_liner": "Continuous vulnerability testing without the overhead",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2648,9 +2653,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2676,12 +2681,16 @@
         "Retail"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "E-commerce",
+        "AI"
+      ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752182938.0,
@@ -2726,7 +2735,7 @@
       "name": "Candytrail",
       "slug": "candytrail",
       "website": "https://candytrail.ai/",
-      "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform records every customer interaction and then answers and coaches reps in real time \u2014 surfacing the talk tracks that actually close, flagging common objections as they come up, and delivering instant tips that drive revenue while the conversation is still happening. Think of it as Granola for offline sales, but built to guide reps live instead of after the fact. Today, we are deployed across industrial automation, pharmaceuticals, real estate brokerages, and retail.\r\n",
+      "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform captures every customer interaction and turns it into insights \u2014 showing which talk tracks close, what objections keep arising, and the patterns that drive revenue. Think of it as Granola for offline sales. Today we\u2019re deployed across pharmaceuticals, real estate, and retail.",
       "one_liner": "Granola for in-person conversations",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2743,9 +2752,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3683,14 +3692,15 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5631,5 +5641,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-08-30T18:01:10.450180"
+  "fetched_at": "2025-08-31T00:03:31.419053"
 }
