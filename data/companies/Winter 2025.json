@@ -1536,7 +1536,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739870082.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb918a1c2da0e7143351dc449810630e78b19bed.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f8f7a7b4a66472341bcc39530b8a66929d243b6.png"
     },
     {
       "id": 30294,
@@ -2602,8 +2602,8 @@
       "name": "Asteroid",
       "slug": "asteroid",
       "website": "https://asteroid.ai",
-      "description": "Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations in regulated industries.",
-      "one_liner": "Browser agents for regulated industries",
+      "description": "Asteroid builds and hosts AI browser agents for back-office tasks. With guardrails, evaluations, and human oversight, we deliver enterprise-grade reliability across millions of operations, even in regulated industries. Companies can build agents themselves or rely on us to deliver and maintain them.",
+      "one_liner": "AI Browser Agents for the Back-Office",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 4,
@@ -5340,5 +5340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-08-31T06:01:26.551493"
+  "fetched_at": "2025-08-31T12:01:27.354035"
 }
