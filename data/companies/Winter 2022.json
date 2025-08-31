@@ -912,8 +912,8 @@
       "name": "KorrAI",
       "slug": "korrai",
       "website": "https://www.korrai.com",
-      "description": "KorrAI is the leading ground stability monitoring platform, leveraging satellite radar technology to protect critical infrastructure from escalating subsidence risks in a changing climate. Our solutions serve major property insurers mining companies, data centers, and infrastructure operators worldwide as they face increasing threats from prolonged droughts, shifting water tables, and extreme weather events. The platform combines multi-satellite InSAR data with proprietary algorithms to deliver millimeter-precise ground movement detection and risk assessment.\u000b\r\nOur technology processes over 1 petabyte of satellite data annually, covering 3 million square kilometers with validated 1mm/year precision. Through advanced calibration using motorized corner reflectors and extensive GNSS networks, we achieve 85% prediction accuracy across Europe and North America. With climate change projected to affect 40% of global infrastructure by 2030 through ground instability, our solution enables proactive risk management and adaptation strategies.\u000b\r\nFounded by a team of tech and remote sensing entrepreneurs with one successful exit and decade-long experience serving Fortune 500 companies.With offices in Canada (Toronto, Halifax, Vancouver) and India (New Delhi), we collaborate with leading institutions including the Canadian Space Agency, Construction Research Center, and premier universities. Strategic partnerships include major satellite operators and geotechnical engineering firms.\r\n",
-      "one_liner": "KorrAI detects ground stability threats to critical infrastructure ",
+      "description": "KorrAI helps asset owners and property insurers see hidden risks in critical infrastructure before they become costly failures. We use satellite data and AI to remotely monitor mines, railways, data centers, and other complex assets making infrastructure risk visible, early, and actionable.",
+      "one_liner": "KorrAI monitors infrastructure risk with satellite imagery and AI",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 14,
@@ -931,9 +931,9 @@
       ],
       "locations": "Toronto, ON, Canada",
       "tags": [
-        "Artificial Intelligence",
-        "Climate",
-        "Insurance"
+        "Construction",
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13821,5 +13821,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-08-31T00:03:28.045839"
+  "fetched_at": "2025-08-31T06:01:22.198315"
 }
