@@ -1334,7 +1334,7 @@
       "name": "Oway",
       "slug": "oway",
       "website": "https://www.shipoway.com",
-      "description": "Oway is a rideshare freight platform that uses AI to automatically coordinate and sell unused space in trucks to businesses at a 50% discount for lightning-fast shipping. It's a $100B dollar-problem in the US alone - and every year up to 50% of the truck space in the country goes empty.\r\n\r\nWith trucking being a hyper-fragmented market (90%+ of US trucking companies are family businesses), we decided to build an ecosystem that takes all of this inefficiency and turns it into something that could fundamentally transform the livelihoods of businesses and carriers alike. For carriers, integrating Oway can immediately increase annual revenues by up to 30% with almost no impact to existing delivery schedules.\r\n\r\nIn a technical sense, Oway applies stochastic spread optimization and real-time liquidity modeling to dynamically price freight shipments, effectively functioning as a decentralized market maker optimizing expected value across variable supply constraints. We wrap all of this under a beautiful, simple package for both businesses and carriers - allowing anyone to reap the benefits of rideshare freight shipping with the click of a button.",
+      "description": "Oway is an AI-driven marketplace that turns America\u2019s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America\u2019s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are frequently up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway\u2019s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America\u2019s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
       "one_liner": "Ridesharing freight with AI to cut pallet shipping costs by 50%",
       "batch": "Summer 2024",
       "status": "Active",
@@ -3517,10 +3517,10 @@
       "slug": "rigmanic",
       "website": "https://rigmanic.com/",
       "description": "We build humanoid home robots powered by artificial muscles. Compared to motor-driven robots, ours are lighter, softer, safer, and stronger for their weight. Richard dropped out of medicine at Oxford and Chenny left her Oxford PhD in computer science to build the full stack\u2014from custom actuators to embodied AI. We went from zero hardware experience to a full humanoid prototype in just 2 months.",
-      "one_liner": "Humanoid robots for the home",
+      "one_liner": "Humanoid robots that do your chores",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 10,
       "industry": "Industrials",
       "subindustry": "B2B",
       "industries": [
@@ -8328,5 +8328,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-01T00:03:35.056006"
+  "fetched_at": "2025-09-01T06:01:12.196245"
 }
