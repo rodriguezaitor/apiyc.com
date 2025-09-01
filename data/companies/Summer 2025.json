@@ -3813,7 +3813,7 @@
       "name": "OnDeck AI",
       "slug": "ondeck-ai",
       "website": "https://www.ondeckai.com",
-      "description": "We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it\u2019s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn\u2019t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
+      "description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it\u2019s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn\u2019t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
       "one_liner": "Analyze any footage, without training a model",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4642,8 +4642,8 @@
       "name": "Ghostship",
       "slug": "ghostship",
       "website": "https://tryghostship.dev/",
-      "description": "We find bugs in your product with AI agents that crawl across your product and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to production.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app. Good UX is a moat today, but with Ghostship, it'll be the standard tomorrow.\r\n\r\nGhostship \u2014 don't get caught lacking by your users.",
-      "one_liner": "Browser agents for finding UX bugs in your product",
+      "description": "Imagine a QA team of 5,000 testers available 24/7 on every single change you push. That's Ghostship. \r\n\r\nOur AI agents will crawl through your product and interact with it like users would to find the bugs (especially edge cases) that lead to churn\u2014all at a fraction of the cost.",
+      "one_liner": "Breaking your product with artificial users",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4659,11 +4659,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "DevOps",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5641,5 +5641,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-01T06:01:12.822936"
+  "fetched_at": "2025-09-01T12:01:17.593631"
 }
