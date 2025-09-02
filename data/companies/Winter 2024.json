@@ -5056,8 +5056,8 @@
       "name": "Keywords AI",
       "slug": "keywords-ai",
       "website": "https://keywordsai.co",
-      "description": "Keywords AI is used by 60+ fastest growing YC startups to ship reliable AI features really fast.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
-      "one_liner": "LLM observability, prompt management, evals.",
+      "description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe ingest a billion LLM logs every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
+      "one_liner": "Observability and evals platform for building AI agents",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 6,
@@ -5076,10 +5076,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "Monitoring",
-        "AI"
+        "Monitoring"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8233,5 +8233,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-02T06:01:11.272286"
+  "fetched_at": "2025-09-02T12:01:25.120958"
 }
