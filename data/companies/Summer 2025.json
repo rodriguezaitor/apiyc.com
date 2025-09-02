@@ -683,7 +683,7 @@
       "slug": "modelence",
       "website": "https://modelence.com",
       "description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring\u2026 and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn\u2019t have to do the same from scratch.\r\n\r\nModelence is a batteries-included framework that abstracts away boilerplate so you can just focus on building your product logic and nothing else - it\u2019s like Next.js + Vercel + Supabase on a single platform, built for full-stack TypeScript.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we\u2019ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
-      "one_liner": "All-in-one TypeScript platform for startups",
+      "one_liner": "All-in-one TypeScript cloud for production AI apps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -812,8 +812,8 @@
       "name": "stagewise",
       "slug": "stagewise",
       "website": "https://stagewise.io",
-      "description": "stagewise builds a frontend coding agent for real codebases. We enable developers, designers and product managers to build and iterate on web apps with any tech stack in a simple and visually guided manner.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like \u201cmake it green and put it in the top right corner\u201d, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we\u2019re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
-      "one_liner": "Frontend coding agent for real codebases",
+      "description": "stagewise builds an open-source frontend coding agent for real codebases. We enable backend devs, designers and product managers to build pretty and functional web apps in a simple and visually guided manner - no matter the used tech stack.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like \u201cmake it green and put it in the top right corner\u201d, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With Glenn's background in building dev tools for enterpries (Rheinmetall, Miele), as well as Julians experience in building web apps used by thousands (saasmetrix, strukto.io), we have the unique blend of experience and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we\u2019re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to replace frontend devs completely, by gradually enabling both the backend devs, but also less technical designers and product managers to create well-designed applications. We start with developers who lack design experience, but our ultimate goal is to change how products are built.",
+      "one_liner": "Your new AI frontend developer",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -829,9 +829,10 @@
       ],
       "locations": "Bielefeld, NRW, Germany",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Web Development",
-        "AI"
+        "Open Source",
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2636,8 +2637,8 @@
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "Traditional red teams test quarterly and miss everything that happens between engagements. GhostEye's AI agents operate 24/7, continuously mapping your external attack surface, bypassing security controls like EDR and anti-bot detection, and safely exploiting vulnerabilities before real attackers find them.",
-      "one_liner": "AI Agents for Continuous Offensive Security Testing",
+      "description": "GhostEye automates red team testing with AI agents that conduct social engineering attacks and vulnerability exploitation, replacing expensive quarterly pen tests with continuous security validation.",
+      "one_liner": "AI-powered red team testing that never stops",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2735,7 +2736,7 @@
       "name": "Candytrail",
       "slug": "candytrail",
       "website": "https://candytrail.ai/",
-      "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform captures every customer interaction and turns it into insights \u2014 showing which talk tracks close, what objections keep arising, and the patterns that drive revenue. Think of it as Gong/Granola for offline sales. Today we\u2019re deployed across pharmaceuticals, real estate, and retail.",
+      "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform captures every customer interaction and turns it into insights \u2014 showing which talk tracks close, what objections keep arising, and the patterns that drive revenue. Think of it as Gong for offline sales. Today we\u2019re deployed across pharmaceuticals, real estate, and retail.",
       "one_liner": "Conversation intelligence for in-person teams",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2752,9 +2753,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sales",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3663,10 +3664,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
+        "Workflow Automation",
         "Productivity",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3829,11 +3831,11 @@
       ],
       "locations": "",
       "tags": [
+        "Machine Learning",
         "Computer Vision",
         "B2B",
         "Security",
-        "Video",
-        "Maritime"
+        "Video"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5641,5 +5643,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-01T18:01:09.105570"
+  "fetched_at": "2025-09-02T00:03:20.736761"
 }

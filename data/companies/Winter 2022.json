@@ -695,7 +695,7 @@
         "Construction"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643066550.0,
@@ -842,11 +842,11 @@
       "name": "EasyCode",
       "slug": "easycode",
       "website": "https://www.easycode.ai/",
-      "description": "EasyCode is GPT-4 powered AI that understands developer context. It gives immediate answers to developer questions specific to their codebase. 900,000 developers already use EasyCode to get unblocked & build 10x faster.",
-      "one_liner": "ChatGPT that understands your codebase.",
+      "description": "Imagine Lovable and Cursor had a baby - EasyCode is an AI platform where non-technical builders finish their projects. It's fully local, comes with real backends, visual debugger, and built-in security. It's also the first platform optimized to work with open source LLMs to unlock the most value. ",
+      "one_liner": "Where vibe coders finish their projects",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -861,9 +861,9 @@
       ],
       "locations": "Toronto, ON, Canada; Remote",
       "tags": [
-        "Developer Tools",
+        "Artificial Intelligence",
         "Generative AI",
-        "Productivity"
+        "No-code"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -931,12 +931,13 @@
       ],
       "locations": "Toronto, ON, Canada",
       "tags": [
+        "Artificial Intelligence",
         "Construction",
         "Insurance",
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643659113.0,
@@ -13821,5 +13822,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-09-01T18:01:04.646506"
+  "fetched_at": "2025-09-02T00:03:14.989346"
 }
