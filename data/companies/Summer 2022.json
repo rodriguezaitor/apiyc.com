@@ -6622,7 +6622,7 @@
       "one_liner": "API first electronic health record (EHR) that is open source",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 12,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -6631,11 +6631,9 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
+        "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
         "Open Source",
@@ -6646,7 +6644,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1659548315.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/998e52194345363028a6f8e4a6c3f15baa415adf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4229dd6804f5d73a29c33ab5b98b1cf482e0ea34.png"
     },
     {
       "id": 25267,
@@ -8116,5 +8114,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-09-03T00:02:36.761663"
+  "fetched_at": "2025-09-03T06:01:26.141227"
 }
