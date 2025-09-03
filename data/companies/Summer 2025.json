@@ -3679,7 +3679,7 @@
       "slug": "keystone",
       "website": "https://withkeystone.com",
       "description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
-      "one_liner": "Your team's AI software engineer",
+      "one_liner": "Your team's on-call AI engineer",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -3695,10 +3695,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5605,5 +5605,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-03T12:01:14.862610"
+  "fetched_at": "2025-09-03T18:01:05.682616"
 }

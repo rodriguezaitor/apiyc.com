@@ -935,7 +935,7 @@
       "one_liner": "Making humanoids dexterous enough to thread a needle",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 10,
       "industry": "Industrials",
       "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
@@ -947,8 +947,8 @@
       ],
       "locations": "",
       "tags": [
-        "Robotics",
-        "AI"
+        "Artificial Intelligence",
+        "Robotics"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5340,5 +5340,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-09-03T12:01:15.286296"
+  "fetched_at": "2025-09-03T18:01:05.755850"
 }
