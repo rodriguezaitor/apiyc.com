@@ -2701,6 +2701,41 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
+      "id": 1450,
+      "name": "Loop Support",
+      "slug": "loop-support",
+      "website": "https://www.loopsupport.com/",
+      "description": "We build pre-employment assessments that accurately simulate the work your applicants will actually be doing on-the-job.",
+      "one_liner": "Predict job applicant performance for entry-level support roles",
+      "batch": "Winter 2017",
+      "status": "Acquired",
+      "team_size": 7,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Recruiting"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1478128232.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99a2da0e40ac581816bd3220647f49ae49906db7.png"
+    },
+    {
       "id": 1446,
       "name": "Scribe",
       "slug": "scribe",
@@ -3677,41 +3712,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee5971f7543c1b8d1d76bb765b8acaa206cb1a0b.png"
     },
     {
-      "id": 1450,
-      "name": "Loop Support",
-      "slug": "loop-support",
-      "website": "https://www.loopsupport.com/",
-      "description": "We build pre-employment assessments that accurately simulate the work your applicants will actually be doing on-the-job.",
-      "one_liner": "Predict job applicant performance for entry-level support roles",
-      "batch": "Winter 2017",
-      "status": "Inactive",
-      "team_size": 7,
-      "industry": "B2B",
-      "subindustry": "B2B -> Recruiting and Talent",
-      "industries": [
-        "B2B",
-        "Recruiting and Talent"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Recruiting"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1478128232.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99a2da0e40ac581816bd3220647f49ae49906db7.png"
-    },
-    {
       "id": 1449,
       "name": "Riley",
       "slug": "riley",
@@ -3873,5 +3873,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-09-02T18:01:13.007950"
+  "fetched_at": "2025-09-03T00:02:38.054345"
 }

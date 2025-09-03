@@ -600,16 +600,15 @@
       "name": "Lumari",
       "slug": "lumari",
       "website": "https://www.lumari.io/",
-      "description": "Lumari enables GTM teams to automate their manual operational work using custom-built agents that deeply understand their company context. ",
-      "one_liner": "Agentic internal tools",
+      "description": "Lumari enables teams to automate their manual operational work using custom-trained AI teammates that deeply understand their company context. ",
+      "one_liner": "Your AI Teammates",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
-        "B2B",
-        "Sales"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -2722,9 +2721,9 @@
       "id": 30455,
       "name": "The LLM Data Company",
       "slug": "the-llm-data-company",
-      "website": "https://www.thellmdatacompany.com/",
+      "website": "https://www.llmdata.com/",
       "description": "The LLM Data Company is a research lab studying post-training data.\r\n\r\nWe work with frontier AI teams to create bespoke tasks, rewards, and environments for models to play and learn at scale.",
-      "one_liner": "Post-training Data Research Lab",
+      "one_liner": "Post-training Data Research",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
@@ -2740,8 +2739,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Generative AI",
-        "AI"
+        "Artificial Intelligence",
+        "Generative AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3201,17 +3200,10 @@
         "Productivity"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "Productivity",
-        "Enterprise",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3708,11 +3700,11 @@
       "name": "SynthioLabs",
       "slug": "synthiolabs",
       "website": "https://synthiolabs.com/",
-      "description": "Pharma spends billions on medical and sales teams. Yet many physicians still don\u2019t get the timely, relevant medical insight they need.\r\n\r\nSo we built an AI Medical Expert for Pharma GTM teams. Our Medical grade Voice AI Platform delivers compliant, science-first engagement to physicians and patients\r\n\r\nIt\u2019s like adding 100 medical reps to your team, without the headcount.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholders \u2014 patients and HCPs\r\n\r\nWe\u2019re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. \r\n\r\nWe're synthiolabs.com. Reach out to learn more! ",
-      "one_liner": "Voice AI Medical Rep for Pharma",
+      "description": "A conversational AI platform built for life sciences extending field reach, enabling 24/7 compliant engagement, and scaling trusted conversations with HCPs and patients. ",
+      "one_liner": "AI-Powered Customer Engagement for Life Sciences",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 6,
       "industry": "Healthcare",
       "subindustry": "B2B",
       "industries": [
@@ -3734,7 +3726,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744430433.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd9b3daaa2f20d4718e902822df607c1d01c5514.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9098a7fb6ce97083cb31b3aea4f58a15ab42e106.png"
     },
     {
       "id": 30420,
@@ -4585,5 +4577,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-02T18:01:11.374935"
+  "fetched_at": "2025-09-03T00:02:37.684449"
 }
