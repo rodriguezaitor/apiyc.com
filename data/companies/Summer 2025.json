@@ -857,17 +857,16 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "",
       "tags": [
         "Developer Tools",
         "SaaS",
-        "AI Assistant"
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1755546681.0,
@@ -1819,7 +1818,7 @@
       "name": "Minimal AI",
       "slug": "minimal-ai",
       "website": "https://gominimal.ai/",
-      "description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nThe result: reduced support costs while actually improving customer experience and sales. It feels like outsourcing your support to a team of AI Agents with human-like empathy.\r\n\r\nOver 45 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
+      "description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nOver 50 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
       "one_liner": "AI Customer Support Teams for E-commerce",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2435,15 +2434,15 @@
       "name": "Mimos",
       "slug": "mimos",
       "website": "https://www.mimos-ai.com/",
-      "description": "Mimos is an Answer Engine Optimization (AEO) platform designed for regulated experts, starting with Registered Investment Advisors (RIAs). \r\n\r\nWe help highly-regulated companies get discovered and trusted on AI platforms like ChatGPT and Gemini, driving qualified inbound while staying compliant.\r\n\r\n===\r\n\r\nRohit & Mike have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.",
-      "one_liner": "Helping regulated firms show up in AI search.",
+      "description": "Mimos helps regulated companies rank in AI search.\r\n\r\nCompliance is the biggest blocker to marketing in regulated industries. Every claim needs to be substantiated, every disclosure included, and mistakes can lead to audits and fines. That\u2019s why campaigns sit in compliance queues for weeks.\r\n\r\nMimos automates this entire loop:\r\n \u2022 Drafts are generated from your policies, past redlines, and the latest regulations\r\n \u2022 Evidence packets and disclaimers are auto-inserted for compliance review\r\n \u2022 Customers click to publish and start seeing new leads within days\r\n\r\nLearn more at trymimos.com\r\n\r\n===\r\n\r\nRohit & Michael have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.\r\n\r\nPrior to Mimos, Rohit built infrastructure for OpenAI at Microsoft Azure, and Michael shipped AI to 1B+ Alexa devices at Amazon.",
+      "one_liner": "Helping regulated companies rank in AI search",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Fintech",
+      "industry": "B2B",
       "subindustry": "Fintech",
       "industries": [
-        "Fintech"
+        "B2B"
       ],
       "regions": [
         "Unspecified"
@@ -5572,5 +5571,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-04T06:01:09.098923"
+  "fetched_at": "2025-09-04T12:01:22.424029"
 }
