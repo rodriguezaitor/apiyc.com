@@ -549,7 +549,7 @@
       "slug": "rowflow",
       "website": "https://rowflow.ai",
       "description": "RowFlow is like if Typeform or SurveyMonkey started as an AI company. We replace clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform aims to double your form\u2019s response rates while cutting your internal overhead in half. \r\n\r\nWith RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.\r\n\r\nForms power billions of business interactions yearly. Whether it\u2019s forms for client intake, registrations, compliance, feedback, or surveys, they all follow the same painful pattern: low conversion, messy data, and frustrated users. Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from people - until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",
-      "one_liner": "We turn rigid forms into AI convos that collect better data faster.",
+      "one_liner": "Replacing forms with AI conversations",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -565,10 +565,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Chat",
-        "AI"
+        "Chat"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -878,7 +878,7 @@
       "name": "Vibe Code Go",
       "slug": "vibe-code-go",
       "website": "https://vibecodego.com",
-      "description": "Vibe Code Go is a mobile app for software engineers. Now you can vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
+      "description": "Vibe Code Go is a mobile app that lets software engineers vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
       "one_liner": "Code from your phone",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2833,8 +2833,8 @@
       "name": "b-12",
       "slug": "b-12",
       "website": "https://b12-labs.com/",
-      "description": "At B-12, we are developing AI agents for automated workflows in chemistry and pharma R&D, as a way of manifesting chemical super intelligence (CSI) in the physical world. We are preparing for the next wave of physical AI, specializing in chemistry.\r\n\r\nOur long-term goal is to create autonomous labs that can plan and perform complex, multistep syntheses with minimal human intervention.",
-      "one_liner": "Developing chemical super intelligence - one agent at a time.\u2026",
+      "description": "b-12 is an AI copilot that plans how to create and test new molecules for chemists. We're like a GPS for chemistry, helping pharma companies like Roche and Takeda plan the recipes for new drugs, accelerating early-stage drug discovery from years to months. \r\nAndres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (750+ citations), and won the best paper award at the NeurIPS AI for Science conference.\r\nZlatko is a 3x National Chemistry Olympiad champion and medicinal chemist who has worked at Roche and leading lab robotics companies. He has an extensive network of hundreds of chemists across Europe.\r\nWe are publishing a groundbreaking paper in Nature demonstrating our AI's ability to optimally plan chemical recipes. We run paid pilots with Takeda and Roche after our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the usual 8-12 iteration cycle.",
+      "one_liner": "Developing chemical super intelligence - one agent at a time.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3621,15 +3621,16 @@
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Food",
         "Food Tech",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3943,7 +3944,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, Jira turns into chaos. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Tickets are never seen by anyone with full context. As a result, teams spend hundreds of manual hours just figuring out what\u2019s important\u2014before they can even start fixing it.\r\n\r\nJanet AI watches every incoming ticket to build a knowledge graph and automatically surfaces related tickets, streamlines routing, flags prior fixes, and identifies what matters most\u2014across all projects and teams.",
+      "description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, Jira turns into chaos. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Tickets are never seen by anyone with full context. As a result, teams spend hundreds of manual hours just figuring out what\u2019s important\u2014before they can even start fixing it.\r\n\r\nJanet AI automatically creates, tracks, and resolves work items through integrations with information channels like Slack, meetings, customer cases, GitHub, and more. Further, Janet AI watches every incoming ticket to build a knowledge graph and automatically surfaces related tickets, streamlines routing, flags prior fixes, and identifies what matters most\u2014across all projects and teams.",
       "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3959,10 +3960,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps"
+        "DevOps",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4306,7 +4307,7 @@
       "name": "bitrig",
       "slug": "bitrig",
       "website": "https://www.bitrig.app",
-      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
+      "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, Apple's UI framework for building modern iOS apps, and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
       "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4339,7 +4340,7 @@
       "slug": "lark",
       "website": "https://uselark.ai/",
       "description": "Lark is building AI agents to solve billing issues for subscription companies. Vijit and Jack previously built the usage-based billing product at Stripe. We are working with four customers including Midjourney & Character AI. \r\n\r\nToday, the customer billing experience for subscription companies is broken. Customers must contact support for simple issues like requesting refunds and downgrading plans. This leads to high billing support volume, low customer satisfaction, and churn. Lark builds AI agents that resolve these issues instantly, with deep billing integrations that factor in usage data, account for prorations and credits, and have strong guardrails to ensure safe actions.\r\n\r\nOver time, we will evolve this into a customer-first billing platform with AI automation built in from day one.",
-      "one_liner": "AI Agents for Billing Operations",
+      "one_liner": "AI Native Billing Platform",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4358,8 +4359,8 @@
         "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "Fraud Detection",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5605,5 +5606,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-03T18:01:05.682616"
+  "fetched_at": "2025-09-04T00:02:37.156461"
 }

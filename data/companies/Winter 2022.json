@@ -2976,43 +2976,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f23edad640a01ae56118a8760b4f8c4666d922.png"
     },
     {
-      "id": 25950,
-      "name": "Decent",
-      "slug": "decent",
-      "website": "https://www.decent.xyz/",
-      "description": "Decent's core product,[The Box](https://decent.xyz/), enables 1-click transactions using any token across chains.  For example, a user can purchase an Optimism NFT off primary or secondary sales using USDC on Arbitrum.\r\n\r\nAs applications splinter across an increasing number of rollups and app chains, wallets and dapps will have to meet users at their point of liquidity vs. expecting users to jump through hoops to arrive with tokens on the correct network.",
-      "one_liner": "One-click transactions using any token across chains.",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Developer Tools",
-        "Crypto / Web3",
-        "B2B",
-        "NFT",
-        "Cryptocurrency"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1642784251.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/211741e576e95e4b60804792a946753d0b41a090.png"
-    },
-    {
       "id": 25948,
       "name": "Spade",
       "slug": "spade",
@@ -12154,6 +12117,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/694d10c6d3aa9fbb123fa5718b0d58f13aba547c.png"
     },
     {
+      "id": 25950,
+      "name": "Decent",
+      "slug": "decent",
+      "website": "https://www.decent.xyz/",
+      "description": "Decent's core product,[The Box](https://decent.xyz/), enables 1-click transactions using any token across chains.  For example, a user can purchase an Optimism NFT off primary or secondary sales using USDC on Arbitrum.\r\n\r\nAs applications splinter across an increasing number of rollups and app chains, wallets and dapps will have to meet users at their point of liquidity vs. expecting users to jump through hoops to arrive with tokens on the correct network.",
+      "one_liner": "One-click transactions using any token across chains.",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Developer Tools",
+        "Crypto / Web3",
+        "B2B",
+        "NFT",
+        "Cryptocurrency"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1642784251.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/211741e576e95e4b60804792a946753d0b41a090.png"
+    },
+    {
       "id": 25949,
       "name": "Jamsocket",
       "slug": "jamsocket",
@@ -13822,5 +13822,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-09-03T18:01:04.652469"
+  "fetched_at": "2025-09-04T00:02:33.790112"
 }

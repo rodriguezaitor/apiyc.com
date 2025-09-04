@@ -3089,10 +3089,10 @@
     },
     {
       "id": 29777,
-      "name": "Exa Laboratories",
-      "slug": "exa-laboratories",
-      "website": "https://exalaboratories.com",
-      "description": "Exa is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+      "name": "Zettascale",
+      "slug": "zettascale",
+      "website": "https://zscc.ai",
+      "description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
       "one_liner": "Energy efficient chips for AI",
       "batch": "Summer 2024",
       "status": "Active",
@@ -3103,20 +3103,21 @@
         "Industrials"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
-        "Semiconductors"
+        "Semiconductors",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722631140.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5fd53eea76198c06d20822dbe619ea2c841e00c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png"
     },
     {
       "id": 29776,
@@ -3139,7 +3140,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717067157.0,
@@ -8328,5 +8329,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-03T18:01:05.035661"
+  "fetched_at": "2025-09-04T00:02:34.964138"
 }
