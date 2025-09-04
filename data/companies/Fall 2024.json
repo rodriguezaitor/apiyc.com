@@ -935,10 +935,10 @@
     },
     {
       "id": 30096,
-      "name": "Scout",
-      "slug": "scout-new",
-      "website": "https://scout.new",
-      "description": "Scout is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
+      "name": "Capy",
+      "slug": "capy",
+      "website": "https://capy.ai",
+      "description": "Capy is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
       "one_liner": "AI Software Engineer",
       "batch": "Fall 2024",
       "status": "Active",
@@ -954,7 +954,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3059,5 +3059,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-04T12:01:26.263295"
+  "fetched_at": "2025-09-04T18:01:13.396277"
 }

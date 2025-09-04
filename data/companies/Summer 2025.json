@@ -23,7 +23,7 @@
       "locations": "Detroit, MI, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751751667.0,
@@ -4304,7 +4304,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. We previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Figma for this reason. Frustratingly, these companies had to build their billing systems in-house.\r\n\r\nLark provides companies a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience.\r\n\r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. We\u2019re live with 4 customers including Midjourney and CharacterAI.",
+      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare. Vijit also built Stripe\u2019s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Figma for this reason. Frustratingly, these companies had to build their billing systems in-house. \r\n\r\nLark provides companies a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience. \r\n \r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. Our billing agents are live with 4 customers including Midjourney and CharacterAI.",
       "one_liner": "AI Native Billing Platform",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5571,5 +5571,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-04T12:01:22.424029"
+  "fetched_at": "2025-09-04T18:01:09.849921"
 }

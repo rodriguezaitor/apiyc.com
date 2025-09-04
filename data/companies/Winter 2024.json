@@ -6992,11 +6992,11 @@
       "name": "Sonia",
       "slug": "sonia",
       "website": "https://soniahealth.com",
-      "description": "Sonia is a conversational AI that conducts entire therapy-like sessions both by voice and text via a phone app. 70 million Americans who struggle with their mental health can now access therapy for $200 per year instead of $200 per session. Founded by a team of MIT researchers who published 9 papers on AI at conferences like NeurIPS.",
-      "one_liner": "Conversational AI for Mental Health",
+      "description": "Our goal is to build a safe AI therapist clinically as effective as the 99th percentile human therapist and to make mental health support accessible to anyone. Founded by a team of MIT researchers who published 9 papers on AI at conferences like NeurIPS.",
+      "one_liner": "AI Therapy",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Consumer Health and Wellness",
       "industries": [
@@ -7004,16 +7004,17 @@
         "Consumer Health and Wellness"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706473568.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2ebe3a96b869e171b1cbaa036e9ce93ec57799d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e8e965172a175b24efa8810d434466238bede51.png"
     },
     {
       "id": 29241,
@@ -8235,5 +8236,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-04T12:01:19.724839"
+  "fetched_at": "2025-09-04T18:01:07.339916"
 }

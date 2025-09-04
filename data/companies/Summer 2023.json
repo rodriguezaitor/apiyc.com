@@ -102,11 +102,11 @@
       "name": "Healthtech 1",
       "slug": "healthtech-1",
       "website": "https://www.healthtech1.uk/",
-      "description": "Healthtech-1 automates repetitive processes for healthcare systems. We\u2019re starting with the world\u2019s most famous: the NHS. We\u2019re already live in over 400+ primary care practices.\r\n\r\nBased out of Raj's parents' Primary Care practice the Healthtech 1 team are systematically digitising the repetitive processes they experience everyday, saving thousands of hours of staff time. \r\n\r\nWhy now? \r\nThe UK's National Health Service (NHS) delivers free healthcare in 590 million patient contacts every year. Post-pandemic, Britain's most treasured institution is in crisis. Patient satisfaction is at 25 year low and 1/7 staff are applying for Non-NHS jobs fuelling an 11% recruitment gap. \r\n\r\nBy digitising the 100s of repetitive processes in healthcare, Healthtech 1 will reverse the trend, and produce the world's most productive health care system.",
+      "description": "Healthtech-1 automates repetitive processes for healthcare systems. We\u2019re starting with the world\u2019s most famous: the NHS. We\u2019re already live in over 1,400+ primary care practices.\r\n\r\nBased out of Raj's parents' Primary Care practice the Healthtech 1 team are systematically digitising the repetitive processes they experience everyday, saving thousands of hours of staff time. \r\n\r\nWhy now? \r\nThe UK's National Health Service (NHS) delivers free healthcare in 590 million patient contacts every year. Post-pandemic, Britain's most treasured institution is in crisis. Patient satisfaction is at 25 year low and 1/7 staff are applying for Non-NHS jobs fuelling an 11% recruitment gap. \r\n\r\nBy digitising the 100s of repetitive processes in healthcare, Healthtech 1 will reverse the trend, and produce the world's most productive health care system.",
       "one_liner": "Automating repetitive processes in healthcare",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 13,
+      "team_size": 28,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -4485,8 +4485,8 @@
       "name": "Arcimus",
       "slug": "arcimus",
       "website": "https://www.arcimus.com/",
-      "description": "Arcimus helps you reach the exact local businesses you need. \r\n",
-      "one_liner": "Reach the right local businesses",
+      "description": "We track thousands of signals across the world to find people who need your product, just tell us who your perfect customer is and we'll get you a list. (Don't limit yourself to basic filters like revenue or size)\r\n\r\nSome things we can track: \r\n- Brand new online degree programs\r\n- Law firms expanding\r\n- Companies hiring their first sales reps\r\n\r\nreally anything, try us \ud83d\ude0e",
+      "one_liner": "Find who needs your product",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -4502,10 +4502,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Fintech",
         "Generative AI",
         "B2B",
-        "Insurance"
+        "Sales"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5439,11 +5438,11 @@
       "name": "Atla",
       "slug": "atla",
       "website": "https://www.atla-ai.com/",
-      "description": "Atla is the eval and improvement platform for AI agents. \r\n\r\nWe help developers cut time spent on manually reviewing traces. Atla\u2019s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes\u2014so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe\u2019re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 40,000+ times.",
-      "one_liner": "Find and fix AI agent failures",
+      "description": "Find and fix your agent\u2019s most critical failures in hours, not days.\r\n\r\nAtla helps developers cut time spent on manually reviewing traces. Atla\u2019s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes\u2014so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe\u2019re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 60,000+ times.",
+      "one_liner": "The improvement engine for AI agents",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -6080,7 +6079,7 @@
       "status": "Active",
       "team_size": 7,
       "industry": "B2B",
-      "subindustry": "Industrials -> Climate",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -7351,5 +7350,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-04T12:01:20.939159"
+  "fetched_at": "2025-09-04T18:01:08.478381"
 }
