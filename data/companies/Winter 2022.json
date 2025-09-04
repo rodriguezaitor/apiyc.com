@@ -10846,8 +10846,8 @@
       "name": "Sieve",
       "slug": "sieve",
       "website": "https://sievedata.com/",
-      "description": "Video has become a core component to some of the most consequential industries in the world including social, communications, art, robotics, and VR.\r\n\r\nBut the processing of it, especially with AI, is incredibly complex due to the number of use cases that exist and the types of systems that need to be built for each one of them.\r\n\r\nSieve's mission is to supply the infrastructure needed to understand, manipulate, and generate video, so we can accelerate all future applications of it.",
-      "one_liner": "Video AI for Developers",
+      "description": "Sieve is the only AI research lab exclusively focused on video data.\r\n\r\nVideo already makes up 80% of internet traffic and has become the dominant medium driving creativity, communication, gaming, AR/VR, and robotics. Unlocking the ability to truly model video is the key to breakthroughs across all of these domains but progress has been bottlenecked by one thing: high-quality training data. That\u2019s where Sieve comes in.\r\n\r\nWe bring together exabyte-scale video infrastructure, novel video understanding techniques, and dozens of diverse data sources to create datasets that push the frontier of video modeling. This unique combination allows us to deliver data with unmatched precision, quality, and speed which has earned the trust of frontier AI labs, Fortune 100 companies, and fast-growing generative AI startups.",
+      "one_liner": "Video datasets for frontier AI",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 12,
@@ -10863,9 +10863,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Video",
-        "AI"
+        "Data Labeling",
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13822,5 +13824,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-09-04T00:02:33.790112"
+  "fetched_at": "2025-09-04T06:01:04.603976"
 }

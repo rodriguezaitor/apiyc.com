@@ -611,39 +611,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png"
     },
     {
-      "id": 30779,
-      "name": "Anytrace",
-      "slug": "anytrace",
-      "website": "http://anytrace.ai/",
-      "description": "Anytrace is the first AI agent that automates the end-to-end workflow of a support engineer. Our agent resolves technical support tickets by interacting with customers, investigating root causes, and tracking issues to completion.\r\n\r\nSam (CEO) was previously the co-founder and CEO of a DevOps platform that raised\u202f$2M. Taira (CTO) was the youngest SDE 2 at AWS Sagemaker Inference. We have over five years of experience handling technical support for customers ranging from small startups to Fortune 500 companies like Salesforce.\r\n\r\nWe came into YC with just an idea, and we already have our first pilot customer paying $5 per support ticket.\r\n\r\nEssentially every B2B software company devotes engineering time to support, and our goal is to automate this away.",
-      "one_liner": "The AI support engineering agent",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "Workflow Automation",
-        "Customer Support"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1753758221.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc19730e88c6efd02f5d493a5a665dad188e2188.png"
-    },
-    {
       "id": 30778,
       "name": "Perspectives Health",
       "slug": "perspectives-health",
@@ -3610,7 +3577,7 @@
       "name": "Stockline",
       "slug": "stockline",
       "website": "https://stockline.ai",
-      "description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
+      "description": "Stockline is an AI-native ERP for food wholesalers. \r\nWe're starting by automating order entry with AI and in the process replacing clunky ERPs from the 90s. \r\n\r\nDuring the S25 batch, we went zero to $234k ARR. The market is a $25b opportunity. \r\n\r\nBefore food reaches your plate, there\u2019s a $990b+ industry still relying on humans doing manual retyping and copy paste into outdated ERPs. \r\nYou can think of us AI teammates that replaces both people doing the manual work and the software itself. \r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. Mariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
       "one_liner": "AI-native ERP for food wholesalers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3626,11 +3593,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "SaaS",
         "B2B",
-        "Food",
-        "Food Tech",
-        "Enterprise Software"
+        "Food & Beverage",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4339,7 +4305,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark is building AI agents to solve billing issues for subscription companies. Vijit and Jack previously built the usage-based billing product at Stripe. We are working with four customers including Midjourney & Character AI. \r\n\r\nToday, the customer billing experience for subscription companies is broken. Customers must contact support for simple issues like requesting refunds and downgrading plans. This leads to high billing support volume, low customer satisfaction, and churn. Lark builds AI agents that resolve these issues instantly, with deep billing integrations that factor in usage data, account for prorations and credits, and have strong guardrails to ensure safe actions.\r\n\r\nOver time, we will evolve this into a customer-first billing platform with AI automation built in from day one.",
+      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. We previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Figma for this reason. Frustratingly, these companies had to build their billing systems in-house.\r\n\r\nLark provides companies a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience.\r\n\r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. We\u2019re live with 4 customers including Midjourney and CharacterAI.",
       "one_liner": "AI Native Billing Platform",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4642,7 +4608,7 @@
       "slug": "ghostship",
       "website": "https://tryghostship.dev/",
       "description": "Imagine a QA team of 5,000 testers available 24/7 on every new feature you ship. That's Ghostship. \r\n\r\nOur AI agents will crawl through your product and interact with it like users would to find the bugs (especially edge cases) that lead to churn\u2014all at a fraction of the cost.",
-      "one_liner": "AI agents that find churn before it happens",
+      "one_liner": "Solving retention with AI bug finding agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4658,11 +4624,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "DevOps",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5542,7 +5508,7 @@
       "slug": "autumn",
       "website": "https://useautumn.com",
       "description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
-      "one_liner": "Stripe for AI startups",
+      "one_liner": "Billing infrastructure for AI",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5606,5 +5572,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-04T00:02:37.156461"
+  "fetched_at": "2025-09-04T06:01:09.098923"
 }
