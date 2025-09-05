@@ -518,7 +518,7 @@
       "slug": "munify",
       "website": "https://munify.ai",
       "description": "Munify is the cross-border Neobank for the Middle East and its diaspora. Instantly open a USD account, get a virtual card, and send money home at the best rates \u2014 all from one app.",
-      "one_liner": "The Cross-Border Neobank for the Middle East and its Diaspora",
+      "one_liner": "The Cross-Border Neobank for the Middle East",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -568,10 +568,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Chat"
+        "Chat",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4293,9 +4293,9 @@
       "tags": [
         "Artificial Intelligence",
         "Fintech",
+        "Payments",
         "B2B",
-        "Subscriptions",
-        "Billing"
+        "Subscriptions"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4377,7 +4377,7 @@
       "slug": "contextfort",
       "website": "https://contextfort.ai/",
       "description": "ContextFort is bringing the power of AI to the three trillion dollar construction industry, starting with an AI co-pilot that reviews every revision of your architectural and structural drawings in minutes\u2014not weeks.\r\n\r\nOur Software:\r\n\u2022 Detects missing or conflicting dimensions across sheets\r\n\u2022 Highlights overlay mismatches between versions\r\n\u2022 Checks if an issue is already resolved in the latest set\r\n\u2022 Auto-drafts spec-compliant RFIs so you hit \u201csend,\u201d not \u201ctype\u201d\r\n\r\nContractors save 2-3 weeks per project, cut costly rework, and keep schedules on track.",
-      "one_liner": "Automating drawing reviews for construction contractors",
+      "one_liner": "Helping construction contractors find errors in blueprints",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4401,7 +4401,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753951898.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91581bcfa012c99e743448988de1cd919c97389.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bb8bde8646cf10a60dc7d32e6b9b4e39c4a7557.png"
     },
     {
       "id": 30625,
@@ -5541,5 +5541,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-05T12:01:22.581679"
+  "fetched_at": "2025-09-05T18:01:20.666467"
 }
