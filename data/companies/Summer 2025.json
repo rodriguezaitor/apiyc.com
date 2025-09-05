@@ -103,8 +103,8 @@
       "name": "Uplift AI",
       "slug": "uplift-ai",
       "website": "https://upliftai.org/",
-      "description": "We build speech understanding and speech generation models for regional languages, and make them available through easy to use APIs and SDKs.\r\n\r\nA billion people can't read any language. Additional, in most languages typing is really hard/slow. As a result, text-interfaces (apps and websites) haven't worked in emerging markets. Voice AI can fix this, and onboard 100s of millions of new users to the internet for the first time. \r\n\r\nBut current Voice Models suck... After the top 5 languages, the models are so bad you can't make any Voice product on top of them. We are fixing this by creating state of the art models for regional languages. \r\n\r\nWe are able to do this coz we created unique data gathering and labeling methods to solve for small languages. We already have SOTA models in multiple languages (like Balochi, Sindhi).\r\n\r\nWe are on a mission to uplift entire nations through better access to digital information and digital services. \r\n\r\nTeam:\r\nOur team has previously created Voice technology used by millions daily. We worked on Alexa and Siri; And have launched entire AWS services like AWS Bedrock Guardrails.\r\n \r\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.",
-      "one_liner": "Foundational Voice AI for underserved languages",
+      "description": "We build speech understanding and speech generation models for regional languages, and make them available through easy to use APIs and SDKs.\r\n\r\nA billion people can't read any language. Additionally, in most languages typing is really hard/slow. As a result, text-interfaces (apps and websites) haven't worked in emerging markets and most work have remained offline. This is causing economies billions of dollars in lost worker efficiency.\r\n\r\nVoice AI can fix this, and onboard 100s of millions of new users on to digital services -- for the first time. \r\n\r\nBut current Voice Models suck... After the top 5 languages, the models are so bad you can't make any Voice product on top of them. We are fixing this by creating state of the art models for regional languages. \r\n\r\nWe are able to do this coz we created unique data gathering and labeling methods to solve for small languages. We already have SOTA models in multiple languages (like Balochi, Sindhi).\r\n\r\nWe are on a mission to uplift entire nations by giving everyone access to digital information and digital services. \r\n\r\nTeam:\r\nOur team has previously created Voice technology used by millions daily. We worked on Alexa and Siri; And have launched entire AWS services like AWS Bedrock Guardrails.\r\n \r\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.",
+      "one_liner": "Foundational Voice AI for regional languages",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -134,7 +134,7 @@
       "name": "RealRoots",
       "slug": "realroots",
       "website": "http://www.therealroots.com",
-      "description": "This is where real friendships begin. Women speak with our AI coach for 10 minutes to map personality, preferences, and availability. We then host recurring, guided meetups with compatible local matches and keep her social life on track with planning, suggestions, and check-ins.",
+      "description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
       "one_liner": "RealRoots is the AI social app for women.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -151,10 +151,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "Consumer",
-        "Social Network"
+        "Social Network",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -372,7 +372,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
         "B2B",
         "Recruiting and Talent"
@@ -535,6 +535,7 @@
       "tags": [
         "Fintech",
         "Consumer",
+        "B2B",
         "Consumer Finance",
         "Neobank"
       ],
@@ -1222,7 +1223,7 @@
       "status": "Active",
       "team_size": 0,
       "industry": "Consumer",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "Consumer -> Consumer Electronics",
       "industries": [
         "Consumer",
         "Consumer Electronics"
@@ -1268,8 +1269,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-powered Drug Discovery",
-        "Artificial Intelligence",
-        "Biotech"
+        "Biotech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1854,7 +1855,7 @@
       "name": "Omnara",
       "slug": "omnara",
       "website": "https://omnara.com",
-      "description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\r\n\r\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, n8n workflows, or custom builds.",
+      "description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\r\n\r\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, Codex, n8n workflows, or custom builds.",
       "one_liner": "The command center for your AI agents",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2132,8 +2133,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2434,7 +2435,7 @@
       "slug": "nozomio",
       "website": "https://www.nozomio.com/",
       "description": "Nozomio is a product lab building engineers for the age of AI.\r\n\r\nAs coding agents become ubiquitous, the real bottleneck shifts from \u201cwrite code\u201d to \u201cknow which code and docs to feed them.\u201d Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.\r\n\r\nNozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. \r\n\r\ntry nia at trynia .ai <3 ",
-      "one_liner": "Engineers for AI era, starting with contextual layer for coding agents",
+      "one_liner": "Context augmentation for agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -4576,7 +4577,7 @@
       "slug": "ghostship",
       "website": "https://tryghostship.dev/",
       "description": "Imagine a QA team of 5,000 testers available 24/7 on every new feature you ship. That's Ghostship. \r\n\r\nOur AI agents will crawl through your product and interact with it like users would to find the bugs (especially edge cases) that lead to churn\u2014all at a fraction of the cost.",
-      "one_liner": "Solving retention with AI QA agents",
+      "one_liner": "AI Agents that Find Bugs in Your Product",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4592,11 +4593,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "DevOps",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5216,7 +5217,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "Consumer -> Virtual and Augmented Reality",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -5243,7 +5244,7 @@
       "slug": "synthetic-society",
       "website": "https://syntheticsociety.ai/",
       "description": "",
-      "one_liner": "Synthetic Agents to Simulate Real Users",
+      "one_liner": "Synthetic Users to Simulate Real Users",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5259,9 +5260,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5424,9 +5425,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5446,7 +5447,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -5540,5 +5541,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-05T00:02:45.096444"
+  "fetched_at": "2025-09-05T06:01:19.421712"
 }
