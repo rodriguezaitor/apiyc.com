@@ -1285,7 +1285,7 @@
       "slug": "sigmanticai",
       "website": "https://www.sigmanticai.com",
       "description": "SigmanticAI is building an AI-native hardware development assistant that automates the entire RTL design flow, from natural language to synthesizable HDL and testbenches, inside a seamless VSCode fork. Powered by fine-tuned Verilog LLMs, reinforcement learning, and real compiler feedback, SigmanticAI iteratively refines code until it compiles and passes synthesis, no matter how complex the design. It\u2019s like the Cursor for HDL design. \r\n\r\nIn addition to code generation, SigmanticAI can generate token-level annotations and onboarding documents to accelerate ramp-up for new engineers. With support for both cloud and on-prem deployment, it integrates with existing EDA tools to dramatically reduce debug time, improve collaboration, and accelerate hardware design across teams",
-      "one_liner": "Suite of AI Agents and Tools to Accelerate HDL Design",
+      "one_liner": "The Cursor for HDL - Delivering Silicon-Ready Chip Designs 10\u00d7 Faster",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1304,7 +1304,7 @@
         "Artificial Intelligence",
         "Hard Tech",
         "Hardware",
-        "Semiconductors",
+        "B2B",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1855,8 +1855,8 @@
       "name": "Omnara",
       "slug": "omnara",
       "website": "https://omnara.com",
-      "description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\r\n\r\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, Codex, n8n workflows, or custom builds.",
-      "one_liner": "The command center for your AI agents",
+      "description": "Omnara is the command center for AI agents. We enable developers to launch AI agents like Claude Code on their laptop and then seamlessly continue working on mobile, freeing engineers from being desk-bound. With a growing community of users, Omnara is building the essential infrastructure for the era of AI agents.\r\n",
+      "one_liner": "The Command Center for AI Agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1872,7 +1872,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4780,8 +4780,8 @@
       "name": "Blank Bio",
       "slug": "blank-bio",
       "website": "http://blank.bio/",
-      "description": "Blank Bio is building foundation models to power a computational toolkit for RNA therapeutics.\r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We\u2019re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we\u2019re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We\u2019ve spent decades applying machine learning to biology across academia (Ph.D.\u2019s at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
-      "one_liner": "Computational toolkit for RNA therapeutics ",
+      "description": "Blank Bio builds foundation models that understand RNA, the language of life. Our model powers applications across the entire R&D pipeline, from designing better drugs to running smarter clinical trials. \r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We\u2019re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we\u2019re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We\u2019ve spent decades applying machine learning to biology across academia (PhDs at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
+      "one_liner": "OpenAI for drug discovery",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -5342,7 +5342,7 @@
       "name": "Serafis",
       "slug": "serafis",
       "website": "https://serafis.ai",
-      "description": "Serafis is a search and discovery engine for long-form content. Our AI knowledge graph turns under-indexed data into structured market intelligence \u2014 starting with podcasts.\r\n\r\nWe help investors and operators:\r\n\u2022 Accelerate research\r\n\u2022 Surface new insights\r\n\u2022 Distill signal from noise\r\n\r\nWe are already live with five organizations managing over $40B in capital. Our library features >10,000 curated transcripts featuring top investors, Series A+ founders, and public company CEOs \u2014 searchable by person, company or theme.",
+      "description": "Serafis is a search and discovery engine for long-form content. Our AI knowledge graph turns under-indexed data into structured market intelligence \u2014 starting with podcasts.\r\n\r\nWe help investors and operators:\r\n\u2022 Accelerate research\r\n\u2022 Surface new insights\r\n\u2022 Distill signal from noise\r\n\r\nWe are already live with 12 organizations managing over $70B in capital. Our library features >10,000 curated transcripts featuring top investors, Series A+ founders, and public company CEOs \u2014 searchable by person, company or theme.",
       "one_liner": "The AI knowledge graph for institutional investors",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5358,10 +5358,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Finance",
-        "Search",
-        "AI"
+        "Search"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5541,5 +5541,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-05T06:01:19.421712"
+  "fetched_at": "2025-09-05T12:01:22.581679"
 }

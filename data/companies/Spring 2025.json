@@ -2751,11 +2751,11 @@
     },
     {
       "id": 30454,
-      "name": "Operative",
-      "slug": "operative",
-      "website": "https://operative.sh/",
-      "description": "Operative uses AI to help organizations generate & modify internal frontend applications that connect to their existing backend APIs. You can think of it like Retool, except instead of external integrations, we connect into an organization\u2019s internal backends, and we use AI to generate the frontend code for the web applications users want to create.",
-      "one_liner": "AI Infrastructure for autonomous software creation and interaction",
+      "name": "Refresh",
+      "slug": "refresh",
+      "website": "https://www.refresh.dev",
+      "description": "Building browser agent based tools to help vibe coders improve their coding workflows",
+      "one_liner": "Browser agent based testing in vibe coding workflows",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2782,7 +2782,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745867856.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70e1fa3203528b1f0653e9d2332c4025d3d2c745.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png"
     },
     {
       "id": 30453,
@@ -4574,5 +4574,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-05T06:01:20.395759"
+  "fetched_at": "2025-09-05T12:01:23.580254"
 }
