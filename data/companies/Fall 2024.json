@@ -905,8 +905,8 @@
       "name": "Innate",
       "slug": "innate",
       "website": "https://innate.bot",
-      "description": "We make personal robots that do any task you want at home with navigation, interaction and manipulation.\r\n\r\nOur platforms are made for developers and hobbyists, and use a fully integrated hardware, control and ai stack, made as simple and open as possible, and provide value on day 1.",
-      "one_liner": "Personal Robots for the AI age",
+      "description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
+      "one_liner": "Personal AI Robots",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 3,
@@ -922,16 +922,16 @@
       ],
       "locations": "Palo Alto, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Robotics",
-        "AI"
+        "Robotics"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730365227.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png"
     },
     {
       "id": 30096,
@@ -3059,5 +3059,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-04T18:01:13.396277"
+  "fetched_at": "2025-09-05T00:02:47.841088"
 }

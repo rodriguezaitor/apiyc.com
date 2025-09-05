@@ -6041,7 +6041,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705177845.0,
@@ -6292,8 +6292,7 @@
       "industry": "Consumer",
       "subindustry": "Consumer -> Gaming",
       "industries": [
-        "Consumer",
-        "Gaming"
+        "Consumer"
       ],
       "regions": [
         "Unspecified"
@@ -6305,7 +6304,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705255239.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bff91e056c2671056dab8785b2f94a03b0d5adb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ed66cf02e4f3325860639cb82fd47ea3c68dc0.png"
     },
     {
       "id": 29273,
@@ -7010,7 +7009,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706473568.0,
@@ -8236,5 +8235,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-04T18:01:07.339916"
+  "fetched_at": "2025-09-05T00:02:43.163523"
 }
