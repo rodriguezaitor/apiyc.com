@@ -1,6 +1,38 @@
 {
   "data": [
     {
+      "id": 30996,
+      "name": "Axial Composites Industries",
+      "slug": "axial-composites-industries",
+      "website": "https://www.axialcomposite.com",
+      "description": "Composites manufacturing is expensive and slow. \r\n\r\nWe are building a non-planar manufacturing cell that can produce thermoplastic composites by continuous fiber injection. \r\n\r\nThis not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for manufacturing composites. Our method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. \r\n\r\nWe are commercializing a new approach to composite manufacturing that aims to be the backbone of the next aerospace age.",
+      "one_liner": "manufacturing cells for automating composites production",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Hard Tech",
+        "Manufacturing",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1757132336.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png"
+    },
+    {
       "id": 30940,
       "name": "Everest",
       "slug": "everest",
@@ -34,5 +66,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png"
     }
   ],
-  "fetched_at": "2025-09-06T00:02:48.468223"
+  "fetched_at": "2025-09-06T06:01:14.932115"
 }

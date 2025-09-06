@@ -3593,11 +3593,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Messaging",
         "Sales",
         "Customer Service",
-        "Customer Support"
+        "Customer Support",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5669,8 +5669,8 @@
     },
     {
       "id": 29300,
-      "name": "Trellis",
-      "slug": "trellis",
+      "name": "Trellis AI",
+      "slug": "trellis-ai",
       "website": "https://runtrellis.com/",
       "description": "Trellis helps healthcare providers treat more patients, faster\u2014while eliminating pre-service paperwork. We automate document intake, prior authorizations, and appeals at scale to streamline operations and accelerate care.\r\n\r\nOur AI agent is trained on millions of clinical data points and converts messy, unstructured documents into clean, structured data directly in your EHR.\r\n\r\nWith Trellis, leading healthcare providers and pharmaceutical companies were able to:\r\n\r\n1. Reduce time to treatment by over 90%\r\n\r\n2. Improve prior authorization approval and reimbursement rates\r\n\r\n3. Leverage structured data to enhance drug program performance and clinical decision-making\r\n\r\nAdministrative costs account for over 20% of U.S. healthcare spending\u2014delaying care, draining revenue, and driving staff burnout while having less visibility into patient care than ever before. We built Trellis to tackle this head on.",
       "one_liner": "AI for streamlining healthcare paperwork",
@@ -5687,10 +5687,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Data Engineering",
         "Infrastructure",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -8235,5 +8235,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-06T00:02:37.663744"
+  "fetched_at": "2025-09-06T06:01:06.447669"
 }

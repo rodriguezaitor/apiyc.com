@@ -52,9 +52,9 @@
       ],
       "locations": "Santa Clara, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Speech Recognition",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -103,7 +103,7 @@
       "name": "Uplift AI",
       "slug": "uplift-ai",
       "website": "https://upliftai.org/",
-      "description": "We build speech understanding and speech generation models for regional languages, and make them available through easy to use APIs and SDKs.\r\n\r\nA billion people can't read any language. Additionally, in most languages typing is really hard/slow. As a result, text-interfaces (apps and websites) haven't worked in emerging markets and most work have remained offline. This is causing economies billions of dollars in lost worker efficiency.\r\n\r\nVoice AI can fix this, and onboard 100s of millions of new users on to digital services -- for the first time. \r\n\r\nBut current Voice Models suck... After the top 5 languages, the models are so bad you can't make any Voice product on top of them. We are fixing this by creating state of the art models for regional languages. \r\n\r\nWe are able to do this coz we created unique data gathering and labeling methods to solve for small languages. We already have SOTA models in multiple languages (like Balochi, Sindhi).\r\n\r\nWe are on a mission to uplift entire nations by giving everyone access to digital information and digital services. \r\n\r\nTeam:\r\nOur team has previously created Voice technology used by millions daily. We worked on Alexa and Siri; And have launched entire AWS services like AWS Bedrock Guardrails.\r\n \r\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.",
+      "description": "We build speech understanding and speech generation models for regional languages, and make them available through easy to use APIs and SDKs.\r\n\r\n60% of the world *only* speaks their regional language. They generate 42 trillion dollars in GDP.  Yet current Voice Models in these languages suck... After the top 5 languages, the models are so bad you can't make any Voice product on top of them. \r\n\r\nWe are fixing this by creating state-of-the-art models for regional languages -- enabling developers to scale their Voice products to every part of the world with consistent high quality experience.\r\n\r\n1,000s of developers already use our APIs; including companies like Khan Academy.\r\n\r\nTeam:\r\nOur team has previously created Voice technology used by millions daily. We worked on Alexa and Siri; and have launched entire AWS services like AWS Bedrock Guardrails.\r\n\r\nMotivation:\r\nText-interfaces (apps and websites) haven't worked in emerging markets and most work has remained offline. This is causing economies billions of dollars in lost worker efficiency.\r\nPeople don't adopt text-interfaces for two reasons: 1) a billion people can't read any language. 2) typing is really hard/slow on phones -- which is the only device many people have. \r\nVoice AI can fix this, and onboard 100s of millions of new users on to digital services -- for the first time. \r\nThis can increase entire GDPs by making the workforce more efficient.\r\n\r\nHow we are different:\r\nWe have developed unique data gathering and labeling methods to solve for small languages. \r\nWe own our technology stack end-to-end. We gather our own data, then train and deploy our own models. This enables us to optimize the entire stack continuously and hence move faster...\r\nWe already have SOTA models in multiple languages (like Balochi, Sindhi).",
       "one_liner": "Foundational Voice Models for regional languages",
       "batch": "Summer 2025",
       "status": "Active",
@@ -169,7 +169,7 @@
       "slug": "luminal",
       "website": "https://luminalai.com",
       "description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
-      "one_liner": "Simple ML framework and cloud for generating fast GPU code.",
+      "one_liner": "Making AI run fast on any hardware.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -332,7 +332,7 @@
       "slug": "veritus-agent",
       "website": "https://www.veritusagent.ai",
       "description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
-      "one_liner": "AI agents for loan servicing and collections",
+      "one_liner": "AI agents for the consumer lending industry",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 7,
@@ -350,9 +350,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Lending"
+        "Lending",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -412,7 +412,9 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -568,10 +570,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Chat",
-        "AI"
+        "Chat"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -687,7 +689,7 @@
       "slug": "magnetic",
       "website": "https://www.magnetictax.com",
       "description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nWe launched this year in the middle of tax season and quickly processed hundreds of returns, earning thousands in ARR, and since tax season we've been growing customers by >30% month-over-month. We've completely automated over 25% of the return process so far and developed a proprietary vision model that beats incumbent scanning technology by almost 2x on accuracy - jumping from 50% field-level accuracy to 89%, approaching the quality of their expensive human-verified service at 92%.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
-      "one_liner": "Computer-use agents for CPA firms to automate taxes",
+      "one_liner": "AI Tax Preparer for CPA firms",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -748,7 +750,7 @@
       "name": "Clodo",
       "slug": "clodo",
       "website": "https://clodo.ai",
-      "description": "Clodo is the AI Real Estate Agent.\r\n\r\nClodo helps agents find and close more leads. Finding and following up with motivated leads are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and finding more deals.",
+      "description": "Clodo is the AI Real Estate Agent.\r\n\r\nClodo helps find and close more leads. Finding and following up with motivated homebuyers and sellers are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and finding more deals.",
       "one_liner": "The AI Real Estate Agent",
       "batch": "Summer 2025",
       "status": "Active",
@@ -775,7 +777,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754475903.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd11a4f37675b9e0d48069394f06602cb460984f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png"
     },
     {
       "id": 30772,
@@ -783,7 +785,7 @@
       "slug": "stagewise",
       "website": "https://stagewise.io",
       "description": "stagewise builds an open-source frontend coding agent for real codebases. We enable backend devs, designers and product managers to build pretty and functional web apps in a simple and visually guided manner - no matter the used tech stack.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like \u201cmake it green and put it in the top right corner\u201d, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With Glenn's background in building dev tools for enterpries (Rheinmetall, Miele), as well as Julians experience in building web apps used by thousands (saasmetrix, strukto.io), we have the unique blend of experience and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we\u2019re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to replace frontend devs completely, by gradually enabling both the backend devs, but also less technical designers and product managers to create well-designed applications. We start with developers who lack design experience, but our ultimate goal is to change how products are built.",
-      "one_liner": "Your new AI frontend developer",
+      "one_liner": "The frontend coding agent for real codebases.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -799,10 +801,10 @@
       ],
       "locations": "Bielefeld, NRW, Germany",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -932,9 +934,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "B2B",
         "Automation",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1038,10 +1040,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "E-commerce",
-        "Creator Economy",
-        "AI"
+        "Creator Economy"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1117,7 +1119,7 @@
       "name": "Nottelabs",
       "slug": "nottelabs",
       "website": "https://www.notte.cc/",
-      "description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
+      "description": "Nottelabs offers a platform to build and deploy enterprise-grade browser agents. We help companies cut costs and save time by automating repetitive tasks. Unlike others, we provide agents, tools, and infrastructure through a single API, making us the fastest path to reliable web AI agents in production.",
       "one_liner": "Reliable Web Agents for Enterprise",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1133,9 +1135,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1184,8 +1186,8 @@
       "name": "Locata",
       "slug": "locata",
       "website": "https://www.locatahealth.com/",
-      "description": "Locata is an AI referral management platform for Health Centers. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don\u2019t get the care they need. These factors point to a glaring gap in the system\u2014where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta\u2019s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and are implementing our system to automate their entire referral workflow.",
-      "one_liner": "AI referral management for Health Centers",
+      "description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don\u2019t get the care they need. These factors point to a glaring gap in the system\u2014where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta\u2019s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
+      "one_liner": "AI Referral Automation for Primary Care Clinics",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1211,7 +1213,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753486430.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f90ca5cca8a2d750b52199dcc520e1fbffdbb6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/593825bbef10933c7d79a408e033a3d835206c81.png"
     },
     {
       "id": 30748,
@@ -1354,7 +1356,7 @@
       "slug": "sira",
       "website": "https://sira.team",
       "description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR \u2014 purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you \u2014 like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters \u2014 while we take care of the team.",
-      "one_liner": "AI HR manager for hourly teams",
+      "one_liner": "AI Native Rippling for Deskless Workers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 0,
@@ -1370,9 +1372,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "HR Tech",
-        "AI"
+        "HR Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1570,11 +1572,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Payments",
         "Marketing",
-        "CRM",
-        "AI"
+        "CRM"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1588,8 +1590,8 @@
       "name": "Humoniq",
       "slug": "humoniq",
       "website": "https://humoniq.ai",
-      "description": "Humoniq is building the first full-stack AI BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.\r\n\r\nOur team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.",
-      "one_liner": "Full-stack AI BPO for travel & transport",
+      "description": "Humoniq is building the first AI-Native BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.\r\n\r\nOur team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.",
+      "one_liner": "AI-Native BPO for travel & transport",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1621,7 +1623,7 @@
       "slug": "palace",
       "website": "https://www.palace.so",
       "description": "Palace (palace.so) is an AI board observer that private market investors use to monitor+report on portfolio companies. We save investment teams 100's of hours every quarter on manual data entry and provide real-time analytics across their portfolio.",
-      "one_liner": "Investment monitoring & reporting for private market investors",
+      "one_liner": "Strategic intelligence for PE funds and PE-backed companies",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1637,10 +1639,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1688,8 +1690,8 @@
       "name": "Floot",
       "slug": "floot",
       "website": "https://floot.com",
-      "description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We\u2019re taking a new approach by building everything from the ground up for AI. Since June, 3000+ users have created over 4000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don\u2019t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
-      "one_liner": "The easiest and most powerful way to build apps with AI.",
+      "description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We\u2019re taking a new approach by building everything from the ground up for AI. 14,000 users have created over 16,000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don\u2019t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+      "one_liner": "Vibecoding platform for non-coders who build serious apps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1705,11 +1707,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "No-code",
-        "Web Development",
-        "AI"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1905,9 +1907,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Education",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1970,11 +1972,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Productivity",
         "Calendar",
-        "Email",
-        "AI"
+        "Email"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2124,7 +2126,7 @@
       "slug": "hyprnote",
       "website": "https://hyprnote.com",
       "description": "Hyprnote is an open-source AI notetaker for enterprises. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
-      "one_liner": "Open-source AI notetaker for enterprises",
+      "one_liner": "Open-source AI notetaker for the enterprise",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -2155,7 +2157,7 @@
       "name": "mcp-use",
       "slug": "mcp-use",
       "website": "https://mcp-use.com",
-      "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 100,000 downloads and 4,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+      "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
       "one_liner": "Open-source dev tools and infrastructure for MCP.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2257,7 +2259,7 @@
       "slug": "phases",
       "website": "https://phases.ai",
       "description": "We\u2019re building the first full-stack AI agent company to automate clinical trials for pharma companies.",
-      "one_liner": "Automating clinical trials with agents, starting in recruitment",
+      "one_liner": "Automating clinical trial operations, starting with voice AI in\u2026",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2273,8 +2275,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Healthcare IT",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -2347,7 +2349,7 @@
       "name": "Riff",
       "slug": "riff",
       "website": "https://goriff.com/",
-      "description": "Riff is a super powered music editor where experienced producers can be dramatically more productive and hobbyists can delight in music without needing technical chops.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
+      "description": "Riff is a music editor with superpowers \u2014 helping artists work faster and making it easier than ever for hobbyists to break into music.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
       "one_liner": "Cursor for music production",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2363,9 +2365,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Entertainment",
-        "Music"
+        "Music",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2477,7 +2479,7 @@
       "slug": "vibeflow",
       "website": "https://vibeflow.ai/",
       "description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
-      "one_liner": "Prompt to full stack app with visual workflows",
+      "one_liner": "Shopify for saas",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 0,
@@ -2508,7 +2510,7 @@
       "name": "Comena",
       "slug": "comena",
       "website": "https://comena.ai",
-      "description": "We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling.",
+      "description": "We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales and customer service teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling.",
       "one_liner": "AI agents for distributors and manufacturers to automate order entry.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2520,15 +2522,16 @@
         "Supply Chain and Logistics"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Sales",
-        "Supply Chain",
-        "AI"
+        "Supply Chain"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2577,7 +2580,7 @@
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
       "description": "GhostEye automates red team testing with AI agents that conduct social engineering attacks and vulnerability exploitation, replacing expensive quarterly pen tests with continuous security validation.",
-      "one_liner": "The Offensive Security Team that never sleeps",
+      "one_liner": "The Offensive Security Team that never sleeps.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2642,7 +2645,7 @@
       "slug": "epicenter",
       "website": "https://epicenter.so/",
       "description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. \u2764\ufe0f\r\n\r\nhttps://github.com/epicenter-so/epicenter\r\n",
-      "one_liner": "A database for your mind, built on plain text.",
+      "one_liner": "ChatGPT's memory feature in an open, portable format",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -2708,7 +2711,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "",
+      "description": "Embedder is an AI coding agent that can write and test firmware on real hardware. General-purpose coding assistants are blind to the physical constraints of your target system. They don't read datasheets, respect timing requirements, or interact with test equipment, resulting in plausible-looking code that is functionally useless on a real device.\r\n\r\nEmbedder grounds its intelligence in actual hardware. It starts by building an accurate model of your system by indexing datasheets, reference manuals, and errata. It then closes the loop by connecting directly to your physical tools \u2014 interfacing with debuggers, serial ports, logic analyzers and oscilloscopes \u2014 to autonomously test and validate the firmware it generates in the real world.",
       "one_liner": "Coding Agent for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2758,10 +2761,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Automation",
         "Operations",
+        "AI",
         "Automotive"
       ],
       "stage": "Early",
@@ -2873,19 +2876,18 @@
     },
     {
       "id": 30686,
-      "name": "Preempt",
-      "slug": "preempt",
-      "website": "https://www.preempt.me",
-      "description": "We're building www.TheInterface.com, a virtual world for AI.  \r\n\r\nWe believe world experience data is the future of AI, and collecting this data from the real world is time-consuming and limited. So we\u2019re building a virtual world\u2014a place for humans to prototype and game with AI.",
-      "one_liner": "An applied simulations lab building The Interface",
+      "name": "The Interface",
+      "slug": "the-interface",
+      "website": "https://www.theinterface.com",
+      "description": "The Interface is a platform for AI-native media. It enables anyone to create, interact, and share on the fly \u2014 from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
+      "one_liner": "Building the foundations of AI-native media",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
       "subindustry": "B2B",
       "industries": [
-        "Consumer",
-        "Gaming"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -2893,23 +2895,24 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Cloud Gaming",
+        "Artificial Intelligence",
+        "Entertainment",
         "Gaming",
-        "AI"
+        "Media"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754968088.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb52c4b7c00886d51f41b415a4648a3dc5f1835c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/810308579f6f68ad3885b631328af1d0668015af.png"
     },
     {
       "id": 30685,
       "name": "IronLedger.ai",
       "slug": "ironledger-ai",
       "website": "https://ironledger.ai",
-      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate 100s of hours of expense work for 1000s of multifamily units every month. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
+      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. Since launching 4 weeks ago, we eliminate more than $70K of accounting costs annually for almost 10K multifamily units. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
       "one_liner": "AI agents for property accounting",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3016,7 +3019,7 @@
       "slug": "parachute",
       "website": "https://parachute-ai.com",
       "description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
-      "one_liner": "Evaluate, Deploy, and Monitor Clinical AI",
+      "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3032,11 +3035,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3084,7 +3087,7 @@
       "slug": "kalinda",
       "website": "https://www.kalinda.ai/",
       "description": "Kalinda helps class action law firms qualify potential cases in minutes with AI.\r\n\r\nThe nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others.\r\n\r\nKalinda extracts, summarizes, and aggregates data from these records for attorneys with AI.\r\n\r\nWhen scaled across an entire litigation, Kalinda works tirelessly and in parallel\u2014turning a process that once took months into just a few hours. \r\n\r\nKalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume.\r\n\r\nTo date, we\u2019ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S!",
-      "one_liner": "Deep research for class action lawsuits",
+      "one_liner": "Deep research for class action law firms",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3100,11 +3103,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Legal",
-        "LegalTech"
+        "LegalTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3186,7 +3189,7 @@
       "slug": "nexa-labs",
       "website": "https://nexa.farm/",
       "description": "Nexa is developing the solution for cattle monitoring, leveraging implantable microchips that collect more comprehensive biometrics than anything else on the market. Our accompanying AI-driven animal health engine empowers farmers with early disease detection, reproductive insights, GPS tracking, and more. \r\n\r\nWe're saving farmers time and money while collecting the world's largest cattle health dataset. We believe that cattle farming should be a science, not an art - this will secure the world's food supply and increase economic output that billions of people depend on.",
-      "one_liner": "Implantable microchips for cattle monitoring",
+      "one_liner": "Implantable microchips and AI for cattle monitoring",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -3363,10 +3366,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3396,8 +3399,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Health Tech"
+        "Health Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3516,7 +3519,7 @@
       "slug": "deepaware-ai",
       "website": "https://deepawareai.com/",
       "description": "DeepAware builds an AI-driven automation system for GPU-intensive data centers. Our reinforcement-learning scheduler, real-time market integration, and unified dashboard slice energy waste by up to 30%. Coming soon: autonomous \u201crobot-hand\u201d inspections and maintenance to enable 24/7 operations with minimal staff.\r\n\r\nMore info: https://deepawareai.com/\r\nJobs/Internship: https://www.deepawareai.com/careers",
-      "one_liner": "Make AI data centers more efficient.",
+      "one_liner": "Help data centers get grid access 18 months faster with 100M+ revenue",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3805,10 +3808,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
         "DevSecOps",
-        "Security",
-        "AI"
+        "Security"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3918,7 +3921,7 @@
       "name": "Cyberdesk",
       "slug": "cyberdesk",
       "website": "https://www.cyberdesk.io",
-      "description": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. \r\n\r\nFor example, one of our customers is building an AI agent for hospital patient intake, and they\u2019re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. \r\n\r\nWe launched mid July and we\u2019ve closed 174k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nWe\u2019ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.\r\n\r\nMahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. \r\n\r\nAlan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app\r\n\r\nComputer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this.\r\n\r\nWe\u2019d love to talk with you for a demo!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+      "description": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. \r\n\r\nFor example, one of our customers is building an AI agent for hospital patient intake, and they\u2019re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. \r\n\r\nWe launched mid July and we\u2019ve closed 176k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nWe\u2019ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.\r\n\r\nMahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. \r\n\r\nAlan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app\r\n\r\nComputer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this.\r\n\r\nWe\u2019d love to talk with you for a demo!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
       "one_liner": "Self learning computer use agent for developers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3946,7 +3949,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749659433.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b279da9d82ec2f487355a5f801f9486c6679e41d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6deea0aa4e96211ac35f75ade0705df19758a8e.png"
     },
     {
       "id": 30646,
@@ -3989,7 +3992,7 @@
       "slug": "panels",
       "website": "https://www.usepanels.com/",
       "description": "Panels is an audio data platform that delivers large-scale, richly labeled speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
-      "one_liner": "Voice data that makes machines sound human",
+      "one_liner": "Audio Data for AI Labs",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4218,8 +4221,8 @@
       "name": "EffiGov",
       "slug": "effigov",
       "website": "https://effi-gov.com",
-      "description": "EffiGov automates the 100k+ administrative calls received by every municipality in America, from pothole reports to records requests. We use voice AI to provide a 24/7 smart assistant that has full context on local policies and procedures and integrates with legacy government CRMs.",
-      "one_liner": "The AI Call Center for Local Governments",
+      "description": "EffiGov builds AI employees for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
+      "one_liner": "AI Employees for Local Governments",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4235,7 +4238,6 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "SaaS",
-        "GovTech",
         "AI"
       ],
       "stage": "Early",
@@ -4299,11 +4301,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Subscriptions",
-        "AI"
+        "Subscriptions"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4417,7 +4419,7 @@
       "slug": "zeroeval",
       "website": "https://zeroeval.com",
       "description": "Our mission is to build self-improving AI agents.\r\n\r\nWe're here to close the last mile reliability gap. \r\n\r\nThrough calibrated llm judges and automatic evaluations, we help companies optimize their agents 10x faster than doing manual experimentation.",
-      "one_liner": "Automatic optimization for AI agents",
+      "one_liner": "Auto-optimizer for AI agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4433,10 +4435,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4483,7 +4485,7 @@
       "slug": "pharmie-ai",
       "website": "https://www.pharmie.app/",
       "description": "Pharmie is an AI assistant for pharmacies. It can pick up calls, process prescriptions, handle insurance follow-ups, and even help upsell specific drugs and services. Pharmacies can get 50+ phone calls a day, and missing phone calls means lost revenue from filling prescriptions.\r\n\r\nPharmacy workflows are complex and custom to each pharmacy's needs. Generic tools are not enough, which is why AI agents can handle tasks end-to-end that previously could not be automated. We are constantly evolving Pharmie to become a suite of agents that supercharge your pharmacy.\r\n\r\nIn the future, pharmacies will evolve into patient care centers, bridging the gaps in access caused by today\u2019s overburdened healthcare system. Successful pharmacies will use AI to optimize their operations, resulting in a higher quality patient experience traditional pharmacies cannot match.",
-      "one_liner": "Your AI pharmacy technician",
+      "one_liner": "The first AI pharmacy technician",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4632,7 +4634,9 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -4690,7 +4694,7 @@
       "slug": "async",
       "website": "https://www.async.build/",
       "description": "Async is a platform to manage a team of coding agents from anywhere.\r\nIt lets you issue tasks, then handles coding and testing in the background. Review results on mobile or desktop, preview changes in-app, run tasks in parallel, and move faster than ever before.\r\n\r\nOur mission is to do the work that you don't want to: bug fixes, UI tweaks, papercuts, and KTLO.\r\nDo what's important - delegate the rest to Async.",
-      "one_liner": "A team of coding agents in your pocket",
+      "one_liner": "AI-native Linear + GitHub",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4705,9 +4709,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4789,7 +4793,7 @@
       "slug": "blank-bio",
       "website": "http://blank.bio/",
       "description": "Blank Bio builds foundation models that understand RNA, the language of life. Our model powers applications across the entire R&D pipeline, from designing better drugs to running smarter clinical trials. \r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We\u2019re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we\u2019re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We\u2019ve spent decades applying machine learning to biology across academia (PhDs at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
-      "one_liner": "OpenAI for drug discovery",
+      "one_liner": "RNA-based AI for better drugs and smarter clinical trials.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -4855,7 +4859,7 @@
       "name": "AgentMail",
       "slug": "agentmail",
       "website": "https://agentmail.to",
-      "description": "AgentMail is an API email service provider built for AI agents. We give agents their own email inboxes, like Gmail does for humans.",
+      "description": "AgentMail is an API email service provider for AI agents. Like Gmail does for humans, we give agents their own email inboxes.",
       "one_liner": "API email service provider for AI Agents",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4985,7 +4989,7 @@
       "name": "The Prompting Company",
       "slug": "the-prompting-company",
       "website": "https://www.promptingcompany.com",
-      "description": "The problem:\r\nPeople are no longer searching on Google. They\u2019re ASKING AI. If your product doesn\u2019t appear in AI answers, you\u2019re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page:We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report \u2192 promptingcompany.com",
+      "description": "The problem:\r\nPeople are no longer searching on Google. They\u2019re ASKING AI. If your product doesn\u2019t appear in AI answers, you\u2019re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page: We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report \u2192 promptingcompany.com",
       "one_liner": "We help products get mentioned in ChatGPT.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5002,11 +5006,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Marketing",
-        "SEO"
+        "SEO",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5101,9 +5105,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5201,8 +5205,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Education"
+        "Education",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5314,7 +5318,7 @@
       "name": "Nixo",
       "slug": "nixo",
       "website": "https://withnixo.com/",
-      "description": "Most orgs think custom implementations are slow because each one is too unique. In reality, FDEs lose days chasing customers for details and redoing overlapping work. With Nixo, you can scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across accounts.",
+      "description": "Accelerate your FDE team with Nixo. Scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across customers.",
       "one_liner": "The first ops platform for forward deployed engineers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5430,9 +5434,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5515,7 +5519,7 @@
       "slug": "stormy-ai",
       "website": "https://stormy.ai",
       "description": "Stormy: AI-Driven Influencer Marketing\r\n\r\nStreamline influencer outreach and let your product shine.\r\n\t\u2022\tDiscover: AI pinpoints ideal influencers with 99.8% accuracy.\r\n\t\u2022\tOutreach: Auto-send personalized emails and follow-ups.\r\n\t\u2022\tClose: AI negotiates and finalizes deals seamlessly.\r\n\r\nFocus on building\u2014Stormy handles distribution on autopilot.\r\n\r\nFounders from YC have discount! Please DM me on twitter: @karmedge or email",
-      "one_liner": "Influencer marketing on autopilot",
+      "one_liner": "Growth autopilot for apps & B2C brands \u2014 money in \u2192 users out.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -5546,5 +5550,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-06T00:02:40.093703"
+  "fetched_at": "2025-09-06T06:01:08.409458"
 }
