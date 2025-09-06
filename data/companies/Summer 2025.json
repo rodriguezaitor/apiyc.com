@@ -70,7 +70,7 @@
       "slug": "paloma",
       "website": "https://getpaloma.ai/",
       "description": "We unify your contracts, service consumption, and customer relationship context so that your revenue, success and sales teams can operate from the same ground truth. With everything centralized, you can proactively react to customer signals for upsell and churn while billing is seamlessly handled in the background.",
-      "one_liner": "AI-native CRM for billing, renewals, and expansions",
+      "one_liner": "AI-native post-sales system of record and mission control",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -85,11 +85,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Customer Success",
         "Sales",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -620,7 +620,7 @@
       "name": "Perspectives Health",
       "slug": "perspectives-health",
       "website": "https://perspectiveshealth.ai/",
-      "description": "Perspectives listens in on sessions and completes forms for clinicians inside their EMR. Clinicians using Perspectives get half their time back, can see more clients, and can connect better with patients.",
+      "description": "Perspectives listens in on clinical sessions and completes admin for clinicians inside their EMR. Clinicians using Perspectives get half their time back, can see more clients, and can connect better with patients.",
       "one_liner": "AI Agent for Clinic EMRs",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1213,7 +1213,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753486430.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/593825bbef10933c7d79a408e033a3d835206c81.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png"
     },
     {
       "id": 30748,
@@ -1673,10 +1673,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning",
         "Data Engineering",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2107,10 +2107,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotics",
         "B2B",
         "Infrastructure",
-        "AI",
         "AR"
       ],
       "stage": "Early",
@@ -2275,8 +2275,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Healthcare IT",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -2845,7 +2845,7 @@
       "slug": "trace-so",
       "website": "https://www.trace.so/",
       "description": "Trace is a workflow automation platform that routes tasks to the right agent \u2013 human or AI. We enable enterprise-grade context and AI orchestration in mid-sized teams. \r\n\r\nTrace breaks workflows into clear steps, sends repetitive tasks to AI agents, and routes the rest to the right people while respecting permissions and logging every action. \r\n\r\nWe help teams cut busywork and unify AI tools across departments \u2013 helping companies adopt AI in days rather than months.",
-      "one_liner": "AI Platform for Enterprise Workflows",
+      "one_liner": "Workflow automation that routes tasks to humans and AI",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -2861,11 +2861,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Workflow Automation",
-        "Productivity",
-        "AI"
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2879,7 +2879,7 @@
       "name": "The Interface",
       "slug": "the-interface",
       "website": "https://www.theinterface.com",
-      "description": "The Interface is a platform for AI-native media. It enables anyone to create, interact, and share on the fly \u2014 from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
+      "description": "The Interface is a full-stack interactive media engine. It enables anyone to create, interact, and share on the fly \u2014 from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
       "one_liner": "Building the foundations of AI-native media",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2895,10 +2895,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Entertainment",
         "Gaming",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4301,11 +4301,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Subscriptions"
+        "Subscriptions",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5057,7 +5057,7 @@
       "slug": "dedalus-labs",
       "website": "https://www.dedaluslabs.ai/",
       "description": "Dedalus Labs is building Vercel for AI Agents. We host MCP servers on our cloud and handle the boring stuff like autoscaling and load balancing so users can go from idea to production in a single click. Our OpenAI-compatible SDK lets users orchestrate complex agentic workflows through one clean API. Route between any LLM provider, connect any MCP tools from our hosted marketplace, and ship in minutes.",
-      "one_liner": "MCP gateway-as-a-service for agentic AI workflows.",
+      "one_liner": "Connect any LLM to any MCP tools and create complex agents in minutes.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -5072,10 +5072,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Workflow Automation",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5205,8 +5205,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Education",
-        "AI"
+        "Artificial Intelligence",
+        "Education"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5550,5 +5550,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-06T06:01:08.409458"
+  "fetched_at": "2025-09-06T12:01:12.955694"
 }
