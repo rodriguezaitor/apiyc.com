@@ -104,7 +104,7 @@
       "slug": "uplift-ai",
       "website": "https://upliftai.org/",
       "description": "We build speech understanding and speech generation models for regional languages, and make them available through easy to use APIs and SDKs.\r\n\r\nA billion people can't read any language. Additionally, in most languages typing is really hard/slow. As a result, text-interfaces (apps and websites) haven't worked in emerging markets and most work have remained offline. This is causing economies billions of dollars in lost worker efficiency.\r\n\r\nVoice AI can fix this, and onboard 100s of millions of new users on to digital services -- for the first time. \r\n\r\nBut current Voice Models suck... After the top 5 languages, the models are so bad you can't make any Voice product on top of them. We are fixing this by creating state of the art models for regional languages. \r\n\r\nWe are able to do this coz we created unique data gathering and labeling methods to solve for small languages. We already have SOTA models in multiple languages (like Balochi, Sindhi).\r\n\r\nWe are on a mission to uplift entire nations by giving everyone access to digital information and digital services. \r\n\r\nTeam:\r\nOur team has previously created Voice technology used by millions daily. We worked on Alexa and Siri; And have launched entire AWS services like AWS Bedrock Guardrails.\r\n \r\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.",
-      "one_liner": "Foundational Voice AI for regional languages",
+      "one_liner": "Foundational Voice Models for regional languages",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -298,7 +298,7 @@
       "slug": "cacao",
       "website": "https://www.cacaofi.com/",
       "description": "Get paid in USD or stablecoins, spend with a Visa card, and cash out to Pix instantly - made for Brazilians earning from abroad.",
-      "one_liner": "Brazilians can now receive USD & crypto instantly",
+      "one_liner": "The Global Dollar App for Brazil",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -517,7 +517,7 @@
       "name": "Munify",
       "slug": "munify",
       "website": "https://munify.ai",
-      "description": "Munify is the cross-border Neobank for the Middle East and its diaspora. Instantly open a USD account, get a virtual card, and send money home at the best rates \u2014 all from one app.",
+      "description": "Munify is the cross-border Neobank for the Middle East and its diaspora. Instantly open a USD account, get a virtual card, and send money home at the best rates, all from one app.",
       "one_liner": "The Cross-Border Neobank for the Middle East",
       "batch": "Summer 2025",
       "status": "Active",
@@ -585,7 +585,7 @@
       "name": "TectoAI",
       "slug": "tectoai",
       "website": "https://www.tecto.ai/",
-      "description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployement, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
+      "description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployment, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
       "one_liner": "Governance for AI Employees",
       "batch": "Summer 2025",
       "status": "Active",
@@ -748,8 +748,8 @@
       "name": "Clodo",
       "slug": "clodo",
       "website": "https://clodo.ai",
-      "description": "Clodo is the AI CRM for Real Estate Agents. \r\n\r\nClodo helps agents remember and follow up with all their leads. Building up your database and following up with leads are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and turning their database into a stronger engine for business.",
-      "one_liner": "The AI CRM for Real Estate Agents",
+      "description": "Clodo is the AI Real Estate Agent.\r\n\r\nClodo helps agents find and close more leads. Finding and following up with motivated leads are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and finding more deals.",
+      "one_liner": "The AI Real Estate Agent",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -828,9 +828,10 @@
         "Manufacturing and Robotics"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Deep Learning",
         "Hardware",
@@ -949,7 +950,7 @@
       "slug": "dscribe-ai",
       "website": "https://dscribeai.com/",
       "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it\u2019s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
-      "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
+      "one_liner": "Computer vision for bulk inventory tracking",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -965,10 +966,10 @@
       ],
       "locations": "Overland Park, KS, USA",
       "tags": [
+        "Artificial Intelligence",
         "Drones",
         "B2B",
         "Agriculture",
-        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -1002,10 +1003,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Cloud Computing",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1037,10 +1038,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "E-commerce",
-        "Creator Economy"
+        "Creator Economy",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1301,10 +1302,10 @@
       ],
       "locations": "Dublin, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hard Tech",
         "Hardware",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1603,8 +1604,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Travel",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1654,7 +1655,7 @@
       "slug": "idler",
       "website": "https://idler.ai/",
       "description": "We\u2019re building the platform to produce reinforcement learning environments on-demand, at scale. \r\n\r\nIf you are building intelligent systems in research, robotics, simulation, product development, or beyond and hate wrestling with complicated infrastructure, Idler is for you.",
-      "one_liner": "Creating the next trillion RL environments.",
+      "one_liner": "Scale AI for reinforcement learning environments. ",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1770,11 +1771,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
         "Enterprise",
-        "Fraud Detection"
+        "Fraud Detection",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1804,10 +1805,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "E-commerce",
-        "Customer Support"
+        "Customer Support",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1837,11 +1838,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Education",
         "SaaS",
         "B2B",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1872,7 +1873,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "AI",
+        "Artificial Intelligence",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2003,9 +2004,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2034,7 +2035,13 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "B2B",
+        "Enterprise",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -2182,7 +2189,7 @@
       "name": "Novaflow",
       "slug": "novaflow",
       "website": "https://www.novaflowapp.com/",
-      "description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
+      "description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months.\r\n\r\nIn just 7 weeks, we have acquired customers at 9 institutions including UCSF, Mount Sinai, UC Berkeley, and Harvard.",
       "one_liner": "The AI data analyst for biology labs",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2196,7 +2203,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "New York, NY, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Biotech",
         "Analytics",
@@ -2517,11 +2524,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Sales",
-        "Supply Chain"
+        "Supply Chain",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2551,10 +2558,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Compliance",
         "Manufacturing",
-        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -2570,7 +2577,7 @@
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
       "description": "GhostEye automates red team testing with AI agents that conduct social engineering attacks and vulnerability exploitation, replacing expensive quarterly pen tests with continuous security validation.",
-      "one_liner": "AI-powered red team testing that never stops",
+      "one_liner": "The Offensive Security Team that never sleeps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2751,10 +2758,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Automation",
         "Operations",
-        "AI",
         "Automotive"
       ],
       "stage": "Early",
@@ -2769,8 +2776,8 @@
       "name": "b-12",
       "slug": "b-12",
       "website": "https://b12-labs.com/",
-      "description": "b-12 is an AI copilot that plans how to create and test new molecules for chemists. We're like a GPS for chemistry, helping pharma companies like Roche and Takeda plan the recipes for new drugs, accelerating early-stage drug discovery from years to months. \r\nAndres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (750+ citations), and won the best paper award at the NeurIPS AI for Science conference.\r\nZlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. He has an extensive network of hundreds of chemists across Europe.\r\nWe are publishing a groundbreaking paper in Nature demonstrating our AI's ability to optimally plan chemical recipes. We run paid pilots with Takeda and Roche after our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the usual 8-12 iteration cycle.",
-      "one_liner": "Developing chemical super intelligence - one agent at a time.",
+      "description": "b-12 is an AI copilot that plans how to create and test new molecules for chemists. We're like a GPS for chemistry, helping pharma companies plan the recipes for new drugs, accelerating early-stage drug discovery from years to months. \r\nAndres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (750+ citations), and won the best paper award at the NeurIPS AI for Science conference.\r\nZlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. He has an extensive network of hundreds of chemists across Europe.\r\nWe are publishing a groundbreaking paper in Nature demonstrating our AI's ability to optimally plan chemical recipes. We run paid pilots with big pharma companies showing that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the usual 8-12 iteration cycle.",
+      "one_liner": "Chemical Copilot for Pharma and Biotech",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2834,8 +2841,8 @@
       "name": "Trace",
       "slug": "trace-so",
       "website": "https://www.trace.so/",
-      "description": "Trace is a workflow automation platform that pairs each task with the right human or AI agent. It connects to your internal tools to build a unified index of people, activity, and docs and learns how your teams work. \r\n\r\nTrace breaks workflows into clear steps, sends repetitive tasks to AI agents, and routes the rest to the right people while respecting permissions and logging every action. \r\n\r\nWe help teams cut busywork and unify AI tools across departments \u2013 without disrupting operations.",
-      "one_liner": "Workflow engine routing repetitive tasks to AI agents",
+      "description": "Trace is a workflow automation platform that routes tasks to the right agent \u2013 human or AI. We enable enterprise-grade context and AI orchestration in mid-sized teams. \r\n\r\nTrace breaks workflows into clear steps, sends repetitive tasks to AI agents, and routes the rest to the right people while respecting permissions and logging every action. \r\n\r\nWe help teams cut busywork and unify AI tools across departments \u2013 helping companies adopt AI in days rather than months.",
+      "one_liner": "AI Platform for Enterprise Workflows",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -2847,17 +2854,15 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Workflow Automation",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3061,10 +3066,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "IoT Security",
         "Cybersecurity",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3130,8 +3135,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Edge Computing Semiconductors",
-        "AI"
+        "Artificial Intelligence",
+        "Edge Computing Semiconductors"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3261,9 +3266,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3376,7 +3381,7 @@
       "slug": "careswift",
       "website": "https://www.careswift.com/",
       "description": "Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials.",
-      "one_liner": "AI operating system for ambulance agencies",
+      "one_liner": "AI scribe for Ambulance Reports",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -3386,12 +3391,13 @@
         "Healthcare"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Health Tech",
-        "AI"
+        "Artificial Intelligence",
+        "Health Tech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3406,7 +3412,7 @@
       "slug": "pangolin",
       "website": "https://digpangolin.com",
       "description": "Pangolin is building a new kind of open-source proxy: cloud-orchestrated, identity-aware, tunneled, and highly available. It\u2019s the simplest way to securely expose applications on any network\u2014only the people you want get access to your apps, and we block everyone else.",
-      "one_liner": "Open-source identity-aware gateway to applications on private networks",
+      "one_liner": "Open-source alternative to Cloudflare Tunnels",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3474,8 +3480,8 @@
       "name": "Tesora",
       "slug": "tesora",
       "website": "https://tesora.ai",
-      "description": "Tesora builds AI procurement analysts for advanced industries. Our analyst first handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before.  ",
-      "one_liner": "AI procurement analysts for advanced industries",
+      "description": "Tesora builds Digital Employees for manufacturers, aerospace, robotics, and industrial companies. Our sourcing analyst handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before.  ",
+      "one_liner": "Digital employees for manufacturing operations",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3682,7 +3688,7 @@
       "slug": "frizzle",
       "website": "https://www.frizzle.com",
       "description": "Frizzle uses AI to grade handwritten math assignments for teachers, providing personalized feedback for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle was named an official White House AI Education Partner alongside OpenAI and Meta: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.\r\n",
-      "one_liner": "AI grading for teachers, starting with math",
+      "one_liner": "AI Grading for Teachers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3731,9 +3737,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Billing",
-        "AI"
+        "Billing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3912,8 +3918,8 @@
       "name": "Cyberdesk",
       "slug": "cyberdesk",
       "website": "https://www.cyberdesk.io",
-      "description": "Cyberdesk is the computer use agent for developers to automate legacy desktop apps. \r\nFor example, one of our customers is building an AI agent for hospital patient intake, and they\u2019re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. \r\n\r\nWe launched mid July and we\u2019ve closed 164k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nWe\u2019ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.\r\n\r\nMahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. \r\n\r\nAlan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He later bootstrapped a consumer AI startup to 50k in ARR.\r\n\r\nCyberdesk is already automating tasks that have been typically handled by business process outsourcing teams (BPO) teams, and we're doing so for 20% of the price. The BPO market is a $300B market, which represents a $60B opportunity.\r\n\r\nWe\u2019d love to talk with you for a demo!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
-      "one_liner": "The computer use agent for developers to automate legacy desktop apps",
+      "description": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. \r\n\r\nFor example, one of our customers is building an AI agent for hospital patient intake, and they\u2019re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. \r\n\r\nWe launched mid July and we\u2019ve closed 174k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nWe\u2019ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.\r\n\r\nMahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. \r\n\r\nAlan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app\r\n\r\nComputer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this.\r\n\r\nWe\u2019d love to talk with you for a demo!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+      "one_liner": "Self learning computer use agent for developers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3930,7 +3936,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
+        "Robotic Process Automation",
         "Workflow Automation",
+        "Enterprise Software",
         "AI"
       ],
       "stage": "Early",
@@ -3938,7 +3946,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749659433.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b279da9d82ec2f487355a5f801f9486c6679e41d.png"
     },
     {
       "id": 30646,
@@ -4030,8 +4038,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools"
+        "Developer Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4113,7 +4121,7 @@
       "slug": "monarcha",
       "website": "https://monarcha.ai",
       "description": "Monarcha is an AI-powered geospatial platform built for logistics, real estate, urban planning, and environmental teams. It turns natural language into powerful spatial analysis, styling, and workflows with no GIS expertise required.\r\n\r\nWorking with geospatial data today is slow, fragmented, and deeply technical. Simple tasks often require desktop based software and coding expertise. Most platforms rely on outdated desktop software, steep learning curves, and disconnected tools. Even simple tasks like uploading data, running a buffer, or visualizing zones can take hours and require specialists.\r\n\r\nMonarcha changes that.\r\nWe connect directly to your data, enrich it with public datasets, understand spatial context, and let you run 50+ spatial tools instantly on the map. Upload vector or raster files, run PostGIS SQL queries, generate heatmaps, clip zones, and more all with a simple prompt. We're giving everyone the power of advanced spatial analysis to help save time, money and unlock siloed geospatial data across entire organizations. \r\n\r\nWant to learn more? Check out monarcha.ai",
-      "one_liner": "The AI GIS Platform ",
+      "one_liner": "An expert for your spatial data",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4274,7 +4282,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare. Vijit also built Stripe\u2019s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Figma for this reason. Frustratingly, these companies had to build their billing systems in-house. \r\n\r\nLark provides companies a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience. \r\n \r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. Our billing agents are live with 4 customers including Midjourney and CharacterAI.",
+      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare. Vijit also built Stripe\u2019s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Figma for this reason. Frustratingly, these companies had to build their billing systems in-house. \r\n\r\nLark provides a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience. \r\n \r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. Our billing agents are live with 4 customers including Midjourney and CharacterAI.",
       "one_liner": "AI Native Billing Platform",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4291,11 +4299,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Subscriptions"
+        "Subscriptions",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4315,7 +4323,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -4507,7 +4515,7 @@
       "name": "Liva AI",
       "slug": "liva-ai",
       "website": "https://www.theliva.ai",
-      "description": "GenAI models trained on internet data still lack realistic, domain-specific results, and we solve this by delivering high-quality offline data through targeted recruitment and a consumer upload platform.",
+      "description": "Gen AI speech and video models trained on internet data still lack realistic and domain-specific results. We solve this by using AI to collect highly targeted and privately held training data for model labs.",
       "one_liner": "Scale AI for video and voice data.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4525,11 +4533,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Marketplace",
         "B2B",
         "Data Labeling",
-        "Big Data",
-        "AI"
+        "Big Data"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4746,8 +4754,8 @@
       "name": "Gaus",
       "slug": "gaus",
       "website": "https://www.joingaus.com/",
-      "description": "Gaus is building AI agents for individual investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Gaus gives every active investor an AI investment analyst working around the clock to surface their next great investment. We\u2019re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don\u2019t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
-      "one_liner": "AI agents for individual investors",
+      "description": "Gaus is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Gaus gives every active investor an AI investment advisor working around the clock to surface their next great investment. We\u2019re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don\u2019t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
+      "one_liner": "AI advisor for retail investors",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4763,10 +4771,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Investing",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4813,8 +4821,8 @@
       "name": "truthsystems",
       "slug": "truthsystems",
       "website": "https://www.truthsystems.ai",
-      "description": "Truth Systems provides a compliance agent to govern the use of generative AI. It translates a firm's operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
-      "one_liner": "Building the unified governance layer for regulated industries",
+      "description": "Truth Systems provides a compliance agent to govern the use of generative AI. It translates operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
+      "one_liner": "Automatically blocking risky behavior with real-time governance agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -4822,7 +4830,7 @@
       "subindustry": "B2B -> Legal",
       "industries": [
         "B2B",
-        "Legal"
+        "Infrastructure"
       ],
       "regions": [
         "United States of America",
@@ -4832,9 +4840,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "LegalTech"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4883,7 +4890,7 @@
       "slug": "traceroot-ai",
       "website": "https://traceroot.ai",
       "description": "TraceRoot.AI is the first open source AI agent that monitors production environments and automatically fixes bugs. It connects to telemetry data like traces, logs, metrics and repo to analyze and auto-resolve bugs.",
-      "one_liner": "Open source AI agents automatically fix your production bugs",
+      "one_liner": "Open source AI agents auto-fix your production bugs",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4917,7 +4924,7 @@
       "slug": "halluminate",
       "website": "https://halluminate.ai/",
       "description": "We help foundation model labs and enterprises train computer use AI with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They\u2019ve been working and studying together for 7+ years. \r\n",
-      "one_liner": "Data and environments to train computer use AI",
+      "one_liner": "Data and RL environments to automate knowledge work",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4949,7 +4956,7 @@
       "slug": "mangodesk",
       "website": "https://www.mangodesk.com/",
       "description": "We help AI teams accelerate the creation of evals and post-training data by creating bespoke data annotation pipelines in seconds and staffing them with the right domain experts.\r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Creating this data reliably is a complex operational challenge. We solve this end-to-end. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
-      "one_liner": "Cursor for evals and human data",
+      "one_liner": "Simple platform to create data for AI",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5095,9 +5102,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Generative AI",
-        "Real Estate",
         "B2B",
-        "Marketing",
         "AI"
       ],
       "stage": "Early",
@@ -5310,7 +5315,7 @@
       "slug": "nixo",
       "website": "https://withnixo.com/",
       "description": "Most orgs think custom implementations are slow because each one is too unique. In reality, FDEs lose days chasing customers for details and redoing overlapping work. With Nixo, you can scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across accounts.",
-      "one_liner": "The first ops platform built for FDEs",
+      "one_liner": "The first ops platform for forward deployed engineers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5325,10 +5330,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Customer Success"
+        "Customer Success",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5425,9 +5430,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5506,8 +5511,8 @@
     },
     {
       "id": 29697,
-      "name": "Stormy AI \u2013 Vibe marketing agent",
-      "slug": "stormy-ai-vibe-marketing-agent",
+      "name": "Stormy AI",
+      "slug": "stormy-ai",
       "website": "https://stormy.ai",
       "description": "Stormy: AI-Driven Influencer Marketing\r\n\r\nStreamline influencer outreach and let your product shine.\r\n\t\u2022\tDiscover: AI pinpoints ideal influencers with 99.8% accuracy.\r\n\t\u2022\tOutreach: Auto-send personalized emails and follow-ups.\r\n\t\u2022\tClose: AI negotiates and finalizes deals seamlessly.\r\n\r\nFocus on building\u2014Stormy handles distribution on autopilot.\r\n\r\nFounders from YC have discount! Please DM me on twitter: @karmedge or email",
       "one_liner": "Influencer marketing on autopilot",
@@ -5528,10 +5533,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5541,5 +5546,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-05T18:01:20.666467"
+  "fetched_at": "2025-09-06T00:02:40.093703"
 }

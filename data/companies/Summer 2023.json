@@ -1845,7 +1845,7 @@
       "one_liner": "All-in-one POS for liquor stores",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B -> Retail",
       "industries": [
@@ -5586,9 +5586,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Hard Tech",
         "Manufacturing",
@@ -5599,7 +5600,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688766669.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f39c44456d13de7e8a74abab6a45e95cb32375.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/afc3d576d23341fe3b3be62748770b0756c79dcc.png"
     },
     {
       "id": 28809,
@@ -7350,5 +7351,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-05T18:01:19.204109"
+  "fetched_at": "2025-09-06T00:02:38.699696"
 }
