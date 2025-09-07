@@ -4774,38 +4774,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png"
     },
     {
-      "id": 25730,
-      "name": "Blitzllama",
-      "slug": "blitzllama",
-      "website": "https://www.blitzllama.com/",
-      "description": "Blitzllama makes it easy for product development teams to rapidly collect user feedback at scale. With only a simple SDK integration, teams can ask questions to their users within product journeys and get highly contextual answers in minutes. This empowers product teams to ship products that address users' real problems that increase user retention, engagement and reduce churn.",
-      "one_liner": "A platform to collect and analyze in-product user feedback",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Bengaluru, KA, India; Remote",
-      "tags": [
-        "SaaS"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1646992001.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e5778b59802590e78bb3cca17886152d2581d6a.png"
-    },
-    {
       "id": 25728,
       "name": "Benson",
       "slug": "benson",
@@ -13089,6 +13057,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb90812208727df3e8e0f20948c7862b9feae31.png"
     },
     {
+      "id": 25730,
+      "name": "Blitzllama",
+      "slug": "blitzllama",
+      "website": "https://www.blitzllama.com/",
+      "description": "Blitzllama makes it easy for product development teams to rapidly collect user feedback at scale. With only a simple SDK integration, teams can ask questions to their users within product journeys and get highly contextual answers in minutes. This empowers product teams to ship products that address users' real problems that increase user retention, engagement and reduce churn.",
+      "one_liner": "A platform to collect and analyze in-product user feedback",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Bengaluru, KA, India; Remote",
+      "tags": [
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1646992001.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e5778b59802590e78bb3cca17886152d2581d6a.png"
+    },
+    {
       "id": 25723,
       "name": "Aklimate",
       "slug": "aklimate",
@@ -13824,5 +13824,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-09-07T00:03:28.670870"
+  "fetched_at": "2025-09-07T06:00:59.021246"
 }

@@ -103,7 +103,7 @@
       "name": "Uplift AI",
       "slug": "uplift-ai",
       "website": "https://upliftai.org/",
-      "description": "We build speech understanding and speech generation models for regional languages, and make them available through easy to use APIs and SDKs.\r\n\r\n60% of the world *only* speaks their regional language. They generate 42 trillion dollars in GDP.  Yet current Voice Models in these languages suck... After the top 5 languages, the models are so bad you can't make any Voice product on top of them. \r\n\r\nWe are fixing this by creating state-of-the-art models for regional languages -- enabling developers to scale their Voice products to every part of the world with consistent high quality experience.\r\n\r\n1,000s of developers already use our APIs; including companies like Khan Academy.\r\n\r\nTeam:\r\nOur team has previously created Voice technology used by millions daily. We worked on Alexa and Siri; and have launched entire AWS services like AWS Bedrock Guardrails.\r\n\r\nMotivation:\r\nText-interfaces (apps and websites) haven't worked in emerging markets and most work has remained offline. This is causing economies billions of dollars in lost worker efficiency.\r\nPeople don't adopt text-interfaces for two reasons: 1) a billion people can't read any language. 2) typing is really hard/slow on phones -- which is the only device many people have. \r\nVoice AI can fix this, and onboard 100s of millions of new users on to digital services -- for the first time. \r\nThis can increase entire GDPs by making the workforce more efficient.\r\n\r\nHow we are different:\r\nWe have developed unique data gathering and labeling methods to solve for small languages. \r\nWe own our technology stack end-to-end. We gather our own data, then train and deploy our own models. This enables us to optimize the entire stack continuously and hence move faster...\r\nWe already have SOTA models in multiple languages (like Balochi, Sindhi).",
+      "description": "We build Voice Models for regional languages and make them available to developers through simple APIs and SDKs. \r\n\r\nDevelopers use our APIs to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc) for audiences around the world with a consistent, high quality experience.\r\n\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. People who would previously never use certain digital services (like online ordering or e-health), actually use the service when they are given an intuitive Voice based interface. \r\n\r\nUplift AI will provide the best models to create Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.",
       "one_liner": "Foundational Voice Models for regional languages",
       "batch": "Summer 2025",
       "status": "Active",
@@ -135,7 +135,7 @@
       "slug": "realroots",
       "website": "http://www.therealroots.com",
       "description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
-      "one_liner": "RealRoots is the AI social app for female transplants",
+      "one_liner": "AI social app for female transplants",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -151,13 +151,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "Consumer",
-        "Social Network"
+        "Social Network",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1750729944.0,
@@ -950,8 +950,8 @@
       "name": "Okibi",
       "slug": "okibi",
       "website": "https://okibi.ai",
-      "description": "Whether you're building an\u00a0internal workflow automation to remove repetitive or time consuming tasks, or launching your own product with Agents,\u00a0Okibi can help you build it.\r\n\r\nBuilding AI agents typically requires\u00a0complex,\u00a0time-consuming\u00a0setup, including\u00a0tool calling,\u00a0LLM syntax management,\u00a0multi-agent orchestration,\u00a0browser use,\u00a0evals, and\u00a0hosting deployments.\r\n\r\nOur web app provides a\u00a0chat interface\u00a0and toolkit to easily create agents.\u00a0Just describe your agent in natural language, similar to vibecoding, and our app automatically generates your agent's architecture, tool calls, human in the loop, browser user, and runs evals on your agent.\r\n\r\nThis approach\u00a0significantly reduces development complexity and time.",
-      "one_liner": "Build agents using natural language, it's Lovable for agents",
+      "description": "Okibi is a web app to create AI coworkers using natural language. It is like Lovable but specifically designed for AI agents that talk to your internal software.\r\n\r\nPeople in Sales, Operations, and Product Marketing positions lose more than 2 hours every day on tasks that can be automated using AI agents. They haven\u2019t been able to create those agents using existing tools, because they are time consuming and complicated to get started with.\r\n\r\nLLMs took over our need for researching information\r\n\r\nAgents will be the second act\r\n\r\nAgents will take over our need to build and do tasks\r\n\r\nOkibi is the platform where everyone can create those agents\r\n\r\n",
+      "one_liner": "Build AI coworkers using natural language, it's Lovable for agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1201,11 +1201,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "B2B",
         "Productivity",
-        "Search"
+        "Search",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1975,9 +1975,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Education",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2009,8 +2009,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "SaaS",
-        "AI"
+        "Artificial Intelligence",
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2040,11 +2040,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Productivity",
         "Calendar",
-        "Email"
+        "Email",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2210,10 +2210,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Productivity",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2296,7 +2296,7 @@
       "slug": "perseus-defense",
       "website": "https://perseusdefense.com",
       "description": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. \r\n\r\nSolving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \r\n\r\n\"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer\r\n\r\nThe White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. \r\n\r\nTraction: \r\nJason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology.  Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program. ",
-      "one_liner": "16\" missiles that target and shoot down drones",
+      "one_liner": "America's Golden Dome for Drones",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2666,9 +2666,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2714,7 +2714,7 @@
       "name": "Epicenter",
       "slug": "epicenter",
       "website": "https://epicenter.so/",
-      "description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. \u2764\ufe0f\r\n\r\nhttps://github.com/epicenter-so/epicenter\r\n",
+      "description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly. \r\n\r\nOn top of our memory layer, we're building an ecosystem of local-first apps that share context. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. \u2764\ufe0f",
       "one_liner": "ChatGPT's memory feature in an open, portable format",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2949,8 +2949,8 @@
       "name": "The Interface",
       "slug": "the-interface",
       "website": "https://www.theinterface.com",
-      "description": "The Interface is a full-stack interactive media engine. It enables anyone to create, interact, and share on the fly \u2014 from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
-      "one_liner": "Building the foundations of AI-native media",
+      "description": "The Interface enables anyone to create, interact, and share on the fly \u2014 from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
+      "one_liner": "The foundations for AI-native media",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2965,10 +2965,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Entertainment",
         "Gaming",
-        "Media",
-        "AI"
+        "Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3173,11 +3173,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Legal",
-        "LegalTech",
-        "AI"
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3625,7 +3625,7 @@
       "name": "Stockline",
       "slug": "stockline",
       "website": "https://stockline.ai",
-      "description": "Stockline is an AI-native ERP for food wholesalers. \r\nWe're starting by automating order entry with AI and in the process replacing clunky ERPs from the 90s. \r\n\r\nDuring the S25 batch, we went zero to $234k ARR. The market is a $25b opportunity. \r\n\r\nBefore food reaches your plate, there\u2019s a $990b+ industry still relying on humans doing manual retyping and copy paste into outdated ERPs. \r\nYou can think of us AI teammates that replaces both people doing the manual work and the software itself. \r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. Mariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
+      "description": "\r\nStockline is an AI-native ERP for food wholesalers. Our agents eliminate human labor for repetitive tasks, starting with order entry. \r\n\r\nIn 3 months, we went from 0 to $234k in ARR. The market is a $25b opportunity. \r\n\r\nOur goal is to replace clunky software with the next generation of ERPs, built with AI employees at their core.\r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. \r\nMariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
       "one_liner": "AI-native ERP for food wholesalers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3641,10 +3641,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Food & Beverage"
+        "Food & Beverage",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3658,7 +3658,7 @@
       "name": "Sidekick",
       "slug": "heysidekick",
       "website": "https://joinsidekick.com",
-      "description": "Build Zapier-style automations in minutes using only a chat interface.\r\n\r\nTeams in sales, marketing, and ops often turn to platforms like Zapier to automate their busywork. But these platforms are too complex and time-consuming for them. Sidekick replaces the steep learning curve with a simple chat interface, making powerful automation accessible to everyone.\r\n",
+      "description": "Build Zapier-style automations using only a chat interface. AI adds connectors, configures logic, and handles errors. Sidekick makes powerful automation accessible to everyone.\r\n",
       "one_liner": "Lovable for automations",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4106,10 +4106,13 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4123,7 +4126,7 @@
       "slug": "nuntius",
       "website": "https://www.nuntius.ai",
       "description": "Applying artificial intelligence to economically productive use-cases requires bulletproof alignment. We\u2019re solving that.",
-      "one_liner": "The Alignment Company.",
+      "one_liner": "Making Models Follow Rules.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4139,8 +4142,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Reinforcement Learning"
+        "Reinforcement Learning",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4288,7 +4291,7 @@
       "slug": "effigov",
       "website": "https://effi-gov.com",
       "description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
-      "one_liner": "AI OS for Cities",
+      "one_liner": "The AI OS for Cities",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4303,8 +4306,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4350,7 +4353,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare. Vijit also built Stripe\u2019s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Figma for this reason. Frustratingly, these companies had to build their billing systems in-house. \r\n\r\nLark provides a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience. \r\n \r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. Our billing agents are live with 4 customers including Midjourney and CharacterAI.",
+      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare. Vijit also built Stripe\u2019s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor for this reason. Frustratingly, these companies had to build their billing systems in-house. \r\n\r\nLark provides a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience. \r\n \r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. Our billing agents are live with 4 customers including Midjourney and CharacterAI.",
       "one_liner": "AI Native Billing Platform",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4601,11 +4604,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Marketplace",
         "B2B",
         "Data Labeling",
-        "Big Data",
-        "AI"
+        "Big Data"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4792,7 +4795,7 @@
       "slug": "lanesurf",
       "website": "https://www.lanesurf.com/",
       "description": "Lanesurf helps freight brokers book shipments with vetted carriers at the best prices by negotiating rates across multiple calls in parallel.\r\n\r\nOur self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.\r\n\r\nWith each booking, the AI learns from aggregated, anonymized lane and pricing data. As more customers use Lanesurf, this learning compounds, driving faster bookings at the best prices and powering a voice-driven freight marketplace.",
-      "one_liner": "Voice AI for booking freight",
+      "one_liner": "Voice AI for freight transactions",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -4807,10 +4810,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Logistics",
-        "Supply Chain",
-        "AI"
+        "Supply Chain"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4910,8 +4913,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
-        "AI"
+        "Artificial Intelligence",
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5155,7 +5158,7 @@
       "name": "Closera",
       "slug": "closera",
       "website": "https://closera.com",
-      "description": "We are building Harvey for Commercial Real Estate. \r\n\r\n\r\nClosera automates the most time-consuming tasks that slows deals down:\r\n\u2022 Sales decks that used to take 4 weeks and cost $5,000? Now done in minutes\r\n\u2022 Property valuation models that took hours? Built in seconds\r\n\u2022 Verifying data for thousands of listings? Happens all at once, not over days\r\n\r\nClosera is building the AI native operating system for the $37T commercial real estate industry. \r\n\r\nLearn more at closera.com",
+      "description": "Closera automates the most time-consuming tasks that slows deals down:\r\n\u2022 Sales decks that used to take 4 weeks and cost $5,000? Now done in minutes\r\n\u2022 Property valuation models that took hours? Built in seconds\r\n\u2022 Verifying data for thousands of listings? Happens all at once, not over days\r\n\r\nClosera is building the AI native operating system for the $37T commercial real estate industry. \r\n\r\nLearn more at closera.com",
       "one_liner": "AI employees for commercial real estate",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5351,8 +5354,8 @@
       "name": "Cactus",
       "slug": "cactus",
       "website": "https://www.cactuscompute.com/",
-      "description": "Open-source inference engine for deploying AI locally on smartphones. Available in React-Native, Flutter, and C/C++. Supports multimodal models, text-to-speech, embedding models and more.\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
-      "one_liner": "Deploy AI models locally on smartphones.",
+      "description": "Kernels & AI engine for running AI locally on the phone GPU. App developers can deploy AI locally in their mobile apps. \r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+      "one_liner": "AI inference engine for phones & AI-native devices",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5579,7 +5582,7 @@
       "slug": "stormy-ai",
       "website": "https://stormy.ai",
       "description": "Stormy: AI-Driven Influencer Marketing\r\n\r\nStreamline influencer outreach and let your product shine.\r\n\t\u2022\tDiscover: AI pinpoints ideal influencers with 99.8% accuracy.\r\n\t\u2022\tOutreach: Auto-send personalized emails and follow-ups.\r\n\t\u2022\tClose: AI negotiates and finalizes deals seamlessly.\r\n\r\nFocus on building\u2014Stormy handles distribution on autopilot.\r\n\r\nFounders from YC have discount! Please DM me on twitter: @karmedge or email",
-      "one_liner": "Growth autopilot for apps & B2C brands \u2014 money in \u2192 users out.",
+      "one_liner": "Al platform that makes social marketing as easy as running a Google\u2026",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 5,
@@ -5597,10 +5600,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Marketing",
-        "AI"
+        "Marketing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5610,5 +5613,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-07T00:03:30.172081"
+  "fetched_at": "2025-09-07T06:01:02.989662"
 }

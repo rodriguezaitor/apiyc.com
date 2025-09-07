@@ -3013,21 +3013,19 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA; New York, NY, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
-        "AI"
+        "Artificial Intelligence",
+        "B2B"
       ],
       "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1583715286.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/51b9cb2b4a9873a75bbecddb957db0e52fd65b12.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08c043473fb54cce0d2423ed1fb47f59cc9a53c.png"
     },
     {
       "id": 13217,
@@ -7725,5 +7723,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
     }
   ],
-  "fetched_at": "2025-09-07T00:03:29.697541"
+  "fetched_at": "2025-09-07T06:01:01.487774"
 }
