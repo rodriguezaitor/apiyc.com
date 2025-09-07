@@ -212,10 +212,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Retail",
-        "Call Center",
-        "AI"
+        "Call Center"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -766,10 +766,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Logistics",
         "Supply Chain",
-        "Data Science",
-        "AI"
+        "Data Science"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -950,7 +950,7 @@
       "name": "Okibi",
       "slug": "okibi",
       "website": "https://okibi.ai",
-      "description": "Okibi is a web app to create AI coworkers using natural language. It is like Lovable but specifically designed for AI agents that talk to your internal software.\r\n\r\nPeople in Sales, Operations, and Product Marketing positions lose more than 2 hours every day on tasks that can be automated using AI agents. They haven\u2019t been able to create those agents using existing tools, because they are time consuming and complicated to get started with.\r\n\r\nLLMs took over our need for researching information\r\n\r\nAgents will be the second act\r\n\r\nAgents will take over our need to build and do tasks\r\n\r\nOkibi is the platform where everyone can create those agents\r\n\r\n",
+      "description": "Okibi is a web app that lets you create AI coworkers using natural language.\r\n\r\nIt's like Lovable for creating AI agents that talk to your internal software\r\n\r\nCorporate users lose 2 hours every day doing tasks that can be automated with agents\r\n\r\nBut existing agent builders have janky drag and drop UIs that don\u2019t map to what they want exactiy.\r\n\r\nOkibi lets everyone use natural language to build the exact agent they want.",
       "one_liner": "Build AI coworkers using natural language, it's Lovable for agents",
       "batch": "Summer 2025",
       "status": "Active",
@@ -967,9 +967,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "B2B",
         "Automation",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -984,7 +984,7 @@
       "name": "dScribe AI",
       "slug": "dscribe-ai",
       "website": "https://dscribeai.com/",
-      "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it\u2019s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+      "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it\u2019s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe\u2019ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure\u2019s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe\u2019ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don\u2019t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
       "one_liner": "Computer vision for bulk inventory tracking",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1001,10 +1001,10 @@
       ],
       "locations": "Overland Park, KS, USA",
       "tags": [
-        "Artificial Intelligence",
         "Drones",
         "B2B",
         "Agriculture",
+        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -1168,9 +1168,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1421,7 +1421,7 @@
       "name": "F4",
       "slug": "f4",
       "website": "https://f4.dev/",
-      "description": "Built by former Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly. F4 ensures design engineers never release noncompliant drawings\u2014and suppliers never misinterpret them. We help hardware teams eliminate costly scrap, rework, and miscommunication at the root.\r\n\r\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\r\n\r\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\r\n\r\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\r\n\r\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, including the critical stack-up paths,  applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.\r\n",
+      "description": "Built by former Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly. F4 ensures design engineers never release noncompliant drawings\u2014and suppliers never misinterpret them. We help hardware teams eliminate costly scrap, rework, and miscommunication at the root.\r\n\r\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\r\n\r\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\r\n\r\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\r\n\r\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.\r\n",
       "one_liner": "Automating compliance checks for engineering drawings",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1538,9 +1538,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Telecommunications"
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1560,7 +1560,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Real Estate and Construction",
-      "subindustry": "Unspecified",
+      "subindustry": "Real Estate and Construction",
       "industries": [
         "Real Estate and Construction"
       ],
@@ -1691,7 +1691,7 @@
       "slug": "palace",
       "website": "https://www.palace.so",
       "description": "Palace (palace.so) is an AI board observer that private market investors use to monitor+report on portfolio companies. We save investment teams 100's of hours every quarter on manual data entry and provide real-time analytics across their portfolio.",
-      "one_liner": "Strategic intelligence for PE funds and PE-backed companies",
+      "one_liner": "Operational intelligence for PE funds and PE-backed companies",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1707,10 +1707,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2141,10 +2141,10 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Marketing",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2360,10 +2360,10 @@
       "slug": "solva",
       "website": "https://solvatechnology.com",
       "description": "Harvey for insurance - AI that automates insurance claims and stops wrongful payouts\r\n\r\nWe've spent the last decade battling legacy systems and dogma across highly regulated sectors of the financial industry. Between the three of us we have experience from scaling Europe\u2019s fastest-growing InsurTech and founding a licensed bank (EBA CRD CI). ",
-      "one_liner": "Harvey for insurance",
+      "one_liner": "Automates insurance claims and stops incorrect payouts",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 6,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -2371,9 +2371,10 @@
         "Insurance"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "New York, NY, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
@@ -2629,10 +2630,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Compliance",
         "Manufacturing",
+        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -2712,7 +2713,7 @@
       "name": "Epicenter",
       "slug": "epicenter",
       "website": "https://epicenter.so/",
-      "description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly. \r\n\r\nOn top of our memory layer, we're building an ecosystem of local-first apps that share context. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. \u2764\ufe0f",
+      "description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly.\r\n\r\nWe store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build in our ecosystem shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. You should own your memory in the same way you own your brain. \u2764\ufe0f",
       "one_liner": "ChatGPT's memory feature in an open, portable format",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2980,7 +2981,7 @@
       "name": "IronLedger.ai",
       "slug": "ironledger-ai",
       "website": "https://ironledger.ai",
-      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. Since launching 4 weeks ago, we eliminate more than $70K of accounting costs annually for almost 10K multifamily units. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
+      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. Since launching 4 weeks ago, we eliminate more than $70K of accounting costs annually for almost 35K multifamily units (up from 10K on 9/5). Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
       "one_liner": "AI agents for property accounting",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3708,10 +3709,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3731,7 +3732,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -4134,8 +4135,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Reinforcement Learning",
-        "AI"
+        "Artificial Intelligence",
+        "Reinforcement Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4620,7 +4621,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
         "Productivity"
@@ -5166,9 +5167,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5346,11 +5347,11 @@
       "name": "Cactus",
       "slug": "cactus",
       "website": "https://www.cactuscompute.com/",
-      "description": "Kernels & AI engine for running AI locally on the phone GPU. App developers can deploy AI locally in their mobile apps. \r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+      "description": "Kernels & AI engine for running AI locally on mobile devices; CUDA for phones. App developers can now deploy AI models locally in their mobile apps.\r\n\r\nCactus now completes 500K+ inference tasks on phones weekly and reaches 150 tokens/seconds on phone chips.\r\n\r\nWe\u2019re open-source, check out the code in the repo: https://github.com/cactus-compute/cactus",
       "one_liner": "AI inference engine for phones & AI-native devices",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -5428,10 +5429,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Finance",
-        "Search",
-        "AI"
+        "Search"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5495,9 +5496,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5605,5 +5606,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-07T12:01:24.815495"
+  "fetched_at": "2025-09-07T18:01:10.774979"
 }
