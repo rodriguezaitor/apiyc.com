@@ -34,8 +34,8 @@
       "name": "Blue",
       "slug": "blue",
       "website": "https://heyblue.com/",
-      "description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (\u201cBud\u201d) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant\u2019s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe\u2019ve built systems used by billions. Now we\u2019re on to defining the next era of computing.",
-      "one_liner": "The only voice assistant that can control every app on your phone.",
+      "description": "Blue is the first voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (\u201cBud\u201d) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant\u2019s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe\u2019ve built systems used by billions. Now we\u2019re on to defining the next era of computing.",
+      "one_liner": "The first voice assistant that can control every app on your iPhone",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -52,9 +52,9 @@
       ],
       "locations": "Santa Clara, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Speech Recognition",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -135,7 +135,7 @@
       "slug": "realroots",
       "website": "http://www.therealroots.com",
       "description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
-      "one_liner": "RealRoots is the AI social app for women.",
+      "one_liner": "RealRoots is the AI social app for female transplants",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -151,10 +151,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Marketplace",
         "Consumer",
-        "Social Network",
-        "AI"
+        "Social Network"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -197,7 +197,7 @@
       "slug": "freya",
       "website": "https://freyavoice.ai/",
       "description": "",
-      "one_liner": "Voice AI Agents For Financial Services And Other Regulated Industries",
+      "one_liner": "Voice AI for European Enterprises",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -212,10 +212,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Retail",
-        "Call Center"
+        "Call Center",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -246,9 +246,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Supply Chain",
-        "Food Tech",
-        "AI"
+        "Food Tech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -570,10 +570,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Chat"
+        "Chat",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -588,7 +588,7 @@
       "slug": "tectoai",
       "website": "https://www.tecto.ai/",
       "description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployment, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
-      "one_liner": "Governance for AI Employees",
+      "one_liner": "Recruit and Monitor AI Employees",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -614,6 +614,39 @@
       "is_top_company": false,
       "launched_at": 1752441321.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png"
+    },
+    {
+      "id": 30781,
+      "name": "Duranium",
+      "slug": "duranium",
+      "website": "https://www.duranium.co/",
+      "description": "China and Russia control the world\u2019s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO\u2082-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO\u2082 emissions back into feedstock (CO) while generating a valuable co-product (hypochlorite). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies \u2014 unlocking the full potential of carbochlorination for U.S. critical mineral production.",
+      "one_liner": "Reshoring critical metal production",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Alameda, CA, USA",
+      "tags": [
+        "Manufacturing",
+        "Advanced Materials",
+        "ClimateTech"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1757191317.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a84608596d6e85a1a64227a175491ef9496eb22.png"
     },
     {
       "id": 30778,
@@ -1151,8 +1184,8 @@
       "name": "Pally",
       "slug": "pally",
       "website": "https://pally.com",
-      "description": "Hey \ud83d\udc4b,\u00a0we\u2019re Haz and Wyatt, the founders of Pally, and we\u2019re building at the intersection of AI and Human Relationships. \r\n\r\nWe believe that while AI will automate a lot of low-level tasks, that this will dramatically increase the value of human connection at the highest level.\r\n\r\nIn a world full of \u2018AI SDRs\u2019, our warm connections become more important than ever. \r\n\r\nYet today, keeping track of thousands of connections across countless social platforms is impossible. We forget to respond, we miss important moments, we lose touch.  \r\n\r\nWe\u2019re building Pally to solve that. \r\n\r\nWe bring together every connection, across every platform. Our AI researches everything they\u2019ve ever posted online, and uses its deep understanding of each person to help you achieve your goals; whether hiring, fundraising, or sales.",
-      "one_liner": "Pally is an AI Relationship Management Platform",
+      "description": "We spend our lives in messaging apps. Slack. iMessage. WhatsApp. We face a constant stream of information, introductions, and things we need to do.\r\n\r\nWhat if you could bring together every message, from every platform, in a Superhuman-like experience, with AI agents that automatically complete your action items?\r\n\r\nThat\u2019s exactly what we\u2019re building at Pally; a future where you never need to check another inbox again. ",
+      "one_liner": "Intelligent Unified Inbox + Personal CRM",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1168,18 +1201,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "B2B",
         "Productivity",
-        "Search",
-        "AI"
+        "Search"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1750346506.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cc7c45ea4fbab294226a104bf2bacc21f8cb627.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8122df650e86be44e74129b9b3b90d553a670985.png"
     },
     {
       "id": 30754,
@@ -1415,12 +1448,47 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png"
     },
     {
+      "id": 30740,
+      "name": "Metis",
+      "slug": "metis",
+      "website": "https://withmetis.ai",
+      "description": "We build infrastructure enabling AI agents to reliably perform complex digital work tasks",
+      "one_liner": "Building infrastructure to build reliable agents",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "AIOps",
+        "Reinforcement Learning",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1757196548.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e4dd7846f3b83970b08dbf433808e366a4bfd64.png"
+    },
+    {
       "id": 30739,
       "name": "Eden",
       "slug": "tryeden",
       "website": "https://tryeden.ai",
-      "description": "Eden allows e-commerce brands to use customer data effectively when running campaigns. We help marketing teams understand their customers' stories by using data from their store, sales, support tickets, and marketing channels to turn hesitant browsers into customers who buy.\r\n\r\nAlex and Jason met at TJHSST where they became nationally ranked debate partners and eventually coworkers at Datadog. Alex led operations at Phia, scaling to 100+ brand affiliate partners. Jason led retargeting ads at Reddit and previously sold an AI recruiting startup.\r\n\r\nExisting marketing data sits in silos, underutilized. AI enables marketers to unlock a treasure trove of data to create more effective campaigns in a fraction of the time. We will make every marketing department data-driven.",
-      "one_liner": "AI Native Retention Marketing for E-Commerce",
+      "description": "Eden runs marketing for ecommerce brands. Our AI agents can autonomously schedule campaigns, run A/B tests, and personalize experiences across email, SMS, site display, and more, so brand founders get enterprise-level marketing without needing a team or agency.\r\n\r\nAlex and Jason have been best friends for 8+ years. They met at TJHSST, became nationally ranked debate partners, and later coworkers at Datadog. Alex led operations at an AI shopping startup, working directly with brands like TheRealReal, Poshmark, and Farfetch. Jason was at Reddit's mobile ad retargeting team and is a second-time founder, previously exiting an AI recruiting startup doing $50K MRR.",
+      "one_liner": "Autonomous Marketing AI for Ecommerce Brands",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1606,8 +1674,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Travel",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1907,9 +1975,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Education",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1924,7 +1992,7 @@
       "slug": "autosana",
       "website": "https://autosana.ai",
       "description": "24/7 AI QA engineer for mobile teams. Add our agent to your mobile app repository and that's it.\r\n\r\nTurns natural language into E2E tests, eradicating manual testing and the need to write/maintain UX scripts. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nSaving your team hours and catching bugs before users do. ",
-      "one_liner": "QA agent for mobile teams",
+      "one_liner": "AI QA Engineer for Mobile Teams",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2006,9 +2074,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2125,7 +2193,7 @@
       "name": "Hyprnote",
       "slug": "hyprnote",
       "website": "https://hyprnote.com",
-      "description": "Hyprnote is an open-source AI notetaker for enterprises. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
+      "description": "Hyprnote is the first open-source AI notetaker for the enterprise. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
       "one_liner": "Open-source AI notetaker for the enterprise",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2143,6 +2211,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "B2B",
+        "Productivity",
+        "Enterprise Software",
         "AI"
       ],
       "stage": "Early",
@@ -2174,10 +2244,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2365,9 +2435,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Entertainment",
-        "Music",
-        "AI"
+        "Artificial Intelligence",
+        "Consumer",
+        "Music"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2413,8 +2483,8 @@
       "name": "Mimos",
       "slug": "mimos",
       "website": "https://www.mimos-ai.com/",
-      "description": "Mimos helps regulated companies rank in AI search.\r\n\r\nCompliance is the biggest blocker to marketing in regulated industries. Every claim needs to be substantiated, every disclosure included, and mistakes can lead to audits and fines. That\u2019s why campaigns sit in compliance queues for weeks.\r\n\r\nMimos automates this entire loop:\r\n \u2022 Drafts are generated from your policies, past redlines, and the latest regulations\r\n \u2022 Evidence packets and disclaimers are auto-inserted for compliance review\r\n \u2022 Customers click to publish and start seeing new leads within days\r\n\r\nLearn more at trymimos.com\r\n\r\n===\r\n\r\nRohit & Michael have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.\r\n\r\nPrior to Mimos, Rohit built infrastructure for OpenAI at Microsoft Azure, and Michael shipped AI to 1B+ Alexa devices at Amazon.",
-      "one_liner": "Helping regulated companies rank in AI search",
+      "description": "Mimos helps companies rank in AI search.\r\n\r\n800 million people use ChatGPT every week. Today, customers don\u2019t see 10 blue links, they see an answer. And if your brand isn\u2019t cited, you basically don\u2019t exist. \r\n\r\nOur agents automate the playbook for becoming the answer:\r\n 1. Pinpoint Visibility Gaps: Analyzes your site, competitors, and customer data to find precise ranking opportunities.\r\n 2. Craft the Solution: Automatically stages technical fixes and generates policy-aligned content in your brand's voice. \r\n 3. Integrate with CMS: Instantly deploy fixes and content to your site, driving new leads in days, not months.\r\n\r\nLearn more at trymimos.com\r\n\r\n===\r\n\r\nRohit & Michael have been working together on various technical project since 6th grade (15 years!) - and Mimos came about as one of those projects.",
+      "one_liner": "Helping companies rank in AI search",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2493,10 +2563,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Consumer",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2629,8 +2699,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "E-commerce",
-        "AI"
+        "Artificial Intelligence",
+        "E-commerce"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2711,7 +2781,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Embedder is an AI coding agent that can write and test firmware on real hardware. General-purpose coding assistants are blind to the physical constraints of your target system. They don't read datasheets, respect timing requirements, or interact with test equipment, resulting in plausible-looking code that is functionally useless on a real device.\r\n\r\nEmbedder grounds its intelligence in actual hardware. It starts by building an accurate model of your system by indexing datasheets, reference manuals, and errata. It then closes the loop by connecting directly to your physical tools \u2014 interfacing with debuggers, serial ports, logic analyzers and oscilloscopes \u2014 to autonomously test and validate the firmware it generates in the real world.",
+      "description": "Embedder is an AI coding agent that can write and test firmware on real hardware. \r\n\r\nGeneral-purpose coding agents can't read documentation, respect timing requirements, or interact with test equipment, resulting in plausible-looking code that is functionally useless on a real device.\r\n\r\nEmbedder builds a hardware model by indexing datasheets, schematics, reference manuals, and errata. It then closes the loop by connecting directly to your physical tools (debuggers, serial ports, logic analyzers and oscilloscopes) to autonomously test and validate the firmware it generates in the real world.",
       "one_liner": "Coding Agent for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3138,8 +3208,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Edge Computing Semiconductors"
+        "Edge Computing Semiconductors",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3286,7 +3356,7 @@
       "slug": "cocreate",
       "website": "https://cocreate.so",
       "description": "Before editing begins, professional video teams spend days copying, organizing, and prepping footage \u2014 a process that can eat up 40% of a project\u2019s time and budget. CoCreate runs in the background during backup, delivering fully organized, searchable, and edit-ready projects for Premiere, Avid, Final Cut, or Resolve the moment media is offloaded. The result: faster turnarounds, fewer errors, and more time spent actually editing.",
-      "one_liner": "AI-native video editing software that automates video post-production",
+      "one_liner": "AI-native video production software that automates post-production",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -3319,7 +3389,7 @@
       "slug": "slashy",
       "website": "https://www.slashy.ai/",
       "description": "Slashy is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
-      "one_liner": "ChatGPT with Hands",
+      "one_liner": "AI Native Ops Layer for Business Workflows",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -3351,7 +3421,7 @@
       "slug": "wedge",
       "website": "https://www.wedge.health",
       "description": "The Operating System for Health AI: we deploy, govern, and scale AI agents across healthcare organizations.",
-      "one_liner": "Palantir for Health AI Agents",
+      "one_liner": "Palantir for Healthcare AI Agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3366,10 +3436,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3571,10 +3641,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Food & Beverage",
-        "AI"
+        "Food & Beverage"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3826,7 +3896,7 @@
       "slug": "imprezia",
       "website": "https://imprezia.ai",
       "description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
-      "one_liner": "The World's First AI-Native Ad Network.",
+      "one_liner": "The World's First AI Ad Network.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -3854,7 +3924,7 @@
       "slug": "lilac",
       "website": "https://getlilac.com",
       "description": "Lilac is a GPU spot marketplace that taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper compute while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
-      "one_liner": "Spot GPU marketplace that uses idle GPUs from enterprises",
+      "one_liner": "Spot GPUs that uses idle GPUs from enterprises",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3871,10 +3941,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Cloud Computing",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3938,11 +4008,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Robotic Process Automation",
         "Workflow Automation",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4008,9 +4078,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Data Labeling",
-        "AI"
+        "Data Labeling"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4036,14 +4106,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4139,9 +4205,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Geographic Information System",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4221,8 +4287,8 @@
       "name": "EffiGov",
       "slug": "effigov",
       "website": "https://effi-gov.com",
-      "description": "EffiGov builds AI employees for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
-      "one_liner": "AI Employees for Local Governments",
+      "description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
+      "one_liner": "AI OS for Cities",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4237,8 +4303,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "SaaS",
-        "AI"
+        "Artificial Intelligence",
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4301,11 +4367,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Subscriptions",
-        "AI"
+        "Subscriptions"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4535,11 +4601,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "B2B",
         "Data Labeling",
-        "Big Data"
+        "Big Data",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4693,8 +4759,8 @@
       "name": "Async",
       "slug": "async",
       "website": "https://www.async.build/",
-      "description": "Async is a platform to manage a team of coding agents from anywhere.\r\nIt lets you issue tasks, then handles coding and testing in the background. Review results on mobile or desktop, preview changes in-app, run tasks in parallel, and move faster than ever before.\r\n\r\nOur mission is to do the work that you don't want to: bug fixes, UI tweaks, papercuts, and KTLO.\r\nDo what's important - delegate the rest to Async.",
-      "one_liner": "AI-native Linear + GitHub",
+      "description": "Async is an open-source task management tool that doesn't just track work, it does it.\r\nAsync automatically triages tickets, completes them, and tests from end-to-end. We're fully open-source and self-hostable, so you can customize Async to work for your company and your processes.\r\n\r\nOur mission is to kill engineering busywork: bug fixes, UI tweaks, papercuts, and KTLO.",
+      "one_liner": "AI-native Linear",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5025,7 +5091,7 @@
       "slug": "acrely",
       "website": "https://www.acrely.ai",
       "description": "Have something to say? Feel free to reach out: founders@acrely.ai\r\n\r\nWe provide home service business owners with voice AI to capture every inbound call and turn it into booked jobs.\r\n\r\nMeet Jane, your AI-powered customer service rep. When a customer calls and no one answers, Jane does. She talks naturally with callers, understands their problem, and books the job, whether it\u2019s a leaky pipe, an AC repair, or a new installation.\r\n\r\nHome services are still phone-first, but owners lose thousands each month to missed calls and overwhelmed CSRs. Every truck, website, and yard sign funnels calls in, yet too often they go to voicemail or get dropped. Jane makes sure the real jobs, the ones that pay, never slip through.\r\n\r\nWe\u2019re starting by solving inbound, the single most expensive leak in the business. With Jane, contractors never miss a call, never lose a customer to voicemail, and finally have a CSR that works 24/7 without turnover or breaks.",
-      "one_liner": "ai-native admin for HVAC",
+      "one_liner": "AI CSR + Dispatch for HVAC",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -5040,8 +5106,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Home Services",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5137,8 +5203,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5367,10 +5433,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Finance",
-        "Search"
+        "Search",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5381,7 +5447,7 @@
     },
     {
       "id": 30364,
-      "name": "Wayline",
+      "name": "WAYLINE",
       "slug": "wayline",
       "website": "https://wayline.com",
       "description": "Wayline is an AI front desk assistant purpose-built for real estate to answer calls and messages 24/7. It\u2019s like an always-on property manager that can convert leads and resolve issues better than any human, day or night. Our AI can be setup in as little as 24 hours and works seamlessly with existing phone/management software. Uniquely, our AI knowledge base is domain-specific to learn and handle the most complex real estate workflows. For property operators, Wayline instantly replaces robo-menus and call centers, while centralizing and scaling back-office teams.",
@@ -5499,15 +5565,9 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "SaaS",
-        "Payments",
-        "B2B",
-        "Subscriptions",
-        "Billing"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730430835.0,
@@ -5550,5 +5610,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-06T18:01:09.699093"
+  "fetched_at": "2025-09-07T00:03:30.172081"
 }
