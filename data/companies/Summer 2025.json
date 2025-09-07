@@ -103,7 +103,7 @@
       "name": "Uplift AI",
       "slug": "uplift-ai",
       "website": "https://upliftai.org/",
-      "description": "We build Voice Models for regional languages and make them available to developers through simple APIs and SDKs. \r\n\r\nDevelopers use our APIs to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc) for audiences around the world with a consistent, high quality experience.\r\n\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. People who would previously never use certain digital services (like online ordering or e-health), actually use the service when they are given an intuitive Voice based interface. \r\n\r\nUplift AI will provide the best models to create Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.",
+      "description": "We build Voice Models for regional languages (like Urdu, Bengali etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the developer experience.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.\r\n",
       "one_liner": "Foundational Voice Models for regional languages",
       "batch": "Summer 2025",
       "status": "Active",
@@ -413,7 +413,7 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1168,9 +1168,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1504,9 +1504,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "E-commerce",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1538,9 +1538,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Telecommunications",
-        "AI"
+        "Telecommunications"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1640,11 +1640,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Payments",
         "Marketing",
-        "CRM"
+        "CRM",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2040,11 +2040,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Productivity",
         "Calendar",
-        "Email",
-        "AI"
+        "Email"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2158,8 +2158,8 @@
       "name": "Relling",
       "slug": "relling",
       "website": "https://rellingsystems.com",
-      "description": "",
-      "one_liner": "Next Gen Data",
+      "description": "Relling provides the \u201cImageNet for world models\u201d: large-scale, high-quality multimodal datasets that help AI and robotics teams train systems to see, move, and interact with the real world. We combine synchronized video, depth, LiDAR, motion, and audio, we give researchers the building blocks for truly general-purpose AI.",
+      "one_liner": "ImageNet for world models",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2175,18 +2175,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Robotics",
-        "B2B",
         "Infrastructure",
-        "AR"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1756070413.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d5ff69612096002a3461191b5ad5deda90a7927.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e003594279b3a4474845b643ff2ee16c26f34a1a.png"
     },
     {
       "id": 30711,
@@ -2597,11 +2595,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Sales",
-        "Supply Chain"
+        "Supply Chain",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2748,8 +2746,8 @@
       "name": "Candytrail",
       "slug": "candytrail",
       "website": "https://candytrail.ai/",
-      "description": "We\u2019re building conversation intelligence for in-person sales teams. Our platform captures every customer interaction and surfaces insights on winning talk tracks, common objections, and revenue drivers. Today we're deployed in pharma, real estate, and retail and expanding this foundation into becoming the full sales operations layer for these industries.",
-      "one_liner": "Conversation intelligence for in-person teams",
+      "description": "We\u2019re building the optimization platform for in-person sales teams. Our agents capture every customer interaction and surface insights on winning talk tracks, common objections, and revenue drivers. We have already delivered an average 13% lift in revenue for customers in pharma, real estate, and retail.",
+      "one_liner": "AI agents for in-person sales teams, starting with coaching",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2899,8 +2897,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Generative AI",
-        "AI"
+        "Artificial Intelligence",
+        "Generative AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3173,11 +3171,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Legal",
-        "LegalTech"
+        "LegalTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3675,11 +3673,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Workflow Automation",
         "Productivity",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3738,18 +3736,12 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Deep Learning",
-        "Edge Computing Semiconductors",
-        "IoT"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753646840.0,
@@ -4208,9 +4200,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Geographic Information System",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5075,11 +5067,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Marketing",
-        "SEO",
-        "AI"
+        "SEO"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5141,10 +5133,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Workflow Automation",
-        "DevOps"
+        "DevOps",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5223,7 +5215,7 @@
       "slug": "getasap-asia",
       "website": "https://www.getasap.asia",
       "description": "We use a network of optimized fulfillment centers to offer the lowest prices and 8 hour same-day delivery to corner stores, restaurants, and supermarket chains in Southeast Asia.\r\n",
-      "one_liner": "Tech-Enabled Distribution for Retailers in Southeast Asia",
+      "one_liner": "Tech-Enabled Distributor for Retailers in Southeast Asia",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 17,
@@ -5613,5 +5605,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-07T06:01:02.989662"
+  "fetched_at": "2025-09-07T12:01:24.815495"
 }
