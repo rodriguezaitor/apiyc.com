@@ -2598,40 +2598,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2cd9231d352195b9c81d40c7f7df4295e580f3.png"
     },
     {
-      "id": 29793,
-      "name": "RiskAngle",
-      "slug": "riskangle",
-      "website": "https://www.riskangle.com/",
-      "description": "RiskAngle delivers fast, accurate summaries of unstructured medical records for insurance companies and law firms. Our AI-powered platform enables users to streamline underwriting, expedite claims processing, and prepare cases with confidence.",
-      "one_liner": "AI medical summaries in minutes",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "B2B",
-        "Legal",
-        "Insurance"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1721862703.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a02285653f46a282f6b715527aa06ce8d9cd0d.png"
-    },
-    {
       "id": 29792,
       "name": "Winford Wealth",
       "slug": "winford-wealth",
@@ -8234,6 +8200,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2ad649a18852dafbb67750b37634ebaf5846cdc.png"
     },
     {
+      "id": 29793,
+      "name": "RiskAngle",
+      "slug": "riskangle",
+      "website": "https://www.riskangle.com/",
+      "description": "RiskAngle delivers fast, accurate summaries of unstructured medical records for insurance companies and law firms. Our AI-powered platform enables users to streamline underwriting, expedite claims processing, and prepare cases with confidence.",
+      "one_liner": "AI medical summaries in minutes",
+      "batch": "Summer 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Legal",
+        "Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1721862703.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a02285653f46a282f6b715527aa06ce8d9cd0d.png"
+    },
+    {
       "id": 29747,
       "name": "deepsilicon",
       "slug": "deepsilicon",
@@ -8329,5 +8329,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-08T12:01:21.565605"
+  "fetched_at": "2025-09-08T18:01:10.358266"
 }

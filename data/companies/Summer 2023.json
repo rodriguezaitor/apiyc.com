@@ -1476,7 +1476,7 @@
       "slug": "smobi",
       "website": "https://smobi.com/",
       "description": "Smobi is the AI-powered platform for branded, interactive business messaging, starting with RCS. We help businesses send rich, personalized messages that drive engagement, build trust, and create real conversations.",
-      "one_liner": "Send customers the texts they actually want over RCS",
+      "one_liner": "Send texts your customers actually want over RCS",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 4,
@@ -3918,8 +3918,8 @@
       "name": "Cardinal Gray",
       "slug": "cardinal-gray",
       "website": "https://www.cardinalgray.com/",
-      "description": "Cardinal Gray offers software to automate workflows in vehicle title and registration. Auto lenders and dealerships use our software to accelerate title work, improve customer experiences, and detect fraud. ",
-      "one_liner": "Title workflow automation for auto lenders and dealers",
+      "description": "When a lender gives out a car loan, they need to file a lien with their borrower\u2019s DMV. This is difficult because the process varies by state and county. We\u2019ve leveraged LLMs to help lenders automate lien filings for over $500M of loans.",
+      "one_liner": "Automating lenders' interactions with the DMV",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -3935,10 +3935,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Workflow Automation",
+        "Artificial Intelligence",
         "Enterprise Software",
         "Consumer Finance",
-        "AI",
+        "Automation",
         "Automotive"
       ],
       "stage": "Early",
@@ -6097,7 +6097,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688401921.0,
@@ -7351,5 +7351,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-08T12:01:22.245986"
+  "fetched_at": "2025-09-08T18:01:11.529401"
 }
