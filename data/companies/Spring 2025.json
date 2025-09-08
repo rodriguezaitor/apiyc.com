@@ -4387,11 +4387,11 @@
     },
     {
       "id": 30173,
-      "name": "Tropir",
-      "slug": "tropir",
-      "website": "https://www.tropir.com/",
-      "description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don\u2019t just trace where your pipeline broke\u2014we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-      "one_liner": "The AI that builds better AIs",
+      "name": "Aviro",
+      "slug": "aviro",
+      "website": "https://www.aviro.ai/",
+      "description": ".",
+      "one_liner": "Task Time Intelligence for Enterprise AI",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4416,7 +4416,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746601065.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png"
     },
     {
       "id": 29666,
@@ -4574,5 +4574,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-08T00:02:52.577900"
+  "fetched_at": "2025-09-08T06:01:28.965059"
 }

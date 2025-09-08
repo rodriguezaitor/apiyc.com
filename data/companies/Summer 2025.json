@@ -1001,10 +1001,10 @@
       ],
       "locations": "Overland Park, KS, USA",
       "tags": [
+        "Artificial Intelligence",
         "Drones",
         "B2B",
         "Agriculture",
-        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -1454,7 +1454,7 @@
       "slug": "metis",
       "website": "https://withmetis.ai",
       "description": "We build infrastructure enabling AI agents to reliably perform complex digital work tasks",
-      "one_liner": "Building infrastructure to build reliable agents",
+      "one_liner": "Infrastructure to build reliable agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -3893,7 +3893,7 @@
       "one_liner": "The World's First AI Ad Network.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -4202,9 +4202,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Geographic Information System",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5360,17 +5360,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United Kingdom",
-        "Europe"
+        "Unspecified"
       ],
-      "locations": "London, England, United Kingdom",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Hard Tech"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752189935.0,
@@ -5607,5 +5602,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-08T00:02:51.361465"
+  "fetched_at": "2025-09-08T06:01:28.456167"
 }
