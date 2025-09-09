@@ -1713,7 +1713,7 @@
       "id": 29828,
       "name": "Sterling Labs, Inc",
       "slug": "sterling-labs-inc",
-      "website": "https://www.focusbuddy.ai/?ref=yc",
+      "website": "https://www.sterlinglabs.io/?ref=yc",
       "description": "currently in stealth\r\n\r\nReach out to us at yashmr@sterlinglabs.io\r\n\r\nOur previous product - \r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n\u2022 Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n\u2022 Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n\u2022 Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
       "one_liner": "Currently in stealth - previously FocusBuddy",
       "batch": "Summer 2024",
@@ -4131,7 +4131,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1715615655.0,
@@ -4813,15 +4813,10 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Generative AI",
-        "Enterprise Software"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5799,10 +5794,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Finance",
         "B2B",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7156,12 +7151,10 @@
         "Aviation and Space"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Long Beach, CA, USA",
+      "locations": "",
       "tags": [
         "Hard Tech",
         "Robotics",
@@ -8329,5 +8322,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-08T18:01:10.358266"
+  "fetched_at": "2025-09-09T00:02:44.664974"
 }

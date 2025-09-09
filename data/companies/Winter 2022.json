@@ -944,38 +944,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png"
     },
     {
-      "id": 26137,
-      "name": "Pina Earth",
-      "slug": "pina-earth",
-      "website": "https://pina.earth/en",
-      "description": "Pina Earth is building a suite of digital tools for data collection, monitoring, and certification of forest carbon projects. EU forests are at high risk due to climate change. With Pina Earth, forest owners can start high-quality carbon projects on their properties and use the new income stream to prepare their forests for a changing climate. Founded only last year, the startup already has active pilot projects on over 1,000 hectare (\u223c2,500 acres) in Germany. The founders met at CDTM and joined their expertise in sustainability science, software engineering, and machine learning to help EU forests.",
-      "one_liner": "Unlocking carbon markets for European forest owners",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Climate",
-      "industries": [
-        "Industrials",
-        "Climate"
-      ],
-      "regions": [
-        "Germany",
-        "Europe"
-      ],
-      "locations": "Munich, BY, Germany",
-      "tags": [
-        "Climate",
-        "ClimateTech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1643809189.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/edd32af81be19832964baf047e67f20f5f388dba.png"
-    },
-    {
       "id": 26134,
       "name": "Beyond Aero",
       "slug": "beyond-aero",
@@ -5853,7 +5821,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1646685328.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/033ffacc630e52101d6adaab4cfa3d0421f6c36d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/27e4f86a5dfe2f9b052160388e2aeeacf844e019.png"
     },
     {
       "id": 25673,
@@ -11918,6 +11886,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ed9dc06a8e2160ef441a0f912e03226a6ba9def.png"
     },
     {
+      "id": 26137,
+      "name": "Pina Earth",
+      "slug": "pina-earth",
+      "website": "https://pina.earth/en",
+      "description": "Pina Earth is building a suite of digital tools for data collection, monitoring, and certification of forest carbon projects. EU forests are at high risk due to climate change. With Pina Earth, forest owners can start high-quality carbon projects on their properties and use the new income stream to prepare their forests for a changing climate. Founded only last year, the startup already has active pilot projects on over 1,000 hectare (\u223c2,500 acres) in Germany. The founders met at CDTM and joined their expertise in sustainability science, software engineering, and machine learning to help EU forests.",
+      "one_liner": "Unlocking carbon markets for European forest owners",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Climate",
+      "industries": [
+        "Industrials",
+        "Climate"
+      ],
+      "regions": [
+        "Germany",
+        "Europe"
+      ],
+      "locations": "Munich, BY, Germany",
+      "tags": [
+        "Climate",
+        "ClimateTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1643809189.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/edd32af81be19832964baf047e67f20f5f388dba.png"
+    },
+    {
       "id": 26065,
       "name": "TAI",
       "slug": "tai",
@@ -13824,5 +13824,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-09-08T18:01:08.857777"
+  "fetched_at": "2025-09-09T00:02:43.052986"
 }

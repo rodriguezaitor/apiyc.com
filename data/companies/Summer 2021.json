@@ -5196,16 +5196,16 @@
       "name": "Whalesync",
       "slug": "whalesync",
       "website": "https://www.whalesync.com",
-      "description": "Whalesync makes data syncing easy. Our automation platform syncs data between key business tools like HubSpot and Airtable. We give developers and ops teams two-way, real-time sync, so they can build production-ready workflows.\r\n\r\nWhalesync launched during Y Combinator\u2019s S21 cohort. Since then we\u2019ve raised from some of the world\u2019s top investors. We\u2019re now trusted by hundreds of companies like [Ramp](https://ramp.com/), [Webflow](https://webflow.com/), and [Alchemy](https://www.alchemy.com/), and process millions of transactions every day. Many of our customers enjoy the product so much they [tell all their friends](https://whalesync.com/preach).",
-      "one_liner": "Two-way sync data between key business tools like HubSpot & Airtable",
+      "description": "Whalesync makes data syncing easy. Our automation platform syncs data between key business tools like Webflow/Wix/WordPress and Airtable/Notion/Google Sheets. We give marketing teams two-way, real-time sync, so they can manage their website from their favorite collaboration tools.\r\n\r\nWhalesync launched during Y Combinator\u2019s S21 cohort. Since then we\u2019ve raised from some of the world\u2019s top investors. We\u2019re now trusted by hundreds of companies like [Ramp](https://ramp.com/), [Webflow](https://webflow.com/), and [Alchemy](https://www.alchemy.com/), and process millions of transactions every day. Many of our customers enjoy the product so much they [tell all their friends](https://whalesync.com/customers).",
+      "one_liner": "Manage your website from your favorite tools like Airtable and Notion",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Operations"
+        "Marketing"
       ],
       "regions": [
         "United States of America",
@@ -5218,10 +5218,11 @@
         "SaaS",
         "Remote Work",
         "No-code",
-        "Data Engineering"
+        "Data Engineering",
+        "Web Development"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1626201713.0,
@@ -13424,5 +13425,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-08T18:01:09.189788"
+  "fetched_at": "2025-09-09T00:02:43.471205"
 }
