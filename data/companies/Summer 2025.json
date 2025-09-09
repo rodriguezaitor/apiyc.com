@@ -103,7 +103,7 @@
       "name": "Uplift AI",
       "slug": "uplift-ai",
       "website": "https://upliftai.org/",
-      "description": "We build Voice Models for regional languages (like Urdu, Bengali etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the developer experience.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.\r\n",
+      "description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the developer experience.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.\r\n",
       "one_liner": "Foundational Voice Models for regional languages",
       "batch": "Summer 2025",
       "status": "Active",
@@ -212,10 +212,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Retail",
-        "Call Center",
-        "AI"
+        "Call Center"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1168,9 +1168,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3175,11 +3175,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Legal",
-        "LegalTech",
-        "AI"
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3627,7 +3627,7 @@
       "name": "Stockline",
       "slug": "stockline",
       "website": "https://stockline.ai",
-      "description": "\r\nStockline is an AI-native ERP for food wholesalers. Our agents eliminate human labor for repetitive tasks, starting with order entry. \r\n\r\nIn 3 months, we went from 0 to $234k in ARR. The market is a $25b opportunity. \r\n\r\nOur goal is to replace clunky software with the next generation of ERPs, built with AI employees at their core.\r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. \r\nMariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
+      "description": "\r\nStockline is an AI-native ERP for food wholesalers. Our agents eliminate human labor for repetitive tasks, starting with order entry. \r\n\r\nIn 3 months, we went from 0 to $256k in ARR. The market is a $25b opportunity. \r\n\r\nOur goal is to replace clunky software with the next generation of ERPs, built with AI employees at their core.\r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. \r\nMariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
       "one_liner": "AI-native ERP for food wholesalers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3643,10 +3643,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Food & Beverage",
-        "AI"
+        "Food & Beverage"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5071,11 +5071,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Marketing",
-        "SEO",
-        "AI"
+        "SEO"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5494,9 +5494,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5604,5 +5604,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-09T06:01:12.912268"
+  "fetched_at": "2025-09-09T12:01:16.241455"
 }

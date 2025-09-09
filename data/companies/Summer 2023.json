@@ -1371,14 +1371,14 @@
     },
     {
       "id": 29085,
-      "name": "Quill AI",
-      "slug": "quill-ai",
-      "website": "https://quillai.com",
-      "description": "Quill AI automates the tedious parts of researching and investing in public equities. Extract back-linked data from SEC filings and earnings calls, get excel-downloadable financial historicals with company-specific KPIs, and digest earnings results faster every quarter. Faster processes help you increase your coverage per analyst.",
-      "one_liner": "AI Powered Equity Research Platform",
+      "name": "Quill Bills",
+      "slug": "quill-bills",
+      "website": "https://quillbills.com",
+      "description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and fight every denial.",
+      "one_liner": "AI-Powered Medical Billing",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -1389,11 +1389,12 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "New York, NY, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Fintech",
-        "Automation",
+        "Healthcare",
+        "Health Insurance",
+        "Healthcare IT",
+        "Billing",
         "AI"
       ],
       "stage": "Early",
@@ -1401,7 +1402,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1685991991.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e7762092d8acb956495f524447c38dcb3271f81.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png"
     },
     {
       "id": 29082,
@@ -7351,5 +7352,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-09T06:01:12.635081"
+  "fetched_at": "2025-09-09T12:01:14.642180"
 }
