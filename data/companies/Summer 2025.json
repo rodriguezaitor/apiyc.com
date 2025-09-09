@@ -246,9 +246,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Supply Chain",
-        "Food Tech"
+        "Food Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -766,10 +766,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Logistics",
         "Supply Chain",
-        "Data Science"
+        "Data Science",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -967,9 +967,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "B2B",
         "Automation",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -1305,8 +1305,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-powered Drug Discovery",
-        "Biotech",
-        "AI"
+        "Artificial Intelligence",
+        "Biotech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1355,7 +1355,7 @@
       "name": "Opennote",
       "slug": "opennote",
       "website": "https://opennote.com",
-      "description": "Opennote is building an AI tutor that lives in your notes, giving every student a truly personalized learning experience.\r\n\r\nMost students struggle with scattered knowledge across different apps and tools that don't understand their learning style. Opennote changes that with an intelligent note-taking platform where your AI tutor knows your learning style, connects your existing knowledge bases and the web, and provides real-time feedback right where you're already working.",
+      "description": "Opennote is building an AI tutor that lives in your notes, giving every student a truly personalized learning experience.\r\n\r\nMost students struggle with scattered knowledge across different apps and tools that don't understand their learning style. Opennote changes that with an intelligent note-taking platform where your AI tutor knows your learning style, connects to your existing knowledge bases and the web, and provides proactive feedback\u2014right where you're already working.",
       "one_liner": "The AI tutor that lives in your notes",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2010,8 +2010,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "SaaS",
-        "AI"
+        "Artificial Intelligence",
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2041,11 +2041,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Productivity",
         "Calendar",
-        "Email"
+        "Email",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2372,13 +2372,12 @@
         "Insurance"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "New York, NY, USA",
+      "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754360048.0,
@@ -2393,16 +2392,19 @@
       "one_liner": "Autonomous undersea vehicles to deter maritime invasions.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 15,
       "industry": "Government",
       "subindustry": "Industrials -> Drones",
       "industries": [
         "Government"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
+      "locations": "Philadelphia, PA, USA",
       "tags": [
         "Drones",
         "Maritime"
@@ -2631,10 +2633,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Compliance",
         "Manufacturing",
+        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -3240,11 +3242,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Hard Tech",
         "Hardware",
-        "Robotics"
+        "Robotics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3339,9 +3341,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3436,10 +3438,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3469,8 +3471,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Health Tech",
-        "AI"
+        "Artificial Intelligence",
+        "Health Tech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3872,10 +3874,10 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
         "DevSecOps",
-        "Security",
-        "AI"
+        "Security"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4002,11 +4004,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Robotic Process Automation",
         "Workflow Automation",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4202,9 +4204,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Geographic Information System",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5069,11 +5071,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Marketing",
-        "SEO"
+        "SEO",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5200,8 +5202,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5476,7 +5478,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is using AI to replace human Account Managers, starting with B2B SaaS companies.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+      "description": "Ambral is an AI account management team built to help B2B companies maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
       "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5492,9 +5494,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5602,5 +5604,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-09T00:02:47.304602"
+  "fetched_at": "2025-09-09T06:01:12.912268"
 }
