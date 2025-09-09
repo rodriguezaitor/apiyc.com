@@ -103,7 +103,7 @@
       "name": "Uplift AI",
       "slug": "uplift-ai",
       "website": "https://upliftai.org/",
-      "description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the developer experience.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.\r\n",
+      "description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the best developer experience for regional languages.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.\r\n",
       "one_liner": "Foundational Voice Models for regional languages",
       "batch": "Summer 2025",
       "status": "Active",
@@ -553,7 +553,7 @@
       "name": "RowFlow",
       "slug": "rowflow",
       "website": "https://rowflow.ai",
-      "description": "RowFlow is like if Typeform or SurveyMonkey started as an AI company. We replace clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform aims to double your form\u2019s response rates while cutting your internal overhead in half. \r\n\r\nWith RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.\r\n\r\nForms power billions of business interactions yearly. Whether it\u2019s forms for client intake, registrations, compliance, feedback, or surveys, they all follow the same painful pattern: low conversion, messy data, and frustrated users. Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from people - until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",
+      "description": "RowFlow replaces clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform increases your form\u2019s response rates while cutting your internal overhead in half. \r\n\r\nWith RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.\r\n\r\nForms power billions of business interactions yearly. Whether it\u2019s forms for client intake, registrations, compliance, feedback, or surveys, they all follow the same painful pattern: low conversion, messy data, and frustrated users. Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from people - until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",
       "one_liner": "Replacing forms with AI conversations",
       "batch": "Summer 2025",
       "status": "Active",
@@ -570,10 +570,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Chat",
-        "AI"
+        "Chat"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -766,10 +766,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Logistics",
         "Supply Chain",
-        "Data Science",
-        "AI"
+        "Data Science"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1201,11 +1201,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "B2B",
         "Productivity",
-        "Search",
-        "AI"
+        "Search"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1708,10 +1708,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2041,11 +2041,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Productivity",
         "Calendar",
-        "Email",
-        "AI"
+        "Email"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2209,10 +2209,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Productivity",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2716,7 +2716,7 @@
       "name": "Epicenter",
       "slug": "epicenter",
       "website": "https://epicenter.so/",
-      "description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly.\r\n\r\nOur vision is to become the SSO for AI applications. Users use Epicenter to plug into any service, and they'll own their data, choose their models, and replace siloed apps with interoperable alternatives. Developers will use our framework to build highly customized experiences for said users.\r\n\r\nRight now, we're leading by example by building our own suite of tools on top of Epicenter. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, and so on. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nYou should own your memory in the same way you own your brain. \u2764\ufe0f",
+      "description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly.\r\n\r\nOur long-term vision is to become the SSO for AI applications. Users use Epicenter to plug into any service, and they'll own their data, choose their models, and replace siloed apps with interoperable alternatives. Developers will use our framework to build highly customized experiences for said users.\r\n\r\nRight now, we're leading by example by building our own suite of tools on top of Epicenter. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, and so on. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nYou should own your memory in the same way you own your brain. \u2764\ufe0f",
       "one_liner": "ChatGPT's memory feature in an open, portable format",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2967,10 +2967,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Entertainment",
         "Gaming",
-        "Media",
-        "AI"
+        "Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3038,11 +3038,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "Procurement",
-        "Data Visualization"
+        "Data Visualization",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4138,8 +4138,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Reinforcement Learning",
-        "AI"
+        "Artificial Intelligence",
+        "Reinforcement Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4270,9 +4270,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Design",
-        "Crowdsourcing",
-        "AI"
+        "Crowdsourcing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4534,8 +4534,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Robotics",
-        "AI"
+        "Artificial Intelligence",
+        "Robotics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5604,5 +5604,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-09T12:01:16.241455"
+  "fetched_at": "2025-09-09T18:01:14.841758"
 }
