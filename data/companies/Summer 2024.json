@@ -1305,7 +1305,7 @@
       "one_liner": "Defect detection for manufacturing built from CAD and synthetic data.",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "Industrials",
       "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
@@ -5586,8 +5586,8 @@
       "name": "Parahelp",
       "slug": "parahelp",
       "website": "https://parahelp.com/",
-      "description": "Parahelp is an AI support agent for software companies that automates support tickets end-to-end at scale.\r\n\r\nTo do this, Parahelp learns from a company's best support agents and integrates deeply with their existing infrastructure, including systems such as Zendesk, Stripe, Retool, Slack, and Linear.",
-      "one_liner": "AI support agent for software companies",
+      "description": "Set up Parahelp in just 1 day without any engineers to automate your complex support tickets end-to-end. It integrates with your existing ticketing system (such as Zendesk, Intercom, Front), knowledge sources, tools (like Stripe, Slack, Linear), and policies.",
+      "one_liner": "The AI support agent built for fast-moving software companies",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 5,
@@ -5608,7 +5608,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720219864.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a523691020b3333cc7ac91fb850235d2d4a0441.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png"
     },
     {
       "id": 29683,
@@ -8322,5 +8322,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-10T00:02:50.668223"
+  "fetched_at": "2025-09-10T06:01:19.395573"
 }
