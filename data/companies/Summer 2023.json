@@ -718,11 +718,11 @@
     },
     {
       "id": 29118,
-      "name": "Structured Labs",
-      "slug": "structured-labs",
+      "name": "Waldium",
+      "slug": "waldium",
       "website": "https://www.structuredlabs.com/",
-      "description": "Preswald is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
-      "one_liner": "Build interactive data apps with AI",
+      "description": "Waldium is creating smarter ways for businesses to create and manage AI-optimized blogs. We are the makers of Blogwald, a modern SaaS platform that focuses on creating content that's discoverable and recommended by AI systems like ChatGPT, Claude, and Google's AI Overviews, while also maintaining traditional SEO optimization. With our AI-powered content creation, multi-tenant architecture, and advanced analytics, businesses can turn their content strategy into a powerful growth engine.\r\n",
+      "one_liner": "Build AI-optimized blogs that rank in AI search results ",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 5,
@@ -738,14 +738,12 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Analytics",
-        "Open Source",
-        "Data Visualization"
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1686619959.0,
@@ -7352,5 +7350,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-09T18:01:14.535156"
+  "fetched_at": "2025-09-10T00:02:50.993693"
 }

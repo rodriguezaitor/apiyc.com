@@ -5768,11 +5768,11 @@
     },
     {
       "id": 27820,
-      "name": "LaunchFlow",
-      "slug": "launchflow",
-      "website": "https://www.launchflow.com/",
+      "name": "infra.new",
+      "slug": "infra-new",
+      "website": "https://infra.new",
       "description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-      "one_liner": "AI Agent for Terraform: infra.new",
+      "one_liner": "AI Agent for Terraform",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 3,
@@ -5788,11 +5788,11 @@
       ],
       "locations": "Remote",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Cloud Computing"
+        "Cloud Computing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -9361,5 +9361,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-09-09T18:01:14.096312"
+  "fetched_at": "2025-09-10T00:02:50.574832"
 }
