@@ -312,11 +312,11 @@
       "name": "Plivo",
       "slug": "plivo",
       "website": "https://plivo.com",
-      "description": "Plivo's platform helps businesses create and deploy AI Agents for various roles like customer support, marketing engagement, lead qualification across channels like WhatsApp, Voice calls, Web and Mobile Chat, Email & SMS. Plivo's platform powers billions of transactions each year globally for thousands of businesses worldwide like Uber, Meta, Zomato, Deckers etc.",
-      "one_liner": "AI Agents for customer engagement on WhatsApp, Voice, Chat & SMS.",
+      "description": "Plivo's platform helps businesses create and deploy Voice AI Agents for various roles like customer support, marketing engagement, lead qualification including channels like WhatsApp, Chat & SMS. Plivo's platform powers billions of transactions each year globally for thousands of businesses worldwide like Uber, Meta, Zomato, Godaddy etc.",
+      "one_liner": "Voice AI Agents for customer engagement, including WhatsApp, SMS &\u2026",
       "batch": "Summer 2012",
       "status": "Active",
-      "team_size": 200,
+      "team_size": 140,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -324,14 +324,12 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "Austin, TX, USA",
       "tags": [
-        "Artificial Intelligence",
         "SMS",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Growth",
@@ -2674,5 +2672,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-09-11T00:02:53.449774"
+  "fetched_at": "2025-09-11T06:01:23.426932"
 }

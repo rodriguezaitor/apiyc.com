@@ -2571,7 +2571,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753078619.0,
@@ -4349,7 +4349,7 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare. Vijit also built Stripe\u2019s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can\u2019t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Clay for this reason. Frustratingly, these companies had to build their billing systems in-house. \r\n\r\nLark provides a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience. \r\n \r\nWe\u2019re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. Our billing agents are live with 4 customers including Midjourney and CharacterAI.",
+      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe\u2019s usage-based billing system which is used by companies like Intercom and Cloudflare. They also built Stripe\u2019s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers like Stripe and Metronome haven\u2019t been able to adapt. At Stripe, the founders saw deals fall through with companies like Cursor and Clay for this reason. These companies had to build their billing systems in-house because they couldn\u2019t model their pricing with existing billing providers.\r\n\r\nLark provides a flexible pricing engine that can support complex pricing models for these AI companies. It also eliminates billing operations overhead and improves the end user billing experience. \r\n\r\nLark is already working with customers like Midjourney and CharacterAI to solve their billing issues and improve end user billing experience on top of existing billing providers. They are currently building a billing platform to onboard their existing and new customers to it in a few weeks.",
       "one_liner": "AI Native Billing Platform",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4366,11 +4366,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Subscriptions",
-        "AI"
+        "Subscriptions"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5478,7 +5478,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "We're building an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+      "description": "Ambral is an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
       "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5494,9 +5494,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5604,5 +5604,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-11T00:02:49.905829"
+  "fetched_at": "2025-09-11T06:01:18.791359"
 }
