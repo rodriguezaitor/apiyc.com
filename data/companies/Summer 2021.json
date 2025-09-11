@@ -3423,41 +3423,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eedadee5411c154fc5263ef5ce5f6982bfe91a07.png"
     },
     {
-      "id": 24544,
-      "name": "Onfolk",
-      "slug": "onfolk",
-      "website": "http://onfolk.com",
-      "description": "We make it easy for growing teams to set up and run their payroll & HR (instead of a mess of spreadsheets, poorly integrated tools, and emails with accountants).\r\n\r\n- 1 min to run payroll\r\n- 2 mins to onboard new starters\r\n- Hands-off pension & accounting integrations\r\n- Centralised employee info, time-off, and reporting\r\n\r\nOur team are software engineers who spent 4 years scaling Monzo from 400k to 6m customers. While at Monzo we repeatedly got paid incorrectly by their poor payroll providers. So we decided to build the product that they should have used from day 1.\r\n\r\nWe\u2019ve gained certification as a payroll software from the UK government.",
-      "one_liner": "Gusto for the UK",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Human Resources",
-      "industries": [
-        "B2B",
-        "Human Resources"
-      ],
-      "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "London, England, United Kingdom; Remote",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Payroll"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1625588022.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/081329c18df1107cd5295eed61df492cf1ff7694.png"
-    },
-    {
       "id": 24543,
       "name": "Bolster",
       "slug": "bolster",
@@ -11365,6 +11330,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2cb473ed161535672dc3db487d2e70dec2a74ec.png"
     },
     {
+      "id": 24544,
+      "name": "Onfolk",
+      "slug": "onfolk",
+      "website": "http://onfolk.com",
+      "description": "We make it easy for growing teams to set up and run their payroll & HR (instead of a mess of spreadsheets, poorly integrated tools, and emails with accountants).\r\n\r\n- 1 min to run payroll\r\n- 2 mins to onboard new starters\r\n- Hands-off pension & accounting integrations\r\n- Centralised employee info, time-off, and reporting\r\n\r\nOur team are software engineers who spent 4 years scaling Monzo from 400k to 6m customers. While at Monzo we repeatedly got paid incorrectly by their poor payroll providers. So we decided to build the product that they should have used from day 1.\r\n\r\nWe\u2019ve gained certification as a payroll software from the UK government.",
+      "one_liner": "Gusto for the UK",
+      "batch": "Summer 2021",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "London, England, United Kingdom; Remote",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Payroll"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1625588022.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/081329c18df1107cd5295eed61df492cf1ff7694.png"
+    },
+    {
       "id": 24507,
       "name": "Warrant",
       "slug": "warrant",
@@ -13425,5 +13425,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-10T18:01:14.316625"
+  "fetched_at": "2025-09-11T00:02:46.071394"
 }
