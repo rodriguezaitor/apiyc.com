@@ -829,15 +829,14 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Germany",
-        "Europe"
+        "Unspecified"
       ],
-      "locations": "Bielefeld, NRW, Germany",
+      "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "Web Development",
-        "AI"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1321,7 +1320,7 @@
       "slug": "sigmanticai",
       "website": "https://www.sigmanticai.com",
       "description": "SigmanticAI is building an AI-native hardware development assistant that automates the entire RTL design flow, from natural language to synthesizable HDL and testbenches, inside a seamless VSCode fork. Powered by fine-tuned Verilog LLMs, reinforcement learning, and real compiler feedback, SigmanticAI iteratively refines code until it compiles and passes synthesis, no matter how complex the design. It\u2019s like the Cursor for HDL design. \r\n\r\nIn addition to code generation, SigmanticAI can generate token-level annotations and onboarding documents to accelerate ramp-up for new engineers. With support for both cloud and on-prem deployment, it integrates with existing EDA tools to dramatically reduce debug time, improve collaboration, and accelerate hardware design across teams",
-      "one_liner": "The Cursor for HDL - Delivering Silicon-Ready Chip Designs 10\u00d7 Faster",
+      "one_liner": "The Cursor for Chip Design - Delivering Silicon-Ready Chip Designs\u2026",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1337,10 +1336,10 @@
       ],
       "locations": "Dublin, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hard Tech",
         "Hardware",
         "B2B",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5604,5 +5603,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-11T12:01:31.920218"
+  "fetched_at": "2025-09-11T18:01:16.688475"
 }

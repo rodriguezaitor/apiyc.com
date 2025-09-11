@@ -2976,40 +2976,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3d017d6b2932b5d62965a60b41ea099e46ea0c1.png"
     },
     {
-      "id": 27971,
-      "name": "Arroyo",
-      "slug": "arroyo",
-      "website": "https://www.arroyo.dev",
-      "description": "Arroyo is a serverless stream processing platform built on top of the open-source Arroyo streaming engine. We allow companies to transform, filter, aggregate, and join their Kafka streams in real-time just by writing SQL. We charge purely based on usage, with no fixed costs or clusters to manage.",
-      "one_liner": "Cloud-native stream processing",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Berkeley, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Open Source",
-        "Cloud Computing"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1674589009.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a7f1c3e5b076e80781490318e3dfe43f0db3a2b.png"
-    },
-    {
       "id": 27969,
       "name": "Vendah",
       "slug": "vendah",
@@ -8066,6 +8032,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51a234c04b9c04472dc8991c3d411ee0f347db7.png"
     },
     {
+      "id": 27971,
+      "name": "Arroyo",
+      "slug": "arroyo",
+      "website": "https://www.arroyo.dev",
+      "description": "Arroyo is a serverless stream processing platform built on top of the open-source Arroyo streaming engine. We allow companies to transform, filter, aggregate, and join their Kafka streams in real-time just by writing SQL. We charge purely based on usage, with no fixed costs or clusters to manage.",
+      "one_liner": "Cloud-native stream processing",
+      "batch": "Winter 2023",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Berkeley, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Open Source",
+        "Cloud Computing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1674589009.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a7f1c3e5b076e80781490318e3dfe43f0db3a2b.png"
+    },
+    {
       "id": 27945,
       "name": "Fairway Health",
       "slug": "fairway-health",
@@ -9366,5 +9366,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-09-11T12:01:31.214438"
+  "fetched_at": "2025-09-11T18:01:15.867389"
 }
