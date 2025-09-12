@@ -2753,38 +2753,39 @@
     },
     {
       "id": 26907,
-      "name": "Garage",
-      "slug": "garage",
-      "website": "https://www.garagemobility.com/",
-      "description": "Garage is a wholesale auto parts distributor in Africa where there are more than 2M retailers selling $25B of auto parts annually. \r\n\r\nWe aggregate parts from the largest suppliers in the world and deliver directly to retailers for a profit.  \r\n\r\nAfrica will have the 2nd most vehicle owners in the world by 2050 at 400M vehicles, who will each spend over $1000 annually on vehicle parts, with retail shops 'powered by Garage' being the backbone of all these transactions.\r\n",
-      "one_liner": "Auto parts marketplace for Africa",
+      "name": "Rima AI (formerly Garage)",
+      "slug": "rima-ai",
+      "website": "https://www.getrima.ai",
+      "description": "Small business owners use Rima to create professional financial reports that unlock insights to make confident decisions.\r\n\r\nWe are on a mission to create operational freedom for entrepreneurs beginning with eliminating manual reporting forever.",
+      "one_liner": "AI powered reporting for small businesses",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 54,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
-        "Supply Chain and Logistics"
+        "Finance and Accounting"
       ],
       "regions": [
-        "Ghana",
-        "Africa",
+        "United States of America",
+        "America / Canada",
         "Remote",
-        "Partly Remote"
+        "Fully Remote"
       ],
-      "locations": "Accra, Greater Accra Region, Ghana",
+      "locations": "Austin, TX, USA; Remote",
       "tags": [
-        "Auto Commerce",
-        "Marketplace",
-        "Transportation"
+        "Finance",
+        "B2B",
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1657049263.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2c73e5062e24e6ab706d5a4ca96f1004cb7ca20.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/29768f3ec06f6ad6cbf8c250cca3501743daf869.png"
     },
     {
       "id": 26903,
@@ -8112,5 +8113,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-09-12T12:01:10.833836"
+  "fetched_at": "2025-09-12T18:01:11.539640"
 }

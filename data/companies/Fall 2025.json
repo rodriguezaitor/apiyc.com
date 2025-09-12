@@ -1,38 +1,6 @@
 {
   "data": [
     {
-      "id": 30996,
-      "name": "Axial Composites Industries",
-      "slug": "axial-composites-industries",
-      "website": "https://www.axialcomposite.com",
-      "description": "Composites manufacturing is expensive and slow. \r\n\r\nWe are building a non-planar manufacturing cell that can produce thermoplastic composites by continuous fiber injection. \r\n\r\nThis not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for manufacturing composites. Our method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. \r\n\r\nWe are commercializing a new approach to composite manufacturing that aims to be the backbone of the next aerospace age.",
-      "one_liner": "Manufacturing cells for automating composites production",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Industrials",
-      "subindustry": "Unspecified",
-      "industries": [
-        "Industrials",
-        "Aviation and Space"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "Hard Tech",
-        "Manufacturing",
-        "Aerospace"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1757132336.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png"
-    },
-    {
       "id": 30940,
       "name": "Everest",
       "slug": "everest",
@@ -64,6 +32,39 @@
       "is_top_company": false,
       "launched_at": 1756073155.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png"
+    },
+    {
+      "id": 30938,
+      "name": "Imagine AI",
+      "slug": "imagine-ai",
+      "website": "https://imagineai.me",
+      "description": "Imagine AI is a task-based agentic AI that becomes your company's Head of Content. For B2B service firms, this means turning your partners' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to write posts, our AI performs deep research to build a 100-page persona, captures their authentic voice, and automates content that books meetings at named accounts.\r\n\r\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher). The idea for Imagine AI came after a YC partner told us directly: founders and partners at B2B firms are experts at their jobs, but they consistently struggle to turn that expertise into effective marketing that drives revenue.\r\n\r\nWe launched just 8 weeks ago and have already reached $14k in revenue from 30 paying users, including forward-thinking firms like Conduit (YC '24). The demand is clear, with a 250+ person waitlist. The results are even clearer: one of our first users recently landed a $5M deal that originated from a single post our AI created.\r\n\r\nWe are displacing the expensive, low-ROI agency model by building the content OS for every LinkedIn-native B2B company. \r\n\r\nTo see how we automate your pipeline, book a demo at https://calendar.notion.so/meet/skyyang333/ghost \r\n\r\nor connect with our CEO, Sky Yang, on LinkedIn: https://www.linkedin.com/in/skyyang/",
+      "one_liner": "AI agent that handles all of your B2B content needs",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Sales"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1757695309.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png"
     },
     {
       "id": 30914,
@@ -102,5 +103,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png"
     }
   ],
-  "fetched_at": "2025-09-12T12:01:16.060353"
+  "fetched_at": "2025-09-12T18:01:19.612495"
 }
