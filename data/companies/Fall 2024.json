@@ -1225,16 +1225,15 @@
       "name": "Moonshine",
       "slug": "moonshine",
       "website": "https://usemoonshine.com",
-      "description": "",
-      "one_liner": "APIs for video understanding",
+      "description": "We are building state-of-the-art SLAM, perception, and spatial understanding models that leverage vision alone to map, interpret, and interact with the world.",
+      "one_liner": "Building software to understanding the world with a camera",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "Consumer -> Content",
       "industries": [
-        "B2B",
-        "Analytics"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -1242,9 +1241,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Indoor Mapping",
         "Machine Learning",
         "Video",
-        "Media"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3059,5 +3060,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-11T18:01:17.384735"
+  "fetched_at": "2025-09-12T00:03:00.377418"
 }
