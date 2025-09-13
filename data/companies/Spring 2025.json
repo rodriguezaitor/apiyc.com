@@ -69,6 +69,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa849f70a991d46ed789deab2ddee170d952bc14.png"
     },
     {
+      "id": 30561,
+      "name": "Sureform",
+      "slug": "sureform",
+      "website": "https://www.sureforminsurance.com/",
+      "description": "Sureform is an insurance brokerage powered by AI that works 24/7 to help businesses get the coverage they deserve. Take the first step toward safeguarding your business today by calling us at (650) 788-2172.",
+      "one_liner": "Commercial insurance brokerage, powered by AI",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1744274885.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png"
+    },
+    {
       "id": 30560,
       "name": "SAVA",
       "slug": "sava",
@@ -4578,5 +4610,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-13T06:01:16.001195"
+  "fetched_at": "2025-09-13T12:01:17.708250"
 }
