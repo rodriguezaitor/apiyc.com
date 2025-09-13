@@ -885,10 +885,10 @@
     },
     {
       "id": 30529,
-      "name": "WorkDone Health",
-      "slug": "workdone-health",
-      "website": "https://www.wrkdn.com",
-      "description": "WorkDone Health is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
+      "name": "Adentris",
+      "slug": "adentris",
+      "website": "https://www.adentris.com",
+      "description": "Adentris is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
       "one_liner": "Real-time AI Compliance for Medical Documentation",
       "batch": "Spring 2025",
       "status": "Active",
@@ -905,11 +905,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Compliance",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3949,8 +3949,8 @@
       "name": "Golf",
       "slug": "golf",
       "website": "https://golf.dev/",
-      "description": "Golf lets you ship a production-ready MCP server without worrying about the plumbing. You just write the tools, prompts, and resources you want agents to call. Golf handles everything else - routing, auth, telemetry, error reporting, and deployment - all managed through our hosted platform.",
-      "one_liner": "Open-source platform for building production MCP servers",
+      "description": "Golf is the security gateway for enterprise MCP servers. We give organizations a single entry point to control, monitor, and secure their MCP infrastructure.",
+      "one_liner": "Security for enterprise MCP servers.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3958,16 +3958,17 @@
       "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
-        "Infrastructure"
+        "Security"
       ],
       "regions": [
         "Unspecified"
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Infrastructure"
+        "Security",
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4577,5 +4578,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-12T18:01:13.791451"
+  "fetched_at": "2025-09-13T00:02:38.370512"
 }
