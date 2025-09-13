@@ -2605,14 +2605,14 @@
     },
     {
       "id": 30029,
-      "name": "Summed AI",
-      "slug": "summed-ai",
-      "website": "https://summed.ai",
-      "description": "Summed AI is an AI assistant that digs up accurate Medicare policy details for you 90% faster, so you can enroll your clients quicker with fewer compliance dings.",
-      "one_liner": "The AI Copilot for Insurance Agents",
+      "name": "Moonset Health",
+      "slug": "moonset-health",
+      "website": "https://www.moonsethealth.com/",
+      "description": "",
+      "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing\u2026",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -2627,8 +2627,8 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
+        "Health Tech",
         "B2B",
-        "Insurance",
         "AI"
       ],
       "stage": "Early",
@@ -2636,7 +2636,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731882747.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaf4c723a5127555d28fa1155b199c0dbf47a7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0e73c4d8c73910405ffe3b999578c9cd45ed9dd.png"
     },
     {
       "id": 30027,
@@ -3060,5 +3060,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-13T00:02:39.445799"
+  "fetched_at": "2025-09-13T06:01:17.161957"
 }
