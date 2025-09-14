@@ -1836,19 +1836,12 @@
         "Operations"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Fintech",
-        "B2B",
-        "Enterprise",
-        "Fraud Detection",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752778488.0,
@@ -5603,5 +5596,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-14T12:01:14.436609"
+  "fetched_at": "2025-09-14T18:01:11.906003"
 }
