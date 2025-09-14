@@ -1623,7 +1623,7 @@
       "name": "Nautilus",
       "slug": "nautilus",
       "website": "https://nautilus.co",
-      "description": "Nautilus is the first modern platform built for car washes, replacing expensive legacy systems that cost operators thousands monthly. Using AI to seamlessly integrate with any POS system, Nautilus delivers mobile-first e-commerce, membership management, and automated marketing. Since launching this year, the company is working with 60+ car washes nationwide and growing 80% month-over-month. Built by founders who worked in car washes, the platform launches in 1-2 weeks and helps operators turn visitors into loyal members while maximizing revenue. Learn more at nautilus.co.",
+      "description": "Nautilus is the first modern platform built for car washes, replacing expensive legacy systems that cost operators thousands monthly. Nautilus delivers mobile-first e-commerce, membership management, and automated marketing. Learn more at nautilus.co.",
       "one_liner": "AI platform to grow and to optimize car washes",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1640,11 +1640,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Payments",
         "Marketing",
-        "CRM",
-        "AI"
+        "CRM"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1759,7 +1759,7 @@
       "slug": "floot",
       "website": "https://floot.com",
       "description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We\u2019re taking a new approach by building everything from the ground up for AI. 14,000 users have created over 16,000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don\u2019t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
-      "one_liner": "Vibecoding platform for non-coders who build serious apps",
+      "one_liner": "Vibecoding platform for non-coders to build serious apps",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1775,11 +1775,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "No-code",
-        "Web Development",
-        "AI"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5603,5 +5603,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-13T18:01:09.819343"
+  "fetched_at": "2025-09-14T00:02:50.580659"
 }
