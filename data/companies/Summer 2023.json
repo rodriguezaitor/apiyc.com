@@ -4147,11 +4147,11 @@
       "name": "Menza",
       "slug": "menza",
       "website": "https://menza.ai/",
-      "description": "Menza is a modern data analytics platform that takes the stress out of strategy. Generate proactive insights and interactive dashboards in seconds using Menza's proprietary AI technology. Enterprises use Menza to make strategic decisions to go to the next level.",
-      "one_liner": "AI Data Analytics for Consumer Brands",
+      "description": "At Menza, we help consumer brands see what they need to know, when they need to know it. With 24/7 data monitoring, Menza finds insights for our customers that they would have otherwise missed.\r\n\r\nData should make decisions easier, not more complicated.",
+      "one_liner": "The 24/7 Data Analyst for Consumer Brands",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -4163,7 +4163,11 @@
         "Fully Remote"
       ],
       "locations": "Remote",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Data Visualization",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -7354,5 +7358,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-15T12:01:16.096770"
+  "fetched_at": "2025-09-15T18:01:24.358868"
 }

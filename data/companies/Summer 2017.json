@@ -1951,7 +1951,7 @@
         "Insurance"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1490767310.0,
@@ -4139,5 +4139,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95842a8ebd992360790565045dc0b9949e8dea8.png"
     }
   ],
-  "fetched_at": "2025-09-15T12:01:17.653024"
+  "fetched_at": "2025-09-15T18:01:27.291973"
 }
