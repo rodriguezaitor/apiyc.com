@@ -2775,7 +2775,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Embedder is a coding agent that can write and test firmware on real hardware. \r\n\r\nGeneral-purpose coding agents can't read documentation or interact with test equipment, resulting in plausible-looking code that is functionally useless on a real device.\r\n\r\nEmbedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+      "description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nToday's coding agents (Claude Code, Cursor, Windsurf, etc.) are optimized for software engineering tasks. They lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
       "one_liner": "Coding Agent for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2787,15 +2787,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Generative AI",
-        "Hardware"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5596,5 +5591,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-14T18:01:11.906003"
+  "fetched_at": "2025-09-15T00:03:06.838002"
 }
