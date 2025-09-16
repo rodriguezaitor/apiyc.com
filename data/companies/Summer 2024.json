@@ -3055,7 +3055,7 @@
       "one_liner": "Energy efficient chips for AI",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Industrials",
       "subindustry": "Industrials",
       "industries": [
@@ -3067,9 +3067,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
-        "Semiconductors",
-        "AI"
+        "Semiconductors"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4066,7 +4066,7 @@
       "slug": "planbase",
       "website": "https://www.joinplanbase.com/",
       "description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
-      "one_liner": "Workforce management for modern healthcare ",
+      "one_liner": "AI workforce management for healthcare ",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -6133,7 +6133,7 @@
         "Energy"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723594839.0,
@@ -8320,5 +8320,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-15T18:01:22.990543"
+  "fetched_at": "2025-09-16T00:02:50.411976"
 }

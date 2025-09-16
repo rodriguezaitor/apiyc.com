@@ -3679,11 +3679,11 @@
       "name": "Boundary",
       "slug": "boundary",
       "website": "https://www.boundaryml.com",
-      "description": "Boundary makes tools to build the most reliable AI pipelines. We take a code first approach and everything lives in your code, and runs locally (completely open-source!).\r\n\r\nInstead of function-calling on openai and JSON.parse, our approach allows you to write shorter prompts that lead to more accurate results. No fine-tuning. No modifying the model.\r\nThat means less time prompt engineering to get the same quality results.\r\n\r\nRecently, we showed that our method makes GPT-3.5, GPT-4o-mini, and Claude-Haiku perform at the same level as GPT-4o without (of course GPT-4o gets better with us as well). Read more here: https://www.boundaryml.com/blog/sota-function-calling\r\n\r\nBoundary is composed of three main components:\r\n\r\n1. BAML - a simple programming language to get structured outputs from LLMs.\r\n2. BAML Playground - The first-ever VSCode playground for LLMs, that helps developers test and iterate on their AI functions.\r\n3. Boundary Studio - An analytics dashboard to trace, label, and measure performance.\r\n\r\nBoundary's mission is to make AI app development seamless, and supports the entire development journey, from initial prompt iteration to measuring performance post-deployment.",
-      "one_liner": "Function calling that's cheaper, faster, and better, on every model",
+      "description": "Boundary is building BAML -- a programming language to build AI agents.\r\n\r\nWe used to code in assembly, and moved on to C.\r\nFrom C, we moved on to higher level languages like Python.\r\nNow we are going from Python to natural language.\r\n\r\nWhat does the code look like when 50% of the business decisions is decided by an AI agent / prompts? How do you test these AI components? We made BAML to address these problems.\r\n\r\nBAML helps has built-in tools to test, observe, and work with structured LLM outputs / tool calling natively in the language 10x faster. With BAML you can also instantly parallelize LLM Calls, or react to certain events or changes in your pipelines, without having to write any boilerplate. It's like using 'React' for AI.\r\n\r\nBAML code can used from any other language -- providing a standardized way to organize and declare any LLM or AI code.",
+      "one_liner": "The programming language for AI",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3702,7 +3702,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1678219068.0,
@@ -9369,5 +9369,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-09-15T18:01:22.594338"
+  "fetched_at": "2025-09-16T00:02:49.911149"
 }
