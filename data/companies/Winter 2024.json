@@ -603,11 +603,11 @@
       "name": "Quivr",
       "slug": "quivr",
       "website": "https://www.quivr.app/",
-      "description": "Quivr is an AI open-source platform where enterprises connect to their tools, docs, APIs and databases to chat with them. \r\n\r\nThe app can be deployed to the cloud, or self-hosted on existing infrastructure to answer any data privacy concerns.\r\n\r\nQuivr has built an open source community of 100+ contributors and has reached 31k+ Github stars!\r\n\r\nEffortlessly retrieve any available information and let Quivr generate for you new usable content.",
+      "description": "Quivr is an AI-powered customer support tool that helps teams draft responses, automate replies, and resolve tickets directly inside platforms like Zendesk or other helpdesk solutions.\r\n\r\nThe platform augments agent productivity by reducing repetitive work and accelerating resolution time.",
       "one_liner": "Open Source Chat-Powered Second Brain",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -2500,8 +2500,8 @@
       "name": "Lumetric",
       "slug": "lumetric",
       "website": "https://www.lumetric.ai/",
-      "description": "We embed AI builders inside SMBs to automate bottlenecks and ship custom software in weeks, not months. Our mission is to give every business the AI edge currently reserved for tech giants and scrappy startups.",
-      "one_liner": "Your AI Team On Demand",
+      "description": "From connecting to your data and apps to giving your agent its own phone number and email, we make it fast and simple for everyone to build and talk to powerful AI agents.",
+      "one_liner": "Build AI agents in minutes",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -2516,8 +2516,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "B2B"
+        "B2B",
+        "Workflow Automation",
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8243,5 +8245,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-16T12:01:17.689535"
+  "fetched_at": "2025-09-16T18:01:21.520396"
 }

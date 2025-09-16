@@ -3266,7 +3266,7 @@
         "Operations"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721158274.0,
@@ -5992,7 +5992,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725054386.0,
@@ -8320,5 +8320,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-16T12:01:17.591875"
+  "fetched_at": "2025-09-16T18:01:21.240040"
 }

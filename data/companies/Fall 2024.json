@@ -2412,8 +2412,8 @@
       "name": "Rulebase",
       "slug": "rulebase",
       "website": "https://rulebase.co",
-      "description": "We build AI agents that help banks and fintechs QA 100% of customer interactions, flagging compliance breaches, high-risk issues, and quality gaps in real time. Our AI agent reviews calls, chats, and emails, then routes issues to the right teammates, cutting escalations by up to 30% and reducing QA review time from hours to minutes.\r\n\r\n",
-      "one_liner": "AI quality assurance for financial services.",
+      "description": "Rulebase builds AI coworkers that help banks and fintechs review 100% of customer interactions in real time. Our agents flag compliance breaches, high-risk issues, and quality gaps across calls, chats, and emails \u2014 then route them to the right teammates. The result: up to 30% fewer escalations and QA cycles reduced from hours to minutes.\r\n",
+      "one_liner": "AI agents for financial services.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2437,7 +2437,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1728494886.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/642979c858a987426c5ec887f54d05c12f8e9974.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbe1673896b690961165f8406e0d96d1d646c62.png"
     },
     {
       "id": 30034,
@@ -2689,17 +2689,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "Charlotte, NC, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730739931.0,
@@ -3061,5 +3056,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-16T12:01:18.856020"
+  "fetched_at": "2025-09-16T18:01:26.040222"
 }
