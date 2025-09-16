@@ -3834,8 +3834,8 @@
     },
     {
       "id": 29750,
-      "name": "Asterisk",
-      "slug": "asterisk",
+      "name": "winfunc",
+      "slug": "winfunc",
       "website": "https://asterisk.so",
       "description": "Asterisk (asterisk.so) is an AI Hacker for Codebases - it automatically finds, verifies, and patches security vulnerabilities in codebases, just like a human security engineer would. Asterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives. \r\nAsterisk has autonomously discovered vulnerabilities in Google, Hoppscotch, and others.",
       "one_liner": "AI Hacker for Codebases",
@@ -3864,7 +3864,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723094847.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13b545a54f6c045d5fa9984cd597323e2738fea2.png"
     },
     {
       "id": 29749,
@@ -8320,5 +8320,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-16T06:01:16.556155"
+  "fetched_at": "2025-09-16T12:01:17.591875"
 }

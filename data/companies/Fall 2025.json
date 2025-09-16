@@ -34,6 +34,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7696654f248acf11e5913502b817690c5caf5763.png"
     },
     {
+      "id": 30948,
+      "name": "Lua Global Inc",
+      "slug": "lua-global-inc",
+      "website": "https://heylua.ai/",
+      "description": "We make it easy for non-technical teams to rollout AI powered agents for sales, support and bookings in a couple of clicks. ",
+      "one_liner": "Self-Serve AI powered Sales, Support & Booking Agents",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Retail Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758009464.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/40655594dbcd381c6c79a9439597f94109447459.png"
+    },
+    {
       "id": 30940,
       "name": "Everest",
       "slug": "everest",
@@ -136,5 +170,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png"
     }
   ],
-  "fetched_at": "2025-09-16T06:01:26.200220"
+  "fetched_at": "2025-09-16T12:01:19.711442"
 }
