@@ -946,7 +946,8 @@
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -954,7 +955,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI",
+        "Artificial Intelligence",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2443,11 +2444,11 @@
       "name": "HealthSpark",
       "slug": "healthspark",
       "website": "https://www.joinhealthspark.com",
-      "description": "HealthSpark empowers physical therapists to launch and run an AI-native independent practice by automating admin tasks like insurance, scheduling, handling calls and texts, and charting.",
-      "one_liner": "Launch and run an AI-native physical therapy practice",
+      "description": "HealthSpark empowers physical therapists (PTs) to start, run, and grow their own independent practices. Our AI-native \u201cbusiness-in-a-box\u201d takes care of the administrative work\u2014insurance billing, patient onboarding, documentation, and scheduling\u2014so PTs can focus on patient care, not paperwork.",
+      "one_liner": "Empowering Physical Therapists to Go Independent",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -2462,15 +2463,14 @@
         "Artificial Intelligence",
         "Health Tech",
         "Digital Health",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731746181.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a4a39ebd6ad42c60d1ab5b002dc1f1ef7b9df78.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c0ee087888b0137460914a67cc143ad8b5d98b.png"
     },
     {
       "id": 30033,
@@ -3061,5 +3061,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-16T00:02:58.269165"
+  "fetched_at": "2025-09-16T06:01:22.199400"
 }
