@@ -910,7 +910,7 @@
       "locations": "Remote",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1624624276.0,
@@ -1080,7 +1080,7 @@
         "Data Visualization"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628028455.0,
@@ -2797,40 +2797,6 @@
       "is_top_company": false,
       "launched_at": 1625234463.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd75e91d8bd04b78cd1ba5d1d35a5512b450b415.png"
-    },
-    {
-      "id": 24580,
-      "name": "Onsite Pro",
-      "slug": "onsite-pro",
-      "website": "https://onsitepro.co",
-      "description": "We make contractor proposal creation as simple as checking out of e-commerce. We equip HVAC distributors (who sell HVAC equipment to contractors) with digital catalogs preloaded with pricing, product details, and templates that allow contractors to create a professional proposal in under 10 minutes and sell in-person.",
-      "one_liner": "Revolutionizing digital selling within HVAC",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Construction",
-        "B2B",
-        "Climate"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1624977364.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/593fb7f4f1c40576ebfc7c47219cb0acee69aea7.png"
     },
     {
       "id": 24579,
@@ -12392,6 +12358,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7d7336636076f27ab8ae26ae0336ab292474653.png"
     },
     {
+      "id": 24580,
+      "name": "Onsite Pro",
+      "slug": "onsite-pro",
+      "website": "https://onsitepro.co",
+      "description": "We make contractor proposal creation as simple as checking out of e-commerce. We equip HVAC distributors (who sell HVAC equipment to contractors) with digital catalogs preloaded with pricing, product details, and templates that allow contractors to create a professional proposal in under 10 minutes and sell in-person.",
+      "one_liner": "Revolutionizing digital selling within HVAC",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Construction",
+        "B2B",
+        "Climate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1624977364.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/593fb7f4f1c40576ebfc7c47219cb0acee69aea7.png"
+    },
+    {
       "id": 24498,
       "name": "Levo",
       "slug": "levo",
@@ -13425,5 +13425,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-16T18:01:20.342901"
+  "fetched_at": "2025-09-17T00:02:45.886417"
 }

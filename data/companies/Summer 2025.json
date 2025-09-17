@@ -2970,7 +2970,7 @@
       "name": "IronLedger.ai",
       "slug": "ironledger-ai",
       "website": "https://ironledger.ai",
-      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. Since launching 4 weeks ago, we eliminate more than $70K of accounting costs annually for almost 35K multifamily units (up from 10K on 9/5). Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
+      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate more than $70K of accounting costs annually for almost 35K multifamily units. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
       "one_liner": "AI agents for property accounting",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2989,11 +2989,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Real Estate",
         "Finance",
-        "Construction",
-        "AI"
+        "Construction"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3704,7 +3704,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749673205.0,
@@ -3792,9 +3792,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Billing"
+        "Billing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3940,7 +3940,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, Jira turns into chaos. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Tickets are never seen by anyone with full context. As a result, teams spend hundreds of manual hours just figuring out what\u2019s important\u2014before they can even start fixing it.\r\n\r\nJanet AI automatically creates, tracks, and resolves work items through integrations with information channels like Slack, meetings, customer cases, GitHub, and more. Further, Janet AI watches every incoming ticket to build a knowledge graph and automatically surfaces related tickets, streamlines routing, flags prior fixes, and identifies what matters most\u2014across all projects and teams.",
+      "description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, ticket management turns into chaos, requiring hundreds of human work hours just to keep things up-to-date and organized.\r\n\r\nJanet AI automatically creates, updates, triages, and resolves work items through integrations with your company's information channels, so you never manually have to, enabling teams to focus on what matters most.",
       "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5588,5 +5588,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-16T18:01:23.407464"
+  "fetched_at": "2025-09-17T00:02:46.818848"
 }

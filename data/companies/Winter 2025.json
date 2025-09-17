@@ -3663,11 +3663,11 @@
     },
     {
       "id": 30225,
-      "name": "Vora AI",
-      "slug": "vora-ai",
-      "website": "https://www.usevora.ai/",
-      "description": "Vora gives every hiring manager an AI recruiter. Our AI agent, Rachel, automates talent sourcing by handling everything from identifying top talent, to writing personalized outreach to scheduling interviews directly on the hiring manager's calendar. This allows teams to focus on what matters most - talking to and closing the best candidates.",
-      "one_liner": "AI recruiter for hiring managers",
+      "name": "Trava",
+      "slug": "trava",
+      "website": "https://www.usetrava.com/",
+      "description": "Trava is building AI agents for global trade compliance. Importers lose billions each year to duty overpayments and filing errors. Trava audits customs entries and automates classification to help importers protect margins and stay compliant at scale.",
+      "one_liner": "AI agents for global trade compliance",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 1,
@@ -3675,7 +3675,7 @@
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
         "B2B",
-        "Recruiting and Talent"
+        "Supply Chain and Logistics"
       ],
       "regions": [
         "United States of America",
@@ -3685,14 +3685,16 @@
       "tags": [
         "Generative AI",
         "B2B",
-        "HR Tech"
+        "Compliance",
+        "Logistics",
+        "Supply Chain"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738095823.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ca271404aea28bec6896687dbf74ab6cba8ed84.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d0be0347387260245589e1f25ed7b5d45b73488.png"
     },
     {
       "id": 30224,
@@ -5341,5 +5343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-09-16T18:01:23.652171"
+  "fetched_at": "2025-09-17T00:02:46.890960"
 }
