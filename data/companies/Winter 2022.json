@@ -1947,6 +1947,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd2fc34605d4558d713fd1df46893a192df5b825.png"
     },
     {
+      "id": 26015,
+      "name": "Splendor",
+      "slug": "splendor",
+      "website": "https://splendorhealth.com",
+      "description": "Splendor's AI agent helps providers, EHRs, and billing companies automate benefits checks, prior auth, and more.",
+      "one_liner": "We make dealing with insurance less annoying.",
+      "batch": "Winter 2022",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Cambridge, MA, USA; Remote",
+      "tags": [
+        "Health Insurance",
+        "Healthcare IT"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1711477333.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/82c002dd039ff3ea4d28dfce449b49fc390b93bd.png"
+    },
+    {
       "id": 26012,
       "name": "Postal",
       "slug": "postal",
@@ -13826,5 +13859,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-09-17T00:02:45.770961"
+  "fetched_at": "2025-09-17T06:01:11.582562"
 }
