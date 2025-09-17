@@ -322,9 +322,9 @@
     },
     {
       "id": 30349,
-      "name": "Merit",
-      "slug": "merit",
-      "website": "https://withmerit.com",
+      "name": "Tally",
+      "slug": "tallyhq",
+      "website": "https://tallyhq.com",
       "description": "",
       "one_liner": "Coming soon!",
       "batch": "Winter 2025",
@@ -345,7 +345,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739308183.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c96bd8be335a4f0edf860808a66780b7b7fa10.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ac8465d346726a4daec2178bdd9db6a3a41859.png"
     },
     {
       "id": 30348,
@@ -1289,7 +1289,7 @@
       "one_liner": "Research lab investigating the boundaries of AI capabilities.",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 20,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -4559,7 +4559,7 @@
       "slug": "orchids",
       "website": "https://www.orchids.app/",
       "description": "At Orchids, we\u2019re building the tool that will fundamentally change the way people build apps and websites. Our sole job is to harness increasing AI intelligence into creating the only tool people will ever need to get an app or website out into the world. If this mission resonates with you, we encourage you to apply for a role at Orchids - orchids.app/careers.",
-      "one_liner": "AI Website Builder",
+      "one_liner": "The AI Full Stack Engineer",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -5343,5 +5343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-09-17T06:01:16.061011"
+  "fetched_at": "2025-09-17T12:01:21.306924"
 }
