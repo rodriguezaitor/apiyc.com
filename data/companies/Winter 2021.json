@@ -7259,41 +7259,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56f531ce89455eab6a0bf0b30ef439c5d9cd9b78.png"
     },
     {
-      "id": 22704,
-      "name": "Triplit",
-      "slug": "triplit",
-      "website": "https://www.triplit.dev",
-      "description": "Triplit is complete full-stack solution to data persistence, state management, and realtime synchronization for web applications that want to go fast",
-      "one_liner": "The best database for app developers",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Web Development",
-        "Cloud Computing",
-        "Databases"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614190988.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bad31a4bcc3d6ffc3f0bab1c3e693a7a1134c50c.png"
-    },
-    {
       "id": 22703,
       "name": "Bluelight",
       "slug": "bluelight",
@@ -11162,6 +11127,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f6311ab798c568114d69f91d489b612d220383d.png"
     },
     {
+      "id": 22704,
+      "name": "Triplit",
+      "slug": "triplit",
+      "website": "https://www.triplit.dev",
+      "description": "Triplit is complete full-stack solution to data persistence, state management, and realtime synchronization for web applications that want to go fast",
+      "one_liner": "The best database for app developers",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Web Development",
+        "Cloud Computing",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614190988.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bad31a4bcc3d6ffc3f0bab1c3e693a7a1134c50c.png"
+    },
+    {
       "id": 22701,
       "name": "Queenly",
       "slug": "queenly",
@@ -11539,5 +11539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-09-17T12:01:19.891361"
+  "fetched_at": "2025-09-17T18:01:09.042619"
 }

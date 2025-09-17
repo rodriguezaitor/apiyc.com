@@ -604,7 +604,7 @@
       "slug": "quivr",
       "website": "https://www.quivr.app/",
       "description": "Quivr is an AI-powered customer support tool that helps teams draft responses, automate replies, and resolve tickets directly inside platforms like Zendesk or other helpdesk solutions.\r\n\r\nThe platform augments agent productivity by reducing repetitive work and accelerating resolution time.",
-      "one_liner": "Open Source Chat-Powered Second Brain",
+      "one_liner": "AI-powered auto-resolutions and reply suggestions for customer\u2026",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -623,7 +623,7 @@
       "locations": "Paris, \u00cele-de-France, France",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706766974.0,
@@ -2499,7 +2499,7 @@
       "id": 29419,
       "name": "Lumetric",
       "slug": "lumetric",
-      "website": "https://www.lumetric.ai/",
+      "website": "https://lumetric.ai/",
       "description": "From connecting to your data and apps to giving your agent its own phone number and email, we make it fast and simple for everyone to build and talk to powerful AI agents.",
       "one_liner": "Build AI agents in minutes",
       "batch": "Winter 2024",
@@ -2516,10 +2516,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Productivity",
-        "AI"
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8245,5 +8245,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-17T12:01:20.272300"
+  "fetched_at": "2025-09-17T18:01:09.684205"
 }
