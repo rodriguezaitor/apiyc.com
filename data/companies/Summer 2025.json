@@ -2223,16 +2223,10 @@
         "Infrastructure"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Open Source",
-        "Infrastructure",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5324,8 +5318,8 @@
       "name": "Cactus",
       "slug": "cactus",
       "website": "https://www.cactuscompute.com/",
-      "description": "Kernels & AI engine for running AI locally on mobile devices; CUDA for phones. App developers can now deploy AI models locally in their mobile apps.\r\n\r\nCactus now completes 500K+ inference tasks on phones weekly and reaches 150 tokens/seconds on phone chips.\r\n\r\nWe\u2019re open-source, check out the code in the repo: https://github.com/cactus-compute/cactus",
-      "one_liner": "AI inference engine for phones & AI-native devices",
+      "description": "App developers and businesses can now deploy private, local, offline AI models locally in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. Cactus powers cool AI wearables like Pebble. \r\n\r\nIt is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
+      "one_liner": "Kernels & Engine for running AI on phones",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -5336,10 +5330,17 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Hard Tech",
+        "Open Source",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -5578,5 +5579,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-18T06:01:15.383805"
+  "fetched_at": "2025-09-18T12:01:23.331613"
 }
