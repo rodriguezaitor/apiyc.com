@@ -97,7 +97,7 @@
       "one_liner": "Wire Harnesses in as little as 7 days",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "Industrials",
       "subindustry": "Unspecified",
       "industries": [
@@ -2523,11 +2523,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
         "Data Science",
         "Big Data",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3057,5 +3057,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-18T12:01:27.677271"
+  "fetched_at": "2025-09-18T18:01:22.039599"
 }
