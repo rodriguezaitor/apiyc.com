@@ -8,15 +8,15 @@
     "B2B -> Operations": 135,
     "B2B -> Marketing": 134,
     "B2B -> Analytics": 132,
-    "B2B -> Retail": 127,
     "Consumer -> Home and Personal": 127,
-    "B2B -> Supply Chain and Logistics": 125,
+    "B2B -> Retail": 126,
+    "B2B -> Supply Chain and Logistics": 126,
     "Education": 125,
     "Consumer -> Social": 121,
     "Healthcare -> Healthcare IT": 121,
     "Fintech -> Payments": 120,
+    "Consumer": 119,
     "B2B -> Sales": 118,
-    "Consumer": 118,
     "B2B -> Finance and Accounting": 117,
     "Healthcare -> Consumer Health and Wellness": 116,
     "Consumer -> Content": 112,
@@ -59,5 +59,5 @@
     "Industrials -> Drones": 19,
     "Consumer -> Job and Career Services": 16
   },
-  "fetched_at": "2025-09-18T00:02:56.228105"
+  "fetched_at": "2025-09-18T06:01:20.199171"
 }
