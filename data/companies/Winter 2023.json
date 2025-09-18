@@ -4321,7 +4321,7 @@
       "id": 27896,
       "name": "Truewind",
       "slug": "truewind",
-      "website": "https://truewind.ai",
+      "website": "https://www.trytruewind.com",
       "description": "Truewind is a technology company based in San Francisco developing a digital staff accountant. Powered by AI, Truewind is a digital staff accountant that never sleeps, never gets sick, and always does its work. Completely predictable capacity planning. \r\n\r\nAutomate data categorization, supporting documentation collection, and client follow-up. Truewind\u2019s AI agents will follow up on outstanding action items while the accountant can work on strategic tasks. This is fully integrated and unified across your accounting operations. We make it easy to get work done and get visibility into your team\u2019s processes. \r\n\r\nTrusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We\u2019re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator. ",
       "one_liner": "AI-Powered Accounting",
       "batch": "Winter 2023",
@@ -4341,11 +4341,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Generative AI",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5516,7 +5516,7 @@
       "status": "Active",
       "team_size": 24,
       "industry": "B2B",
-      "subindustry": "Real Estate and Construction -> Construction",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -5683,7 +5683,7 @@
       "status": "Active",
       "team_size": 10,
       "industry": "Government",
-      "subindustry": "B2B -> Sales",
+      "subindustry": "Government",
       "industries": [
         "Government"
       ],
@@ -9369,5 +9369,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-09-17T18:01:09.257092"
+  "fetched_at": "2025-09-18T00:02:44.587034"
 }

@@ -2437,7 +2437,7 @@
       "status": "Active",
       "team_size": 6,
       "industry": "Fintech",
-      "subindustry": "Fintech -> Banking and Exchange",
+      "subindustry": "Fintech",
       "industries": [
         "Fintech"
       ],
@@ -3363,8 +3363,8 @@
       "name": "IoTFlows Inc",
       "slug": "iotflows-inc",
       "website": "https://www.iotflows.com/",
-      "description": "IoTFlows provides comprehensive visibility and valuable insights into manufacturing shop floors. Leveraging artificial intelligence to monitor and analyze the performance of machines based on their vibration and acoustics data, we help manufacturers to identify issues and inefficiencies in the production process and make data-driven decisions to improve performance.",
-      "one_liner": "AI-Powered Machine Performance Monitoring",
+      "description": "IoTFlows is an AI platform that makes factories smarter and more efficient. Our plug-and-play hardware, AI analytics, and workflows reduce downtime and optimize productivity \u2014 delivering ROI in under a month.\r\n",
+      "one_liner": "AI platform that makes factories smarter",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 60,
@@ -3372,7 +3372,7 @@
       "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Operations"
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -10008,7 +10008,7 @@
       "status": "Active",
       "team_size": 11,
       "industry": "B2B",
-      "subindustry": "Fintech -> Payments",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -11190,7 +11190,7 @@
         "B2B",
         "E-commerce"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -13859,5 +13859,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-09-17T18:01:08.590356"
+  "fetched_at": "2025-09-18T00:02:43.462943"
 }

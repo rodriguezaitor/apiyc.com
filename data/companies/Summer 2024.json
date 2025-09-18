@@ -900,7 +900,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -3035,8 +3035,8 @@
       ],
       "locations": "Miami, FL, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -8319,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-17T18:01:09.487422"
+  "fetched_at": "2025-09-18T00:02:44.927149"
 }
