@@ -9087,39 +9087,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd8af0cab42bc6084be64d866151163c3120d15.png"
     },
     {
-      "id": 24042,
-      "name": "Akudo",
-      "slug": "akudo",
-      "website": "https://www.akudo.in/",
-      "description": "Akudo is a digital bank for teenagers in India that gets them their own sleek, personalized prepaid card that they can use independently, helps them save money and gives them exciting rewards under a gamified setup when they're good at their personal finance.  \r\nWe are crafting the concept of \"Learning-first Banking\" where financial learning is seamlessly intertwined with full scale banking.",
-      "one_liner": "India's first learning-focused neobank for teenagers",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 20,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Bengaluru, KA, India",
-      "tags": [
-        "Fintech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1629552125.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3046538d2939ee60ee1e0209232445c07f2b8eb7.png"
-    },
-    {
       "id": 24041,
       "name": "Koshex",
       "slug": "koshex",
@@ -13081,6 +13048,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a2e2f2139d9baa80f30d05c72feb1978ae5906.png"
     },
     {
+      "id": 24042,
+      "name": "Akudo",
+      "slug": "akudo",
+      "website": "https://www.akudo.in/",
+      "description": "Akudo is a digital bank for teenagers in India that gets them their own sleek, personalized prepaid card that they can use independently, helps them save money and gives them exciting rewards under a gamified setup when they're good at their personal finance.  \r\nWe are crafting the concept of \"Learning-first Banking\" where financial learning is seamlessly intertwined with full scale banking.",
+      "one_liner": "India's first learning-focused neobank for teenagers",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 20,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Bengaluru, KA, India",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1629552125.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3046538d2939ee60ee1e0209232445c07f2b8eb7.png"
+    },
+    {
       "id": 24026,
       "name": "Flowbo",
       "slug": "flowbo-inc",
@@ -13425,5 +13425,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-18T18:01:19.839920"
+  "fetched_at": "2025-09-19T00:02:47.103608"
 }
