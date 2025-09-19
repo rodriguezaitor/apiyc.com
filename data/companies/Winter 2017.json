@@ -35,18 +35,18 @@
     },
     {
       "id": 1480,
-      "name": "Clipboard Health",
-      "slug": "clipboard-health",
+      "name": "Clipboard",
+      "slug": "clipboard",
       "website": "https://www.clipboardhealth.com/careers",
       "description": "We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives by letting professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects workplaces and professionals, allowing professionals to book on-demand shifts and workplaces to access on-demand talent.",
       "one_liner": "Connects workplaces with professionals nearby.",
       "batch": "Winter 2017",
       "status": "Active",
       "team_size": 600,
-      "industry": "Healthcare",
+      "industry": "Consumer",
       "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
-        "Healthcare"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -3873,5 +3873,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-09-19T06:01:09.009858"
+  "fetched_at": "2025-09-19T12:01:22.405233"
 }
