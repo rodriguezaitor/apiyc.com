@@ -2022,41 +2022,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/28e9d8c1afc2f855ecd63f4a8547074fb4563efd.png"
     },
     {
-      "id": 22007,
-      "name": "Jam.gg (formerly Piepacker)",
-      "slug": "jam-gg",
-      "website": "https://jam.gg/",
-      "description": "At the crossroads of online gaming and video chatting, jam.gg is a web platform to play awesome multiplayer games with your friends. Jam.gg focuses on hyper accessibility with a patented technology cutting the internet bandwidth requirement by 15 on average. Jam.gg features top retro, pc indie and board games.\r\n\r\nThe project branched out in two companies in 2023 with Jam on one side and Onibi (https://onibi.gg/) becoming its own company. YC being on both cap tables.",
-      "one_liner": "Jam.gg, play couch games online with friends",
-      "batch": "Summer 2020",
-      "status": "Active",
-      "team_size": 0,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Gaming",
-      "industries": [
-        "Consumer",
-        "Gaming"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Cloud Gaming",
-        "Gaming",
-        "Social"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1599762606.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc264b0b6f839f5faf89e3ec342647c95c5e075c.png"
-    },
-    {
       "id": 22004,
       "name": "Notabene",
       "slug": "notabene",
@@ -6323,6 +6288,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed23c59f075554e641d7d208bcb56abf6880d1.png"
     },
     {
+      "id": 22007,
+      "name": "Jam.gg (formerly Piepacker)",
+      "slug": "jam-gg",
+      "website": "https://jam.gg/",
+      "description": "At the crossroads of online gaming and video chatting, jam.gg is a web platform to play awesome multiplayer games with your friends. Jam.gg focuses on hyper accessibility with a patented technology cutting the internet bandwidth requirement by 15 on average. Jam.gg features top retro, pc indie and board games.\r\n\r\nThe project branched out in two companies in 2023 with Jam on one side and Onibi (https://onibi.gg/) becoming its own company. YC being on both cap tables.",
+      "one_liner": "Jam.gg, play couch games online with friends",
+      "batch": "Summer 2020",
+      "status": "Inactive",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Cloud Gaming",
+        "Gaming",
+        "Social"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1599762606.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc264b0b6f839f5faf89e3ec342647c95c5e075c.png"
+    },
+    {
       "id": 21999,
       "name": "In Stock",
       "slug": "in-stock",
@@ -7135,5 +7135,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2025-09-19T12:01:18.231689"
+  "fetched_at": "2025-09-19T18:01:10.547840"
 }

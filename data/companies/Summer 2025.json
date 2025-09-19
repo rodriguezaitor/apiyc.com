@@ -3495,8 +3495,8 @@
       "name": "Kestroll",
       "slug": "kestroll",
       "website": "https://www.kestroll.com/",
-      "description": "Kestroll is the AI-powered media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets (photos, audio, and especially videos) and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
-      "one_liner": "AI media manager",
+      "description": "Kestroll is the AI-native digital and media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets and provides a central interface for the entire organization to access and distribute content.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
+      "one_liner": "Agentic Digital and Media Asset Management",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3504,7 +3504,7 @@
       "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Operations"
+        "Marketing"
       ],
       "regions": [
         "United States of America",
@@ -3512,10 +3512,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Computer Vision",
         "Video",
-        "Automation"
+        "Media",
+        "Marketing",
+        "Consumer Products",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5574,5 +5575,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-19T12:01:19.524556"
+  "fetched_at": "2025-09-19T18:01:11.425393"
 }
