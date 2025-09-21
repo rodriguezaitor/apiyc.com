@@ -5314,7 +5314,7 @@
       "name": "Cactus",
       "slug": "cactus",
       "website": "https://www.cactuscompute.com/",
-      "description": "App developers and businesses can now deploy private, local, offline AI models locally in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. Cactus powers cool AI wearables like Pebble. \r\n\r\nIt is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
+      "description": "App developers can now deploy private, local, offline AI models in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. It is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
       "one_liner": "Kernels & Engine for running AI on phones",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5575,5 +5575,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-21T00:02:54.922830"
+  "fetched_at": "2025-09-21T06:01:12.273381"
 }
