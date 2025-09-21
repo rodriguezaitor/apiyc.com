@@ -2993,30 +2993,27 @@
       "name": "sizeless",
       "slug": "sizeless",
       "website": "https://www.sizeless.co",
-      "description": "Sizeless is a platform to help ML teams automatically run, test and improve their models to make ML reproducible and safe. Currently, ML engineers do this manually which takes weeks - we automate this down to a few clicks. ML engineers at Google shopping and computer vision startups are using our platform to shorten their ML development cycle and continuously monitor and fine tune their models. We provide ML engineers with a productivity tool set, so that they can focus on building great ML models. \r\n\r\nWe developed this tool during our PhDs (Cornelius in ML at ETH Zurich and Roger in astrophysics at Cambridge), saving us and our PhD colleagues around 2 weeks per model while generating actionable insights. \r\n\r\nWe launched 10 days ago, have 5 daily active users like ML engineering teams at Google Shopping and in computer vision startups and more than 50 sign ups on our waitlist. We provide ML engineers with a productivity tool set, so that they can focus on building great ML models.",
-      "one_liner": "Make ML models reproducible and safe.",
+      "description": "Make data-driven decisions. Optimize property management. With the property Digital Twin from sizeless, you can access highly accurate data to understand your property's details, make informed decisions on inspections, and work on the required management optimization measures.",
+      "one_liner": "Instant 3D Digital Twins for Smarter Real Estate.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
+      "team_size": 3,
+      "industry": "Real Estate and Construction",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "Real Estate and Construction"
       ],
       "regions": [
         "United States of America",
-        "Switzerland",
-        "America / Canada",
-        "Europe"
+        "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA; Z\u00fcrich, ZH, Switzerland",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "AIOps",
-        "Developer Tools",
-        "DevOps",
-        "Infrastructure",
-        "AI"
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Real Estate",
+        "Construction",
+        "Energy"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7386,5 +7383,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-21T12:01:20.250605"
+  "fetched_at": "2025-09-21T18:01:11.898181"
 }

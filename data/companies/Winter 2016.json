@@ -2061,15 +2061,16 @@
       "name": "Meter Feeder",
       "slug": "meter-feeder",
       "website": "http://www.meterfeeder.com",
-      "description": "Cities are losing billions of dollars trying to price the curb for shared vehicles (Car2Go, Scoot, FedEx). Meter Feeder enables traditional and autonomous vehicles to pay for parking with no human interaction, so cities can make money, and fleets can remain compliant.",
-      "one_liner": "Pay for parking by turning your car off.",
+      "description": "Did you know that if your car is eligible for booting and towing in NYC, all of your registered vehicles are eligible? Now imagine you have thousands of vehicles in thousands of cities.\r\n\r\nWe make sure that your vehicles are compliant.",
+      "one_liner": "Helping fleets find and pay parking tickets",
       "batch": "Winter 2016",
       "status": "Active",
       "team_size": 4,
-      "industry": "Government",
+      "industry": "Fintech",
       "subindustry": "Government",
       "industries": [
-        "Government"
+        "Fintech",
+        "Payments"
       ],
       "regions": [
         "United States of America",
@@ -2077,9 +2078,10 @@
       ],
       "locations": "Pittsburgh, PA, USA",
       "tags": [
-        "Machine Learning",
-        "GovTech",
-        "Unmanned Vehicle"
+        "Unmanned Vehicle",
+        "Payments",
+        "Transportation",
+        "Mobility"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4020,5 +4022,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-09-21T12:01:23.328870"
+  "fetched_at": "2025-09-21T18:01:14.943935"
 }
