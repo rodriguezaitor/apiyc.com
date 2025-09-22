@@ -1760,7 +1760,7 @@
         "Marketplace"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687372303.0,
@@ -4924,7 +4924,7 @@
       "name": "SuperCraft",
       "slug": "supercraft",
       "website": "https://supercraft.ai",
-      "description": "SuperCraft lets teams design physical products with natural language",
+      "description": "SuperCraft lets teams design & visualize physical products faster",
       "one_liner": "Figma for designing physical products",
       "batch": "Summer 2023",
       "status": "Active",
@@ -4940,11 +4940,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Productivity",
         "Design",
-        "3D Printing",
-        "AI"
+        "3D Printing"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6042,11 +6042,11 @@
       "name": "Hyperbound",
       "slug": "hyperbound",
       "website": "https://hyperbound.ai",
-      "description": "Hyperbound is a simulated AI sales roleplay platform that turns ICP descriptions into interactive AI buyers in less than 2 minutes. It helps your sales team onboard 50% faster and boosts your team's conversions on cold, warm, & discovery calls.\r\n\r\nEvery sales team wants to do more roleplays, but it's often unscalable and biased. Instead of having your sellers practice on real prospects and burn leads in the process, Hyperbound allows your reps to get realistic at-bats with an AI buyer. Sellers can finally gain call confidence and mastery in a simulated environment that doesn't put your pipeline at risk and gives time back to your managers.\u00a0\r\n\r\nInterested in trying it out today? Start a free demo simulation at https://app.hyperbound.ai/buyers?invite=bookface and contact us at founders@hyperbound.ai for next steps. ",
-      "one_liner": "Sales call roleplay with realistic conversational AI buyers",
+      "description": "Hyperbound pioneered AI Sales Roleplay technology and is the trailblazer behind the AI Sales Roleplay category for mid-market/enterprise revenue teams.\r\n\r\nWe provide human-like roleplays with AI buyers customized for your ICP, giving reps more at-bats and leveling up their business acumen in half the amount of time.\r\n\r\nWe then inspect live callsto certify that reps are mirroring your top performers and generate personalized AI feedback and targeted roleplays to tackle performance gaps.\r\nThe goal is faster ramp times, more pipeline, higher win rates, increased ACVs, more consistent performance across your team, and more time for your managers.\r\n\r\nInterested in trying it out today? Start a free demo simulation at hyperbound.ai and contact us at founders@hyperbound.ai for next steps.",
+      "one_liner": "AI Sales Coaching & Role-Play Platform to Upskill Sales Teams",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 17,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -6062,10 +6062,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Generative AI",
         "B2B",
         "Sales",
-        "Sales Enablement"
+        "Sales Enablement",
+        "Conversational AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7383,5 +7383,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-21T18:01:11.898181"
+  "fetched_at": "2025-09-22T00:02:59.222229"
 }

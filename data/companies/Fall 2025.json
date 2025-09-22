@@ -134,6 +134,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png"
     },
     {
+      "id": 30936,
+      "name": "Patent Watch",
+      "slug": "patent-watch",
+      "website": "https://www.patentwatch.ai/",
+      "description": "We automate patent infringement detection. Our software interprets patents, identifies competing products, and generates claim charts showing who\u2019s infringing and how.\r\n\r\nTeams use us to:\r\n\r\n- Find licensing and litigation targets\r\n- Send cease-and-desist letters\r\n- Find counter litigation\r\n- Sell IP in wind-downs\r\n- Accelerate M&A diligence\r\n\r\nWe also run AI invalidity and prior-art searches to help your patents hold up in court.\r\n\r\nCompanies spend up to $50k to file and maintain a single patent over its lifetime, but once it's granted, they let it collect dust. With Patent Watch, you can start turning your patent portfolio into revenue in 10 minutes.",
+      "one_liner": "AI for detecting patent infringements",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Legal",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758491604.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c1d7fe830232f3ad92055c328a9c623fe69050a.png"
+    },
+    {
       "id": 30914,
       "name": "Sunflower",
       "slug": "sunflower",
@@ -205,11 +239,47 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png"
     },
     {
+      "id": 30850,
+      "name": "Zavo",
+      "slug": "zavo",
+      "website": "https://zavopay.com/home",
+      "description": "Zavo is the first AI-native platform for in-person commerce. We bring together payments, point of sale, and AI agents into one seamless system, giving every restaurant and retail business its own 24/7 digital workforce. \r\n\r\nLaunched in April 2025, Zavo already powers 350+ small and medium-sized businesses.\r\n\r\nWith Zavo, businesses can:\r\n\r\n- Accept in-person & online card payments\r\n- Run their entire Food & Beverage or Retail operation through Zavo Point of Sale\r\n- Save time and money with instant settlements and flat, transparent pricing on card fees\r\n- Unlock AI agents that automate finance, operations, and customer engagement\r\n\r\nThe Zavo AI Agent Suite:\r\n\r\n- CFO Agent - Your personal CFO. Knows every number. Delivers forecasts, reports, and real-time insights.\r\n- Manager Agent - Your personal manager. Knows products, inventory, sales, and staffing to keep operations seamless.\r\n- Customer Agent - Your front of house. Knows every customer, drives loyalty, repeat visits, and tailored relationships.\r\n\r\nOur Vision:\r\n\r\nSMEs drive the global economy yet remain underserved by large SaaS and AI providers. Zavo is building the future of in-person commerce, delivering enterprise-grade intelligence, automation, and modern payments to every local business. ",
+      "one_liner": "AI-Native operating system for in-person commerce",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Payments",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758482945.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png"
+    },
+    {
       "id": 30843,
       "name": "Mainflow",
       "slug": "mainflow",
       "website": "https://www.mainflow.com/",
-      "description": "Generalist fintech focused on traditional asset classes - US stocks, bonds & funds.",
+      "description": "",
       "one_liner": "A manual investing platform that's so primitive... it's pioneering.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -274,5 +344,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b427a11c01acc7be86bdfb9bf97f62e7e9151a7.png"
     }
   ],
-  "fetched_at": "2025-09-21T18:01:20.234513"
+  "fetched_at": "2025-09-22T00:03:01.112222"
 }

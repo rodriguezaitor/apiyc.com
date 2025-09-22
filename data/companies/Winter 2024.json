@@ -6900,8 +6900,8 @@
       "name": "Tracecat",
       "slug": "tracecat",
       "website": "https://tracecat.com",
-      "description": "Tracecat is the open source Tines / Splunk SOAR alternative.\r\n\r\nSecurity engineers use our platform to build AI-assisted workflows that automate investigations and incident response. We're building the easiest way for security teams to fight burnout and reduce mean time to respond.",
-      "one_liner": "Open source Tines / Splunk SOAR alternative for security engineers.",
+      "description": "Tracecat helps security, IT, and production support engineers close tickets fast. We provide everything they need to automate mission-critical work \u2014 AI agents, workflow builder, and case management.\r\n\r\nBuilt open source on open source (Temporal, Pydantic AI, Postgres, Clickhouse). Founded in 2024, deployed by more than 200 organizations from startups to Fortune 500 and federal agencies.",
+      "one_liner": "All-in-one automation platform for security and IT teams",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -6909,7 +6909,7 @@
       "subindustry": "B2B -> Security",
       "industries": [
         "B2B",
-        "Security"
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -6917,13 +6917,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Workflow Automation",
+        "Productivity",
         "Open Source",
-        "Cybersecurity",
+        "Enterprise",
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1704382841.0,
@@ -8245,5 +8245,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-21T18:01:10.831168"
+  "fetched_at": "2025-09-22T00:02:58.960308"
 }
