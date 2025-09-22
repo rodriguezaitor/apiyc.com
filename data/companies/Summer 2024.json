@@ -1639,8 +1639,8 @@
       "name": "Typa",
       "slug": "typa",
       "website": "https://typa.ai",
-      "description": "Typa is the storytelling platform for building a strong brand presence across socials (X/LinkedIn). Busy founders can simply participate in bi-weekly voice calls and complete a few follow-up tasks - all through a 24/7 available AI agent - and posts will be crafted by professionals + AI. Simply review + schedule them on the platform, without sharing personal credentials.",
-      "one_liner": "AI-powered, professionally reviewed ghostwriting for busy founders",
+      "description": "Typa is the attention engine built for authenticity. We help businesses capture what resonates, make it repeatable, and turn attention into lasting momentum. With Typa, you can build a scalable inbound growth engine with content that compounds.\r\n\r\nWe make this possible through three pillars:\r\n- A tone of voice that always sounds like you. Typa learns your style, cadence, and perspective so every piece of content reflects your authentic voice.\r\n- A knowledge base that updates in real time. Your digital clone continuously absorbs everything you say and create, ensuring your content always reflects your latest thinking.\r\n- A personal ghostwriter that\u2019s always just a call away. Puff is your 24/7 AI ghostwriter and strategist, available via phone or WhatsApp whenever you want to brainstorm, plan, or execute.\r\n\r\nCurrently supported channels: X, LinkedIn, Bluesky, and blog/newsletters.",
+      "one_liner": "The attention engine built for authenticity.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -1657,7 +1657,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Generative AI",
-        "B2B",
+        "Social Media",
         "Marketing",
         "AI"
       ],
@@ -1666,7 +1666,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1718861250.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74f7d5dd25dfbf635ab8f820ebcf2a435f74696c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9922edca2847f43aae8a7cd38ca5819ed482590a.png"
     },
     {
       "id": 29829,
@@ -2143,14 +2143,14 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Security",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1718222641.0,
@@ -3495,9 +3495,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Smart Home Assistants",
         "Robotics",
+        "AI",
         "Home Automation"
       ],
       "stage": "Early",
@@ -3505,7 +3505,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1756389316.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffa584a1ce64a9d9e1245650f8be4074d76623ff.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb8bcc76da3e91c1a436eea5e5eec4075f3deb89.png"
     },
     {
       "id": 29762,
@@ -8319,5 +8319,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-09-22T00:02:58.870654"
+  "fetched_at": "2025-09-22T06:01:15.890223"
 }
