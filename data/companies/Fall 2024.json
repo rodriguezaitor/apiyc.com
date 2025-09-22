@@ -1973,7 +1973,7 @@
         "Finance"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1728431199.0,
@@ -2926,11 +2926,11 @@
     },
     {
       "id": 30014,
-      "name": "fixa",
-      "slug": "fixa",
-      "website": "https://www.fixa.dev",
-      "description": "Fixa is the Sentry for AI voice agents. Companies like 11x and OfOne use us to run simulated tests, analyze production calls, and fix bugs in their voice agents. \r\n\r\nWe were both voice agent developers at PlayHT \u2013 and, in order to find bugs in our agents, we would spend countless hours manually calling them and listening to conversation recordings. So, we\u2019ve decided to build a platform that does this automatically. \r\n\r\nFixa shows developers exactly where and how their agents mess up \u2013 enabling them to pinpoint root causes and fix them faster. ",
-      "one_liner": "sentry for AI voice agents",
+      "name": "Verso",
+      "slug": "verso",
+      "website": "https://www.verso.trading",
+      "description": "",
+      "one_liner": "The bloomberg terminal for prediction markets",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2944,17 +2944,16 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
-        "AI",
-        "AI Assistant"
+        "Finance"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731468857.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/45765460c3699e337b466745ffabfc89fbedc807.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b6d0fa6059be13e9d526398ca7cd2da19eaa5e8.png"
     },
     {
       "id": 29577,
@@ -3056,5 +3055,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-22T12:01:22.193293"
+  "fetched_at": "2025-09-22T18:01:16.970782"
 }
