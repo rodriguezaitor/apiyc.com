@@ -3693,7 +3693,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749673205.0,
@@ -5213,6 +5213,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png"
     },
     {
+      "id": 30596,
+      "name": "Adaptional",
+      "slug": "adaptional",
+      "website": "https://www.adaptional.ai/",
+      "description": "Adaptional is the first system of intelligence for insurance. Existing insurance systems organize work. Adaptional AI actually\u00a0*does* the work.\r\n\r\nOur first product Underwriter AI pre processes every submission for an underwriter. AI extracts data from submission files, validates each data point using public sources, and summarizes risk using your underwriting guidelines.",
+      "one_liner": "AI copilot for insurance underwriters",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Insurance",
+        "Enterprise",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758589841.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ea52a7c833e951c693eafd9561453164d5bf74c.png"
+    },
+    {
       "id": 30582,
       "name": "Pingo AI",
       "slug": "pingo-ai",
@@ -5571,5 +5605,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-23T00:02:42.435543"
+  "fetched_at": "2025-09-23T06:01:18.485262"
 }

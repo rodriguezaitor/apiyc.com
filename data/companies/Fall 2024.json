@@ -1824,7 +1824,7 @@
       "slug": "riskcube",
       "website": "https://riskcube.com",
       "description": "RiskCube is a AI insurance agency built for startups.\r\n\r\nWe are licensed in California and will be launching soon. Our initial focus is Directors & Officers (D&O) insurance, helping venture-backed companies secure the coverage they need quickly and transparently.\r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
-      "one_liner": "Buy & Manage",
+      "one_liner": "Buy and manage business insurance.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 3,
@@ -1840,16 +1840,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731782052.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/24e8221c158db744583a5cb637b095ee61c36e85.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f8d9822c7e2fce3b704f0d47e4cb80ba8b21102.png"
     },
     {
       "id": 30054,
@@ -3055,5 +3055,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-23T00:02:44.025802"
+  "fetched_at": "2025-09-23T06:01:19.147370"
 }
