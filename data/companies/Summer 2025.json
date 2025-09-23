@@ -2228,7 +2228,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752861544.0,
@@ -3632,11 +3632,11 @@
     },
     {
       "id": 30660,
-      "name": "Sidekick",
-      "slug": "heysidekick",
-      "website": "https://joinsidekick.com",
-      "description": "Build Zapier-style automations using only a chat interface. AI adds connectors, configures logic, and handles errors. Sidekick makes powerful automation accessible to everyone.\r\n",
-      "one_liner": "Lovable for automations",
+      "name": "Sagekit",
+      "slug": "sagekit",
+      "website": "https://sagekit.com",
+      "description": "Just describe your repetitive tasks. Our AI turns them into automations that save you 10+ hours every week. Connect Gmail, Notion, Airtable, Slack, Linear, and lots more.",
+      "one_liner": "The chat-based automation platform",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3652,11 +3652,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Workflow Automation",
         "Productivity",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5216,7 +5216,7 @@
       "id": 30596,
       "name": "Adaptional",
       "slug": "adaptional",
-      "website": "https://www.adaptional.ai/",
+      "website": "https://www.adaptional.com/",
       "description": "Adaptional is the first system of intelligence for insurance. Existing insurance systems organize work. Adaptional AI actually\u00a0*does* the work.\r\n\r\nOur first product Underwriter AI pre processes every submission for an underwriter. AI extracts data from submission files, validates each data point using public sources, and summarizes risk using your underwriting guidelines.",
       "one_liner": "AI copilot for insurance underwriters",
       "batch": "Summer 2025",
@@ -5234,10 +5234,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Insurance",
         "Enterprise",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5605,5 +5605,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-23T12:01:31.166386"
+  "fetched_at": "2025-09-23T18:01:11.412463"
 }

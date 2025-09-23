@@ -939,7 +939,7 @@
       "name": "Capy",
       "slug": "capy",
       "website": "https://capy.ai",
-      "description": "Capy is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
+      "description": "Capy is an AI software engineer that ships dozens of features in parallel. It works end-to-end - autonomously triaging issues, executing code in isolated VMs, and pushing PRs to GitHub.",
       "one_liner": "AI Software Engineer",
       "batch": "Fall 2024",
       "status": "Active",
@@ -956,7 +956,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3055,5 +3055,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-23T12:01:32.781126"
+  "fetched_at": "2025-09-23T18:01:12.096636"
 }
