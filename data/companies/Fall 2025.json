@@ -275,6 +275,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png"
     },
     {
+      "id": 30848,
+      "name": "Parrot",
+      "slug": "parrot",
+      "website": "https://parrotapp.com/",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Stephen Krashen\u2019s comprehensible input theory. In under 4 months, we\u2019ve scaled to $220K ARR with an average LTV:CAC of 5.5, and power users averaging 35+ mins/day on Parrot. Our team of engineers, designers, and growth leaders have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "one_liner": "TikTok for language learning",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758577465.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f00f4b531cfdb83446f322df9e4f749afb8b0179.png"
+    },
+    {
       "id": 30843,
       "name": "Mainflow",
       "slug": "mainflow",
@@ -344,5 +375,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b427a11c01acc7be86bdfb9bf97f62e7e9151a7.png"
     }
   ],
-  "fetched_at": "2025-09-22T18:01:21.990852"
+  "fetched_at": "2025-09-23T00:02:45.789518"
 }

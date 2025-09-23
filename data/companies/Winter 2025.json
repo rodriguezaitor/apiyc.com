@@ -4703,7 +4703,7 @@
       "name": "Praxim",
       "slug": "praxim",
       "website": "https://www.praxim.ai/",
-      "description": "Praxim is the best way to edit your Word documents with AI. With a single prompt, Praxim makes edits across your entire document. It knows exactly what to change and what to keep and is the only Word editor with word-level granularity\u2014precisely editing only what needs editing, not making brute block replacements.",
+      "description": "Praxim is the best way to edit your Word documents with AI. With a single prompt, Praxim makes edits across your entire document with context from your preferences, files, and the web. It knows exactly what to change and what to keep and is the only Word editor with word-level granularity\u2014precisely editing only what needs editing, not making brute block replacements.",
       "one_liner": "The first agentic Word editor",
       "batch": "Winter 2025",
       "status": "Active",
@@ -4720,10 +4720,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Consumer",
         "B2B",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -5372,5 +5372,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png"
     }
   ],
-  "fetched_at": "2025-09-22T18:01:13.146107"
+  "fetched_at": "2025-09-23T00:02:42.590982"
 }

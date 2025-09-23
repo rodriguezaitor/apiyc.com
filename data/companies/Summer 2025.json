@@ -776,7 +776,7 @@
       "name": "Clodo",
       "slug": "clodo",
       "website": "https://clodo.ai",
-      "description": "Clodo is the AI Real Estate Agent.\r\n\r\nClodo helps find and close more leads. Finding and following up with motivated homebuyers and sellers are the two most valuable actions you can perform as a real estate agent. Currently, both of these tasks involve spending hours sifting through dashboards and spreadsheets, and a lot of guesswork.\r\n\r\nWith Clodo, we see agents effortlessly performing both those tasks and finding more deals.",
+      "description": "Clodo is AI for the Built World.",
       "one_liner": "AI For Real Estate",
       "batch": "Summer 2025",
       "status": "Active",
@@ -784,8 +784,7 @@
       "industry": "Real Estate and Construction",
       "subindustry": "Real Estate and Construction -> Housing and Real Estate",
       "industries": [
-        "Real Estate and Construction",
-        "Housing and Real Estate"
+        "Real Estate and Construction"
       ],
       "regions": [
         "United States of America",
@@ -795,6 +794,7 @@
       "tags": [
         "Artificial Intelligence",
         "Real Estate",
+        "Construction",
         "Proptech",
         "AI"
       ],
@@ -991,12 +991,12 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "Olathe, KS, USA",
+      "locations": "Overland Park, KS, USA",
       "tags": [
+        "Artificial Intelligence",
         "Drones",
         "B2B",
         "Agriculture",
-        "AI",
         "Industrial"
       ],
       "stage": "Early",
@@ -5571,5 +5571,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-22T18:01:12.747911"
+  "fetched_at": "2025-09-23T00:02:42.435543"
 }

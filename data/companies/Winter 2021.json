@@ -7569,43 +7569,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48ce3bed951164a13bbe13af572bd54c82ca1e8e.png"
     },
     {
-      "id": 22672,
-      "name": "Pensil",
-      "slug": "pensil",
-      "website": "https://pensil.in",
-      "description": "",
-      "one_liner": "New-Age White Label Community Platform SDKs and APIs for Games,\u2026",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "Education",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Gurugram, HR, India; HR, India",
-      "tags": [
-        "SaaS",
-        "Community",
-        "Gaming",
-        "Chat",
-        "Live"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1629349218.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eef64ad25f3034fe027f2570b9f47afa9396caf4.png"
-    },
-    {
       "id": 22671,
       "name": "SigNoz",
       "slug": "signoz",
@@ -11329,6 +11292,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/95952ad1c1d1862f111ba0481663b63b5a236b44.png"
     },
     {
+      "id": 22672,
+      "name": "Pensil",
+      "slug": "pensil",
+      "website": "https://pensil.in",
+      "description": "",
+      "one_liner": "New-Age White Label Community Platform SDKs and APIs for Games,\u2026",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Gurugram, HR, India; HR, India",
+      "tags": [
+        "SaaS",
+        "Community",
+        "Gaming",
+        "Chat",
+        "Live"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1629349218.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eef64ad25f3034fe027f2570b9f47afa9396caf4.png"
+    },
+    {
       "id": 22664,
       "name": "SBX Robotics",
       "slug": "sbx-robotics",
@@ -11539,5 +11539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-09-22T18:01:08.360928"
+  "fetched_at": "2025-09-23T00:02:40.672610"
 }
