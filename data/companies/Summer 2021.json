@@ -1227,43 +1227,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cd71fc795fe80387da92b38a105f7c275db52d.png"
     },
     {
-      "id": 24816,
-      "name": "Spoken",
-      "slug": "spoken",
-      "website": "http://www.spoken.io",
-      "description": "Spoken is a website where users compare buying options for the exact same product across multiple stores. We help our users never overpay online.\r\n\r\nDane is a two-time technical YC founder; he sold his previous company, Parklet, to Greenhouse where he was VP of Platform for 4.5 years. Geoff is a Stanford MBA grad and sold his previous company Cabrio Taxi. ",
-      "one_liner": "Never overpay online",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Home and Personal",
-      "industries": [
-        "Consumer",
-        "Home and Personal"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "New York, NY, USA; Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Marketplace",
-        "Consumer",
-        "E-commerce"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1647521413.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb68ef89a464af9a6400e5fd08ed7a7f92342b66.png"
-    },
-    {
       "id": 24799,
       "name": "Birdie",
       "slug": "birdie",
@@ -7753,11 +7716,11 @@
       "name": "RendaloMaq",
       "slug": "rendalomaq",
       "website": "https://www.rendalomaq.com/",
-      "description": "We\u2019re on track to provide the proverbial 'picks and shovels' to power all construction in Latin America. RendaloMaq is the leading tech-enabled equipment rental company in the region, enhancing the traditional rental business with advanced cloud technology.",
+      "description": "RendaloMaq is the leading online construction equipment rental platform in Latin America. Leveraging proprietary technology, the company simplifies and accelerates equipment access for the construction industry. Its mission is to drive productivity through technological innovation while delivering reliable, world-class service.",
       "one_liner": "Tech-enabled equipment rentals in Latam.",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 30,
+      "team_size": 25,
       "industry": "Real Estate and Construction",
       "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
@@ -12017,6 +11980,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41c332786204766da2f20d0713ecf7263a1e799b.png"
     },
     {
+      "id": 24816,
+      "name": "Spoken",
+      "slug": "spoken",
+      "website": "http://www.spoken.io",
+      "description": "Spoken is a website where users compare buying options for the exact same product across multiple stores. We help our users never overpay online.\r\n\r\nDane is a two-time technical YC founder; he sold his previous company, Parklet, to Greenhouse where he was VP of Platform for 4.5 years. Geoff is a Stanford MBA grad and sold his previous company Cabrio Taxi. ",
+      "one_liner": "Never overpay online",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Marketplace",
+        "Consumer",
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1647521413.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb68ef89a464af9a6400e5fd08ed7a7f92342b66.png"
+    },
+    {
       "id": 24787,
       "name": "Squire.ai",
       "slug": "squire-ai",
@@ -13421,5 +13421,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-24T12:01:21.283134"
+  "fetched_at": "2025-09-24T18:01:18.483033"
 }

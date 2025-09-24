@@ -2143,7 +2143,7 @@
       "one_liner": "Cursor for Sales",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -2156,9 +2156,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement",
-        "AI"
+        "Sales Enablement"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2784,8 +2784,8 @@
       "name": "Refresh",
       "slug": "refresh",
       "website": "https://www.refresh.dev",
-      "description": "Building browser agent based tools to help vibe coders improve their coding workflows",
-      "one_liner": "Browser agent based testing in vibe coding workflows",
+      "description": "Building browser agent based tools to help vibe coders improve their coding workflows\r\nPreviously built operative.sh",
+      "one_liner": "Building the first BYOC-ready AI app builder",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2801,11 +2801,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Web Development",
-        "AI"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4611,5 +4611,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-24T12:01:22.304617"
+  "fetched_at": "2025-09-24T18:01:23.038295"
 }
