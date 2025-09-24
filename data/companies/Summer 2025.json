@@ -1752,7 +1752,7 @@
       "slug": "floot",
       "website": "https://floot.com",
       "description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We\u2019re taking a new approach by building everything from the ground up for AI. 14,000 users have created over 16,000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don\u2019t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
-      "one_liner": "Vibecoding platform for non-coders to build serious apps",
+      "one_liner": "The easiest way for non-coders to build apps with AI.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1768,11 +1768,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "No-code",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2630,8 +2630,8 @@
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "GhostEye automates red team testing with AI agents that conduct social engineering attacks and vulnerability exploitation, replacing expensive quarterly pen tests with continuous security validation.",
-      "one_liner": "The Offensive Security Team that never sleeps.",
+      "description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
+      "one_liner": "Human-Centric Security Validation",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2647,9 +2647,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5090,7 +5090,7 @@
       "one_liner": "Connect any LLM to any MCP tools and create complex agents in minutes.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5102,13 +5102,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Workflow Automation",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1756399069.0,
@@ -5605,5 +5605,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
     }
   ],
-  "fetched_at": "2025-09-23T18:01:11.412463"
+  "fetched_at": "2025-09-24T00:02:51.811639"
 }

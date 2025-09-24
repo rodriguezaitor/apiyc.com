@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": 29187,
-      "name": "OpenPipe",
-      "slug": "openpipe",
-      "website": "https://openpipe.ai/",
-      "description": "OpenPipe is an SDK that abstracts away fine-tuning custom models. We capture your existing provider\u2019s prompt-completion pairs in the background and use them to create a new model that is faster, cheaper and often more accurate than the original.",
-      "one_liner": "Turn expensive prompts into cheap fine-tuned models",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Seattle, WA, USA",
-      "tags": [
-        "AIOps",
-        "Artificial Intelligence",
-        "Open Source"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1690818525.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78827e9e8ab6d62b5e66b11dffea9ae771b7d97a.png"
-    },
-    {
       "id": 29162,
       "name": "Flex",
       "slug": "flex",
@@ -6642,6 +6609,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c64a305e01ba20da74a99d93c7b92f8f9831ffb.png"
     },
     {
+      "id": 29187,
+      "name": "OpenPipe",
+      "slug": "openpipe",
+      "website": "https://openpipe.ai/",
+      "description": "OpenPipe is an SDK that abstracts away fine-tuning custom models. We capture your existing provider\u2019s prompt-completion pairs in the background and use them to create a new model that is faster, cheaper and often more accurate than the original.",
+      "one_liner": "Turn expensive prompts into cheap fine-tuned models",
+      "batch": "Summer 2023",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "AIOps",
+        "Artificial Intelligence",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1690818525.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78827e9e8ab6d62b5e66b11dffea9ae771b7d97a.png"
+    },
+    {
       "id": 29105,
       "name": "FlowiseAI",
       "slug": "flowiseai",
@@ -7383,5 +7383,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-09-23T18:01:11.118759"
+  "fetched_at": "2025-09-24T00:02:50.522519"
 }
