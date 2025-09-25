@@ -1,16 +1,16 @@
 {
   "data": {
-    "B2B -> Engineering, Product and Design": 551,
-    "B2B": 440,
-    "B2B -> Infrastructure": 251,
-    "B2B -> Productivity": 215,
+    "B2B -> Engineering, Product and Design": 552,
+    "B2B": 439,
+    "B2B -> Infrastructure": 252,
+    "B2B -> Productivity": 213,
     "Fintech": 146,
-    "B2B -> Marketing": 135,
+    "B2B -> Marketing": 136,
     "B2B -> Operations": 135,
     "B2B -> Analytics": 132,
+    "B2B -> Supply Chain and Logistics": 127,
     "Consumer -> Home and Personal": 127,
     "B2B -> Retail": 126,
-    "B2B -> Supply Chain and Logistics": 126,
     "Education": 124,
     "Consumer": 122,
     "Consumer -> Social": 121,
@@ -23,8 +23,8 @@
     "B2B -> Security": 102,
     "Consumer -> Food and Beverage": 95,
     "Unspecified": 90,
-    "Real Estate and Construction -> Housing and Real Estate": 84,
     "Fintech -> Consumer Finance": 83,
+    "Real Estate and Construction -> Housing and Real Estate": 83,
     "B2B -> Human Resources": 82,
     "Industrials -> Manufacturing and Robotics": 80,
     "Fintech -> Banking and Exchange": 78,
@@ -51,13 +51,13 @@
     "Healthcare -> Industrial Bio": 33,
     "Industrials -> Agriculture": 29,
     "Consumer -> Transportation Services": 27,
+    "Real Estate and Construction": 26,
     "B2B -> Office Management": 25,
-    "Real Estate and Construction": 25,
     "Consumer -> Virtual and Augmented Reality": 22,
     "Industrials": 19,
     "Industrials -> Automotive": 19,
     "Industrials -> Drones": 19,
     "Consumer -> Job and Career Services": 16
   },
-  "fetched_at": "2025-09-24T18:01:30.523351"
+  "fetched_at": "2025-09-25T00:02:56.211199"
 }

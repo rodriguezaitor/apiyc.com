@@ -1638,40 +1638,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4e59148374543e5853a9de0a3bbd86ccab2246e.png"
     },
     {
-      "id": 1954,
-      "name": "Impactive (formerly Outvote)",
-      "slug": "impactive",
-      "website": "https://www.impactive.io/",
-      "description": "Impactive, backed by YCombinator and Higher Ground Labs, was founded in 2017 as a get-out-the-vote tool for Democrats. The Impactive product has since expanded to become a full-service platform allowing any campaign or cause to engage in distributed organizing.\r\n\r\nIn the 2018 midterms, volunteers contacted over 1 million voters using Impactive. In 2020, we scaled significantly to meet the demand of this unprecedented election cycle. We\u2019ve worked with over 500 clients nationwide, and volunteers have sent over 100 million text messages on behalf of Planned Parenthood, the DCCC, SEIU, Community Change, When We All Vote, Greenpeace, and campaigns up and down the ballot. Our work has been featured in The New York Times, Washington Post, TechCrunch, Fast Company, and many more.\r\n\r\nIn 2021, Impactive will expand its platform further into nonprofit, advocacy, and additional markets. This will be an exciting time to play a critical role in helping shape the direction for what\u2019s coming next. We will continue to prioritize our progressive values while building a feature-rich platform that will broaden our reach across the impact space.",
-      "one_liner": "Political/civic tech helping progressive campaigns organize & mobilize",
-      "batch": "Summer 2018",
-      "status": "Active",
-      "team_size": 15,
-      "industry": "Government",
-      "subindustry": "Government",
-      "industries": [
-        "Government"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Boston, MA, USA; Remote",
-      "tags": [
-        "Election Tech",
-        "Civic Tech",
-        "GovTech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1525230396.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/371003d912eebeb5c0de1c0b9e2e9ebd9d87ac80.png"
-    },
-    {
       "id": 1953,
       "name": "Duffel",
       "slug": "duffel",
@@ -3178,6 +3144,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df269d054283def1701cadd70dbd3e84f8ffa32f.png"
     },
     {
+      "id": 1954,
+      "name": "Impactive (formerly Outvote)",
+      "slug": "impactive",
+      "website": "https://www.impactive.io/",
+      "description": "Impactive, backed by YCombinator and Higher Ground Labs, was founded in 2017 as a get-out-the-vote tool for Democrats. The Impactive product has since expanded to become a full-service platform allowing any campaign or cause to engage in distributed organizing.\r\n\r\nIn the 2018 midterms, volunteers contacted over 1 million voters using Impactive. In 2020, we scaled significantly to meet the demand of this unprecedented election cycle. We\u2019ve worked with over 500 clients nationwide, and volunteers have sent over 100 million text messages on behalf of Planned Parenthood, the DCCC, SEIU, Community Change, When We All Vote, Greenpeace, and campaigns up and down the ballot. Our work has been featured in The New York Times, Washington Post, TechCrunch, Fast Company, and many more.\r\n\r\nIn 2021, Impactive will expand its platform further into nonprofit, advocacy, and additional markets. This will be an exciting time to play a critical role in helping shape the direction for what\u2019s coming next. We will continue to prioritize our progressive values while building a feature-rich platform that will broaden our reach across the impact space.",
+      "one_liner": "Political/civic tech helping progressive campaigns organize & mobilize",
+      "batch": "Summer 2018",
+      "status": "Acquired",
+      "team_size": 15,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Boston, MA, USA; Remote",
+      "tags": [
+        "Election Tech",
+        "Civic Tech",
+        "GovTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525230396.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/371003d912eebeb5c0de1c0b9e2e9ebd9d87ac80.png"
+    },
+    {
       "id": 1951,
       "name": "Berbix",
       "slug": "berbix",
@@ -4420,5 +4420,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-09-24T18:01:23.336714"
+  "fetched_at": "2025-09-25T00:02:52.030692"
 }

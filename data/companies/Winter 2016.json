@@ -481,6 +481,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/70881ad94c495ff9a1501555a31b61ee9ba0c769.png"
     },
     {
+      "id": 990,
+      "name": "MagicBus",
+      "slug": "magicbus",
+      "website": "http://www.magicbus.io",
+      "description": "Our mission is to take cars off the road by making it safe and easy to vanpool in the post Covid world.\r\n\r\nA vanpool is a group of people who commute together, usually in a shared van. It\u2019s an excellent, cost effective way to commute, used by hundreds of thousands of Americans, but the industry is largely offline. It\u2019s difficult to find, join, and start vanpools. \r\n\r\nWe build software that fixes this, making vanpooling simple and flexible. We believe that in a post Covid world, it will be more important than ever to rethink shared transportation and make it more adaptive.\r\n\r\nOur customers are organizations like transit agencies and employers who have existing vanpool fleets. We provide these customers with our SaaS platform that manages their vanpool programs. We capture real time information about open seats, then make those seats available to book through our app. We also make it easy for people to crowdsource and start new vanpools.",
+      "one_liner": "We make vanpool simple.",
+      "batch": "Winter 2016",
+      "status": "Active",
+      "team_size": 18,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Transportation Services",
+      "industries": [
+        "Consumer",
+        "Transportation Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Transportation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1447279515.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/42c5e78689fec00c14ce2b4bb21977a7d3dbc702.png"
+    },
+    {
       "id": 989,
       "name": "Tovala",
       "slug": "tovala",
@@ -2776,37 +2807,6 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
-      "id": 990,
-      "name": "MagicBus",
-      "slug": "magicbus",
-      "website": "http://www.magicbus.io",
-      "description": "Our mission is to take cars off the road by making it safe and easy to vanpool in the post Covid world.\r\n\r\nA vanpool is a group of people who commute together, usually in a shared van. It\u2019s an excellent, cost effective way to commute, used by hundreds of thousands of Americans, but the industry is largely offline. It\u2019s difficult to find, join, and start vanpools. \r\n\r\nWe build software that fixes this, making vanpooling simple and flexible. We believe that in a post Covid world, it will be more important than ever to rethink shared transportation and make it more adaptive.\r\n\r\nOur customers are organizations like transit agencies and employers who have existing vanpool fleets. We provide these customers with our SaaS platform that manages their vanpool programs. We capture real time information about open seats, then make those seats available to book through our app. We also make it easy for people to crowdsource and start new vanpools.",
-      "one_liner": "We make vanpool simple.",
-      "batch": "Winter 2016",
-      "status": "Inactive",
-      "team_size": 18,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Transportation Services",
-      "industries": [
-        "Consumer",
-        "Transportation Services"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Los Angeles, CA, USA",
-      "tags": [
-        "Transportation"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1447279515.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/42c5e78689fec00c14ce2b4bb21977a7d3dbc702.png"
-    },
-    {
       "id": 986,
       "name": "AlphaFlow",
       "slug": "alphaflow",
@@ -4022,5 +4022,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-09-24T18:01:23.908345"
+  "fetched_at": "2025-09-25T00:02:52.363653"
 }

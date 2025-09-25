@@ -923,11 +923,11 @@
       "name": "Waydev",
       "slug": "waydev",
       "website": "https://waydev.co",
-      "description": "Empowering Enterprise and Fortune 500 Companies with Advanced Software Engineering Intelligence.",
-      "one_liner": "Software Engineering Intelligence (SEI) : DORA, SPACE, DX",
+      "description": "Waydev AI is the first conversational platform for engineering, helping you measure productivity, track AI\u2019s impact, and guide your teams with data-backed confidence.",
+      "one_liner": "The AI-Native Engineering Intelligence Platform ",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -1023,40 +1023,6 @@
       "is_top_company": false,
       "launched_at": 1614670242.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc6a4fe2e078ae61e81ab99d657be389a0238c71.png"
-    },
-    {
-      "id": 23515,
-      "name": "Avion School",
-      "slug": "avion-school",
-      "website": "https://avionschool.com",
-      "description": "",
-      "one_liner": "We teach Filipinos to become remote software engineers globally.",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Education",
-      "subindustry": "Education",
-      "industries": [
-        "Education"
-      ],
-      "regions": [
-        "Philippines",
-        "Southeast Asia",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Manila, NCR, Philippines; Remote",
-      "tags": [
-        "Education",
-        "eLearning",
-        "Recruiting"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1613790688.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/37924713e6101b57e82c0084ec0a794fe7982489.png"
     },
     {
       "id": 23511,
@@ -9769,6 +9735,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb7a560d95e93407c1a915124f25c4bbab821758.png"
     },
     {
+      "id": 23515,
+      "name": "Avion School",
+      "slug": "avion-school",
+      "website": "https://avionschool.com",
+      "description": "",
+      "one_liner": "We teach Filipinos to become remote software engineers globally.",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "Philippines",
+        "Southeast Asia",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Manila, NCR, Philippines; Remote",
+      "tags": [
+        "Education",
+        "eLearning",
+        "Recruiting"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1613790688.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/37924713e6101b57e82c0084ec0a794fe7982489.png"
+    },
+    {
       "id": 23462,
       "name": "boitas.com",
       "slug": "boitas-com",
@@ -11539,5 +11539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-09-24T18:01:18.835235"
+  "fetched_at": "2025-09-25T00:02:49.451490"
 }

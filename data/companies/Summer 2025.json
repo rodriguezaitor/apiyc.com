@@ -782,7 +782,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "subindustry": "Real Estate and Construction",
       "industries": [
         "Real Estate and Construction"
       ],
@@ -982,7 +982,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
         "Supply Chain and Logistics"
@@ -1486,7 +1486,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -4066,7 +4066,7 @@
       "slug": "herdora",
       "website": "https://www.herdora.com",
       "description": "",
-      "one_liner": "Cursor for CUDA",
+      "one_liner": "Fast Inference",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4082,7 +4082,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4090,38 +4090,6 @@
       "is_top_company": false,
       "launched_at": 1751530242.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png"
-    },
-    {
-      "id": 30643,
-      "name": "Nuntius",
-      "slug": "nuntius",
-      "website": "https://www.nuntius.ai",
-      "description": "Applying artificial intelligence to economically productive use-cases requires bulletproof alignment. We\u2019re solving that.",
-      "one_liner": "Making Models Follow Rules.",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Reinforcement Learning"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1754692935.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     },
     {
       "id": 30642,
@@ -5603,7 +5571,39 @@
       "is_top_company": false,
       "launched_at": 1723238839.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png"
+    },
+    {
+      "id": 30643,
+      "name": "Nuntius",
+      "slug": "nuntius",
+      "website": "https://www.nuntius.ai",
+      "description": "Applying artificial intelligence to economically productive use-cases requires bulletproof alignment. We\u2019re solving that.",
+      "one_liner": "Making Models Follow Rules.",
+      "batch": "Summer 2025",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Reinforcement Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754692935.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-09-24T18:01:22.130292"
+  "fetched_at": "2025-09-25T00:02:51.356703"
 }
