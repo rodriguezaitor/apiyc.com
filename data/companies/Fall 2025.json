@@ -102,6 +102,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6c3efd82a534f694696ea5bc995bad74ae6de58.png"
     },
     {
+      "id": 30954,
+      "name": "Specific",
+      "slug": "specific",
+      "website": "https://specific.dev",
+      "description": "A platform for engineers to build and run backend services and APIs, where engineers don't read or write any code at all. Instead they work only with natural-language specifications and tests, that are then built by AI behind the scenes.",
+      "one_liner": "Platform for engineers to build backends without code",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "No-code"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758776605.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee01acb6dbb8507ecd3cb90ee3709d9acffe2ed.png"
+    },
+    {
       "id": 30948,
       "name": "Lua Global Inc",
       "slug": "lua-global-inc",
@@ -477,8 +510,8 @@
       "name": "Mainflow",
       "slug": "mainflow",
       "website": "https://www.mainflow.com/",
-      "description": "",
-      "one_liner": "A manual investing platform that's so primitive... it's pioneering.",
+      "description": "Non-AI traditional B2C fintech.",
+      "one_liner": "Manual investing platform that's so primitive... it's pioneering.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -542,5 +575,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b427a11c01acc7be86bdfb9bf97f62e7e9151a7.png"
     }
   ],
-  "fetched_at": "2025-09-25T00:02:54.986660"
+  "fetched_at": "2025-09-25T06:01:27.029220"
 }
