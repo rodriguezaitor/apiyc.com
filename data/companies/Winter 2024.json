@@ -6749,7 +6749,7 @@
       "one_liner": "Autonomous organizations without humans in the loop",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -6757,15 +6757,16 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1699380174.0,
@@ -8246,5 +8247,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-25T12:01:14.848490"
+  "fetched_at": "2025-09-25T18:01:15.767429"
 }

@@ -1631,7 +1631,7 @@
         "AI"
       ],
       "stage": "Growth",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1525230401.0,
@@ -4420,5 +4420,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-09-25T12:01:19.370954"
+  "fetched_at": "2025-09-25T18:01:16.574236"
 }
