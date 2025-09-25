@@ -8649,19 +8649,18 @@
     },
     {
       "id": 24080,
-      "name": "Zazos",
-      "slug": "zazos",
+      "name": "Zaz OS",
+      "slug": "zaz-os",
       "website": "https://www.zazos.com/",
-      "description": "Zazos is\u00a0the no-code HR platform.\u00a0We allow startups to set up unique workspaces that centralize information and tasks for employees. For example, companies can create a home page where people can view stock options, ask for time off, and see everyone's profiles. On Zazos, anyone can build and share people management apps, without knowing how to code.\r\n\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
-      "one_liner": "No-code HR platform for startups.",
+      "description": "Zaz OS is a \u201cLovable for internal products\u201d: an AI-native platform with an opinionated infrastructure that makes it easy to build and edit Apps and Agents through vibe-coding. Using spec-driven development, it ensures consistency and security for critical processes, solving challenges like user management, notifications, and multi-app integration within a single interface.\r\n\r\nWith over eight years of experience in back-office and HR, Zaz OS was designed from the ground up with core structural issues already solved and the flexibility to adapt to each company\u2019s unique needs. The result is the speed to build and iterate, combined with the robustness required for mission-critical processes \u2014 the ultimate solution to replace the Frankenstein stack of SaaS tools that currently dominates company management.\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
+      "one_liner": "Lovable for internal products",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Human Resources",
       "industries": [
-        "B2B",
-        "Human Resources"
+        "B2B"
       ],
       "regions": [
         "Brazil",
@@ -8671,15 +8670,18 @@
       ],
       "locations": "S\u00e3o Paulo, SP, Brazil",
       "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
         "SaaS",
-        "No-code"
+        "HR Tech",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1627047912.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f3f4524dd0f4939370b9f5a10a8b251218c632.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c4bc92f268740a2d36a89a6d41f7a2d301d9c38.png"
     },
     {
       "id": 24079,
@@ -13421,5 +13423,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-25T06:01:16.703460"
+  "fetched_at": "2025-09-25T12:01:13.012019"
 }
