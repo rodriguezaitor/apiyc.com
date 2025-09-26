@@ -469,16 +469,15 @@
       "name": "Foundry",
       "slug": "foundry",
       "website": "https://www.foundryrl.com/",
-      "description": "We\u2019re building the an end-to-end web simulator for browser agent training and evals. Our system enables teams to test, benchmark, and optimize browser automation models at scale.\r\n\r\n- Deterministic Web Simulation \u2192 Stable, reproducible testing with versioned web snapshots.\r\n- Live Web Evaluation \u2192 Identify failures caused by UI drift, captchas, and dynamic content.\r\n- Automated Annotation & Labeling \u2192 Generate high-quality training data for benchmarking.\r\n- RL-Driven Agent Optimization \u2192 Improve models with scalable, feedback-driven learning.\r\n\r\nBy combining synthetic user simulations, automated evaluations, and large-scale benchmarking, we help teams build more reliable web agents that handle real-world environments with confidence.",
-      "one_liner": "World Model for Browser Agents",
+      "description": "We\u2019re building browser-native infrastructure that makes software creation production-ready end-to-end. Today\u2019s AI tools can scaffold code, but they fail on the critical workflows that actually get products into production \u2014 provisioning, auth, QA, and compliance \u2014 all of which happen inside the browser.\r\n\r\nOur system makes these workflows deterministic, reproducible, and automatable, so both agents and humans can go from idea to a production-ready app. The opportunity is massive: billions of dollars of value locked up in workflows that today block non-technical founders and slow technical teams. We\u2019re building the infrastructure layer that makes production possible.",
+      "one_liner": "Infrastructure to ship real apps with AI - end-to-end in the browser",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
+      "team_size": 1,
+      "industry": "Consumer",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
-        "B2B",
-        "Infrastructure"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -486,18 +485,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Deep Learning",
         "Developer Tools",
-        "Reinforcement Learning",
-        "Data Labeling",
-        "AI"
+        "Generative AI",
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731963387.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c5d9a291d918029b97da37895c181287b5d4c4.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/394cc5f525a3ba31078b7eec540cddbb71b20919.png"
     },
     {
       "id": 30110,
@@ -3055,5 +3052,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-25T18:01:17.002702"
+  "fetched_at": "2025-09-26T00:02:49.395489"
 }

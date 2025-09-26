@@ -4219,8 +4219,8 @@
       "name": "TableFlow",
       "slug": "tableflow",
       "website": "https://tableflow.com",
-      "description": "Extract, clean, and analyze data from PDFs, spreadsheets, images, and more.",
-      "one_liner": "AI Document Processing",
+      "description": "TableFlow builds AI teammates for data tasks, helping operations and data teams automate the messy, manual tasks buried in PDFs, spreadsheets, images, and emails.",
+      "one_liner": "AI Teammates for Data Tasks",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 2,
@@ -4228,7 +4228,7 @@
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -4236,11 +4236,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
+        "Documents",
         "SaaS",
-        "Open Source",
-        "Data Engineering"
+        "Data Engineering",
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5977,40 +5977,6 @@
       "is_top_company": false,
       "launched_at": 1676577561.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png"
-    },
-    {
-      "id": 27810,
-      "name": "Cakework",
-      "slug": "cakework",
-      "website": "https://www.cakework.com",
-      "description": "We make it possible to build a serverless cloud platform that hosts custom user code with just APIs and no infrastructure team. For example, an open source framework can build a cloud offering that deploys their users code from Github or local dev environments in days instead of months. ",
-      "one_liner": "API that adds cloud hosting to any developer platform",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Seattle, WA, USA",
-      "tags": [
-        "Developer Tools",
-        "B2B",
-        "Cloud Computing",
-        "Infrastructure"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1673854005.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4dbd8d6bcbc396c907943226c3f01d2cbcd5809.png"
     },
     {
       "id": 27808,
@@ -9062,6 +9028,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/388789f1c6ffe4850160572101030a86b8e7bc8c.png"
     },
     {
+      "id": 27810,
+      "name": "Cakework",
+      "slug": "cakework",
+      "website": "https://www.cakework.com",
+      "description": "We make it possible to build a serverless cloud platform that hosts custom user code with just APIs and no infrastructure team. For example, an open source framework can build a cloud offering that deploys their users code from Github or local dev environments in days instead of months. ",
+      "one_liner": "API that adds cloud hosting to any developer platform",
+      "batch": "Winter 2023",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "Cloud Computing",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1673854005.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4dbd8d6bcbc396c907943226c3f01d2cbcd5809.png"
+    },
+    {
       "id": 27734,
       "name": "Rubber Ducky Labs",
       "slug": "rubber-ducky-labs",
@@ -9366,5 +9366,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-09-25T18:01:15.600652"
+  "fetched_at": "2025-09-26T00:02:45.970002"
 }

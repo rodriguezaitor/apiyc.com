@@ -1015,40 +1015,6 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
-      "id": 1641,
-      "name": "Spect",
-      "slug": "spect",
-      "website": "http://www.getspect.com",
-      "description": "Vision Disease cause innumerable cases of preventable blindness globally - 415 million diabetic patients worldwide are susceptible to Diabetic Retinopathy (DR), Glaucoma, and more. Current screening protocols for vision disease require ophthalmologists to manually diagnose patients through visual assessment of the fundus. Given the large number of diabetes patients in various communities, this process is expensive, inefficient, and an undue burden on eye clinics.",
-      "one_liner": "Value-based retinal screening in primary care to prevent blindness. ",
-      "batch": "Summer 2017",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Consumer Health and Wellness",
-      "industries": [
-        "Healthcare",
-        "Consumer Health and Wellness"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Palo Alto, CA, USA; Remote",
-      "tags": [
-        "Digital Health",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1674438704.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8031cd143c9dda792086f541cf539cc6d2126cb5.png"
-    },
-    {
       "id": 1639,
       "name": "Pop Meals",
       "slug": "pop-meals",
@@ -3632,6 +3598,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a905bc2437757c60c66b5a75941fb6ab1f076d8a.png"
     },
     {
+      "id": 1641,
+      "name": "Spect",
+      "slug": "spect",
+      "website": "http://www.getspect.com",
+      "description": "Vision Disease cause innumerable cases of preventable blindness globally - 415 million diabetic patients worldwide are susceptible to Diabetic Retinopathy (DR), Glaucoma, and more. Current screening protocols for vision disease require ophthalmologists to manually diagnose patients through visual assessment of the fundus. Given the large number of diabetes patients in various communities, this process is expensive, inefficient, and an undue burden on eye clinics.",
+      "one_liner": "Value-based retinal screening in primary care to prevent blindness. ",
+      "batch": "Summer 2017",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Palo Alto, CA, USA; Remote",
+      "tags": [
+        "Digital Health",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1674438704.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8031cd143c9dda792086f541cf539cc6d2126cb5.png"
+    },
+    {
       "id": 1640,
       "name": "RideAlong",
       "slug": "ridealong",
@@ -4139,5 +4139,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95842a8ebd992360790565045dc0b9949e8dea8.png"
     }
   ],
-  "fetched_at": "2025-09-25T18:01:16.635005"
+  "fetched_at": "2025-09-26T00:02:48.478254"
 }

@@ -142,7 +142,7 @@
       "one_liner": "AI Physics Engine to replace simulations and prototypes",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -156,9 +156,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-powered Drug Discovery",
-        "Artificial Intelligence",
         "Manufacturing",
         "Aerospace",
+        "AI",
         "ML"
       ],
       "stage": "Early",
@@ -256,7 +256,13 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "SaaS",
+        "Aerospace",
+        "Industrial"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -995,7 +1001,7 @@
       "one_liner": "Autonomous Security Agents",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -3718,13 +3724,7 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Consumer Health Services",
-        "Health Tech",
-        "Digital Health",
-        "Healthcare",
-        "Health & Wellness"
-      ],
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4611,5 +4611,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-25T18:01:16.508195"
+  "fetched_at": "2025-09-26T00:02:48.135164"
 }

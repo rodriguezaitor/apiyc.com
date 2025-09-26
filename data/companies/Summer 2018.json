@@ -1423,41 +1423,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/95cebc7f272bba7c432325c1ec6e9b828643bcb5.png"
     },
     {
-      "id": 1963,
-      "name": "Rain Neuromorphics",
-      "slug": "rain-neuromorphics",
-      "website": "http://www.rain-neuromorphics.com",
-      "description": "At Rain Neuromorphics, we envision a future where every device possesses a dynamic and continuously learning AI brain. Neural Networks are the most powerful engines behind today's AI, but simulations require massive amounts of power and time to learn all of the synaptic connections. As opposed to a simulation, our neuromorphic hardware is a physical artificial neural network, composed of spiking neurons and physical synapses. We combine unique electroceramic materials, nanofabrication techniques, and biologically plausible models of learning to create the Memristive Nanowire Neural Network (MN3), a new type of AI chip. The MN3 can possess over ten million spiking neurons per square centimeter, and uses far less power than conventional GPUs and CPUs.",
-      "one_liner": "We build artificial intelligence processors inspired by the brain.  ",
-      "batch": "Summer 2018",
-      "status": "Active",
-      "team_size": 12,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
-      "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Redwood City, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Hardware",
-        "Neurotechnology"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1525295278.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d8fe573409c782a57a9055002e8b6f07292ece3.png"
-    },
-    {
       "id": 1961,
       "name": "DreamCraft Entertainment, Inc.",
       "slug": "dreamcraft-entertainment-inc",
@@ -3112,6 +3077,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74db772cdb6d5ff36bf91f3c639082d24c50ffd9.png"
     },
     {
+      "id": 1963,
+      "name": "Rain Neuromorphics",
+      "slug": "rain-neuromorphics",
+      "website": "http://www.rain-neuromorphics.com",
+      "description": "At Rain Neuromorphics, we envision a future where every device possesses a dynamic and continuously learning AI brain. Neural Networks are the most powerful engines behind today's AI, but simulations require massive amounts of power and time to learn all of the synaptic connections. As opposed to a simulation, our neuromorphic hardware is a physical artificial neural network, composed of spiking neurons and physical synapses. We combine unique electroceramic materials, nanofabrication techniques, and biologically plausible models of learning to create the Memristive Nanowire Neural Network (MN3), a new type of AI chip. The MN3 can possess over ten million spiking neurons per square centimeter, and uses far less power than conventional GPUs and CPUs.",
+      "one_liner": "We build artificial intelligence processors inspired by the brain.  ",
+      "batch": "Summer 2018",
+      "status": "Acquired",
+      "team_size": 12,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Redwood City, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Hardware",
+        "Neurotechnology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1525295278.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d8fe573409c782a57a9055002e8b6f07292ece3.png"
+    },
+    {
       "id": 1955,
       "name": "CSPA",
       "slug": "cspa",
@@ -4420,5 +4420,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-09-25T18:01:16.574236"
+  "fetched_at": "2025-09-26T00:02:48.314414"
 }
