@@ -72,17 +72,16 @@
       "id": 30561,
       "name": "Sureform",
       "slug": "sureform",
-      "website": "https://www.sureforminsurance.com/",
-      "description": "Sureform is an insurance brokerage powered by AI that works 24/7 to help businesses get the coverage they deserve. Take the first step toward safeguarding your business today by calling us at (650) 788-2172.",
-      "one_liner": "Commercial insurance brokerage, powered by AI",
+      "website": "https://www.sureform.ai/",
+      "description": "Curating multimodal datasets to advance physical and generative AI",
+      "one_liner": "Multimodal data to transform AI",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
-        "B2B",
-        "Analytics"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -90,8 +89,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
-        "Insurance"
+        "Artificial Intelligence",
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4611,5 +4610,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-26T06:01:08.080445"
+  "fetched_at": "2025-09-26T12:01:18.397286"
 }
