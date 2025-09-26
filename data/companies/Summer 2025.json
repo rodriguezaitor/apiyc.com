@@ -1995,8 +1995,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2145,7 +2145,7 @@
       "slug": "relling",
       "website": "https://rellingsystems.com",
       "description": "Relling is working on the \u201cImageNet for world models\u201d: large-scale, high-quality multimodal datasets that help AI and robotics teams train systems to see, move, and interact with the real world. We combine synchronized video, depth, LiDAR, motion, and audio, we give researchers the building blocks for truly general-purpose AI.",
-      "one_liner": "ImageNet for world models",
+      "one_liner": "Data and infra for world models",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2161,9 +2161,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotics",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5600,5 +5600,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-09-26T12:01:17.506197"
+  "fetched_at": "2025-09-26T18:04:27.847185"
 }
