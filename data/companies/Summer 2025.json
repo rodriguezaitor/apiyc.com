@@ -2696,7 +2696,7 @@
       "slug": "epicenter",
       "website": "https://epicenter.md",
       "description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly.\r\n\r\nOur long-term vision is to become the SSO for AI applications. Users use Epicenter to plug into any service, and they'll own their data, choose their models, and replace siloed apps with interoperable alternatives. Developers will use our framework to build highly customized experiences for said users.\r\n\r\nRight now, we're leading by example by building our own suite of tools on top of Epicenter. We store all your work\u2014notes, transcripts, chat histories\u2014in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, and so on. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nYou should own your memory in the same way you own your brain. \u2764\ufe0f",
-      "one_liner": "ChatGPT's memory feature in an open, portable format",
+      "one_liner": "A database for your mind, built on plain text.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 1,
@@ -5600,5 +5600,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-09-27T00:02:53.659174"
+  "fetched_at": "2025-09-27T06:01:09.269351"
 }

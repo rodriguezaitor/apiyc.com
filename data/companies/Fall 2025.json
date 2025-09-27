@@ -67,6 +67,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7696654f248acf11e5913502b817690c5caf5763.png"
     },
     {
+      "id": 30989,
+      "name": "Bluma",
+      "slug": "bluma",
+      "website": "https://www.getbluma.com",
+      "description": "Bluma makes it effortless for SaaS founders to launch TikTok and Instagram organic campaigns that actually go viral.\r\n\r\nShare us viral faceless videos you would like to recreate and we\u2019ll make them into scalable ad templates. Or choose from our growing library of templates like Peter Griffin explainers and slideshows.\r\n\r\nThese templates generate thousands of videos each month that promote your product. Then we handle posting across a network of accounts.\r\n\r\n\ud83d\udce9 Contact us at alisa@getbluma.com to set up a call.",
+      "one_liner": "Automating Short-Form Video Ads at Scale",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Social Media",
+        "Video",
+        "Marketing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758933765.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2250e8f5e09ffe0b1934e4ef2e8b00ff37ad81b9.png"
+    },
+    {
       "id": 30981,
       "name": "Freeport Markets",
       "slug": "freeport-markets",
@@ -436,6 +471,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/12a498451818daa71ba01c88400ac7f241e33a03.png"
     },
     {
+      "id": 30879,
+      "name": "Hypercubic",
+      "slug": "hypercubic",
+      "website": "https://www.hypercubic.ai/",
+      "description": "Hypercubic is an AI-native maintenance and modernization platform for mainframes. We help enterprises understand and preserve their most critical systems running on mainframes. These systems, originally built in the 1960s\u201390s, still power trillions in global infrastructure but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems using frontier AI.\r\n\r\n\r\nLearn more at hypercubic.ai",
+      "one_liner": "AI to maintain and modernize mainframes.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758931979.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7c99fca8e4cc5f92f4512cf22a4fef17d90d66d.png"
+    },
+    {
       "id": 30875,
       "name": "Veria Labs",
       "slug": "veria-labs",
@@ -668,5 +735,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b427a11c01acc7be86bdfb9bf97f62e7e9151a7.png"
     }
   ],
-  "fetched_at": "2025-09-27T00:02:59.056787"
+  "fetched_at": "2025-09-27T06:01:12.124572"
 }
