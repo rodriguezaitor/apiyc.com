@@ -404,6 +404,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png"
     },
     {
+      "id": 30890,
+      "name": "AnswerThis",
+      "slug": "answerthis",
+      "website": "https://answerthis.io/",
+      "description": "AnswerThis is a scientific discovery platform used by over 200,000 researchers that reduces weeks of manual research work to hours. \r\n\r\nInstead of manually searching, reading, and organizing dozens of papers, researchers use AnswerThis to find the most relevant work, see how ideas are connected, and get comprehensive answers to complex scientific questions with line by line answers. \r\n\r\nThis allows them to map research gaps, analyze trends, and draft literature reviews far faster, all while building a searchable library of their own research materials. ",
+      "one_liner": "Instead of manually searching, reading, and organizing dozens of\u2026",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758990937.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7447a5f4c087378428be2bea5adcf3daf4a4e9e8.png"
+    },
+    {
       "id": 30885,
       "name": "Semble AI",
       "slug": "semble-ai",
@@ -735,5 +768,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b427a11c01acc7be86bdfb9bf97f62e7e9151a7.png"
     }
   ],
-  "fetched_at": "2025-09-27T12:01:15.874437"
+  "fetched_at": "2025-09-27T18:01:15.694223"
 }

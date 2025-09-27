@@ -1503,11 +1503,11 @@
       "name": "Fern",
       "slug": "fern",
       "website": "https://www.buildwithfern.com",
-      "description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern helps companies deliver SDKs and API documentation that they\u2019re are proud to share with their customers. Since launching in 2023, we\u2019ve been trusted by over 150 customers, including industry leaders like Square, Webflow, ElevenLabs, LaunchDarkly, Alchemy, and Intercom, to power their developer experience.\r\n\r\nWe\u2019re fewer than 20 people, based in Brooklyn, NY, and are building open source.",
+      "description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern helps companies deliver SDKs and API documentation that they\u2019re are proud to share with their customers. Since launching in 2023, we\u2019ve been trusted by over 200 customers, including industry leaders like Square, Webflow, ElevenLabs, Auth0, and Intercom, to power their developer and agent experiences.\r\n\r\nWe\u2019re fewer than 40 people, based in Brooklyn, NY, and are building open source.",
       "one_liner": "Instantly offer SDKs and API Docs",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3063,7 +3063,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1677116092.0,
@@ -9366,5 +9366,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-09-27T12:01:12.560372"
+  "fetched_at": "2025-09-27T18:01:06.658669"
 }
