@@ -1846,7 +1846,7 @@
       "slug": "minimal-ai",
       "website": "https://gominimal.ai/",
       "description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nOver 50 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
-      "one_liner": "AI Customer Support Teams for E-commerce",
+      "one_liner": "AI Agents for E-commerce Customer Support",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -1861,10 +1861,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "E-commerce",
-        "Customer Support",
-        "AI"
+        "Customer Support"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3315,7 +3315,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753389326.0,
@@ -5600,5 +5600,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-09-27T06:01:09.269351"
+  "fetched_at": "2025-09-27T12:01:13.751423"
 }
