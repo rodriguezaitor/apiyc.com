@@ -4467,11 +4467,11 @@
       "name": "Inkeep",
       "slug": "inkeep",
       "website": "https://inkeep.com",
-      "description": "Inkeep provides all the AI tools teams need to scale support: an assistant for users, a copilot for support agents, and an AI writer to identify and fix content gaps. \r\n\r\nTeams like Anthropic, Pinecone, and Postman trust Inkeep to help their users find what they need and get high quality human support when they need it.\r\n\r\nInkeep \"just works\" with your existing tools - ingest any source, add to any help center or docs site, integrate with any ticketing platform, and our APIs to create custom experiences and automate workflows.",
-      "one_liner": "AI support you can trust.",
+      "description": "Inkeep is the only agent platform designed to help both developers and non-developers ship Agent-powered assistants and automations.\r\n\r\nCompanies like Anthropic, Midjourney, Clay, PostHog, and Postman deploy Inkeep Agents at scale to help with everything from support to sales.\r\n\r\nHighlights:\r\n- A No-Code Builder and Developer Framework with full 2-way sync\r\n- Unified search and RAG for knowledge bases, docs, and company data\r\n- MCPs and integrations with your apps, APIs, and software\r\n- Intelligent insights and monitoring over how Agents perform\r\n\r\nWith Inkeep Agents, enterprises and high-growth teams empower their employees with AI teammates that help get work done and automate repeatable tasks.\r\n\r\nBacked by Khosla Ventures, Y-Combinator, Great Point Ventures, Guillermo Rauch (CEO of Vercel) and other leading investors.",
+      "one_liner": "Build AI Agent teammates and automations in code or no-code",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 16,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4486,10 +4486,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Generative AI",
-        "Customer Success",
-        "Customer Service",
+        "Developer Tools",
+        "Workflow Automation",
         "Customer Support",
+        "No-code",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -9366,5 +9366,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-09-28T06:01:07.991342"
+  "fetched_at": "2025-09-28T12:01:12.738992"
 }
