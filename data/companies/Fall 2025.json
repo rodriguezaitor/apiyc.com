@@ -309,7 +309,7 @@
       "slug": "lexi",
       "website": "https://lexi.sg/",
       "description": "",
-      "one_liner": "AI Powered Associates & Paralegals",
+      "one_liner": "AI Powered Associates",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -330,7 +330,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758861304.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f6ea1101394fbcef570ad77b5b62568bfa08f70.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb8c922483150b7ebb7320f8160a0722809b666c.png"
     },
     {
       "id": 30914,
@@ -348,21 +348,13 @@
         "Consumer"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Consumer",
-        "Healthcare",
-        "Health & Wellness",
-        "Mental Health",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1757558729.0,
@@ -673,11 +665,11 @@
       "name": "Mainflow",
       "slug": "mainflow",
       "website": "https://www.mainflow.com/",
-      "description": "Non-AI traditional B2C fintech software.",
+      "description": "Non-AI generalist fintech software.",
       "one_liner": "Manual investing platform that's so primitive... it's pioneering.",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "Fintech",
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
@@ -766,7 +758,41 @@
       "is_top_company": false,
       "launched_at": 1758155628.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b427a11c01acc7be86bdfb9bf97f62e7e9151a7.png"
+    },
+    {
+      "id": 30750,
+      "name": "AutoAce",
+      "slug": "autoace",
+      "website": "https://www.autoace.ai/",
+      "description": "AutoAce is building the AI native operating system for car dealerships. We start with AI service advisors that answer calls and book appointments, so no call is missed and no revenue is lost. Our mission is to connect service, sales, parts, finance, and insurance into one platform, transforming dealerships from reactive operations into proactive systems that anticipate customer needs.",
+      "one_liner": "AI-native operating system for car dealerships",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Operations",
+        "Automotive"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758997606.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-09-27T18:01:15.694223"
+  "fetched_at": "2025-09-28T00:02:57.300730"
 }

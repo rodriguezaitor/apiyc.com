@@ -72,8 +72,8 @@
       "id": 30561,
       "name": "Sureform",
       "slug": "sureform",
-      "website": "https://www.sureform.ai/",
-      "description": "Curating multimodal datasets to advance physical and generative AI",
+      "website": "https://www.sureformhq.com/",
+      "description": "Curating multimodal datasets to advance generative and physical AI",
       "one_liner": "Multimodal data to transform AI",
       "batch": "Spring 2025",
       "status": "Active",
@@ -89,8 +89,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -104,29 +104,23 @@
       "name": "Foundation Industries",
       "slug": "foundation-industries",
       "website": "https://www.foundation-industries.com/",
-      "description": "Our team combines deep expertise from Fabricator\u2019s Inc., a sheet metal business which has served the Midsouth, Southeast, and Midwest region for over 70 years, with technologists from Palantir Technologies, NASA, and the Georgia Institute of Technology.\r\n\r\nTogether, we will combine the innovative spirit of Silicon Valley with the deep knowledge of American manufacturing to ensure a safer, more prosperous future for all.",
-      "one_liner": "Industrial Holding Company",
+      "description": "Foundation Industries is an industrial acquisition firm. We are consolidating the US supplier ecosystem and integrating frontier technology into production. Our work unlocks total supply chain reliability for end product development.\r\n\r\nRead more here:\r\nhttps://johnrobison.substack.com/p/the-case-for-a-manufacturing-monopoly\r\n\r\n\r\n\r\n",
+      "one_liner": "Manufacturing infrastructure for the defense industrial base. ",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
       "industry": "Industrials",
       "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
+        "Industrials"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Hard Tech",
-        "Robotics",
-        "Manufacturing"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746512449.0,
@@ -4609,5 +4603,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-27T18:01:10.566508"
+  "fetched_at": "2025-09-28T00:02:55.398890"
 }
