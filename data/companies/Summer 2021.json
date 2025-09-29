@@ -3100,7 +3100,7 @@
         "No-code"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1627056154.0,
@@ -3287,7 +3287,7 @@
       "id": 24550,
       "name": "Examedi",
       "slug": "examedi",
-      "website": "https://www.examedi.com",
+      "website": "https://www.examedi.cl",
       "description": "Examedi is a healthcare-at-home marketplace in Latin America that sends nurses and lab technicians directly to patients\u2019 homes for appointments. It\u2019s like Uber, but for medical lab work.\r\n",
       "one_liner": "Uber for Healthcare in Latinamerica",
       "batch": "Summer 2021",
@@ -13423,5 +13423,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-29T12:01:20.816486"
+  "fetched_at": "2025-09-29T18:01:08.405347"
 }

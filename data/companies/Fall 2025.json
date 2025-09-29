@@ -628,6 +628,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png"
     },
     {
+      "id": 30858,
+      "name": "Deeptrace",
+      "slug": "deeptrace",
+      "website": "https://deeptrace.com/",
+      "description": "At Deeptrace, we\u2019re building AI agents that investigate and resolve production alerts end-to-end. Deeptrace cuts through the noise, pinpoints root causes instantly, and gives engineering teams back what they need most: the freedom to build instead of firefighting.\r\n\r\nIn production, we're already seeing a reduction in time spent triaging, investigating, and resolving alerts with some of the fastest growing companies in the world.",
+      "one_liner": "AI agents for on-call",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759160221.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a60fee67044114e15cab84acef7b9b968923c93e.png"
+    },
+    {
       "id": 30853,
       "name": "Bolna AI",
       "slug": "bolna-ai",
@@ -895,5 +926,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-09-29T12:01:23.940672"
+  "fetched_at": "2025-09-29T18:01:10.607251"
 }
