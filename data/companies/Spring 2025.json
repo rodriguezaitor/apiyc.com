@@ -4421,7 +4421,7 @@
       "slug": "aviro",
       "website": "https://www.aviro.ai/",
       "description": "Aviro is building the infra for enterprise AI agents to continuously upskill to handle complex workflows. Our runtime layer, Cortex, guides agents in real time, anchoring them to enterprise standard operating procedures (SOPs) and compounding their abilities through reinforcement learning. By embedding operational expertise directly into agent runs, Aviro ensures agents reliably follow company workflows, adapt on the fly, and get smarter with each task.",
-      "one_liner": "Continuous Upskilling for Enterprise AI Agents",
+      "one_liner": "Build agents that learn from experience",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4436,9 +4436,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Reinforcement Learning"
+        "Reinforcement Learning",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4603,5 +4603,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-09-29T00:02:57.585784"
+  "fetched_at": "2025-09-29T06:01:17.076625"
 }

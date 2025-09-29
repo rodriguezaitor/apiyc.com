@@ -208,8 +208,8 @@
       "name": "Zalos",
       "slug": "zalos",
       "website": "https://www.zalos.ai/",
-      "description": "Helping FinOps teams eliminate repetitive work, without changing ERP.\r\n\r\nComputer Use Agents operate existing Finance systems to execute Finance & Accounting processes (e.g., reconciliations, categorizations, form filling, etc.).\r\n\r\n",
-      "one_liner": "Computer Agents for Finance Operations",
+      "description": "*Eliminate your Finance Operations grunt work - NOW!*\r\n\u26a1Computer Agent logs into existing systems (e.g., ERP, Accounting, other CFO tools)\r\n\u26a1Automates Finance processes (e.g., reconciliation, categorization, form filling)\r\n\u26a1Uploads & submits in your system\r\n\r\n\u27a1\u27a1 Interested? Request demo here: https://www.zalos.ai/contact-us\r\n\r\n*The Blockers \u279c Your Finance Systems:*\r\nFinance Operations is buried in repetitive tasks, driving:\r\n\u274c Lack finance visibility for decision-making\r\n\u274c Wasted time by in-house or outsourced teams\r\n\u274c Mistakes and delays from human-driven processes\r\n\r\nBarriers to FinOps automation have included:\r\n\ud83d\udea8 Legacy ERPs with limited AI\r\n\ud83d\udea8 Authentication-protected websites & portals\r\n\ud83d\udea8 Too many Finance Systems that don\u2019t speak to another\r\n\r\nIt doesn\u2019t have to be this way.\r\n\r\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\r\n*The Breakthrough \u279c Zalos:*\r\n\r\nZalos Agents run your rule-based processes, using your existing Finance applications:\r\n\u2b50 Our agents automate processes based on simple instructions (e.g., Screen Recording, PDFs)\r\n\u2b50 Native handling of ERPs or other applications (e.g., 2FA, Captcha)\r\n\u2b50 Superior performance from our FinOps libraries (e.g., Data Extraction & Harmonization, Reconciliation, etc.)\r\n\r\nCustomer story:\r\nFROM: In the Bay area, a Finance Manager was wasting 4 days (!) per month:\r\n\u2716\ufe0f Downloads transactions from Corporate Credit Cards & legacy Banks\r\n\u2716\ufe0f Uploads into NetSuite and manually categorizes 100s of transactions\r\n\r\nUSING ZALOS: Finance Manager schedules \u2018run process\u2019 weekly:\r\n\u2714\ufe0f Zalos handles 2FA to download & submit required transactions\r\n\u2714\ufe0f Zalos operates NetSuite to categorize >60% outstanding transactions\r\n\r\n*\r\nNo browser required: Zalos works silently in the background, whilst continuously improving itself. \r\n\r\nGaining 1 day per week was transformational. The Finance Manager could\r\n\ud83d\udfea Reduce financial risks with closer inspection (e.g., debt covenants) \r\n\ud83d\udfea Catch cash leakages by spotting suppliers being paid at generous terms\r\n\ud83d\udfea Be a strategic partner to the CEO & business with better analysis\r\n\r\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\r\nZalos transforms your Finance Operations:\r\n\u2611\ufe0f Scale without headcount - don\u2019t let Operations teams be a bottleneck\r\n\u2611\ufe0f Smarter every day, with evals & RL-finetuning driving a self-performing system\r\n\u2611\ufe0f Built for Enterprise-grade security and screen records every automation for audit\r\n\r\n\u27a1\u27a1 Interested? Request demo here: https://www.zalos.ai/contact-us\r\n",
+      "one_liner": "Computer Agents for Finance tasks like reconciliation, in your system!",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -428,6 +428,40 @@
       "is_top_company": false,
       "launched_at": 1758318085.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png"
+    },
+    {
+      "id": 30894,
+      "name": "Unsiloed AI",
+      "slug": "unsiloed-ai",
+      "website": "https://www.unsiloed.ai/",
+      "description": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets.\r\n\r\nOur APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
+      "one_liner": "API for parsing multimodal unstructured data",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Finance",
+        "B2B",
+        "Infrastructure",
+        "AI",
+        "APIs"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759119503.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e8e4817fc6901d70f0551aadf060397120f8833.png"
     },
     {
       "id": 30890,
@@ -861,5 +895,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-09-29T00:03:01.496757"
+  "fetched_at": "2025-09-29T06:01:23.089054"
 }
