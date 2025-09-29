@@ -3750,8 +3750,8 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent is the world\u2019s first firewall purpose-built for AI systems. It protects your models and data at runtime by inspecting every prompt and response. It blocks prompt injections, jailbreaks, and data leaks, prevents backdoors in generated code, and quarantines suspicious outputs. \r\n\r\nThe firewall is powered by a small language model fine-tuned for security and safety. Unlike static rules or regex filters, it can reason about context to catch subtle attacks and leaks. The model is lightweight and optimized for speed \u2014 fast enough to run inline with every request and response without slowing down your apps.\r\n\r\nSuperagent also provides observability with full traces, audit logs, and policy enforcement, giving teams security and control without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
-      "one_liner": "The AI firewall \u2014 stop attacks, leaks, and model abuse",
+      "description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It\u2019s lightweight and fast \u2014 optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+      "one_liner": "Defender of AI agents",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -3759,7 +3759,7 @@
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Security"
       ],
       "regions": [
         "United States of America",
@@ -3768,6 +3768,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
+        "Security",
         "Open Source",
         "AI"
       ],
@@ -8247,5 +8248,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-29T06:01:13.031469"
+  "fetched_at": "2025-09-29T12:01:21.363131"
 }
