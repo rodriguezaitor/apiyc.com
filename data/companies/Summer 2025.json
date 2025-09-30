@@ -2554,19 +2554,12 @@
         "Supply Chain and Logistics"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Sales",
-        "Supply Chain",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753000104.0,
@@ -5586,5 +5579,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-09-30T12:01:26.750689"
+  "fetched_at": "2025-09-30T18:01:16.213244"
 }

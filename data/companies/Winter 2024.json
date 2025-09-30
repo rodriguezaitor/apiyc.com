@@ -5273,7 +5273,7 @@
       "locations": "New York, NY, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705081211.0,
@@ -6476,8 +6476,8 @@
       "name": "Lumen Payments",
       "slug": "lumen-payments",
       "website": "https://getlumen.dev",
-      "description": "",
-      "one_liner": "Ship AI billing fast - track usage, credits & flexible pricing models!",
+      "description": "Lumen let's you implement complex pricing models in under 10 minutes.\r\n\r\nLumen will take care of webhooks, user credits, tracking usage in real-time, usage based billing, taxes and more so you can focus on your product.",
+      "one_liner": "Fastest way to implement payments in your product.",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -6492,11 +6492,11 @@
       ],
       "locations": "Berlin, Berlin, Germany",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "Open Source",
-        "Billing",
-        "AI"
+        "Billing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8248,5 +8248,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-09-30T12:01:23.718190"
+  "fetched_at": "2025-09-30T18:01:13.342712"
 }
