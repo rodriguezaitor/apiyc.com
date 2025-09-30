@@ -566,6 +566,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7447a5f4c087378428be2bea5adcf3daf4a4e9e8.png"
     },
     {
+      "id": 30887,
+      "name": "SellRaze",
+      "slug": "sellraze",
+      "website": "https://sellraze.com",
+      "description": "SellRaze is a video shopping platform that makes it easy for sellers to create engaging listings and connect with buyers.\r\n\r\nOur AI makes video creation accessible at scale. It identifies every item in a video, automatically filling in details and pricing so sellers don't have to write descriptions or research prices. Sellers showcase multiple items in a single clip while telling their stories, and buyers can purchase any item individually. The AI guides sellers while filming and auto-edits footage into polished videos\u2014turning casual sellers into content creators.\r\n\r\nVideo listings generate dramatically higher engagement and sales than photos. We're building a community where buyers discover products from the sellers they follow.\r\n\r\nIn just 8 months, our community has added 200,000 sellers who have listed more than 500,000 items on the platform. Currently, we have $1M ARR and are growing each month.\r\n",
+      "one_liner": "Swipeable video shopping from real sellers, not brands.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Marketplace",
+        "Consumer",
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759197803.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d0c3af40b49318f2b71a98f2764633829b06a75.png"
+    },
+    {
       "id": 30886,
       "name": "Mod AI",
       "slug": "mod-ai",
@@ -1058,5 +1091,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-09-30T00:03:13.975477"
+  "fetched_at": "2025-09-30T06:01:16.513065"
 }
