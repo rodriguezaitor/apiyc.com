@@ -925,6 +925,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f00f4b531cfdb83446f322df9e4f749afb8b0179.png"
     },
     {
+      "id": 30845,
+      "name": "Structured AI",
+      "slug": "structured-ai",
+      "website": "https://www.getstructured.ai/",
+      "description": "Structured AI builds AI-powered tools to automate repetitive workflows and make collaboration between different pre-construction engineering teams seamless.",
+      "one_liner": "AI co-pilot for pre-construction design engineering",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Construction",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Construction",
+        "B2B",
+        "Workflow Automation",
+        "Architecture"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759212406.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png"
+    },
+    {
       "id": 30843,
       "name": "Mainflow",
       "slug": "mainflow",
@@ -1091,5 +1125,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-09-30T06:01:16.513065"
+  "fetched_at": "2025-09-30T12:01:34.435161"
 }
