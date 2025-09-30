@@ -67,6 +67,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7696654f248acf11e5913502b817690c5caf5763.png"
     },
     {
+      "id": 31002,
+      "name": "Clicks",
+      "slug": "clicks",
+      "website": "https://goclicks.ai/",
+      "description": "Clicks automates your workflows using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as an army of interns that can handle any repetitive task you explain to them. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% usage based: you only pay for the human hours you actually save. Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
+      "one_liner": "The first AI back-office worker that works like a human.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Workflow Automation",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759173987.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5305c55b4b60ebbe6d4f336c1c814b90415438cb.png"
+    },
+    {
       "id": 30989,
       "name": "Bluma",
       "slug": "bluma",
@@ -338,6 +371,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c1d7fe830232f3ad92055c328a9c623fe69050a.png"
     },
     {
+      "id": 30935,
+      "name": "s2.dev",
+      "slug": "s2-dev",
+      "website": "https://s2.dev",
+      "description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams \u2013 so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\nBuilding agents? Use granular streams to manage context in real time, make workflows auditable, and coordinate between agents.\r\n\r\nPublishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\nSandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\nLocal-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
+      "one_liner": "Streams as a cloud storage primitive",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "API",
+        "Infrastructure",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759174945.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png"
+    },
+    {
       "id": 30920,
       "name": "Lexi",
       "slug": "lexi",
@@ -497,11 +566,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7447a5f4c087378428be2bea5adcf3daf4a4e9e8.png"
     },
     {
+      "id": 30886,
+      "name": "Mod AI",
+      "slug": "mod-ai",
+      "website": "https://usemod.ai",
+      "description": "We build AI agents to automate invoice processing for finance teams.\r\n\r\nFrom ingestion to ERP to payment and bookkeeping, our AI agents read emails, connect to EDIs, extract data from any document format, detect fraud, and sync directly with your ERP or accounting system. ",
+      "one_liner": "AI Agents for Accounts Payable",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Finance",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759171972.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png"
+    },
+    {
       "id": 30885,
       "name": "Semble AI",
       "slug": "semble-ai",
       "website": "https://www.sembleai.com",
-      "description": "Semble AI automates fire-life-safety design. We instantly generate code-compliant device layouts, bills of materials (BOMs), and quote estimates. We replace guesswork with AI - getting it right the first time and allowing teams to produce bids in minutes, not weeks.\r\n\r\nNo missed devices or materials. \r\nNo regulation lookups. \r\nNo back-and-forth with permitting authorities.\r\nNo overrun cost surprises.\r\n\r\nSemble AI is the new standard for fire-life-safety.",
+      "description": "Semble AI automates fire-life-safety design. Instantly generate code-compliant device layouts, bills of materials (BOMs), and quote estimates. Replace guesswork with AI - getting it right the first time and allowing teams to produce bids in minutes, not weeks.\r\n\r\nNo missed devices or materials. \r\nNo regulation lookups. \r\nNo back-and-forth with permitting authorities.\r\nNo overrun cost surprises.\r\n\r\nSemble AI is the new standard for fire-life-safety.",
       "one_liner": "Autonomous fire and life-safety systems engineer",
       "batch": "Fall 2025",
       "status": "Active",
@@ -518,9 +618,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Design Tools",
-        "AI"
+        "Design Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -626,6 +726,38 @@
       "is_top_company": false,
       "launched_at": 1758644249.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png"
+    },
+    {
+      "id": 30864,
+      "name": "Dari",
+      "slug": "dari",
+      "website": "https://usedari.com",
+      "description": "An automation platform where users can reliably automate web workflows using natural language prompts.\r\n\r\nWe handle two-factor authentication and deterministic playback of workflows, ensuring your workflows don't break. ",
+      "one_liner": "The easiest way to build reliable browser use agents.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Robotic Process Automation",
+        "B2B",
+        "Workflow Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759188885.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png"
     },
     {
       "id": 30858,
@@ -926,5 +1058,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-09-29T18:01:10.607251"
+  "fetched_at": "2025-09-30T00:03:13.975477"
 }

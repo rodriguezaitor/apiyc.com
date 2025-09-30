@@ -2091,38 +2091,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/add199c01e8e38b906c80074b660ab5bf6e88b25.png"
     },
     {
-      "id": 1012,
-      "name": "Inevitable Tech",
-      "slug": "inevitable-tech",
-      "website": "https://inevitabletech.com/",
-      "description": "Iron Ox is redesigning agriculture to confront its staggering environmental impacts and adapting farming to meet our future needs by making it a precise science that lets plants reach their full potential.",
-      "one_liner": "To make food a renewable resource, for everyone",
-      "batch": "Winter 2016",
-      "status": "Active",
-      "team_size": 80,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Agriculture",
-      "industries": [
-        "Industrials",
-        "Agriculture"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Carlos, CA, USA",
-      "tags": [
-        "Robotics",
-        "Climate"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1447311916.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a367eb3261209b49872b8ae5c4bf82df615e90a.png"
-    },
-    {
       "id": 1010,
       "name": "Gigwell",
       "slug": "gigwell",
@@ -3829,6 +3797,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b79c831c8f0d305c265f82733feafa079a2d0bc5.png"
     },
     {
+      "id": 1012,
+      "name": "Inevitable Tech",
+      "slug": "inevitable-tech",
+      "website": "https://inevitabletech.com/",
+      "description": "Iron Ox is redesigning agriculture to confront its staggering environmental impacts and adapting farming to meet our future needs by making it a precise science that lets plants reach their full potential.",
+      "one_liner": "To make food a renewable resource, for everyone",
+      "batch": "Winter 2016",
+      "status": "Inactive",
+      "team_size": 80,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Agriculture",
+      "industries": [
+        "Industrials",
+        "Agriculture"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Carlos, CA, USA",
+      "tags": [
+        "Robotics",
+        "Climate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1447311916.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a367eb3261209b49872b8ae5c4bf82df615e90a.png"
+    },
+    {
       "id": 1011,
       "name": "InnoVein",
       "slug": "innovein",
@@ -4022,5 +4022,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-09-29T18:01:09.813737"
+  "fetched_at": "2025-09-30T00:03:09.976905"
 }

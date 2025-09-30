@@ -1823,7 +1823,7 @@
       "name": "RiskCube",
       "slug": "riskcube",
       "website": "https://riskcube.com",
-      "description": "RiskCube is a AI insurance agency built for startups.\r\n\r\nWe are licensed in California and will be launching soon. Our initial focus is Directors & Officers (D&O) insurance, helping venture-backed companies secure the coverage they need quickly and transparently.\r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
+      "description": "RiskCube is a AI insurance agency built for startups & SMBs. \r\n\r\nOur initial focus is Directors & Officers (D&O) insurance, helping venture-backed companies secure the coverage they need quickly and transparently.\r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
       "one_liner": "Buy and manage business insurance.",
       "batch": "Fall 2024",
       "status": "Active",
@@ -2477,8 +2477,8 @@
       "name": "OpenFunnel",
       "slug": "openfunnel",
       "website": "https://openfunnel.dev",
-      "description": "OpenFunnel helps you autonomously discover and prioritize prospects by identifying external activities your ICPs are doing \u2014 signals that show a company is worth reaching out to and might have a pain point.\r\n\r\nFor example -\r\nAn LLM Ops company that provides tools for self hosting LLMs uses us to\r\nFind companies in their ICP rapidly expanding their AI team for self-hosting Llama Models\r\n\r\nAn HR and Payroll Software company that helps with global payroll uses us to\r\nFind seed funded announcements in real-time and have immigrant founders to the US",
-      "one_liner": "Agents to help find in-market companies via deep researched signals",
+      "description": "OpenFunnel is the Search Engine for GTM teams.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+      "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 4,
@@ -2492,13 +2492,18 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Sales Enablement"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1728361776.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/467a5194c6eed21b3d29ae27af5c92c76d94cdf0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png"
     },
     {
       "id": 30032,
@@ -3055,5 +3060,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-09-29T18:01:10.113108"
+  "fetched_at": "2025-09-30T00:03:11.582587"
 }

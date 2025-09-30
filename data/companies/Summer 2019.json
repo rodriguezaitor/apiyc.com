@@ -2469,40 +2469,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5870e54989fa2ad2924601c8cdded8fa7e18963.png"
     },
     {
-      "id": 12623,
-      "name": "Lumineye",
-      "slug": "lumineye",
-      "website": "https://www.lumineye.com",
-      "description": "We build portable, tactical, through-wall radar sensors to help first responders and soldiers detect and track people through walls. ",
-      "one_liner": "X-ray Vision for First Responders ",
-      "batch": "Summer 2019",
-      "status": "Active",
-      "team_size": 10,
-      "industry": "Government",
-      "subindustry": "Government",
-      "industries": [
-        "Government"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Boise, ID, USA",
-      "tags": [
-        "Hardware",
-        "GovTech",
-        "Radar"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1556676263.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a9a3f24545bb8e877588ab5137c5940b7dcdf0.png"
-    },
-    {
       "id": 12622,
       "name": "Yummy Future",
       "slug": "yummy-future",
@@ -5255,6 +5221,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b472b19f473cd70aa2c3d74300dda868b9629666.png"
     },
     {
+      "id": 12623,
+      "name": "Lumineye",
+      "slug": "lumineye",
+      "website": "https://www.lumineye.com",
+      "description": "We build portable, tactical, through-wall radar sensors to help first responders and soldiers detect and track people through walls. ",
+      "one_liner": "X-ray Vision for First Responders ",
+      "batch": "Summer 2019",
+      "status": "Inactive",
+      "team_size": 10,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Boise, ID, USA",
+      "tags": [
+        "Hardware",
+        "GovTech",
+        "Radar"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1556676263.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a9a3f24545bb8e877588ab5137c5940b7dcdf0.png"
+    },
+    {
       "id": 12615,
       "name": "LunaSec",
       "slug": "lunasec",
@@ -5960,5 +5960,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-09-29T18:01:09.335250"
+  "fetched_at": "2025-09-30T00:03:07.584582"
 }

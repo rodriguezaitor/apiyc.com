@@ -6335,41 +6335,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c24744d6258fd6efd2c9b5f35465ca85adc1e0.png"
     },
     {
-      "id": 24257,
-      "name": "Covie",
-      "slug": "covie",
-      "website": "https://www.covie.com",
-      "description": "Interacting with insurance across a variety of carriers should be undifferentiated heavy lifting - a piece of infrastructure like Stripe, Twilio, or AWS that \"just works\"in the background while your business focuses on what makes it different. We provide programmatic building blocks to make this a reality, putting a carrier-neutral API and tooling on top of insurance, starting with policy access (think Plaid, but for your insurance company) and monitoring.\r\n\r\nOur technology has a variety of use cases that range from insurance verification and tracking, financial advising, compliance & risk management, and marketing/distribution of insurance products.",
-      "one_liner": "Programmatic building blocks for transacting with insurance",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 14,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Insurance",
-      "industries": [
-        "Fintech",
-        "Insurance"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Austin, TX, USA",
-      "tags": [
-        "Fintech",
-        "Health Tech",
-        "Insurance"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1624498844.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cab875f3e2be4c71042986d743255262bdafeda3.png"
-    },
-    {
       "id": 24256,
       "name": "AI Tech Packs",
       "slug": "ai-tech-packs",
@@ -12766,6 +12731,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/900b1772e9f94bc70841de05a846c5f6285066e1.png"
     },
     {
+      "id": 24257,
+      "name": "Covie",
+      "slug": "covie",
+      "website": "https://www.covie.com",
+      "description": "Interacting with insurance across a variety of carriers should be undifferentiated heavy lifting - a piece of infrastructure like Stripe, Twilio, or AWS that \"just works\"in the background while your business focuses on what makes it different. We provide programmatic building blocks to make this a reality, putting a carrier-neutral API and tooling on top of insurance, starting with policy access (think Plaid, but for your insurance company) and monitoring.\r\n\r\nOur technology has a variety of use cases that range from insurance verification and tracking, financial advising, compliance & risk management, and marketing/distribution of insurance products.",
+      "one_liner": "Programmatic building blocks for transacting with insurance",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 14,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Insurance",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Austin, TX, USA",
+      "tags": [
+        "Fintech",
+        "Health Tech",
+        "Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1624498844.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cab875f3e2be4c71042986d743255262bdafeda3.png"
+    },
+    {
       "id": 24255,
       "name": "Perfekto",
       "slug": "perfekto",
@@ -13423,5 +13423,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-09-29T18:01:08.405347"
+  "fetched_at": "2025-09-30T00:03:03.993458"
 }

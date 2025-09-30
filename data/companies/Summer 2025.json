@@ -778,7 +778,7 @@
       "slug": "clodo",
       "website": "https://clodo.ai",
       "description": "Clodo is AI for the Built World.",
-      "one_liner": "AI For Real Estate",
+      "one_liner": "AI For Large Scale Construction",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -794,7 +794,6 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Real Estate",
         "Construction",
         "Proptech",
         "AI"
@@ -1890,19 +1889,12 @@
         "Education"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Education",
-        "SaaS",
-        "B2B",
-        "Infrastructure"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753739140.0,
@@ -3309,7 +3301,12 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Reinforcement Learning",
+        "B2B",
+        "Infrastructure",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4219,7 +4216,7 @@
       "id": 30636,
       "name": "EffiGov",
       "slug": "effigov",
-      "website": "https://effi-gov.com",
+      "website": "https://effigov.com",
       "description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
       "one_liner": "The AI OS for Cities",
       "batch": "Summer 2025",
@@ -4236,9 +4233,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "GovTech"
+        "GovTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4852,7 +4849,7 @@
       "slug": "agentmail",
       "website": "https://agentmail.to",
       "description": "AgentMail is an API email service provider for AI agents. Like Gmail does for humans, we give agents their own email inboxes.",
-      "one_liner": "API email service provider for AI Agents",
+      "one_liner": "API Inboxes for AI Agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -4868,10 +4865,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "API",
-        "Email"
+        "Email",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5596,5 +5593,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-09-29T18:01:09.414136"
+  "fetched_at": "2025-09-30T00:03:07.925149"
 }
