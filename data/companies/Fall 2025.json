@@ -203,6 +203,70 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee01acb6dbb8507ecd3cb90ee3709d9acffe2ed.png"
     },
     {
+      "id": 30953,
+      "name": "Relaw",
+      "slug": "relaw",
+      "website": "https://www.relaw.ai",
+      "description": "",
+      "one_liner": "AI Assistant for B2C Law Firms",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759337648.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7a859750c32b6332683f2b54e04d4b251e7c417.png"
+    },
+    {
+      "id": 30950,
+      "name": "Narrative",
+      "slug": "usenarrative",
+      "website": "http://www.narrative.video",
+      "description": "",
+      "one_liner": "Edit thousands of hours of footage in seconds",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Video",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759338774.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1c937f26cf2f7d07e3a562baef0a61677eff7cb.png"
+    },
+    {
       "id": 30948,
       "name": "Lua Global Inc",
       "slug": "lua-global-inc",
@@ -1259,7 +1323,44 @@
       "is_top_company": false,
       "launched_at": 1758997606.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
+    },
+    {
+      "id": 30592,
+      "name": "Prox",
+      "slug": "prox",
+      "website": "https://prox.inc",
+      "description": "Prox is building the digital logistics teammate for 3PLs, freight forwarders, and fulfillment providers. Today, operations teams waste hours filing claims, booking freight, collecting PODs, reconciling invoices, and chasing updates across carrier portals. Proxy handles all of this work in seconds, directly inside Microsoft Teams and the systems companies already use.",
+      "one_liner": "Your digital co-workers built for logistics.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Robotic Process Automation",
+        "Logistics",
+        "Retail",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759337800.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-01T12:01:24.845779"
+  "fetched_at": "2025-10-01T18:01:25.239085"
 }

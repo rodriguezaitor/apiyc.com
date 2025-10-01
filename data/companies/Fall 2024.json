@@ -1827,7 +1827,7 @@
       "one_liner": "Buy and manage business insurance.",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -1840,16 +1840,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731782052.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/343114316d4751f6d3025ab1f950989af9e4cbe7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png"
     },
     {
       "id": 30054,
@@ -3060,5 +3060,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-10-01T12:01:23.802627"
+  "fetched_at": "2025-10-01T18:01:22.331697"
 }
