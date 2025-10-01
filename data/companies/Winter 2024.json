@@ -1650,16 +1650,15 @@
       "name": "Fluently",
       "slug": "fluently",
       "website": "https://getfluently.app/",
-      "description": "Fluently is an app that helps non-native professionals improve their English with instant feedback after each Zoom call. Imagine having a personal coach, always listening and providing tips.\r\n\r\nThere are 84 million non-native employees who work in English-speaking environments, and companies spend $10 billion annually solely on their English corporate training to improve communication efficiency across the company and help them grow and feel more confident.\r\n\r\nFluently offers a more efficient and convenient way to boost speaking skills by providing feedback on pronunciation, grammar, and vocabulary after each call and fine-tuning the learning trajectory over time. That became possible by recent advancements in ML and the power of M1 chips for local processing.\r\n\r\nWe are non-native founders who solve their pain, and have deep expertise in running ML on edge devices.",
-      "one_liner": "AI-powered speaking coach for calls",
+      "description": "Imagine a human-like English tutor, but 20x cheaper and available 24/7 - that's Fluently!\r\n\r\nFluently made for people who already know the basics of English but want to feel truly confident in real conversations: whether that\u2019s in an interview, a business meeting, or chatting with friends.\r\n\r\nMost English learning apps are built for beginners and don\u2019t help you improve speaking skills.\r\n\r\nWith Fluently, you get:\r\n- Unlimited real-world speaking practice\r\n- Personalized learning plan\r\n- Free English level assessment and progress tracking\r\n- Real progress in English speaking skills\r\n\r\nWe\u2019re non-native founders who know the stress of speaking English in important moments. With deep AI expertise, we built Fluently to solve it.",
+      "one_liner": "Your personal English tutor",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Productivity",
       "industries": [
-        "B2B",
-        "Productivity"
+        "Consumer"
       ],
       "regions": [
         "Remote",
@@ -1667,18 +1666,18 @@
       ],
       "locations": "Remote",
       "tags": [
+        "Artificial Intelligence",
         "Education",
         "SaaS",
-        "B2B",
-        "Productivity",
-        "AI"
+        "Consumer",
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705338399.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db75913515757a481b98e83535c57ea70d7b0fd8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac751ae51071034b75af18536b15a7ec51b6c117.png"
     },
     {
       "id": 29451,
@@ -3855,7 +3854,7 @@
       "name": "Browser Buddy",
       "slug": "browser-buddy",
       "website": "https://www.browserbuddy.com/",
-      "description": "Browser Buddy searches the Internet to curate essays, articles, and books you'll find interesting. ",
+      "description": "Your feed to the Internet. ",
       "one_liner": "Internet discovery engine",
       "batch": "Winter 2024",
       "status": "Active",
@@ -8251,5 +8250,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-10-01T06:01:13.394329"
+  "fetched_at": "2025-10-01T12:01:21.118684"
 }
