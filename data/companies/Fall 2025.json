@@ -761,6 +761,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png"
     },
     {
+      "id": 30870,
+      "name": "Koyal",
+      "slug": "koyal",
+      "website": "https://koyal.ai",
+      "description": "Koyal is an Audio to Video Platform that allows you to seamlessly convert audio into personalized, visually compelling stories. We\u2019re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We\u2019ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nWe currently have 7 paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world\u2019s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
+      "one_liner": "Personalized Audio to Video Filmmaking",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Entertainment",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759263547.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d6be5eec5520358437374d48ae33d4a26eadd56.png"
+    },
+    {
       "id": 30864,
       "name": "Dari",
       "slug": "dari",
@@ -1159,5 +1194,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-09-30T18:01:23.626788"
+  "fetched_at": "2025-10-01T00:03:22.395007"
 }
