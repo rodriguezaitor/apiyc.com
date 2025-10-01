@@ -729,6 +729,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7c99fca8e4cc5f92f4512cf22a4fef17d90d66d.png"
     },
     {
+      "id": 30877,
+      "name": "Questom",
+      "slug": "questom",
+      "website": "https://www.questom.ai",
+      "description": "AI Customer Support for the Merchandise Industry. Companies like Custom Ink and Shutterfly use our AI agents to power their sales and support.",
+      "one_liner": "AI Customer Support for the Merchandise Industry. ",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Customer Success",
+        "E-commerce",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759277752.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81175075c72341af5dddb09d4bca172f70accf41.png"
+    },
+    {
       "id": 30875,
       "name": "Veria Labs",
       "slug": "veria-labs",
@@ -826,6 +859,40 @@
       "is_top_company": false,
       "launched_at": 1759188885.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png"
+    },
+    {
+      "id": 30862,
+      "name": "Sorce",
+      "slug": "sorce",
+      "website": "https://sorce.jobs",
+      "description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
+      "one_liner": "Tinder for jobs",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Marketplace",
+        "Consumer",
+        "HR Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759034914.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png"
     },
     {
       "id": 30858,
@@ -933,7 +1000,7 @@
       "name": "Parrot",
       "slug": "parrot",
       "website": "https://parrotapp.com/",
-      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen\u2019s comprehensible input theory. In under 4 months, we\u2019ve scaled to $260K ARR with an average LTV:CAC of 5.4, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen\u2019s comprehensible input theory. In under 4 months, we\u2019ve scaled to $270K ARR with an average LTV:CAC of 5.6, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
       "one_liner": "TikTok for language learning",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1194,5 +1261,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c994f478af3ad350b7e9f4684642d13962faae5.png"
     }
   ],
-  "fetched_at": "2025-10-01T00:03:22.395007"
+  "fetched_at": "2025-10-01T06:01:15.027947"
 }
