@@ -35,6 +35,35 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f5bed7ab9abb66ee8ccbf622c27a9d741c3c4e4.png"
     },
     {
+      "id": 384,
+      "name": "Parakey",
+      "slug": "parakey",
+      "website": "http://parakey.com",
+      "description": "Parakey was founded in early 2006 by Blake Ross and Joe Hewitt of Mozilla/Firefox fame. Little has been revealed about what Parakey will actually do, but it has been touted as both a platform and set of applications that will merge the desktop environment with the Web. It has also been described as a Web-based operating system. Great emphasis has been placed on Parakey's potential to make tasks on the computer more intuitive for the average Joe.\n\nParakey was acquired by Facebook on July 19, 2007.\n\nSequoia Capital seeded Parakey's operations in early 2005.",
+      "one_liner": "",
+      "batch": "Summer 2005",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1326791736.0,
+      "logo_url": "/company/thumb/missing.png"
+    },
+    {
       "id": 378,
       "name": "Kiko",
       "slug": "kiko",
@@ -239,5 +268,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-10-01T18:01:27.908683"
+  "fetched_at": "2025-10-02T00:02:48.697611"
 }

@@ -594,7 +594,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759119503.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e8e4817fc6901d70f0551aadf060397120f8833.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f85fd135a735334483a66e34f7d25f1c8f535c.png"
     },
     {
       "id": 30890,
@@ -1040,17 +1040,15 @@
         "Payments"
       ],
       "regions": [
-        "United Kingdom",
-        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "London, England, United Kingdom",
+      "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1362,5 +1360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-01T18:01:25.239085"
+  "fetched_at": "2025-10-02T00:02:46.712344"
 }

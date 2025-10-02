@@ -1914,7 +1914,7 @@
       "one_liner": "AI Product Designer",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -1925,13 +1925,15 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1719854001.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3794f4363c606cef755648bd91933d53ab65f4a6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b83146cb0e374a41a184f24deaad8d74f27ad10.png"
     },
     {
       "id": 29820,
@@ -5301,11 +5303,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Analytics",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6276,15 +6278,15 @@
       "name": "Decisional AI",
       "slug": "decisional-ai",
       "website": "https://www.decisional.com/",
-      "description": "Decisional Knowledge Engines accelerates due diligence, fundamental research, and portfolio management for private market financial professionals through an AI-native workspace in a secure sandbox with auditable citations. Firms including Evooq, Meetperry, and Borgman Capital leverage Decisional to transform mountains of sources into finance-grade memos, models, and charts in custom formats within minutes instead of days.",
-      "one_liner": "AI Native workspace for financial professionals",
+      "description": "Your spreadsheet operations, automated. Decisional deploys AI reasoning agents directly into your existing spreadsheets to handle complex long running workflows like quote generation, data extraction, invoicing, and collections at scale without the rigidity of no code tools.",
+      "one_liner": "Autonomous AI agents for spreadsheet based operations",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
-      "industry": "Fintech",
+      "industry": "B2B",
       "subindustry": "Fintech",
       "industries": [
-        "Fintech"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -6292,11 +6294,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Fintech",
+        "Artificial Intelligence",
         "SaaS",
-        "Finance",
         "B2B",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8316,5 +8317,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-01T18:01:13.935776"
+  "fetched_at": "2025-10-02T00:02:38.341511"
 }

@@ -136,8 +136,8 @@
       "name": "Fira",
       "slug": "fira",
       "website": "https://firaresearch.com/",
-      "description": "Fira is a financial research assistant that helps investment analysts spend less time on company research. It instantly searches and analyzes thousands of pages of unstructured company filings and earnings reports to provide source-cited answers and verifiable financial calculations.\r\n\r\nOur mission is to create a financial AI co-worker deeply integrated into both internal and external data source. It will help with research and analysis, generating investment documents, and workflow automation. This will eventually allow investment professionals to spend less time on manual tasks and focus more on building relationships and making decisions.",
-      "one_liner": "Agentic AI platform for investment firms",
+      "description": "Fira accelerates financial research for investment analysts by instantly searching and analyzing thousands of pages of company filings and earnings reports, delivering source-cited answers and verifiable calculations.\r\n\r\nOur mission is to build a comprehensive research platform that integrates seamlessly with internal and external data sources, handles research and analysis, generates investment documents, and automates repetitive workflows. This frees investment professionals to focus on what matters most: building relationships and making strategic decisions.",
+      "one_liner": "Financial research platform for investment firms",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -2688,7 +2688,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738630910.0,
@@ -5369,5 +5369,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-01T18:01:17.925532"
+  "fetched_at": "2025-10-02T00:02:41.478423"
 }
