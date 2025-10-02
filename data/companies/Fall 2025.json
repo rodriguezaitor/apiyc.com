@@ -67,6 +67,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7696654f248acf11e5913502b817690c5caf5763.png"
     },
     {
+      "id": 31004,
+      "name": "Dome",
+      "slug": "dome",
+      "website": "https://domeapi.io",
+      "description": "Dome makes it easy to build on prediction markets like Polymarket and Kalshi. We provide the developer infrastructure to access, analyze, and build on prediction markets. \r\n\r\nWith our unified API, developers can access live and historical data, including granular datasets not available natively, across multiple platforms at once. Dome makes it simple to trade, embed market data into products, and deploy strategies across multiple platforms through one interface.\r\n",
+      "one_liner": "A unified API for prediction markets, like Kalshi and Polymarket",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Developer Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759389556.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b49544d53946644ec1c85f52282a50abef30f8e.png"
+    },
+    {
       "id": 31002,
       "name": "Clicks",
       "slug": "clicks",
@@ -727,6 +758,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/15b0437dc4c919af5fc88d2d21f7c78539cfe9a1.png"
     },
     {
+      "id": 30883,
+      "name": "hillclimb",
+      "slug": "hillclimb",
+      "website": "https://hillclimb.ing",
+      "description": "We work with the world's most brilliant mathematicians to design RL environments that enable LLMs to achieve state-of-the-art model performance.",
+      "one_liner": "Math RL Environments for Post-training",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Reinforcement Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759385382.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png"
+    },
+    {
       "id": 30881,
       "name": "Wardstone",
       "slug": "wardstone",
@@ -891,6 +953,37 @@
       "is_top_company": false,
       "launched_at": 1759263547.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d6be5eec5520358437374d48ae33d4a26eadd56.png"
+    },
+    {
+      "id": 30867,
+      "name": "Soren",
+      "slug": "soren",
+      "website": "https://soren-ai.com",
+      "description": "",
+      "one_liner": "Domain-specific evaluations for your vertical AI",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759390917.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/028c5197ddc0b97bbfdee0aeaf28c9bb5713c712.png"
     },
     {
       "id": 30864,
@@ -1360,5 +1453,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-02T06:01:15.947335"
+  "fetched_at": "2025-10-02T12:01:17.418043"
 }
