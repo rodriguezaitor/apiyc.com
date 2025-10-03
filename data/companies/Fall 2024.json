@@ -1257,39 +1257,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c94f3962d8cce39d7af63858319c4fa0d0d44f8.png"
     },
     {
-      "id": 30078,
-      "name": "Abundant",
-      "slug": "abundant",
-      "website": "https://www.abundant.ai/",
-      "description": "Abundant produces high-quality training data for advanced AI labs, startups, and enterprises building agents and multimodal AI. Companies use our modular annotation platform and network of specialized operators to:\r\n\r\n(1) Produce imitation training data for computer-use/web agents;\r\n(2) Annotate ground truth datasets for training and hillclimbing; and\r\n(3) Label outcomes and rewards, or correct nuanced failure modes.",
-      "one_liner": "Data for Agents and Multimodal AI",
-      "batch": "Fall 2024",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "AIOps",
-        "Artificial Intelligence",
-        "API",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1731958841.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png"
-    },
-    {
       "id": 30077,
       "name": "AutoComputer",
       "slug": "autocomputer",
@@ -3054,5 +3021,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-10-03T06:01:17.341775"
+  "fetched_at": "2025-10-03T12:01:20.185837"
 }

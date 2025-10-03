@@ -340,18 +340,18 @@
     },
     {
       "id": 29137,
-      "name": "Curatle",
-      "slug": "curatle",
-      "website": "https://curatle.com",
-      "description": "Collect products from any site, organize them into visual collections, and preview how they fit into your life\u2014before you buy. Curatle is the future of shopping by turning everything you want into a visual, shareable, and searchable space.",
-      "one_liner": "AI shopping cart for everything you buy ",
+      "name": "Oversteer",
+      "slug": "oversteer",
+      "website": "https://oversteer.dev",
+      "description": "Oversteer is a browser automation engine. Our agent creates a task once, and then replay it deterministically on any inputs or URL, like an API.",
+      "one_liner": "Reliable, Fast, Repeatable Browser Automation",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 1,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "Consumer"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -361,8 +361,7 @@
       ],
       "locations": "Irvine, CA, USA; Remote",
       "tags": [
-        "Consumer",
-        "E-commerce",
+        "B2B",
         "AI"
       ],
       "stage": "Early",
@@ -370,7 +369,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689032123.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/106b8c2cdf805c74fff3e6948b1c0bc961f3deee.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/38b0ef5314d328b72aff9a8d9829350f181b5ace.png"
     },
     {
       "id": 29136,
@@ -5344,7 +5343,7 @@
       "slug": "mandel-ai",
       "website": "https://www.mandel.ai/",
       "description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
-      "one_liner": "AI Procurement Agent for Manufacturing",
+      "one_liner": "AI Supply Chain Coordinator",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -7384,5 +7383,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-03T06:01:11.348886"
+  "fetched_at": "2025-10-03T12:01:14.331596"
 }
