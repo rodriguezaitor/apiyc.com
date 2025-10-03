@@ -1398,7 +1398,7 @@
         "Insurance"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690570692.0,
@@ -6467,7 +6467,6 @@
       "tags": [
         "Developer Tools",
         "SaaS",
-        "Open Source",
         "Data Engineering",
         "Enterprise Software"
       ],
@@ -7385,5 +7384,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-03T00:02:42.140812"
+  "fetched_at": "2025-10-03T06:01:11.348886"
 }
