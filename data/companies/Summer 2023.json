@@ -582,11 +582,11 @@
       "name": "Constructable",
       "slug": "constructable",
       "website": "https://www.constructable.ai/",
-      "description": "Constructable.ai is modern construction management software",
+      "description": "Constructable is the modern alternative to Procore, Autodesk, and Fieldwire. We help mid-size general contractors manage the entire lifecycle of a commercial project from bidding to closeout.\r\n\r\nWith Constructable, teams can accelerate field, project, and financial management in one intuitive system. RFIs, submittals, drawings, daily logs, punch lists, change orders\u2014everything lives in one place, with AI-powered search to find answers instantly.\r\n\r\nGCs and builders across the U.S. and Canada are already running smoother projects on Constructable.\r\n\r\nLearn more at constructable.ai",
       "one_liner": "Building the next Procore",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 6,
       "industry": "Real Estate and Construction",
       "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
@@ -599,11 +599,11 @@
       ],
       "locations": "Santa Barbara, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Construction",
         "B2B",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2461,8 +2461,8 @@
       "name": "Inlet",
       "slug": "inlet-2",
       "website": "https://inletai.com",
-      "description": "Family law practices juggle dozens of matters, context-switching throughout the day and often failing to record their time for every billable task.\r\n\r\nInlet records these tasks automatically \u2013\u00a0eliminating painful admin time and increasing their revenue.",
-      "one_liner": "Automated timekeeping for family law.",
+      "description": "Attorneys at small- and medium-sized law firms juggle dozens of matters, context-switching throughout the day \u2013 and often failing to record their billable time for every task they worked on.\r\n\r\nInlet records these tasks automatically \u2013\u00a0eliminating painful admin time and increasing their revenue.",
+      "one_liner": "AI timekeeping for legal professionals.",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -2478,10 +2478,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Legal",
-        "LegalTech",
-        "AI"
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7385,5 +7385,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-02T18:01:10.992427"
+  "fetched_at": "2025-10-03T00:02:42.140812"
 }

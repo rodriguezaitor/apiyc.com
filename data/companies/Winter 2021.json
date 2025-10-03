@@ -7364,30 +7364,27 @@
       "name": "Pibit.ai",
       "slug": "pibit-ai",
       "website": "https://pibit.ai",
-      "description": "Pibit transform loss run files into comprehensive reports with actionable insights, helping carriers and MGAs enhance underwriting efficiency and make better, more accurate decisions.\r\n",
-      "one_liner": "Transforming Commercial P&C Industry with LLM-Powered AI",
+      "description": "Pibit.ai is an SF\u2013based insurtech company reconstructing the art (and science) of commercial underwriting for carriers and MGAs. At the heart is the CURE\u2122 platform, the industry\u2019s only centralized underwriting risk environment fueled by agentic underwriting services that delivers decision-ready outcomes. It converts submissions into decisions by automating intake, triage, and data enrichment from documents and external sources while surfacing risk insights so you can win the right accounts faster, scale throughput, and reduce loss ratios. Backed by Y-Combinator, the proprietary platform serves dozens of clients across the US, enabling 85% faster underwriting, 32% increase in GWP per underwriter, and up to 700 basis points improvement in loss ratios. For details, visit pibit.ai.\r\n",
+      "one_liner": "The fastest path from submission to better decisions.",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 30,
-      "industry": "B2B",
+      "team_size": 116,
+      "industry": "Fintech",
       "subindustry": "B2B -> Operations",
       "industries": [
-        "B2B",
-        "Operations"
+        "Fintech",
+        "Insurance"
       ],
       "regions": [
         "United States of America",
-        "India",
         "America / Canada",
-        "South Asia",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Palo Alto, CA, USA; HR, India",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Machine Learning",
-        "SaaS",
         "B2B",
         "Insurance"
       ],
@@ -7510,7 +7507,7 @@
       "one_liner": "Open source alternative to DataDog ",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 26,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -11539,5 +11536,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-10-02T18:01:10.413220"
+  "fetched_at": "2025-10-03T00:02:39.452739"
 }

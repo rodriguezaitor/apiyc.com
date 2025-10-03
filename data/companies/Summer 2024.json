@@ -3804,8 +3804,8 @@
       "name": "Opslane",
       "slug": "opslane",
       "website": "https://opslane.com",
-      "description": "Octopipe is ETL reimagined powered by AI that changes how companies create, maintain and scale data pipelines.",
-      "one_liner": "Build Scalable Data Pipelines in minutes not months",
+      "description": "Opslane is a developer-first Kubernetes delivery platform. Connect your repo and get previews, safe rollouts, and instant rollbacks \u2014 no YAML, no ops team required.",
+      "one_liner": "Deploy to Kubernetes in minutes",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 1,
@@ -3821,11 +3821,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Enterprise",
-        "DevOps"
+        "DevOps",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4528,11 +4528,11 @@
     },
     {
       "id": 29723,
-      "name": "Nerve",
-      "slug": "nerve",
-      "website": "https://nerve.run",
-      "description": "Nerve is a unified API that connects developers building in healthcare to health data stored in electronic health records (Epic, eClinicalWorks, Cerner, etc.).\r\n\r\nInstead of building custom integration solutions for each of their customers, developers use Nerve as the single entry point to access and maintain connections to all EHRs.",
-      "one_liner": "Healthcare integrations for developers",
+      "name": "Aluna",
+      "slug": "aluna",
+      "website": "https://alunadata.com",
+      "description": "We work with health organizations, to build curated datasets and evals for health AI. Currently focused on Oncology. ",
+      "one_liner": "Data for biomedical AI",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -4548,16 +4548,14 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "Health Tech",
-        "B2B"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723763454.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/965dc71f2d57fb650275cf456f24cf94304e13d5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/22ca86b49c410bca80db8c2184748994b96230ae.png"
     },
     {
       "id": 29721,
@@ -8317,5 +8315,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-02T18:01:10.669143"
+  "fetched_at": "2025-10-03T00:02:40.391885"
 }

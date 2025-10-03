@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 31013,
+      "name": "Rivet",
+      "slug": "rivet-2",
+      "website": "https://www.tryrivet.design/",
+      "description": "Rivet is a visual tool that sits above a codebase. It's a bridge that lets product designers own any UI change to the software they work on. \r\n\r\nDesigners use Rivet today to shortcut painful design handoffs and just make any visual change themselves. This saves time for designers and engineers and makes it radically easier to build software with great design and taste. \r\n\r\nThis becomes the next design tool because it lets designers break out of static tools and prototype like frontend engineers.  Use real components from your existing codebase to design remarkably complex interactions, and then ship it yourself.  ",
+      "one_liner": "Rivet helps product designers change software without coding.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Design",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759433421.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png"
+    },
+    {
       "id": 31011,
       "name": "Openroll",
       "slug": "openroll",
@@ -65,6 +98,41 @@
       "is_top_company": false,
       "launched_at": 1757825190.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7696654f248acf11e5913502b817690c5caf5763.png"
+    },
+    {
+      "id": 31005,
+      "name": "MarkIt",
+      "slug": "markit",
+      "website": "https://markittrade.com",
+      "description": "MarkIt\u2019s agents work directly inside the workflows trade professionals already use every day \u2014 Excel, PDFs, broker portals, and more.\r\n\r\nClassification and OCR are table stakes. \r\nOur agents go further, enabling:\r\nCompliance paperwork \u2014 generating import/export documents without leaving existing workflows.\r\nCommercial invoices \u2014 creating and submitting them seamlessly.\r\nFilings \u2014 automating audited submissions.",
+      "one_liner": "Silver Bullet for Trade Compliance",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Workflow Automation",
+        "Logistics",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759442158.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df62c31d1f06f7f601cc99ab5144b3d2e497c62e.png"
     },
     {
       "id": 31004,
@@ -199,6 +267,38 @@
       "is_top_company": false,
       "launched_at": 1758671175.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6c3efd82a534f694696ea5bc995bad74ae6de58.png"
+    },
+    {
+      "id": 30960,
+      "name": "Metorial",
+      "slug": "metorial",
+      "website": "https://metorial.com",
+      "description": "Metorial is Vercel for MCP. Our serverless MCP runtime comes with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to APIs and data sources at scale.",
+      "one_liner": "The open-source MCP integration platform for agentic AI.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759440132.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d6cf9656ff81c358bc8acc1f8b0221e2f963a06.png"
     },
     {
       "id": 30954,
@@ -1151,6 +1251,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png"
     },
     {
+      "id": 30849,
+      "name": "MOVEdot",
+      "slug": "movedot",
+      "website": "https://www.movedot.ai/",
+      "description": "Our platform allows engineers to automate the post processing of their test results and then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
+      "one_liner": "AI Agents for Physical World Testing",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Manufacturing",
+        "Automotive",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759431340.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png"
+    },
+    {
       "id": 30848,
       "name": "Parrot",
       "slug": "parrot",
@@ -1453,5 +1589,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-02T18:01:12.425658"
+  "fetched_at": "2025-10-03T00:02:50.214334"
 }
