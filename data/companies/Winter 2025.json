@@ -2762,7 +2762,7 @@
       "slug": "hud",
       "website": "https://www.hud.so",
       "description": "Sam Altman and Dario Amodei have both said that we\u2019ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren\u2019t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like foundation labs (nda), Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n",
-      "one_liner": "hud is building evals for the drop-in worker",
+      "one_liner": "Platform for building RL environments and evals ",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 5,
@@ -2780,8 +2780,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Reinforcement Learning"
+        "Reinforcement Learning",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5369,5 +5369,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-04T06:01:14.736821"
+  "fetched_at": "2025-10-04T12:01:13.634020"
 }
