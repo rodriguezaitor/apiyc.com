@@ -832,7 +832,7 @@
       "name": "SellRaze",
       "slug": "sellraze",
       "website": "https://sellraze.com",
-      "description": "SellRaze is a video shopping platform that makes it easy for sellers to create engaging listings and connect with buyers.\r\n\r\nOur AI makes video creation accessible at scale. It identifies every item in a video, automatically filling in details and pricing so sellers don't have to write descriptions or research prices. Sellers showcase multiple items in a single clip while telling their stories, and buyers can purchase any item individually. The AI guides sellers while filming and auto-edits footage into polished videos\u2014turning casual sellers into content creators.\r\n\r\nVideo listings generate dramatically higher engagement and sales than photos. We're building a community where buyers discover products from the sellers they follow.\r\n\r\nIn just 8 months, our community has added 200,000 sellers who have listed more than 500,000 items on the platform. Currently, we have $1M ARR and are growing each month.\r\n",
+      "description": "SellRaze is a video shopping platform that makes it easy for sellers to create engaging listings and connect with buyers.\r\n\r\nOur AI makes video creation accessible at scale. It identifies every item in a video, automatically filling in details and pricing so sellers don't have to write descriptions or research prices. Sellers showcase multiple items in a single clip while telling their stories, and buyers can purchase any item individually. The AI guides sellers while filming and auto-edits footage into polished videos\u2014turning casual sellers into content creators.\r\n\r\nVideo listings generate dramatically higher engagement and sales than photos. We're building a community where buyers discover products from the sellers they follow.\r\n",
       "one_liner": "Swipeable video shopping from real sellers, not brands.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -848,10 +848,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "Consumer",
-        "E-commerce"
+        "E-commerce",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -994,7 +994,7 @@
       "name": "Hypercubic",
       "slug": "hypercubic",
       "website": "https://www.hypercubic.ai/",
-      "description": "Hypercubic is an AI-native maintenance and modernization platform for mainframes. We help enterprises understand and preserve their most critical systems running on mainframes. These systems, originally built in the 1960s\u201390s, still power trillions in global infrastructure but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems using frontier AI.\r\n\r\n\r\nLearn more at hypercubic.ai",
+      "description": "Hypercubic is an AI-native maintenance and modernization platform for mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical systems. About 70% of the Fortune 500 still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s\u201390s, still power trillions in global infrastructure but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems using frontier AI.\r\n\r\n\r\nLearn more at hypercubic.ai",
       "one_liner": "AI to maintain and modernize mainframes.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1010,9 +1010,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1690,5 +1690,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-04T00:02:52.117298"
+  "fetched_at": "2025-10-04T06:01:21.215739"
 }

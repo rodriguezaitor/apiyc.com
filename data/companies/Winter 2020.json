@@ -203,7 +203,7 @@
       "name": "Legionfarm",
       "slug": "legionfarm",
       "website": "https://legionfarm.com/",
-      "description": "LegionFarm is the world's top AI-powered marketplace for gamers to hire elite pros (top 1%) for coaching, companionship, boosting, and carries in AAA games like WoW, Destiny 2, CoD, and Apex Legends. Founded in 2016, YC-backed (W20) with $17.8M from Twitch founders and investors, we've served 250k+ customers via two web platforms and five bots, creating 10k+ jobs for Pros worldwide.\r\n\r\nWe turn gaming hobbies into careers, delivering global entertainment and esports impact. Since 2023, our LLM-driven automation replaced 100+ ops roles, with an AI workspace featuring smart agents, real-time feedback, evals, and community fine-tuning for peak pro efficiency.",
+      "description": "LegionFarm is the world's top AI-powered marketplace for gamers to hire elite pros (top 1%) for coaching, carry and companionship services in AAA games like WoW, Destiny 2, CoD, and Apex Legends. Founded in 2016, YC-backed (W20) with $17.8M from Twitch founders and investors, we've served 250k+ customers via two web platforms and five bots, creating 10k+ jobs for Pros worldwide.\r\n\r\nWe turn gaming hobbies into careers, delivering global entertainment and esports impact. Since 2023, our LLM-driven automation replaced 100+ ops roles, with an AI workspace featuring smart agents, real-time feedback, evals, and community fine-tuning for peak pro efficiency.",
       "one_liner": "AI workspace for professional gamers",
       "batch": "Winter 2020",
       "status": "Active",
@@ -220,8 +220,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Gaming",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -7721,5 +7721,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
     }
   ],
-  "fetched_at": "2025-10-04T00:02:43.851040"
+  "fetched_at": "2025-10-04T06:01:11.521075"
 }

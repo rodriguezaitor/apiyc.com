@@ -6735,41 +6735,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png"
     },
     {
-      "id": 22743,
-      "name": "Segments.ai",
-      "slug": "segments-ai",
-      "website": "https://segments.ai",
-      "description": "[Segments.ai](http://segments.ai/)\u00a0is helping robotics and automotive companies label their multi-sensor data for AI training and validation. Our platform enables customers to efficiently annotate their point cloud and image data, accelerating their path to autonomy.\r\n\r\nWe're a fast-growing, remote-first YC startup with a lean team and healthy runway. [Segments.ai](http://segments.ai/) is used by large organizations as well as innovative startups building the next generation of autonomous drones, delivery robots, self-driving cars, and more.",
-      "one_liner": "Build better computer vision models by building better datasets",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Belgium",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Brussels, Brussels, Belgium; Remote",
-      "tags": [
-        "Deep Learning",
-        "Developer Tools",
-        "Computer Vision"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1615300374.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac88c08aefaf0753bc9d29d8d7ced656148b852c.png"
-    },
-    {
       "id": 22742,
       "name": "Axiom.ai",
       "slug": "axiom-ai",
@@ -9528,6 +9493,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f60fc0298e4210c3ecef8236aada13ca0951206c.png"
     },
     {
+      "id": 22743,
+      "name": "Segments.ai",
+      "slug": "segments-ai",
+      "website": "https://segments.ai",
+      "description": "[Segments.ai](http://segments.ai/)\u00a0is helping robotics and automotive companies label their multi-sensor data for AI training and validation. Our platform enables customers to efficiently annotate their point cloud and image data, accelerating their path to autonomy.\r\n\r\nWe're a fast-growing, remote-first YC startup with a lean team and healthy runway. [Segments.ai](http://segments.ai/) is used by large organizations as well as innovative startups building the next generation of autonomous drones, delivery robots, self-driving cars, and more.",
+      "one_liner": "Build better computer vision models by building better datasets",
+      "batch": "Winter 2021",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Belgium",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Brussels, Brussels, Belgium; Remote",
+      "tags": [
+        "Deep Learning",
+        "Developer Tools",
+        "Computer Vision"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1615300374.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac88c08aefaf0753bc9d29d8d7ced656148b852c.png"
+    },
+    {
       "id": 22714,
       "name": "Fountain9",
       "slug": "fountain9",
@@ -11536,5 +11536,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-10-04T00:02:41.580884"
+  "fetched_at": "2025-10-04T06:01:08.983599"
 }
