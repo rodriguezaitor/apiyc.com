@@ -269,6 +269,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png"
     },
     {
+      "id": 30965,
+      "name": "Icarus",
+      "slug": "icarus",
+      "website": "https://www.icarus.one/",
+      "description": "Always eyes-on intelligence and communications for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet above the clouds, harnessing the power of the sun, but never too close, for weeks at a time, acting as a Cell Tower in the Sky. It\u2019s the U-2 spy plane reborn in 2025, except ours cost $100K and can be built by the thousands. The future of warfare is persistent swarms in the Stratosphere. ",
+      "one_liner": "Stratospheric birds for defense",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Robotics",
+        "IoT",
+        "Swarm Robotics",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759599519.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png"
+    },
+    {
       "id": 30960,
       "name": "Metorial",
       "slug": "metorial",
@@ -1322,7 +1356,7 @@
       "name": "Zavo",
       "slug": "zavo",
       "website": "https://zavopay.com/home",
-      "description": "Zavo is the first AI-native platform for in-person commerce. We bring together payments, point of sale, and AI agents into one seamless system, giving every restaurant and retail business its own 24/7 digital workforce. \r\n\r\nLaunched in April 2025, Zavo already powers 350+ small and medium-sized businesses.\r\n\r\nWith Zavo, businesses can:\r\n\r\n- Accept in-person & online card payments\r\n- Run their entire Food & Beverage or Retail operation through Zavo Point of Sale\r\n- Save time and money with instant settlements and flat, transparent pricing on card fees\r\n- Unlock AI agents that automate finance, operations, and customer engagement\r\n\r\nThe Zavo AI Agent Suite:\r\n\r\n- CFO Agent - Your personal CFO. Knows every number. Delivers forecasts, reports, and real-time insights.\r\n- Manager Agent - Your personal manager. Knows products, inventory, sales, and staffing to keep operations seamless.\r\n- Customer Agent - Your front of house. Knows every customer, drives loyalty, repeat visits, and tailored relationships.\r\n\r\nOur Vision:\r\n\r\nSMEs drive the global economy yet remain underserved by large SaaS and AI providers. Zavo is building the future of in-person commerce, delivering enterprise-grade intelligence, automation, and modern payments to every local business. ",
+      "description": "Zavo is the first AI-native platform for in-person commerce. We bring together payments, point of sale, and AI agents into one seamless system, giving every restaurant and retail business its own 24/7 digital workforce. \r\n\r\nLaunched in April 2025, Zavo already powers 350+ small and medium-sized businesses.\r\n\r\nWith Zavo, businesses can:\r\n\r\n- Accept in-person & online card payments\r\n- Run their entire Food & Beverage or Retail operation through Zavo Point of Sale\r\n- Save time and money with instant settlements and flat, transparent pricing on card fees\r\n- Unlock AI agents that automate finance, operations, and customer engagement\r\n\r\nThe Zavo AI Agent Suite:\r\n\r\n- Finance Agent - Your personal CFO. Knows every number. Delivers forecasts, reports, and real-time insights.\r\n- Manager Agent - Your personal manager. Knows products, inventory, sales, and staffing to keep operations seamless.\r\n- Customer Agent - Your front of house. Knows every customer, drives loyalty, repeat visits, and tailored relationships.\r\n\r\nOur Vision:\r\n\r\nSMEs drive the global economy yet remain underserved by large SaaS and AI providers. Zavo is building the future of in-person commerce, delivering enterprise-grade intelligence, automation, and modern payments to every local business. ",
       "one_liner": "AI-Native operating system for in-person commerce",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1339,10 +1373,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Payments",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1690,5 +1724,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-04T12:01:18.598238"
+  "fetched_at": "2025-10-04T18:01:12.834761"
 }
