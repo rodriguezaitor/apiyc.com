@@ -4205,43 +4205,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/707952491ce6520207a9fc042912ea6190fc34a5.png"
     },
     {
-      "id": 28868,
-      "name": "Briefer",
-      "slug": "briefer",
-      "website": "https://briefer.cloud",
-      "description": "Briefer helps data scientists and analysts build interactive visualizations and data apps using a Notion-like interface.\r\n\r\nConnect to your data sources, write SQL or Python, collaborate through comments and multiplayer editing, and run code in whichever compute environments you need.",
-      "one_liner": "The collaborative data platform.",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Brazil",
-        "Latin America",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "S\u00e3o Paulo, SP, Brazil; Remote",
-      "tags": [
-        "Developer Tools",
-        "B2B",
-        "Data Science",
-        "Data Engineering",
-        "Data Visualization"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1687307247.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e589854f66150c916444527d7f4aa314d3961ed.png"
-    },
-    {
       "id": 28867,
       "name": "Shasta Health",
       "slug": "shasta-health",
@@ -5635,8 +5598,8 @@
       "name": "PropRise",
       "slug": "proprise",
       "website": "https://www.proprise.ai/",
-      "description": "PropRise is an AI-powered investment analyst for commercial real estate, transforming how firms discover and evaluate opportunities. Our platform acts as a 24/7 analyst that finds hidden deals others miss by analyzing vast amounts of data beyond traditional listings - from local council meetings and permits to community sentiment and market trends. While most firms only see surface-level data like basic financials and broker listings, PropRise connects complex patterns across tech company expansions, local market shifts, and city development plans to identify overlooked opportunities.",
-      "one_liner": "AI Investment Analyst for Commercial Real Estate",
+      "description": "PropRise is building the AI operating system for commercial real estate investing. We automate the entire workflow from sourcing to closing: our AI finds deals nationwide that match your criteria, then populates your Excel models with extracted data in 90 minutes instead of 4 hours. CRE teams currently waste 80% of their time on manual tasks and miss profitable deals because they can't analyze fast enough. Major firms like Colliers and Public Storage already use us to analyze 7x more deals. We're creating the first end-to-end platform that acts as the system of autonomy, intelligence, and record for the $20 trillion CRE market.",
+      "one_liner": "AI Operating System for Commercial Real Estate",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -5662,7 +5625,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690588132.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/157ebdb745b65bc27b9db92ffd3d33a03418bcaf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4982c7f55fcdcbbc9ea2e64c1a666bad121fc1f8.png"
     },
     {
       "id": 28807,
@@ -7213,6 +7176,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/949b8814325dbb3fbd3160ffb4215cc58351724a.png"
     },
     {
+      "id": 28868,
+      "name": "Briefer",
+      "slug": "briefer",
+      "website": "https://briefer.cloud",
+      "description": "Briefer helps data scientists and analysts build interactive visualizations and data apps using a Notion-like interface.\r\n\r\nConnect to your data sources, write SQL or Python, collaborate through comments and multiplayer editing, and run code in whichever compute environments you need.",
+      "one_liner": "The collaborative data platform.",
+      "batch": "Summer 2023",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Brazil",
+        "Latin America",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "S\u00e3o Paulo, SP, Brazil; Remote",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "Data Science",
+        "Data Engineering",
+        "Data Visualization"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1687307247.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e589854f66150c916444527d7f4aa314d3961ed.png"
+    },
+    {
       "id": 28858,
       "name": "CraftOS",
       "slug": "craftos",
@@ -7383,5 +7383,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-03T18:01:18.165777"
+  "fetched_at": "2025-10-04T00:02:44.238744"
 }

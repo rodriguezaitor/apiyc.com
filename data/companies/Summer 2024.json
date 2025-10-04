@@ -3475,14 +3475,14 @@
     },
     {
       "id": 29763,
-      "name": "RigManic",
-      "slug": "rigmanic",
+      "name": "Piggy Robotics",
+      "slug": "piggy-robotics",
       "website": "https://rigmanic.com/",
       "description": "We build humanoid home robots powered by artificial muscles. Compared to motor-driven robots, ours are lighter, softer, safer, and stronger for their weight. Richard dropped out of medicine at Oxford and Chenny left her Oxford PhD in computer science to build the full stack\u2014from custom actuators to embodied AI. We went from zero hardware experience to a full humanoid prototype in just 2 months.",
       "one_liner": "Humanoid robots that do your chores for the price of an iPhone!",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 12,
       "industry": "Industrials",
       "subindustry": "B2B",
       "industries": [
@@ -6663,11 +6663,11 @@
     },
     {
       "id": 29640,
-      "name": "Tabular",
-      "slug": "tabular",
-      "website": "https://www.gotabular.de/en/",
-      "description": "Tabular uses AI to automate the core workflows of accounting firms, starting in Europe. We generate finished ledger entries that users export with just one click. This involves tasks like booking expense accounts, determining VAT filings, reconciling transactions.",
-      "one_liner": "AI Copilot for accounting firms in Europe",
+      "name": "Tabula",
+      "slug": "tabula",
+      "website": "https://www.tabula.de",
+      "description": "Tabula is the AI finance platform for SMEs and their accountants, starting in Europe. We generate finished ledger entries that users export with just one click. This involves tasks like booking expense accounts, determining VAT filings, reconciling transactions.",
+      "one_liner": "AI Copilot for SMEs & their accountants in Europe",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 5,
@@ -6688,7 +6688,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724096273.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/538a6103bd81eea70ef4381d684e316ab86ba3b0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/024093e1cf5ee62ecc6d67c4d8f74b230167a84b.png"
     },
     {
       "id": 29639,
@@ -8317,5 +8317,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-03T18:01:17.848187"
+  "fetched_at": "2025-10-04T00:02:42.543069"
 }

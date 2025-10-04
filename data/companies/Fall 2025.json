@@ -602,6 +602,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png"
     },
     {
+      "id": 30931,
+      "name": "Pixley AI",
+      "slug": "pixley-ai",
+      "website": "https://pixleyai.com",
+      "description": "Pixley is revolutionizing early education. No more passive learning: lectures, worksheets, deskwork. Kids don\u2019t just watch content \u2013 they create it. With Pixley, any drawing or picture becomes an animated character, and every episode is shaped by the child\u2019s imagination.\r\n\r\nOn the flip side, parents have complete control over what their kids learn. They choose the academic or moral lesson each story teaches, making screen time both safe and educational. For the first time, children and parents have complete control of the media they consume.\r\n\r\nWe\u2019re harnessing brand-new video gen technology that\u2019s set to revolutionize how the world creates and learns. Generating animated, narrative-consistent content from a child\u2019s input in real time demands breakthroughs in generative AI, safety, and personalization \u2013 and Pixley has cracked it.\r\n\r\nThe market opportunity is massive. Families already spend billions on streaming and educational media, but the content is one-size-fits-all. By giving kids a true voice in what they watch, while giving parents control, Pixley makes early education personal, fun, and effective.\r\n\r\nWe are college dropouts that have been building together for years, winning several hackathons and working with video gen along the way. We built Pixley after we saw the flood of low-quality, algorithmic AI content and knew that kids and parents deserved better.  ",
+      "one_liner": "The first platform where parents & kids can co-create AI cartoon shows",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-Enhanced Learning",
+        "Generative AI",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759526048.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c23f15ce17b5566bb443e85decbca310887c19c.png"
+    },
+    {
       "id": 30920,
       "name": "Lexi",
       "slug": "lexi",
@@ -1657,5 +1690,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-03T18:01:19.582785"
+  "fetched_at": "2025-10-04T00:02:52.117298"
 }
