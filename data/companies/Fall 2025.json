@@ -67,6 +67,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e85636cc8d85e40e183c3547b34d3f05a5aa19c6.png"
     },
     {
+      "id": 31010,
+      "name": "Fixpoint",
+      "slug": "fixpoint",
+      "website": "https://fixpoint.co/",
+      "description": "Fixpoint helps AI data companies and model labs automate their human data ops: sourcing, hiring, and managing human experts for AI training jobs.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
+      "one_liner": "Source and manage experts for AI training jobs",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Human Resources",
+        "Recruiting",
+        "Data Labeling",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759722442.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f1eaa6d1493780832479f97fca83170e4ebe91.png"
+    },
+    {
       "id": 31009,
       "name": "Bear",
       "slug": "bear",
@@ -670,7 +704,7 @@
       "name": "s2.dev",
       "slug": "s2-dev",
       "website": "https://s2.dev",
-      "description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams \u2013 so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\nBuilding agents? Use granular streams to manage context in real time, make workflows auditable, and coordinate between agents.\r\n\r\nPublishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\nSandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\nLocal-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
+      "description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams \u2013 so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
       "one_liner": "Streams as a cloud storage primitive",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1793,5 +1827,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-06T00:02:56.930446"
+  "fetched_at": "2025-10-06T06:01:16.724704"
 }
