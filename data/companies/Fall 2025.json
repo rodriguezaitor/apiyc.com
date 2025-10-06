@@ -307,7 +307,7 @@
       "name": "Icarus",
       "slug": "icarus",
       "website": "https://www.icarus.one/",
-      "description": "Always-on intelligence and connectivity for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet for weeks at a time, above the clouds harnessing the power of the sun, but never too close. Acting as a Cell Tower in the Sky, it\u2019s the U-2 spy plane reborn in 2025, except each costs $100K and can be built by the thousands. The future of warfare is persistent swarms in the Stratosphere.",
+      "description": "Always-on intelligence and connectivity for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet for weeks at a time, above the clouds harnessing the power of the sun, but never too close. Acting as a Cell Tower in the Sky, it\u2019s the U-2 spy plane reborn in 2025, except each costs $100K and is built by the thousands. The future of warfare is persistent swarms in the Stratosphere.",
       "one_liner": "Stratospheric birds for defense",
       "batch": "Fall 2025",
       "status": "Active",
@@ -767,6 +767,40 @@
       "is_top_company": false,
       "launched_at": 1759526048.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c23f15ce17b5566bb443e85decbca310887c19c.png"
+    },
+    {
+      "id": 30922,
+      "name": "Selfin",
+      "slug": "selfin",
+      "website": "https://selfin.app",
+      "description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single intelligent platform. ",
+      "one_liner": "The first AI Bank",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Finance",
+        "Consumer Finance",
+        "Neobank"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759770880.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png"
     },
     {
       "id": 30920,
@@ -1685,7 +1719,7 @@
         "Trading"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758353613.0,
@@ -1860,5 +1894,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-06T12:01:26.446031"
+  "fetched_at": "2025-10-06T18:01:24.306482"
 }

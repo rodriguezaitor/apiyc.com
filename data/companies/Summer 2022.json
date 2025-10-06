@@ -1361,43 +1361,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c35bd0b00b8f8b7f91cc07954a3f36515544f2e.png"
     },
     {
-      "id": 27158,
-      "name": "Jasmine Energy",
-      "slug": "jasmine-energy",
-      "website": "http://www.jasmine.energy",
-      "description": "Jasmine makes it easy to register, sell, finance, and retire RECs (renewable energy certificates). Our AI can \"read\" unstructured data (CRM notes, PDFs, images, etc) and use that information to complete webforms and filing document. This takes previously manual error prone process and makes it automatic and self-healing. ",
-      "one_liner": "Claim solar incentives with AI",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Washington, DC, USA; Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "Solar Power",
-        "Energy",
-        "Renewable Energy",
-        "AI Assistant"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1660594604.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91a6541d69955619d2764e9af07eaf99a2ca8ab.png"
-    },
-    {
       "id": 27157,
       "name": "Levers",
       "slug": "levers",
@@ -7254,6 +7217,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19f195e9a25d1cff1f914f65ceb3e7458c6d52b9.png"
     },
     {
+      "id": 27158,
+      "name": "Jasmine Energy",
+      "slug": "jasmine-energy",
+      "website": "http://www.jasmine.energy",
+      "description": "Jasmine makes it easy to register, sell, finance, and retire RECs (renewable energy certificates). Our AI can \"read\" unstructured data (CRM notes, PDFs, images, etc) and use that information to complete webforms and filing document. This takes previously manual error prone process and makes it automatic and self-healing. ",
+      "one_liner": "Claim solar incentives with AI",
+      "batch": "Summer 2022",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Washington, DC, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Solar Power",
+        "Energy",
+        "Renewable Energy",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1660594604.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91a6541d69955619d2764e9af07eaf99a2ca8ab.png"
+    },
+    {
       "id": 27155,
       "name": "Sonnet",
       "slug": "sonnet",
@@ -8121,5 +8121,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-10-06T12:01:19.825982"
+  "fetched_at": "2025-10-06T18:01:17.703371"
 }
