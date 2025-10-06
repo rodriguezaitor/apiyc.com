@@ -1156,6 +1156,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7c99fca8e4cc5f92f4512cf22a4fef17d90d66d.png"
     },
     {
+      "id": 30878,
+      "name": "Cranston AI",
+      "slug": "cranston-ai",
+      "website": "https://www.cranstonai.com/",
+      "description": "Cranston AI is building a full-stack accounting platform, starting with seed through Series B startups. Our AI agent ingests transactions, reconciles ledgers, and prepares tax filings in real time, with every close reviewed by experienced CPAs. Founders get reliable books, on-time filings, and instant answers to their questions, without the missed deadlines, outsourcing, or slow responses that define traditional firms.",
+      "one_liner": "Automating tax filing using AI",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759732290.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c84d6c08e105e8d2e5230a9ad3bb2528c8ab58c.png"
+    },
+    {
       "id": 30877,
       "name": "Questom",
       "slug": "questom",
@@ -1827,5 +1860,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-06T06:01:16.724704"
+  "fetched_at": "2025-10-06T12:01:26.446031"
 }

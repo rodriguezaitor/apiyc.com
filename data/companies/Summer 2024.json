@@ -1128,18 +1128,18 @@
     },
     {
       "id": 29852,
-      "name": "AI Sell",
-      "slug": "ai-sell",
-      "website": "https://www.aisell.com",
-      "description": "We're building AI Sales Associates for eCommerce. Imagine going on nike.com and facetiming an AI Lebron James and getting his advice on which his shoes to buy. Traditional brick-and-mortar retail stores rely on sales associates to provide personalized customer service, guide product discovery and close sales, but it's always been too expensive and unscaleable for online stores. We're building video-based AI agents that are experts in their products and can gently steer customers to a purchase, delighting customers and lifting conversion/AOV.\r\n\r\nJerry and Jeffrey are brothers who previously worked together to scale The Coding School to a 6mil+ in revenue. Jerry built software to help run the 50+ Shopify brands that Openstore acquired more profitably and efficiently. He was also an engineer at Flexport and Google.\r\n\r\nJeffrey previously worked at DRW as a quant trader, and as an engineer at Facebook, Snowflake and Amazon.\r\n",
-      "one_liner": "AI Sales Associate for Ecommerce",
+      "name": "Dayflow",
+      "slug": "dayflow",
+      "website": "https://www.dayflow.so",
+      "description": "",
+      "one_liner": "A timeline of your day, automatically.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -1147,16 +1147,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Sales",
-        "E-commerce",
-        "AI"
+        "Artificial Intelligence",
+        "Consumer",
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725323188.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db738687b654dc2a17e4e9cd0e66a253c4ea1a93.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/528be4d7bdd9d7697989ae9bb99887ac579f65cc.png"
     },
     {
       "id": 29851,
@@ -8316,5 +8316,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-06T06:01:09.291786"
+  "fetched_at": "2025-10-06T12:01:19.155602"
 }
