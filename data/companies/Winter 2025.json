@@ -1379,8 +1379,8 @@
       "name": "Miyagi Labs",
       "slug": "miyagi-labs",
       "website": "https://miyagilabs.ai",
-      "description": "Miyagi Labs is an AI-powered platform that transforms videos from content creators and professors into complete, interactive courses.\r\n\r\nYouTube is one of the best educational resources in the world, but it lacks the tools to turn passive watching into active learning. By making course creation as simple as uploading a video, we\u2019re building Shopify for online education, empowering content creators and educators to transform their knowledge into engaging, interactive learning experiences.\r\n\r\nWe automatically generate high-quality courses\u2014in under an hour\u2014that people actually complete. On our platform, learners engage with short-answer and multiple-choice questions, as well as quizzes, receiving instant feedback and support from an AI voice tutor if they need more help.",
-      "one_liner": "Shopify for AI-generated courses",
+      "description": "Miyagi Labs is an AI-powered exam prep platform that helps students ace tests like the SAT through our AI tutor, personalized study plans, thousands of practice questions, and realistic practice exams.\r\n\r\nWe\u2019re building the platform we wish we had when studying for exams. No more running out of practice questions. Track your progress as your rating in different exam categories increases, and know exactly what you need to practice most.\r\n\r\nWe envision a world where students anywhere can come to Miyagi to ace their exams and receive personalized, world-class AI tutoring designed to unlock their full potential.",
+      "one_liner": "AI tutors for exam prep",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -1395,11 +1395,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "AI-Enhanced Learning",
         "Education",
         "Generative AI",
-        "SaaS",
-        "Video",
-        "Media"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5369,5 +5369,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-07T12:01:20.816520"
+  "fetched_at": "2025-10-07T18:01:14.483269"
 }

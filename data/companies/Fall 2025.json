@@ -638,11 +638,11 @@
       "name": "Everest",
       "slug": "everest",
       "website": "https://everestmanagedai.com/",
-      "description": "90% of SMBs rely on outsourced IT support companies to manage their IT. It's a $300B industry running on 10-20% margins. We're building AI support engineers to help outsourced IT solve support tickets 20x faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT support companies. We're now bringing the automation Netflix has to 140K companies globally. ",
+      "description": "90% of SMBs rely on outsourced IT support companies to manage their IT. It's a $300B industry running on 10-20% margins. We're building AI support engineers to help outsourced IT solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT support companies. We're now bringing the automation Netflix has to 140K companies globally. ",
       "one_liner": "We build AI support engineers for outsourced IT services (MSPs)",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": null,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1630,7 +1630,7 @@
       "name": "Parrot",
       "slug": "parrot",
       "website": "https://parrotapp.com/",
-      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen\u2019s comprehensible input theory. In under 4 months, we\u2019ve scaled to $270K ARR with an average LTV:CAC of 5.6, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen\u2019s comprehensible input theory. In a few months, we\u2019ve scaled to $370K ARR, doubling every 2 months with an average LTV:CAC of 5.6, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
       "one_liner": "TikTok for language learning",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1926,5 +1926,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-07T12:01:26.750475"
+  "fetched_at": "2025-10-07T18:01:16.622384"
 }
