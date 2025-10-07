@@ -1571,9 +1571,9 @@
       "id": 29834,
       "name": "Rastro",
       "slug": "rastro",
-      "website": "",
-      "description": "",
-      "one_liner": "",
+      "website": "https://rastro.ai",
+      "description": "Rastro helps distributors and retailers automatically onboard, enrich, and maintain their product catalogs. By scraping supplier data, filling gaps, and standardizing attributes, Rastro enables companies to launch and scale faster.",
+      "one_liner": "AI catalog ops for retailers and distributors",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -5352,7 +5352,7 @@
       "one_liner": "AI-assisted office leasing platform",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 22,
       "industry": "B2B",
       "subindustry": "B2B -> Office Management",
       "industries": [
@@ -8316,5 +8316,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-06T18:01:16.998478"
+  "fetched_at": "2025-10-07T00:02:45.167496"
 }

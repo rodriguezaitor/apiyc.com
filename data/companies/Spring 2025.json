@@ -2781,8 +2781,8 @@
       "name": "Refresh",
       "slug": "refresh",
       "website": "https://www.refresh.dev",
-      "description": "Building browser agent based tools to help vibe coders improve their coding workflows\r\nPreviously built operative.sh",
-      "one_liner": "Building the first BYOC-ready AI app builder",
+      "description": "",
+      "one_liner": "Refresh any website and make it your own",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2798,11 +2798,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4607,5 +4607,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-06T18:01:20.551482"
+  "fetched_at": "2025-10-07T00:02:48.686973"
 }

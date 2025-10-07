@@ -34,6 +34,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8cc4364cbc36079057551f98544d5fb6be675455.png"
     },
     {
+      "id": 13705,
+      "name": "Algen Biotechnologies",
+      "slug": "algen-biotechnologies",
+      "website": "https://www.algenbio.com/",
+      "description": "Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer and diseases with high unmet needs. We are harnessing the power of CRISPR and machine learning to find first-in-class drugs that modulate RNA messages at single-cell resolution. Algen's founders are bioengineer from Jennifer Doudna Lab and biotech commercialization expert, teamed up with experienced pharmaceutical executives.",
+      "one_liner": "Using CRISPR to find treatments for cancer",
+      "batch": "Winter 2020",
+      "status": "Active",
+      "team_size": 11,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-powered Drug Discovery",
+        "CRISPR"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759774411.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41218b0dee65a988940509b3fe258626c5137590.png"
+    },
+    {
       "id": 13673,
       "name": "Jet Admin",
       "slug": "jet-admin",
@@ -7721,5 +7753,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
     }
   ],
-  "fetched_at": "2025-10-06T18:01:18.032596"
+  "fetched_at": "2025-10-07T00:02:46.185813"
 }
