@@ -138,7 +138,7 @@
       "name": "MarkIt",
       "slug": "markit",
       "website": "https://markittrade.com",
-      "description": "MarkIt\u2019s agents work directly inside the workflows trade professionals already use every day \u2014 Excel, PDFs, broker portals, and more.\r\n\r\nClassification and OCR are table stakes. \r\nOur agents go further, enabling:\r\nCompliance paperwork \u2014 generating import/export documents without leaving existing workflows.\r\nCommercial invoices \u2014 creating and submitting them seamlessly.\r\nFilings \u2014 automating audited submissions.",
+      "description": "MarkIt builds AI agents that work directly inside the workflows trade professionals use every day \u2014 Excel, PDFs, broker portals, and more.\r\nClassification and OCR are table stakes. Our agents go further, enabling:\r\nCompliance paperwork \u2014 generate import/export documents without leaving existing workflows.\r\nCommercial invoices \u2014 create and submit them seamlessly.\r\nFilings \u2014 automate audited submissions.\r\nMarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations.",
       "one_liner": "Silver Bullet for Trade Compliance",
       "batch": "Fall 2025",
       "status": "Active",
@@ -157,9 +157,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Workflow Automation",
-        "Logistics",
-        "AI"
+        "Logistics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -266,6 +266,40 @@
       "is_top_company": false,
       "launched_at": 1758933765.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png"
+    },
+    {
+      "id": 30983,
+      "name": "Telemetron",
+      "slug": "telemetron-ai",
+      "website": "https://www.telemetron.ai/",
+      "description": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). \r\n\r\nOur platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
+      "one_liner": "Customer Support Platform Built for Hardware",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Hardware",
+        "B2B",
+        "Customer Success",
+        "Customer Support"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759807426.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db4f19af21f2acf6ffe0cf95e59e6961ae9e1f89.png"
     },
     {
       "id": 30981,
@@ -1892,5 +1926,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-07T00:02:52.439626"
+  "fetched_at": "2025-10-07T06:01:26.179757"
 }
