@@ -2920,11 +2920,11 @@
       "name": "HealthKey",
       "slug": "healthkey",
       "website": "https://gethealthkey.com/",
-      "description": "HealthKey helps doctors offices generate more revenue by identifying patients who are eligible for clinical trials, and matches at-risk patients with cutting-edge treatments. Big Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors\u2019 existing patients against Clinical Trials\u2019 eligibility criteria, making enrollment fast and easy.\r\n\r\nMeet with Josh (CEO) \ud83d\udc49 https://cal.com/healthkey/15-min-meeting",
+      "description": "HealthKey helps doctors offices generate more revenue by finding eligible patients for their clinical trials. We match at-risk patients with cutting-edge treatments, ultimately getting patients access to potentially life-changing treatments faster.\r\n\r\nBig Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors\u2019 existing patients against Clinical Trials\u2019 eligibility criteria, making enrollment fast and easy.",
       "one_liner": "AI-powered Patient Identification for Clinical Trials",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -2932,19 +2932,12 @@
         "Healthcare IT"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "Austin, TX, USA",
-      "tags": [
-        "SaaS",
-        "Health Tech",
-        "B2B",
-        "Enterprise",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737252261.0,
@@ -5369,5 +5362,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-07T18:01:14.483269"
+  "fetched_at": "2025-10-08T00:02:51.710244"
 }

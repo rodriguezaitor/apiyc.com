@@ -3070,28 +3070,27 @@
       "name": "Percival",
       "slug": "percival",
       "website": "https://www.percivaltech.com/",
-      "description": "Percival helps wholesalers and distributors automate data entry by using AI to process documents like purchase orders and price lists. \r\n\r\nWhen wholesalers and distributors sell to other businesses, they often receive purchase orders as PDFs over email. Customers frequently use different identifiers for items, different units, and close but not quite the same descriptors. Employees aren't just copy-pasting (or manually typing) PDF data into an ERP, they have to validate every item in the ERP.\r\n\r\nWith Percival, businesses can just email customer POs and other requests to a dedicated @percivaltech.com email address. Once the request is handled, Percival responds to the email with the result: whether that's an order number in the ERP or a list of prices.",
-      "one_liner": "AI-powered data entry for wholesalers and distributors",
+      "description": "Building an AI copilot for researchers to analyze and transform real-world data.",
+      "one_liner": "Accelerating data analysis for research",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
-        "B2B",
-        "Operations"
+        "B2B"
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
         "Artificial Intelligence",
-        "SaaS",
-        "Sales",
-        "Supply Chain",
-        "Automation"
+        "Developer Tools",
+        "Data Science"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4607,5 +4606,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-07T18:01:14.786113"
+  "fetched_at": "2025-10-08T00:02:52.336154"
 }

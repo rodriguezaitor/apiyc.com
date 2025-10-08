@@ -2536,38 +2536,37 @@
     },
     {
       "id": 1736,
-      "name": "Copilot",
-      "slug": "copilot",
-      "website": "https://www.copilot.app",
-      "description": "Copilot's mission is to power the next generation of modern service companies. We help marketing agencies, accounting firms, and many other types of businesses to sell and deliver their services online.",
-      "one_liner": "Shopify for Professional Services Businesses ",
+      "name": "Assembly",
+      "slug": "assembly-com",
+      "website": "https://www.assembly.com",
+      "description": "Assembly is the AI-powered platform for professional service firms. Give clients a clean, branded portal that brings everything together \u2014 tasks, payments, messages, files, contracts, and forms \u2014 and give your team a simple CRM and an AI Assistant that knows full client context. Run onboarding and back-office work faster, improve customer retention, and make clients happier. Extend the platform with embeds, Zapier/Make, webhooks, and a public API, or build Custom Apps for your exact workflow. ",
+      "one_liner": "Create remarkable client experiences",
       "batch": "Winter 2018",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 25,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
-        "Infrastructure"
+        "Productivity"
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Marketplace",
         "B2B",
-        "E-commerce"
+        "E-commerce",
+        "AI",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1674146997.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46f9c21fd1ced46b7d072b793ac52b84cec57151.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55057ac15a637901bedd0c55239dee969af0c01.png"
     },
     {
       "id": 1734,
@@ -4890,5 +4889,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-10-07T18:01:14.635580"
+  "fetched_at": "2025-10-08T00:02:52.019975"
 }

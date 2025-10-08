@@ -2942,7 +2942,7 @@
         "Operations"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706475260.0,
@@ -4790,11 +4790,11 @@
       "name": "Decipher AI",
       "slug": "decipher-ai",
       "website": "https://getdecipher.com",
-      "description": "Decipher\u2019s AI agents watch all your user sessions \u2013 helping you identify and act on product issues and insights. \r\n\r\nLoved by fast-growing companies like Pinecone, 11x, and Vial. ",
-      "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
+      "description": "Decipher learns from session replays and writes reliable tests that prevent regressions on all your product flows. Plus get alerted when a bug hits production users.",
+      "one_liner": "QA agents that generate tests from session replays and monitor for\u2026",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "Unspecified",
       "industries": [
@@ -4807,11 +4807,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Analytics",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8251,5 +8251,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-10-07T18:01:13.174664"
+  "fetched_at": "2025-10-08T00:02:49.104416"
 }
