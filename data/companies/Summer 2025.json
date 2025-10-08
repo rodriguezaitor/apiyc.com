@@ -872,38 +872,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c7285daed594e49818c41dd7e677796b8e4b61.png"
     },
     {
-      "id": 30770,
-      "name": "Vibe Code Go",
-      "slug": "vibe-code-go",
-      "website": "https://vibecodego.com",
-      "description": "Vibe Code Go is a mobile app that lets software engineers vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
-      "one_liner": "Code from your phone",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 1,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "SaaS"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1755546681.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffeca89d176d23081681b5dd3135c9a26bcfb7f5.png"
-    },
-    {
       "id": 30769,
       "name": "Juxta",
       "slug": "juxta",
@@ -5557,5 +5525,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-08T12:01:29.858448"
+  "fetched_at": "2025-10-08T18:01:13.566910"
 }

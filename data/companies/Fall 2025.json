@@ -869,6 +869,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c23f15ce17b5566bb443e85decbca310887c19c.png"
     },
     {
+      "id": 30924,
+      "name": "Casey",
+      "slug": "casey",
+      "website": "https://www.meetcasey.ai/",
+      "description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
+      "one_liner": "The infrastructure layer for insurance distribution",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Insurance",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Insurance",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759942019.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/88a76602e15d6bde1447f1d7066e3a3e3708bea1.png"
+    },
+    {
       "id": 30922,
       "name": "Selfin",
       "slug": "selfin",
@@ -1026,6 +1059,39 @@
       "is_top_company": false,
       "launched_at": 1757558729.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png"
+    },
+    {
+      "id": 30912,
+      "name": "Redapto",
+      "slug": "redapto",
+      "website": "https://www.redapto.com/",
+      "description": "Redapto fixes the core limitation of today\u2019s agents: they\u2019re static. Teams hit real performance walls because models aren\u2019t optimized for their domain and don\u2019t improve from usage. We help products break that plateau.\r\n\r\nWe bring continuous improvement into your stack: controller models for intelligent context engineering, domain-specialized mid/post-training, automatic feedback pipelines, and self-updating data sources so RAG/search stays accurate. We focus only on what moves the needle for your product, not extra infrastructure.\r\n\r\nWe\u2019re applied researchers who\u2019ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20\u00d7. We\u2019ve published at NeurIPS, AAAI, ICLR, and COLING, and we\u2019re building Redapto to make adaptive, evolving agents the new default.",
+      "one_liner": "Self-improving AI agents",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Reinforcement Learning",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759943597.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dd38394ff07e1224b748fcf5b78c7df866584d2.png"
     },
     {
       "id": 30896,
@@ -1280,7 +1346,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "Sunnyvale, CA, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Generative AI",
         "Video",
@@ -2093,5 +2159,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-08T12:01:35.878271"
+  "fetched_at": "2025-10-08T18:01:14.540136"
 }

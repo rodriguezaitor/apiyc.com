@@ -557,7 +557,7 @@
       "name": "Type",
       "slug": "type",
       "website": "https://type.ai",
-      "description": "Type.ai is an AI writing tool and document editor that helps professionals write better and faster. Type integrates powerful AI writing and editing features in a simple, familiar writing interface. It's built for writers who need greater control and precision in their work.",
+      "description": "Type.ai is an AI-native document editor designed for professional long-form writing. Type integrates powerful AI writing and editing features in a simple, familiar writing interface. It's built for writers who need greater control and precision in their work.",
       "one_liner": "The AI-first document editor.",
       "batch": "Winter 2023",
       "status": "Active",
@@ -574,10 +574,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Productivity",
-        "Marketing",
-        "AI"
+        "Marketing"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1639,40 +1639,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8b52d23619be197ec836547295f0d1ac0bf36b9.png"
     },
     {
-      "id": 28096,
-      "name": "OpenInt",
-      "slug": "openint",
-      "website": "https://openint.dev",
-      "description": "OpenInt helps teams ship product integrations in hours, not weeks, using no or low code. Read and write data using unified APIs or sync it straight to your database. ",
-      "one_liner": "Open Source Embedded Product Integrations",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Open Source",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1673267479.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a1ff68627d7db644256cf5b89e938213258bed.png"
-    },
-    {
       "id": 28094,
       "name": "Constant",
       "slug": "constant",
@@ -2392,7 +2358,7 @@
         "Delivery"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1673111451.0,
@@ -8615,6 +8581,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc7c9f809980c4c0462aa8ad39e4f211d37121ab.png"
     },
     {
+      "id": 28096,
+      "name": "OpenInt",
+      "slug": "openint",
+      "website": "https://openint.dev",
+      "description": "OpenInt helps teams ship product integrations in hours, not weeks, using no or low code. Read and write data using unified APIs or sync it straight to your database. ",
+      "one_liner": "Open Source Embedded Product Integrations",
+      "batch": "Winter 2023",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Open Source",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1673267479.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a1ff68627d7db644256cf5b89e938213258bed.png"
+    },
+    {
       "id": 28082,
       "name": "Sorted",
       "slug": "sorted",
@@ -9365,5 +9365,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-10-08T12:01:25.924350"
+  "fetched_at": "2025-10-08T18:01:12.821774"
 }

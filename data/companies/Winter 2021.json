@@ -2731,6 +2731,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b97c4db893c7132d2d6deeb08700784456ba75dc.png"
     },
     {
+      "id": 23263,
+      "name": "Entelexo Biotherapeutics",
+      "slug": "entelexo-biotherapeutics",
+      "website": "https://www.entelexo.com/",
+      "description": "Entelexo is creating modern treatments for immune-mediated diseases, such as psoriasis, using novel engineered exosome technology.",
+      "one_liner": "Creating a New Class of Drugs to Address Incurable Autoimmune Diseases",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Therapeutics",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Irvine, CA, USA",
+      "tags": [
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614964227.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ef38251e4060b4827ae3ce45f0e73e1f6f1cb2d.png"
+    },
+    {
       "id": 23261,
       "name": "Morada Uno",
       "slug": "morada-uno",
@@ -10173,37 +10204,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4aa01acb5da85aa65e3b1d4de9d3719618e25261.png"
     },
     {
-      "id": 23263,
-      "name": "Entelexo Biotherapeutics",
-      "slug": "entelexo-biotherapeutics",
-      "website": "https://www.entelexo.com/",
-      "description": "Entelexo is creating modern treatments for immune-mediated diseases, such as psoriasis, using novel engineered exosome technology.",
-      "one_liner": "Creating a New Class of Drugs to Address Incurable Autoimmune Diseases",
-      "batch": "Winter 2021",
-      "status": "Inactive",
-      "team_size": 3,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Therapeutics",
-      "industries": [
-        "Healthcare",
-        "Therapeutics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Irvine, CA, USA",
-      "tags": [
-        "Biotech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614964227.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ef38251e4060b4827ae3ce45f0e73e1f6f1cb2d.png"
-    },
-    {
       "id": 23242,
       "name": "HomeBreeze",
       "slug": "homebreeze",
@@ -11536,5 +11536,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-10-08T12:01:25.437972"
+  "fetched_at": "2025-10-08T18:01:12.729038"
 }
