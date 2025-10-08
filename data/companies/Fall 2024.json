@@ -569,7 +569,7 @@
       "name": "Edgedive",
       "slug": "edgedive",
       "website": "https://edgedive.com",
-      "description": "Edgedive is your **AI support engineer** - embedded in your existing stack (Intercom, Linear, Slack, GitHub, etc.). It: \r\n\r\n**Prioritizes** customer issues and requests by impact (frequency, ACV, and severity).\r\n\r\n**Auto-investigates** issues end-to-end: root cause, impact assessment, plan to fix.\r\n\r\n**Opens merge-ready PRs** that build cleanly and follow your team\u2019s standards.\r\n\r\nImagine having an always-on teammate who continuously triages customer pain, plans fixes, and pushes code changes so you can start your morning with fresh, mergeable PRs, ready for review.",
+      "description": "Edgedive is your AI support engineer - embedded in your existing stack (Intercom, Linear, Slack, GitHub, etc.). It: \r\n\r\n- Prioritizes customer issues and requests by impact (frequency, ACV, and severity).\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team\u2019s standards.\r\n\r\nImagine having an always-on teammate who continuously triages customer pain, plans fixes, and pushes code changes so you can start your morning with fresh, mergeable PRs, ready for review.",
       "one_liner": "Take action on customer feedback",
       "batch": "Fall 2024",
       "status": "Active",
@@ -586,11 +586,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Enterprise Software",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2272,7 +2272,7 @@
         "Infrastructure"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1729643205.0,
@@ -2598,7 +2598,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731882747.0,
@@ -3020,5 +3020,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-10-08T00:02:54.687013"
+  "fetched_at": "2025-10-08T06:01:16.331015"
 }

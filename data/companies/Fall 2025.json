@@ -402,6 +402,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png"
     },
     {
+      "id": 30962,
+      "name": "Denki",
+      "slug": "denki",
+      "website": "https://denki.ai",
+      "description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki is the assurance platform that:\r\n\r\n\u2714\ufe0f Works on existing systems (e.g. Auditboard, Jira, ERPs)\r\n\u2714\ufe0f Automates Control processes (e.g. maps to COSO, runs walkthrough interviews, tests)\r\n\u2714\ufe0f Produces working papers (w/ full audit traces)\r\n\r\nFocused on SOX programs and financial regulations (BSA/AML etc.)",
+      "one_liner": "AI for Auditors at Public Companies",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "FinOps",
+        "Compliance",
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759884466.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9c79cb57463cbdc422676b0d9eee7efef195b6a.png"
+    },
+    {
       "id": 30960,
       "name": "Metorial",
       "slug": "metorial",
@@ -971,7 +1005,7 @@
       "slug": "sunflower",
       "website": "https://sunflowersober.com/",
       "description": "Sunflower is on a mission to create one trillion days sober. Our product is both a consumer app (think a \"Duolingo for addiction\") but also with a tele-therapy clinic inside. \r\n\r\nConsumer App: \r\n- We built the #1 AI Sponsor for any kind of addiction\r\n- Beautiful visual progression tracking to power the core \"task to be done\" of addiction\r\n- A twitter style social media for addicts \r\n- DIY learn content (think Masterclass for addiction) for all major addiction types \r\n- CBT based journaling exercises \r\n\r\nTele-Therapy: \r\n- Think a \"Early Medical Peter Attia\" quality of clinic, but completely focused on addiction \r\n- Starting with talk therapy in CA & TX we're rolling out to all 50 states + MAT \r\n- Bringing together the worlds best doctors to create the most effective protocol for addiction \r\n\r\nSunflower went from 0 - 100k MAU in less than 6 months, and now we're continuing the traction to create the #1 product for addiction for the 1.2B humans on this planet that struggle with this fundamental human problem. ",
-      "one_liner": "A \"Duolingo for addiction\" with a tele-therapy clinic inside. \ud83c\udf3b",
+      "one_liner": "Sunflower is an AI Agent tasked with helping you stay sober. \ud83c\udf3b",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 10,
@@ -1225,6 +1259,39 @@
       "is_top_company": false,
       "launched_at": 1758754473.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/15b0437dc4c919af5fc88d2d21f7c78539cfe9a1.png"
+    },
+    {
+      "id": 30884,
+      "name": "Flick",
+      "slug": "flick",
+      "website": "https://flick.art",
+      "description": "Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick challenges the norm: most AI tools are technically driven, not built from a creator\u2019s perspective.\r\n\r\nOur mission is to build a tool designed for filmmakers, not engineers. Filmmakers shouldn\u2019t have to worry about the technical layer \u2014 they deserve full creative control, with their taste woven into every loop of the process.\r\n\r\nWe call it Flick \u2014 a word that means both film and a quick motion. To us, it captures what creativity should feel like: light, natural, and fast, not heavy or mechanical.\r\n\r\nJust like a flick of the hand or a flicker of light, great creators break conventions and let ideas flow effortlessly, using AI not as a shortcut but as a force to amplify imagination and visual storytelling.\r\n\r\nThat\u2019s the spirit behind everything we build.",
+      "one_liner": "End-to-end AI filmmaking software.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Sunnyvale, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Video",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759897034.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2d53e090c885b02d1703c56babe82584d6d82f.png"
     },
     {
       "id": 30883,
@@ -2026,5 +2093,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-08T00:02:55.948846"
+  "fetched_at": "2025-10-08T06:01:17.583521"
 }
