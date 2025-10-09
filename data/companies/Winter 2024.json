@@ -4947,7 +4947,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709806941.0,
@@ -5188,11 +5188,11 @@
       "name": "Attunement",
       "slug": "attunement",
       "website": "http://attunement.ai",
-      "description": "Attunement an automation workflow platform for psychiatric assessments.",
-      "one_liner": "Automation workflow for psychiatric assessments.",
+      "description": "We build AI-powered compliance software for behavioral health organizations. Our system keeps them continuously audit-ready, reduces documentation costs, and protects revenue by automating the compliance work clinicians hate, freeing them to focus on care.",
+      "one_liner": "We automate compliance for behavioral health, saving clinicians hours\u2026",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Therapeutics",
       "industries": [
@@ -5200,20 +5200,22 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Workflow Automation",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706574795.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/544db1f208e24ce7ff96a1c358355acdfabcaf13.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/167203f3b5d690947159f8db21fd55fc9e145e72.png"
     },
     {
       "id": 29314,
@@ -8251,5 +8253,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-10-08T18:01:13.007864"
+  "fetched_at": "2025-10-09T00:02:45.158518"
 }
