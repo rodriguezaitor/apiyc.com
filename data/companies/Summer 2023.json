@@ -410,7 +410,7 @@
       "slug": "flair-technologies",
       "website": "https://www.flairhealth.com",
       "description": "",
-      "one_liner": "Contract Negotiation and Compliance Using AI",
+      "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": null,
@@ -425,18 +425,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Data Science",
-        "Healthcare IT",
-        "AI"
+        "Healthcare IT"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690407835.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df7db4e25e81aff7a207d67526b4dd8ed0267728.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddeab7a89918d9c7937ffe06cb009260316cced2.png"
     },
     {
       "id": 29128,
@@ -989,8 +989,8 @@
       "name": "Inconvo",
       "slug": "inconvo",
       "website": "https://inconvo.com",
-      "description": "Inconvo is the complete platform for developers to build and deploy AI agents for data analysis.",
-      "one_liner": "Build and deploy AI agents for data analysis",
+      "description": "Inconvo is the fastest way to build and deploy an MCP server for your customers using your existing data.",
+      "one_liner": "Build MCP servers for your customers",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -3360,7 +3360,7 @@
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688400893.0,
@@ -7382,5 +7382,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-09T00:02:46.528262"
+  "fetched_at": "2025-10-09T06:01:08.740121"
 }

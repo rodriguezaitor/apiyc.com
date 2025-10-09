@@ -267,6 +267,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png"
     },
     {
+      "id": 30999,
+      "name": "Claybird",
+      "slug": "claybird",
+      "website": "https://claybird.com/",
+      "description": "Claybird is an agent that plans, generates, and edits your AI video ad.\r\n\r\nMarketers often rely on agencies to produce video ads - a slow, expensive process involving endless revisions, actors, and shoots.\r\n\r\nClaybird is like Lovable for AI ads: it collaborates with marketers on creative direction, generates shots using Veo, Sora, and other top models, and intelligently edits them into a studio-quality video.\r\n\r\nWhen most people try making AI content, it looks like \u201cslop\u201d. But Claybird Agent, like an expert director, understands quality: it knows which camera angle, shot type, and lighting is necessary for each scene.\r\n\r\nGet started at claybird.com",
+      "one_liner": "Claybird plans, creates, and edits your AI video ad.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Video",
+        "Marketing",
+        "Advertising",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759979466.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png"
+    },
+    {
       "id": 30997,
       "name": "LunaBill",
       "slug": "lunabill",
@@ -1391,7 +1426,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759897034.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2d53e090c885b02d1703c56babe82584d6d82f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f96ddb243962497e60383676b01ce3b0cd4cb76.png"
     },
     {
       "id": 30883,
@@ -2228,5 +2263,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-09T00:02:53.873456"
+  "fetched_at": "2025-10-09T06:01:14.385301"
 }

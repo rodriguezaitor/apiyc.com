@@ -1827,10 +1827,10 @@
       "slug": "skyways",
       "website": "http://skyways.com",
       "description": "",
-      "one_liner": "Creating a new form of air transportation.",
+      "one_liner": "Creating a new form of air transportation to advance our civilization",
       "batch": "Summer 2017",
       "status": "Active",
-      "team_size": 23,
+      "team_size": 33,
       "industry": "Industrials",
       "subindustry": "Industrials -> Drones",
       "industries": [
@@ -1844,6 +1844,7 @@
       "locations": "Austin, TX, USA",
       "tags": [
         "Air Taxis",
+        "Robotics",
         "Computer Vision",
         "AI",
         "ML"
@@ -1853,7 +1854,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1493063490.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8778c5906bf88db6cb40cb2a78663ccf433c8d21.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6732fcb5c7c414475034015c2f1a9fa75a9f12a7.png"
     },
     {
       "id": 1580,
@@ -4139,5 +4140,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95842a8ebd992360790565045dc0b9949e8dea8.png"
     }
   ],
-  "fetched_at": "2025-10-09T00:02:50.196541"
+  "fetched_at": "2025-10-09T06:01:11.567303"
 }
