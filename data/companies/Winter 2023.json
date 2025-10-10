@@ -1156,7 +1156,7 @@
       "one_liner": "The trusted AI platform for investment firms",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "Real Estate and Construction",
       "industries": [
@@ -3269,8 +3269,8 @@
       "name": "Finic",
       "slug": "finic",
       "website": "https://www.finic.ai",
-      "description": "Finic helps fintechs, banks, and credit unions turn compliance into a competitive advantage. We're building the first AI-native transaction monitoring platform that generates alerts for suspicious activity, clears low-risk cases automatically, and equips analysts with an intuitive case management dashboard that brings all the relevant data into one place. Finic continuously improves detection accuracy by learning from past cases and integrates seamlessly with your data - no ETL required.",
-      "one_liner": "AI-Native Fincrime Platform",
+      "description": "Finic helps fintechs and banks automate the detection and investigation of financial crimes. \r\n\r\nWe automate human jobs-to-be-done for:\r\n- Fraud operations teams\r\n- AML/BSA teams\r\n- Compliance teams\r\n- Credit risk teams\r\n\r\nWhile our approach is agentic, we use AI only where it's better than the alternative. Our vertical focus allows us to be more accurate and efficient than horizontal agent companies on the same task.",
+      "one_liner": "Detect and investigate financial crimes with AI",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 2,
@@ -3281,20 +3281,18 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
+        "Artificial Intelligence",
         "Compliance",
+        "Enterprise",
         "Automation",
-        "Fraud Detection",
-        "AI"
+        "Fraud Detection"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1677272534.0,
@@ -9365,5 +9363,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-10-09T18:01:11.757383"
+  "fetched_at": "2025-10-10T00:02:59.536329"
 }

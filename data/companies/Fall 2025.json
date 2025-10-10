@@ -905,6 +905,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png"
     },
     {
+      "id": 30932,
+      "name": "Leadbay",
+      "slug": "leadbay",
+      "website": "https://leadbay.ai/",
+      "description": "We unlock untapped revenue for sales teams targeting fragmented, data-scarce SMB markets \u2014 like construction, hospitality, startups, and retail.\r\n\r\nYou might think that LinkedIn Sales Nav, Clay, ZoomInfo, or Apollo have you covered. They don\u2019t. They miss 70% of U.S. companies and capture only 0.001% of digital signals or intent. We\u2019re already working with enterprise clients who 5\u00d7 their efficiency by simply unlocking these hidden opportunities in the most data-scarce, fragmented markets.\r\n\r\nHow does it look like?\r\nUpload a list of won/lost leads. That\u2019s it. \r\nLeadbay understands your Ideal Customer Profile, discovers untapped opportunities in your market, and scores your existing dormant accounts. Every day, you\u2019ll receive fresh, high-value prospects right in your mobile or desktop app.\r\n\r\nWe make invisible companies visible.",
+      "one_liner": "Leadbay discovers and qualifies SMB leads others can\u2019t find.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "France",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Paris, \u00cele-de-France, France",
+      "tags": [
+        "Construction",
+        "B2B",
+        "Sales",
+        "AI",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760047494.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c605d86c3c5c5b9ba4585717aa87dd77e0a975.png"
+    },
+    {
       "id": 30931,
       "name": "Pixley AI",
       "slug": "pixley-ai",
@@ -936,6 +973,41 @@
       "is_top_company": false,
       "launched_at": 1759526048.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c23f15ce17b5566bb443e85decbca310887c19c.png"
+    },
+    {
+      "id": 30930,
+      "name": "Cortex AI",
+      "slug": "cortex-ai",
+      "website": "https://cortexrobot.ai/",
+      "description": "Cortex AI builds the world\u2019s most diverse and large-scale real-world workplace robot & egocentric dataset \u2014 where the physical world becomes the next training and evaluation set for embodied AI.\r\n\r\nWe power frontier labs developing robotics foundation models and general-purpose robots by providing the data they need:\r\n1\ufe0f\u20e3 Egocentric Data \u2014 real-workplace human video with hand/body pose, depth, and subtask labels.\r\n2\ufe0f\u20e3 Robot Data \u2014 trajectories collected from manipulators and humanoids in real industry settings.\r\n3\ufe0f\u20e3 Human-in-the-Loop Rollouts & Evals \u2014 real-world deployments with remote operators who recover robots when they fail, capturing data that feeds back into training and continuously improves models.\r\n\r\nAdditionally, through the Cortex Marketplace, workplaces get paid to host data-collection and evaluation sessions, while labs access the in-the-wild data that truly matters. This draws on Lucas\u2019s previous experience as co-founder of Carousell, a C2C marketplace that scaled to a $1B+ valuation.",
+      "one_liner": "Large-scale real-world robot & egocentric data for embodied AI",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Reinforcement Learning",
+        "Robotics",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760045430.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c9246b8eba5ba12a7373a930ea46cc687dddb98.png"
     },
     {
       "id": 30924,
@@ -1140,7 +1212,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -2263,5 +2335,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-09T18:01:21.425112"
+  "fetched_at": "2025-10-10T00:03:05.747294"
 }
