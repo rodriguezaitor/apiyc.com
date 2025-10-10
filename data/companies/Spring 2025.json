@@ -400,7 +400,7 @@
       "id": 30548,
       "name": "Theorem",
       "slug": "theorem-2",
-      "website": "https://theoremlabs.com/",
+      "website": "https://theorem.dev",
       "description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
       "one_liner": "Program verification so even your systems engineers can vibecode",
       "batch": "Spring 2025",
@@ -418,9 +418,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4329,8 +4329,8 @@
       "name": "Atlog",
       "slug": "atlog",
       "website": "https://atlog.ai",
-      "description": "Atlog uses voice agents to conduct sales and recover outstanding payments for in-house agreements. Currently, each store makes 200+ sales and collections calls per day. ",
-      "one_liner": "Voice Agents for Physical Retail Stores",
+      "description": "Atlog creates voice agents with built-in compliance. Companies use Atlog to automate their calls and texts without worrying about getting sued.",
+      "one_liner": "Voice AI That Won't Get You Sued",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4346,8 +4346,7 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Furniture",
-        "Retail Tech",
+        "Compliance",
         "Automation",
         "Call Center",
         "Operations"
@@ -4607,5 +4606,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-10T00:03:02.928554"
+  "fetched_at": "2025-10-10T06:01:12.259414"
 }
