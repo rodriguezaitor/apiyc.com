@@ -9019,7 +9019,7 @@
         "Manufacturing"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1644236091.0,
@@ -10700,7 +10700,7 @@
         "Insurance"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1648055687.0,
@@ -13856,5 +13856,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-10-10T18:01:14.402337"
+  "fetched_at": "2025-10-11T00:02:39.352040"
 }

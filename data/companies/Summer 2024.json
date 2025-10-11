@@ -189,39 +189,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f51090d21264c3c8f1c3571351178efc467fc6b.png"
     },
     {
-      "id": 29981,
-      "name": "Kairo Health",
-      "slug": "kairo-health",
-      "website": "https://trykairo.com/",
-      "description": "Kairo Health builds AI agents that help deliver patient care at a fraction of the cost.\r\n\r\nThe US has a shortage of nurses, care coordinators, and administrators, all of whom spend a significant portion of their days navigating disparate software systems like their EHR and waiting on hold for hours over the phone. Organizations have little incentive to grow these teams, which leads to burnout and inefficiency.\r\n\r\nKairo scales this support staff by recording their actions and translating them into instructions for our agents to execute on their own. Organizations can deploy these agents for any care delivery workflow, such as calling patients to check-in on their symptoms, rescheduling a clinician\u2019s panel in case of an emergency, and filling late cancellation slots with other patients.",
-      "one_liner": "The AI healthcare workforce",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare IT",
-      "industries": [
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Digital Health",
-        "Healthcare IT",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1724055639.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60c69ff532e5b2e33d0105a9322b6a9f857dd4e.png"
-    },
-    {
       "id": 29980,
       "name": "Midship",
       "slug": "midship",
@@ -8316,5 +8283,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-10T18:01:14.765251"
+  "fetched_at": "2025-10-11T00:02:40.975712"
 }

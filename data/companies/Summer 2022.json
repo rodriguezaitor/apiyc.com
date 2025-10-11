@@ -3445,11 +3445,11 @@
       "name": "NewsCatcher",
       "slug": "newscatcher",
       "website": "https://newscatcherapi.com/",
-      "description": "We help data & risk enterprise teams get instant access to news and events from over 40,000 news sources. \r\n\r\nOur main product is a News API to search through an indexed database of online-published news articles in near real-time.\r\n\r\n\u201cHumans reading the news\u201d is not a scalable way for enterprises to analyse news, and it\u2019s expensive. We help enterprises shift the news consumption from just reading to integrating actionable signals into their internal workflow. ",
-      "one_liner": "News API for risk and data teams",
+      "description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about\u2014already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission\u2011critical events in seconds and keep them embedded in workflows for years.",
+      "one_liner": "We transform public web data into live signals that power search,\u2026",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 18,
+      "team_size": 25,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -3458,12 +3458,11 @@
       ],
       "regions": [
         "Ukraine",
-        "France",
         "Europe",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Kyiv, Ukraine; Paris, \u00cele-de-France, France; Remote",
+      "locations": "Kyiv, Ukraine; Remote",
       "tags": [
         "SaaS",
         "Enterprise",
@@ -3476,7 +3475,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1659698356.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c1d123b552beeb8e2869bfad1b5ff25b3b6689b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c238653d6d11d74bfeda7930d08d87818ac2d50f.png"
     },
     {
       "id": 26859,
@@ -8117,5 +8116,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-10-10T18:01:14.936917"
+  "fetched_at": "2025-10-11T00:02:41.646495"
 }
