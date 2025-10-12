@@ -1803,7 +1803,7 @@
       "name": "Koyal",
       "slug": "koyal",
       "website": "https://koyal.ai",
-      "description": "Koyal is an Audio to Video Platform that allows you to seamlessly convert audio into personalized, visually compelling stories. We\u2019re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We\u2019ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nWe currently have 7 paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world\u2019s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
+      "description": "Koyal is an Audio to Video Filmmaking Platform that allows you to seamlessly convert audio into personalized, visually compelling stories. We\u2019re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We\u2019ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nAnnouncement: https://x.com/meh_agarwal/status/1965866965425348687\r\nDemo: https://x.com/meh_agarwal/status/1965137062119752099\r\n\r\n\r\nWe currently have paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world\u2019s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
       "one_liner": "Personalized Audio to Video Filmmaking",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2072,7 +2072,7 @@
       "name": "Zavo",
       "slug": "zavo",
       "website": "https://zavopay.com/home",
-      "description": "Zavo is the first AI-native platform for in-person commerce.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, giving every restaurant and retail business its own Ai workforce.\r\n\r\nZavo already powers 450+ small and medium-sized businesses.\r\n\r\nThe future of in-person commerce is autonomous, and Zavo is building it.",
+      "description": "Zavo is the first AI-native platform for in-person commerce.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, giving every restaurant and retail business its own Ai workforce.\r\n\r\nWe started Zavo in May 2025, currently over 400 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\nThe future of in-person commerce is autonomous, and Zavo is building it.",
       "one_liner": "Agentic Point of Sale for restaurants and retail.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2092,7 +2092,8 @@
         "Artificial Intelligence",
         "Fintech",
         "Payments",
-        "B2B"
+        "B2B",
+        "Restaurant Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2438,5 +2439,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-12T12:01:17.323185"
+  "fetched_at": "2025-10-12T18:01:05.982969"
 }
