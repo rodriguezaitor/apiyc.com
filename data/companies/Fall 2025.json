@@ -1083,7 +1083,7 @@
       "slug": "compyle",
       "website": "https://compyle.ai",
       "description": "Compyle is a less autonomous coding agent that asks before it acts. We're like Cursor or Claude Code - but you won't need to rewrite your codebase every time you use it for more than a small task.\r\n\r\nWe built Compyle because we were frustrated with the direction other coding agents are headed. They're all racing to be more autonomous, running for hours without human input.\r\n\r\nThis doesn't work for real production code. When agents run autonomously, they make countless small decisions that pile up in your codebase. Engineers lose ownership - they don't know what was implemented, can't effectively debug or maintain it, and struggle to build on top of it. The code becomes a black box, and they're forced to throw it away.\r\n\r\nCompyle keeps engineers in the driver's seat.",
-      "one_liner": "Lovable for software engineering",
+      "one_liner": "Lovable for Software Engineers",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2072,8 +2072,8 @@
       "name": "Zavo",
       "slug": "zavo",
       "website": "https://zavopay.com/home",
-      "description": "Zavo is the first AI-native platform for in-person commerce.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless system, giving every restaurant and retail business its own Ai workforce.\r\n\r\nZavo already powers 450+ small and medium-sized businesses.\r\n\r\nThe future of in-person commerce is autonomous, and Zavo is building it.",
-      "one_liner": "Agentic point of sale for restaurants and retail.",
+      "description": "Zavo is the first AI-native platform for in-person commerce.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, giving every restaurant and retail business its own Ai workforce.\r\n\r\nZavo already powers 450+ small and medium-sized businesses.\r\n\r\nThe future of in-person commerce is autonomous, and Zavo is building it.",
+      "one_liner": "Agentic Point of Sale for restaurants and retail.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 8,
@@ -2089,10 +2089,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2438,5 +2438,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-11T18:01:15.377466"
+  "fetched_at": "2025-10-12T00:03:01.231761"
 }
