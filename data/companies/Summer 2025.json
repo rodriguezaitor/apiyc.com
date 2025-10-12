@@ -3992,7 +3992,7 @@
       "name": "Herdora",
       "slug": "herdora",
       "website": "https://www.herdora.com",
-      "description": "Herdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload.\r\n\r\nWe're an inference cloud for enterprises. We optimize the specific models you already run in production, or help you onboard a better one. You bring us your model, we serve back a better version for faster and cheaper. Same quality. 2-10x the speed. Fraction of the cost.\r\n\r\nWe focus on non-text modalities, like video, audio, and images. The stuff with strict latency / throughput requirements.\r\n\r\nEvery optimized deployment teaches us more about efficient inference. The techniques that work for one customer's voice model often generalize. We're building toward a future where you can run 100,000x more intelligence on the same hardware. \r\n\r\nThe companies that win in AI will be the ones that can run intelligence efficiently enough to put it everywhere. That's the infrastructure layer we're building.",
+      "description": "Herdora is building the inference layer for mission-critical AI workloads. We provide scalable compute, optimized inference engines, intelligent routing and autoscaling, real-time observability, and kernel-level performance optimizations, with strict SLAs and white-glove support. \r\n\r\nHerdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload.\r\n\r\nWe focus on serving enterprises that need the best performance and reliability in the world while keeping control and visibility. They bring their model to Herdora, and we serve back an optimized version. Same quality, 2-10x the speed, fraction of the cost, and strict SLOs. ",
       "one_liner": "Fast AI Inference",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4009,7 +4009,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5525,5 +5525,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-12T00:02:55.476978"
+  "fetched_at": "2025-10-12T06:01:13.618639"
 }
