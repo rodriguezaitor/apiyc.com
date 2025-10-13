@@ -3307,10 +3307,10 @@
       "slug": "tergle",
       "website": "https://tergle.com",
       "description": "Tergle builds AI to replace Auditors. ",
-      "one_liner": "AI agents for Audit",
+      "one_liner": "AI Agents for Audit",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": null,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3318,9 +3318,10 @@
         "Finance and Accounting"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
@@ -5362,5 +5363,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-12T18:01:05.155863"
+  "fetched_at": "2025-10-13T00:02:59.163241"
 }

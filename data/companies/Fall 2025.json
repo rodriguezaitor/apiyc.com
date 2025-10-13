@@ -910,8 +910,8 @@
       "name": "Leadbay",
       "slug": "leadbay",
       "website": "https://leadbay.ai/",
-      "description": "We unlock untapped revenue for sales teams targeting fragmented, data-scarce SMB markets \u2014 like construction, hospitality, startups, and retail.\r\n\r\nYou might think that LinkedIn Sales Nav, Clay, ZoomInfo, or Apollo have you covered. They don\u2019t. They miss 70% of U.S. companies and capture only 0.001% of digital signals or intent. We\u2019re already working with enterprise clients who 5\u00d7 their efficiency by simply unlocking these hidden opportunities in the most data-scarce, fragmented markets.\r\n\r\nHow does it look like?\r\nUpload a list of won/lost leads. That\u2019s it. \r\nLeadbay understands your Ideal Customer Profile, discovers untapped opportunities in your market, and scores your existing dormant accounts. Every day, you\u2019ll receive fresh, high-value prospects right in your mobile or desktop app.\r\n\r\nWe make invisible companies visible.",
-      "one_liner": "Leadbay discovers and qualifies SMB leads others can\u2019t find.",
+      "description": "We unlock untapped revenue for sales teams targeting fragmented, data-scarce SMB markets \u2014 like construction, hospitality, startups, and retail.\r\n\r\nYou might think that LinkedIn Sales Nav, Clay, ZoomInfo, or Apollo have you covered. They don\u2019t. They miss 70% of U.S. companies and capture only 0.001% of digital signals or intent. We\u2019re already working with enterprise clients who 5\u00d7 their prospecting efficiency by simply unlocking hidden opportunities in the most data-scarce, fragmented markets.\r\n\r\nHow does it look like?\r\nUpload a list of won/lost leads. That\u2019s it. \r\nLeadbay understands your Ideal Customer Profile, discovers untapped opportunities in your market, and scores your existing dormant accounts. Every day, you\u2019ll receive fresh, high-value prospects right in your mobile or desktop app.\r\n\r\nWe make invisible companies visible.",
+      "one_liner": "Discover and qualify SMB leads others can\u2019t find.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 8,
@@ -1377,7 +1377,7 @@
       "name": "SF Tensor",
       "slug": "sf-tensor",
       "website": "https://sf-tensor.com",
-      "description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
+      "description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
       "one_liner": "Infrastructure for AI labs to focus on research.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1394,10 +1394,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Open Source",
-        "Cloud Computing"
+        "Cloud Computing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2439,5 +2439,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-12T18:01:05.982969"
+  "fetched_at": "2025-10-13T00:03:03.101841"
 }

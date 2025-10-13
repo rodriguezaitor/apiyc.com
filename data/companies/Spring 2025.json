@@ -2456,7 +2456,7 @@
       "one_liner": "AI Agents for Research",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -2469,10 +2469,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sales",
         "Sales Enablement",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2483,34 +2483,35 @@
     },
     {
       "id": 30463,
-      "name": "Odapt",
-      "slug": "odapt",
-      "website": "https://odapt.ai/",
-      "description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops\u2014all without writing a line of code. With AI, we\u2019re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford\u2019s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup.\r\n\r\n",
-      "one_liner": "How great teams build internal software & agent workflows",
+      "name": "Tegore",
+      "slug": "tegore",
+      "website": "https://tegore.ai/",
+      "description": "Tegore follows K-12 school curriculum to design courses like Algebra I & Algebra II. In addition to working with high schools in the Bay Area to design the best in-classroom experiences, Tegore is developing the corresponding consumer product - simple way to think about it is: Duolingo but for Algebra.\r\n\r\nEach lesson in Tegore follows a lesson plan (e.g. Polynomial Long Division), and the content is delivered with voice / interactive visuals, and checks students' understanding by using dialectic teaching.",
+      "one_liner": "conversational & personalized AI teacher to help with K-12 learning",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
+      "team_size": 2,
+      "industry": "Education",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "Education"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Consumer",
-        "B2B",
-        "AI"
+        "Artificial Intelligence",
+        "Education",
+        "Consumer"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747781122.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2f24b1c7b6bbdf8a99fe8b78b57ddfafeab69d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d196de4608bb9b987f4f42bb705af43c038b6069.png"
     },
     {
       "id": 30462,
@@ -4606,5 +4607,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-12T18:01:05.289148"
+  "fetched_at": "2025-10-13T00:02:59.756330"
 }

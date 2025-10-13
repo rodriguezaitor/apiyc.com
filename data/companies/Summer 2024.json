@@ -3245,8 +3245,8 @@
       "id": 29769,
       "name": "Pinnacle",
       "slug": "pinnacle",
-      "website": "https://trypinnacle.app/",
-      "description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages. For example, developers can create messages that show products that can be purchased with one tap natively on iOS and Android.\r\n\r\nIf you're currently using SMS from Twilio, etc, and you don't want to leave money on the table, get in touch with us - founders@trypinnacle.app with subject \"YCBIO\". \r\n\r\nIf you're a YC company, we'll get you a free founders mode\u2122\ufe0f hat, 1000 free msgs/mo + 24/7 real founder mode\u2122\ufe0f support when you switch to us.",
+      "website": "https://pinnacle.sh/",
+      "description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages.",
       "one_liner": "API & SDK for RCS (the next-generation of texting)",
       "batch": "Summer 2024",
       "status": "Active",
@@ -8283,5 +8283,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-12T18:01:04.383788"
+  "fetched_at": "2025-10-13T00:02:56.243910"
 }
