@@ -564,8 +564,8 @@
       "name": "LineWise",
       "slug": "linewise",
       "website": "https://www.linewise.io/",
-      "description": "LineWise is building an AI assistant for manufacturing teams to diagnose and resolve production issues, from defects to breakdowns. \r\n\r\nIt mines machine manuals, historical incidents, and maintenance notes to rank likely root causes and provide step-by-step guidance to fix them. As technicians work through the steps and confirm outcomes, LineWise learns from every fix, turning each repair into a reusable playbook and recommending preventive actions to reduce future downtime.",
-      "one_liner": "AI Agent to troubleshoot manufacturing issues",
+      "description": "LineWise is building an AI assistant for manufacturing teams to operate and resolve production issues, from defects to breakdowns. \r\n\r\nLineWise automatically extracts frontline know-how from live video recordings, turning them into structured SOPs and training guides. It also ingests generated SOPs, machine manuals, and past breakdown logs to suggest the most probable root causes when issues occur. \r\n\r\nOperators receive step-by-step guided troubleshooting, and as they confirm outcomes, LineWise learns from each resolution - converting every fix into a reusable playbook and proactively recommending preventive actions to cut future downtime.",
+      "one_liner": "AI platform to train frontline workers to operate and fix issues",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 5,
@@ -4609,5 +4609,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-14T06:01:13.531688"
+  "fetched_at": "2025-10-14T12:01:19.166336"
 }

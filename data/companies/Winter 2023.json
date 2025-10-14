@@ -588,11 +588,11 @@
     },
     {
       "id": 28303,
-      "name": "Prompt",
-      "slug": "prompt-2",
-      "website": "https://promptbidder.com",
-      "description": "Prompt partners with over ten thousand publishers to find you ad space on websites considered highly authoritative by ChatGPT.\r\n\r\nYour products get shown to millions of high-intent consumers, who are already in the middle of the buying process.",
-      "one_liner": "Advertise on Prompts.",
+      "name": "Social Radar",
+      "slug": "social-radar",
+      "website": "https://socialradar.app",
+      "description": "Social Radar is the absolute best way to search for social media content. We support BDRs, sales teams, recruiters, marketing, and more. ",
+      "one_liner": "Social Radar is the best way to search for posts, people, and\u2026",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 3,
@@ -613,7 +613,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1674851057.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/efb8f8677bee05394c4256f97572e629382ea106.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df878962ed9cb02c09cd52208ecb6116d97c7c3a.png"
     },
     {
       "id": 28301,
@@ -2913,11 +2913,11 @@
       "name": "Alaan",
       "slug": "alaan",
       "website": "https://www.alaan.com/",
-      "description": "Alaan is an AI-powered expense management platform for businesses in the Middle East. We help businesses instantly issue corporate cards for employees, control their spending, and automate receipts. \r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We have grown rapidly and now work with over 500 startups, mid-market, and enterprise customers across various industries, doing tens of millions of dollars in payment volume. We've been default alive since our launch in August 2022 (9x net revenue growth in 2023, 6x in 2024).\r\n\r\nCheck out alaan.com/careers if you want to join us!",
-      "one_liner": "AI-powered expense management platform for businesses in the Middle\u2026",
+      "description": "Alaan is an AI-powered finance platform for businesses in the Middle East. We help businesses instantly issue corporate cards for employees, control their spending, and automate workflows. \r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We have grown rapidly and now work with over 2000 startups, mid-market, and enterprise customers across various industries, doing tens of millions of dollars in payment volume. We've been default alive since our launch in August 2022 (9x net revenue growth in 2023, 6x in 2024), and raised one of the largest Series A rounds in the history of the Middle East backed by Peak XV (formerly Sequoia India). \r\n\r\nCheck out alaan.com/careers if you want to join us!",
+      "one_liner": "Modern finance platform for the Middle East",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 120,
+      "team_size": 160,
       "industry": "Fintech",
       "subindustry": "Fintech -> Payments",
       "industries": [
@@ -2926,9 +2926,7 @@
       ],
       "regions": [
         "United Arab Emirates",
-        "Middle East and North Africa",
-        "Remote",
-        "Partly Remote"
+        "Middle East and North Africa"
       ],
       "locations": "Dubai, Dubai, United Arab Emirates",
       "tags": [
@@ -9363,5 +9361,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-10-14T06:01:09.561093"
+  "fetched_at": "2025-10-14T12:01:18.249973"
 }

@@ -11092,7 +11092,7 @@
       "name": "Strac",
       "slug": "strac",
       "website": "https://www.strac.io/",
-      "description": "Strac is an agentless Data Discovery (aka DSPM - Data Security Posture Management) & DLP (Data Leak Prevention) that automatically discovers, classifies and remediates sensitive data (alert, label, redact, mask, block, delete). \r\n\r\nStrac protects SaaS, Cloud, Gen AI and Endpoints like O365, Slack, GDrive, AWS, Salesforce, ChatGPT, Jira, Mac, Zendesk, and 40+ integrations. \r\n\r\nStrac protects enterprise companies like UiPath, ThredUP, Nylas, Crypto (dot) com!",
+      "description": "Strac is an agentless Data Discovery (aka DSPM - Data Security Posture Management), Data Classification & DLP (Data Leak Prevention) that automatically discovers, classifies and remediates sensitive data (alert, label, redact, mask, block, delete). \r\n\r\nStrac protects SaaS, Cloud, Gen AI, Browsers, On-Prem and Endpoints like O365, Slack, GDrive, AWS, Salesforce, ChatGPT, Jira, Mac, Zendesk, Azure, On-Prem (On-Prem, MS SQL SAP) and 40+ integrations. \r\n\r\nStrac protects enterprise companies like UiPath, Databricks, thredUP, B Capital, Crypto (dot) com!",
       "one_liner": "Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints",
       "batch": "Winter 2022",
       "status": "Active",
@@ -11107,15 +11107,15 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Bellevue, WA, USA; Remote",
+      "locations": "Bellevue, WA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
         "Security",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13856,5 +13856,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-10-14T06:01:08.471809"
+  "fetched_at": "2025-10-14T12:01:17.959941"
 }
