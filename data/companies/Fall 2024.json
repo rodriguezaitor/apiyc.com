@@ -2277,8 +2277,8 @@
       "name": "Raycaster",
       "slug": "raycaster",
       "website": "https://raycaster.ai",
-      "description": "Raycaster is the enterprise AI engine for life sciences providers. Teams at Agilent, Yokogawa, and others use it to grow revenue, accelerate R&D, and speed regulatory and legal research - advancing their Industry 4.0 initiatives with a well-trusted partner.",
-      "one_liner": "Enterprise AI for life sciences providers",
+      "description": "Raycaster is the enterprise AI engine for life sciences. From speeding up regulatory approval and manufacturing tech transfer, Raycaster advances the Industry 4.0 initiatives with world's leading life sciences companies. ",
+      "one_liner": "Enterprise AI for life sciences",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 3,
@@ -2296,10 +2296,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Biotech",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3014,5 +3014,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-10-14T00:02:41.068965"
+  "fetched_at": "2025-10-14T06:01:15.841132"
 }

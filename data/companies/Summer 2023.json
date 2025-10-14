@@ -3474,7 +3474,7 @@
       "slug": "metalware",
       "website": "https://www.metalware.com/",
       "description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
-      "one_liner": "Cybersecurity for firmware",
+      "one_liner": "Firmware cybersecurity",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 4,
@@ -3482,7 +3482,7 @@
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Security"
       ],
       "regions": [
         "United States of America",
@@ -3490,11 +3490,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
+        "DevSecOps",
         "Hardware",
+        "GovTech",
         "Cybersecurity",
-        "Enterprise",
-        "AI"
+        "Enterprise"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7382,5 +7382,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-14T00:02:40.087519"
+  "fetched_at": "2025-10-14T06:01:11.336598"
 }

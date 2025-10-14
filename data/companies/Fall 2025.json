@@ -4,7 +4,7 @@
       "id": 31013,
       "name": "Rivet",
       "slug": "rivet-design",
-      "website": "https://www.tryrivet.design/",
+      "website": "https://rivet.design/",
       "description": "Rivet is a visual tool that sits above a codebase. It's a bridge that lets product designers own any UI change to the software they work on. \r\n\r\nDesigners use Rivet today to shortcut painful design handoffs and just make any visual change themselves. This saves time for designers and engineers and makes it radically easier to build software with great design and taste. \r\n\r\nThis becomes the next design tool because it lets designers break out of static tools and prototype like frontend engineers.  Use real components from your existing codebase to design remarkably complex interactions, and then ship it yourself.  ",
       "one_liner": "Rivet helps product designers change software without coding.",
       "batch": "Fall 2025",
@@ -2084,16 +2084,18 @@
         "Payments"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Restaurant Tech",
-        "AI"
+        "Restaurant Tech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2439,5 +2441,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-14T00:02:41.281287"
+  "fetched_at": "2025-10-14T06:01:16.801832"
 }

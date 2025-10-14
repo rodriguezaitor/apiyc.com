@@ -1569,7 +1569,7 @@
         "Enterprise Software"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710175582.0,
@@ -6318,8 +6318,8 @@
       "name": "Buster",
       "slug": "buster",
       "website": "http://buster.so",
-      "description": "Turn your dbt project into an AI data analyst.\r\n\r\nBuster is an open-source platform for deploying AI data analysts - empowering everyone at your company to explore data on their own.",
-      "one_liner": "Open source AI data analysts",
+      "description": "Buster is an AI agent platform built for analytics engineering. It provides data teams with AI agents that keep their dbt projects reliable, documented, and consistent \u2014 automatically.",
+      "one_liner": "AI platform for analytics engineering",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 3,
@@ -8253,5 +8253,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
     }
   ],
-  "fetched_at": "2025-10-14T00:02:39.770128"
+  "fetched_at": "2025-10-14T06:01:10.296593"
 }
