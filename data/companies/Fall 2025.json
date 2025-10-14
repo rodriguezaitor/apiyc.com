@@ -511,7 +511,7 @@
       "slug": "metorial",
       "website": "https://metorial.com",
       "description": "Metorial is Vercel for MCP. Our serverless MCP runtime comes with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to APIs and data sources at scale.",
-      "one_liner": "Lovable for MCP.",
+      "one_liner": "Vercel for MCP",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -568,6 +568,39 @@
       "is_top_company": false,
       "launched_at": 1759705278.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed843493a1f155b6b3563dc2e5494c78ea6cdaa0.png"
+    },
+    {
+      "id": 30958,
+      "name": "Absurd",
+      "slug": "absurd",
+      "website": "https://tryabsurd.com/",
+      "description": "Absurd (YC F25) makes absurd AI launch videos. Their first launch video hit 450K+ views on X.\r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+      "one_liner": "Absurd AI Video Ads",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Video",
+        "Advertising"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760446134.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png"
     },
     {
       "id": 30954,
@@ -1009,6 +1042,43 @@
       "is_top_company": false,
       "launched_at": 1760045430.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c9246b8eba5ba12a7373a930ea46cc687dddb98.png"
+    },
+    {
+      "id": 30925,
+      "name": "Play Health",
+      "slug": "play-health",
+      "website": "http://playhealth.com",
+      "description": "Play Health is a perimenopause health platform redefining midlife care for women.\u00a0\r\n\r\nDespite affecting over 30 million women in the U.S. alone, perimenopause remains one of the most overlooked stages in women\u2019s health. The science is complex, the data is sparse, and most existing solutions are either too generic or too narrow to deliver meaningful insights. Women are left navigating life-altering symptoms with little guidance and few tools built specifically for them. Play Health changes that. We combine personalized tracking, at-home hormone testing, and AI-driven analytics to deliver actionable, data-first insights, and build the most advanced longitudinal dataset in perimenopause to date. This unlocks improved health today and enables the discovery of new diagnostics, therapeutics, and standards of care for tomorrow.\r\n\r\nPlay Health is led by successful, second-time, YC founders Andrea Mazzocchi and Ian Miller, with an exit and a unicorn between them.",
+      "one_liner": "Perimenopause health platform redefining women's midlife care",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Boulder, CO, USA",
+      "tags": [
+        "Biometrics",
+        "Biotech",
+        "Digital Health",
+        "Health & Wellness",
+        "Women's Health"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760457684.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/29eb0f5753137c426de6bf374fee2c8296e363cb.png"
     },
     {
       "id": 30924,
@@ -2441,5 +2511,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-14T12:01:19.820020"
+  "fetched_at": "2025-10-14T18:01:27.221955"
 }
