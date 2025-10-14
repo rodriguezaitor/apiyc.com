@@ -13,11 +13,11 @@
     "B2B -> Retail": 126,
     "Consumer": 125,
     "Education": 124,
+    "B2B -> Finance and Accounting": 121,
     "B2B -> Sales": 121,
     "Consumer -> Social": 121,
     "Healthcare -> Healthcare IT": 121,
-    "B2B -> Finance and Accounting": 120,
-    "Fintech -> Payments": 119,
+    "Fintech -> Payments": 118,
     "Consumer -> Content": 116,
     "Healthcare -> Consumer Health and Wellness": 116,
     "B2B -> Security": 102,
@@ -59,5 +59,5 @@
     "Industrials -> Drones": 19,
     "Consumer -> Job and Career Services": 16
   },
-  "fetched_at": "2025-10-13T18:01:18.928994"
+  "fetched_at": "2025-10-14T00:02:42.254547"
 }

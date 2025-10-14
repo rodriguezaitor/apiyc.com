@@ -1838,7 +1838,7 @@
       "name": "Soren",
       "slug": "soren",
       "website": "https://soren-ai.com",
-      "description": "Vertical AI needs vertical evals.\r\n\r\nIf you\u2019re struggling to build evals that actually work for your specific vertical and workflow, I\u2019d love to hear from you. ",
+      "description": "Vertical AI needs vertical evals.\r\n\r\nVertical AI applications are rapidly being adopted in real-world workflows. Yet there\u2019s still no good way to rigorously evaluate their performance -- especially on complex, multi-step workflows.\r\n\r\nSoren AI helps teams curate high-quality datasets and benchmarks and provides the infrastructure to run these evaluations end to end.\r\n\r\nIf you want to make your AI more reliable, book a time at: https://soren-ai.com/",
       "one_liner": "Domain-specific evals for your vertical AI",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1854,11 +1854,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2174,8 +2174,8 @@
       "name": "Structured AI",
       "slug": "structured-ai",
       "website": "https://www.getstructured.ai/",
-      "description": "Structured AI builds AI-powered tools to automate repetitive workflows and make collaboration between different pre-construction engineering teams seamless.",
-      "one_liner": "AI co-pilot for pre-construction design engineering",
+      "description": "Structured AI understands building codes, standards, drawing, and project requirements to generate and update the technical documents that normally take weeks to complete. Its AI agents live inside software tools like Revit, Word, Excel, and SharePoint that mechanical, electrical, civil, and structural engineers already use. \r\n",
+      "one_liner": "Agentic AI workforce for pre-construction design engineering",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2190,11 +2190,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Construction",
         "B2B",
         "Workflow Automation",
-        "Architecture"
+        "Architecture",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2374,7 +2374,7 @@
       "slug": "fernstone",
       "website": "https://www.fernstone.com",
       "description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40K insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. Bryant, James\u2019 classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
-      "one_liner": "Insurance for businesses.",
+      "one_liner": "AI-powered insurance brokerage for businesses.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2390,9 +2390,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2439,5 +2439,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-13T18:01:15.105511"
+  "fetched_at": "2025-10-14T00:02:41.281287"
 }

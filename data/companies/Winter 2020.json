@@ -389,7 +389,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1598041442.0,
@@ -6020,8 +6020,8 @@
       "name": "Syncro",
       "slug": "syncro",
       "website": "https://runsyncro.com/",
-      "description": "Use Syncro to align your internal comms, operational workflows, and knowledge sharing. Run operational and cultural practices that evolved during the scaling of Stripe, Gitlab, and Zapier.",
-      "one_liner": "Zapier for scaling high-touch talent management",
+      "description": "",
+      "one_liner": "Intelligence layer for internal communications and culture",
       "batch": "Winter 2020",
       "status": "Inactive",
       "team_size": 1,
@@ -7753,5 +7753,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
     }
   ],
-  "fetched_at": "2025-10-13T18:01:10.158612"
+  "fetched_at": "2025-10-14T00:02:39.937494"
 }

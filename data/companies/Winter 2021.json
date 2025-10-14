@@ -291,11 +291,11 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "Palo Alto, CA, USA; San Francisco, CA, USA",
+      "locations": "Palo Alto, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -922,7 +922,7 @@
       "id": 23530,
       "name": "Waydev",
       "slug": "waydev",
-      "website": "https://waydev.co",
+      "website": "https://waydev.co/ai",
       "description": "Waydev AI is the first conversational platform for engineering, helping you measure productivity, track AI\u2019s impact, and guide your teams with data-backed confidence.",
       "one_liner": "The AI-Native Engineering Intelligence Platform ",
       "batch": "Winter 2021",
@@ -942,8 +942,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "B2B",
-        "Analytics",
+        "AI-Enhanced Learning",
+        "Artificial Intelligence",
         "Enterprise",
         "Data Engineering",
         "AI Assistant"
@@ -11536,5 +11536,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-10-13T18:01:08.436701"
+  "fetched_at": "2025-10-14T00:02:39.498877"
 }

@@ -3767,7 +3767,7 @@
       "name": "Cua",
       "slug": "cua",
       "website": "https://cua.ai",
-      "description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "one_liner": "Docker for Computer-use Agents",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3782,7 +3782,9 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Open Source"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4607,5 +4609,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-13T18:01:12.313332"
+  "fetched_at": "2025-10-14T00:02:40.576919"
 }
