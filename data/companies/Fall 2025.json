@@ -574,7 +574,7 @@
       "name": "Absurd",
       "slug": "absurd",
       "website": "https://tryabsurd.com/",
-      "description": "Absurd (YC F25) makes absurd AI launch videos. Their first launch video hit 450K+ views on X.\r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+      "description": "Absurd (YC F25) makes absurd AI launch videos. The first launch video we made hit 450K+ views on X.\r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
       "one_liner": "Absurd AI Video Ads",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2405,6 +2405,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4de93d98f1b8527c604be262e822c712d1111f44.png"
     },
     {
+      "id": 30828,
+      "name": "Semiotic",
+      "slug": "semiotic",
+      "website": "http://semiotic.so",
+      "description": "Semiotic is an AI\u2011native design firm built to deliver human\u2011quality work at a significantly higher speed and scale than traditional design agencies. \r\n\r\nWe\u2019re starting with landing pages for fast\u2011growing startups. AI website builders didn't make creating websites easier\u2014they made creating ugly websites easier. So, companies choose between blue-purple gradient slop or firms with 3-month waitlists and $100k minimums.\r\n\r\nWe\u2019re building taste at scale to solve both. Our AI agents span art direction, design research, and execution\u2014so you iterate at the pace of your ambition.\r\n\r\nStart a project: semiotic.so",
+      "one_liner": "AI design firm",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Design"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760501936.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4bdfd8767934d0004a0927458374ac99619350f.png"
+    },
+    {
       "id": 30812,
       "name": "Mixy",
       "slug": "mixy",
@@ -2543,5 +2575,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-15T00:02:59.043781"
+  "fetched_at": "2025-10-15T06:01:15.189636"
 }
