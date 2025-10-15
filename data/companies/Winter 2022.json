@@ -10461,11 +10461,11 @@
       "name": "Tr\u00e9bol",
       "slug": "trebol",
       "website": "https://gotrebol.com/",
-      "description": "Trebol saves business' banks and lenders from parsing thousands of documents. With an API and tools for developers and legal ops teams Tr\u00e9bol helps onboard businesses in minutes instead of weeks.",
+      "description": "Tr\u00e9bol provides the document AI infrastructure for modern financial services - from KYB to mortgage underwriting - turning weeks of manual processing into minutes.",
       "one_liner": "Business onboarding automation for banks and lenders in Latin America",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 14,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -10483,11 +10483,11 @@
         "Fintech",
         "SaaS",
         "B2B",
-        "API",
+        "Legal",
         "Enterprise"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1642535849.0,
@@ -13856,5 +13856,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-10-15T12:01:25.132529"
+  "fetched_at": "2025-10-15T18:01:08.500826"
 }
