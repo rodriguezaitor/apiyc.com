@@ -4130,7 +4130,7 @@
       "id": 30207,
       "name": "Promptless",
       "slug": "promptless",
-      "website": "https://gopromptless.ai/",
+      "website": "https://promptless.ai/",
       "description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible\u2014it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
       "one_liner": "An AI teammate that automatically updates your customer-facing docs",
       "batch": "Winter 2025",
@@ -4148,11 +4148,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5363,5 +5363,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-14T18:01:23.421553"
+  "fetched_at": "2025-10-15T00:02:55.888640"
 }

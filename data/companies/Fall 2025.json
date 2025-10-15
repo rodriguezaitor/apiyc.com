@@ -803,6 +803,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1456a0cab6aece2240abb581d153d9212c6dd68.png"
     },
     {
+      "id": 30943,
+      "name": "Aside",
+      "slug": "aside",
+      "website": "https://asidehq.com/",
+      "description": "Aside is an AI agent that gives sales reps suggestions during sales calls: what to ask, how to answer, and when to push for next steps.\r\n- Real-time suggestion: Guides reps live on calls with tailored prompts- what to ask, how to answer, and when to push.\r\n- Sub-second search from technical docs: surfaces precise answers from docs, Slack, CRM, and past calls in under 500ms.\r\n- AI notetaking: captures call highlights automatically, so reps focus on selling, not typing.\r\n- Shared memory: learns from every deal- remembers what worked and replays it as suggestions in future calls.\r\n\r\nTech sales requires expensive coaching. Teams spend 1.5 hours per week and $2,000 per rep each year on tools like AI notetakers and LMS. Enterprises like AWS and Oracle require internal exams and hire solution engineers for $200K+ to answer technical questions. But these don\u2019t solve the problem: reps still repeat mistakes, miss answers, and deals stall or fall through.\r\n\r\nAside eliminates the need for sales coaching. It surfaces the best answers from top reps\u2013pulled from Slack, HubSpot, and past calls\u2013in under 500ms. One of our users recovered a $100K deal after handling objections with a use case surfaced by Aside.",
+      "one_liner": "Sales call cheating AI for enterprise tech sales",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Sales"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760485553.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1a3f26d0bd680274ac79b86c097a6466e911d85.png"
+    },
+    {
       "id": 30940,
       "name": "Everest",
       "slug": "everest",
@@ -2511,5 +2543,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-14T18:01:27.221955"
+  "fetched_at": "2025-10-15T00:02:59.043781"
 }
