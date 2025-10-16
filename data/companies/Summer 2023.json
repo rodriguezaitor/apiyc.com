@@ -4951,11 +4951,11 @@
     },
     {
       "id": 28836,
-      "name": "SOL",
-      "slug": "sol",
+      "name": "CORE",
+      "slug": "heysol",
       "website": "https://heysol.ai/",
-      "description": "SOL is your unified command center for tasks, coding, and alerts\u2014powered by CORE memory that adapts to your style and workflow.\r\n\r\nIt brings together your work from Slack, GitHub, Linear, and Gmail, delivering AI-powered assistance that gets smarter with every interaction.",
-      "one_liner": "Your AI Personal Assistant for daily focus",
+      "description": "CORE is an open-source unified, persistent memory layer for all your AI tools. Your context follows you from Cursor to Claude to ChatGPT to Claude Code. One knowledge graph remembers who said what, when, and why. Connect once, remember everywhere. Stop managing context and start building.",
+      "one_liner": "Build your personal memory system to power your AI apps.",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -4971,17 +4971,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687596955.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9a8cad6a65c7427fbc1ed42b8409c70bc0ef599.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0fae4f448de789e718cb96878197c7ecc29e2f.png"
     },
     {
       "id": 28835,
@@ -7382,5 +7382,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-16T06:01:11.715546"
+  "fetched_at": "2025-10-16T12:01:14.494186"
 }

@@ -868,6 +868,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png"
     },
     {
+      "id": 30939,
+      "name": "Expected Parrot",
+      "slug": "expected-parrot",
+      "website": "https://www.expectedparrot.com",
+      "description": "We help companies simulate their stakeholders and explore pricing, product, marketing, communications and other high-impact business decisions at scale. We have an open-source library and interactive applications for designing custom agents representing your target audiences and conducting interviews and surveys with them using LLMs of your choice to generate answers. Results are returned as detailed datasets with built-in analytical methods. Everything is cached and reproducible, and you can automatically send the same surveys to real human respondents to calibrate agents and validate answers at any time. You can use your own API keys for LLMs or get a unified key from E[P] that provides access to all available models and comes with $25 in credits for API calls to get started.",
+      "one_liner": "Simulate your stakeholders.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Cambridge, MA, USA",
+      "tags": [
+        "Generative AI",
+        "SaaS",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760614076.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb8df693185d3d01a607d26dc392fa6f5307be2a.png"
+    },
+    {
       "id": 30938,
       "name": "Imagine AI",
       "slug": "imagine-ai",
@@ -2678,5 +2712,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-16T06:01:16.755312"
+  "fetched_at": "2025-10-16T12:01:15.551039"
 }
