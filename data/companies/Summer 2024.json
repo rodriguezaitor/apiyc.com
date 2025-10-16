@@ -5739,7 +5739,7 @@
       "slug": "elevate-2",
       "website": "https://www.useelevate.dev/",
       "description": "Elevate is bringing AI to private equity-backed roll-ups. \r\n\r\nFor example, one of our customers is Guardian Restoration Partners, which is backed by Alpine Investors, the leading roll-up focused private equity firm. In three months, we integrated 10 acquisitions and enabled them to pilot AI agents built on top of our data warehouse. \r\n\r\nWe know this problem personally. Before Elevate, Scott was a Vice President at a $15B private equity firm where he was leading a roll-up. Steve and Jeff are both software engineers with backgrounds across finance, big tech, and start-ups. The founding team has been friends for over a decade from their Duke undergraduate days. ",
-      "one_liner": "AI data management for private equity-backed roll-ups",
+      "one_liner": "Automated AI data integrations for roll-ups",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -5757,13 +5757,13 @@
       "locations": "New York, NY, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Finance",
         "B2B",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1718146562.0,
@@ -8283,5 +8283,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-16T12:01:14.156786"
+  "fetched_at": "2025-10-16T18:01:09.526360"
 }
