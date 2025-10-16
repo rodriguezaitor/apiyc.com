@@ -355,7 +355,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753735109.0,
@@ -3147,19 +3147,12 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Hard Tech",
-        "Hardware",
-        "Robotics",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752184530.0,
@@ -3856,7 +3849,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, ticket management turns into chaos, requiring hundreds of human work hours just to keep things up-to-date and organized.\r\n\r\nJanet AI automatically creates, updates, triages, and resolves work items through integrations with your company's information channels, so you never manually have to, enabling teams to focus on what matters most.",
+      "description": "Janet AI is the intelligent ticket management system built for modern engineering teams.\r\n\r\nTicket management today is too manual. Context gets scattered. Information doesn\u2019t stay-up-to date. Systems get noisy.\r\n\r\nJanet AI automatically creates, updates, and organizes work items through integrations with your company\u2019s information channels, so you never manually have to.",
       "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5525,5 +5518,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-15T18:01:12.796018"
+  "fetched_at": "2025-10-16T00:02:57.535011"
 }
