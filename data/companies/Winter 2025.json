@@ -669,11 +669,11 @@
       "name": "Butter",
       "slug": "butter",
       "website": "https://butter.dev",
-      "description": "Butter is building Muscle Mem, an SDK for recording and deterministically replaying tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.\r\n",
-      "one_liner": "Behavioral Cache for Agents",
+      "description": "Butter is building an LLM proxy that records and deterministically replays tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.\r\n",
+      "one_liner": "Muscle Memory Cache for Agents",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -684,17 +684,13 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [
-        "Developer Tools",
-        "Generative AI",
-        "Cloud Computing"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737747738.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b64c400f904efc92ff7fbdaca3a66411ac4b795.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/616354db5e38ecd097137217ccbf16454422e9de.png"
     },
     {
       "id": 30334,
@@ -5363,5 +5359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-16T18:01:10.157415"
+  "fetched_at": "2025-10-17T00:02:42.436606"
 }
