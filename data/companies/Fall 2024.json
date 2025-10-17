@@ -1947,11 +1947,11 @@
     },
     {
       "id": 30050,
-      "name": "Circlemind",
-      "slug": "circlemind",
-      "website": "https://circlemind.co",
-      "description": "We make general AI agents that can complete tasks independently.\r\n\r\nOur first general agent is called Zero. It can complete tasks across internal tools and 300+ apps using MCP servers, such as Apollo, Slack, Gmail, Notion, etc. It can take over many self-contained tasks, giving your team longer legs to run faster. It runs entirely in the cloud. This means that you can have swarms of agents completing hundreds of tasks while you\u2019re focusing on what really matters.\r\n\r\nYou can connect Zero to the applications you use or your custom MCP servers, and then just give it any task and watch it work for you. Zero is engineered to think deeply, execute complex tasks, and even maintain a personalized memory of your interactions.\r\n\r\nA few notable features:\r\n- Built-in autonomy levels, permissions, guardrails, and human approvals\r\n- Custom instructions to teach Zero how to do things your way\r\n- Automations e.g. run a task every day or whenever I receive an email\r\n- Connect to your custom MCPs\r\n- Connect to 300+ apps with one-click integrations\r\n- Natively integrates deep research and browser use",
-      "one_liner": "Circlemind makes general AI agents",
+      "name": "Smooth",
+      "slug": "smooth",
+      "website": "https://smooth.sh",
+      "description": "Smooth is an AI browser agent that can perform actions autonomously on the web using mouse and keyboard. It\u2019s the most reliable browser agent yet, while also being 5 times faster, and 7 times cheaper than any other browser agent on the market.\r\n\r\n",
+      "one_liner": "Fast, simple, reliable AI browser agent",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2885,11 +2885,11 @@
     },
     {
       "id": 30014,
-      "name": "Verso",
-      "slug": "verso",
-      "website": "https://www.verso.trading",
+      "name": "Clarus",
+      "slug": "clarus",
+      "website": "https://www.clarus.finance",
       "description": "",
-      "one_liner": "The bloomberg terminal for prediction markets",
+      "one_liner": "LP clarity across private markets",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -2912,7 +2912,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731468857.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b6d0fa6059be13e9d526398ca7cd2da19eaa5e8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f17067469d8941e888938ae1ab75180ca2c2330.png"
     },
     {
       "id": 29577,
@@ -3014,5 +3014,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-10-17T12:01:25.676278"
+  "fetched_at": "2025-10-17T18:01:19.715918"
 }
