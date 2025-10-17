@@ -557,7 +557,7 @@
       "name": "Type",
       "slug": "type",
       "website": "https://type.ai",
-      "description": "Type.ai is an AI-native document editor designed for professional long-form writing. Type integrates powerful AI writing and editing features in a simple, familiar writing interface. It's built for writers who need greater control and precision in their work.",
+      "description": "Type.ai is an AI-native document editor designed for long-form professional writing. We make it 10x faster to write high-quality books, novels, essays, screenplays, and long-form content.",
       "one_liner": "The AI-first document editor.",
       "batch": "Winter 2023",
       "status": "Active",
@@ -574,10 +574,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Productivity",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -9361,5 +9361,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-10-17T00:02:41.613890"
+  "fetched_at": "2025-10-17T06:01:13.517822"
 }
