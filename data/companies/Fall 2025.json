@@ -157,16 +157,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Workflow Automation",
-        "Logistics"
+        "Logistics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759442158.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df62c31d1f06f7f601cc99ab5144b3d2e497c62e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e5614f0ff0430254c23e0743e5e0490fb5f826c.png"
     },
     {
       "id": 31004,
@@ -633,6 +633,40 @@
       "is_top_company": false,
       "launched_at": 1760446134.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png"
+    },
+    {
+      "id": 30956,
+      "name": "Automax.ai",
+      "slug": "automax-ai",
+      "website": "https://automax.ai",
+      "description": "Automax.ai makes property appraisals faster and more transparent. Our mobile app uses LiDAR and computer vision to capture property details automatically, and our custom-trained AI agents combine that data with all the analysis and aggregation required to to generate a complete appraisal report in minutes. The result is a clear, grounded valuation \u2014 done in under 20 minutes from start to finish.",
+      "one_liner": "AI Agents for automating real-estate appraisals",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Proptech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760729258.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f265caa416fd1f57b94ea1289947654c7e9e7877.png"
     },
     {
       "id": 30954,
@@ -2774,5 +2808,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-17T18:01:20.083190"
+  "fetched_at": "2025-10-18T00:02:49.564121"
 }

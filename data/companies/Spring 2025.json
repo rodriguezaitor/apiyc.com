@@ -3038,8 +3038,8 @@
       "name": "Mbodi AI",
       "slug": "mbodi-ai",
       "website": "https://www.mbodi.ai/",
-      "description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI, agent orchestration, and symbolic reasoning, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
-      "one_liner": "Embodied AI Platform for Industrial Robotics",
+      "description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+      "one_liner": "Make Industrial Robots Learn Like Humans",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -3055,9 +3055,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Robotics",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4609,5 +4609,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-17T18:01:16.508418"
+  "fetched_at": "2025-10-18T00:02:48.288328"
 }
