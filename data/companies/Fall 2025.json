@@ -335,6 +335,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b83cf59ad054e70425f43d0b88baf73e447920a.png"
     },
     {
+      "id": 30990,
+      "name": "Stratus Aviation",
+      "slug": "stratus-aviation",
+      "website": "https://getstratus.ai/",
+      "description": "Airports are among the most data-rich yet information-poor environments in transportation. Thousands of radio transmissions, aircraft movements, and sensor signals occur every second, but these systems remain siloed. Most airfields still rely on manual logs and calls to understand what\u2019s happening on the ground, creating blind spots that slow coordination and limit safety oversight.\r\n\r\nThe result is a growing safety and efficiency gap. The FAA records four to five runway incursions every day, and over 90% of air traffic control facilities are operating below target staffing levels. Despite $20 billion in modernization programs like NextGen and Safety Management Systems, airports still lack a unified data backbone that connects communication, movement, and intent across the airfield.\r\n\r\nStratus provides the missing layer of intelligence for airport and airside operations \u2014 unifying data, communication, and movement into one shared, real-time picture.\r\n\r\nFor airports, this means faster decisions, clearer accountability, and safer, more efficient operations.\r\nFor aviation as a whole, it\u2019s the foundation for connected, data-driven infrastructure that can finally keep pace with modern airside complexity.",
+      "one_liner": "AI-powered intelligence layer for airports",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760756123.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c24f40b3426f5f378633ddd8cefb5ba8536b8a07.png"
+    },
+    {
       "id": 30989,
       "name": "Bluma",
       "slug": "bluma",
@@ -408,8 +440,8 @@
       "name": "Freeport Markets",
       "slug": "freeport-markets",
       "website": "https://www.freeportmarkets.com/",
-      "description": "Freeport is the interfacing layer for DeFi investing, built for the next wave of long-term investors who want on-chain exposure without jargon, complexity, or fragmented workflows. By abstracting chains, assets, and variants into one position and layering in AI to replace the human intermediaries, Freeport captures the safe, mature, and economically essential sources of on-chain return for all its users. ",
-      "one_liner": "DeFi Wealth Management",
+      "description": "Freeport is the intelligence layer for DeFi investing, designed for onchain investors who want an easy way to gain smart exposure to risks that they can understand. It earns optimized yield on idle assets and builds diversified portfolios through a combination of human expertise and AI-driven guidance. The result is a simplified, interpretable, and personalized path to sustainable onchain returns. ",
+      "one_liner": "Intelligent DeFi Investment Platform",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -425,11 +457,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Crypto / Web3",
         "Investing",
-        "Consumer Finance",
-        "AI"
+        "Consumer Finance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2808,5 +2840,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-18T00:02:49.564121"
+  "fetched_at": "2025-10-18T06:01:09.603523"
 }
