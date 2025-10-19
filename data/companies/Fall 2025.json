@@ -457,11 +457,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Crypto / Web3",
         "Investing",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1805,7 +1805,7 @@
       "name": "Flick",
       "slug": "flick",
       "website": "https://flick.art",
-      "description": "Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick challenges the norm: most AI tools are technically driven, not built from a creator\u2019s perspective.\r\n\r\nOur mission is to build a tool designed for filmmakers, not engineers. Filmmakers shouldn\u2019t have to worry about the technical layer \u2014 they deserve full creative control, with their taste woven into every loop of the process.\r\n\r\nWe call it Flick \u2014 a word that means both film and a quick motion. To us, it captures what creativity should feel like: light, natural, and fast, not heavy or mechanical.\r\n\r\nJust like a flick of the hand or a flicker of light, great creators break conventions and let ideas flow effortlessly, using AI not as a shortcut but as a force to amplify imagination and visual storytelling.\r\n\r\nThat\u2019s the spirit behind everything we build.",
+      "description": "\r\nFlick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end.\r\n\r\nThere are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don\u2019t come close due to their lack of flexibility, creative control, and fragmented creative flow.\r\n\r\nFounded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking.\r\n\r\nThere are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week.\r\n\r\nWe are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their \u201cbehind-the-scenes\u201d workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content.\r\n\r\nThe whole film industry will be revolutionized by AI and our goal is to be \u201cthe product\u201d that defines this category.",
       "one_liner": "End-to-end AI filmmaking software.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2033,7 +2033,7 @@
       "name": "Tell if AI",
       "slug": "tell-if-ai",
       "website": "https://tellif.ai/",
-      "description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer 99% precision and recall at detecting whether that content was made or modified with AI and we can indicate precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
+      "description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer high precision and recall at detecting whether that content was made or modified with AI and we can sometimes say precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
       "one_liner": "Detect deepfakes and AI generated images, videos, and audio.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2049,11 +2049,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Deepfake Detection",
         "Computer Vision",
-        "Fraud Detection",
-        "AI"
+        "Fraud Detection"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2534,7 +2534,7 @@
         "Advertising"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759250646.0,
@@ -2840,5 +2840,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-18T18:01:13.730097"
+  "fetched_at": "2025-10-19T00:03:11.513993"
 }
