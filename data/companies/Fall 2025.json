@@ -506,6 +506,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png"
     },
     {
+      "id": 30978,
+      "name": "Miniswap",
+      "slug": "miniswap",
+      "website": "https://miniswap.gg/",
+      "description": "Miniswap makes it easier to buy and sell Warhammer minis.\r\n\r\nIn hobbies as complex as Warhammer, finding your next recruit on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from the chaos of general marketplaces with its catalogue of more than 8000 data-enriched authenticated SKUs. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.",
+      "one_liner": "The Marketplace for Tabletop Games",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketplace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760936665.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d8cd9731e5b803cf28ada75d13c38049717b0e.png"
+    },
+    {
       "id": 30965,
       "name": "Icarus",
       "slug": "icarus",
@@ -845,7 +876,8 @@
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Finance and Accounting"
       ],
       "regions": [
         "Unspecified"
@@ -2388,7 +2420,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758900227.0,
@@ -2571,8 +2603,8 @@
       "name": "Uplane",
       "slug": "uplane",
       "website": "https://uplane.com",
-      "description": "Uplane is the AI autopilot for performance marketing. Our AI platform creates ads, builds matching landing pages, and allocates budgets across Meta, Google, TikTok and more, all in real time. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Our model compounds: we charge a base fee plus 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.",
-      "one_liner": "AI autopilot for performance marketing.",
+      "description": "Uplane uses AI to automate digital advertising.\r\n\r\nUplane's AI platform creates thousands of ad campaigns with matching landing pages for each one, and allocates budgets across Meta, Google, TikTok and more. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.\r\n\r\nThe team has deep founder-market fit: Julius managed a 7-digit monthly ad budget at one of the biggest ad spenders in Europe; Marvin has an academic background in Data Science (Imperial, Harvard) and led growth analytics & operations at a unicorn; Lukas was Head of Engineering at two YC startups, Blair (S19) and Fastgen (W23).",
+      "one_liner": "AI autopilot for digital advertising",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 6,
@@ -2588,10 +2620,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Advertising"
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2900,5 +2932,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-20T00:02:59.430572"
+  "fetched_at": "2025-10-20T06:01:18.654938"
 }
