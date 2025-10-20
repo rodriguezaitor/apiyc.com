@@ -833,6 +833,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1c937f26cf2f7d07e3a562baef0a61677eff7cb.png"
     },
     {
+      "id": 30949,
+      "name": "Crunched",
+      "slug": "crunched",
+      "website": "https://usecrunched.com/",
+      "description": "Crunched is the Excel AI analyst for power users - in consulting, investment banking, and private equity. It error-checks workbooks end-to-end, builds models from scratch, and handles grunt work like extracting and linking data from IMs to template models - all within Excel so teams can review and iterate as usual.\r\n\r\nAgents struggle with tabular data - getting reliable, multi-step execution over thousands of interlinked formulas, sheets, and ranges is hard. Making Crunched good enough for people who live in Excel means knowing the pain points deeply.\r\n\r\nMichael and Philip has 10,000+ hours in Excel across consulting and finance. Markus and Lars bring deep expertise in scaling AI and enterprise solutions.\r\n\r\nWe've had easy access to first customers and are already live with firms across six European countries - we now plan to expand into the US. With >1bn total Excel users, we focus on the top 2%, highest-value Excel users globally. \r\n\r\nWe're solving one pain point at a time to create a product that doesn't just look good in a demo but actually works in production.\r\n\r\nExcel is here to stay, but the way experts model is fundamentally changing - with Crunched.",
+      "one_liner": "The first Excel AI analyst built by and for Excel power users",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Finance",
+        "Productivity",
+        "Analytics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760902114.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a8aca1523305ab7cea1e2e968713e3126bb4db.png"
+    },
+    {
       "id": 30948,
       "name": "Lua Global Inc",
       "slug": "lua-global-inc",
@@ -2351,17 +2382,11 @@
         "B2B"
       ],
       "regions": [
-        "India",
-        "South Asia",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Bengaluru, KA, India",
-      "tags": [
-        "India",
-        "AI",
-        "Conversational AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -2546,7 +2571,7 @@
       "name": "Uplane",
       "slug": "uplane",
       "website": "https://uplane.com",
-      "description": "Uplane is the AI autopilot for performance marketing. Our AI platform creates ads, builds matching landing pages, and allocates budgets across Meta, Google, TikTok and more, all in real time. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Our model compounds: we charge a base fee plus 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.\r\n\r\nOur team has deep founder-market fit: Julius managed a 7-digit monthly ad budget at one of the biggest ad spenders in Europe; Marvin has an academic background in Data Science (Imperial, Harvard) and led growth analytics & operations at a unicorn; Lukas was Head of Engineering at two YC startups, Blair (S19) and Fastgen (W23). Together, we\u2019re building the platform we wished we had, and customers are already paying for it.",
+      "description": "Uplane is the AI autopilot for performance marketing. Our AI platform creates ads, builds matching landing pages, and allocates budgets across Meta, Google, TikTok and more, all in real time. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Our model compounds: we charge a base fee plus 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.",
       "one_liner": "AI autopilot for performance marketing.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2875,5 +2900,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-19T18:01:16.699291"
+  "fetched_at": "2025-10-20T00:02:59.430572"
 }
