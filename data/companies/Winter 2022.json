@@ -2992,17 +2992,11 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Oakland, CA, USA; Remote",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Customer Support"
-      ],
+      "locations": "Remote",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -6418,7 +6412,7 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "New York, NY, USA; San Jose, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
         "GovTech",
         "Construction",
@@ -10462,7 +10456,7 @@
       "slug": "trebol",
       "website": "https://gotrebol.com/",
       "description": "Tr\u00e9bol provides the document AI infrastructure for modern financial services - from KYB to mortgage underwriting - turning weeks of manual processing into minutes.",
-      "one_liner": "Business onboarding automation for banks and lenders in Latin America",
+      "one_liner": "Your back-office, on autopilot",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 14,
@@ -13856,5 +13850,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-10-20T12:01:30.140422"
+  "fetched_at": "2025-10-20T18:01:15.759694"
 }

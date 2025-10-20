@@ -227,8 +227,8 @@
       "name": "Axal",
       "slug": "axal",
       "website": "https://www.axal.ai/",
-      "description": "Create functional requirement documents of legacy codebases\r\n",
-      "one_liner": "The AI Software Architect ",
+      "description": "Helping manufacturers and distributors automate the process of moving RFQs, invoices, and POs from their inboxes to their ERPs.\r\n",
+      "one_liner": "Automate Data Entry From Inbox to ERP",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -243,8 +243,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "Enterprise Software"
+        "Manufacturing",
+        "Enterprise Software",
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5359,5 +5360,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-10-20T12:01:35.786398"
+  "fetched_at": "2025-10-20T18:01:21.468190"
 }
