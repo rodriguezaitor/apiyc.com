@@ -2103,7 +2103,7 @@
       "one_liner": "Data and infra for world models",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": null,
       "industry": "B2B",
       "subindustry": "Industrials",
       "industries": [
@@ -2116,9 +2116,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotics",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4768,7 +4768,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753229882.0,
@@ -4918,17 +4918,10 @@
         "Marketing"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "B2B",
-        "Marketing",
-        "SEO"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5517,5 +5510,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-20T18:01:21.076990"
+  "fetched_at": "2025-10-21T00:03:06.003188"
 }

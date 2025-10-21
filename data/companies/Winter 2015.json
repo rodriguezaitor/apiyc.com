@@ -483,37 +483,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8f02178e3ddf46bafbfb385e35e6ddbd748c98d.png"
     },
     {
-      "id": 826,
-      "name": "Priime",
-      "slug": "priime",
-      "website": "https://priime.com",
-      "description": "Priime's founding team of lifetime photographers are made up of Y Combinator alumni who are also seasoned developers and designers. Combining our passion in photography, with our experience and skills of product design and development, we are setting out to lead the world in improving the overall quality of shared photos.",
-      "one_liner": "Priime is a company dedicated to advancements in technology around\u2026",
-      "batch": "Winter 2015",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Social",
-      "industries": [
-        "Consumer",
-        "Social"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1416309670.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8c0c9c0757afc99617559c6402808a6e7d82e23.png"
-    },
-    {
       "id": 817,
       "name": "Meadow",
       "slug": "meadow",
@@ -3033,6 +3002,37 @@
       "logo_url": "/company/thumb/missing.png"
     },
     {
+      "id": 826,
+      "name": "Priime",
+      "slug": "priime",
+      "website": "https://priime.com",
+      "description": "Priime's founding team of lifetime photographers are made up of Y Combinator alumni who are also seasoned developers and designers. Combining our passion in photography, with our experience and skills of product design and development, we are setting out to lead the world in improving the overall quality of shared photos.",
+      "one_liner": "Priime is a company dedicated to advancements in technology around\u2026",
+      "batch": "Winter 2015",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1416309670.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8c0c9c0757afc99617559c6402808a6e7d82e23.png"
+    },
+    {
       "id": 823,
       "name": "Pigeonly",
       "slug": "pigeonly",
@@ -3699,5 +3699,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-10-20T18:01:24.235716"
+  "fetched_at": "2025-10-21T00:03:09.201080"
 }

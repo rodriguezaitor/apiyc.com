@@ -9319,43 +9319,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/548d01bca4a6a4a1f060960268f7f60e651cc29a.png"
     },
     {
-      "id": 23985,
-      "name": "FirstQuadrant",
-      "slug": "firstquadrant",
-      "website": "https://firstquadrant.ai",
-      "description": "FirstQuadrant helps revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.",
-      "one_liner": "Sales AI that helps revenue teams move faster and close more deals.",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Sales",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "Sales",
-        "Sales Enablement",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1627835867.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7992570619d05ec7bff0789242805495d444dbf5.png"
-    },
-    {
       "id": 23979,
       "name": "Replo",
       "slug": "replo",
@@ -13188,6 +13151,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/035806d60dbc442073a8d4315d8dc5c0672ee021.png"
     },
     {
+      "id": 23985,
+      "name": "FirstQuadrant",
+      "slug": "firstquadrant",
+      "website": "https://firstquadrant.ai",
+      "description": "FirstQuadrant helps revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.",
+      "one_liner": "Sales AI that helps revenue teams move faster and close more deals.",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Sales",
+        "Sales Enablement",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1627835867.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7992570619d05ec7bff0789242805495d444dbf5.png"
+    },
+    {
       "id": 23970,
       "name": "Jupe",
       "slug": "jupe",
@@ -13425,5 +13425,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-10-20T18:01:16.282792"
+  "fetched_at": "2025-10-21T00:03:01.023927"
 }

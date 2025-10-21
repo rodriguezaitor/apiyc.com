@@ -197,7 +197,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759389556.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b49544d53946644ec1c85f52282a50abef30f8e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9ddeb09c634cfdedc5563ec8d3c525a7e8189.png"
     },
     {
       "id": 31002,
@@ -704,8 +704,8 @@
       "name": "Absurd",
       "slug": "absurd",
       "website": "https://tryabsurd.com/",
-      "description": "Absurd (YC F25) makes absurd AI launch videos. The first launch video we made hit 450K+ views on X.\r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
-      "one_liner": "Absurd AI Video Ads",
+      "description": "Absurd (YC F25) makes absurd AI launch videos. We average 300K+ views on X per video, across 4 public launches. \r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+      "one_liner": "Absurd AI Marketing Videos",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2127,40 +2127,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png"
     },
     {
-      "id": 30873,
-      "name": "Tell if AI",
-      "slug": "tell-if-ai",
-      "website": "https://tellif.ai/",
-      "description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer high precision and recall at detecting whether that content was made or modified with AI and we can sometimes say precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
-      "one_liner": "Detect deepfakes and AI generated images, videos, and audio.",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "Consumer",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Deepfake Detection",
-        "Computer Vision",
-        "Fraud Detection"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1760060442.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16ed34ef1b8a31643a83a3d8aa96f95b35b86b9.png"
-    },
-    {
       "id": 30870,
       "name": "Koyal",
       "slug": "koyal",
@@ -2895,6 +2861,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png"
     },
     {
+      "id": 30657,
+      "name": "Nori",
+      "slug": "nori",
+      "website": "https://nori.ai",
+      "description": "Nori takes *all* of your health data\u2014Apple Health, Oura, Whoop, Peloton, nutrition apps, Garmin, MyChart, blood tests from Function Health, Superpower\u2014all feeding your personal health AI.\r\n\r\nWith Nori, you get health advice that's personalized to you, practical and achievable, and based on proven, evidence-backed approaches.\r\n\r\nWho it\u2019s for: People who want weight loss, better energy, or faster recovery\u2014starting with iOS users",
+      "one_liner": "Mint.com for Health\u2014All your health data + personal health coach",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer Health Services",
+        "Health Tech",
+        "Digital Health",
+        "Health & Wellness"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760987305.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60de07c4ea314cd8ec771f12dbd0151f725a956d.png"
+    },
+    {
       "id": 30592,
       "name": "Prox",
       "slug": "prox",
@@ -2932,5 +2935,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-20T18:01:25.729149"
+  "fetched_at": "2025-10-21T00:03:10.702697"
 }

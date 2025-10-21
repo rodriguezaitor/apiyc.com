@@ -7521,42 +7521,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6034119b98e2931dff82142dcd69ad4993b8c77.png"
     },
     {
-      "id": 29178,
-      "name": "Lantern",
-      "slug": "lantern-2",
-      "website": "http://lantern.dev",
-      "description": "Lantern is the easiest way to build AI applications using Postgres.\r\n\r\nWe started Lantern because we believe AI is going to impact every single enterprise in every single industry. We want to allow every company to tap into their unstructured data to build better applications.\r\n\r\nWith Lantern Cloud, developers have access to everything they need to build an AI application: embedding generation, vector compression, vector search, efficient indexing, and more. All on top of the database they already know, Postgres, and using infrastructure that scales to billions.\r\n\r\nCheck out our code on Github: https://github.com/lanterndata/lantern",
-      "one_liner": "Postgres vector database extension to build AI applications",
-      "batch": "Winter 2024",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Open Source",
-        "Enterprise",
-        "Databases"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1690583353.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
-    },
-    {
       "id": 29177,
       "name": "Onyx",
       "slug": "onyx",
@@ -8252,7 +8216,43 @@
       "is_top_company": false,
       "launched_at": 1706569110.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c98f937de28a21f554069f7c5f1175449869819.png"
+    },
+    {
+      "id": 29178,
+      "name": "Lantern",
+      "slug": "lantern-2",
+      "website": "http://lantern.dev",
+      "description": "Lantern is the easiest way to build AI applications using Postgres.\r\n\r\nWe started Lantern because we believe AI is going to impact every single enterprise in every single industry. We want to allow every company to tap into their unstructured data to build better applications.\r\n\r\nWith Lantern Cloud, developers have access to everything they need to build an AI application: embedding generation, vector compression, vector search, efficient indexing, and more. All on top of the database they already know, Postgres, and using infrastructure that scales to billions.\r\n\r\nCheck out our code on Github: https://github.com/lanterndata/lantern",
+      "one_liner": "Postgres vector database extension to build AI applications",
+      "batch": "Winter 2024",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Open Source",
+        "Enterprise",
+        "Databases"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1690583353.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-10-20T18:01:18.119558"
+  "fetched_at": "2025-10-21T00:03:03.028292"
 }
