@@ -173,14 +173,14 @@
     },
     {
       "id": 12878,
-      "name": "Vendr.com",
-      "slug": "vendr-com",
+      "name": "Vendr",
+      "slug": "vendr",
       "website": "http://www.vendr.com",
-      "description": "Vendr helps software buyers pay less for software and helps software sellers acquire customers at a lower CAC -- a no brainer for both buyers and sellers. $4 billion+ of software transacted on Vendr, across 2,500+ software sellers. ",
-      "one_liner": "Vendr is the place to buy and sell software. ",
+      "description": "Vendr built the AI negotiation agent that helps companies stop overpaying for software by using real contract data to benchmark prices and secure better deals automatically.",
+      "one_liner": "The AI negotiation agent to help you save money on SaaS.",
       "batch": "Summer 2019",
       "status": "Active",
-      "team_size": 338,
+      "team_size": 50,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -196,6 +196,7 @@
       "locations": "Boston, MA, USA",
       "tags": [
         "SaaS",
+        "Finance",
         "Procurement"
       ],
       "stage": "Early",
@@ -3308,7 +3309,7 @@
       "one_liner": "AI that remembers your book & writes like you",
       "batch": "Summer 2019",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 4,
       "industry": "Consumer",
       "subindustry": "Consumer -> Gaming",
       "industries": [
@@ -3323,10 +3324,10 @@
       ],
       "locations": "Los Angeles, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Entertainment",
         "Marketing",
         "Creator Economy",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5962,5 +5963,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-10-22T12:01:31.241975"
+  "fetched_at": "2025-10-22T18:01:23.862381"
 }
