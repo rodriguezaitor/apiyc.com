@@ -6493,14 +6493,14 @@
     },
     {
       "id": 27702,
-      "name": "Pyq AI",
-      "slug": "pyq-ai",
-      "website": "https://www.pyqai.com",
-      "description": "Pyq builds AI-powered workflow automation for commercial insurance brokerages. We help them automate 90% of their back-office operations, delivering 400% ROI within 4 weeks and the ability to grow revenue without adding (and even shrinking) headcount.",
+      "name": "Mulligan",
+      "slug": "mulligan",
+      "website": "https://usemulligan.com",
+      "description": "Mulligan is an end-to-end AI automation platform for commercial insurance brokers. Automates quoting, policy checking, proposals and more by up to 90%.\r\n\r\nStart for free at usemulligan.com",
       "one_liner": "AI automation for insurance brokerages",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -6525,7 +6525,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1669843803.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7be03a8230e114f692ce5669556bf23078f8c49.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb7d742c0af1fc213b223ce6a9311844bfe178f6.png"
     },
     {
       "id": 27701,
@@ -9359,5 +9359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-10-22T06:01:12.364509"
+  "fetched_at": "2025-10-22T12:01:28.521075"
 }
