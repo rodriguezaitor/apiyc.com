@@ -7222,11 +7222,11 @@
       "name": "Reflex",
       "slug": "reflex",
       "website": "https://reflex.dev",
-      "description": "Reflex is the open-source framework empowering Python developers to build web apps faster. Build both your frontend and backend in a single language, Python (pip install reflex), with no JavaScript or web development experience required.\r\n\r\nBuild anything from internal data and AI apps to large public-facing web apps and deploy with a single command (reflex deploy).\r\n\r\nReflex provides high-level UI components, easy deployment and AI agents to create, edit, and deploy apps 10x faster than traditional web development while also remaining extensible through custom components that can fully leverage JavaScript's expressivity.\r\n\r\nOur mission is to simplify web development by creating an ecosystem of open-source tools and hosted services that enable Python developers to build web apps faster without compromising on customizability, flexibility, or performance.\r\n\r\nhttps://github.com/reflex-dev/reflex",
-      "one_liner": "Web apps in pure Python. Deploy with a single command.",
+      "description": "Reflex is an AI app builder for creating production-grade web apps entirely in Python, powered by its own open-source framework.\r\n\r\nPython is one of the most popular programming languages in the world, and web development is one of the most popular applications of programming. So why can\u2019t we make full-stack web apps using just Python? \r\n\r\nWith Reflex, you just connect your data and enter a prompt. It generates production-ready apps that integrate any data source, API, or Python package. \r\n\r\nFounded by Nikhil Rao and  Alek Petuskey, Reflex has over 1 million apps created, 27k GitHub stars, and has been used by 30% of Fortune 500 companies for internal tools and data-driven applications.",
+      "one_liner": "Reflex is an AI app builder for creating production-grade web apps\u2026",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -7235,17 +7235,15 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Web Development",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7579,8 +7577,8 @@
       "name": "Sameday",
       "slug": "sameday",
       "website": "https://www.gosameday.com/",
-      "description": "Home service businesses, like plumbers and roofers, are losing millions of dollars each year by failing to answer the phone. Sameday's AI Sales Agent answers any calls they otherwise would miss and will follow up until every lead is on the schedule.",
-      "one_liner": "AI sales agents for home service businesses",
+      "description": "Sameday is the AI workforce for the trades \u2014 outperforming humans at high-stakes, revenue-critical work, such as sales, dispatch, and more.",
+      "one_liner": "The leading AI workforce for the trades.",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 7,
@@ -7598,18 +7596,18 @@
       ],
       "locations": "Lehi, UT, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "B2B",
         "Sales Enablement",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1662953627.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b22144ce4e98bfaff13e954f43d3147fe9073ae.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/91ba509f52939444c0547f5a58c6f5cadf60b7a4.png"
     },
     {
       "id": 27254,
@@ -9361,5 +9359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-10-21T18:01:15.680476"
+  "fetched_at": "2025-10-22T00:02:58.849096"
 }

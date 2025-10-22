@@ -83,16 +83,10 @@
         "Human Resources"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Human Resources",
-        "Recruiting",
-        "Data Labeling",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -1833,6 +1827,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7447a5f4c087378428be2bea5adcf3daf4a4e9e8.png"
     },
     {
+      "id": 30889,
+      "name": "Nivara",
+      "slug": "nivara",
+      "website": "https://getnivara.com",
+      "description": "AI systems now run on complex chains of models, agents, and APIs, yet most teams still lack visibility into where their tokens, time, or compute go.\r\n\r\nNivara gives engineering and finance teams full transparency into AI model and agent usage. Nivara tracks every LLM and agent call, across users, sessions, and workflows, to reveal real spend insights.\r\n\r\nTeams use Nivara to see which agents or models drive the most spend, what each user session costs, and how to optimize prompts or caching to save budget without hurting quality.\r\n\r\nBy unifying token analytics, agent observability, and AI FinOps, Nivara helps teams manage AI usage responsibly, efficiently, and predictably, from startups experimenting with AI features to enterprises orchestrating thousands of agents.\r\n\r\nNivara \u2014 Know where your AI dollars go.",
+      "one_liner": "Nivara helps teams understand, control, and optimize their AI spend",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Compliance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761077242.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a74d84cb6d28bdddfdd974f0c136b09455ec5a71.png"
+    },
+    {
       "id": 30887,
       "name": "SellRaze",
       "slug": "sellraze",
@@ -2156,6 +2184,40 @@
       "is_top_company": false,
       "launched_at": 1758644249.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png"
+    },
+    {
+      "id": 30873,
+      "name": "Tell if AI",
+      "slug": "tell-if-ai",
+      "website": "https://tellif.ai/",
+      "description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer high precision and recall at detecting whether that content was made or modified with AI and we can sometimes say precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
+      "one_liner": "Detect deepfakes and AI generated images, videos, and audio.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Consumer",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Deepfake Detection",
+        "Computer Vision",
+        "Fraud Detection"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760060442.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16ed34ef1b8a31643a83a3d8aa96f95b35b86b9.png"
     },
     {
       "id": 30870,
@@ -2966,5 +3028,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-21T18:01:18.858932"
+  "fetched_at": "2025-10-22T00:03:07.315866"
 }
