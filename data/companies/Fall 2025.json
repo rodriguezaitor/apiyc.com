@@ -959,7 +959,7 @@
       "name": "Sourcebot",
       "slug": "sourcebot",
       "website": "https://www.sourcebot.dev/",
-      "description": "Sourcebot is an open source code understanding platform for massive codebases. We\u2019re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe (Brendan and Michael) met a decade ago at McGill University, and have been building together full time for over 2 years. We\u2019ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
+      "description": "Sourcebot is an open source code understanding platform for massive codebases. We\u2019re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe met a decade ago at McGill University and have been building together full time for over 2 years. We\u2019ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
       "one_liner": "Helping humans and AI agents understand massive codebases",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1724,6 +1724,41 @@
       "is_top_company": false,
       "launched_at": 1758318085.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png"
+    },
+    {
+      "id": 30895,
+      "name": "Allus AI",
+      "slug": "allus-ai",
+      "website": "https://allus.ai",
+      "description": "Allus builds next-gen vision foundation models that bring real intelligence to quality inspection and process monitoring in manufacturing. Enabling factories to see, understand, and improve production in real time. ",
+      "one_liner": "Transforming manufacturing with next-gen Vision Foundation Model",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "B2B",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Atlanta, GA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "SaaS",
+        "Computer Vision",
+        "Manufacturing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761108820.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54229250ba85a1626b1be8439c198c6ece967b89.png"
     },
     {
       "id": 30894,
@@ -3028,5 +3063,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-22T00:03:07.315866"
+  "fetched_at": "2025-10-22T06:01:21.287901"
 }
