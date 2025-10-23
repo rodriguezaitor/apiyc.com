@@ -3750,7 +3750,7 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It\u2019s lightweight and fast \u2014 optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+      "description": "Superagent provides guardrails that make AI-agents secure and compliant.\r\n\r\nIt\u2019s a suite of purpose-trained small language models that run at runtime to protect, verify, and redact data flowing through AI agents.\r\n\r\n- GUARD blocks unsafe inputs, prompt injections, and malicious tool calls\r\n- VERIFY checks that outputs are factual and policy-aligned\r\n- REDACT removes sensitive data to maintain privacy and compliance\r\n\r\nSuperagent integrates via API, SDK, CLI, MCP, and a web Playground, with a shared dashboard for policies, logs, and compliance visibility.",
       "one_liner": "Defender of AI agents",
       "batch": "Winter 2024",
       "status": "Active",
@@ -8254,5 +8254,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-10-23T12:01:27.918007"
+  "fetched_at": "2025-10-23T18:01:15.739329"
 }

@@ -8060,10 +8060,10 @@
     },
     {
       "id": 24132,
-      "name": "Keeper",
-      "slug": "keeper",
-      "website": "https://www.keeper.app",
-      "description": "Keeper makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
+      "name": "Double (formerly Keeper)",
+      "slug": "doublehq",
+      "website": "https://www.doublehq.com",
+      "description": "Double makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
       "one_liner": "We make software for bookkeepers.",
       "batch": "Summer 2021",
       "status": "Active",
@@ -8091,7 +8091,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1627002893.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e62eb8fc8bb104db629027f029c23e342c23d7f2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c0d4190c226cfebdb2847415960320fc3195b52.png"
     },
     {
       "id": 24131,
@@ -13425,5 +13425,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-10-23T12:01:26.484121"
+  "fetched_at": "2025-10-23T18:01:14.220229"
 }

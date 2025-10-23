@@ -329,6 +329,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b83cf59ad054e70425f43d0b88baf73e447920a.png"
     },
     {
+      "id": 30995,
+      "name": "Velvet",
+      "slug": "velvet",
+      "website": "https://velvet.video",
+      "description": "Velvet is a video editing suite, like Adobe Premiere, but for making AI generated videos. Our team worked on video generation at Meta's FAIR lab and infra at Adobe, and we\u2019re building the single tool creative teams need to produce AI video assets.",
+      "one_liner": "The Adobe Premiere of AI video",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Video",
+        "Media",
+        "Advertising",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761236237.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f333f0eb8eb873e8e242bef88d7d4fbf13bfc08.png"
+    },
+    {
       "id": 30990,
       "name": "Stratus Aviation",
       "slug": "stratus-aviation",
@@ -3171,5 +3206,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-23T12:01:33.802991"
+  "fetched_at": "2025-10-23T18:01:21.213014"
 }
