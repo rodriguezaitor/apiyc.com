@@ -1226,6 +1226,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png"
     },
     {
+      "id": 30933,
+      "name": "Nucleo",
+      "slug": "nucleo",
+      "website": "https://nucleoresearch.com/",
+      "description": "We help oncologists and radiologists extract insights from CT scans to support tumor characterization and treatment.\r\n\r\nThe hospitals we work with include Stanford Hospital, Cedars-Sinai (the largest hospital in California), UCI Health, and Weill Cornell.",
+      "one_liner": "Automated CT scan analysis for oncology care.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Computer Vision",
+        "Health Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761179954.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01e4ddf6850170a8daa2d643721e2e9bb8d894e.png"
+    },
+    {
       "id": 30932,
       "name": "Leadbay",
       "slug": "leadbay",
@@ -1472,7 +1504,7 @@
       "name": "Lexi",
       "slug": "lexi",
       "website": "https://getlexi.io/",
-      "description": "",
+      "description": "At Lexi, we are building AI-powered associates for law firms. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
       "one_liner": "AI Powered Associates",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1484,11 +1516,18 @@
         "Legal"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Legal",
+        "LegalTech",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -1691,6 +1730,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png"
     },
     {
+      "id": 30903,
+      "name": "Kestrel AI",
+      "slug": "kestrel-ai",
+      "website": "https://usekestrel.ai/",
+      "description": "Kestrel AI turns Kubernetes metadata and network telemetry into a live graph and uses AI agents to evaluate cluster security, run detailed risk assessments, answer cross-cluster questions in natural language, and autonomously remediate issues.",
+      "one_liner": "AI-Native Kubernetes Ops & Security Platform",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Swarm AI",
+        "Security",
+        "Kubernetes"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761187283.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png"
+    },
+    {
       "id": 30896,
       "name": "Multifactor",
       "slug": "multifactor",
@@ -1883,10 +1955,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "FinOps",
         "SaaS",
         "B2B",
-        "Compliance"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2479,15 +2551,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Fintech"
+        "Fintech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761174591.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e07acdd6605048e95201e2d026aebf2bf045e6b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png"
     },
     {
       "id": 30858,
@@ -2859,36 +2931,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8a57d61fce9ed8731fd4071cfeea4356209dee.png"
     },
     {
-      "id": 30829,
-      "name": "Remedy",
-      "slug": "remedy",
-      "website": "http://www.useremedy.co",
-      "description": "Streamline prescription refills, reduce workload, and enhance patient care with intelligent automation.",
-      "one_liner": "AI Agents for Pharmacies",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare IT",
-      "industries": [
-        "Healthcare"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Healthcare"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1758854629.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d611b828b53d5d20964861f55beae88af360ae5d.png"
-    },
-    {
       "id": 30828,
       "name": "Semiotic",
       "slug": "semiotic",
@@ -3129,5 +3171,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-23T00:02:55.442092"
+  "fetched_at": "2025-10-23T06:01:22.890792"
 }
