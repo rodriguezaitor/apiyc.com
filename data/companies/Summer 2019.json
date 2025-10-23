@@ -314,7 +314,7 @@
       "one_liner": "The Fastest Scientific Computing Platform on the Planet",
       "batch": "Summer 2019",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 10,
       "industry": "Industrials",
       "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
@@ -323,11 +323,9 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
-      "locations": "Redwood City, CA, USA; Mountain View, CA, USA",
+      "locations": "Redwood City, CA, USA",
       "tags": [
         "Cloud Computing"
       ],
@@ -336,7 +334,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1559271873.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b071031daa0b0c77bf12cb07c12ff80ae951a600.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf45a738c52014231eb5cc7bfba5ca712ef23c50.png"
     },
     {
       "id": 12863,
@@ -2405,41 +2403,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2130bc9129d6903e966a14272a2916b912d00d2e.png"
     },
     {
-      "id": 12626,
-      "name": "Localyze",
-      "slug": "localyze",
-      "website": "https://www.localyze.com",
-      "description": "From borders and bureaucracy to openness and simplicity. With Localyze, we\u2019re reimagining how people move for work by bringing together seamless technology, transparency and unrivalled service. We believe in freeing talent from borders, so we\u2019re building a centralised platform for a decentralised world. A world where companies can hire from everywhere \u2014 and people can work and live where they want to.",
-      "one_liner": "Global mobility platform for companies and employees",
-      "batch": "Summer 2019",
-      "status": "Active",
-      "team_size": 105,
-      "industry": "B2B",
-      "subindustry": "B2B -> Human Resources",
-      "industries": [
-        "B2B",
-        "Human Resources"
-      ],
-      "regions": [
-        "Germany",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Hamburg, HH, Germany; Remote",
-      "tags": [
-        "SaaS",
-        "Human Resources",
-        "Immigration"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1660708715.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/96bd85f56312c5abd48c88dcb718430c1ade2150.png"
-    },
-    {
       "id": 12625,
       "name": "UpEquity",
       "slug": "upequity",
@@ -4154,6 +4117,41 @@
       "is_top_company": false,
       "launched_at": 1556682385.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/55a1b4b73d450e670e61529d531faea95e3d6712.png"
+    },
+    {
+      "id": 12626,
+      "name": "Localyze",
+      "slug": "localyze",
+      "website": "https://www.localyze.com",
+      "description": "From borders and bureaucracy to openness and simplicity. With Localyze, we\u2019re reimagining how people move for work by bringing together seamless technology, transparency and unrivalled service. We believe in freeing talent from borders, so we\u2019re building a centralised platform for a decentralised world. A world where companies can hire from everywhere \u2014 and people can work and live where they want to.",
+      "one_liner": "Global mobility platform for companies and employees",
+      "batch": "Summer 2019",
+      "status": "Acquired",
+      "team_size": 105,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "Germany",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Hamburg, HH, Germany; Remote",
+      "tags": [
+        "SaaS",
+        "Human Resources",
+        "Immigration"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1660708715.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/96bd85f56312c5abd48c88dcb718430c1ade2150.png"
     },
     {
       "id": 12599,
@@ -5963,5 +5961,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-10-22T18:01:23.862381"
+  "fetched_at": "2025-10-23T00:02:54.636103"
 }

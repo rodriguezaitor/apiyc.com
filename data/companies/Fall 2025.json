@@ -2459,6 +2459,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dca281248422a76ecfa8a7a76fdf979bead1771.png"
     },
     {
+      "id": 30860,
+      "name": "Alt-X",
+      "slug": "alt-x",
+      "website": "https://alt-x.co",
+      "description": "Private markets are still opaque, manual, and locked inside Excel. Every year, trillions of dollars in venture, real-estate, and private-equity capital are deployed through diligence processes that haven\u2019t changed in decades. Analysts spend hours parsing PDFs and spreadsheets just to understand what a company or property is worth.\r\n\r\nAlt-X is building the data and AI infrastructure layer for alternative assets \u2014 a system that ingests unstructured deal materials, normalizes the data, and generates institutional-grade analysis in seconds. Whether it\u2019s a private-company dataroom or a real-estate offering memorandum, Alt-X extracts key KPIs like ARR, growth, NOI, IRR, and cap rate, then produces investor-ready dashboards and reports automatically.\r\n\r\nOur platform reduces deal evaluation timelines by up to 73%, saves 30\u201350 analyst hours per deal, and enables teams to screen 4\u00d7 more opportunities with the same headcount. By automating KPI extraction, benchmarking, and underwriting, Alt-X transforms diligence from a manual bottleneck into a scalable process.\r\n\r\nThis hasn\u2019t been done at scale because private-market data is fragmented across formats and asset classes. Alt-X\u2019s parsing engine unifies this chaos into a structured schema \u2014 the backbone for cross-asset underwriting, KPI dashboards, and automated risk scoring.\r\n\r\nOur first wedge is real estate and private equity, where underwriting is slowest and most manual. We\u2019re already piloting with family offices and private funds managing over $200 million in assets, paying $1K\u2013$5K per month to automate deal screening and valuation.\r\n\r\nThe opportunity is massive: over $1.4 trillion in new private-equity and real-estate deals are underwritten globally each year, with $25\u201330 billion spent on diligence and analytics. Yet over 90% of this still happens manually. Alt-X\u2019s mission is to become the operating system for private-market investing \u2014 the Bloomberg Terminal of the AI era.",
+      "one_liner": "AI Diligence Tools for Private Investors",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761174591.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e07acdd6605048e95201e2d026aebf2bf045e6b.png"
+    },
+    {
       "id": 30858,
       "name": "Deeptrace",
       "slug": "deeptrace",
@@ -2479,8 +2510,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Enterprise Software"
+        "Developer Tools",
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3097,5 +3129,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-22T18:01:27.109787"
+  "fetched_at": "2025-10-23T00:02:55.442092"
 }

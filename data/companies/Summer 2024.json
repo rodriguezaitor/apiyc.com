@@ -1320,7 +1320,7 @@
         "Logistics"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717601253.0,
@@ -3475,41 +3475,6 @@
       "is_top_company": false,
       "launched_at": 1756389316.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb8bcc76da3e91c1a436eea5e5eec4075f3deb89.png"
-    },
-    {
-      "id": 29762,
-      "name": "Remade",
-      "slug": "remade",
-      "website": "https://www.remade.ai/?utm_source=YC&utm_medium=YC&utm_campaign=YC_profile&utm_content=YC_profile",
-      "description": "Remade is building an AI-native canvas for creative workflows. \r\nTry it now at: app.remade.ai",
-      "one_liner": "AI-native canvas for creative workflows.",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Consumer",
-      "subindustry": "B2B -> Marketing",
-      "industries": [
-        "Consumer",
-        "Content"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "SaaS",
-        "Consumer",
-        "Social Media"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1721201298.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png"
     },
     {
       "id": 29761,
@@ -8154,6 +8119,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2ad649a18852dafbb67750b37634ebaf5846cdc.png"
     },
     {
+      "id": 29762,
+      "name": "Remade",
+      "slug": "remade",
+      "website": "https://www.remade.ai/?utm_source=YC&utm_medium=YC&utm_campaign=YC_profile&utm_content=YC_profile",
+      "description": "Remade is building an AI-native canvas for creative workflows. \r\nTry it now at: app.remade.ai",
+      "one_liner": "AI-native canvas for creative workflows.",
+      "batch": "Summer 2024",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Content",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "SaaS",
+        "Consumer",
+        "Social Media"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1721201298.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png"
+    },
+    {
       "id": 29793,
       "name": "RiskAngle",
       "slug": "riskangle",
@@ -8283,5 +8283,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-22T18:01:21.752923"
+  "fetched_at": "2025-10-23T00:02:54.058284"
 }

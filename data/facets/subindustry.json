@@ -4,8 +4,8 @@
     "B2B": 458,
     "B2B -> Infrastructure": 260,
     "B2B -> Productivity": 214,
-    "Fintech": 148,
-    "B2B -> Marketing": 138,
+    "Fintech": 149,
+    "B2B -> Marketing": 137,
     "B2B -> Operations": 135,
     "B2B -> Analytics": 133,
     "B2B -> Supply Chain and Logistics": 128,
@@ -17,12 +17,12 @@
     "B2B -> Finance and Accounting": 121,
     "Consumer -> Social": 121,
     "Healthcare -> Healthcare IT": 121,
-    "Fintech -> Payments": 118,
+    "Fintech -> Payments": 119,
+    "Consumer -> Content": 118,
     "Healthcare -> Consumer Health and Wellness": 118,
-    "Consumer -> Content": 117,
     "B2B -> Security": 102,
     "Consumer -> Food and Beverage": 95,
-    "Unspecified": 94,
+    "Unspecified": 93,
     "B2B -> Human Resources": 84,
     "Real Estate and Construction -> Housing and Real Estate": 84,
     "Fintech -> Consumer Finance": 83,
@@ -59,5 +59,5 @@
     "Industrials -> Drones": 19,
     "Consumer -> Job and Career Services": 16
   },
-  "fetched_at": "2025-10-22T18:01:31.626549"
+  "fetched_at": "2025-10-23T00:02:56.641056"
 }

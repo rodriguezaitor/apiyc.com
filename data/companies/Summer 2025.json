@@ -747,7 +747,7 @@
       "one_liner": "Optimizing fleet planning with data driven algorithms",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -758,19 +758,19 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Logistics",
         "Supply Chain",
-        "Data Science"
+        "Data Science",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754335865.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7f2d064227baf73862c76f498eff3ea9f6c7d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8008d7d50f1ead47eae177bcede0c9d614312ad4.png"
     },
     {
       "id": 30774,
@@ -1681,7 +1681,7 @@
       "name": "Idler",
       "slug": "idler",
       "website": "https://idler.ai/",
-      "description": "We produce reinforcement learning environments on-demand, at scale. \r\n\r\nIf you are building intelligent systems in research, robotics, simulation, product development, or beyond, Idler is for you.",
+      "description": "Idler builds reinforcement learning environments that teach AI models to code at expert human levels. We create training environments based on real-world coding scenarios that prepare models for the complex challenges they'll face in production.",
       "one_liner": "Scale AI for reinforcement learning environments. ",
       "batch": "Summer 2025",
       "status": "Active",
@@ -1693,22 +1693,16 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Reinforcement Learning",
-        "Data Engineering",
-        "Enterprise Software",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749750449.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/16afdb2665f574c194f085db06a6420848311d95.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/be10a2d11184480de4bc819bb87298c7d2766cce.png"
     },
     {
       "id": 30729,
@@ -5477,5 +5471,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-22T18:01:24.124237"
+  "fetched_at": "2025-10-23T00:02:54.715193"
 }
