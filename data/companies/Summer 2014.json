@@ -105,7 +105,7 @@
       "name": "Checkr",
       "slug": "checkr",
       "website": "http://www.checkr.com",
-      "description": "Checkr builds people infrastructure for the future of work. And we believe everyone should have a fair chance to work. That's why we've designed a faster\u2014and fairer\u2014way to screen job seekers. For more information on our mission and products, visit http://checkr.com.",
+      "description": "Checkr builds people infrastructure for the future of work. And we believe everyone should have a fair chance to work. That's why we've designed a faster\u2014and fairer\u2014way to screen job seekers. For more information on our mission and products, visit https://checkr.com.",
       "one_liner": "People infrastructure for the future of work",
       "batch": "Summer 2014",
       "status": "Active",
@@ -124,11 +124,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Compliance",
         "HR Tech",
         "API",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2552,5 +2552,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b608533ba4dfdf9610d953d7d6faf8b3a2d29638.png"
     }
   ],
-  "fetched_at": "2025-10-24T00:02:39.847753"
+  "fetched_at": "2025-10-24T06:01:17.734976"
 }
