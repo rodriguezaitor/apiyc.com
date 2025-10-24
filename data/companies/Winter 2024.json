@@ -2847,11 +2847,11 @@
     },
     {
       "id": 29407,
-      "name": "Just Words",
-      "slug": "just-words",
-      "website": "https://justwords.ai",
-      "description": "AI-first marketing platform that puts companies in a state of continuous experimentation. We let you test 100+ variations within a month, across segments without the need to setup an 'octopus' on your favorite CRM tool. We also automate reporting which takes the grunt work of baby sitting every A/B test out of the way.",
-      "one_liner": "Scale hyper-personalized messaging with AI",
+      "name": "JustAI",
+      "slug": "justai",
+      "website": "https://getjust.ai",
+      "description": "Always-on AI agents for 1-1 personalization at scale",
+      "one_liner": "A modern workflow for lifecycle marketing",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -2863,10 +2863,18 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Reinforcement Learning",
+        "Workflow Automation",
+        "Personalization",
+        "Marketing"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8254,5 +8262,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-10-23T18:01:15.739329"
+  "fetched_at": "2025-10-24T00:02:31.221135"
 }

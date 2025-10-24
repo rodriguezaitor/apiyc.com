@@ -2160,40 +2160,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72e93b198ddc7826d8828d858d3a423116dc75f.png"
     },
     {
-      "id": 13344,
-      "name": "Chutney Inc",
-      "slug": "chutney-inc",
-      "website": "https://www.chutneystore.com",
-      "description": "Chutney Inc builds AI agents for Product managers. Our 1st AI agent Flasho conducts user interviews, synthesises information and provides instant insights. ",
-      "one_liner": "Autonomous AI agents to conduct user interviews for product managers",
-      "batch": "Winter 2020",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Productivity"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Bengaluru, KA, India; Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "Productivity"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1583799212.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ce42720f9e875d1a3ef445809b60e9d32c83ce7.png"
-    },
-    {
       "id": 13343,
       "name": "StayQrious",
       "slug": "stayqrious",
@@ -6389,6 +6355,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b019dc9df86b0e3d7418198422cddd4c458d87a6.png"
     },
     {
+      "id": 13344,
+      "name": "Chutney Inc",
+      "slug": "chutney-inc",
+      "website": "https://www.chutneystore.com",
+      "description": "Chutney Inc builds AI agents for Product managers. Our 1st AI agent Flasho conducts user interviews, synthesises information and provides instant insights. ",
+      "one_liner": "Autonomous AI agents to conduct user interviews for product managers",
+      "batch": "Winter 2020",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Bengaluru, KA, India; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Productivity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1583799212.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ce42720f9e875d1a3ef445809b60e9d32c83ce7.png"
+    },
+    {
       "id": 13337,
       "name": "goDutch",
       "slug": "godutch",
@@ -7753,5 +7753,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
     }
   ],
-  "fetched_at": "2025-10-23T18:01:16.450683"
+  "fetched_at": "2025-10-24T00:02:32.172634"
 }

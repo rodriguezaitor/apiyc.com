@@ -71,7 +71,7 @@
       "name": "Fixpoint",
       "slug": "fixpoint",
       "website": "https://fixpoint.co/",
-      "description": "Fixpoint helps AI data companies and model labs automate their human data ops: sourcing, hiring, and managing human experts for AI training jobs.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
+      "description": "Fixpoint helps AI training data companies hire the expert humans that create AI training data. We handle sourcing, vetting, and all HR for expert annotator teams, so our customers can focus just on creating training data.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
       "one_liner": "Source and manage experts for AI training jobs",
       "batch": "Fall 2025",
       "status": "Active",
@@ -333,8 +333,8 @@
       "name": "Velvet",
       "slug": "velvet",
       "website": "https://velvet.video",
-      "description": "Velvet is a video editing suite, like Adobe Premiere, but for making AI generated videos. Our team worked on video generation at Meta's FAIR lab and infra at Adobe, and we\u2019re building the single tool creative teams need to produce AI video assets.",
-      "one_liner": "The Adobe Premiere of AI video",
+      "description": "Velvet is a video editing suite, like Adobe Premiere, but for generating cinematic AI videos. Our team worked on video generation at Meta's FAIR lab and infra at Adobe, and we\u2019re building the single tool for creative teams to generate AI video assets.",
+      "one_liner": "The Adobe Premiere of AI Video",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -665,6 +665,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9c79cb57463cbdc422676b0d9eee7efef195b6a.png"
     },
     {
+      "id": 30961,
+      "name": "Arcten",
+      "slug": "arcten",
+      "website": "https://arcten.com",
+      "description": "We\u2019re building an AI-native financial research platform that uses AI agents to surface early investment opportunities from millions of filings, transcripts, and reports. It automates screening, search, and analysis, helping investors focus on insights instead of documents.",
+      "one_liner": "We're making financial research easier with AI.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Finance",
+        "Consumer",
+        "Investing",
+        "Enterprise",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761245566.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png"
+    },
+    {
       "id": 30960,
       "name": "Metorial",
       "slug": "metorial",
@@ -760,6 +795,36 @@
       "is_top_company": false,
       "launched_at": 1760446134.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png"
+    },
+    {
+      "id": 30957,
+      "name": "Clad Labs",
+      "slug": "clad-labs",
+      "website": "https://cladlabs.ai",
+      "description": "high productivity modern coding editor. integration your AI coding workflow into your IDE.",
+      "one_liner": "brainrot ide",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761263170.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/520e314c8c296821e00ad659cebecef2f5a3e76a.png"
     },
     {
       "id": 30956,
@@ -1701,16 +1766,15 @@
       "name": "Redapto",
       "slug": "redapto",
       "website": "https://www.redapto.com/",
-      "description": "Redapto fixes the core limitation of today\u2019s agents: they\u2019re static. Teams hit real performance walls because models aren\u2019t optimized for their domain and don\u2019t improve from usage. We help products break that plateau.\r\n\r\nWe bring continuous improvement into your stack: controller models for intelligent context engineering, domain-specialized mid/post-training, automatic feedback pipelines, and self-updating data sources so RAG/search stays accurate. We focus only on what moves the needle for your product, not extra infrastructure.\r\n\r\nWe\u2019re applied researchers who\u2019ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20\u00d7. We\u2019ve published at NeurIPS, AAAI, ICLR, and COLING, and we\u2019re building Redapto to make adaptive, evolving agents the new default.",
-      "one_liner": "Self-improving AI agents",
+      "description": "Redapto builds self-improving systems for customer support teams that boost CSAT, NRR, and drive repeat purchases.\r\n\r\nSupport quality plateau because agents and QA are static. Less than 5% of interactions are reviewed, missing SOP gaps, hallucinations, and outdated knowledge. Redapto audits 100% of interactions to detect issues, run custom evals, and auto-update SOPs, training, and knowledge bases so teams continuously improve.\r\n\r\nWe\u2019re applied researchers who\u2019ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20\u00d7. ",
+      "one_liner": "Self-improving systems for Customer Support Teams",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
-        "B2B",
-        "Infrastructure"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -1719,8 +1783,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Reinforcement Learning",
-        "B2B"
+        "B2B",
+        "Customer Support"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1796,6 +1860,38 @@
       "is_top_company": false,
       "launched_at": 1761187283.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png"
+    },
+    {
+      "id": 30899,
+      "name": "Sciloop",
+      "slug": "sciloop",
+      "website": "https://sciloop.dev",
+      "description": "Sciloop automates research, turning seed ideas into publication-ready papers. Its AI generates hypotheses, runs experiments, analyzes results, and writes findings\u2014helping researchers make faster, high-quality discoveries with minimal setup.",
+      "one_liner": "From spark to paper, fully automated scientific discovery",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761248663.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/26613ce6ce77cc938a057068ce9d4f0548fd4269.png"
     },
     {
       "id": 30896,
@@ -2202,8 +2298,8 @@
       "name": "Hypercubic",
       "slug": "hypercubic",
       "website": "https://www.hypercubic.ai/",
-      "description": "Hypercubic is an AI-native maintenance and modernization platform for mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical systems. About 70% of the Fortune 500 still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s\u201390s, still power trillions in global infrastructure but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems using frontier AI.\r\n\r\n\r\nLearn more at hypercubic.ai",
-      "one_liner": "AI to maintain and modernize mainframes.",
+      "description": "Hypercubic is an AI-native maintenance and modernization platform for COBOL and mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s\u201390s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems to future-proof the backbone of the global economy.\r\n\r\n\r\nLearn more at hypercubic.ai",
+      "one_liner": "AI to maintain and modernize COBOL/mainframes.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2218,9 +2314,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3206,5 +3302,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-23T18:01:21.213014"
+  "fetched_at": "2025-10-24T00:02:38.850132"
 }

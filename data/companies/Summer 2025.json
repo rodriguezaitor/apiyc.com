@@ -45,18 +45,11 @@
         "Consumer"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Santa Clara, CA, USA",
-      "tags": [
-        "Hardware",
-        "Speech Recognition",
-        "AI",
-        "AI Assistant"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3378,8 +3371,8 @@
       "name": "Kestroll",
       "slug": "kestroll",
       "website": "https://www.kestroll.com/",
-      "description": "Kestroll is an AI creative designer that produces realistic and on-brand assets for marketing teams.\r\n\r\nKestroll uses generative AI to create product photos and videos that feel authentic and consistent with the brand, allowing companies to localize, experiment, and scale marketing campaigns cheaply and effortlessly.\r\n\r\nInstead of spending thousands on weekly photo or video shoots, hiring models, building sets for every local, or sifting through limited stock libraries, marketing teams can create everything they need from one centralized platform. \r\n\r\nEvery asset reflects the real product and stays on-brand, eliminating tedious review cycles between design and campaign teams.",
-      "one_liner": "Kestroll generates on-brand marketing assets at scale",
+      "description": "AI Digital Asset Manager that automates asset managment busy work, enforces brand guidelines, and supports creative experimentation across every touchpoint of the asset lifecycle.",
+      "one_liner": "AI Digital Asset Manager",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3395,17 +3388,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Design",
         "Marketing",
-        "Advertising"
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751838348.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cccb3c808b4250a382150aedeb670632036404b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/62dd8bf0e67daad3ae7fc102aaae61085f5cc193.png"
     },
     {
       "id": 30663,
@@ -5465,5 +5458,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-23T18:01:17.968291"
+  "fetched_at": "2025-10-24T00:02:34.340697"
 }
