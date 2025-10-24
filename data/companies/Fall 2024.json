@@ -191,7 +191,7 @@
       "status": "Active",
       "team_size": null,
       "industry": "Healthcare",
-      "subindustry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
         "Healthcare",
         "Healthcare IT"
@@ -569,7 +569,7 @@
       "name": "Edgedive",
       "slug": "edgedive",
       "website": "https://edgedive.com",
-      "description": "Edgedive is your AI support engineer - embedded in your existing stack (Intercom, Linear, Slack, GitHub, etc.). It: \r\n\r\n- Prioritizes customer issues and requests by impact (frequency, ACV, and severity).\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team\u2019s standards.\r\n\r\nImagine having an always-on teammate who continuously triages customer pain, plans fixes, and pushes code changes so you can start your morning with fresh, mergeable PRs, ready for review.",
+      "description": "Edgedive is your AI support engineer - embedded where your team already works (Intercom, Linear, Slack, GitHub, etc.). It:\r\n\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team\u2019s standards.\r\n- Can be triggered from Slack, Linear, Github, or automatically from support tickets or alerts (ex. Intercom, Sentry, etc)\r\n\r\nIt\u2019s like having a 24/7 teammate who continuously triages issues, plans fixes, and pushes merge-ready code changes so you can start your morning with high-quality PRs, ready for review.",
       "one_liner": "The AI Support Engineer",
       "batch": "Fall 2024",
       "status": "Active",
@@ -586,11 +586,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
+        "DevOps",
         "Enterprise Software",
-        "Operations"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3011,5 +3011,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-10-24T12:02:08.288109"
+  "fetched_at": "2025-10-24T18:01:26.578275"
 }
