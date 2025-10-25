@@ -1894,6 +1894,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png"
     },
     {
+      "id": 30910,
+      "name": "Aleph Lab",
+      "slug": "aleph-lab",
+      "website": "http://alephlab.ai/",
+      "description": "Aleph Kids is an AI companion that chats and plays with children inside games like Minecraft, helping them learn a new language while they play. Kids already spend hours each week in their favorite games, and now parents can turn that game time into learning time.",
+      "one_liner": "Your child\u2019s AI language buddy inside the games they already love. ",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Gaming",
+        "Edtech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761373763.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/85ff6b3f3a0cc3314218efc415a774caf2e12782.png"
+    },
+    {
       "id": 30903,
       "name": "Kestrel AI",
       "slug": "kestrel-ai",
@@ -3398,5 +3430,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-25T06:01:20.040022"
+  "fetched_at": "2025-10-25T12:01:29.820948"
 }
