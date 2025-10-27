@@ -436,7 +436,7 @@
       "name": "Lightberry",
       "slug": "lightberry",
       "website": "https://lightberry.com",
-      "description": "Robots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.",
+      "description": "We build brains for robots.\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.\r\n\r\nRobots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!",
       "one_liner": "The social brain for robots.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -461,7 +461,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761343459.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/708e4ca560fe097c24a93d4c4ac89b2b776fb7d3.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png"
     },
     {
       "id": 30983,
@@ -596,6 +596,40 @@
       "is_top_company": false,
       "launched_at": 1760936665.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d8cd9731e5b803cf28ada75d13c38049717b0e.png"
+    },
+    {
+      "id": 30977,
+      "name": "Rovi Health",
+      "slug": "rovi-health",
+      "website": "https://www.rovi.health",
+      "description": "We deliver high-quality, affordable healthcare to employees through text. Employers cut 10\u201320% of healthcare spend. Employees get concierge care they love.\r\n\r\nOur AI-enabled virtual care treats common conditions over text or video. For in-person care, our AI agents search across all in-network providers using millions of price and quality data points, recommend the best options, then coordinate scheduling. Employees get rewarded for choosing high-value care through copay reimbursements.\r\n\r\nWe've already contracted to roll out to thousands of employees across multiple employers for the 2025-2026 plan year.\r\n\r\nWe're on a mission to build member-aligned, AI-native health insurance, starting with cost containment.",
+      "one_liner": "Text-based healthcare that slashes employer health spend",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer Health Services",
+        "Health Tech",
+        "Digital Health",
+        "Health Insurance",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761513033.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/854d5ebc9419a8974e7acf5bf13e395923c740a6.png"
     },
     {
       "id": 30967,
@@ -2200,8 +2234,8 @@
       "name": "SellRaze",
       "slug": "sellraze",
       "website": "https://sellraze.com",
-      "description": "SellRaze is a video shopping platform that makes it easy for sellers to create engaging listings and connect with buyers.\r\n\r\nOur AI makes video creation accessible at scale. It identifies every item in a video, automatically filling in details and pricing so sellers don't have to write descriptions or research prices. Sellers showcase multiple items in a single clip while telling their stories, and buyers can purchase any item individually. The AI guides sellers while filming and auto-edits footage into polished videos\u2014turning casual sellers into content creators.\r\n\r\nVideo listings generate dramatically higher engagement and sales than photos. We're building a community where buyers discover products from the sellers they follow.\r\n",
-      "one_liner": "Swipeable video shopping from real sellers, not brands.",
+      "description": "SellRaze is an AI-powered selling assistant that helps anyone sell anything in seconds. Point your camera at any item and we'll identify it, price it, and create an engaging listing across multiple marketplaces, including our own.\r\n\r\nEach day, more than 2,500 items are added to SellRaze, representing over $326,000 in inventory value.",
+      "one_liner": "The fastest way to sell online.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2216,10 +2250,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "Consumer",
-        "E-commerce"
+        "E-commerce",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2427,8 +2461,8 @@
       "name": "Cranston AI",
       "slug": "cranston-ai",
       "website": "https://www.cranstonai.com/",
-      "description": "Cranston AI is building a full-stack accounting platform, starting with seed through Series B startups. Our AI agent ingests transactions, reconciles ledgers, and prepares tax filings in real time, with every close reviewed by experienced CPAs. Founders get reliable books, on-time filings, and instant answers to their questions, without the missed deadlines, outsourcing, or slow responses that define traditional firms.",
-      "one_liner": "Automating tax filing using AI",
+      "description": "Cranston is a full service accounting firm. We handle bookkeeping, corporate taxes, and financial automations for SMB and mid market companies with AI software and a CPA team. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nWe automate bookkeeping with daily reconciliations, accruals, and a month end close reviewed by CPAs. We also handle Taxes end to end, from quarterly estimates to year end corporate returns, prepared from the same ledger and filed on schedule.",
+      "one_liner": "Full-service AI for accounting and finance",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2453,7 +2487,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759732290.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c84d6c08e105e8d2e5230a9ad3bb2528c8ab58c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/29f3c66c4e788501be90c2c3f225ce8d3a1b1bd2.png"
     },
     {
       "id": 30877,
@@ -3430,5 +3464,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-26T18:01:17.633571"
+  "fetched_at": "2025-10-27T00:03:18.920783"
 }
