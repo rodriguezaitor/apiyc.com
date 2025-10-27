@@ -3898,7 +3898,7 @@
       "name": "Panels",
       "slug": "panels",
       "website": "https://www.usepanels.com/",
-      "description": "Panels is an audio data platform that delivers large-scale, richly labeled speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
+      "description": "Panels is an audio data platform that delivers high-quality speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
       "one_liner": "Audio Data for AI Labs",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3915,9 +3915,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Data Labeling",
-        "AI"
+        "Data Labeling"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4870,7 +4870,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1755802702.0,
@@ -5451,5 +5451,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-27T00:03:14.873975"
+  "fetched_at": "2025-10-27T06:01:20.697277"
 }
