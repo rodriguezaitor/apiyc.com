@@ -6637,36 +6637,32 @@
     },
     {
       "id": 24229,
-      "name": "Iona Mind",
-      "slug": "iona-mind",
-      "website": "https://ionamind.com/",
-      "description": "Iona Mind is building the first fully-digital care pathway for common mental health issues. \r\n\r\nOur products are based on Cognitive Behavioural Therapy (CBT), one of the most effective evidence-based forms of treatment, which is delivered in a fully automated way using a conversational interface. Unlike other wellbeing apps, our exercises and programs are evidence-based, with over 300 peer reviewed journal papers showing the efficacy of CBT in the treatment of many common mental health conditions. ",
-      "one_liner": "Software-based mental health support",
+      "name": "AlgoViral",
+      "slug": "algoviral",
+      "website": "https://algoviral.com",
+      "description": "Go viral. Grow fast.\r\n\r\nYour full-service viral growth engine for TikTok & Instagram\r\n\r\nWe work with the most ambitious companies to drive revenue, credibility, brand power, and opportunity by engineering virality.\r\n\r\nWe've created some of the most viral videos on the planet & we don't work with everyone. ",
+      "one_liner": "Your full-service viral growth engine for TikTok & Instagram",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 5,
-      "industry": "Healthcare",
+      "team_size": 10,
+      "industry": "B2B",
       "subindustry": "Healthcare",
       "industries": [
-        "Healthcare"
+        "B2B",
+        "Marketing"
       ],
       "regions": [
-        "United Kingdom",
-        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "London, England, United Kingdom",
-      "tags": [
-        "Mental Health Tech",
-        "Consumer Health Services"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1624439784.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eec342ae0488917570b69e8280aad7cbbc9afc37.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c89a1b74299d9bd4228adb7af4abbf4232c67550.png"
     },
     {
       "id": 24206,
@@ -13425,5 +13421,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-10-27T12:01:19.760848"
+  "fetched_at": "2025-10-27T18:01:18.308948"
 }
