@@ -128,6 +128,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7696654f248acf11e5913502b817690c5caf5763.png"
     },
     {
+      "id": 31008,
+      "name": "Moss",
+      "slug": "moss",
+      "website": "https://usemoss.dev",
+      "description": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.\r\n\r\nIf you\u2019ve ever built a conversational or voice AI product, you\u2019ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs.\r\n\r\nMoss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70\u201390% token savings compared to traditional pipelines.",
+      "one_liner": "Real-time semantic search for Conversational AI",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Mateo, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761590258.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3b300791985ce328fa08da12278e2c8cc8ddc9.png"
+    },
+    {
       "id": 31005,
       "name": "MarkIt",
       "slug": "markit",
@@ -1998,7 +2030,7 @@
       "slug": "sciloop",
       "website": "https://sciloop.dev",
       "description": "Sciloop automates research, turning seed ideas into publication-ready papers. Its AI generates hypotheses, runs experiments, analyzes results, and writes findings\u2014helping researchers make faster, high-quality discoveries with minimal setup.",
-      "one_liner": "From spark to paper, fully automated scientific discovery",
+      "one_liner": "Fully automated scientific discovery",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2014,7 +2046,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "AI-powered Drug Discovery",
+        "Machine Learning",
         "SaaS",
+        "Cloud Computing",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2920,6 +2955,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a60fee67044114e15cab84acef7b9b968923c93e.png"
     },
     {
+      "id": 30857,
+      "name": "Aspect",
+      "slug": "aspect-2",
+      "website": "https://aspect.inc",
+      "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people. Aspect is a platform with agents that understand a team\u2019s video library better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
+      "one_liner": "Agentic platform for post-production teams",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "B2B",
+        "Video",
+        "Media"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761607655.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/116a7916c95520914702391b640fde340a3d901b.png"
+    },
+    {
       "id": 30854,
       "name": "Hyperspell",
       "slug": "hyperspell",
@@ -3121,6 +3190,37 @@
       "is_top_company": false,
       "launched_at": 1758577465.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f00f4b531cfdb83446f322df9e4f749afb8b0179.png"
+    },
+    {
+      "id": 30846,
+      "name": "Parse",
+      "slug": "parse-bot",
+      "website": "https://parse.bot",
+      "description": "Parse lets developers build APIs for any website in seconds at fractions of a cent per call. Unlike traditional scraping tools that rely on slow, expensive headless browsers, Parse reverse-engineers websites' underlying network requests and generates optimized API endpoints automatically. This makes Parse 10-100x faster and significantly cheaper than browser automation, enabling use cases like real-time price monitoring, lead generation, and data integration that were previously impractical.",
+      "one_liner": "Build an API to interact with any website in seconds. ",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Developer Tools",
+        "API",
+        "Big Data"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761590739.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd2b15ce8a8e404c0ec54c33a17f938963c26455.png"
     },
     {
       "id": 30845,
@@ -3497,5 +3597,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-27T18:01:24.743719"
+  "fetched_at": "2025-10-28T00:02:54.705060"
 }
