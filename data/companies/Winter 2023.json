@@ -4757,11 +4757,11 @@
     },
     {
       "id": 27867,
-      "name": "TruthSuite",
-      "slug": "truthsuite",
+      "name": "DataSuite",
+      "slug": "datasuite",
       "website": "https://truthsuite.com",
-      "description": "TruthSuite provides a comprehensive platform to supercharge the due-diligence and research processes for lawyers and other professionals for whom the truth matters.  Lawyers use TruthSuite to uncover consistent versions of events as well as identify misinformation in testimonials.\r\n\r\nPrev. Anarchy Labs",
-      "one_liner": "AI Fact Checking for Lawyers",
+      "description": "DataSuite provides a way to manage and collect multi-terabyte multi-media datasets, and train generative models (diffusion, gan, interactive video) models based on them.  \r\n\r\nWe make it trivial for non-technical builders to create their own networks by providing an instant way to collect with AI without worrying about data formats, unzipping power, caching, or data locality.",
+      "one_liner": "Dataset Management for AI Trainers",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 4,
@@ -4780,17 +4780,17 @@
       "locations": "New York, NY, USA; Remote",
       "tags": [
         "Artificial Intelligence",
+        "Developer Tools",
         "Generative AI",
         "Machine Learning",
-        "Legal",
-        "LegalTech"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1669080392.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a6e691a37cf8ccaf8d7f5a7a06674c06c0a4659.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/98dc541fc5fbbef1e6c9baee61264602e4e64531.png"
     },
     {
       "id": 27862,
@@ -9361,5 +9361,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-10-28T12:01:08.672703"
+  "fetched_at": "2025-10-28T18:01:19.822713"
 }

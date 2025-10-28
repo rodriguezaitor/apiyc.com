@@ -533,8 +533,8 @@
       "name": "Cactus",
       "slug": "oncactus",
       "website": "https://oncactus.com",
-      "description": "We're building an AI copilot for solopreneurs to automate their admin work. Our AI answers the phone, qualifies customers, and books in revenue. We see a future where solopreneurs will fully vibe code and run their entire business on Cactus.\r\n",
-      "one_liner": "AI copilot for solopreneurs",
+      "description": "Cactus is the 24/7 AI call center built for home service businesses. Our AI answers calls, qualifies customers, books jobs, and follows up automatically, helping business owners capture more leads and retain more customers - all without hiring additional staff.",
+      "one_liner": "24/7 AI Call Center for Home Services",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -549,16 +549,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746571239.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d53a6cf3c8074296831c1a7ec4bd88edbf7e572.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b17acc0c0aa0c02481e7a3a2117028126178942.png"
     },
     {
       "id": 30542,
@@ -4610,5 +4610,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-28T12:01:09.604399"
+  "fetched_at": "2025-10-28T18:01:21.806619"
 }
