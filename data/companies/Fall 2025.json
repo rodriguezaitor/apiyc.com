@@ -366,7 +366,7 @@
       "slug": "velvet",
       "website": "https://velvet.video",
       "description": "Velvet is a video editing suite, like Adobe Premiere, but for generating cinematic AI videos. Our team worked on video generation at Meta's FAIR lab and infra at Adobe, and we\u2019re building the single tool for creative teams to generate AI video assets.",
-      "one_liner": "The Adobe Premiere of AI Video",
+      "one_liner": "The editing suite for cinematic AI video",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -382,11 +382,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Video",
         "Media",
         "Advertising",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2959,8 +2959,8 @@
       "name": "Aspect",
       "slug": "aspect-2",
       "website": "https://aspect.inc",
-      "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people. Aspect is a platform with agents that understand a team\u2019s video library better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
-      "one_liner": "Agentic platform for post-production teams",
+      "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people. Aspect is a platform with agents that understand a team\u2019s video library and workflows better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
+      "one_liner": "Agentic AI platform for post-production teams",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -3597,5 +3597,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-28T00:02:54.705060"
+  "fetched_at": "2025-10-28T06:01:26.937467"
 }
