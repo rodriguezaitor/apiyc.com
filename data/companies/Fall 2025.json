@@ -1992,6 +1992,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/85ff6b3f3a0cc3314218efc415a774caf2e12782.png"
     },
     {
+      "id": 30907,
+      "name": "Logical",
+      "slug": "logical",
+      "website": "https://trylogical.ai",
+      "description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, we never send user data to our servers.",
+      "one_liner": "A hyper context-aware and proactive desktop AI copilot",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Productivity",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761643617.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png"
+    },
+    {
       "id": 30903,
       "name": "Kestrel AI",
       "slug": "kestrel-ai",
@@ -2957,7 +2990,7 @@
     {
       "id": 30857,
       "name": "Aspect",
-      "slug": "aspect-2",
+      "slug": "aspect-inc",
       "website": "https://aspect.inc",
       "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people. Aspect is a platform with agents that understand a team\u2019s video library and workflows better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
       "one_liner": "Agentic AI platform for post-production teams",
@@ -3597,5 +3630,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-28T06:01:26.937467"
+  "fetched_at": "2025-10-28T12:01:09.986876"
 }
