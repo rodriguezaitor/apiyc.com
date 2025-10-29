@@ -732,6 +732,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b0a2a5ad266c29913c6cd737b023935ee784ba.png"
     },
     {
+      "id": 30966,
+      "name": "Karumi",
+      "slug": "karumi",
+      "website": "https://www.karumi.ai/",
+      "description": "Picture an AI assistant that can instantly hop into your video call, answer any question you throw its way, and then pull up a live screen\u2011share to walk you through your use case in real time.\r\n\r\nWe are building an AI product expert that can do product demos, customer support and internal enablement. ",
+      "one_liner": "AI-powered product demos",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Customer Success"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761723346.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d288f40132ba904274138c50c0b9be21edf706aa.png"
+    },
+    {
       "id": 30965,
       "name": "Icarus",
       "slug": "icarus",
@@ -3060,7 +3094,7 @@
       "name": "Aspect",
       "slug": "aspect-inc",
       "website": "https://aspect.inc",
-      "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people. Aspect is a platform with agents that understand a team\u2019s video library and workflows better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
+      "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team\u2019s video library and workflows better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
       "one_liner": "AI Agents for post-production teams",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3698,5 +3732,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-10-29T06:01:21.104681"
+  "fetched_at": "2025-10-29T12:01:26.303075"
 }

@@ -182,10 +182,10 @@
     },
     {
       "id": 30124,
-      "name": "Helpcare AI",
-      "slug": "helpcare-ai",
-      "website": "https://helpcare.ai",
-      "description": "Helpcare builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
+      "name": "Careforce (prev. Helpcare AI)",
+      "slug": "careforce-prev-helpcare-ai",
+      "website": "https://careforce.ai/",
+      "description": "Careforce builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
       "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
       "batch": "Fall 2024",
       "status": "Active",
@@ -201,13 +201,19 @@
         "Partly Remote"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Health Tech",
+        "Healthcare",
+        "Healthcare IT",
+        "Call Center"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730747199.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2c3f4ae5f8eac9c8aab884078420acf64664c2b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6784593709cc6c24d2c3397f86bf70db9efc63c.png"
     },
     {
       "id": 30119,
@@ -3011,5 +3017,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-10-29T06:01:22.209387"
+  "fetched_at": "2025-10-29T12:01:27.879061"
 }
