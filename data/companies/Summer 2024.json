@@ -68,7 +68,7 @@
       "slug": "conductor",
       "website": "https://conductor.build",
       "description": "Each Claude gets an isolated workspace. See who\u2019s working, see who\u2019s stuck, and what\u2019s changed.",
-      "one_liner": "Run a bunch of Claude Codes in parallel",
+      "one_liner": "Run coding agents in parallel",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -84,15 +84,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
-        "AI"
+        "Artificial Intelligence",
+        "Developer Tools"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725301012.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a811c5f5bc8e1c9739a69487c00a23298cda0e19.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd38e31ad4112f27dcddd9c52ef2f8fc0e2fbab.png"
     },
     {
       "id": 29987,
@@ -3332,18 +3332,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Data Science",
         "Cloud Computing",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723245936.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png"
     },
     {
       "id": 29766,
@@ -8282,5 +8282,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-29T00:02:52.313651"
+  "fetched_at": "2025-10-29T06:01:16.041102"
 }
