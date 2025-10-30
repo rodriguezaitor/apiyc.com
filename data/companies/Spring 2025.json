@@ -3548,8 +3548,8 @@
       "name": "Capacitive",
       "slug": "capacitive",
       "website": "https://capacitive.ai/",
-      "description": "Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.\r\n\r\nCapacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context \u2014 or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",
-      "one_liner": "The AI Agent Platform for Knowledge Workers.",
+      "description": "We supercharge agents from Cursor to AgentKit with product and team-level context. Connect us once to where your internal data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering.",
+      "one_liner": "The data gateway for agents.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3565,9 +3565,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Developer Tools",
         "SaaS",
-        "B2B",
-        "Workflow Automation",
         "Enterprise Software"
       ],
       "stage": "Early",
@@ -3575,7 +3574,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746399469.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/39d26149922b6183936ce0ff8f902f7ca2777b52.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/40c96e80ab5fc53e3ad2af87fa471c14586b633f.png"
     },
     {
       "id": 30427,
@@ -4610,5 +4609,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-10-29T18:01:16.039190"
+  "fetched_at": "2025-10-30T00:02:56.174705"
 }
