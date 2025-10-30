@@ -481,10 +481,10 @@
       "slug": "interfere",
       "website": "https://interfere.com",
       "description": "",
-      "one_liner": "Next-gen observability that finds & fixes bugs automatically",
+      "one_liner": "Build software that never breaks",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -492,13 +492,14 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Design",
-        "AI"
+        "Design"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1550,19 +1551,12 @@
         "Healthcare IT"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "SaaS",
-        "Healthcare",
-        "Health Insurance",
-        "Healthcare IT",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753718864.0,
@@ -2940,15 +2934,16 @@
       "name": "Louiza Labs",
       "slug": "louiza-labs",
       "website": "https://www.louiza.ai/",
-      "description": "Louiza Labs accurately simulates human biology so medical technology (devices, robots, etc) can be trained and tested without real patients or hard to access real-world medical data.\r\n\r\nOur physics-driven AI engine creates hyper-accurate, multi-organ human models with unprecedented speed and fidelity.\r\n\r\nInstead of spending millions on data for clinical trials, cadaver labs, or risky human testing\u2014use Louiza to:\r\n1. Test devices on digital twins\u2014faster FDA, no animal trials.\r\n2. Generate rare, high-fidelity edge-case datasets.\r\n3. Train AI for combat, triage, and robotic procedures in extreme conditions.\r\n4. Simulate stressed anatomy (e.g., Bruno Fernandes under fatigue, fighter pilots under G-force).\r\n\r\nBonus: Our anatomically accurate models are indistinguishable from real humans and can be \u201cimaged\u201d (e.g., X-ray, ultrasound) for use in ML pipelines.",
-      "one_liner": "Simulated human biology and synthetic medical datasets.",
+      "description": "Louiza Labs build digital twins of real customers so brands can get preference data on demand with an end-to-end platform connecting consumers, manufacturers, and f&b brands.",
+      "one_liner": "Digital Twins",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Healthcare",
+      "industry": "B2B",
       "subindustry": "Healthcare",
       "industries": [
-        "Healthcare"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -2956,11 +2951,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Machine Learning",
-        "Medical Robotics",
-        "Robotic Process Automation",
-        "Synthetic Biology",
-        "Data Engineering"
+        "Manufacturing",
+        "Food Tech",
+        "Food & Beverage"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5445,5 +5438,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-30T00:02:54.980585"
+  "fetched_at": "2025-10-30T06:01:12.707637"
 }

@@ -6207,8 +6207,8 @@
       "name": "Nectar",
       "slug": "nectar",
       "website": "https://nectarclimate.com",
-      "description": "Nectar is a utility data management platform that automates the collection and processing of energy, water, and waste data for organizations worldwide. By connecting to over 7,000 utility providers, Nectar delivers highly accurate, granular usage and cost data, enabling energy and sustainability teams to achieve 100% data completeness for energy brokering, buildings management, and carbon accounting. With seamless integration into existing systems, Nectar reduces manual effort, minimizes errors, and provides a centralized solution for comprehensive utility data management.",
-      "one_liner": "Collecting utility data for energy managers and sustainability teams",
+      "description": "Nectar is the modern AI energy management platform. We automate utility data analysis to optimize energy costs, manage buildings, and report energy efficiency metrics for energy and sustainability teams. Our utility data API uses in-house AI agents to deliver the most accurate granular usage and cost data on the market.",
+      "one_liner": "Manage energy cost & usage with AI for facility & sustainability teams",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 7,
@@ -6222,14 +6222,9 @@
         "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [
-        "B2B",
-        "Climate",
-        "Enterprise Software",
-        "ClimateTech"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688762834.0,
@@ -7381,5 +7376,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-10-30T00:02:53.235029"
+  "fetched_at": "2025-10-30T06:01:11.071847"
 }
