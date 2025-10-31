@@ -67,8 +67,8 @@
       "name": "Conductor",
       "slug": "conductor",
       "website": "https://conductor.build",
-      "description": "Each Claude gets an isolated workspace. See who\u2019s working, see who\u2019s stuck, and what\u2019s changed.",
-      "one_liner": "Run coding agents in parallel",
+      "description": "Run parallel agents in isolated workspaces. See at a glance what they\u2019re working on, then review and merge their changes. ",
+      "one_liner": "Run a team of coding agents on your Mac",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -84,8 +84,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools"
+        "Developer Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8281,5 +8281,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-10-31T00:02:52.202734"
+  "fetched_at": "2025-10-31T06:01:08.410316"
 }
