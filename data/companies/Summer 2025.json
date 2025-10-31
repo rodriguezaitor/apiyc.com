@@ -1788,7 +1788,7 @@
       "name": "Minimal AI",
       "slug": "minimal-ai",
       "website": "https://gominimal.ai/",
-      "description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nOver 50 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
+      "description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80%+ of tickets while increasing revenue.",
       "one_liner": "AI Agents for E-commerce Customer Support",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3292,7 +3292,7 @@
       "name": "CareSwift",
       "slug": "careswift",
       "website": "https://www.careswift.com/",
-      "description": "Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials.",
+      "description": "CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials. Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. ",
       "one_liner": "AI scribe for Ambulance Reports",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3306,10 +3306,10 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Health Tech"
+        "Health Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3978,6 +3978,39 @@
       "is_top_company": false,
       "launched_at": 1751662616.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a35549672464ddd96cd4caea3ef725e10f03c19.png"
+    },
+    {
+      "id": 30641,
+      "name": "Overdrive Health",
+      "slug": "overdrive-health",
+      "website": "https://overdrive.health",
+      "description": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
+      "one_liner": "AI Powered Medical Billing",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Fintech -> Insurance",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Health Tech",
+        "Healthcare",
+        "Health Insurance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761922527.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f6d5714c40148baca15996e7bc186b870ee0af4.png"
     },
     {
       "id": 30640,
@@ -5433,5 +5466,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-10-31T12:01:17.229135"
+  "fetched_at": "2025-10-31T18:01:25.180748"
 }
