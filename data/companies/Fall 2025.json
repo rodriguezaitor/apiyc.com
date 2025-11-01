@@ -1596,6 +1596,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png"
     },
     {
+      "id": 30934,
+      "name": "Tornyol",
+      "slug": "tornyol",
+      "website": "https://tornyol.com/",
+      "description": "Tornyol builds micro-drones that kill mosquitoes. We use smartphone microphones, car park assist sensors and some clever DSP and control to transform 40-gram toy drones into mosquito killers. Because these drones are so cheap and fast, we will lower the cost of mosquito control by 100x which will enable the eradication of mosquitoes from cities, saving more than a million people each year from Malaria, West Nile, Dengue, etc. ",
+      "one_liner": "We build micro-drones that kill mosquitoes. ",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Consumer Electronics",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Hardware",
+        "Robotics",
+        "Drones"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761986194.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/32e3f0b4a6932eaa071b0b63031b269de4048c47.png"
+    },
+    {
       "id": 30933,
       "name": "Nucleo",
       "slug": "nucleo",
@@ -3900,5 +3932,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13900befd20ceccd80b530bd40fdf94bd861483d.png"
     }
   ],
-  "fetched_at": "2025-11-01T06:01:10.058364"
+  "fetched_at": "2025-11-01T12:01:09.934112"
 }
