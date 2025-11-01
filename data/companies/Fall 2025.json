@@ -497,6 +497,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png"
     },
     {
+      "id": 30986,
+      "name": "The Hog",
+      "slug": "the-hog",
+      "website": "https://thehog.ai/",
+      "description": "The Hog maps your ICP, channels, and opportunities across the internet, monitors competitors, communities, and keywords, and turns signals into ranked next actions with ready to launch plans. \r\n\r\nThe future of go to market is command centers, not dashboards. The Hog gives one person the power of an entire sales and marketing team and compresses research into execution in minutes. You control an army of AI sales and marketing copilots that research, write, and execute.\r\n\r\nWhy now:\r\n\r\nStanding out in a crowded market is harder and more important than ever. Companies need fast, adaptable go to market playbooks because buyer behavior and channels change constantly, and what works today may stall tomorrow. The way to stay ahead is for sales, marketing, and growth to operate on the same platform with the same information so insights become coordinated actions in minutes.\r\n\r\nBuilt by operators:\r\n\r\n\u201cHead of Growth\u201d is in our name for a reason. The Hog is the dream tool Hudson wished he had when he scaled a startup from about $900K ARR to $7M+ in three months as a solo growth hire, and helped another company pivot to profitability with only two months of runway left. Current customers call the insight \u201cf****** good\u201d and \u201con another level.\u201d\r\n\r\n\r\nWhat we do today:\r\n\r\n- Find where your ICP spends time and how they behave across Reddit, LinkedIn, X, forums, and review sites\r\n- Continuous market and competitor monitoring with daily briefs\r\n- Social listening, sentiment tracking, and brand awareness trends\r\n- Strategic positioning and a living Brand and Messaging Guide\r\n- SEO research plus on-brand blog and content drafts\r\n- Digital marketing and PPC planning with keywords and budgets\r\n- Auto-drafts for posts, comments, replies, and community engagement\r\n- Channel strategies for multi-channel motions beyond paid ads\r\n\r\n\r\nThe Hog Guarantee:\r\nFind at least one qualified customer in 30 days or get your money back.\r\n",
+      "one_liner": "The Google Maps for customer acquistion",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Sales",
+        "Sales Enablement",
+        "Marketing",
+        "Advertising",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761945756.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ba9edbf42a04ad97bf80ea5c1940458e14f3f70.png"
+    },
+    {
       "id": 30983,
       "name": "Telemetron",
       "slug": "telemetron-ai",
@@ -1459,6 +1494,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png"
     },
     {
+      "id": 30937,
+      "name": "Anto Biosciences",
+      "slug": "anto-biosciences",
+      "website": "https://anto.bio/",
+      "description": "Anto is building the first foundation model of the gut microbiome to predict the efficacy and toxicity of drugs across diverse populations at scale. \r\nFounded by second-time founders and Nature-published researchers from Harvard Medical School, ETH Zurich, and J&J.",
+      "one_liner": "A multimodal foundation model for microbial communities.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Reinforcement Learning",
+        "Genomics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761948352.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/343208bb633bd97d8d7f14a2b99199beb96d5bac.png"
+    },
+    {
       "id": 30936,
       "name": "Patent Watch",
       "slug": "patent-watch",
@@ -2008,7 +2075,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3210,10 +3277,12 @@
         "B2B"
       ],
       "regions": [
+        "India",
+        "South Asia",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "Bengaluru, KA, India",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -3526,6 +3595,36 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8a57d61fce9ed8731fd4071cfeea4356209dee.png"
     },
     {
+      "id": 30829,
+      "name": "Remedy",
+      "slug": "remedy",
+      "website": "http://www.useremedy.co",
+      "description": "Streamline prescription refills, reduce workload, and enhance patient care with intelligent automation.",
+      "one_liner": "AI Agents for Pharmacies",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1758854629.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9775c990b59973e626bccf8bbb0b22ead6b88d7e.png"
+    },
+    {
       "id": 30828,
       "name": "Semiotic",
       "slug": "semiotic",
@@ -3801,5 +3900,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13900befd20ceccd80b530bd40fdf94bd861483d.png"
     }
   ],
-  "fetched_at": "2025-10-31T18:01:28.523793"
+  "fetched_at": "2025-11-01T00:02:50.984218"
 }
