@@ -519,11 +519,11 @@
     },
     {
       "id": 28361,
-      "name": "Lightski",
-      "slug": "lightski",
-      "website": "https://www.lightski.com",
-      "description": "Lightski is the Cursor for Engineering Docs: a rich-text editor and AI assistant specifically built for engineering managers and tech leads. Whether you\u2019re writing a technical design doc, internal documentation, PRD, or peer review, Lightski helps you write higher quality documents faster with the help of AI.\r\n\r\nLightski connects to your Github and comes with an AI agent that pulls relevant context from your codebase to help you draft. Afterwards, continue refining in our Notion-like editor, where you can collaborate, iterate, and comment on the doc.",
-      "one_liner": "Cursor for Technical Design Docs and PRDs",
+      "name": "Streamstraight",
+      "slug": "streamstraight",
+      "website": "https://www.streamstraight.com",
+      "description": "Streamstraight ensures your users never see an interrupted LLM response. We solve the problems around resumable streams and reconnecting during an in-progress AI response, so you can ensure your long-running AI agents responses are never interrupted on the frontend. \r\n\r\nIf you\u2026\r\n\r\n* show an incomplete response when users return to an AI chat that's still in-progress\r\n* have users who request multiple long-running AI responses, simultaneously\r\n* lose data when a client reloads the page during a stream\r\n* deal with flaky connections due to mobile clients\r\n* want to run LLM inference from an async job\r\n* want to stream the same LLM response to multiple browser tabs/clients\r\n\r\n\u2026message us! We can fix these issues and ensure your frontend stays high quality during long-running streams. ",
+      "one_liner": "The best way to stream LLM thinking traces to your frontend",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 1,
@@ -542,15 +542,14 @@
         "Developer Tools",
         "Generative AI",
         "SaaS",
-        "B2B",
-        "Analytics"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1678895856.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46c0ccd59cd9c61a81c3d502e48025e0dea1e604.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d21bd8c7920701952e3692272a988b9e7b8a0e5.png"
     },
     {
       "id": 28329,
@@ -9329,5 +9328,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-11-01T00:02:49.840965"
+  "fetched_at": "2025-11-01T06:01:07.606717"
 }
