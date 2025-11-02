@@ -3201,21 +3201,24 @@
       "name": "Sim",
       "slug": "sim",
       "website": "https://sim.ai",
-      "description": "Sim enables fast-growing dev teams to build and deploy AI agent workflows. \r\n\r\n45,000+ developers are already using Sim, integrating with 100+ apps to streamline workflows with AI agents.",
+      "description": "Sim enables fast-growing dev teams to build and deploy AI agent workflows. \r\n\r\n65,000+ developers are already using Sim, integrating with 100+ apps to streamline workflows with AI agents.",
       "one_liner": "Open source platform to build AI agent workflows",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4606,5 +4609,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-02T00:03:02.487060"
+  "fetched_at": "2025-11-02T06:01:17.026813"
 }

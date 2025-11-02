@@ -3953,7 +3953,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723104343.0,
@@ -6444,10 +6444,10 @@
     },
     {
       "id": 29646,
-      "name": "Corgi",
-      "slug": "corgi",
+      "name": "Corgi Insurance",
+      "slug": "corgi-insurance",
       "website": "https://corgi.insure",
-      "description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We\u2019re taking it all.",
+      "description": "Corgi Insurance is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We\u2019re taking it all.",
       "one_liner": "Corgi is building an AI insurance company",
       "batch": "Summer 2024",
       "status": "Active",
@@ -6464,9 +6464,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8281,5 +8281,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-02T00:02:58.704985"
+  "fetched_at": "2025-11-02T06:01:12.413606"
 }
