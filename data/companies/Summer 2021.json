@@ -2279,11 +2279,11 @@
     },
     {
       "id": 24616,
-      "name": "bloop",
-      "slug": "bloop",
-      "website": "https://bloop.ai",
-      "description": "Most of the Fortune 500 still use mainframes for some of their compute, but innovation, skills and cost pressure means that most are looking to reduce their mainframe workloads.\r\n\r\nWe build tools that help teams modernise, write and understand legacy codebases, with the help of generative AI.",
-      "one_liner": "Modernising legacy code with AI",
+      "name": "Vibe Kanban",
+      "slug": "vibe-kanban",
+      "website": "https://vibekanban.com",
+      "description": "As AI agents become more capable at writing code, developers are spending more of their time planning and reviewing what those agents produce. Vibe Kanban helps them do exactly that, seamlessly integrating with leading coding agents like Anthropic\u2019s Claude Code and OpenAI\u2019s Codex.",
+      "one_liner": "Plan and review AI generated code",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 10,
@@ -2294,12 +2294,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "United Kingdom",
+        "Europe"
       ],
-      "locations": "New York, NY, USA",
+      "locations": "London, England, United Kingdom",
       "tags": [
         "Artificial Intelligence",
         "Machine Learning",
@@ -2310,7 +2308,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1629492105.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aef70b7e83ca76aa0901271d0713dbba0919b30c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/773b39b8261f5827258bdc470dd1356bfb4e9ee4.png"
     },
     {
       "id": 24615,
@@ -13421,5 +13419,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-11-03T12:01:09.722204"
+  "fetched_at": "2025-11-03T18:01:10.837069"
 }
