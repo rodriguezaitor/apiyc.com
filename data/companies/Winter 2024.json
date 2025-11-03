@@ -4707,7 +4707,7 @@
       "one_liner": "The AI communication layer for healthcare",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 10,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -5973,7 +5973,7 @@
       "one_liner": "Automated time tracking and billing for law firms.",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -5986,10 +5986,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Legal"
+        "Legal",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8262,5 +8262,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-03T00:02:56.123021"
+  "fetched_at": "2025-11-03T06:01:10.593462"
 }

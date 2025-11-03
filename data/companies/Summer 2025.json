@@ -1309,7 +1309,7 @@
       "name": "Opennote",
       "slug": "opennote",
       "website": "https://opennote.com",
-      "description": "Opennote is the one space for everything you study, turning chaos into clarity.\r\n\r\nMost students struggle with scattered knowledge across different apps and tools that don't understand their learning style. Opennote changes that with a note-taking platform where AI knows your style, connects to your existing knowledge bases and the web, and provides proactive feedback and edits\u2014right where you're already working.",
+      "description": "Opennote is the one space for everything you study, turning chaos into clarity.\r\n\r\nMost learners struggle with scattered knowledge across different apps and tools that don't understand their learning style. Opennote changes that with a note-taking platform where AI knows your style, connects to your existing knowledge bases and the web, and provides proactive feedback and edits\u2014right where you're already working.",
       "one_liner": "Write, learn, and connect ideas\u2014all in one place",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4826,15 +4826,10 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Machine Learning",
-        "Infrastructure"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5472,5 +5467,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-03T00:02:56.622456"
+  "fetched_at": "2025-11-03T06:01:13.513026"
 }

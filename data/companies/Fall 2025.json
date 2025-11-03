@@ -2958,6 +2958,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e01ef6c12327b08c5946d9935ec8b977e130305.png"
     },
     {
+      "id": 30865,
+      "name": "Lunavo",
+      "slug": "lunavo",
+      "website": "https://lunavo.ai",
+      "description": "We build AI that runs carrier operations.\r\n\r\nLunavo is the AI assistant for carriers. It plugs directly into their existing toolstack, understands their processes, and monitors all incoming data and requests. Lunavo runs end-to-end backoffice operations, handling repetitive tasks, resolving issues autonomously, and escalating only what matters.\r\n\r\nLunavo helps carriers scale operations without scaling headcount.",
+      "one_liner": "Lunavo is the AI assistant for carriers.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Logistics",
+        "Transportation",
+        "Operations",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762148896.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ddcb85e74794b0138c39337072b830c38a4934f.png"
+    },
+    {
       "id": 30864,
       "name": "Dari",
       "slug": "dari",
@@ -3424,6 +3458,40 @@
       "is_top_company": false,
       "launched_at": 1758577465.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f00f4b531cfdb83446f322df9e4f749afb8b0179.png"
+    },
+    {
+      "id": 30847,
+      "name": "Brickwise",
+      "slug": "brickwise",
+      "website": "https://www.brickwiseai.com",
+      "description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving paymens.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
+      "one_liner": "AI property manager for landlords and estate agents",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Real Estate and Construction",
+      "subindustry": "B2B",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "SaaS",
+        "Real Estate",
+        "Proptech",
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762137164.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48c389a46401af22e7cde8396ad1941ad05a7401.png"
     },
     {
       "id": 30846,
@@ -3896,5 +3964,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13900befd20ceccd80b530bd40fdf94bd861483d.png"
     }
   ],
-  "fetched_at": "2025-11-03T00:02:57.019206"
+  "fetched_at": "2025-11-03T06:01:16.342687"
 }
