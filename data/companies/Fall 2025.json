@@ -1427,8 +1427,8 @@
       "name": "Scott AI",
       "slug": "scott-ai",
       "website": "https://tryscott.ai",
-      "description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It\u2019s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process: making coding agents a first class participant while maintaining the process' iterative, human oriented and often messy nature.\r\n\r\nWith Scott, teams can give any model (Claude, Codex, Gemini, and more) secure, one-click access to their codebase. (1) Our Discovery Layer runs several coding agents in parallel to expose their divergences and highlight the most critical design decisions. (2) Our Alignment Layer turns static docs into living specs that are custom built to preserve smooth engineering collaboration. (3) Scott is compatible with all coding agents and all tools used for authoring code.\r\n\r\nBy unifying spec design discovery, agent orchestration, and team alignment, Scott helps teams leverage coding agents more effectively. With Scott, teams ship higher-quality software faster while saving time and tokens that were previously spent on illusions of productivity and low-quality AI codegen.",
-      "one_liner": "Coding agent plan mode with super powers",
+      "description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It\u2019s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process with coding agents as first class participants.",
+      "one_liner": "Coding Agent Plan Mode with Superpowers",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2118,13 +2118,13 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Analytics",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761690618.0,
@@ -3488,8 +3488,8 @@
       "name": "Sylvian",
       "slug": "sylvian",
       "website": "https://sylvian.ai",
-      "description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for AI labs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
-      "one_liner": "Expert tool use data (Excel, VSCode, etc.) for foundation labs",
+      "description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for LLMs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
+      "one_liner": "Expert tool use data for LLMs",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -4123,5 +4123,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-11-04T00:02:50.687829"
+  "fetched_at": "2025-11-04T06:01:16.866582"
 }

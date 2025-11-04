@@ -9264,15 +9264,16 @@
       "name": "Harmoney",
       "slug": "harmoney",
       "website": "https://www.harmoney.in/",
-      "description": "Harmoney is a bond trading platform for financial institutions and asset managers in India. We are building the infrastructure to digitize bond markets and make bond trading more efficient.",
-      "one_liner": "Electronic bond trading platform for institutions in India",
+      "description": "Harmoney is an agentic AI solution for fixed income research, portfolio optimization, and credit analysis for buy-side and wealth managers. We not only make financial analysis faster and cost-effective but also unlock things that could not be done manually before.",
+      "one_liner": "Agentic AI solution for fixed income, credit and portfolio analysis",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 25,
+      "team_size": 30,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
-        "Fintech"
+        "Fintech",
+        "Asset Management"
       ],
       "regions": [
         "India",
@@ -9280,9 +9281,11 @@
       ],
       "locations": "MH, India",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Marketplace",
-        "B2B"
+        "B2B",
+        "Enterprise Software",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -13813,5 +13816,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-04T00:02:47.588901"
+  "fetched_at": "2025-11-04T06:01:08.898851"
 }

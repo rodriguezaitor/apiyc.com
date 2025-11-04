@@ -3660,40 +3660,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dde25caa0cd447568d68dc1fc85383b5f346ba8.png"
     },
     {
-      "id": 23063,
-      "name": "Striga",
-      "slug": "striga",
-      "website": "https://striga.com/",
-      "description": "Striga is building infrastructure for digital assets and financial services as a single set of APIs doing the heavy lifting of security and regulatory compliance. Striga's customers include early stage FinTech's, Web3 innovators, Banking Institutions and Crypto Exchanges utilizing services spanning the range of Crypto Custody, Trading, Card Issuing and Banking. Building a crypto business today is a highly regulated space unlike a few years ago and maintaining a compliance program and building technology presents a huge barrier to entry for startups and mid-size businesses alike and the Striga platform solves the problem with a single set of APIs and a single contract to deliver services to 30 countries today.",
-      "one_liner": "Compliant Crypto and Banking Infrastructure",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 14,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Payments",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "regions": [
-        "Estonia",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Tallinn, Harju County, Estonia",
-      "tags": [
-        "Crypto / Web3",
-        "Compliance"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614224006.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08440373659fcbdaa43425b9239102bfad05c12.png"
-    },
-    {
       "id": 23062,
       "name": "InpharmD",
       "slug": "inpharmd",
@@ -8875,6 +8841,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfe64969ee3b1dd58f0167002557cdeb6c146f38.png"
     },
     {
+      "id": 23063,
+      "name": "Striga",
+      "slug": "striga",
+      "website": "https://striga.com/",
+      "description": "Striga is building infrastructure for digital assets and financial services as a single set of APIs doing the heavy lifting of security and regulatory compliance. Striga's customers include early stage FinTech's, Web3 innovators, Banking Institutions and Crypto Exchanges utilizing services spanning the range of Crypto Custody, Trading, Card Issuing and Banking. Building a crypto business today is a highly regulated space unlike a few years ago and maintaining a compliance program and building technology presents a huge barrier to entry for startups and mid-size businesses alike and the Striga platform solves the problem with a single set of APIs and a single contract to deliver services to 30 countries today.",
+      "one_liner": "Compliant Crypto and Banking Infrastructure",
+      "batch": "Winter 2021",
+      "status": "Acquired",
+      "team_size": 14,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "Estonia",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Tallinn, Harju County, Estonia",
+      "tags": [
+        "Crypto / Web3",
+        "Compliance"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614224006.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08440373659fcbdaa43425b9239102bfad05c12.png"
+    },
+    {
       "id": 23038,
       "name": "Dyte",
       "slug": "dyte",
@@ -11536,5 +11536,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-11-04T00:02:48.000516"
+  "fetched_at": "2025-11-04T06:01:09.915724"
 }
