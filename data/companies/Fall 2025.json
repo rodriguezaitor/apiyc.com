@@ -1260,7 +1260,7 @@
       "slug": "lua-global-inc",
       "website": "https://heylua.ai/",
       "description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you\u2019ve been on our website you\u2019ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\nOur traction:\r\n- 400+ businesses building on Lua\r\n- $1m+ annual contracted recurring revenue (in 5 weeks) & growing 30% WoW\r\n- 500k+ end clients have engaged with a Lua agent (& growing)",
-      "one_liner": "Self-Serve AI powered Sales, Support & Booking Agents",
+      "one_liner": "The unified agent platform for mid-market enterprises",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 5,
@@ -1719,7 +1719,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761179954.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01e4ddf6850170a8daa2d643721e2e9bb8d894e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8611e8ee90a2a7924397ab6bcf911ddc8e25d601.png"
     },
     {
       "id": 30932,
@@ -1825,6 +1825,40 @@
       "is_top_company": false,
       "launched_at": 1760045430.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c9246b8eba5ba12a7373a930ea46cc687dddb98.png"
+    },
+    {
+      "id": 30929,
+      "name": "Inspector",
+      "slug": "inspector",
+      "website": "https://www.tryinspector.com",
+      "description": "The AI IDE for front-end development. Modify styles, move elements, and have changes automatically reflected in your codebase.",
+      "one_liner": "The fastest way to iterate on front-end",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Design",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762248076.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a74c32ba5c193f4216d063ad72608f841e04786.png"
     },
     {
       "id": 30925,
@@ -3913,6 +3947,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/76ede784d7a376de00be11e60bd9f1ed3f6c298c.png"
     },
     {
+      "id": 30821,
+      "name": "Efference",
+      "slug": "efference",
+      "website": "https://efference.ai",
+      "description": "Efference is redefining robotic vision by building the most intelligent cameras on the market. We have an efficient way of computing high quality depth information and are putting that into a camera that will deliver higher performance at half the cost.",
+      "one_liner": "We help robots see like humans do.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Robotics",
+        "Computer Vision",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762259214.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png"
+    },
+    {
       "id": 30816,
       "name": "Digipals",
       "slug": "digipals",
@@ -4123,5 +4191,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-11-04T12:01:34.568553"
+  "fetched_at": "2025-11-04T18:01:11.881225"
 }

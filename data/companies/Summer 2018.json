@@ -1013,10 +1013,10 @@
     },
     {
       "id": 1990,
-      "name": "Tenderd",
+      "name": "TENDERD",
       "slug": "tenderd",
       "website": "https://www.tenderd.com/",
-      "description": "The platform uses a combination of sensors and machine learning algorithms to increase the efficiency and sustainability of operations in the logistics, energy, and construction sector.\r\n",
+      "description": "TENDERD is an AI and IoT platform that helps companies manage and optimize their physical operations. By connecting and analyzing data from fleets, equipment, and worksites in real time, TENDERD enables organizations to improve safety, productivity, and sustainability while reducing fuel use, emissions, and downtime. Trusted by leading energy, logistics, and infrastructure companies, TENDERD turns operational data into actionable intelligence for smarter, more efficient field operations.",
       "one_liner": "AI Platform for Efficient and Sustainable Operations",
       "batch": "Summer 2018",
       "status": "Active",
@@ -1035,14 +1035,17 @@
       "locations": "Dubai, United Arab Emirates",
       "tags": [
         "Construction",
-        "Logistics"
+        "Logistics",
+        "Energy",
+        "Mining",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1525745157.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee2e6fd4d1cfa51f7b35ac4ebf653eb66c08723b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2590cf75bbfc536155814f35756a6bb7704b7358.png"
     },
     {
       "id": 1989,
@@ -4420,5 +4423,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bc972f9200404d5b7bdf30cf4fd37ff60f4653.png"
     }
   ],
-  "fetched_at": "2025-11-04T12:01:34.430367"
+  "fetched_at": "2025-11-04T18:01:11.731232"
 }

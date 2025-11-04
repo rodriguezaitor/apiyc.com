@@ -1293,6 +1293,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf074dabb28f6a317b41850f4ce802050e1e38af.png"
     },
     {
+      "id": 30515,
+      "name": "Saffron Health",
+      "slug": "saffron-health",
+      "website": "https://www.saffron.health",
+      "description": "Saffron Health is building AI agents that automate specialist referrals for primary care. \r\n\r\nPrimary care staff spend hours each day on tedious coordination work: searching for in-network specialists, filling out authorization forms, and chasing down medical records.\r\n\r\nSaffron's agents find available in-network providers, complete prior authorizations, and help patients book appointments, which lowers administrative costs and improves access to care.\r\n",
+      "one_liner": "AI-powered care coordination for primary care",
+      "batch": "Spring 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Digital Health",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762272308.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1d1c47066a65e1dc6b009d0e651d5fdbac29265.png"
+    },
+    {
       "id": 30514,
       "name": "Scalar Field",
       "slug": "scalar-field",
@@ -3443,10 +3476,10 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
         "Infrastructure",
+        "AI",
         "Databases"
       ],
       "stage": "Early",
@@ -3454,7 +3487,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747978820.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc8c59d06bd11958f3cd88c35b928397093f7d8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b0b8869e482d2c399a6856e5127933c31381bd.png"
     },
     {
       "id": 30431,
@@ -4609,5 +4642,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-04T12:01:34.365976"
+  "fetched_at": "2025-11-04T18:01:11.584791"
 }

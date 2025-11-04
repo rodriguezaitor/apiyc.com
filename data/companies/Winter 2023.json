@@ -793,14 +793,14 @@
     },
     {
       "id": 28192,
-      "name": "Koala Ops",
-      "slug": "koala-ops",
-      "website": "https://koalaops.com/",
-      "description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Koala so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone\u2019s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an \u201cinternal developer platform\u201d out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we\u2019ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
-      "one_liner": "A platform for developing microservices on Kubernetes",
+      "name": "Skyhook",
+      "slug": "skyhook",
+      "website": "https://skyhook.io",
+      "description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone\u2019s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an \u201cinternal developer platform\u201d out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we\u2019ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
+      "one_liner": "PaaS-like experience with the power of Kubernetes, on your cloud",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -809,7 +809,9 @@
       ],
       "regions": [
         "Israel",
-        "Middle East and North Africa"
+        "Middle East and North Africa",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "tags": [
@@ -831,7 +833,7 @@
       "name": "Metal",
       "slug": "metal",
       "website": "https://metal.ai/",
-      "description": "Metal is an AI application built for fund deal teams and managers. We accelerate a funds deal flow by reducing the effort needed to collect and parse data, perform diligence, and capture key findings.\r\n\r\n",
+      "description": "Metal is an AI application built for fund deal teams and managers. We accelerate a funds deal flow by reducing the effort needed to collect and parse data, perform diligence, and capture key findings.",
       "one_liner": "Institutional Intelligence for Private Equity",
       "batch": "Winter 2023",
       "status": "Active",
@@ -847,7 +849,13 @@
         "America / Canada"
       ],
       "locations": "New York, NY, USA",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "SaaS",
+        "Finance",
+        "Investing"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -9328,5 +9336,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-11-04T12:01:33.400787"
+  "fetched_at": "2025-11-04T18:01:09.645496"
 }
