@@ -415,8 +415,8 @@
       "name": "AssemblyAI",
       "slug": "assemblyai",
       "website": "https://www.assemblyai.com",
-      "description": "AssemblyAI is an applied AI company. We research, train, and deploy State-of-the-Art AI models for developers and product teams to integrate into their products/apps.\r\n\r\nToday, we offer AI models for audio transcription, content moderation, summarization, topic detection, and many other tasks.\r\n\r\nWe are working towards building the \"Stripe for AI models\" - where developers and product teams will be able to easily access State-of-the-Art AI through a simple API.\r\n\r\nWe're a fully remote team of AI researchers and ML engineers, and have raised over $65M in funding from top investors including Accel, Insight Partners, Y Combinator, John/Patrick Collison, Daniel Gross, and Nat Friedman.",
-      "one_liner": "APIs for AI models",
+      "description": "Today\u2019s top Voice AI companies rely on AssemblyAI\u2019s speech-to-text and speech understanding models to launch groundbreaking products fast and to scale with ease.",
+      "one_liner": "The best way to build Voice AI apps",
       "batch": "Summer 2017",
       "status": "Active",
       "team_size": 65,
@@ -435,8 +435,10 @@
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
         "Artificial Intelligence",
-        "Deep Learning",
-        "Developer Tools"
+        "Developer Tools",
+        "Speech Recognition",
+        "API",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4140,5 +4142,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95842a8ebd992360790565045dc0b9949e8dea8.png"
     }
   ],
-  "fetched_at": "2025-11-03T18:01:17.728915"
+  "fetched_at": "2025-11-04T00:02:50.539391"
 }

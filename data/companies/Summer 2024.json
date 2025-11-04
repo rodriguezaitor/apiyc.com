@@ -5150,22 +5150,31 @@
       "name": "Dench.com",
       "slug": "dench-com",
       "website": "https://dench.com",
-      "description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over \u201cwasted\u201d leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
-      "one_liner": "The AI Legal Intake",
+      "description": "An AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
+      "one_liner": "AI Workforce that does it all",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "Consumer",
       "industries": [
         "B2B",
-        "Legal"
+        "Productivity"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Documents",
+        "Workflow Automation",
+        "Analytics",
+        "CRM",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -5903,7 +5912,7 @@
       "name": "Proxis",
       "slug": "proxis",
       "website": "https://www.proxis.ai/",
-      "description": "Proxis is the AI automation platform\u00a0built for enterprises.\r\n\r\nProxis is creating AI email agents that empower brands and enterprise teams in the creator economy to close deals automatically. Think: your inbox, on autopilot.\r\n\r\nWe initially fine tuned and distilled LLMs for enterprise use\u2014and quickly realized that companies need more than just smarter models. They need full-stack automation. So Proxis built AI agents that handle the tedious, time-consuming work\u2014everything from autonomous sales closers to\u00a0customer service agents.\r\n\r\nThe mission is bold: to build the world\u2019s most capable team of AI agents for every enterprise. Proxis imagines a future where a single founder can run a billion-dollar company\u2014backed by a custom-built army of agents. Proxis is rethinking how agents are built, trained, and deployed from the ground up.",
+      "description": "Proxis is the AI automation platform\u00a0built for enterprises.\r\n\r\nProxis is creating AI email agents that empower brands and enterprise teams to close deals automatically. Think: your inbox, on autopilot.\r\n\r\nWe initially fine tuned and distilled LLMs for enterprise use\u2014and quickly realized that companies need more than just smarter models. They need full-stack automation. So Proxis built AI agents that handle the tedious, time-consuming work\u2014everything from autonomous sales closers to\u00a0customer service agents.\r\n\r\nThe mission is bold: to build the world\u2019s most capable team of AI agents for every enterprise. Proxis imagines a future where a single founder can run a billion-dollar company\u2014backed by a custom-built army of agents. Proxis is rethinking how agents are built, trained, and deployed from the ground up.",
       "one_liner": "The platform for enterprise AI agent automations, starting with email.",
       "batch": "Summer 2024",
       "status": "Active",
@@ -5924,7 +5933,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1725054386.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcc340375de4daf5b1c88ae21362b6088561665c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/451285ce2b3407f2b83c947851ea72847724516e.png"
     },
     {
       "id": 29667,
@@ -6464,9 +6473,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8281,5 +8290,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-03T18:01:12.273570"
+  "fetched_at": "2025-11-04T00:02:48.377166"
 }

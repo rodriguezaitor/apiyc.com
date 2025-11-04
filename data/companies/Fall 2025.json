@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 31018,
+      "name": "item",
+      "slug": "item",
+      "website": "https://item.app",
+      "description": "item connects to all your customer tools, gathers and enriches context automatically, and becomes your company\u2019s source of truth \u2014 one place where your team and your AI agents share the full picture to act autonomously.\r\n\r\nAt the center is the Assistant \u2014 your sidekick for daily work. It can send follow-ups, research leads, or add deals with a simple prompt. No complex UI, drop-downs or fields, simply ask.\r\n\r\nFor repeatable work, you build Agents that you can train like new hires, simply by writing documents that describe your processes. item Agents run business processes across sales, support, and account management autonomously.",
+      "one_liner": "The AI-Native CRM that works for you",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Automation",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762209746.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/489b44af8e973c25eda472f6d5b28122caeafb54.png"
+    },
+    {
       "id": 31013,
       "name": "Rivet",
       "slug": "rivet-design",
@@ -423,7 +456,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1760756123.0,
@@ -835,6 +868,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png"
     },
     {
+      "id": 30964,
+      "name": "Sava",
+      "slug": "savahq",
+      "website": "https://www.savahq.com",
+      "description": "Sava is building the agentic trust company for an industry that manages $6.5 trillion in U.S. assets today.\r\n\r\nA trust charter is the state license that lets us act as a legal trustee: open and administer trusts, hold assets, and make distributions under the law. \r\n\r\nWe treat that charter like infrastructure.\r\n\r\nThink Stripe for fiduciary work: one integration and dashboard to open a trust, fund it, track it in real time, make distributions, and stay compliant. \r\n\r\nOur AI agents handle the grunt work: collect data, chase signatures, assemble documents, reconcile positions so that people can focus on making high-quality decisions. Every step is captured in a timestamped audit trail. Agents also enable continuous compliance: risk checks run as data changes. Reviews are prompted automatically. Nothing falls through the cracks.\r\n\r\nTeam\r\n\r\nNimit Maru, CEO \u2013 2X YC Founder.  Built and sold Fullstack (S12) for $55M on $1M raised. Experienced the trust industry's dysfunction firsthand post-exit and came back to YC to fix it.\r\n\r\nRush Sadiwala, COO \u2013 Experienced founder, previously backed by Kevin Rose at True Ventures. Spent the first 5 years of his career on the buy side in Investment Management. \r\n\r\nWe're in YC F25 and working with experienced trust professionals, including a Chief Trust Officer from a top-tier trust company, to bring modern infrastructure to the trust industry.",
+      "one_liner": "The Agentic Trust Company",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762196127.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc8f9d4d6337ea663afc0947984b8597189cd0a.png"
+    },
+    {
       "id": 30963,
       "name": "Waffer",
       "slug": "waffer",
@@ -1135,7 +1199,7 @@
       "one_liner": "Edit thousands of hours of footage in seconds",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 3,
       "industry": "Consumer",
       "subindustry": "Consumer -> Content",
       "industries": [
@@ -1148,8 +1212,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Video"
+        "Video",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1357,6 +1421,39 @@
       "is_top_company": false,
       "launched_at": 1760485553.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5583787b8c6dc46895f26ea073266ec40bae7ea0.png"
+    },
+    {
+      "id": 30942,
+      "name": "Scott AI",
+      "slug": "scott-ai",
+      "website": "https://tryscott.ai",
+      "description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It\u2019s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process: making coding agents a first class participant while maintaining the process' iterative, human oriented and often messy nature.\r\n\r\nWith Scott, teams can give any model (Claude, Codex, Gemini, and more) secure, one-click access to their codebase. (1) Our Discovery Layer runs several coding agents in parallel to expose their divergences and highlight the most critical design decisions. (2) Our Alignment Layer turns static docs into living specs that are custom built to preserve smooth engineering collaboration. (3) Scott is compatible with all coding agents and all tools used for authoring code.\r\n\r\nBy unifying spec design discovery, agent orchestration, and team alignment, Scott helps teams leverage coding agents more effectively. With Scott, teams ship higher-quality software faster while saving time and tokens that were previously spent on illusions of productivity and low-quality AI codegen.",
+      "one_liner": "Coding agent plan mode with super powers",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Collaboration",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762199813.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png"
     },
     {
       "id": 30940,
@@ -2466,6 +2563,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png"
     },
     {
+      "id": 30888,
+      "name": "Lakonia",
+      "slug": "lakonia",
+      "website": "https://lakonia.us.com",
+      "description": "Lakonia is building an AI-powered command and control platform for law enforcement and the military. Our AI transcribes radio communications, analyzes them, and then synthesizes information for commanders/dispatchers and operators to act on.",
+      "one_liner": "Delivering AI-powered situational awareness in tactical environments.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "GovTech",
+        "NLP"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762149553.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4443807fceed8c4c07d359095cd0ddfa3435352b.png"
+    },
+    {
       "id": 30887,
       "name": "SellRaze",
       "slug": "sellraze",
@@ -3114,9 +3242,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Productivity",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3124,7 +3252,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761153567.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dca281248422a76ecfa8a7a76fdf979bead1771.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac17a1edc08045fefbaf98ea25aab130faa01de.png"
     },
     {
       "id": 30860,
@@ -3354,6 +3482,37 @@
       "is_top_company": false,
       "launched_at": 1759450579.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e16ccc5827c9436c2ec14d6feb3d12e71045157d.png"
+    },
+    {
+      "id": 30851,
+      "name": "Sylvian",
+      "slug": "sylvian",
+      "website": "https://sylvian.ai",
+      "description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for AI labs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
+      "one_liner": "Expert tool use data (Excel, VSCode, etc.) for foundation labs",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Reinforcement Learning",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762195938.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png"
     },
     {
       "id": 30850,
@@ -3754,6 +3913,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/76ede784d7a376de00be11e60bd9f1ed3f6c298c.png"
     },
     {
+      "id": 30816,
+      "name": "Digipals",
+      "slug": "digipals",
+      "website": "https://www.digipals.app/",
+      "description": "Social media has become more media and less social. When I open up Facebook and Instagram, I don\u2019t see any of my friends on it anymore - it\u2019s one third ads, one third content from strangers on the internet, and one third AI slop. My friends are no longer on social media - I either meet up with them IRL or catch up with them in group chats.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM \r\n\r\nWe\u2019re building the first AI-native social operating system where digipals (ambient ai agents that have full context over your location, calendar, group chats, photos, and relationship history with your friends) act as the atomic units of human coordination. Your digipal gets full context over who you are, when you're available, and what you like. It then talks with your friends\u2019 digipals to suggest hangouts when everyone is free, find restaurants and coffee shops nearby, make dinner reservations using AI calls, split bills based on the receipt, and nudge posting photo memories after hanging out.\r\n\r\nBy removing the friction for human connection, we believe that AI can be used to deepen human relationships by allowing us to spend more time with friends IRL and through staying close to their life updates and memories in group chats.",
+      "one_liner": "The First AI-Native Social Operating System",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer",
+        "Social Media",
+        "Social",
+        "Social Network"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762213106.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a100705513555f60b674edacd7874b01e7bef2df.png"
+    },
+    {
       "id": 30812,
       "name": "Mixy",
       "slug": "mixy",
@@ -3927,42 +4121,7 @@
       "is_top_company": false,
       "launched_at": 1759337800.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
-    },
-    {
-      "id": 26144,
-      "name": "EasyCode",
-      "slug": "easycode",
-      "website": "https://www.easycode.ai/",
-      "description": "Imagine Lovable and Cursor had a baby - EasyCode is an AI platform where non-technical builders finish their projects. It's fully local, comes with real backends, visual debugger, and built-in security. It's also the first platform optimized to work with open source LLMs to unlock the most value. ",
-      "one_liner": "Where vibe coders finish their projects",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Toronto, ON, Canada; Remote",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "No-code"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1680284500.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13900befd20ceccd80b530bd40fdf94bd861483d.png"
     }
   ],
-  "fetched_at": "2025-11-03T18:01:18.510411"
+  "fetched_at": "2025-11-04T00:02:50.687829"
 }
