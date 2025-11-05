@@ -2307,7 +2307,7 @@
         "Maritime"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753760756.0,
@@ -2667,7 +2667,7 @@
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
       "description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nGeneral-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
-      "one_liner": "Coding Agent for Firmware",
+      "one_liner": "Claude Code for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -2683,10 +2683,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Hardware",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3781,7 +3781,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Janet AI is the intelligent ticket management system built for modern engineering teams.\r\n\r\nTicket management today is too manual. Context gets scattered. Information doesn\u2019t stay-up-to date. Systems get noisy.\r\n\r\nJanet AI automatically creates, updates, and organizes work items through integrations with your company\u2019s information channels, so you never manually have to.",
+      "description": "Janet AI is the AI-first ticket management system, built for modern engineering teams.\r\n\r\nTicket management today is too reliant on manual work. Context gets scattered. Information doesn\u2019t stay-up-to date. Systems get noisy.\r\n\r\nWe integrate with your information channels (meetings, Slack, Discord, SMS, etc.) to auto-create, update, and organize work items.",
       "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3797,10 +3797,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5302,7 +5302,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+      "description": "Ambral is an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.",
       "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5460,5 +5460,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-04T18:01:11.152324"
+  "fetched_at": "2025-11-05T00:02:51.988322"
 }

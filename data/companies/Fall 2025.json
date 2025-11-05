@@ -637,8 +637,8 @@
       "name": "Freeport Markets",
       "slug": "freeport-markets",
       "website": "https://www.freeportmarkets.com/",
-      "description": "Freeport is the intelligence layer for DeFi investing, designed for onchain investors who want an easy way to gain smart exposure to risks that they can understand. It earns optimized yield on idle assets and builds diversified portfolios through a combination of human expertise and AI-driven guidance. The result is a simplified, interpretable, and personalized path to sustainable onchain returns. ",
-      "one_liner": "Intelligent DeFi Investment Platform",
+      "description": "Freeport is the intelligence layer for DeFi, built for onchain investors seeking smart & interpretable exposure. It seamlessly earns optimized yield on idle assets and constructs diversified portfolios through a combination of human insight and AI-driven intelligence. With access to tokenized private assets, structured yields, and institutional-grade investment strategies, Freeport puts the full spectrum of sophisticated onchain opportunities at your fingertips.",
+      "one_liner": "Intelligent DeFi Investing ",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -654,11 +654,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Crypto / Web3",
         "Investing",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1389,6 +1389,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1456a0cab6aece2240abb581d153d9212c6dd68.png"
     },
     {
+      "id": 30944,
+      "name": "HireGlide",
+      "slug": "hireglide",
+      "website": "https://www.hireglide.ai/",
+      "description": "HireGlide puts the right people in the right places. Candidates get sent towards roles which are looking for people just like them by creating a relational career passport which can assess fit at open roles. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
+      "one_liner": "Turning recruiting into an efficient market.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Recruiting",
+        "HR Tech",
+        "Talent Acquisition"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762295048.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png"
+    },
+    {
       "id": 30943,
       "name": "Aside",
       "slug": "aside",
@@ -1848,10 +1882,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Design",
-        "Design Tools"
+        "Design Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2323,6 +2357,40 @@
       "is_top_company": false,
       "launched_at": 1761643617.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png"
+    },
+    {
+      "id": 30906,
+      "name": "Agentic Fabriq",
+      "slug": "agentic-fabriq",
+      "website": "https://www.agenticfabriq.com",
+      "description": "Agentic Fabriq is the single control plane for data permissioning throughout your entire organization across your AI and employees. Through Fabriq, any employee can tap into AI/agents with exactly the data and tools they're cleared to use by an admin. Fabriq can be used internally with employees or externally for customers while handling the auth + integrations + permissions securely for you.",
+      "one_liner": "Okta for Agents.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Sunnyvale, CA, USA",
+      "tags": [
+        "AIOps",
+        "DevSecOps",
+        "SaaS",
+        "API",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762294029.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png"
     },
     {
       "id": 30903,
@@ -2926,7 +2994,7 @@
       "slug": "veria-labs",
       "website": "https://verialabs.com",
       "description": "Veria Labs is developing AI agents that hack better than the best human hackers. Founded by members of the #1 US competitive hacking team, we've already manually found critical bugs in AI tools, operating systems, fintech and billion dollar crypto exchanges. \r\n\r\nNow we're scaling that expertise through AI-native security tooling that operates faster than human researchers while finding deeper, more complex vulnerabilities that traditional tools miss.",
-      "one_liner": "Automated security for high-stakes industries",
+      "one_liner": "Continuous AI pentesting that finds and fixes vulnerabilities",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2942,8 +3010,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Security"
+        "Security",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3489,7 +3557,7 @@
       "slug": "gpt",
       "website": "https://agent.nexus",
       "description": "Nexus enables non-technical teams in large organizations to build production-ready AI agents without code.",
-      "one_liner": "Business-led Enterprise AI",
+      "one_liner": "We help non-technical teams build AI agent no-code",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3506,9 +3574,9 @@
       ],
       "locations": "Brussels, Brussels, Belgium",
       "tags": [
-        "Artificial Intelligence",
         "No-code",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4105,9 +4173,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4191,5 +4259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-11-04T18:01:11.881225"
+  "fetched_at": "2025-11-05T00:02:52.285877"
 }

@@ -1442,18 +1442,19 @@
     },
     {
       "id": 30297,
-      "name": "TripleZip",
-      "slug": "triplezip",
-      "website": "https://www.triplezip.ai/",
-      "description": "TripleZip is a platform that automates accounting for commercial real estate using AI. CRE firms use TripleZip to save up to 95% on accounting compared to hiring an outside firm for complex tasks like CAM reconciliation and budgeting.",
-      "one_liner": "Automating CRE accounting with AI",
+      "name": "OpenIntake",
+      "slug": "openintake",
+      "website": "https://www.openintake.ai/",
+      "description": "OpenIntake boosts law firm revenue by converting callers into clients 24/7.",
+      "one_liner": "The AI Front Door For Law Firms",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Real Estate and Construction",
+      "industry": "B2B",
       "subindustry": "Real Estate and Construction",
       "industries": [
-        "Real Estate and Construction"
+        "B2B",
+        "Legal"
       ],
       "regions": [
         "United States of America",
@@ -1461,17 +1462,18 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Fintech",
         "SaaS",
-        "Real Estate",
-        "B2B"
+        "B2B",
+        "Sales",
+        "Legal",
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739319968.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f4e0e47cd297112180002445453372df15eb7ac.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ced23ced30b69c57284845a23b859ac9815a5770.png"
     },
     {
       "id": 30296,
@@ -3521,7 +3523,7 @@
         "GovTech"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1741557589.0,
@@ -5368,5 +5370,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-11-04T18:01:11.298597"
+  "fetched_at": "2025-11-05T00:02:52.049284"
 }
