@@ -160,7 +160,7 @@
       "id": 30804,
       "name": "Luminal",
       "slug": "luminal",
-      "website": "https://luminalai.com",
+      "website": "https://luminal.com",
       "description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
       "one_liner": "Making AI run fast on any hardware.",
       "batch": "Summer 2025",
@@ -176,7 +176,12 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "AIOps",
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Cloud Computing"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -5460,5 +5465,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-05T12:01:22.399413"
+  "fetched_at": "2025-11-05T18:01:10.614284"
 }
