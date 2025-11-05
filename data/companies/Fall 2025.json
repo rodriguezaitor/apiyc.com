@@ -2389,7 +2389,7 @@
       "name": "Logical",
       "slug": "logical",
       "website": "https://trylogical.ai",
-      "description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers.",
+      "description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers. Logical is the AI resurrection of Clippy, but actually good.",
       "one_liner": "A hyper context-aware and proactive desktop AI copilot",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2406,8 +2406,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "Consumer",
+        "B2B",
         "Productivity",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3683,7 +3685,7 @@
       "name": "Sylvian",
       "slug": "sylvian",
       "website": "https://sylvian.ai",
-      "description": "Sylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
+      "description": "Sylvian creates expert data for LLMs through competitions.\r\n\r\nLLMs continue to need lots of expert data. Unfortunately, existing data vendors like Scale or Mercor are not motivating the best experts through part-time pay. Competitions are more intrinsic motivators, and naturally incentivize high quality data.\r\n\r\nSylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We already have 4,500+ experts, from IMO Golds to MIT/Stanford PhDs to full time QRs at Point72, producing data at 1B tokens/week!",
       "one_liner": "Data for LLMs through Competition",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4352,5 +4354,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-11-05T06:01:16.662386"
+  "fetched_at": "2025-11-05T12:01:23.630809"
 }
