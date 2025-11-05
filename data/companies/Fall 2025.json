@@ -395,6 +395,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b83cf59ad054e70425f43d0b88baf73e447920a.png"
     },
     {
+      "id": 30996,
+      "name": "Axial Composites Industries",
+      "slug": "axial-composites-industries",
+      "website": "https://www.axialcomposite.com",
+      "description": "Composites manufacturing is expensive and slow. \r\n\r\nWe are building a non-planar manufacturing cell that can produce thermoplastic composites by continuous fiber injection. \r\n\r\nThis not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for manufacturing composites. Our method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. \r\n\r\nWe are commercializing a new approach to composite manufacturing that aims to be the backbone of the next aerospace and robotics age. ",
+      "one_liner": "Manufacturing cell for automated carbon fiber parts production",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Hard Tech",
+        "Manufacturing",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1757132336.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png"
+    },
+    {
       "id": 30995,
       "name": "Velvet",
       "slug": "velvet",
@@ -672,7 +704,7 @@
       "name": "Miniswap",
       "slug": "miniswap",
       "website": "https://miniswap.gg/",
-      "description": "Miniswap a marketplace for the $1B+ tabletop miniatures market, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding minis on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 8000 data-enriched SKUs. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $10B+ in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to expand its wedge into adjacent categories, bringing greater transparency, simplicity, and connectivity into additional tabletop games and collectibles verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer, and have been best friends ever since. ",
+      "description": "Miniswap a marketplace for the $20B tabletop games market, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding what you want on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 14,000 unique miniatures. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $20B in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to expand its wedge into adjacent categories, bringing greater transparency, simplicity, and connectivity into additional tabletop games and collectibles verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer, and have been best friends ever since. ",
       "one_liner": "The Marketplace for Tabletop Games",
       "batch": "Fall 2025",
       "status": "Active",
@@ -731,6 +763,40 @@
       "is_top_company": false,
       "launched_at": 1761513033.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/854d5ebc9419a8974e7acf5bf13e395923c740a6.png"
+    },
+    {
+      "id": 30972,
+      "name": "Jarmin",
+      "slug": "jarmin",
+      "website": "https://jarmin.ai/",
+      "description": "Jarmin.ai is your 24/7 ML eng employee that you hire. Just talk to Jarmin like any other employee and Jarmin handles your AI/ML work from there. Completely hand over full initiatives or individual tasks.\r\n\r\nJarmin\u2019s founding team is from Meta Super Intelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), and AWS (scaling infra) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
+      "one_liner": "24/7 Machine Learning Engineer employees",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Machine Learning",
+        "B2B",
+        "ML"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762304310.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png"
     },
     {
       "id": 30969,
@@ -1393,7 +1459,7 @@
       "name": "HireGlide",
       "slug": "hireglide",
       "website": "https://www.hireglide.ai/",
-      "description": "HireGlide puts the right people in the right places. Candidates get sent towards roles which are looking for people just like them by creating a relational career passport which can assess fit at open roles. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
+      "description": "HireGlide puts the right people in the right places. Candidates get sent to roles which are looking for people just like them with a relational career passport which can measure fit for multiple open positions. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
       "one_liner": "Turning recruiting into an efficient market.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1980,19 +2046,12 @@
         "Fintech"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Fintech",
-        "Finance",
-        "Consumer Finance",
-        "Neobank"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759770880.0,
@@ -2298,7 +2357,7 @@
       "name": "Aleph Lab",
       "slug": "aleph-lab",
       "website": "http://alephlab.ai/",
-      "description": "Aleph Kids is an AI companion that chats and plays with children inside games like Minecraft, helping them learn a new language while they play. Kids already spend hours each week in their favorite games, and now parents can turn that game time into learning time.",
+      "description": "An AI companion that chats and plays with children inside games like Minecraft, helping them learn a new language while they play. Kids already spend hours each week in their favorite games, and now parents can turn that game time into learning time.",
       "one_liner": "Your child\u2019s AI language buddy inside the games they already love. ",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2314,9 +2373,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Gaming",
-        "Edtech",
-        "AI"
+        "Edtech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2424,6 +2483,40 @@
       "is_top_company": false,
       "launched_at": 1761187283.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png"
+    },
+    {
+      "id": 30901,
+      "name": "Sanctum",
+      "slug": "sanctum",
+      "website": "https://heysanctum.com/",
+      "description": "Sanctum lets you launch new features to a massively parallel simulation of your users before releasing to real customers. We build AI user models from your session recordings, run them against your changes, and surface bugs, UX issues, and performance problems early. Sanctum also allows you to \"chat\" with your artificial personas, which can explore your site to answer your questions. Results get delivered into your existing workflows.",
+      "one_liner": "Ship features to simulated users before real ones",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "Analytics",
+        "Market Research"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762303410.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd22bee184fcb9c2caeab9537bdee087a53a0865.png"
     },
     {
       "id": 30899,
@@ -3482,7 +3575,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761607655.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/116a7916c95520914702391b640fde340a3d901b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce09b41be7523bc55b3742c8d06ae8ddf424a0d.png"
     },
     {
       "id": 30854,
@@ -3590,8 +3683,8 @@
       "name": "Sylvian",
       "slug": "sylvian",
       "website": "https://sylvian.ai",
-      "description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for LLMs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
-      "one_liner": "Expert tool use data for LLMs",
+      "description": "Sylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
+      "one_liner": "Data for LLMs through Competition",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -4259,5 +4352,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     }
   ],
-  "fetched_at": "2025-11-05T00:02:52.285877"
+  "fetched_at": "2025-11-05T06:01:16.662386"
 }

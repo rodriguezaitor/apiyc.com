@@ -4045,11 +4045,11 @@
       "name": "superglue",
       "slug": "superglue",
       "website": "https://superglue.ai/",
-      "description": "superglue automates workflows from natural language. Engineering teams use it to make agents reliable in prod: it lets them build deterministic workflows across apps, APIs and databases. Non-technical teams use it to automate complex workflows, without the need for engineers.",
-      "one_liner": "Workflow automation engine",
+      "description": "superglue replaces brittle SQL scripts, cron jobs, and one-off connectors that power enterprise operations with clean, versioned syncs you can actually understand and trust. It rebuilds the logic behind integrations, so migrating systems, adding tools, or scaling processes no longer breaks everything. Companies running on superglue roll out AI projects faster, spend less on maintenance, and future-proof their business for continuous optimization.",
+      "one_liner": "AI that fixes enterprise glue",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Retail",
       "industries": [
@@ -4062,9 +4062,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Developer Tools",
         "Open Source",
         "API",
+        "Enterprise",
+        "Enterprise Software",
         "AI"
       ],
       "stage": "Early",
@@ -5370,5 +5371,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-11-05T00:02:52.049284"
+  "fetched_at": "2025-11-05T06:01:15.405237"
 }
