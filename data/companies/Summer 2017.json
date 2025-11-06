@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "id": 1109,
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "website": "https://www.billiontoone.com",
+      "description": "BillionToOne has developed a DNA molecular counter that increases the cell-free DNA diagnostics resolution by over 1,000 fold, which unlocks transformative improvements in prenatal screening and liquid biopsy for cancers. Unity Screen, BillionToOne's commercially available non-invasive prenatal test (NIPT), is the only NIPT that can assess fetal risk for both recessive conditions and aneuploidies from maternal blood. UNITY Screen continues to grow exponentially and is on its path to becoming the next standard-of-care, with an increasing number of publications showing its accuracy and advantages over other screening methods. We have also recently used our molecular counting technology to develop liquid biopsy tests, which have the potential to completely transform oncology care.",
+      "one_liner": "The genetic testing platform detecting and measuring disease.",
+      "batch": "Summer 2017",
+      "status": "Public",
+      "team_size": 300,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "industries": [
+        "Healthcare",
+        "Diagnostics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Menlo Park, CA, USA",
+      "tags": [
+        "Diagnostics",
+        "Genomics"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1453416611.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7374f48e30f2dabadb3413903af69fcda589d67f.png"
+    },
+    {
       "id": 1616,
       "name": "Flock Safety",
       "slug": "flock-safety",
@@ -1925,40 +1959,6 @@
       "is_top_company": false,
       "launched_at": 1490767310.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9257ab537c34ef4ee8f5d98bf4afb1793755e28.png"
-    },
-    {
-      "id": 1109,
-      "name": "BillionToOne",
-      "slug": "billiontoone",
-      "website": "https://www.billiontoone.com",
-      "description": "BillionToOne has developed a DNA molecular counter that increases the cell-free DNA diagnostics resolution by over 1,000 fold, which unlocks transformative improvements in prenatal screening and liquid biopsy for cancers. Unity Screen, BillionToOne's commercially available non-invasive prenatal test (NIPT), is the only NIPT that can assess fetal risk for both recessive conditions and aneuploidies from maternal blood. UNITY Screen continues to grow exponentially and is on its path to becoming the next standard-of-care, with an increasing number of publications showing its accuracy and advantages over other screening methods. We have also recently used our molecular counting technology to develop liquid biopsy tests, which have the potential to completely transform oncology care.",
-      "one_liner": "The genetic testing platform detecting and measuring disease.",
-      "batch": "Summer 2017",
-      "status": "Active",
-      "team_size": 300,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Diagnostics",
-      "industries": [
-        "Healthcare",
-        "Diagnostics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Menlo Park, CA, USA",
-      "tags": [
-        "Diagnostics",
-        "Genomics"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1453416611.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7374f48e30f2dabadb3413903af69fcda589d67f.png"
     },
     {
       "id": 1715,
@@ -4142,5 +4142,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95842a8ebd992360790565045dc0b9949e8dea8.png"
     }
   ],
-  "fetched_at": "2025-11-06T12:01:28.337302"
+  "fetched_at": "2025-11-06T18:01:21.432597"
 }

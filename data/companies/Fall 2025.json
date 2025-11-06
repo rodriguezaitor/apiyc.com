@@ -1456,7 +1456,7 @@
       "name": "Lua Global Inc",
       "slug": "lua-global-inc",
       "website": "https://heylua.ai/",
-      "description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you\u2019ve been on our website you\u2019ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\nOur traction:\r\n- 400+ businesses building on Lua\r\n- $1m+ annual contracted recurring revenue (in 5 weeks) & growing 30% WoW\r\n- 500k+ end clients have engaged with a Lua agent (& growing)",
+      "description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you\u2019ve been on our website you\u2019ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\n",
       "one_liner": "The unified agent platform for mid-market enterprises",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3452,8 +3452,8 @@
       "name": "Soren",
       "slug": "soren",
       "website": "https://soren-ai.com",
-      "description": "Vertical AI needs vertical evals.\r\n\r\nVertical AI applications are rapidly being adopted in real-world workflows. Yet there\u2019s still no good way to rigorously evaluate their performance -- especially on complex, multi-step workflows.\r\n\r\nSoren AI helps teams curate high-quality datasets and benchmarks and provides the infrastructure to run these evaluations end to end.\r\n\r\nIf you want to make your AI more reliable, book a time at: https://soren-ai.com/",
-      "one_liner": "Domain-specific evals for your vertical AI",
+      "description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process \u2014 dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
+      "one_liner": "Autonomous QA engineer for AI systems",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 1,
@@ -3468,11 +3468,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4592,5 +4592,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-06T12:01:27.744310"
+  "fetched_at": "2025-11-06T18:01:20.820939"
 }
