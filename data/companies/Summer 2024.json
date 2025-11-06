@@ -762,7 +762,7 @@
       "one_liner": "The Open Source Agentic Browser",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "Consumer",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -774,10 +774,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Consumer",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4332,7 +4332,7 @@
       "one_liner": "Automate security and privacy reviews",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -4347,10 +4347,10 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Security",
-        "Privacy",
-        "AI"
+        "Privacy"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6455,8 +6455,8 @@
       "name": "Corgi",
       "slug": "corgi",
       "website": "https://corgi.insure",
-      "description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We\u2019re taking it all.",
-      "one_liner": "Corgi is building an AI insurance company",
+      "description": "Corgi the AI financial infrastructure company. We are headquartered in San Francisco, with offices in Salt Lake City, Dallas, Chicago, and Atlanta.",
+      "one_liner": "Corgi is building an AI financial infrastructure company",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 70,
@@ -6472,9 +6472,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8289,5 +8289,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-06T00:02:46.983485"
+  "fetched_at": "2025-11-06T06:01:06.769189"
 }

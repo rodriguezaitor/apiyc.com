@@ -193,6 +193,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3b300791985ce328fa08da12278e2c8cc8ddc9.png"
     },
     {
+      "id": 31007,
+      "name": "Zarna",
+      "slug": "zarna",
+      "website": "https://www.zarnaai.com/",
+      "description": "Zarna is private equity\u2019s first AI associate class.\r\n\r\nOur agents plug directly into your firm\u2019s data and work like a deal team that never sleeps. Zarna\u2019s agents analyze CIMs, build LBOs, update CRMs, draft IC memos, & act based on decades of proprietary firm knowledge. \r\n\r\nThe result: investors spend less time buried in decks and spreadsheets, and more time on judgment, relationships, and winning deals. \r\n",
+      "one_liner": "AI Private Equity Associates",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Investments"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762391689.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d20374e923bd141960c3c8fd2965f8288e95aa58.png"
+    },
+    {
       "id": 31005,
       "name": "MarkIt",
       "slug": "markit",
@@ -829,6 +861,39 @@
       "is_top_company": false,
       "launched_at": 1761513033.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/854d5ebc9419a8974e7acf5bf13e395923c740a6.png"
+    },
+    {
+      "id": 30975,
+      "name": "Castari",
+      "slug": "castari",
+      "website": "https://castari.com",
+      "description": "",
+      "one_liner": "Vercel for AI Agents \u2013 Deploy sandboxed agents with MCP tools & skills",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "Fintech",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762394891.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c64526d1a467a80b1b85a5386053d1f5a8a444.png"
     },
     {
       "id": 30972,
@@ -3122,8 +3187,8 @@
       "name": "Cranston AI",
       "slug": "cranston-ai",
       "website": "https://www.cranstonai.com/",
-      "description": "Cranston is a full service accounting firm. We handle bookkeeping, corporate taxes, and financial automations for SMB and mid market companies with AI software and a CPA team. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nWe automate bookkeeping with daily reconciliations, accruals, and a month end close reviewed by CPAs. We also handle Taxes end to end, from quarterly estimates to year end corporate returns, prepared from the same ledger and filed on schedule.",
-      "one_liner": "Full-service AI for accounting and finance",
+      "description": "Cranston is a full stack AI accounting firm. We handle bookkeeping, corporate taxes, and financial automations for SMB and mid market companies with AI software and a CPA team. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nWe automate bookkeeping with daily reconciliations, accruals, and a month end close reviewed by CPAs. We also handle Taxes end to end, from quarterly estimates to year end corporate returns, prepared from the same ledger and filed on schedule.",
+      "one_liner": "Full stack AI for accounting and finance",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3214,6 +3279,40 @@
       "is_top_company": false,
       "launched_at": 1758644249.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png"
+    },
+    {
+      "id": 30874,
+      "name": "Iris",
+      "slug": "iriscal",
+      "website": "https://textiris.com/",
+      "description": "Iris connects all your calendars and inboxes in one place with a built in personal assistant. It connects with Gmail, Google Calendar, Maps, and more to understand your context - what you\u2019re working on, who you\u2019re meeting, and where you need to be - and intelligently organizes your time around what actually matters. \r\n\r\nUnlike assistants that just schedule events, Iris learns your rhythm and automates your workflow: drafting emails, moving meetings, blocking focus time, and coordinating across accounts, all with your approval. \r\n\r\nWe\u2019re building the next generation of personal AI, one that keeps you ahead.",
+      "one_liner": "All your calendars and inboxes, powered by an intelligent assistant.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer",
+        "Productivity",
+        "Calendar",
+        "Email",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762405247.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab0621356dad2e93ac6c0e1b6a09ff4607f0968f.png"
     },
     {
       "id": 30871,
@@ -3920,7 +4019,7 @@
       "name": "Brickwise",
       "slug": "brickwise",
       "website": "https://www.brickwiseai.com",
-      "description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving paymens.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
+      "description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving payments.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
       "one_liner": "AI property manager for landlords and estate agents",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3936,10 +4035,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Real Estate",
         "Proptech",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4488,5 +4587,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-06T00:02:48.957514"
+  "fetched_at": "2025-11-06T06:01:10.851186"
 }

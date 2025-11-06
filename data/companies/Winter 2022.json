@@ -9922,11 +9922,11 @@
       "name": "Cozmo AI",
       "slug": "cozmo-ai",
       "website": "https://www.hellocozmo.ai/",
-      "description": "Cozmo provides AI employees powered by advanced voice technology that enables natural, human-like conversations. These digital workers communicate fluently with customers and stakeholders while handling repetitive tasks 24/7. Through our no-code platform, businesses can deploy AI employees that manage entire processes through voice interactions, replacing multiple software tools with unified solutions.\r\n\r\nWe\u2019ve unveiled 3 powerful AI employees, with more to come:\r\n\r\nLiza (Sales Executive) - Engages in natural voice conversations throughout the sales cycle, from initial prospect calls to negotiations and closure. She handles qualification calls, follow-ups, and maintains CRM records while building rapport through intelligent dialogue.\r\n\r\nAlex (Debt Collector) - Conducts professional voice communications for collections, speaking with customers to arrange payments, negotiate plans, and ensure timely follow-ups while maintaining regulatory compliance.\r\n\r\nZara (Receptionist) - Masters voice-based front-office management, engaging in natural conversations to route calls, schedule appointments, take detailed messages, and resolve customer inquiries with a friendly, professional tone.\r\n\r\nLike the industrial revolution transformed farming, we're revolutionizing workplace communication. By automating routine conversations and tasks, human teams can focus on creativity, problem-solving, and business growth.\r\n\r\nWe're the first in the Middle East and Africa to offer this kind of technology, but we work with businesses all over the world. We're backed by Y Combinator, Goodwater Capital, Dubai Future District Fund, Rebel Fund, and Trampoline Venture Partners, and have raised $4M in our latest round.",
-      "one_liner": "We help you build AI Employee who can speak, think and do",
+      "description": "Cozmo AI is building the foundational infrastructure for real-time, low-latency voice automation for regulated enterprises. \r\n\r\nWe enable Fortune 500 and leading insurers to deploy AI Employees that can speak, think, and act across revenue-critical workflows. In one global deployment, our voice-native AI employees managed all inbound and outbound policy calls with zero wait time and full compliance. \r\n\r\nThe verified AI performance not only improved service speed but also surfaced new, qualified leads creating what we call the \u201cefficiency loop,\u201d where AI handles repeatable tasks while humans capture higher-value opportunities. \r\n\r\nEach interaction is governed and auditable through our Agent Protocol Engine (APE\u2122), which provides a transparent trail showing what the AI did, why it did it, and what business outcome it achieved. In industries like insurance, where trust and traceability matter more than speed, verified outcomes have become the new competitive edge. Cozmo AI also supports with foundational voice and agentic infrastructure built for regulated, multilingual markets:\r\n\u2022\u2060 \u2060Arabic + English first agents with Gulf dialect understanding. 97+ other languages supported\r\n\u2022\u2060 \u2060Sub-1.5 second latency across telephony.\r\n\u2022\u2060 \u2060Compliance-ready for local sovereignty laws.\r\n\u2022\u2060 \u2060APE Memory Engine for contextual, traceable reasoning.\r\n\u2022\u2060 \u2060Forward-Deployed Implementation Pods that integrate AI employees directly into live operations.\r\n\r\nBacked by YCombinator, Dubai Future District Fund and other global VCs we have headquarters in San Francisco and EMEA HQ in Dubai.",
+      "one_liner": "Voice AI workforce for regulated businesses",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 11,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -10741,7 +10741,7 @@
       "slug": "worldql",
       "website": "https://www.worldql.com/",
       "description": "",
-      "one_liner": "Browser-based game engine for AI training and creative play",
+      "one_liner": "Multiplayer engine for building games and RL environments",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 3,
@@ -10759,17 +10759,17 @@
       ],
       "locations": "Denver, CO, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Reinforcement Learning",
-        "Gaming"
+        "Gaming",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1648654841.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/401194aca65ea13eef2464d414e25b5b43c7854f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png"
     },
     {
       "id": 25305,
@@ -13816,5 +13816,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-06T00:02:46.176405"
+  "fetched_at": "2025-11-06T06:01:05.262662"
 }
