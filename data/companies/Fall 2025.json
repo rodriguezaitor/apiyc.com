@@ -462,6 +462,72 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f333f0eb8eb873e8e242bef88d7d4fbf13bfc08.png"
     },
     {
+      "id": 30993,
+      "name": "DiligenceSquared Inc.",
+      "slug": "diligencesquared-inc",
+      "website": "https://diligencesquared.com/",
+      "description": "DiligenceSquared delivers AI-powered market due diligence for investment decisions - like the $1M McKinsey reports, but automated, auditable, and at a fraction of the cost.\r\n\r\nWhen Private Equity funds evaluate deals, they pay firms like McKinsey, BCG, and Bain $500K-$1M for market due diligence. The process takes weeks, and the output is a static PowerPoint that's impossible to audit. A single large-cap PE fund can spend >$30M annually on this and the total market is $10B+ per year.\r\n\r\nOur AI agents conduct expert interviews and synthesize insights with every claim linked to source transcripts. No black box, no \"trust me\" slides, and no 10x mark-up for human labor.\r\n\r\nFrederik bought these reports as a Principal at Blackstone. Soren sold them as a Principal at BCG. Harshil is a repeat founder and former Software Engineer at Google. We've seen both sides and know what matters in due diligence - and now we automate it.\r\n\r\nOur clients already include two of the world's five largest PE funds, and several mid-market funds - demonstrating broad appeal of our technology. Potential clients with users on our platform represent 60% of the top-30 PE funds globally.",
+      "one_liner": "AI-powered market due diligence for investment decisions",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Analytics",
+        "Market Research"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762366564.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75ae93d8e056556c69cc8d6215f5c6787ea95eb.png"
+    },
+    {
+      "id": 30992,
+      "name": "Amera",
+      "slug": "amera",
+      "website": "https://amerahealthsolutions.com/",
+      "description": "Amera automates claims processing for health insurance payers, converting messy data into clean, usable formats that speed up operations, reduce costs, and make them more transparent. \r\n\r\nWe are already working with payers representing tens of thousands of members, giving them access to more affordable care options.",
+      "one_liner": "Automating claims processing workflows for health insurance payers.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Workflow Automation",
+        "Health Insurance",
+        "Healthcare IT"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762373612.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d11b3366a660003662af3941c9320ee9f871e73.png"
+    },
+    {
       "id": 30990,
       "name": "Stratus Aviation",
       "slug": "stratus-aviation",
@@ -2986,6 +3052,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/12a498451818daa71ba01c88400ac7f241e33a03.png"
     },
     {
+      "id": 30880,
+      "name": "Nessie",
+      "slug": "nessie",
+      "website": "https://nessielabs.com/",
+      "description": "Nessie is Perplexity for your mind, turning your scattered AI conversations and notes into a personal knowledge base. It's a thinking partner that lets you instantly search your entire history of ideas, synthesize them into new insights, and watch your knowledge build on itself over time.\r\n\r\nWho it's for: AI-native thinkers\u2014founders, researchers, and writers\u2014who believe their best ideas should compound.\r\n\r\nWe are two Yale CS grads and former Amazon engineers building the tool we needed for ourselves. We combine Anna's research on enhancing LLM reasoning with knowledge graphs, and Tiger's lifelong passion for building products, which started with shipping an Android app with 70k+ downloads at age 13.\r\n\r\nNessie was born from our shared obsession - we were using AI to push the limits of our own thinking, but the current tools couldn't keep up. Brilliant insights were getting lost in endless chat histories, and the context was constantly fragmented.\r\n\r\nWe realized the problem wasn't just about memory; it was that the medium for AI-native thought didn't exist yet. The chat window is a place to ask questions, not a place to build on ideas.\r\n\r\nWe're building Nessie to be that medium\u2014your personal context layer, designed to amplify human thinking and give you agency over your own knowledge.",
+      "one_liner": "Perplexity for your mind",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Unspecified",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer",
+        "Chat",
+        "Search",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762383705.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/400e4be5acfaa12735760bedcf4f0ad136f82137.png"
+    },
+    {
       "id": 30879,
       "name": "Hypercubic",
       "slug": "hypercubic",
@@ -4352,7 +4452,41 @@
       "is_top_company": false,
       "launched_at": 1759337800.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
+    },
+    {
+      "id": 26144,
+      "name": "OpenBuilder",
+      "slug": "openbuilder",
+      "website": "https://theopenbuilder.com/",
+      "description": "OpenBuilder is an open vibe coding platform that helps non-technical builders take their ideas to production. Instead of paying for credits, getting stuck and being locked-in, OpenBuilder is 100% free to build on, only charges to get you unstuck and ready for launch. ",
+      "one_liner": "Open source Lovable alternative that gets you unstuck",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Open Source",
+        "No-code"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1680284500.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-05T18:01:11.844016"
+  "fetched_at": "2025-11-06T00:02:48.957514"
 }

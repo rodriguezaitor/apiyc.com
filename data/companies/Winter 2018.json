@@ -1601,39 +1601,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9102cc77194050dba34a372dff80946908b37031.png"
     },
     {
-      "id": 1786,
-      "name": "EnvKey",
-      "slug": "envkey",
-      "website": "https://envkey.com",
-      "description": "EnvKey is a developer-friendly, cross-platform, end-to-end encrypted configuration and secrets manager. It can be used to store API keys, database credentials, and other application config securely. \r\n\r\nEnvKey makes it easy to grant least-privilege access to the developers and servers that need it from a user-friendly UI. Integration takes minutes.\r\n\r\nUsing EnvKey ensures that no 3rd party, including EnvKey itself, ever has access to your secrets. \r\n\r\nIt takes a part of your system that used to be error-prone and insecure and makes it just work.",
-      "one_liner": "End-to-end encrypted configuration and secrets management",
-      "batch": "Winter 2018",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Security"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1509724938.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e132ca0e6ddbcae5090360eedff8684f41d05ef.png"
-    },
-    {
       "id": 1785,
       "name": "Meitre",
       "slug": "meitre",
@@ -4508,6 +4475,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9aad85e9ea2a3b4df72a9807d29b7536bcb76ce.png"
     },
     {
+      "id": 1786,
+      "name": "EnvKey",
+      "slug": "envkey",
+      "website": "https://envkey.com",
+      "description": "EnvKey is a developer-friendly, cross-platform, end-to-end encrypted configuration and secrets manager. It can be used to store API keys, database credentials, and other application config securely. \r\n\r\nEnvKey makes it easy to grant least-privilege access to the developers and servers that need it from a user-friendly UI. Integration takes minutes.\r\n\r\nUsing EnvKey ensures that no 3rd party, including EnvKey itself, ever has access to your secrets. \r\n\r\nIt takes a part of your system that used to be error-prone and insecure and makes it just work.",
+      "one_liner": "End-to-end encrypted configuration and secrets management",
+      "batch": "Winter 2018",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1509724938.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e132ca0e6ddbcae5090360eedff8684f41d05ef.png"
+    },
+    {
       "id": 1776,
       "name": "Curious Fictions",
       "slug": "curious-fictions",
@@ -4891,5 +4891,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2025-11-05T18:01:11.249244"
+  "fetched_at": "2025-11-06T00:02:48.608085"
 }

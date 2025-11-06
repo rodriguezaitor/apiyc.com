@@ -873,41 +873,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png"
     },
     {
-      "id": 30099,
-      "name": "Gander",
-      "slug": "gander",
-      "website": "https://usegander.com",
-      "description": "Gander is building AI-powered technology that allows private jet operators to coordinate, maintain, and monetize their fleets all in one place.",
-      "one_liner": "Automation System for Global Aviation",
-      "batch": "Fall 2024",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "Aerospace"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1731944906.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/103e5e968261b6e0f5f380738a8663b4974fa3c8.png"
-    },
-    {
       "id": 30097,
       "name": "Innate",
       "slug": "innate",
@@ -2951,6 +2916,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd64bca7fac097523dd134d6167e96f5fb79ab98.png"
     },
     {
+      "id": 30099,
+      "name": "Gander",
+      "slug": "gander",
+      "website": "https://usegander.com",
+      "description": "Gander is building AI-powered technology that allows private jet operators to coordinate, maintain, and monetize their fleets all in one place.",
+      "one_liner": "Automation System for Global Aviation",
+      "batch": "Fall 2024",
+      "status": "Acquired",
+      "team_size": 7,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1731944906.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/103e5e968261b6e0f5f380738a8663b4974fa3c8.png"
+    },
+    {
       "id": 30040,
       "name": "supercontrast",
       "slug": "supercontrast",
@@ -3017,5 +3017,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-11-05T18:01:14.212984"
+  "fetched_at": "2025-11-06T00:02:50.017121"
 }
