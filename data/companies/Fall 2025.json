@@ -3638,10 +3638,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Productivity",
-        "AI",
-        "AI Assistant"
+        "Workflow Automation",
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3837,7 +3837,12 @@
         "Partly Remote"
       ],
       "locations": "Bengaluru, KA, India",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Infrastructure",
+        "Conversational AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4587,5 +4592,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-06T06:01:10.851186"
+  "fetched_at": "2025-11-06T12:01:27.744310"
 }
