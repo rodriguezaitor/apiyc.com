@@ -1591,7 +1591,7 @@
       "name": "HireGlide",
       "slug": "hireglide",
       "website": "https://www.hireglide.ai/",
-      "description": "HireGlide puts the right people in the right places. Candidates get sent to roles which are looking for people just like them with a relational career passport which can measure fit for multiple open positions. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
+      "description": "Hireglide is an AI screening tool for hiring teams. Instead of wading through 500 CVs, we screen them and surface the best candidates. In future, with access to millions of CVs, we will match candidates with relevant roles.\r\n\r\n",
       "one_liner": "Turning recruiting into an efficient market.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1608,10 +1608,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Recruiting",
         "HR Tech",
-        "Talent Acquisition"
+        "Talent Acquisition",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1887,7 +1887,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759174945.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db49ec4c66c85d205171bbf2f1700ea1146f627c.png"
     },
     {
       "id": 30934,
@@ -2091,6 +2091,37 @@
       "is_top_company": false,
       "launched_at": 1762248076.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a74c32ba5c193f4216d063ad72608f841e04786.png"
+    },
+    {
+      "id": 30928,
+      "name": "Thesis Labs",
+      "slug": "thesis-labs",
+      "website": "https://thesislabs.ai",
+      "description": "What if we could discover the next Transformer, invent the next AlphaFold, 10x faster? We are building systems that collaborate with humans to invent, train, and refine machine learning models. These agents operate in continuous, self-improving loops, guided by human creativity and intuition. Together, they accelerate the entire lifecycle of AI R&D, from idea to implementation.",
+      "one_liner": "Thesis is an applied research lab accelerating human-in-the-loop AI\u2026",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762476616.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png"
     },
     {
       "id": 30925,
@@ -2358,8 +2389,8 @@
     },
     {
       "id": 30916,
-      "name": "Bellman",
-      "slug": "bellman",
+      "name": "Rovr",
+      "slug": "rovr",
       "website": "https://www.bellmanai.work/",
       "description": "We are a team of ex-Mercor, Databricks, Google and Bespoke Labs Engineers building out a platform to empower the next generation of Market Research. \r\n\r\nWe assist in designing interviews, sourcing thousands of participants, and conducting AI-powered research at unprecedented scale. Get actionable insights in hours, not weeks.\r\n\r\nWe've built our custom analytics layer capable of working through 1000s of transcripts to extract truly meaningful insights.",
       "one_liner": "Granular Customer Research at Scale",
@@ -2416,6 +2447,39 @@
       "is_top_company": false,
       "launched_at": 1757558729.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png"
+    },
+    {
+      "id": 30913,
+      "name": "Captain",
+      "slug": "captain",
+      "website": "https://runcaptain.com",
+      "description": "Captain delivers the most accurate general-purpose retrieval engine for unstructured data.\r\n\r\nConnect file stores and effortlessly retrieve knowledge with much higher accuracy than RAG (Avg: 78% \u2192 95% + citations).",
+      "one_liner": "The Reliable Alternative to RAG",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Big Data",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762492786.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png"
     },
     {
       "id": 30912,
@@ -3908,6 +3972,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning",
         "B2B"
       ],
@@ -3996,11 +4061,11 @@
       "name": "Parrot",
       "slug": "parrot",
       "website": "https://parrotapp.com/",
-      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen\u2019s comprehensible input theory. Growing 20%% w/w, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $74K MRR doubling every 2 months with power users averaging 49 mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
       "one_liner": "TikTok for language learning",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 3,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -4595,5 +4660,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-07T00:02:55.293154"
+  "fetched_at": "2025-11-07T06:01:13.806798"
 }
