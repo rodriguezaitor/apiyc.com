@@ -6393,38 +6393,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1559fe73a2c1a1b683d40299a231a3a0becfe24.png"
     },
     {
-      "id": 22780,
-      "name": "Noya",
-      "slug": "noya",
-      "website": "https://noya.co",
-      "description": "Noya is radically reducing the upfront capital costs and installation time required to perform direct air capture. We're doing this by retrofitting existing pieces of industrial equipment like cooling towers and turning them into CO2 capture machines. ",
-      "one_liner": "Radically reducing capital costs and build time for direct air capture",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 7,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Climate",
-      "industries": [
-        "Industrials",
-        "Climate"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Carbon Capture and Removal",
-        "Climate"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1611957163.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/809001ee58b1d16bdeb8ad9ce120858feaea0fd7.png"
-    },
-    {
       "id": 22779,
       "name": "Axle Health",
       "slug": "axle-health",
@@ -10783,6 +10751,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/670b377633e46c39192c05808c322fd25b5e8fda.png"
     },
     {
+      "id": 22780,
+      "name": "Noya",
+      "slug": "noya",
+      "website": "https://noya.co",
+      "description": "Noya is radically reducing the upfront capital costs and installation time required to perform direct air capture. We're doing this by retrofitting existing pieces of industrial equipment like cooling towers and turning them into CO2 capture machines. ",
+      "one_liner": "Radically reducing capital costs and build time for direct air capture",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 7,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Climate",
+      "industries": [
+        "Industrials",
+        "Climate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Carbon Capture and Removal",
+        "Climate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1611957163.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/809001ee58b1d16bdeb8ad9ce120858feaea0fd7.png"
+    },
+    {
       "id": 22775,
       "name": "Charge Running",
       "slug": "charge-running",
@@ -11536,5 +11536,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-11-07T12:01:14.486500"
+  "fetched_at": "2025-11-07T18:01:07.264666"
 }

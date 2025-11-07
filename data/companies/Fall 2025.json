@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "id": 31021,
+      "name": "Zephyr Fusion",
+      "slug": "zephyr-fusion",
+      "website": "https://www.zephyrfusion.com",
+      "description": "Zephyr Fusion is building the first in-orbit fusion power source \u2014 a megawatt-class reactor enabling large-scale industry and high-power propulsion in space, at a fraction of the cost of equivalent solar.\r\n\r\nFounded by former physicists from Lawrence Livermore and Oak Ridge National Laboratories, Zephyr leverages decades of fusion research to deliver a compact magnetic confinement system designed to take advantage of the space environment.\r\n",
+      "one_liner": "Powering the next industrial revolution \u2014 in space.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Diego, CA, USA",
+      "tags": [
+        "Fusion Energy",
+        "Hard Tech",
+        "Satellites",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762532179.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3bc97204b0d665ad12d9be818e42b4dccfcd7ba.png"
+    },
+    {
       "id": 31018,
       "name": "item",
       "slug": "item",
@@ -3546,7 +3580,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759390917.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e01ef6c12327b08c5946d9935ec8b977e130305.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4d613a72c1cb5d572b902612fb263b49949bb.png"
     },
     {
       "id": 30865,
@@ -4660,5 +4694,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-07T12:01:19.413558"
+  "fetched_at": "2025-11-07T18:01:11.962417"
 }

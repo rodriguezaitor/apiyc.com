@@ -3734,37 +3734,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png"
     },
     {
-      "id": 28894,
-      "name": "Lysto",
-      "slug": "lysto",
-      "website": "https://lysto.ai/",
-      "description": "Set up in minutes, then let Lysto drive your revenue growth with automatic insights, intelligent answers, and zero busy work.",
-      "one_liner": "Revenue intelligence platforms for startups",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1725912013.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/336295daf8150faf71325baedaf8bd8b2bbe42db.png"
-    },
-    {
       "id": 28893,
       "name": "VetRec",
       "slug": "vetrec",
@@ -5754,7 +5723,7 @@
         "Data Science"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688557144.0,
@@ -7171,6 +7140,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/949b8814325dbb3fbd3160ffb4215cc58351724a.png"
     },
     {
+      "id": 28894,
+      "name": "Lysto",
+      "slug": "lysto",
+      "website": "https://lysto.ai/",
+      "description": "Set up in minutes, then let Lysto drive your revenue growth with automatic insights, intelligent answers, and zero busy work.",
+      "one_liner": "Revenue intelligence platforms for startups",
+      "batch": "Summer 2023",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1725912013.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/336295daf8150faf71325baedaf8bd8b2bbe42db.png"
+    },
+    {
       "id": 28868,
       "name": "Briefer",
       "slug": "briefer",
@@ -7378,5 +7378,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-11-07T12:01:16.717677"
+  "fetched_at": "2025-11-07T18:01:09.426142"
 }
