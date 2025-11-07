@@ -1377,7 +1377,7 @@
       "one_liner": "Automating compliance checks for engineering drawings",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "Industrials",
       "subindustry": "Industrials",
       "industries": [
@@ -1967,7 +1967,7 @@
         "Email"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753405058.0,
@@ -5301,7 +5301,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "website": "https://www.ambral.com/",
-      "description": "Ambral is an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.",
+      "description": "Ambral is an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every customer. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. Cornell CS alum.",
       "one_liner": "AI-powered Account Managers",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5317,9 +5317,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5459,5 +5459,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-06T18:01:19.624396"
+  "fetched_at": "2025-11-07T00:02:53.636677"
 }
