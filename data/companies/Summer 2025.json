@@ -4723,17 +4723,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "API",
         "Email"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1750990316.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c18d385fb2e41299574abf5d25f5ba98485d781.png"
     },
     {
       "id": 30610,
@@ -5420,5 +5419,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-07T06:01:12.540905"
+  "fetched_at": "2025-11-07T12:01:18.017164"
 }
