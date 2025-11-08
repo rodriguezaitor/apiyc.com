@@ -2125,11 +2125,11 @@
     },
     {
       "id": 29810,
-      "name": "Pumpkin",
-      "slug": "pumpkin",
-      "website": "http://writewithpumpkin.com/",
-      "description": "Pumpkin is a document editor with AI at its core.",
-      "one_liner": "Write with AI",
+      "name": "Leviathan",
+      "slug": "leviathan",
+      "website": "https://www.leviathanencyclopedia.com/",
+      "description": "Leviathan is an AI encyclopedia.",
+      "one_liner": "AI Wikipedia",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 1,
@@ -2145,15 +2145,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723408013.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a99a3156b2a1bfc215b678dfe41d9aa9707c4dcc.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/244a881e3f12196a930f96cb433cf3184d69ec52.png"
     },
     {
       "id": 29808,
@@ -2328,8 +2328,8 @@
       "name": "HeroUI",
       "slug": "heroui",
       "website": "https://heroui.com",
-      "description": "We started with HeroUI, an open-source library that provides React developers with a set of 44 components to create beautiful and accessible interfaces. Now, we\u2019re expanding our vision with HeroUI Chat (heroui.chat), an AI-powered platform that helps developers and teams build beautiful frontends in minutes",
-      "one_liner": "Helping people ship beautiful software faster using AI and open source",
+      "description": "HeroUI makes it simple for AI agents and developers to build beautiful, accessible, production-ready interfaces for web and mobile. In the AI age, design matters more than ever. Every micro animation, color, and interaction shapes how users experience your product. HeroUI makes that level of creativity and craft simple",
+      "one_liner": "The UI framework for AI agents and developers to build beautiful apps.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 5,
@@ -2347,10 +2347,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "Design Tools"
+        "Design Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8294,5 +8294,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-08T12:01:10.410976"
+  "fetched_at": "2025-11-08T18:01:08.692217"
 }
