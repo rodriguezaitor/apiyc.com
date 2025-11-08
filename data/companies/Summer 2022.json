@@ -6476,12 +6476,12 @@
       "id": 26480,
       "name": "Poly",
       "slug": "poly",
-      "website": "https://withpoly.com/",
+      "website": "https://poly.app",
       "description": "A personal cloud storage platform that's so good, it'll replace Finder / File Explorer on your desktop. Find anything with multi-modal, natural language search. Browse with a lightning fast interface that feels just like native. Organize, tag, view, edit, share, and more. ",
       "one_liner": "Intelligent Personal Cloud Storage",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -6491,12 +6491,12 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Consumer",
-        "API"
+        "API",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8114,5 +8114,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-11-07T18:01:08.711659"
+  "fetched_at": "2025-11-08T00:02:48.841107"
 }

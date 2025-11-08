@@ -1,11 +1,43 @@
 {
   "data": [
     {
+      "id": 31022,
+      "name": "JSX Tool",
+      "slug": "jsx-tool",
+      "website": "https://jsxtool.com",
+      "description": "JSX Tool is a browser extension that hooks into your React project, so you can easily locate any React component and file with just just a click. This gives developers the ability to articulate visual requests to LLMs that without JSX Tool, are either vague or cumbersome to communicate in English and code snippets. On top of that JSX Tool is a full featured IDE tailored specifically for React Development, so users never have to leave the context of their browser when developing React code.",
+      "one_liner": "AI-First In-Browser IDE for React Development",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Web Development"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762549706.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/336184b5090a4103bd3801bd555ccb2323dee7f4.png"
+    },
+    {
       "id": 31021,
       "name": "Zephyr Fusion",
       "slug": "zephyr-fusion",
       "website": "https://www.zephyrfusion.com",
-      "description": "Zephyr Fusion is building the first in-orbit fusion power source \u2014 a megawatt-class reactor enabling large-scale industry and high-power propulsion in space, at a fraction of the cost of equivalent solar.\r\n\r\nFounded by former physicists from Lawrence Livermore and Oak Ridge National Laboratories, Zephyr leverages decades of fusion research to deliver a compact magnetic confinement system designed to take advantage of the space environment.\r\n",
+      "description": "Zephyr Fusion is building the first in-orbit fusion power source \u2014 a megawatt-class reactor enabling large-scale industry in space, at a fraction of the cost of equivalent solar.\r\n\r\nFounded by former physicists from Lawrence Livermore and Oak Ridge National Laboratories, Zephyr leverages decades of fusion research to deliver a compact magnetic confinement system designed to take advantage of the space environment.\r\n",
       "one_liner": "Powering the next industrial revolution \u2014 in space.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1194,6 +1226,40 @@
       "is_top_company": false,
       "launched_at": 1759884466.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9c79cb57463cbdc422676b0d9eee7efef195b6a.png"
+    },
+    {
+      "id": 30961,
+      "name": "Arcten",
+      "slug": "arcten",
+      "website": "https://arcten.com",
+      "description": "Our toolkit lets companies deploy and embed enterprise-grade AI agents that integrate deeply with their app\u2019s functionality and knowledge sources. Deploy any agent \u2014 built with any framework \u2014 to millions of concurrent conversations on our edge platform, and seamlessly add it into your app through our chat components or custom hooks for a unified agentic experience.",
+      "one_liner": "Infrastructure for AI Agents",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "API",
+        "Enterprise",
+        "Infrastructure",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1761245566.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png"
     },
     {
       "id": 30960,
@@ -3851,7 +3917,7 @@
       "slug": "aspect-inc",
       "website": "https://aspect.inc",
       "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team\u2019s video library and workflows better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
-      "one_liner": "AI Agents for post-production teams",
+      "one_liner": "AI agents for post-production teams",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -3866,11 +3932,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media",
-        "AI"
+        "Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4059,8 +4125,8 @@
       "name": "MOVEdot",
       "slug": "movedot",
       "website": "https://www.movedot.ai/",
-      "description": "Our platform allows engineers to automate the post processing of their test results and then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
-      "one_liner": "AI Agents for Physical World Testing",
+      "description": "Our platform allows engineers to automate the post processing of sensor data then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
+      "one_liner": "AI Agents for Sensor Data Analysis",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 10,
@@ -4694,5 +4760,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-07T18:01:11.962417"
+  "fetched_at": "2025-11-08T00:02:53.032769"
 }
