@@ -2653,7 +2653,7 @@
       "slug": "aleph-lab",
       "website": "http://alephlab.ai/",
       "description": "An AI companion that chats and plays with children inside games like Minecraft, helping them learn a new language while they play. Kids already spend hours each week in their favorite games, and now parents can turn that game time into learning time.",
-      "one_liner": "Your child\u2019s AI language buddy inside the games they already love. ",
+      "one_liner": "AI language buddy in the games kids love",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -2668,9 +2668,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Gaming",
-        "Edtech"
+        "Edtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3931,18 +3931,18 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761607655.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce09b41be7523bc55b3742c8d06ae8ddf424a0d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png"
     },
     {
       "id": 30854,
@@ -4759,5 +4759,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-08T06:01:03.255746"
+  "fetched_at": "2025-11-08T12:01:13.775300"
 }
