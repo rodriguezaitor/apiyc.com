@@ -1352,17 +1352,12 @@
         "Human Resources"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "HR Tech"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752264420.0,
@@ -2665,7 +2660,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.dev/",
-      "description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nGeneral-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+      "description": "General-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
       "one_liner": "AI for Embedded Software",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2692,7 +2687,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752258104.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb9ce1e52f71e5db25b0bce11fcb9be12a15f7d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png"
     },
     {
       "id": 30690,
@@ -3619,7 +3614,7 @@
       "one_liner": "Analyze any footage, without training a model",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -3627,9 +3622,10 @@
         "Analytics"
       ],
       "regions": [
-        "Unspecified"
+        "Canada",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "Vancouver, BC, Canada",
       "tags": [
         "Machine Learning",
         "SaaS",
@@ -5419,5 +5415,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-08T00:02:51.387908"
+  "fetched_at": "2025-11-08T06:01:02.964628"
 }

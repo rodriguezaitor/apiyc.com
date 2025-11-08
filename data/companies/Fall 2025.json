@@ -37,8 +37,8 @@
       "name": "Zephyr Fusion",
       "slug": "zephyr-fusion",
       "website": "https://www.zephyrfusion.com",
-      "description": "Zephyr Fusion is building the first in-orbit fusion power source \u2014 a megawatt-class reactor enabling large-scale industry in space, at a fraction of the cost of equivalent solar.\r\n\r\nFounded by former physicists from Lawrence Livermore and Oak Ridge National Laboratories, Zephyr leverages decades of fusion research to deliver a compact magnetic confinement system designed to take advantage of the space environment.\r\n",
-      "one_liner": "Powering the next industrial revolution \u2014 in space.",
+      "description": "Zephyr Fusion is building the first in-orbit fusion power source: a megawatt-class reactor enabling large-scale industry in space, at a fraction of the cost of equivalent solar.\r\n\r\nFounded by former physicists from Lawrence Livermore and Oak Ridge National Laboratories, Zephyr leverages decades of fusion research to deliver a compact magnetic confinement system designed to take advantage of the space environment.",
+      "one_liner": "Powering tomorrow's industrial revolution in space",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1232,7 +1232,7 @@
       "name": "Arcten",
       "slug": "arcten",
       "website": "https://arcten.com",
-      "description": "Our toolkit lets companies deploy and embed enterprise-grade AI agents that integrate deeply with their app\u2019s functionality and knowledge sources. Deploy any agent \u2014 built with any framework \u2014 to millions of concurrent conversations on our edge platform, and seamlessly add it into your app through our chat components or custom hooks for a unified agentic experience.",
+      "description": "The serverless runtime for enterprise-grade AI agents built with any agent framework.",
       "one_liner": "Infrastructure for AI Agents",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1248,11 +1248,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "API",
         "Enterprise",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1330,8 +1330,8 @@
       "name": "Absurd",
       "slug": "absurd",
       "website": "https://tryabsurd.com/",
-      "description": "Absurd (YC F25) makes absurd AI launch videos. We average 300K+ views on X per video, across 4 public launches. \r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
-      "one_liner": "Absurd AI Launch Videos",
+      "description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi did 1M+ views (https://x.com/Kalshi/status/1985754640747549100) and we average 300K+ views across 6 launch videos.\r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+      "one_liner": "Absurd AI Video Ads",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2070,21 +2070,20 @@
         "Sales"
       ],
       "regions": [
-        "France",
-        "Europe",
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Paris, \u00cele-de-France, France",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Construction",
+        "SaaS",
         "B2B",
-        "Sales",
-        "Databases"
+        "Sales"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1760047494.0,
@@ -4022,7 +4021,7 @@
       "name": "Nexus",
       "slug": "gpt",
       "website": "https://agent.nexus",
-      "description": "Nexus enables non-technical teams in large organizations to build production-ready AI agents without code.",
+      "description": "Nexus enables non-technical teams in large organizations to build production-ready AI agents without code. $900k ARR",
       "one_liner": "We help non-technical teams build AI agent no-code",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4040,9 +4039,9 @@
       ],
       "locations": "Brussels, Brussels, Belgium",
       "tags": [
+        "Artificial Intelligence",
         "No-code",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4760,5 +4759,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-08T00:02:53.032769"
+  "fetched_at": "2025-11-08T06:01:03.255746"
 }
