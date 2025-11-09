@@ -1496,7 +1496,7 @@
       "slug": "specific",
       "website": "https://specific.dev",
       "description": "A platform for engineers to build and run backend services and APIs, where engineers don't read or write any code at all. Instead they work only with natural-language specifications and tests, that are then built by AI behind the scenes.",
-      "one_liner": "Platform for engineers to build backends without code",
+      "one_liner": "Platform for building production-ready backends without code",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1521,7 +1521,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758776605.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee01acb6dbb8507ecd3cb90ee3709d9acffe2ed.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b6288185529de41c0af6bad3de1b2f3736f5fbd.png"
     },
     {
       "id": 30953,
@@ -2261,14 +2261,14 @@
     },
     {
       "id": 30928,
-      "name": "Thesis Labs",
-      "slug": "thesis-labs",
+      "name": "Thesis",
+      "slug": "thesis",
       "website": "https://thesislabs.ai",
-      "description": "What if we could discover the next Transformer, invent the next AlphaFold, 10x faster? We are building systems that collaborate with humans to invent, train, and refine machine learning models. These agents operate in continuous, self-improving loops, guided by human creativity and intuition. Together, they accelerate the entire lifecycle of AI R&D, from idea to implementation.",
-      "one_liner": "Thesis is an applied research lab accelerating human-in-the-loop AI\u2026",
+      "description": "Thesis is an applied research lab.\r\n\r\nOur aim is to help scientists and researchers uncover the next Transformer and build the next AlphaFold. Faster and more systematically, treating breakthrough discovery as an engineering problem rather than a matter of luck.\r\n\r\nThe mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
+      "one_liner": "The scientific discovery engine.",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 0,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -2280,8 +2280,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI",
-        "AI Assistant"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3192,7 +3191,7 @@
       "name": "Mod AI",
       "slug": "mod-ai",
       "website": "https://usemod.ai",
-      "description": "We build AI agents to automate invoice processing for finance teams.\r\n\r\nFrom ingestion to ERP to payment and bookkeeping, our AI agents read emails, connect to EDIs, extract data from any document format, detect fraud, and sync directly with your ERP or accounting system. ",
+      "description": "We build AI agents that automate the accounts payable process for enterprises.\r\n\r\nDesigned to imitate accounts payable clerks, our AI agents read emails and find valid invoices, extract data from any document format, perform matching with purchase orders and receipts, route invoices organization-wide for approval, and sync directly with your ERP or accounting system. \r\n\r\nWe're the only AP automation solution on the market that's already leveraging the latest AI vision models instead of outdated OCR technology, achieving 94% higher accuracy than industry leaders and helping our users see an 83% reduction in time spent.",
       "one_liner": "AI Agents for Accounts Payable",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3208,6 +3207,8 @@
       "locations": "",
       "tags": [
         "Artificial Intelligence",
+        "Fintech",
+        "SaaS",
         "Finance",
         "AI"
       ],
@@ -3685,8 +3686,8 @@
       "name": "Soren",
       "slug": "soren",
       "website": "https://soren-ai.com",
-      "description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process \u2014 dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
-      "one_liner": "Autonomous QA engineer for AI systems",
+      "description": "Soren is an AI engineer designed specifically for evals.\r\n\r\nToday, teams spend countless hours creating evals and maintaining them every time a new feature ships. When they finally run those evals, they\u2019re met with a pile of logs and traces, but little clarity on what actually went wrong or how to fix it.\r\n\r\nSoren changes that with powerful agents that work alongside your team. It reasons across failed test cases to pinpoint root causes, then runs targeted experiments to surface better-performing solutions. New cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nWe\u2019re building the foundation for AI systems that can eventually evaluate and improve themselves.",
+      "one_liner": "The AI engineer for evals.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 1,
@@ -3701,11 +3702,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4689,7 +4690,7 @@
       "name": "Fernstone",
       "slug": "fernstone",
       "website": "https://www.fernstone.com",
-      "description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. Bryant, James\u2019 classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
+      "description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Bryant, James\u2019 classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
       "one_liner": "AI-powered insurance brokerage for businesses.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4706,9 +4707,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4826,5 +4827,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-09T06:01:08.596332"
+  "fetched_at": "2025-11-09T12:01:12.810805"
 }
