@@ -481,16 +481,16 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Healthcare",
-        "Healthcare IT",
-        "AI"
+        "Healthcare IT"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759865815.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b83cf59ad054e70425f43d0b88baf73e447920a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/847fd92cf2043da7d18f115344b4d983d4eccc7c.png"
     },
     {
       "id": 30996,
@@ -529,8 +529,8 @@
       "name": "Velvet",
       "slug": "velvet",
       "website": "https://velvet.video",
-      "description": "Velvet is a video editing suite, like Adobe Premiere, but for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool marketing teams need to produce AI video assets",
-      "one_liner": "The Adobe Premiere of AI video",
+      "description": "Velvet is a platform for companies to collaborate on AI video creation, like Figma is for design. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool companies need to produce AI video assets",
+      "one_liner": "Figma for AI video",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -546,11 +546,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Video",
         "Media",
         "Advertising",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -624,6 +624,39 @@
       "is_top_company": false,
       "launched_at": 1762373612.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d11b3366a660003662af3941c9320ee9f871e73.png"
+    },
+    {
+      "id": 30991,
+      "name": "Forge Robotics",
+      "slug": "forge-robotics",
+      "website": "https://forge-robotics.com",
+      "description": "Forge Robotics is changing the way that metal parts are fabricated. We are enabling a future where our intelligent robotic system completes all steps needed to take raw metal stock and transform it into fully welded parts. \r\n\r\nBeginning with welding, we are building a robot-mounted vision system and AI feature detection that creates a real-time 3D map and tells the arm exactly where to go at every instant.",
+      "one_liner": "A robotics intelligence layer for metal fabrication",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Robotic Process Automation",
+        "Robotics",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762659715.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c02750d438079c212fed98a30cb270db92c521c3.png"
     },
     {
       "id": 30990,
@@ -800,7 +833,7 @@
       "slug": "boom-ai",
       "website": "https://useboom.ai",
       "description": "Boom builds the AI employee for e-commerce \u2014 an agent that manages every customer interaction across WhatsApp, Instagram, TikTok, Facebook, and web chat. It answers product questions, supports customers with orders, follows up on abandoned checkouts, restocks, and repeat purchases, and even runs marketing campaigns. Brands simply connect Boom to their store, and their AI agent instantly starts selling, supporting, and following up like a real team member \u2014 no setup or flow-building required.\r\n\r\nE-commerce is a $6T market where brands spend heavily to bring customers in, only to lose over 99% of them before checkout. Boom fixes that by turning every missed conversation into a sales opportunity. Our clients increase conversion rates and deliver a concierge-like buying experience at scale. We believe that in the near future, every online store will have AI employees managing sales and customer relationships \u2014 and Boom is building the platform that makes that possible.",
-      "one_liner": "Your AI sales and support team for e-commerce brands",
+      "one_liner": "Your AI growth team for e-commerce brands",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -994,6 +1027,41 @@
       "is_top_company": false,
       "launched_at": 1762304310.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png"
+    },
+    {
+      "id": 30970,
+      "name": "Exonic",
+      "slug": "exonic",
+      "website": "https://exonic.ai",
+      "description": "Exonic is building a global network of intelligence to cure all disease.\r\n\r\nWe are the first drug discovery company open to everyone.\r\n\r\nToday drug discovery is siloed - secretive, adversarial institutions in glass towers.\r\n\r\nBiological AI is changing the rules. Every day drug discovery becomes more and more of a computational problem.\r\n\r\nExonic is turning drug discovery into an open, meritocratic tournament.\r\n\r\nWe are advised by world leaders in bio AI, including the former Head of AI at Ginkgo Bioworks, and the first author of Evo (cover of Science). \r\n\r\nThe platform just went live - you can start right now. All the best biological AI models are open source. And on Exonic, you can combine them, prompt them, and share your innovative workflows without writing a single line of code. \r\n\r\nUsing Exonic Studio, we just beat a state-of-the-art benchmark in liver cancer (HepG2) synthetic enhancer design, validated in our wet lab.\r\n\r\nWe are turning the internet into a drug discovery powerhouse.",
+      "one_liner": "Crowdsourcing drug discovery.",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Synthetic Biology",
+        "Crowdsourcing",
+        "Drug discovery",
+        "Biotechnology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762663893.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/144f0914ccf312aeee94512a8dc4a6cf9502f07e.png"
     },
     {
       "id": 30969,
@@ -4758,5 +4826,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-09T00:03:01.286820"
+  "fetched_at": "2025-11-09T06:01:08.596332"
 }

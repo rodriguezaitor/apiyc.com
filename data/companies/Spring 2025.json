@@ -2611,16 +2611,15 @@
       "name": "VoiceOS",
       "slug": "voiceos",
       "website": "https://voiceos.com",
-      "description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant \u2014 holds lifelike interviews tailored to each applicant's unique background. Recruiters see only a curated shortlist as VoiceOS fine-tunes the questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise.\r\n\r\nVoiceOS is setting a new standard for hiring excellence.",
-      "one_liner": "Voice AI Interviews for Enterprise",
+      "description": "VoiceOS turns voice into a seamless, universal interface for reading and writing. It works in any app, letting users speak naturally to compose, edit, and understand text anywhere \u2014 email, Slack, Notion, Chrome, or Word. It doesn\u2019t just transcribe; it refines, rewrites, and explains \u2014 transforming speech into clear, polished writing and static text into dynamic understanding. The result is a faster, more human way to think and communicate.",
+      "one_liner": "Voice AI Interface",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
+      "team_size": 2,
+      "industry": "Consumer",
       "subindustry": "B2B -> Operations",
       "industries": [
-        "B2B",
-        "Operations"
+        "Consumer"
       ],
       "regions": [
         "United States of America",
@@ -2628,11 +2627,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AIOps",
-        "Human Resources",
-        "Recruiting",
-        "Enterprise",
-        "Operations"
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3343,15 +3338,10 @@
         "Analytics"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Analytics",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4648,5 +4638,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-09T00:03:00.860114"
+  "fetched_at": "2025-11-09T06:01:08.656651"
 }
