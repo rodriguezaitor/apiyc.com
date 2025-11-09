@@ -497,7 +497,7 @@
       "name": "Axial Composites Industries",
       "slug": "axial-composites-industries",
       "website": "https://www.axialcomposite.com",
-      "description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to automate advanced thermoplastic composites production.\r\n\r\nWe believe in the following:\r\n\r\n\u2022\tComposites are the apex material for drone-related applications\r\n\u2022\tCarbon fiber manufacturing technology is still at its infancy\r\n\r\nOur mission is to develop novel composite manufacturing methods that will act as the foundation for the upcoming cambrian explosion in aerospace and robotics.\r\n\r\n\r\nOur method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. This not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for composite manufacturing.\r\n\r\n",
+      "description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to automate advanced thermoplastic composites production.\r\n\r\nWe believe in the following:\r\n\r\n\u2022\tComposites are the apex material for drone-related applications\r\n\u2022\tCarbon fiber manufacturing technology is still in its infancy\r\n\r\nOur mission is to develop novel composite manufacturing methods that will act as the foundation for the upcoming cambrian explosion in aerospace and robotics.\r\n\r\n\r\nOur method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. This not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for composite manufacturing.\r\n\r\n",
       "one_liner": "Manufacturing cell for automated carbon fiber parts production",
       "batch": "Fall 2025",
       "status": "Active",
@@ -966,7 +966,7 @@
       "name": "Jarmin",
       "slug": "jarmin",
       "website": "https://jarmin.ai/",
-      "description": "Jarmin.ai is your 24/7 ML eng employee that you hire. Just talk to Jarmin like any other employee and Jarmin handles your AI/ML work from there. Completely hand over full initiatives or individual tasks.\r\n\r\nJarmin\u2019s founding team is from Meta Super Intelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), and AWS (scaling infra) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
+      "description": "Jarmin.ai is your 24/7 ML eng employee that you hire. Just talk to Jarmin like any other employee and Jarmin handles your AI/ML work from there. Completely hand over full initiatives or individual tasks.\r\n\r\nJarmin\u2019s founding team is from Meta SuperIntelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), AWS (scaling infra), Lockheed-Martin (Research), and JPMorganChase (SWE) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
       "one_liner": "24/7 Machine Learning Engineer employees",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1692,7 +1692,7 @@
       "slug": "hireglide",
       "website": "https://www.hireglide.ai/",
       "description": "Hireglide is an AI screening tool for hiring teams. Instead of wading through 500 CVs, we screen them and surface the best candidates. In future, with access to millions of CVs, we will match candidates with relevant roles.\r\n\r\n",
-      "one_liner": "Turning recruiting into an efficient market.",
+      "one_liner": "AI screening and matching for hiring teams",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1760,7 +1760,7 @@
       "slug": "scott-ai",
       "website": "https://tryscott.ai",
       "description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It\u2019s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process with coding agents as first class participants.",
-      "one_liner": "Coding Agent Plan Mode with Superpowers",
+      "one_liner": "Agentic Workspace for Software Spec Design",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2491,8 +2491,8 @@
       "name": "Rovr",
       "slug": "rovr",
       "website": "https://www.bellmanai.work/",
-      "description": "We are a team of ex-Mercor, Databricks, Google and Bespoke Labs Engineers building out a platform to empower the next generation of Market Research. \r\n\r\nWe assist in designing interviews, sourcing thousands of participants, and conducting AI-powered research at unprecedented scale. Get actionable insights in hours, not weeks.\r\n\r\nWe've built our custom analytics layer capable of working through 1000s of transcripts to extract truly meaningful insights.",
-      "one_liner": "Granular Customer Research at Scale",
+      "description": "We are Rovr, a team of ex-Mercor, Databricks, and Google engineers. We\u2019ve built an AI Forward Deployed Engineer (AI FDE) \u2014 a system that removes the operational overhead from traditional FDE work and compresses month-long projects into weeks. Rovr automates deployment, integration, and customization of AI systems, letting teams move from concept to production faster than ever.",
+      "one_liner": "The Next-Gen AI FDE",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2507,9 +2507,8 @@
       ],
       "locations": "",
       "tags": [
+        "Developer Tools",
         "B2B",
-        "Analytics",
-        "Market Research",
         "AI"
       ],
       "stage": "Early",
@@ -3587,7 +3586,7 @@
       "slug": "norra",
       "website": "https://www.norra.io",
       "description": "Nursing facilities are bleeding money and staff time due to operational chaos. They have zero visibility into their equipment and operations, leading to over-purchasing, equipment failures, and nurses spending hours hunting for things instead of caring for patients.\r\n\r\nNorra creates a real-time view of everything happening in the facility. We use AI and autonomous tracking to transform operational chaos into proactive decision-making. Instead of reacting to equipment failures or over-purchasing because they can't find what they own, facilities get actionable insights that prevent waste before it happens.",
-      "one_liner": "AI Operations Platform for Nursing Facilites",
+      "one_liner": "AI Equipment Operations Platform for Nursing Facilites",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3602,9 +3601,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4622,7 +4621,7 @@
       "name": "Fernstone",
       "slug": "fernstone",
       "website": "https://www.fernstone.com",
-      "description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40K insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. Bryant, James\u2019 classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
+      "description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. Bryant, James\u2019 classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
       "one_liner": "AI-powered insurance brokerage for businesses.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4639,9 +4638,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4759,5 +4758,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-08T18:01:14.041402"
+  "fetched_at": "2025-11-09T00:03:01.286820"
 }
