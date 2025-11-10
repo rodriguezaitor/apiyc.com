@@ -2819,7 +2819,7 @@
       "name": "Kestrel AI",
       "slug": "kestrel-ai",
       "website": "https://usekestrel.ai/",
-      "description": "Kestrel AI turns Kubernetes metadata and network telemetry into a live graph and uses AI agents to evaluate cluster security, run detailed risk assessments, answer cross-cluster questions in natural language, and autonomously remediate issues.",
+      "description": "Kestrel helps teams using Kubernetes detect, investigate, and fix issues without manual firefighting. It monitors cluster health and security 24/7, finds root causes, and generates ready-to-apply YAML fixes - so incidents get resolved in seconds instead of hours.",
       "one_liner": "AI-Native Kubernetes Ops & Security Platform",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3094,7 +3094,7 @@
       "name": "Nivara",
       "slug": "nivara",
       "website": "https://getnivara.com",
-      "description": "AI is now woven into every workflow. Engineers use Copilot, Cursor, and Claude, marketers use ChatGPT, analysts use Gemini, yet most companies still have no visibility into how it improves outcomes and drives impact.\r\n\r\nNivara gives organizations the intelligence to measure, improve, and scale AI adoption. We connect to tools like GitHub, Jira, Copilot, and Claude to show how AI impacts delivery speed and quality, then use a real-time in-work coach to help teams use AI more effectively inside their daily tools. \r\n\r\nBy combining AI usage intelligence, productivity insights, and adaptive coaching, Nivara helps companies close the loop between AI strategy and execution, driving measurable productivity gains across every function.\r\n\r\nEmpower every team to work intelligently with AI.",
+      "description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed AI Resource Management Layer and empower every team to work intelligently with AI.",
       "one_liner": "The intelligence layer for how your teams use AI",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4861,5 +4861,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-10T06:01:08.549790"
+  "fetched_at": "2025-11-10T12:01:22.813147"
 }
