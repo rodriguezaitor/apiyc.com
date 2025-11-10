@@ -2264,7 +2264,7 @@
       "name": "Thesis",
       "slug": "thesis",
       "website": "https://thesislabs.ai",
-      "description": "Thesis is an applied research lab.\r\n\r\nOur aim is to help scientists and researchers uncover the next Transformer and build the next AlphaFold. Faster and more systematically, treating breakthrough discovery as an engineering problem rather than a matter of luck.\r\n\r\nThe mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
+      "description": "Thesis is an applied research lab.\r\n\r\nOur aim is to help scientists and researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved.\r\n\r\nThe mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
       "one_liner": "The scientific discovery engine.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2280,7 +2280,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2332,7 +2332,7 @@
       "slug": "casey",
       "website": "https://www.meetcasey.ai/",
       "description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
-      "one_liner": "The infrastructure layer for insurance distribution",
+      "one_liner": "AI agents built to run insurance",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2348,9 +2348,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4245,8 +4245,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Manufacturing",
+        "AI",
         "Automotive",
         "Industrial"
       ],
@@ -4587,8 +4587,8 @@
       "name": "Efference",
       "slug": "efference",
       "website": "https://efference.ai",
-      "description": "Efference is redefining robotic vision by building the most intelligent cameras on the market. We have an efficient way of computing high quality depth information and are putting that into a camera that will deliver higher performance at half the cost.",
-      "one_liner": "We help robots see like humans do.",
+      "description": "Efference builds the eyes and visual cortex for robots. Instead of treating depth as a hardware problem, we use software \u2014 inspired by how humans see \u2014 to generate rich and reliable 3D information. This lets us deliver higher performance and greater ease of use at a lower price than existing stereo cameras.",
+      "one_liner": "We build the eyes and visual cortex for robots.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 1,
@@ -4861,5 +4861,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-10T00:02:48.917768"
+  "fetched_at": "2025-11-10T06:01:08.549790"
 }
