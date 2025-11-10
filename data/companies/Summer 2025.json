@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 30832,
+      "name": "F2",
+      "slug": "f2",
+      "website": "http://f2.ai",
+      "description": "F2 is the AI platform for private markets investors. Purpose-built for private credit, private equity, and commercial banking, F2 accelerates diligence, underwriting, and portfolio monitoring, helping teams evaluate deals over 60% faster. \r\n\r\nF2 turns unstructured deal data into investment-grade analysis and polished memos in minutes. Unlike general-purpose AI, F2 is built with the domain expertise and depth to handle the most complex financial analysis. Already trusted across thousands of deals, F2 makes collaboration easy and retains historical context, so past work compounds into future wins. \r\n\r\nHeadquartered in New York City, F2 is backed by leading investors including NFX, Left Lane Capital, and Y Combinator. ",
+      "one_liner": "The AI platform for private markets investors",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 20,
+      "industry": "B2B",
+      "subindustry": "Unspecified",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762789781.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/976c3cad3814111f1af6d087f0a0fe249be74b42.png"
+    },
+    {
       "id": 30818,
       "name": "Nox Metals",
       "slug": "nox-metals",
@@ -2251,11 +2284,11 @@
       "name": "Solva",
       "slug": "solva",
       "website": "https://solvatechnology.com",
-      "description": "Harvey for insurance - AI that automates insurance claims and stops wrongful payouts\r\n\r\nWe've spent the last decade battling legacy systems and dogma across highly regulated sectors of the financial industry. Between the three of us we have experience from scaling Europe\u2019s fastest-growing InsurTech and founding a licensed bank (EBA CRD CI). ",
+      "description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
       "one_liner": "Automates insurance claims and stops incorrect payouts",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 8,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -2844,7 +2877,7 @@
         "Media"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754968088.0,
@@ -5415,5 +5448,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-10T12:01:22.475264"
+  "fetched_at": "2025-11-10T18:01:10.824116"
 }
