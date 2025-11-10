@@ -3343,7 +3343,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747200146.0,
@@ -3606,31 +3606,36 @@
     },
     {
       "id": 30427,
-      "name": "Anvil",
-      "slug": "anvil",
-      "website": "https://joinanvil.com",
-      "description": "We show you how your brand performs in LLMs like ChatGPT \u2014 and how to get found more often.",
-      "one_liner": "Anvil is the SEO platform for the AI era",
+      "name": "Acolite",
+      "slug": "acolite",
+      "website": "https://acolite.ai",
+      "description": "Acolite builds AI teammates that handle submissions, issuing COIs, and SOV mapping across any AMS. Like an extra teammate, you simply forward an email and Acolite handles the rest.",
+      "one_liner": "AI Teammates for Insurance Agencies",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
+      "team_size": 3,
+      "industry": "Fintech",
       "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
-        "B2B",
-        "Marketing"
+        "Fintech",
+        "Insurance"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Insurance",
+        "Operations"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747166393.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/279e7773e79e0dd8a0d09d68d0eedd9c46abbbc9.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee88ddf2837ce69f6bc53bc24d264569098af38.png"
     },
     {
       "id": 30426,
@@ -4638,5 +4643,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-09T18:01:09.354770"
+  "fetched_at": "2025-11-10T00:02:49.044819"
 }
