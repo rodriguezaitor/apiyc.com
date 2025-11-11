@@ -1191,7 +1191,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747261239.0,
@@ -2634,7 +2634,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748319646.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/05dc1fcc381e78f5751ed829114514f490dacdec.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d135876d42639aa8e4db16aaa587df7c0a5f0ba9.png"
     },
     {
       "id": 30459,
@@ -4339,7 +4339,7 @@
       "name": "Blaxel",
       "slug": "blaxel",
       "website": "https://blaxel.ai",
-      "description": "Blaxel is a cloud infrastructure to power AI agents. Our platform gives AI companies the toolbox and infrastructure to build and deploy agents efficiently. \r\n\r\nBillions of agents, tools, and models will transform how we work in the coming years. Traditional cloud providers weren't designed to handle them\u2014their one-size-fits-all architecture holds them back. We fixed that with Blaxel.\r\n\r\nWhat is it? A complete computing platform with:\r\n\r\n- all services for developers to fast-track deploying agents without reinventing the wheel \u2014 like framework-agnostic serverless deployments, an AI gateway for model routing and fallback, and custom MCP server hosting.\r\n- a flexible low-level API for builders to ship really performant agentic AI using our backbone infrastructure \u2014 using services like sandboxed VMs usable by agents, a programmable global gateway, and a 20ms-latency serverless compute engine.\r\n- and a seamless developper experience that integrates with their CI/CD, and APIs that can even be consumed by agents themselves!",
+      "description": "Blaxel gives agents secure sandboxes to run AI code, parallel background tasks and tool calls.\r\n\r\nBlaxel Sandboxes are secure instant-launching compute environments that you can use for running AI-generated code.\r\n\u25ab\ufe0f Automatic scale-to-zero instantly when inactive, resume from standby under 25ms even after weeks.\r\n\u25ab\ufe0f Micro-VMs with full access to file system, processes and logs.\r\n\u25ab\ufe0f Preview URLs with your own custom domain.\r\n\r\nThe rest of Blaxel\u2019s cloud services include:\r\n\u25ab\ufe0f Agents Hosting - Deploy your agent logic as a serverless endpoint on the same optimized infrastructure as your sandboxes to eliminate agent-to-sandbox latency.\r\n\u25ab\ufe0f Batch Jobs - Scalable compute engine designed for agents to schedule and execute thousands of background AI processing tasks in parallel.\r\n\u25ab\ufe0f MCP Servers Hosting - Deploy custom tool servers next to your agents.\r\n\u25ab\ufe0f Model Gateway - Intelligent routing layer to LLM providers with built-in telemetry, token cost control, and fallbacks capabilities.\r\n\u25ab\ufe0f Full observability \u2014 out-of-the-box",
       "one_liner": "AWS for AI Agents",
       "batch": "Spring 2025",
       "status": "Active",
@@ -4353,7 +4353,11 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Infrastructure"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4643,5 +4647,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-11T00:02:56.793095"
+  "fetched_at": "2025-11-11T06:01:17.444082"
 }

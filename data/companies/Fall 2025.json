@@ -530,7 +530,7 @@
       "slug": "velvet",
       "website": "https://velvet.video",
       "description": "Velvet is the single platform for companies to instantly create and edit brand-consistent AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool companies need to produce AI video assets.",
-      "one_liner": "The platform for companies to create AI videos in seconds.",
+      "one_liner": "The single platform for companies to create AI videos.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -557,7 +557,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761236237.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f333f0eb8eb873e8e242bef88d7d4fbf13bfc08.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png"
     },
     {
       "id": 30993,
@@ -901,7 +901,7 @@
       "name": "Miniswap",
       "slug": "miniswap",
       "website": "https://miniswap.gg/",
-      "description": "Miniswap a marketplace for the $20B tabletop games market, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding what you want on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 14,000 unique miniatures. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $20B in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to expand its wedge into adjacent categories, bringing greater transparency, simplicity, and connectivity into additional tabletop games and collectibles verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer, and have been best friends ever since. ",
+      "description": "Miniswap a marketplace for the $20B tabletop games industry, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding what you want on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 20,000 unique miniatures. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $20B in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to expand its wedge into adjacent categories, bringing greater transparency, simplicity, and connectivity into additional tabletop games and collectibles verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer and early modern history. They have been best friends ever since. ",
       "one_liner": "The Marketplace for Tabletop Games",
       "batch": "Fall 2025",
       "status": "Active",
@@ -918,7 +918,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Marketplace"
+        "Marketplace",
+        "Consumer",
+        "Gaming"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1462,7 +1464,7 @@
       "slug": "automax-ai",
       "website": "https://automax.ai",
       "description": "Automax.ai makes property appraisals faster and more transparent. Our mobile app uses LiDAR and computer vision to capture property details automatically, and our custom-trained AI agents combine that data with all the analysis and aggregation required to to generate a complete appraisal report in minutes. The result is a clear, grounded valuation, fully Fannie Mae & Freddie Mac compliant \u2014 done in under 20 minutes from start to finish.",
-      "one_liner": "AI Agents for automating real-estate appraisals",
+      "one_liner": "AI native real-estate appraisal firm",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -1561,16 +1563,16 @@
       "name": "Narrative",
       "slug": "usenarrative",
       "website": "http://www.narrative.video",
-      "description": "Narrative is the AI video editor for professionals that enables you to instantly search through and generate timelines for terabytes of footage in minutes. ",
-      "one_liner": "Edit thousands of hours of footage in seconds",
+      "description": "Narrative is the AI video understanding infrastructure. We let language models understand thousands of hours of video just as easily as they understand text.",
+      "one_liner": "The infrastructure for AI video processing ",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer -> Content",
       "industries": [
-        "Consumer",
-        "Content"
+        "B2B",
+        "Infrastructure"
       ],
       "regions": [
         "United States of America",
@@ -1578,8 +1580,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Video",
-        "AI"
+        "Artificial Intelligence",
+        "Computational Storage",
+        "Video"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2027,7 +2030,7 @@
       "slug": "s2-dev",
       "website": "https://s2.dev",
       "description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams \u2013 so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
-      "one_liner": "Unlimited, durable, real-time streams",
+      "one_liner": "The S3 for streams",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -2904,18 +2907,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Compliance",
         "Security",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1762810607.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3952792401e078ec99fd13d67cb2a2e064b46f6b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e17b292dce9142e728fb1a7ba4705bb06cceff.png"
     },
     {
       "id": 30899,
@@ -3658,7 +3661,7 @@
       "slug": "kaigo-health",
       "website": "https://www.kaigohealth.ai/",
       "description": "Kaigo Health provides an AI-powered outpatient care management platform that automates and scales remote care management for Medicare patients including post-discharge followups, ongoing check-ins, and monitoring. Using phone calls as an age-friendly interface, we aggregate patient responses, voice biomarkers, and remote patient monitoring data for powerful preventative and proactive healthcare. ",
-      "one_liner": "AI-powered outpatient care management platform",
+      "one_liner": "AI outpatient care workforce",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -3683,7 +3686,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761873494.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/586118645a981d290c46b4ac2dedd14dfdb9c962.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/59741bf929b644ae6eee61f3e03439f598f3ceeb.png"
     },
     {
       "id": 30868,
@@ -4411,11 +4414,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Construction",
         "B2B",
         "Workflow Automation",
-        "Architecture",
-        "AI"
+        "Architecture"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4761,7 +4764,7 @@
       "name": "Fernstone",
       "slug": "fernstone",
       "website": "https://www.fernstone.com",
-      "description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Bryant, James\u2019 classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
+      "description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Bryant, James\u2019 classmate from high school, was a Software Engineer at SentiLink and Google.\r\n",
       "one_liner": "AI-powered insurance brokerage for businesses.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4778,9 +4781,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4898,5 +4901,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-11T00:02:56.666557"
+  "fetched_at": "2025-11-11T06:01:16.813255"
 }

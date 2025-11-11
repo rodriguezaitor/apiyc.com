@@ -1968,31 +1968,33 @@
     },
     {
       "id": 29818,
-      "name": "Remo",
-      "slug": "remo",
-      "website": "https://getremo.ai",
-      "description": "Remo is building AI copilots for onboarding and compliance teams at financial institutions. \r\nWe automate highly manual processes like KYB, AML, and Ongoing Monitoring. ",
-      "one_liner": "AI for compliance teams at banks",
+      "name": "Entropy",
+      "slug": "entropy",
+      "website": "https://www.withentropy.ai/",
+      "description": "Autonomous intake and RCM for specialty clinics. \r\n\r\nWe're helping specialty clinics catapult in to the modern day by automating their patient intake (emails, calls, and faxes) and interactions with payors (insurance companies). We're helping them see patients quicker, keep referrers in the loop, and get paid on time. ",
+      "one_liner": "Autonomous intake and RCM for specialty clinics. ",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
-      "industry": "Fintech",
+      "team_size": 2,
+      "industry": "Healthcare",
       "subindustry": "Fintech",
       "industries": [
-        "Fintech"
+        "Healthcare"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1720072040.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba48aacb41b72ca599ee9f3bdfdc4153d4f46b1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1fc5d5cf43e3952bd0f4deec6829b45762ed6a5.png"
     },
     {
       "id": 29815,
@@ -8293,5 +8295,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-11T00:02:55.900177"
+  "fetched_at": "2025-11-11T06:01:13.413860"
 }
