@@ -4762,31 +4762,32 @@
     },
     {
       "id": 30182,
-      "name": "Casixty",
-      "slug": "casixty",
-      "website": "https://casixty.com",
-      "description": "Casixty automates Reddit engagement for technical companies, helping them connect authentically with their target audiences. Using AI, we identify relevant discussions, generate brand-accurate responses, and provide detailed analytics to track engagement impact.",
-      "one_liner": "Reddit Marketing Agent for technical audiences",
+      "name": "Flowtel",
+      "slug": "flowtel",
+      "website": "https://flowtel.ai",
+      "description": "Flowtel is building the next generation operating system for hospitality, powered by modern AI agents that can handle everything from booking to room service. ",
+      "one_liner": "The AI Voice agents for hotels",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
-        "Marketing"
+        "Infrastructure"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738111851.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5111523c1cc63f651baca2a49f9b8fb984cf067.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93f84e0ef9828936fdb9df69154bdf100b51419.png"
     },
     {
       "id": 30181,
@@ -5364,5 +5365,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-11-10T18:01:10.883202"
+  "fetched_at": "2025-11-11T00:02:56.600534"
 }

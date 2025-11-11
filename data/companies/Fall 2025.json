@@ -529,8 +529,8 @@
       "name": "Velvet",
       "slug": "velvet",
       "website": "https://velvet.video",
-      "description": "Velvet is a platform for companies to create and edit AI video variations. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool companies need to produce AI video assets.",
-      "one_liner": "The platform for companies to create AI video variations.",
+      "description": "Velvet is the single platform for companies to instantly create and edit brand-consistent AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool companies need to produce AI video assets.",
+      "one_liner": "The platform for companies to create AI videos in seconds.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -546,11 +546,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Video",
         "Media",
         "Advertising",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1334,7 +1334,7 @@
       "name": "Metorial",
       "slug": "metorial",
       "website": "https://metorial.com",
-      "description": "Metorial is Vercel for MCP. Our serverless MCP runtime comes with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to APIs and data sources at scale.",
+      "description": "Metorial is Vercel for MCP. We build the enterprise-ready infra layer for AI integrations. Our serverless MCP runtime comes with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to APIs and data sources at scale.",
       "one_liner": "Vercel for MCP",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1731,7 +1731,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -1827,7 +1827,7 @@
       "name": "Scott AI",
       "slug": "scott-ai",
       "website": "https://tryscott.ai",
-      "description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It\u2019s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process with coding agents as first class participants.",
+      "description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks. Scott lets teams orchestrate \u201cswarms of experts\u201d to debate architecture designs, making it easy for developers to discover and align on the best plan before handing it off to execution-oriented agents like Claude, Codex, or Cursor.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It\u2019s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process with coding agents as first class participants.",
       "one_liner": "Agentic Workspace for Software Spec Design",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2557,9 +2557,9 @@
       "id": 30916,
       "name": "Rovr",
       "slug": "rovr",
-      "website": "https://www.bellmanai.work/",
-      "description": "We are Rovr, a team of ex-Mercor, Databricks, and Google engineers. We\u2019ve built an AI Forward Deployed Engineer (AI FDE) \u2014 a system that removes the operational overhead from traditional FDE work and compresses month-long projects into weeks. Rovr automates deployment, integration, and customization of AI systems, letting teams move from concept to production faster than ever.",
-      "one_liner": "The Next-Gen AI FDE",
+      "website": "https://www.withrovr.com/",
+      "description": "In Stealth.",
+      "one_liner": "Stealth",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2884,6 +2884,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd22bee184fcb9c2caeab9537bdee087a53a0865.png"
     },
     {
+      "id": 30900,
+      "name": "LogosGuard",
+      "slug": "logosguard",
+      "website": "https://logosguard.com/",
+      "description": "Enterprises are racing to adopt AI, but often don't have the right controls in place or know how to verify vendors are compliant. LogosGuard turns AI policies into executable controls, stress-tests your AI products, and continuously monitors changes, giving enterprises the confidence to scale AI responsibly.",
+      "one_liner": "The risk management software for enterprises adopting AI",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Compliance",
+        "Security",
+        "Cybersecurity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762810607.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3952792401e078ec99fd13d67cb2a2e064b46f6b.png"
+    },
+    {
       "id": 30899,
       "name": "Sciloop",
       "slug": "sciloop",
@@ -2986,7 +3020,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761108820.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54229250ba85a1626b1be8439c198c6ece967b89.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/71ad9848dee44fa1e200195ee6353abc91a10e19.png"
     },
     {
       "id": 30894,
@@ -3421,7 +3455,7 @@
       "name": "Cranston AI",
       "slug": "cranston-ai",
       "website": "https://www.cranstonai.com/",
-      "description": "Cranston is a full stack AI accounting firm. We handle bookkeeping, corporate taxes, and financial automations for SMB and mid market companies with AI software and a CPA team. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nWe automate bookkeeping with daily reconciliations, accruals, and a month end close reviewed by CPAs. We also handle Taxes end to end, from quarterly estimates to year end corporate returns, prepared from the same ledger and filed on schedule.",
+      "description": "Cranston is a full stack AI accounting firm automating the $200b market for accounting labor. Our software automates reconciliation, tax compliance and financial analysis for SMB and mid market companies. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nOur team is deep in the accounting space. Sean spent 5 years building an ERP after dropping out of Stanford and Max spent 5 years building an accounting firm that did every accounting workflow you can imagine on top of ERPs.",
       "one_liner": "Full stack AI for accounting and finance",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3438,9 +3472,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3471,8 +3505,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "B2B",
         "Customer Success",
         "E-commerce",
+        "Customer Service",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4262,7 +4298,7 @@
       "name": "Parrot",
       "slug": "parrot",
       "website": "https://parrotapp.com/",
-      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $74K MRR doubling every 2 months with power users averaging 49 mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $75K MRR doubling every 2 months with power users averaging 49 mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
       "one_liner": "TikTok for language learning",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4359,7 +4395,7 @@
       "slug": "structured-ai",
       "website": "https://www.getstructured.ai/",
       "description": "Structured AI understands building codes, standards, drawing, and project requirements to generate and update the technical documents that normally take weeks to complete. Its AI agents live inside software tools like Revit, Word, Excel, and SharePoint that mechanical, electrical, civil, and structural engineers already use. \r\n",
-      "one_liner": "Agentic AI workforce for pre-construction design engineering",
+      "one_liner": "AI workforce for construction design engineering",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -4370,9 +4406,10 @@
         "Construction"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Construction",
         "B2B",
@@ -4861,5 +4898,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-10T18:01:10.956724"
+  "fetched_at": "2025-11-11T00:02:56.666557"
 }

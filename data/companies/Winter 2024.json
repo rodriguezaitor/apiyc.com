@@ -3446,7 +3446,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705430466.0,
@@ -6239,7 +6239,7 @@
       "name": "Fractal Labs",
       "slug": "fractal-labs",
       "website": "https://fractal-labs.gg/",
-      "description": "",
+      "description": "We are a team of researchers (ex Google Research) and engineers (ex Google, Virtu) pushing the frontier in AI x Gaming.",
       "one_liner": "",
       "batch": "Winter 2024",
       "status": "Active",
@@ -8266,5 +8266,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-10T18:01:10.250988"
+  "fetched_at": "2025-11-11T00:02:55.987298"
 }

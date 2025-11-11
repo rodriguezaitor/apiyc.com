@@ -9321,7 +9321,7 @@
         "Travel"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643272267.0,
@@ -11293,7 +11293,7 @@
       "name": "Mederva Health",
       "slug": "mederva-health",
       "website": "https://medervahealth.com/",
-      "description": "Mederva helps people live longer and healthier with lifestyle medicine and behavioral therapy. Our AI app and virtual clinical team create personalized health plans to identify and treat risk factors for preventable disease.",
+      "description": "Mederva helps everyday people extend their healthspan through AI-powered precision medicine and behavioral therapy. We partner with clinics to assess risk, create personalized health blueprints, and guide patients step by step toward better health\u2014fully reimbursed by insurance.",
       "one_liner": "Prevent disease before it starts.",
       "batch": "Winter 2022",
       "status": "Active",
@@ -13816,5 +13816,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-10T18:01:09.692143"
+  "fetched_at": "2025-11-11T00:02:55.513778"
 }
