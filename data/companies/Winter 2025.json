@@ -3935,7 +3935,7 @@
       "one_liner": "AI-powered recruiting for startups",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
@@ -3950,12 +3950,12 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Recruiting"
+        "Recruiting",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740035301.0,
@@ -5365,5 +5365,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-11-11T06:01:16.494205"
+  "fetched_at": "2025-11-11T12:01:12.043543"
 }

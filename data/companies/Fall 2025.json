@@ -22,8 +22,10 @@
       "locations": "",
       "tags": [
         "Developer Tools",
-        "Web Development",
-        "AI"
+        "B2B",
+        "Productivity",
+        "Design",
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -447,11 +449,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Video",
         "Marketing",
-        "Advertising"
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -934,7 +936,7 @@
       "name": "Rovi Health",
       "slug": "rovi-health",
       "website": "https://www.rovi.health",
-      "description": "We deliver high-quality, affordable healthcare to employees through text. Employers cut 10\u201320% of healthcare spend. Employees get concierge care they love.\r\n\r\nOur AI-enabled virtual care treats common conditions over text or video. For in-person care, our AI agents search across all in-network providers using millions of price and quality data points, recommend the best options, then coordinate scheduling. Employees get rewarded for choosing high-value care through copay reimbursements.\r\n\r\nWe've already contracted to roll out to thousands of employees across multiple employers for the 2025-2026 plan year.\r\n\r\nWe're on a mission to build member-aligned, AI-native health insurance, starting with cost containment.",
+      "description": "We deliver high-quality, fairly-priced healthcare to employees through text. Employers cut 10\u201320% of healthcare spend. Employees get concierge care they love.\r\n\r\nOur AI-enabled virtual care treats common conditions over text or video. For in-person care, our AI agents search across all in-network providers using millions of price and quality data points, recommend the best options, then coordinate scheduling. Employees get rewarded for choosing high-value care through copay reimbursements.\r\n\r\nWe've already contracted to roll out to thousands of employees across multiple employers for the 2025-2026 plan year.\r\n\r\nWe're on a mission to build member-aligned, AI-native health insurance, starting with cost containment.",
       "one_liner": "Text-based healthcare that slashes employer health spend",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2234,7 +2236,7 @@
       "slug": "inspector",
       "website": "https://www.tryinspector.com",
       "description": "The AI IDE for front-end development. Modify styles, move elements, and have changes automatically reflected in your codebase.",
-      "one_liner": "The fastest way to iterate on front-end",
+      "one_liner": "The fastest way to front-end",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2250,10 +2252,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Design",
-        "Design Tools",
-        "AI"
+        "Design Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4901,5 +4903,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-11T06:01:16.813255"
+  "fetched_at": "2025-11-11T12:01:12.206058"
 }
