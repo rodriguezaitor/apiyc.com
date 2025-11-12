@@ -2715,11 +2715,11 @@
       "name": "Rima AI (formerly Garage)",
       "slug": "rima-ai",
       "website": "https://www.getrima.ai",
-      "description": "Small business owners use Rima to create professional financial reports that unlock insights to make confident decisions.\r\n\r\nWe are on a mission to create operational freedom for entrepreneurs beginning with eliminating manual reporting forever.",
-      "one_liner": "AI powered reporting for small businesses",
+      "description": "Rima is an AI reconciliation assistant for accountants that enables them to complete complex reconciliations in minutes instead of hours\r\n\r\nWe are on a mission to build the automation layer for reconciliation for every ERP and payment system.",
+      "one_liner": "AI powered reconciliation for accountants",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -2734,10 +2734,10 @@
       ],
       "locations": "Austin, TX, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Finance",
         "B2B",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8114,5 +8114,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-11-12T12:01:57.276129"
+  "fetched_at": "2025-11-12T18:01:17.313251"
 }

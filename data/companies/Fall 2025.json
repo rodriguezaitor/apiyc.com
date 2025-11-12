@@ -1055,9 +1055,9 @@
       "tags": [
         "Artificial Intelligence",
         "Developer Tools",
-        "Machine Learning",
         "B2B",
-        "ML"
+        "Enterprise",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2405,8 +2405,8 @@
       "name": "Selfin",
       "slug": "selfin",
       "website": "https://selfin.app",
-      "description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single intelligent platform. ",
-      "one_liner": "The first AI Bank",
+      "description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
+      "one_liner": "Building the first AI Bank",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2417,9 +2417,10 @@
         "Consumer Finance"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Fintech",
         "Finance",
@@ -4981,5 +4982,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-12T12:01:58.686737"
+  "fetched_at": "2025-11-12T18:01:20.714353"
 }
