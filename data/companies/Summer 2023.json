@@ -691,7 +691,7 @@
       "name": "Waldium",
       "slug": "waldium",
       "website": "https://www.waldium.com/",
-      "description": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials - structured, durable knowledge that AIs can learn from, cite, and recommend.",
+      "description": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials \u2014 structured, durable knowledge that AIs can learn from, cite, and build upon.",
       "one_liner": "The publishing layer for the AI-native web",
       "batch": "Summer 2023",
       "status": "Active",
@@ -708,9 +708,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Search",
-        "AI"
+        "Search"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3966,14 +3966,16 @@
       "tags": [
         "Artificial Intelligence",
         "Enterprise",
-        "Automation"
+        "Enterprise Software",
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688669019.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ccd4f004a0fc03052f9e9b433519a7d7c47f8d7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8692e4ed8f0a4f0994a54350ecdac6d39e97ad8e.png"
     },
     {
       "id": 28883,
@@ -7378,5 +7380,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-11-12T00:02:52.915262"
+  "fetched_at": "2025-11-12T06:01:10.396564"
 }

@@ -901,8 +901,8 @@
       "name": "Freeport Markets",
       "slug": "freeport-markets",
       "website": "https://www.freeportmarkets.com/",
-      "description": "Freeport is the intelligence layer for DeFi, built for onchain investors seeking smart & interpretable exposure. It seamlessly earns optimized yield on idle assets and constructs diversified portfolios through a combination of human insight and AI-driven intelligence. With access to tokenized private assets, structured yields, and institutional-grade investment strategies, Freeport puts the full spectrum of sophisticated onchain opportunities at your fingertips.",
-      "one_liner": "Intelligent DeFi Investing ",
+      "description": "Freeport is the DeFi prime brokerage for wealth-oriented investors who want safe yields, no fees, and differentiated investment options. Get exposure to curated onchain enterprises, pre-IPO companies, structured credit, and other alternative digital assets.",
+      "one_liner": "Self-Custodial DeFi Prime Brokerage",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -918,11 +918,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Crypto / Web3",
         "Investing",
-        "Consumer Finance",
-        "AI"
+        "Consumer Finance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2067,7 +2067,7 @@
       "slug": "s2-dev",
       "website": "https://s2.dev",
       "description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams \u2013 so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
-      "one_liner": "The S3 for streams",
+      "one_liner": "API for unlimited, durable, real-time streams",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -2411,13 +2411,20 @@
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
-        "Fintech"
+        "Fintech",
+        "Consumer Finance"
       ],
       "regions": [
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Fintech",
+        "Finance",
+        "Consumer",
+        "Consumer Finance",
+        "Neobank"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -2910,11 +2917,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Analytics",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3083,10 +3090,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Finance",
+        "Artificial Intelligence",
         "B2B",
         "Infrastructure",
-        "AI",
         "APIs"
       ],
       "stage": "Early",
@@ -3168,7 +3174,7 @@
       "name": "Nivara",
       "slug": "nivara",
       "website": "https://getnivara.com",
-      "description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed AI Resource Management Layer and empower every team to work intelligently with AI.",
+      "description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed copilot for Engineering Managers and empower every team to work intelligently with AI.",
       "one_liner": "The intelligence layer for how your teams use AI",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3185,9 +3191,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3559,6 +3565,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81175075c72341af5dddb09d4bca172f70accf41.png"
     },
     {
+      "id": 30876,
+      "name": "Velum Labs",
+      "slug": "velum-labs",
+      "website": "https://www.velum-labs.com/",
+      "description": "Velum Labs is an open source firewall that controls access to sensitive company information. We tokenize sensitive content across text and documents to enforce policies without blocking AI or human workflows.\r\n\r\nOur firewall sits between data sources and all consumers (LLMs, users, and vendors) so every API call and integration flow through policy.\r\n\r\nVelum's policy engine understands text, tables, and media to automatically tokenize sentences, blur figures, or pseudonymize identities. Policies are defined in natural language, and are enforced per user, role, and purpose to ensure minimal exposure.\r\n\r\nVelum integrates directly with LLMs, SaaS platforms, and data warehouses, enforcing privacy across AI agents and enterprise workflows.",
+      "one_liner": "The data firewall for sensitive company information",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Security",
+        "Open Source",
+        "Privacy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762847882.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png"
+    },
+    {
       "id": 30875,
       "name": "Veria Labs",
       "slug": "veria-labs",
@@ -3662,8 +3701,8 @@
       "name": "Koyal",
       "slug": "koyal",
       "website": "https://koyal.ai",
-      "description": "Koyal is an Audio to Video Filmmaking Platform that allows you to seamlessly convert audio into personalized, visually compelling stories. We\u2019re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We\u2019ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nAnnouncement: https://x.com/meh_agarwal/status/1965866965425348687\r\nDemo: https://x.com/meh_agarwal/status/1965137062119752099\r\n\r\n\r\nWe currently have paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world\u2019s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
-      "one_liner": "Personalized Audio to Video Filmmaking",
+      "description": "Koyal is an Agentic AI Filmmaking Platform that allows you to seamlessly convert script or audio into personalized, visually compelling stories. We\u2019re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We\u2019ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nAnnouncement: https://x.com/meh_agarwal/status/1965866965425348687\r\nDemo: https://x.com/meh_agarwal/status/1965137062119752099\r\n\r\n\r\nWe currently have paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world\u2019s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
+      "one_liner": "Agentic AI Filmmaking Platform",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 5,
@@ -4683,10 +4722,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Robotics",
-        "Computer Vision",
-        "AI"
+        "Computer Vision"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4940,5 +4979,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-12T00:02:55.414407"
+  "fetched_at": "2025-11-12T06:01:10.835659"
 }

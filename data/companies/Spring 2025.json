@@ -625,15 +625,16 @@
       "name": "Lumari",
       "slug": "lumari",
       "website": "https://www.lumari.io/",
-      "description": "Lumari enables supply chain teams to automate their manual operational work using custom-trained AI teammates that deeply understand their company context.",
-      "one_liner": "AI Digital Workers",
+      "description": "Lumari enables supply chain teams to automate tactical work using custom-trained AI digital workers across supply chain procurement and sourcing.",
+      "one_liner": "AI Digital Workers for Supply Chain",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
-        "B2B"
+        "B2B",
+        "Supply Chain and Logistics"
       ],
       "regions": [
         "United States of America",
@@ -2611,8 +2612,8 @@
       "name": "VoiceOS",
       "slug": "voiceos",
       "website": "https://voiceos.com",
-      "description": "VoiceOS turns voice into a seamless, universal interface for reading and writing. It works in any app, letting users speak naturally to compose, edit, and understand text anywhere \u2014 email, Slack, Notion, Chrome, or Word. It doesn\u2019t just transcribe; it refines, rewrites, and explains \u2014 transforming speech into clear, polished writing and static text into dynamic understanding. The result is a faster, more human way to think and communicate.",
-      "one_liner": "Voice AI Interface",
+      "description": "VoiceOS turns voice into a seamless, universal interface for reading and writing \u2014 a true voice operating system for the next era of computing.\r\n\r\nIt works across any app, letting users speak naturally to compose, edit, and understand text instantly. Whether writing an email, revising a document, or grasping complex information, VoiceOS transforms voice into the most powerful productivity tool, bridging the gap between thought and expression.",
+      "one_liner": "Voice Interface for Productivity",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3229,7 +3230,7 @@
       "name": "Sim",
       "slug": "sim",
       "website": "https://sim.ai",
-      "description": "Sim enables fast-growing dev teams to build and deploy AI agent workflows. \r\n\r\n65,000+ developers are already using Sim, integrating with 100+ apps to streamline workflows with AI agents.",
+      "description": "Sim enables fast-growing dev teams to build and deploy AI agent workflows. \r\n\r\n65,000+ developers are already using Sim, integrating with 500+ apps to streamline workflows with AI agents.",
       "one_liner": "Open source platform to build AI agent workflows",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3245,7 +3246,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4647,5 +4648,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-12T00:02:56.239400"
+  "fetched_at": "2025-11-12T06:01:10.950291"
 }
