@@ -1339,8 +1339,8 @@
       "name": "Arcten",
       "slug": "arcten",
       "website": "https://arcten.com",
-      "description": "The serverless runtime for enterprise-grade AI agents built with any agent framework.",
-      "one_liner": "Infrastructure for AI Agents",
+      "description": "Arcten makes companies AI-native fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics\u2014all on one platform.",
+      "one_liner": "Vercel for AI Agents",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1355,11 +1355,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "API",
         "Enterprise",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2016,9 +2016,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "Reinforcement Learning",
-        "Genomics"
+        "Biotech",
+        "Genomics",
+        "Drug discovery"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4979,5 +4981,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-12T06:01:10.835659"
+  "fetched_at": "2025-11-12T12:01:58.686737"
 }
