@@ -110,7 +110,7 @@
       "one_liner": "Shef is a Marketplace for Homemade Food",
       "batch": "Winter 2019",
       "status": "Active",
-      "team_size": 100,
+      "team_size": 25,
       "industry": "Consumer",
       "subindustry": "Consumer -> Food and Beverage",
       "industries": [
@@ -121,9 +121,9 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Marketplace",
         "Consumer",
@@ -3335,8 +3335,8 @@
       "name": "BrainKey",
       "slug": "brainkey",
       "website": "https://www.brainkey.ai/",
-      "description": "BrainKey is an AI-driven digital healthcare company with a mission to create a world free from dementia. The company specializes in developing advanced clinical technologies that empower longevity physicians to detect and prevent cognitive decline and other brain longevity challenges. By analyzing brain MRI and biomedical data, BrainKey provides highly accurate and personalized brain health insights, supporting physicians in delivering tailored care for brain longevity. BrainKey's AI-powered platform streamlines diagnostics and reporting, improving both clinical outcomes and financial efficiency across the continuum of brain health care.\r\n\r\nShort Clip about BrainKey from the BBC: https://www.youtube.com/watch?v=ioSgvROTP0E\r\n",
-      "one_liner": "Brain Longevity: We quantify brain health",
+      "description": "BrainKey is an AI-driven digital healthcare company with a mission to create a world free from dementia. ",
+      "one_liner": "Brain Longevity",
       "batch": "Winter 2019",
       "status": "Active",
       "team_size": 20,
@@ -3354,10 +3354,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Neurotechnology",
         "Health Tech",
-        "Digital Health"
+        "Digital Health",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6559,5 +6559,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-11-11T18:01:07.180782"
+  "fetched_at": "2025-11-12T00:02:53.761010"
 }

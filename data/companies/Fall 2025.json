@@ -69,6 +69,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3bc97204b0d665ad12d9be818e42b4dccfcd7ba.png"
     },
     {
+      "id": 31020,
+      "name": "Mayflower",
+      "slug": "mayflower",
+      "website": "https://mayflowervisa.com",
+      "description": "Mayflower is creating an AI-native visa preparation experience with a 100% O-1 success rate among our founding team. We can take a traditional 4-6 month process to under a week when the profile is ready, with arguments based on recent approval patterns. We offer tailored profile-building services and provide clients with transparency into their case status at all times to ensure a seamless experience. ",
+      "one_liner": "End-to-end visa filing in hours, not months",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Government",
+      "subindustry": "Government",
+      "industries": [
+        "Government"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "GovTech",
+        "LegalTech",
+        "Immigration"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1762890176.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ddcb883c95b9e6914fdaf91adac754c2cbcb5b5.png"
+    },
+    {
       "id": 31018,
       "name": "item",
       "slug": "item",
@@ -298,7 +330,7 @@
       "slug": "markit",
       "website": "https://markittrade.com",
       "description": "MarkIt builds AI agents that work directly inside the workflows trade professionals use every day \u2014 Excel, PDFs, broker portals, and more. \r\nFrom defensible classification, ACE report audits, and a self-updating system of record, it serves trade professionals end to end with agents intelligent enough to work in the complex environment. \r\n\r\nMarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations in the growingly intense world of Global Trade.",
-      "one_liner": "Silver Bullet for Trade Compliance",
+      "one_liner": "AI Agents for Trade Compliance",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -316,9 +348,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Workflow Automation",
-        "Logistics"
+        "Logistics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -485,7 +517,8 @@
       "tags": [
         "Artificial Intelligence",
         "Healthcare",
-        "Healthcare IT"
+        "Healthcare IT",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -531,8 +564,8 @@
       "name": "Velvet",
       "slug": "velvet",
       "website": "https://velvet.video",
-      "description": "Velvet is the single platform for companies to instantly create and edit in-house AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool companies need to produce AI video assets.",
-      "one_liner": "The single platform for companies to create in-house AI videos.",
+      "description": "Velvet is the integrated platform for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool companies need to produce AI video assets.",
+      "one_liner": "Integrated platform for making AI videos.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -987,9 +1020,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "Developer Tools",
         "B2B",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1158,9 +1192,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "Sales",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2150,10 +2185,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "SaaS",
         "B2B",
-        "Sales"
+        "Sales",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2235,8 +2269,8 @@
       "name": "Inspector",
       "slug": "inspector",
       "website": "https://www.tryinspector.com",
-      "description": "The AI IDE for front-end development. Modify styles, move elements, and have changes automatically reflected in your codebase.",
-      "one_liner": "The fastest way to front-end",
+      "description": "Inspector helps front-end engineers ship faster with AI by automating the most frustrating part of the job \u2014 gathering context between the browser and the codebase.\r\n\r\nInspector is an AI IDE for front-end that connects your browser and codebase. Inspector lets you select elements visually and prompt changes, giving coding agents access to the same runtime context developers have: visuals, elements, and logs. \r\n\r\nWith Inspector, you\u2019re editing right in the front-end, not buried under tabs and screenshots.",
+      "one_liner": "AI-enabled IDE for front-end development",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2252,10 +2286,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Design",
-        "Design Tools"
+        "Design Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2269,7 +2303,7 @@
       "name": "Thesis",
       "slug": "thesis",
       "website": "https://thesislabs.ai",
-      "description": "Thesis is an applied research lab accelerating AI R&D.\r\n\r\nWhat if every researcher, anywhere, could discover the next AlphaFold or invent the next Transformer? Our mission is to make state-of-the-art AI discovery 10x faster and 10x cheaper, putting frontier research within reach of every lab. We treat discovery not as a matter of luck, but as an engineering challenge to be solved.",
+      "description": "Thesis is an applied research lab. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
       "one_liner": "The scientific discovery engine.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2448,6 +2482,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Legal",
         "LegalTech",
@@ -2772,10 +2807,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "B2B",
         "Productivity",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2783,7 +2818,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761643617.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb6ea58cacd2d7637cd441b73c8f2e6da92ae97.png"
     },
     {
       "id": 30906,
@@ -3648,6 +3683,8 @@
       "tags": [
         "Generative AI",
         "Entertainment",
+        "Video",
+        "Media",
         "Creator Economy"
       ],
       "stage": "Early",
@@ -4229,7 +4266,7 @@
       "id": 30850,
       "name": "Zavo",
       "slug": "zavo",
-      "website": "https://zavopay.com/home",
+      "website": "https://zavopay.com",
       "description": "Zavo is the first AI-native platform for in-person commerce.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, giving every restaurant and retail business its own Ai workforce.\r\n\r\nWe started Zavo in May 2025, currently over 400 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\nThe future of in-person commerce is autonomous, and Zavo is building it.",
       "one_liner": "Agentic Point of Sale for restaurants and retail",
       "batch": "Fall 2025",
@@ -4249,11 +4286,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Restaurant Tech"
+        "Restaurant Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4416,11 +4453,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Construction",
         "B2B",
         "Workflow Automation",
-        "Architecture"
+        "Architecture",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4540,7 +4577,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare IT",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -4663,8 +4700,8 @@
       "name": "Digipals",
       "slug": "digipals",
       "website": "https://www.digipals.app/",
-      "description": "Social media has become more media and less social. When I open up Facebook and Instagram, I don\u2019t see any of my friends on it anymore - it\u2019s one third ads, one third content from strangers on the internet, and one third AI slop. My friends are no longer on social media - I either meet up with them IRL or catch up with them in group chats.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM \r\n\r\nWe\u2019re building the first AI-native social operating system where digipals (ambient ai agents that have full context over your location, calendar, group chats, photos, and relationship history with your friends) act as the atomic units of human coordination. Your digipal gets full context over who you are, when you're available, and what you like. It then talks with your friends\u2019 digipals to suggest hangouts when everyone is free, find restaurants and coffee shops nearby, make dinner reservations using AI calls, split bills based on the receipt, and nudge posting photo memories after hanging out.\r\n\r\nBy removing the friction for human connection, we believe that AI can be used to deepen human relationships by allowing us to spend more time with friends IRL and through staying close to their life updates and memories in group chats.",
-      "one_liner": "The First AI-Native Social Operating System",
+      "description": "Social media has become more media and less social. When I open up Facebook and Instagram, I don\u2019t see any of my friends on it anymore - it\u2019s one third ads, one third content from strangers on the internet, and one third AI slop. My friends are no longer on social media - I either meet up with them IRL or catch up with them in group chats.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM \r\n\r\nWe\u2019re building the future of social in the age of AI where digipals (ambient ai agents that have full context over your location, calendar, group chats, photos, and relationship history with your friends) act as the atomic units of human coordination. Your digipal gets full context over who you are, when you're available, and what you like. It then talks with your friends\u2019 digipals to suggest hangouts when everyone is free, find restaurants and coffee shops nearby, make dinner reservations using AI calls, split bills based on the receipt, and nudge posting photo memories after hanging out.\r\n\r\nBy removing the friction for human connection, we believe that AI can be used to deepen human relationships by allowing us to spend more time with friends IRL and through staying close to their life updates and memories in group chats.",
+      "one_liner": "Building the Future of Social in the Age of AI",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -4903,5 +4940,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-11T18:01:08.415473"
+  "fetched_at": "2025-11-12T00:02:55.414407"
 }

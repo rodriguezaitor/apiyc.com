@@ -2562,7 +2562,7 @@
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
       "description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
-      "one_liner": "Human-Centric Security Validation",
+      "one_liner": "Human-Breach Simulation",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2578,9 +2578,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2693,7 +2693,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.com",
-      "description": "Embedder is building the world's first hardware-aware coding agent. General-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+      "description": "Embedder is automating embedded software development with AI.",
       "one_liner": "Cursor for Embedded Software",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4164,8 +4164,8 @@
       "name": "Lark",
       "slug": "lark",
       "website": "https://uselark.ai/",
-      "description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built a usage-based billing system for a large billing provider. \r\n\r\nAI Pricing models are evolving fast and existing billing providers haven\u2019t been able to adapt. Large AI companies have had to build their billing systems in-house because they couldn\u2019t model their pricing with existing billing providers.\r\n\r\nLark provides a flexible pricing engine that can support complex pricing models for these AI companies. It also eliminates billing operations overhead and improves the end user billing experience. \r\n\r\nLark is already working with customers like Midjourney to solve their billing issues and improve end user billing experience on top of existing billing providers. They are currently building a billing platform to make billing integrations trivial for AI companies.",
-      "one_liner": "AI Native Billing Platform",
+      "description": "Lark is a modern billing platform with the flexibility to support any pricing model (flat-fee, credit-based, usage-based, hybrid, dimensional, outcome-based, etc.) at any scale. \r\nWhether you're building an AI powered API service or a B2B SaaS product, Lark provides the tools you need to implement complex billing logic without the hassle. Jack and Vijit previously built a usage-based billing system for a large billing provider.",
+      "one_liner": "Billing for modern pricing models",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4181,11 +4181,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Payments",
         "B2B",
-        "Subscriptions"
+        "Subscriptions",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4739,7 +4739,7 @@
       "one_liner": "Email Inboxes for AI Agents",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -4937,6 +4937,40 @@
       "is_top_company": false,
       "launched_at": 1756399069.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png"
+    },
+    {
+      "id": 30604,
+      "name": "Parametric",
+      "slug": "parametric",
+      "website": "https://parametric.company/",
+      "description": "Existing robots learn generic averages from massive datasets. Our robots learn from customer feedback.\r\n\r\nWe solve the RL feedback loop for robotics, allowing our robots to learn from your specific standards via an automated reward pipeline that combines customer feedback with an intelligent judge model. This is the only way to capture the multi-trillion dollar \u201clong tail\u201d of unique, high-aggregate-value business tasks. ",
+      "one_liner": "RL for Robotics",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Deep Learning",
+        "Reinforcement Learning",
+        "Robotics",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754696414.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46c35f4e96ad6533d276ba2d798408427ce1a525.png"
     },
     {
       "id": 30603,
@@ -5448,5 +5482,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-11T18:01:07.797062"
+  "fetched_at": "2025-11-12T00:02:54.578939"
 }
