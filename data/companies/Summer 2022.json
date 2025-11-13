@@ -3201,41 +3201,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90945bbd65aa37022870fefcb46d282f82e8624.png"
     },
     {
-      "id": 26872,
-      "name": "Neosync",
-      "slug": "neosync",
-      "website": "https://neosync.dev",
-      "description": "Neosync is an open-source platform that allows you to create anonymized or synthetic data and sync it across all environments for testing and machine learning. Companies in highly regulated industries such as FinTech, HealthTech, InsureTech and those with sensitive data can use Neosync to create production-like data to use for debugging and building features in lower-level environments without the security and privacy risk of using production data. ",
-      "one_liner": "Neosync is an open-source anonymization and synthetic data platform.",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1656362334.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f9b88ea0ac50da754bbb784bc3e860890a742e2.png"
-    },
-    {
       "id": 26871,
       "name": "Shipmates",
       "slug": "shipmates",
@@ -6888,6 +6853,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea767a408cc57b55584c2042808e466cf2c64d6.png"
     },
     {
+      "id": 26872,
+      "name": "Neosync",
+      "slug": "neosync",
+      "website": "https://neosync.dev",
+      "description": "Neosync is an open-source platform that allows you to create anonymized or synthetic data and sync it across all environments for testing and machine learning. Companies in highly regulated industries such as FinTech, HealthTech, InsureTech and those with sensitive data can use Neosync to create production-like data to use for debugging and building features in lower-level environments without the security and privacy risk of using production data. ",
+      "one_liner": "Neosync is an open-source anonymization and synthetic data platform.",
+      "batch": "Summer 2022",
+      "status": "Acquired",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1656362334.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f9b88ea0ac50da754bbb784bc3e860890a742e2.png"
+    },
+    {
       "id": 26811,
       "name": "Payload",
       "slug": "payload",
@@ -8114,5 +8114,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-11-13T00:02:53.751769"
+  "fetched_at": "2025-11-13T06:01:08.597497"
 }

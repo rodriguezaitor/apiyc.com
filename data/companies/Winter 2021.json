@@ -6287,14 +6287,14 @@
     },
     {
       "id": 22785,
-      "name": "Javelin Robotics",
-      "slug": "javelin-robotics",
-      "website": "https://javelinrobotics.com",
-      "description": "We help truckers cut delivery times, increasing productivity and adding much needed capacity to the freight industry. We do this by building autonomy software that tag-teams with human drivers. Conventional trucks drive ~120K miles/ year. Trucks with our tech can hit more than 190K miles/ year.",
-      "one_liner": "Copilot for truckers",
+      "name": "Supadock",
+      "slug": "supadock",
+      "website": "https://getsupadock.com",
+      "description": "Supadock builds AI workers for logistics operations. In freight, every call, document, and signature exists to prove diligence \u2014 not just save time. Check calls, proof-of-delivery reconciliations, ID verification, and invoice audits all ensure compliance, reduce liability, and protect margins.\r\n\r\nSupadock automates these high-accountability workflows while ensuring accuracy, compliance, and risk reduction. Our AI agents use cameras, voice, email, and document processing to handle tasks like verifying driver IDs, coordinating warehouse entry, assigning shipments to carriers, checking freight status, reconciling pickup and delivery paperwork, and following up on late invoices.\r\n",
+      "one_liner": "AI workers for logistics operations",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -6305,22 +6305,20 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Partly Remote"
+        "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Autonomous Trucking",
-        "Hard Tech",
-        "Robotics",
-        "Transportation",
-        "AI"
+        "Logistics",
+        "AI",
+        "Conversational AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1673215529.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/93c09b01b27b335eeee4177c3241c723ea1de22f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba044f166f0d448b96ee68727d9064e936c25a6e.png"
     },
     {
       "id": 22782,
@@ -11536,5 +11534,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-11-13T00:02:53.013587"
+  "fetched_at": "2025-11-13T06:01:07.762431"
 }

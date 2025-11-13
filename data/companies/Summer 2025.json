@@ -3121,36 +3121,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/489fd97ad45ee1d6d874c7a99792bf1552ebddc2.png"
     },
     {
-      "id": 30672,
-      "name": "Induction Labs",
-      "slug": "induction-labs",
-      "website": "https://inductionlabs.com",
-      "description": "Today\u2019s foundation models can generate words, but still cannot reliably operate a computer, where where most real economic value will be unlocked. We\u2019re building models that learn from human behaviour at scale, powered by the largest dataset of computer interactions ever collected. In two months, we trained a model that beats GPT-5 and Claude 4 computer use at OSWorld, an industry standard computer use benchmark.\r\n",
-      "one_liner": "Training the best computer use models in the world. Automate anything.",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
-      "industries": [
-        "B2B",
-        "Productivity"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "Generative AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1755632182.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2f926be6434de6b8c75a3a873f2b79fe0bdf59.png"
-    },
-    {
       "id": 30671,
       "name": "AgentHub",
       "slug": "agenthub-2",
@@ -3913,7 +3883,7 @@
       "slug": "wafer",
       "website": "https://www.wafer.ai",
       "description": "Every successful tool is a bet on efficiency. A waterwheel grinds more grain per unit effort than a quern. A transistor switches more operations per watt than a vacuum tube. This is civilization's pattern: do more work with less energy.\r\n\r\nFor ten thousand years, efficiency meant physical work. Intellectual work rode the surplus. Better farming, manufacturing, transport. But the brain itself bottlenecked every intellectual task.\r\n\r\nCompute changes this. For the first time, we can drive efficiency gains in intellectual work directly. Any repeatable job with measurable output has an efficiency ratio. Useful work divided by energy consumed. Intelligence per watt.\r\n\r\nHumans perform tasks at some quality-weighted outcomes per kilowatt-hour. AI systems do the same jobs. We can measure both the same way. AI is crossing the human baseline. Domain after domain.\r\n\r\nThe world's hardest problems are information problems, and human intelligence is no longer the limit. The cost of intelligence per unit of energy is the limit. Every order of magnitude drop in cost expands the set of solvable problems.\r\n\r\nOur mission at Wafer is to maximize intelligence per watt by using AI to optimize AI infrastructure, achieving thousands of times better energy and cost efficiency.\r\n\r\nWe want people to do their life's work here in pursuit of radical abundance. We believe cheap intelligence is the most essential piece of technology for a future of abundance. We will build the future with intelligence \"too cheap to meter.\"",
-      "one_liner": "AI That Optimizes AI Infrastructure",
+      "one_liner": "AI that makes AI fast",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3929,7 +3899,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5204,7 +5174,7 @@
       "slug": "nixo",
       "website": "https://withnixo.com/",
       "description": "FDE teams manage some of the most complex customer engagements: enterprise onboarding, custom integrations, and high-stakes deployments where precision matters. Nixo defines the new standard of FDEOps -- bringing clarity, automation, and operational precision to every customer engagement. With Nixo, forward-deployed services can finally scale with SaaS-level efficiency and margins.",
-      "one_liner": "Customer intelligence built for the forward-deployed era",
+      "one_liner": "The first ops platform for forward deployed engineers",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -5260,7 +5230,7 @@
     },
     {
       "id": 30364,
-      "name": "WAYLINE",
+      "name": "Wayline",
       "slug": "wayline",
       "website": "https://wayline.com",
       "description": "Wayline is an AI front desk assistant purpose-built for real estate to answer calls and messages 24/7. It\u2019s like an always-on property manager that can convert leads and resolve issues better than any human, day or night. Our AI can be setup in as little as 24 hours and works seamlessly with existing phone/management software. Uniquely, our AI knowledge base is domain-specific to learn and handle the most complex real estate workflows. For property operators, Wayline instantly replaces robo-menus and call centers, while centralizing and scaling back-office teams.",
@@ -5448,5 +5418,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-13T00:02:54.700514"
+  "fetched_at": "2025-11-13T06:01:09.797804"
 }
