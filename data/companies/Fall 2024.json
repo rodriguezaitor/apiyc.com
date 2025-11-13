@@ -298,7 +298,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1729032291.0,
@@ -3017,5 +3017,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-11-13T06:01:11.655338"
+  "fetched_at": "2025-11-13T12:01:20.835536"
 }
