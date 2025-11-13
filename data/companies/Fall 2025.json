@@ -348,9 +348,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Workflow Automation",
         "Logistics",
-        "AI"
+        "Supply Chain"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -464,7 +465,7 @@
       "name": "Claybird",
       "slug": "claybird",
       "website": "https://claybird.com/",
-      "description": "Claybird is an agent that plans, generates, and edits your AI video ad.\r\n\r\nMarketers often rely on agencies to produce video ads - a slow, expensive process involving endless revisions, actors, and shoots.\r\n\r\nClaybird is like Lovable for AI ads: it collaborates with marketers on creative direction, generates shots using Veo, Sora, and other top models, and intelligently edits them into a studio-quality video.\r\n\r\nWhen most people try making AI content, it looks like \u201cslop\u201d. But Claybird Agent, like an expert director, understands quality: it knows which camera angle, shot type, and lighting is necessary for each scene.\r\n\r\nGet started at claybird.com",
+      "description": "Claybird (YC F25) makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird\u2019s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n\r\n\r\n\r\n\r\n\r\n",
       "one_liner": "AI-native video ad agency",
       "batch": "Fall 2025",
       "status": "Active",
@@ -481,11 +482,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Video",
         "Marketing",
-        "Advertising",
-        "AI"
+        "Advertising"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5051,5 +5052,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-13T12:01:16.865582"
+  "fetched_at": "2025-11-13T18:01:09.090696"
 }
