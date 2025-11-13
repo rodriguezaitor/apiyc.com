@@ -4970,8 +4970,8 @@
       "name": "OmniAI",
       "slug": "omniai",
       "website": "https://getomni.ai",
-      "description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We\u2019ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
-      "one_liner": "Automate document workflows",
+      "description": "At Omni, we\u2019re rebuilding how banks and fintechs lend to small businesses.\r\n\r\nThere are 34 million small businesses in the U.S., yet getting a loan still means weeks of emails, PDFs, and paperwork. Every deal starts with a pile of documents \u2014 tax returns, bank statements, corporate filings, and contracts that no one wants to read but everyone depends on. \r\n\r\nOmni is changing that. We work directly with lenders to modernize the entire stack, from document intake to underwriting, and we\u2019re doing it with a small, fast-moving team that ships real systems used in production every day.",
+      "one_liner": "AI Agents for Commercial Lending",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -4979,7 +4979,7 @@
       "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
-        "Operations"
+        "Finance and Accounting"
       ],
       "regions": [
         "United States of America",
@@ -7120,7 +7120,7 @@
       "slug": "greptile",
       "website": "https://www.greptile.com",
       "description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
-      "one_liner": "AI code reviewer with complete context of your codebase",
+      "one_liner": "AI code review agent with complete context of your codebase",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 12,
@@ -8266,5 +8266,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-12T18:01:16.870344"
+  "fetched_at": "2025-11-13T00:02:53.566524"
 }

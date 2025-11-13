@@ -988,8 +988,8 @@
         "Consumer Health Services",
         "Health Tech",
         "Digital Health",
-        "Health Insurance",
-        "AI Assistant"
+        "Healthcare",
+        "Health Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1149,7 +1149,8 @@
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
-        "B2B"
+        "B2B",
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -1157,10 +1158,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Workflow Automation",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1339,7 +1340,7 @@
       "name": "Arcten",
       "slug": "arcten",
       "website": "https://arcten.com",
-      "description": "Arcten makes companies AI-native fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics\u2014all on one platform.",
+      "description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics\u2014all on one platform.",
       "one_liner": "Vercel for AI Agents",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1355,11 +1356,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "API",
         "Enterprise",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1816,13 +1817,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Recruiting",
         "HR Tech",
-        "Talent Acquisition",
-        "AI"
+        "Talent Acquisition"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1762295048.0,
@@ -2920,18 +2921,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Analytics",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1762303410.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd22bee184fcb9c2caeab9537bdee087a53a0865.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png"
     },
     {
       "id": 30900,
@@ -3806,8 +3807,8 @@
       "name": "Soren",
       "slug": "soren",
       "website": "https://soren-ai.com",
-      "description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process \u2014 dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
-      "one_liner": "Autonomous QA engineer for AI systems",
+      "description": "Soren is an AI engineer designed specifically for evals.\r\n\r\nToday, teams spend countless hours creating evals and maintaining them every time a new feature ships. When they finally run those evals, they\u2019re met with a pile of logs and traces, but little clarity on what actually went wrong or how to fix it.\r\n\r\nSoren changes that with powerful agents that work alongside your team. It reasons across failed test cases to pinpoint root causes, then runs targeted experiments to surface better-performing solutions. New cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nWe\u2019re building the foundation for AI systems that can eventually evaluate and improve themselves.",
+      "one_liner": "The AI engineer for evals.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 1,
@@ -3822,18 +3823,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759390917.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4d613a72c1cb5d572b902612fb263b49949bb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91d6491f54842844440400f685038d81f545316.png"
     },
     {
       "id": 30865,
@@ -4911,6 +4912,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60de07c4ea314cd8ec771f12dbd0151f725a956d.png"
     },
     {
+      "id": 30604,
+      "name": "Parametric",
+      "slug": "parametric",
+      "website": "https://parametric.company/",
+      "description": "Existing robots learn generic averages from massive datasets. Our robots learn from customer feedback.\r\n\r\nWe solve the RL feedback loop for robotics, allowing our robots to learn from your specific standards via an automated reward pipeline that combines customer feedback with an intelligent judge model. This is the only way to capture the multi-trillion dollar \u201clong tail\u201d of unique, high-aggregate-value business tasks. ",
+      "one_liner": "RL for Robotics",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Deep Learning",
+        "Reinforcement Learning",
+        "Robotics",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1754696414.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png"
+    },
+    {
       "id": 30592,
       "name": "Prox",
       "slug": "prox",
@@ -4982,5 +5017,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-12T18:01:20.714353"
+  "fetched_at": "2025-11-13T00:02:54.988517"
 }

@@ -2357,11 +2357,11 @@
     },
     {
       "id": 12062,
-      "name": "In The Room",
-      "slug": "in-the-room",
-      "website": "https://www.intheroom.social",
-      "description": "In The Room is a hyper-local geospatial social network for IRL real-time connections in shared spaces. Designed to help you vibe with people literally in the same room, it answers the question, \"Who\u2019s here?\" by seamlessly connecting you with others nearby. \r\n\r\nCurrently focused on dating, friendships and professional networking, it\u2019s perfect for meeting people wherever they gather\u2014restaurants, bars, clubs, lounges, events, or public spaces like Miami Beach. Go outside, vibe, and connect with others in the places you already love to visit.",
-      "one_liner": "Real-time connections in physical spaces",
+      "name": "Autodial prev Qwest",
+      "slug": "autodial-prev-qwest",
+      "website": "https://www.autodial.com",
+      "description": "Previous Qwest (W19) - skip busy club lines. Autodial (currently exiting) is a service for skipping busy phone lines for everyday people calling businesses. Our goal is to connect people directly to customer service via phone lines by reducing the wait time from 60 minutes to 5 minutes. We cover 10,000 phone lines ranging from financial institutions, telecom, home services, government, etc.\r\n\r\nThe Pivot\r\nClub and restaurant lines were non-existent during COVID. We reset the company and shifted focus using more technical skills in machine learning to build a service that millions of americans could use and leverage in the moment -- a service that called government phone lines and handled the call process.\r\n\r\nSucceeding we expanded quickly expanded and built a model to support people using the service for free. ",
+      "one_liner": "Skip Busy Phone Lines",
       "batch": "Winter 2019",
       "status": "Active",
       "team_size": 1,
@@ -2379,17 +2379,16 @@
       "locations": "Miami, FL, USA; Remote",
       "tags": [
         "Artificial Intelligence",
-        "Dating",
-        "Social",
-        "Social Network",
-        "Location-based"
+        "Machine Learning",
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1541644230.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2f0f7aef758fd23a921bc800b8b194b2b049cb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b3eee35a4bfe7106117bae88bb555be906669dc.png"
     },
     {
       "id": 12057,
@@ -6559,5 +6558,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-11-12T18:01:19.061556"
+  "fetched_at": "2025-11-13T00:02:54.401781"
 }

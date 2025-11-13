@@ -375,39 +375,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/38b0ef5314d328b72aff9a8d9829350f181b5ace.png"
     },
     {
-      "id": 29136,
-      "name": "Autotab",
-      "slug": "autotab",
-      "website": "https://autotab.com",
-      "description": "Autotab is a drop-in AI knowledge worker that uses a mouse and keyboard like you\u2014so anything you can do, it can do. Show it how to perform your task, train it to be hallucination-proof by adding examples and providing feedback, and then run it on demand or on a schedule\u2014either locally or in the cloud.\r\n \r\n\r\nIt achieves superhuman reliability, and can scale up on demand so your team doesn\u2019t have to.\r\n \r\n\r\nAutotab is already handling complex tasks thousands of steps long, from messaging customers to triggering payments and updating data across core systems of record like Salesforce, HubSpot, Google Sheets, and Jira.\r\n\r\n \r\nDownload the beta version of the app and get started right away, or sign up for a personalized onboarding: https://www.autotab.com",
-      "one_liner": "AI agents reliable enough to do real work",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
-      "industries": [
-        "B2B",
-        "Productivity"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Productivity",
-        "Enterprise",
-        "Automation"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1689696182.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png"
-    },
-    {
       "id": 29134,
       "name": "Flair Technologies",
       "slug": "flair-technologies",
@@ -6538,6 +6505,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78827e9e8ab6d62b5e66b11dffea9ae771b7d97a.png"
     },
     {
+      "id": 29136,
+      "name": "Autotab",
+      "slug": "autotab",
+      "website": "https://autotab.com",
+      "description": "Autotab is a drop-in AI knowledge worker that uses a mouse and keyboard like you\u2014so anything you can do, it can do. Show it how to perform your task, train it to be hallucination-proof by adding examples and providing feedback, and then run it on demand or on a schedule\u2014either locally or in the cloud.\r\n \r\n\r\nIt achieves superhuman reliability, and can scale up on demand so your team doesn\u2019t have to.\r\n \r\n\r\nAutotab is already handling complex tasks thousands of steps long, from messaging customers to triggering payments and updating data across core systems of record like Salesforce, HubSpot, Google Sheets, and Jira.\r\n\r\n \r\nDownload the beta version of the app and get started right away, or sign up for a personalized onboarding: https://www.autotab.com",
+      "one_liner": "AI agents reliable enough to do real work",
+      "batch": "Summer 2023",
+      "status": "Acquired",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Productivity",
+        "Enterprise",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1689696182.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png"
+    },
+    {
       "id": 29105,
       "name": "FlowiseAI",
       "slug": "flowiseai",
@@ -7380,5 +7380,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-11-12T18:01:18.215467"
+  "fetched_at": "2025-11-13T00:02:54.079853"
 }

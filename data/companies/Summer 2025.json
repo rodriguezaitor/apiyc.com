@@ -4939,40 +4939,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png"
     },
     {
-      "id": 30604,
-      "name": "Parametric",
-      "slug": "parametric",
-      "website": "https://parametric.company/",
-      "description": "Existing robots learn generic averages from massive datasets. Our robots learn from customer feedback.\r\n\r\nWe solve the RL feedback loop for robotics, allowing our robots to learn from your specific standards via an automated reward pipeline that combines customer feedback with an intelligent judge model. This is the only way to capture the multi-trillion dollar \u201clong tail\u201d of unique, high-aggregate-value business tasks. ",
-      "one_liner": "RL for Robotics",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
-      "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Deep Learning",
-        "Reinforcement Learning",
-        "Robotics",
-        "Automation"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1754696414.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png"
-    },
-    {
       "id": 30603,
       "name": "Closera",
       "slug": "closera",
@@ -5237,8 +5203,8 @@
       "name": "Nixo",
       "slug": "nixo",
       "website": "https://withnixo.com/",
-      "description": "Accelerate your FDE team with Nixo\u2019s ops solutions. Scope customer problems instantly, reuse deployments across accounts, and plan every engagement with operational precision.",
-      "one_liner": "Get SaaS-level margins from your AI forward deployed services.",
+      "description": "FDE teams manage some of the most complex customer engagements: enterprise onboarding, custom integrations, and high-stakes deployments where precision matters. Nixo defines the new standard of FDEOps -- bringing clarity, automation, and operational precision to every customer engagement. With Nixo, forward-deployed services can finally scale with SaaS-level efficiency and margins.",
+      "one_liner": "Customer intelligence built for the forward-deployed era",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
@@ -5482,5 +5448,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-12T18:01:19.874692"
+  "fetched_at": "2025-11-13T00:02:54.700514"
 }

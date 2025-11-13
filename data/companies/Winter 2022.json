@@ -9501,9 +9501,9 @@
       "id": 25356,
       "name": "Spinach AI",
       "slug": "spinach-ai",
-      "website": "https://spinach.io",
-      "description": "Spinach AI, backed by Y Combinator, Zoom and Atlassian, is the AI Meeting Assistant - helps run your meeting, summarizes the conversation and automates post-meeting work. Spinach integrates with your existing tools and supports 100 languages.\r\nAccording to Gartner, 80% of project management tasks will be run by AI by 2030,\u00a0Spinach\u00a0is making that a reality today.",
-      "one_liner": "Meetings Powered by AI",
+      "website": "https://spinach.ai",
+      "description": "Backed by Y Combinator, Zoom and Atlassian, Spinach AI is the system of record for conversation data, transforming unstructured dialogue into a structured data asset leveraged across the enterprise by people, agents and LLMs. \r\nWe enable the Record-by-Default Enterprise! ",
+      "one_liner": "The System of Record for Conversation Data",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 5,
@@ -9511,7 +9511,7 @@
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -9524,8 +9524,8 @@
         "Artificial Intelligence",
         "SaaS",
         "Productivity",
-        "Collaboration",
-        "Remote Work"
+        "Conversational AI",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13816,5 +13816,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-12T18:01:14.407803"
+  "fetched_at": "2025-11-13T00:02:52.603168"
 }
