@@ -482,7 +482,7 @@
         "B2B",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -686,7 +686,7 @@
         "Drones",
         "Aerospace"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -771,7 +771,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -841,7 +841,7 @@
       "status": "Active",
       "team_size": 6,
       "industry": "B2B",
-      "subindustry": "Consumer -> Content",
+      "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
         "B2B",
         "Recruiting and Talent"
@@ -1021,7 +1021,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -1160,7 +1160,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "Healthcare",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
         "Healthcare",
         "Healthcare IT"
@@ -1212,7 +1212,7 @@
         "Supply Chain",
         "Retail"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1247,7 +1247,7 @@
         "Compliance",
         "Security"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1316,7 +1316,7 @@
         "Analytics",
         "Investing"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1458,7 +1458,7 @@
         "Developer Tools",
         "Open Source"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1476,7 +1476,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Healthcare",
-      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -1575,7 +1575,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Consumer -> Social",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1643,7 +1643,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -1820,7 +1820,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "Fintech -> Payments",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1961,7 +1961,7 @@
       "one_liner": "Trusted $\u20ac\u00a3 accounts abroad for people from unstable economies.",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 20,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -1976,7 +1976,7 @@
         "Fintech",
         "Neobank"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2031,7 +2031,7 @@
       "status": "Active",
       "team_size": 9,
       "industry": "Consumer",
-      "subindustry": "Fintech",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -2255,7 +2255,7 @@
         "Compliance",
         "Automotive"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2290,7 +2290,7 @@
         "Satellites",
         "Aerospace"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2513,7 +2513,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Sales",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2546,7 +2546,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -2579,7 +2579,7 @@
       "status": "Active",
       "team_size": 14,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -2635,7 +2635,7 @@
         "Healthcare",
         "API"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2667,7 +2667,7 @@
         "SaaS",
         "GovTech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2685,7 +2685,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "Healthcare",
-      "subindustry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
       "industries": [
         "Healthcare",
         "Drug Discovery and Delivery"
@@ -2721,7 +2721,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
         "Finance and Accounting"
@@ -2772,7 +2772,7 @@
       "tags": [
         "Logistics"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2966,7 +2966,7 @@
       "status": "Active",
       "team_size": 40,
       "industry": "Consumer",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -3122,7 +3122,7 @@
         "Crypto / Web3",
         "Neobank"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3383,7 +3383,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
         "Productivity"
@@ -3653,7 +3653,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
         "Finance and Accounting"
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "team_size": 10,
       "industry": "Fintech",
-      "subindustry": "Fintech -> Banking and Exchange",
+      "subindustry": "Fintech -> Payments",
       "industries": [
         "Fintech",
         "Payments"
@@ -3953,7 +3953,7 @@
       "one_liner": "Helping realtors showcase the full potential of their properties",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 4,
       "industry": "Real Estate and Construction",
       "subindustry": "Real Estate and Construction",
       "industries": [
@@ -4046,7 +4046,7 @@
         "HR Tech",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4100,7 +4100,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Consumer -> Content",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -4168,7 +4168,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "Fintech",
-      "subindustry": "Fintech -> Credit and Lending",
+      "subindustry": "Fintech",
       "industries": [
         "Fintech"
       ],
@@ -4416,7 +4416,7 @@
       "one_liner": "Smart, fast, and collaborative compliance reviews ",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 7,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -4678,7 +4678,7 @@
         "Sports Tech",
         "Gaming"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4885,7 +4885,7 @@
         "Messaging",
         "Food Tech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -5041,7 +5041,7 @@
       "one_liner": "We're building satellites to create a real-time 3D map of the world.",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": null,
+      "team_size": 30,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -5180,7 +5180,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -5321,7 +5321,7 @@
       "status": "Active",
       "team_size": 10,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -5533,7 +5533,7 @@
       "status": "Active",
       "team_size": 20,
       "industry": "Fintech",
-      "subindustry": "B2B -> Human Resources",
+      "subindustry": "Fintech -> Insurance",
       "industries": [
         "Fintech",
         "Insurance"
@@ -5824,7 +5824,7 @@
         "B2B",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6130,7 +6130,7 @@
         "Automation",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6245,7 +6245,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Security",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -6363,7 +6363,7 @@
         "Digital Health",
         "E-commerce"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6583,7 +6583,7 @@
       "one_liner": "AI analytics for GTM",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 25,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -6601,7 +6601,7 @@
         "Sales Enablement",
         "Marketing"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -8114,5 +8114,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-11-13T18:01:07.887872"
+  "fetched_at": "2025-11-14T00:02:45.959951"
 }

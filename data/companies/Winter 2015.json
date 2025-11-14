@@ -93,7 +93,7 @@
       "tags": [
         "Construction"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -129,7 +129,7 @@
         "Food Tech",
         "Agriculture"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -165,7 +165,7 @@
         "Payments",
         "India"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -199,7 +199,7 @@
         "Biotech",
         "Therapeutics"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -236,7 +236,7 @@
         "Computer Vision",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -269,7 +269,7 @@
       "tags": [
         "SaaS"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -321,7 +321,7 @@
       "status": "Active",
       "team_size": 13,
       "industry": "B2B",
-      "subindustry": "B2B -> Recruiting and Talent",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
         "Productivity"
@@ -440,7 +440,7 @@
       "tags": [
         "Medical Devices"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -710,7 +710,7 @@
         "Delivery",
         "Logistics"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -953,7 +953,7 @@
         "Developer Tools",
         "Design Tools"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1032,7 +1032,7 @@
         "HR Tech",
         "Subscriptions"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1171,7 +1171,7 @@
         "Climate",
         "Renewable Energy"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1273,7 +1273,7 @@
         "Drug discovery",
         "Oncology"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1308,7 +1308,7 @@
         "Solar Power",
         "Climate"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1341,7 +1341,7 @@
         "B2B",
         "AI Assistant"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1450,7 +1450,7 @@
         "Digital Health",
         "Healthcare"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1550,7 +1550,7 @@
         "Medical Devices",
         "Digital Health"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2643,7 +2643,7 @@
         "Drug discovery",
         "Oncology"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -2897,7 +2897,7 @@
         "Robotics",
         "Biotech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3699,5 +3699,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-11-13T18:01:10.141691"
+  "fetched_at": "2025-11-14T00:02:50.463569"
 }

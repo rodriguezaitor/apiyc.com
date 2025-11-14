@@ -90,7 +90,7 @@
       ],
       "locations": "New York, NY, USA; Remote",
       "tags": [],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": true,
@@ -127,7 +127,7 @@
         "HR Tech",
         "Investing"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -193,7 +193,7 @@
         "Hardware",
         "Health Tech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -226,7 +226,7 @@
       "tags": [
         "Marketplace"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -261,7 +261,7 @@
         "Biotech",
         "Diagnostics"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -293,7 +293,7 @@
         "Indoor Mapping",
         "Gardening"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -327,7 +327,7 @@
         "Developer Tools",
         "Video"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -498,7 +498,7 @@
         "Fintech",
         "Payments"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -702,7 +702,7 @@
         "SaaS",
         "HR Tech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -840,7 +840,7 @@
         "Consumer Health Services",
         "Primary Care"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -908,7 +908,7 @@
       "tags": [
         "Fintech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -937,7 +937,7 @@
       ],
       "locations": "Dhaka, Dhaka Division, Bangladesh",
       "tags": [],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1001,7 +1001,7 @@
       ],
       "locations": "",
       "tags": [],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1105,7 +1105,7 @@
         "Climate",
         "Energy"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1123,7 +1123,7 @@
       "status": "Active",
       "team_size": 15,
       "industry": "Industrials",
-      "subindustry": "Unspecified",
+      "subindustry": "Industrials -> Climate",
       "industries": [
         "Industrials",
         "Climate"
@@ -1174,7 +1174,7 @@
         "Compliance",
         "Enterprise Software"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1346,7 +1346,7 @@
         "SaaS",
         "B2B"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1483,7 +1483,7 @@
         "SaaS",
         "LegalTech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1584,7 +1584,7 @@
         "DevSecOps",
         "Next-gen Network Security"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2196,7 +2196,7 @@
         "LegalTech",
         "Insurance"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2493,7 +2493,7 @@
       "tags": [
         "SaaS"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3451,5 +3451,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-11-13T18:01:10.285100"
+  "fetched_at": "2025-11-14T00:02:50.729366"
 }

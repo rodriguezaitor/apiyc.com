@@ -11,7 +11,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -170,7 +170,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Consumer",
-      "subindustry": "B2B",
+      "subindustry": "Consumer -> Job and Career Services",
       "industries": [
         "Consumer",
         "Job and Career Services"
@@ -499,7 +499,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Sales",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -619,7 +619,7 @@
         "Analytics",
         "Media"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -637,7 +637,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -764,7 +764,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "Consumer",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -1103,7 +1103,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "B2B",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -1150,7 +1150,7 @@
         "Manufacturing",
         "Electronics"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1232,7 +1232,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -1336,7 +1336,7 @@
       "status": "Active",
       "team_size": 6,
       "industry": "Fintech",
-      "subindustry": "B2B -> Human Resources",
+      "subindustry": "Fintech",
       "industries": [
         "Fintech"
       ],
@@ -1544,7 +1544,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B -> Retail",
       "industries": [
         "B2B",
         "Retail"
@@ -1611,7 +1611,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -1852,7 +1852,7 @@
       "one_liner": "OS for global e-commerce expansion of brands & manufacturers",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 1,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -1941,7 +1941,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "Consumer",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "Consumer -> Transportation Services",
       "industries": [
         "Consumer",
         "Transportation Services"
@@ -1978,7 +1978,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "Fintech",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -2044,7 +2044,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Industrials",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "Industrials",
       "industries": [
         "Industrials"
       ],
@@ -2137,7 +2137,7 @@
       "status": "Active",
       "team_size": 1,
       "industry": "Consumer",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "Consumer -> Home and Personal",
       "industries": [
         "Consumer",
         "Home and Personal"
@@ -2238,7 +2238,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B -> Retail",
       "industries": [
         "B2B",
         "Retail"
@@ -2502,7 +2502,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Government",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2571,7 +2571,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2669,7 +2669,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Security",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2700,7 +2700,7 @@
       "one_liner": "We automate the person taking orders at drive-thrus with a voice AI",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -2896,7 +2896,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2992,7 +2992,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Consumer",
-      "subindustry": "B2B",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -3252,7 +3252,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Marketing",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -3357,7 +3357,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3386,7 +3386,7 @@
       "one_liner": "Build apps with AI - think it, describe it, ship it",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 25,
+      "team_size": 15,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -3404,7 +3404,7 @@
         "No-code",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3451,7 +3451,7 @@
       "status": "Active",
       "team_size": 12,
       "industry": "Industrials",
-      "subindustry": "B2B",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
         "Industrials",
         "Manufacturing and Robotics"
@@ -3568,7 +3568,7 @@
       ],
       "locations": "",
       "tags": [],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3586,7 +3586,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "Consumer -> Content",
+      "subindustry": "Consumer -> Gaming",
       "industries": [
         "Consumer",
         "Gaming"
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "Healthcare",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -4174,7 +4174,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -4272,7 +4272,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "B2B -> Legal",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -4319,7 +4319,7 @@
         "Generative AI",
         "B2B"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4601,7 +4601,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "Consumer",
-      "subindustry": "B2B",
+      "subindustry": "Consumer -> Gaming",
       "industries": [
         "Consumer",
         "Gaming"
@@ -4919,7 +4919,7 @@
       "one_liner": "AI Agents for AP and AR in Logistics",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5094,7 +5094,7 @@
       "status": "Active",
       "team_size": 6,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -5157,7 +5157,7 @@
       "status": "Active",
       "team_size": 6,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
         "Productivity"
@@ -5231,7 +5231,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -5496,7 +5496,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -5539,7 +5539,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -5751,7 +5751,7 @@
       "one_liner": "Vanta for carbon compliance",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5919,7 +5919,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -5986,7 +5986,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -6165,7 +6165,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Industrials -> Climate",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -6228,7 +6228,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Fintech",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -6261,7 +6261,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "Consumer -> Travel, Leisure and Tourism",
       "industries": [
         "Consumer",
         "Travel, Leisure and Tourism"
@@ -6416,7 +6416,7 @@
         "Developer Tools",
         "Infrastructure"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6867,7 +6867,7 @@
         "Automation",
         "Automotive"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6912,7 +6912,7 @@
       "one_liner": "AI workers for healthcare clinics, starting with mental health",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 11,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -6926,10 +6926,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Digital Health",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6977,7 +6977,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Consumer -> Social",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -7292,7 +7292,7 @@
         "Open Source",
         "Infrastructure"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7379,7 +7379,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -7446,7 +7446,7 @@
       "status": "Active",
       "team_size": null,
       "industry": "B2B",
-      "subindustry": "Education",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -7495,7 +7495,7 @@
         "AI",
         "AI Assistant"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7614,7 +7614,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Fintech",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -8045,7 +8045,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
         "Supply Chain and Logistics"
@@ -8296,5 +8296,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-13T18:01:07.510901"
+  "fetched_at": "2025-11-14T00:02:45.298413"
 }

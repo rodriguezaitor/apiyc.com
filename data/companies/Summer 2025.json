@@ -11,7 +11,7 @@
       "status": "Active",
       "team_size": 20,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -44,7 +44,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Industrials",
-      "subindustry": "Unspecified",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
         "Industrials",
         "Manufacturing and Robotics"
@@ -101,7 +101,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Sales",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1028,7 +1028,7 @@
         "Cloud Computing",
         "Infrastructure"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1044,7 +1044,7 @@
       "one_liner": "We automate creator marketing for the world's largest brands",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1311,7 +1311,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -1593,7 +1593,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -1660,7 +1660,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Fintech",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "Fintech -> Asset Management",
       "industries": [
         "Fintech",
         "Asset Management"
@@ -1694,7 +1694,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2006,7 +2006,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Fintech",
-      "subindustry": "Industrials -> Energy",
+      "subindustry": "Fintech -> Insurance",
       "industries": [
         "Fintech",
         "Insurance"
@@ -2106,7 +2106,7 @@
       "status": "Active",
       "team_size": null,
       "industry": "B2B",
-      "subindustry": "Industrials",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -2201,7 +2201,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -2318,7 +2318,7 @@
       "status": "Active",
       "team_size": 15,
       "industry": "Government",
-      "subindustry": "Industrials -> Drones",
+      "subindustry": "Government",
       "industries": [
         "Government"
       ],
@@ -2415,7 +2415,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Fintech",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2473,7 +2473,7 @@
       "status": "Active",
       "team_size": 0,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2666,7 +2666,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -2699,7 +2699,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2733,7 +2733,7 @@
       "status": "Active",
       "team_size": 8,
       "industry": "Industrials",
-      "subindustry": "B2B -> Recruiting and Talent",
+      "subindustry": "Industrials -> Automotive",
       "industries": [
         "Industrials",
         "Automotive"
@@ -2826,7 +2826,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "Fintech",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
         "Productivity"
@@ -2861,7 +2861,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "B2B",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -3228,7 +3228,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "B2B",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -3320,7 +3320,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -3354,7 +3354,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
         "Supply Chain and Logistics"
@@ -3458,7 +3458,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -3654,7 +3654,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Security",
       "industries": [
         "B2B",
         "Security"
@@ -3785,7 +3785,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -3855,7 +3855,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -3954,7 +3954,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "Fintech -> Insurance",
+      "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
         "Healthcare",
         "Healthcare Services"
@@ -4053,7 +4053,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Consumer",
-      "subindustry": "Unspecified",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -4242,7 +4242,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Real Estate and Construction",
-      "subindustry": "B2B -> Security",
+      "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
         "Real Estate and Construction",
         "Construction"
@@ -4308,7 +4308,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Industrials",
-      "subindustry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
         "Industrials",
         "Manufacturing and Robotics"
@@ -4677,7 +4677,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Legal",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -4854,7 +4854,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -4919,7 +4919,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -5017,7 +5017,7 @@
       "status": "Active",
       "team_size": null,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -5419,5 +5419,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-13T18:01:08.799931"
+  "fetched_at": "2025-11-14T00:02:47.797050"
 }

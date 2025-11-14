@@ -11,7 +11,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -45,7 +45,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -79,7 +79,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -110,7 +110,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "subindustry": "Industrials",
       "industries": [
         "Industrials"
       ],
@@ -140,7 +140,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -343,7 +343,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Fintech -> Asset Management",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
         "Finance and Accounting"
@@ -503,7 +503,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Consumer",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "Consumer -> Gaming",
       "industries": [
         "Consumer",
         "Gaming"
@@ -599,7 +599,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Government",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "Government",
       "industries": [
         "Government"
       ],
@@ -631,7 +631,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
         "Supply Chain and Logistics"
@@ -696,7 +696,7 @@
       "one_liner": "Cursor for knowledge workers",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -726,7 +726,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -753,7 +753,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Security",
       "industries": [
         "B2B",
         "Security"
@@ -787,7 +787,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -822,7 +822,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -920,7 +920,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "Healthcare",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
         "Healthcare",
         "Healthcare IT"
@@ -1209,7 +1209,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
         "Productivity"
@@ -1245,7 +1245,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Real Estate and Construction",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1272,7 +1272,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "B2B",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -1368,7 +1368,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1464,7 +1464,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Industrials",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
         "Industrials",
         "Manufacturing and Robotics"
@@ -1512,7 +1512,7 @@
         "Quantum Computing",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -1567,7 +1567,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1824,7 +1824,7 @@
       "status": "Active",
       "team_size": 10,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1945,12 +1945,12 @@
       "slug": "lyrahq",
       "website": "https://lyra.so/",
       "description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
-      "one_liner": "Tthe final meeting platform.",
+      "one_liner": "The final meeting platform.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -1961,11 +1961,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Customer Success",
         "Sales",
-        "Telecommunications"
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1985,7 +1985,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2018,7 +2018,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Sales",
       "industries": [
         "B2B",
         "Sales"
@@ -2395,7 +2395,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
         "Real Estate and Construction",
         "Construction"
@@ -2462,7 +2462,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2524,7 +2524,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Education",
-      "subindustry": "B2B",
+      "subindustry": "Education",
       "industries": [
         "Education"
       ],
@@ -2556,7 +2556,7 @@
       "status": "Active",
       "team_size": 7,
       "industry": "B2B",
-      "subindustry": "Consumer -> Social",
+      "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
         "B2B",
         "Recruiting and Talent"
@@ -2618,7 +2618,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -2681,7 +2681,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2826,11 +2826,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "SaaS",
-        "B2B",
-        "Web Development"
+        "Reinforcement Learning",
+        "Recruiting",
+        "Market Research",
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2976,7 +2976,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -3037,7 +3037,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Retail",
       "industries": [
         "B2B",
         "Retail"
@@ -3104,7 +3104,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3138,7 +3138,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "Education",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -3266,7 +3266,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
         "Productivity"
@@ -3300,7 +3300,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -3333,7 +3333,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Analytics",
       "industries": [
         "B2B",
         "Analytics"
@@ -3361,7 +3361,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Fintech -> Payments",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -3616,7 +3616,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Fintech",
-      "subindustry": "Real Estate and Construction -> Construction",
+      "subindustry": "Fintech -> Insurance",
       "industries": [
         "Fintech",
         "Insurance"
@@ -3649,7 +3649,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Fintech",
-      "subindustry": "Unspecified",
+      "subindustry": "Fintech -> Consumer Finance",
       "industries": [
         "Fintech",
         "Consumer Finance"
@@ -3772,9 +3772,9 @@
       "one_liner": "AI-Powered Customer Engagement for Life Sciences",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 8,
       "industry": "Healthcare",
-      "subindustry": "B2B",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -4023,7 +4023,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Security",
       "industries": [
         "B2B",
         "Security"
@@ -4056,7 +4056,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "B2B",
+      "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
         "Healthcare",
         "Healthcare Services"
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -4471,7 +4471,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Industrials -> Climate",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -4648,5 +4648,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-13T18:01:09.410834"
+  "fetched_at": "2025-11-14T00:02:48.948135"
 }

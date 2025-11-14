@@ -11,7 +11,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -500,11 +500,11 @@
       "name": "LunaBill",
       "slug": "lunabill",
       "website": "https://lunabill.com/",
-      "description": "",
-      "one_liner": "Automating Calls for Healthcare Billing Teams",
+      "description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for 80% of the daily workload of a healthcare billing team, with each call going for an average of 30 minutes.\r\n\r\n\u2028Our customers see 10x increase in the number of claims followed up per biller in the first week and we have converted 100% of our pilots to paying customers. Since our launch in July 2025, we have automated 60k+ phone calls. We are now at $428K ARR, with signed pilots that will take us to $1.28M in contracted ARR by January. We have signed partnerships with top healthcare leaders like UC health systems, Mayo Clinic, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David previously founded Skiesoft, Taiwan\u2019s biggest healthcare AI scribe company with 120k+ healthcare professionals using it. He also worked as a data scientist at UCSF, building models to audit medical coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.",
+      "one_liner": "AI Voice callers for healthcare billing teams.",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -512,14 +512,16 @@
         "Healthcare IT"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
+        "Generative AI",
+        "Health Tech",
         "Healthcare",
-        "Healthcare IT",
-        "AI"
+        "Healthcare IT"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -565,8 +567,8 @@
       "name": "Velvet",
       "slug": "velvet",
       "website": "https://velvet.video",
-      "description": "Velvet is the integrated platform for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool companies need to produce AI video assets.",
-      "one_liner": "Integrated platform for making AI videos.",
+      "description": "Velvet is the all-in-one tool for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we\u2019re building the single tool that companies need to produce AI video assets.",
+      "one_liner": "All-in-one tool for making AI videos",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -582,11 +584,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Video",
         "Media",
         "Advertising",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -639,7 +641,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Fintech",
-      "subindustry": "Healthcare -> Healthcare IT",
+      "subindustry": "Fintech -> Insurance",
       "industries": [
         "Fintech",
         "Insurance"
@@ -1010,7 +1012,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Fintech",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -1054,10 +1056,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Enterprise",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1148,7 +1150,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
         "Operations"
@@ -1313,7 +1315,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
         "Finance and Accounting"
@@ -1342,12 +1344,12 @@
       "slug": "arcten",
       "website": "https://arcten.com",
       "description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics\u2014all on one platform.",
-      "one_liner": "Vercel for AI Agents",
+      "one_liner": "Building the platform for companies to ship AI agents fast",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1357,11 +1359,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "API",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1445,7 +1447,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Consumer -> Content",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -1575,7 +1577,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Legal",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1608,7 +1610,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Consumer -> Content",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
         "Infrastructure"
@@ -1641,7 +1643,7 @@
       "status": "Active",
       "team_size": 5,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
         "Finance and Accounting"
@@ -1707,7 +1709,7 @@
       "status": "Active",
       "team_size": null,
       "industry": "B2B",
-      "subindustry": "Consumer -> Consumer Electronics",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -1807,7 +1809,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
         "B2B",
         "Recruiting and Talent"
@@ -1875,7 +1877,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2279,7 +2281,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2343,7 +2345,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Consumer",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -2372,7 +2374,7 @@
       "slug": "play-health",
       "website": "http://playhealth.com",
       "description": "Play Health is building a perimenopause care platform to provide women with the tools they need to find relief from symptoms fast. It is led by technical, second-time, YC-backed founders Andrea Mazzocchi, PhD and Ian Miller, with an exit and a unicorn between them.\r\n\r\nToday, over 30 million women in the U.S. are experiencing perimenopause symptoms, spending an estimated $15B+ annually on symptom management across supplements, testing, primary care visits, and specialists - yet most leave frustrated with generic solutions that don't work. \r\n\r\nOur comprehensive perimenopause care platform is designed to grow with our users' needs. We\u2019ve started with personalized, perimenopause-specific tracking, at-home hormone testing, and AI-driven analytics that deliver actionable insights. We then layer on services our users are already seeking - telemedicine, nutrition coaching, and specialized care - while connecting all their data, results, and protocols in one place.  As we scale, every interaction enriches our dataset, creating a flywheel: better insights and personalization for users, while positioning us to build advanced women's health predictive models and partner with pharma companies developing new therapeutics and standards of care.",
-      "one_liner": "Personalized, Data-Driven Perimenopause Care Platform",
+      "one_liner": "Perimenopause Care Platform",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -2447,7 +2449,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Fintech",
-      "subindustry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
       "industries": [
         "Fintech",
         "Consumer Finance"
@@ -2482,7 +2484,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Fintech -> Insurance",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2582,7 +2584,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Legal",
       "industries": [
         "B2B",
         "Legal"
@@ -2650,7 +2652,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -2680,7 +2682,7 @@
       "one_liner": "Building the Sobriety Platform for the future of Superintelligence. \ud83c\udf3b",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 7,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -2775,7 +2777,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Real Estate and Construction",
-      "subindustry": "Unspecified",
+      "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
         "Real Estate and Construction",
         "Construction"
@@ -2901,6 +2903,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png"
     },
     {
+      "id": 30904,
+      "name": "Tensr",
+      "slug": "tensr",
+      "website": "https://tensr.com/",
+      "description": "Tensr is building fully autonomous robotic factories that make scaling hardware as effortless as scaling on AWS. We\u2019re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
+      "one_liner": "Fully autonomous robotic factories",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Deep Learning",
+        "Hardware",
+        "Robotics",
+        "Automation",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1763065446.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3743327b1fc85ded6caddbd532e0c600eb2cb0.png"
+    },
+    {
       "id": 30903,
       "name": "Kestrel AI",
       "slug": "kestrel-ai",
@@ -2946,7 +2983,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3084,7 +3121,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Industrials",
-      "subindustry": "B2B",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
         "Industrials",
         "Manufacturing and Robotics"
@@ -3119,7 +3156,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3316,7 +3353,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "B2B -> Finance and Accounting",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -3436,6 +3473,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png"
     },
     {
+      "id": 30882,
+      "name": "AtlasGrid",
+      "slug": "atlasgrid",
+      "website": "https://atlasgrid.ai",
+      "description": "AtlasGrid automatically builds a visual graph of your mobile app UI and displays analytics directly on your screens. Additionally, our fleet of AI-powered agents will continuously analyze thousands of mobile apps, gathering design insights and identifying growth opportunities + actionable product improvements.",
+      "one_liner": "Visual Analytics & Growth Insights for Mobile Apps",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Mountain View, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Analytics",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1763057438.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab5954a69c6e0dd47cc0459b5d34c980084cbc39.png"
+    },
+    {
       "id": 30881,
       "name": "Wardstone",
       "slug": "wardstone",
@@ -3480,7 +3552,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "Unspecified",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -3848,7 +3920,7 @@
       "status": "Active",
       "team_size": 1,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -4017,7 +4089,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Sales",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -4082,7 +4154,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -4113,7 +4185,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -4455,7 +4527,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Real Estate and Construction",
-      "subindustry": "B2B",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
       "industries": [
         "Real Estate and Construction",
         "Housing and Real Estate"
@@ -4589,7 +4661,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "Consumer -> Consumer Electronics",
+      "subindustry": "Consumer",
       "industries": [
         "Consumer"
       ],
@@ -4887,7 +4959,7 @@
       "status": "Active",
       "team_size": 3,
       "industry": "Fintech",
-      "subindustry": "Unspecified",
+      "subindustry": "Fintech -> Insurance",
       "industries": [
         "Fintech",
         "Insurance"
@@ -4991,7 +5063,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "Unspecified",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
         "B2B",
         "Supply Chain and Logistics"
@@ -5052,5 +5124,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-13T18:01:09.090696"
+  "fetched_at": "2025-11-14T00:02:48.364779"
 }
