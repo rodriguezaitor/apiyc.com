@@ -221,7 +221,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759722442.0,
@@ -465,7 +465,7 @@
       "name": "Claybird",
       "slug": "claybird",
       "website": "https://claybird.com/",
-      "description": "Claybird (YC F25) makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird\u2019s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n\r\n\r\n\r\n\r\n\r\n",
+      "description": "Claybird makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird\u2019s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
       "one_liner": "AI-native video ad agency",
       "batch": "Fall 2025",
       "status": "Active",
@@ -482,11 +482,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Video",
         "Marketing",
-        "Advertising"
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -500,7 +500,7 @@
       "name": "LunaBill",
       "slug": "lunabill",
       "website": "https://lunabill.com/",
-      "description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for 80% of the daily workload of a healthcare billing team, with each call going for an average of 30 minutes.\r\n\r\n\u2028Our customers see 10x increase in the number of claims followed up per biller in the first week and we have converted 100% of our pilots to paying customers. Since our launch in July 2025, we have automated 60k+ phone calls. We are now at $428K ARR, with signed pilots that will take us to $1.28M in contracted ARR by January. We have signed partnerships with top healthcare leaders like UC health systems, Mayo Clinic, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David previously founded Skiesoft, Taiwan\u2019s biggest healthcare AI scribe company with 120k+ healthcare professionals using it. He also worked as a data scientist at UCSF, building models to audit medical coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.",
+      "description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for 80% of the daily workload of a healthcare billing team, with each call going for an average of 30 minutes.\r\n\r\n\u2028Our customers see 10x increase in the number of claims followed up per biller in the first week and we have converted 100% of our pilots to paying customers. Since our launch in July 2025, we have automated 50k+ phone calls. We are now at $428K ARR, with signed pilots that will take us to $1.28M in contracted ARR by January. We have signed partnerships with top healthcare leaders like UC health systems, Mayo Clinic, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David previously founded Skiesoft, Taiwan\u2019s biggest healthcare AI scribe company with 120k+ healthcare professionals using it. He also worked as a data scientist at UCSF, building models to audit medical coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.",
       "one_liner": "AI Voice callers for healthcare billing teams.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -517,11 +517,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Health Tech",
         "Healthcare",
-        "Healthcare IT"
+        "Healthcare IT",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -905,7 +905,7 @@
       "slug": "freeport-markets",
       "website": "https://www.freeportmarkets.com/",
       "description": "Freeport is the DeFi prime brokerage for wealth-oriented investors who want safe yields, no fees, and differentiated investment options. Get exposure to curated onchain enterprises, pre-IPO companies, structured credit, and other alternative digital assets.",
-      "one_liner": "Self-Custodial DeFi Prime Brokerage",
+      "one_liner": "DeFi Prime Brokerage",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -921,11 +921,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Crypto / Web3",
         "Investing",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1441,7 +1441,7 @@
       "name": "Absurd",
       "slug": "absurd",
       "website": "https://tryabsurd.com/",
-      "description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi did 1M+ views (https://x.com/Kalshi/status/1985754640747549100) and we average 300K+ views across 6 launch videos.\r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don\u2019t realize how much craft that takes \u2014 so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+      "description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ views across 6 launch videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
       "one_liner": "Absurd AI Video Ads (300K avg views/video on X)",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1460,6 +1460,7 @@
       "tags": [
         "Generative AI",
         "Video",
+        "Marketing",
         "Advertising"
       ],
       "stage": "Early",
@@ -5019,6 +5020,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/60de07c4ea314cd8ec771f12dbd0151f725a956d.png"
     },
     {
+      "id": 30631,
+      "name": "Null Labs",
+      "slug": "null-labs",
+      "website": "https://n0labs.com",
+      "description": "We provide defense companies with infrastructure and data to train models for autonomous systems.\r\n",
+      "one_liner": "frontier spatial intelligence lab focused on defense autonomy",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Robotics",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1763086396.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c6d34be502792f6dd14717502e2286fd5399a8b.png"
+    },
+    {
       "id": 30604,
       "name": "Parametric",
       "slug": "parametric",
@@ -5124,5 +5156,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-14T00:02:48.364779"
+  "fetched_at": "2025-11-14T06:01:16.926695"
 }

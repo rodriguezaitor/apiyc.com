@@ -2133,7 +2133,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1702317253.0,
@@ -2651,7 +2651,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708704798.0,
@@ -3830,8 +3830,8 @@
       "name": "Sagaland",
       "slug": "sagaland",
       "website": "https://sagaland.ai",
-      "description": "Sagaland is a platform for open-ended AI games.",
-      "one_liner": "Open-Ended AI Game Platform",
+      "description": "Sagaland is a UGC games platform where players create and remix games using AI. We\u2019re starting with interactive story games.\r\n\r\nMinecraft and Roblox proved that players want agency over the worlds they play in. But building those worlds is still slow, technical, and locked inside a few complex engines.\r\nSagaland uses AI as the game engine and co-dev, so anyone can spin up, remix, and share games in minutes.\r\n\r\nAvailable here: https://apps.apple.com/us/app/sagaland-story-adventure/id6748543926\r\n\r\n",
+      "one_liner": "UGC Game Platform",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -5004,8 +5004,8 @@
       "name": "Keywords AI",
       "slug": "keywords-ai",
       "website": "https://keywordsai.co",
-      "description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe ingest a billion LLM logs every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
-      "one_liner": "Observability and evals platform for building AI agents",
+      "description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe process a billion LLM calls every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.",
+      "one_liner": "The AI gateway with built-in observability & evals",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 6,
@@ -5024,10 +5024,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "Monitoring"
+        "Monitoring",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8266,5 +8266,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-14T00:02:45.618724"
+  "fetched_at": "2025-11-14T06:01:13.047909"
 }
