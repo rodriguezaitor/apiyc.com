@@ -466,7 +466,7 @@
       "slug": "claybird",
       "website": "https://claybird.com/",
       "description": "Claybird makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird\u2019s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
-      "one_liner": "AI-native video ad agency",
+      "one_liner": "The full-stack AI ad agency",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -482,18 +482,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Video",
         "Marketing",
-        "Advertising",
-        "AI"
+        "Advertising"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759979466.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9529719c71a2b6a4f16690eb9667a824c2ab4d65.png"
     },
     {
       "id": 30997,
@@ -5122,6 +5122,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     },
     {
+      "id": 29161,
+      "name": "Goldbridge",
+      "slug": "goldbridge",
+      "website": "",
+      "description": "We\u2019re building the modern financial stack for the largest asset class in the country. Banking + intelligence + automation, custom-built for real estate owners & operators.",
+      "one_liner": "The Financial OS for Real Estate",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Real Estate",
+        "Finance",
+        "Proptech",
+        "Neobank"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1763193418.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d6bc2a399aaabb43bac34995b9a37125e0e1426.png"
+    },
+    {
       "id": 26144,
       "name": "OpenBuilder",
       "slug": "openbuilder",
@@ -5156,5 +5190,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-15T06:01:06.121207"
+  "fetched_at": "2025-11-15T12:01:08.606035"
 }
