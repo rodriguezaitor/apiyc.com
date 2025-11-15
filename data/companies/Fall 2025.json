@@ -3613,7 +3613,7 @@
       "name": "Cranston AI",
       "slug": "cranston-ai",
       "website": "https://www.cranstonai.com/",
-      "description": "Cranston is a full stack AI accounting firm automating the $200b market for accounting labor. Our software automates reconciliation, tax compliance and financial analysis for SMB and mid market companies. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nOur team is deep in the accounting space. Sean spent 5 years building an ERP after dropping out of Stanford and Max spent 5 years building an accounting firm that did every accounting workflow you can imagine on top of ERPs.",
+      "description": "Cranston is a full stack AI accounting firm automating the $200b market for accounting labor. Our software automates reconciliation, tax compliance and financial analysis for startups & SMBs. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive accounting work.\r\n\r\nOur team is deep in the accounting space. Sean spent 5 years building an ERP after dropping out of Stanford and Max spent 5 years building an accounting firm that did every accounting workflow you can imagine on top of ERPs.",
       "one_liner": "Full stack AI for accounting and finance",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3630,9 +3630,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5156,5 +5156,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-15T00:02:55.590616"
+  "fetched_at": "2025-11-15T06:01:06.121207"
 }
