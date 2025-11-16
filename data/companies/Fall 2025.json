@@ -535,8 +535,8 @@
       "name": "Axial Composites Industries",
       "slug": "axial-composites-industries",
       "website": "https://www.axialcomposite.com",
-      "description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to automate advanced thermoplastic composites production.\r\n\r\nWe believe in the following:\r\n\r\n\u2022\tComposites are the apex material for drone-related applications\r\n\u2022\tCarbon fiber manufacturing technology is still in its infancy\r\n\r\nOur mission is to develop novel composite manufacturing methods that will act as the foundation for the upcoming cambrian explosion in aerospace and robotics.\r\n\r\n\r\nOur method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. This not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for composite manufacturing.\r\n\r\n",
-      "one_liner": "Manufacturing cell for automated carbon fiber parts production",
+      "description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to manufacture carbon fiber parts at the speed of software for the upcoming autonomous age\r\n\r\nWe believe in the following:\r\n\r\n\u2022\tAerospace and robotics manufacturing is going exponential\r\n\u2022\tThermoplastic composites will be the foundational materials for such applications\r\n\r\nOur mission is to equip the West with novel composite manufacturing methods that will act as the backbone of the skyrocketing demand in autonomous systems.\r\n\r\nOur method prints stronger and lighter parts by leveraging fiber anisotropy to our advantage. We can manufacture large composite structures in a day rather than weeks. This not only allows for faster iteration cycles, but it unlocks new possibilities for composite manufacturing.",
+      "one_liner": "Carbon Fiber Manufacturing at the Speed of Software",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2336,40 +2336,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png"
     },
     {
-      "id": 30926,
-      "name": "certitude.",
-      "slug": "certitude",
-      "website": "https://certitude.me",
-      "description": "certitude. trains a model for each employee, to which they can delegate any writing task.\r\n\r\nour models write in their user's tone, maintain a universal memory layer, and take decisions the way the user would. each user can plug their model in a range of existing tools, automating their writing without decreasing output quality.\r\n\r\ntry our test bench to see how certitude performs in any text field on your machine.\r\n\r\n----\r\n\r\nMax and Marwan have known each other since the first days of freshman year at Penn. Together, before certitude, they built AI agents used by over 10k job applicants.\r\n\r\nThey built the first prototype of a certitude personal model in days, which received tens of thousands of API requests and hundreds of thousands of social media views in the first 48h.",
-      "one_liner": "digital twins that work in your name via API.",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "API",
-        "Automation",
-        "Search"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1762995411.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eefd1d180876e6febc95389e547a13368f1985fc.png"
-    },
-    {
       "id": 30925,
       "name": "Play Health",
       "slug": "play-health",
@@ -2978,7 +2944,7 @@
       "name": "Sanctum",
       "slug": "sanctum",
       "website": "https://heysanctum.com/",
-      "description": "Sanctum lets you launch new features to a massively parallel simulation of your users before releasing to real customers. We build AI user models from your session recordings, run them against your changes, and surface bugs, UX issues, and performance problems early. Sanctum also allows you to \"chat\" with your artificial personas, which can explore your site to answer your questions. Results get delivered into your existing workflows.",
+      "description": "Sanctum lets you launch new features to agent swarms that mimic your users before releasing to real customers. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
       "one_liner": "Ship features to simulated users before real ones",
       "batch": "Fall 2025",
       "status": "Active",
@@ -5126,8 +5092,8 @@
       "name": "Goldbridge",
       "slug": "goldbridge",
       "website": "",
-      "description": "We\u2019re building the modern financial stack for the largest asset class in the country. Banking + intelligence + automation, custom-built for real estate owners & operators.",
-      "one_liner": "The Financial OS for Real Estate",
+      "description": "We\u2019re building the financial OS for a trillion dollar vertical. Banking + intelligence + automation, custom-built for real estate owners & operators.",
+      "one_liner": "The AI-Powered CFO for Real Estate",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -5190,5 +5156,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-15T18:01:13.281418"
+  "fetched_at": "2025-11-16T00:03:13.137692"
 }
