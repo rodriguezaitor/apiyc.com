@@ -2634,7 +2634,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761690618.0,
@@ -3908,7 +3908,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759390917.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91d6491f54842844440400f685038d81f545316.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/23447cb4c65dffc842d8078d9534fab1c71d7b30.png"
     },
     {
       "id": 30865,
@@ -4622,8 +4622,8 @@
       "name": "AirCaps",
       "slug": "aircaps",
       "website": "https://aircaps.com",
-      "description": "AirCaps is bringing AI assistance to real-world conversations. \r\n\r\nOur software provides live captions, translations, and proactive AI insights for meetings in your field of view on lightweight AR glasses.\r\n\r\nWe started by helping people with hearing loss understand speech with real-world captions, then expanded to breaking down language barriers with live translation, and now provide AI support during important meetings for professionals.\r\n\r\nWe\u2019ve already transcribed 15,000 hours of in-person conversations and counting. Today, AirCaps assists with 11% of our users\u2019 in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing. Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nWe\u2019re building intelligence for the 200 billion daily conversations that happen face-to-face. \r\n\r\nMadhav (CEO, Yale CS) has been building on smart glasses since age 13, starting with Google Glass apps. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
-      "one_liner": "Bringing AI assistance to real-world conversations. ",
+      "description": "AirCaps is bringing AI assistance to in-person conversations. \r\n\r\nOur AI-copilot provides live captions, translations, AI meeting notes and insights for in-person conversations in real-time. It's deployed as an app for lightweight AR glasses so you can see visual information overlaid onto your field of vision.\r\n\r\nYou can think of it like a Zoom AI meeting assistant or Granola, but for in-person conversations, and with the ability to proactively help you in real-time, not just after the conversation.\r\n\r\nWe\u2019re building the capture and intelligence layer for the 216 billion daily conversations that happen face-to-face.\r\n\r\nWe\u2019ve already processed 16,500 hours of real-world conversations and counting. Today, AirCaps assists with 11% of our users\u2019 in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing (and hit $70K in revenue in the first 2 weeks of November). Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nMadhav (CEO, Yale CS) has been building in audio and AR since age 13, starting with Google Glass apps and voice assistants for Raspberry Pis. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
+      "one_liner": "The AI copilot for in-person conversations.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -4638,7 +4638,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Augmented Reality",
+        "Artificial Intelligence",
         "Productivity",
         "AI",
         "Conversational AI"
@@ -5156,5 +5156,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-16T00:03:13.137692"
+  "fetched_at": "2025-11-16T06:01:07.880411"
 }
