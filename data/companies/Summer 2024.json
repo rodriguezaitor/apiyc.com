@@ -699,7 +699,7 @@
       "one_liner": "AI-Powered Product Data Enrichment",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Retail",
       "industries": [
@@ -712,11 +712,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
         "B2B",
-        "E-commerce",
-        "AI"
+        "E-commerce"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1724,10 +1724,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Consumer",
         "Gaming",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2660,10 +2660,10 @@
     },
     {
       "id": 29788,
-      "name": "Blast",
-      "slug": "blast",
-      "website": "https://withblast.com",
-      "description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We deploy software exclusively on-premises. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
+      "name": "Refactor",
+      "slug": "refactor",
+      "website": "https://refactor.co",
+      "description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
       "one_liner": "Helping enterprises build safe and compliant LLM apps/agents",
       "batch": "Summer 2024",
       "status": "Active",
@@ -2679,17 +2679,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Healthcare",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724647952.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/491bc3e14f2a2109e453def9bad93c9ac0db7f3e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png"
     },
     {
       "id": 29787,
@@ -4034,7 +4034,7 @@
       "name": "Anara",
       "slug": "anara",
       "website": "https://anara.com",
-      "description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we\u2019ve grown to 2M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we\u2019re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we\u2019re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you\u2019re excited by the idea of being a part of that, definitely reach out.",
+      "description": "Anara is AI for scientific advancement. We help researchers find, understand and write scientific documents, together.\r\n\r\nWe started working on Anara two years ago. In that time:\r\n- we\u2019ve grown to 3M users spanning hundreds of major colleges and research-led companies,\r\n- we are fast approaching $10M in yearly revenue,\r\n- 600M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $3M from YC and the founders of Github and Reddit.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member, you'll be instrumental in helping us scale revenue from $10M to $100M and then $100M to $1B+.\r\n\r\nIf you\u2019re excited by the idea of being a part of that, definitely reach out.",
       "one_liner": "AI for researchers",
       "batch": "Summer 2024",
       "status": "Active",
@@ -5092,7 +5092,7 @@
       "one_liner": "Production-grade unstructured document extraction",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -8296,5 +8296,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-17T00:02:45.861202"
+  "fetched_at": "2025-11-17T06:01:12.523971"
 }
