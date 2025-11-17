@@ -465,7 +465,7 @@
       "name": "Claybird",
       "slug": "claybird",
       "website": "https://claybird.com/",
-      "description": "Claybird makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird\u2019s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
+      "description": "Claybird makes studio-quality video ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird\u2019s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
       "one_liner": "The full-stack AI ad agency",
       "batch": "Fall 2025",
       "status": "Active",
@@ -482,11 +482,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Video",
         "Marketing",
-        "Advertising"
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -500,7 +500,7 @@
       "name": "LunaBill",
       "slug": "lunabill",
       "website": "https://lunabill.com/",
-      "description": "LunaBill is building AI Voice callers for healthcare billing teams.\r\nInsurance claim follow-up calls account for the 80% of the daily workload of a healthcare billing team, with each call averaging 30 minutes. \r\n\r\nWe are now at $428K ARR, with signed pilots that will take us to $1.28M in contracted ARR by January 2026. Our customers see a 10x increase in claims followed up per biller in the first week and we have converted 100% of pilots to paying customers. Since launching in July 2025, we\u2019ve automated 50,000+ calls. We have signed partnerships with top healthcare leaders like UC health systems, Mayo, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David founded Skiesoft, Taiwan\u2019s biggest healthcare AI scribe company, used by 120k+ healthcare professionals. He also worked as a data scientist at UCSF, building models to audit medical-coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.",
+      "description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for the 80% of the daily workload of a healthcare billing team, with each call averaging 30 minutes.\r\n\r\nSince our launch in July we are now at $764K in contracted ARR, of which $428K is live revenue and the rest will go live by January 2026. Our customers see a 10x increase in claims followed up per biller in the first week and we have converted 100% of pilots to paying customers. We have automated 50,000+ calls and signed partnerships with top healthcare leaders like UC health systems, Mayo, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David founded Skiesoft, Taiwan\u2019s biggest healthcare AI scribe company, used by 120k+ healthcare professionals. He also worked as a data scientist at UCSF, building models to audit medical-coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.\r\n",
       "one_liner": "AI Voice callers for healthcare billing teams.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -517,11 +517,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Health Tech",
         "Healthcare",
-        "Healthcare IT"
+        "Healthcare IT",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4178,8 +4178,8 @@
       "name": "Aspect",
       "slug": "aspect-inc",
       "website": "https://aspect.inc",
-      "description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team\u2019s video library and workflows better than humans. These agents fill the roles of a media team\u2019s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
-      "one_liner": "AI agents for post-production teams",
+      "description": "When footage comes off a camera, media content teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is an AI platform that understand a team\u2019s video library and workflows better than humans. These agents fill the roles of production assistants, so creatives can focus on what they love instead of managing media back-office tasks.",
+      "one_liner": "AI platform for enterprise media content",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -4194,11 +4194,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5156,5 +5156,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-16T18:01:07.846024"
+  "fetched_at": "2025-11-17T00:02:46.613453"
 }

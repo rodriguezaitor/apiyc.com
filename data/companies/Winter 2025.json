@@ -2505,16 +2505,16 @@
       "name": "Pickle",
       "slug": "pickle-2",
       "website": "https://www.pickle.com",
-      "description": "Pickle is a persistent AI clone that speaks in your voice, learns from your behavior, and connects on your behalf whether you\u2019re asleep, focused, or on the other side of the world.",
-      "one_liner": "We're building a living digital clone for everyone.",
+      "description": "Pickle is a personal, memory-based operating system, the missing layer of AI that continuously learns your real-world context, preferences, and intent, enabling AI to evolve with you and become truly proactive rather than reactive. Our system spans both software (Chat, our web-based creative intelligence app) and hardware (Pickle 1, our AI-powered AR glasses) to capture different layers of personal context. Together, they form the foundation of a real personal intelligence.",
+      "one_liner": "Where your life context becomes understanding.",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 15,
       "industry": "Consumer",
-      "subindustry": "Consumer -> Social",
+      "subindustry": "Consumer -> Consumer Electronics",
       "industries": [
         "Consumer",
-        "Social"
+        "Consumer Electronics"
       ],
       "regions": [
         "United States of America",
@@ -2522,13 +2522,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Consumer",
-        "Video",
-        "Remote Work",
-        "AI"
+        "Artificial Intelligence",
+        "Hardware",
+        "Augmented Reality",
+        "Consumer"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738265099.0,
@@ -5357,5 +5357,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-11-16T18:01:07.545294"
+  "fetched_at": "2025-11-17T00:02:46.548274"
 }
