@@ -1055,14 +1055,14 @@
     },
     {
       "id": 24822,
-      "name": "Luminate Medical",
+      "name": "Luminate",
       "slug": "luminate-medical",
       "website": "http://www.luminatemed.com",
-      "description": "We make devices that help cancer patients prevent the side effects of cancer treatment, including hair loss, neuropathy and infertility. Our first product, Lily, is a wearable cap that enables chemotherapy patients to prevent hair loss in a comfortable, portable way, while our second product, Lilac, is the world's first device to prevent the peripheral nerve damage caused by cancer treatment. ",
-      "one_liner": "We build medical devices to stop the side effects of cancer treatment.",
+      "description": "",
+      "one_liner": "We make cancer care at home possible.",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 36,
+      "team_size": 55,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Medical Devices",
       "industries": [
@@ -1853,7 +1853,7 @@
       "one_liner": "Digital lending platform for Brazilian farmers",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 13,
+      "team_size": 4,
       "industry": "Fintech",
       "subindustry": "Fintech -> Credit and Lending",
       "industries": [
@@ -13420,5 +13420,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-11-17T12:01:14.975066"
+  "fetched_at": "2025-11-17T18:01:08.917779"
 }

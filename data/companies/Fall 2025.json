@@ -466,7 +466,7 @@
       "slug": "claybird",
       "website": "https://claybird.com/",
       "description": "Claybird makes studio-quality video ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird\u2019s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
-      "one_liner": "The full-stack AI ad agency",
+      "one_liner": "The full-stack AI ad company",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -482,11 +482,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "SaaS",
+        "Artificial Intelligence",
         "Video",
         "Marketing",
-        "Advertising",
-        "AI"
+        "Advertising"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -813,19 +812,12 @@
         "Marketing"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Sales",
-        "Sales Enablement",
-        "Marketing",
-        "Advertising"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761945756.0,
@@ -5156,5 +5148,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-17T12:01:19.486974"
+  "fetched_at": "2025-11-17T18:01:13.315079"
 }
