@@ -6035,14 +6035,14 @@
     },
     {
       "id": 26667,
-      "name": "SolStar",
-      "slug": "solstar",
-      "website": "https://solstar.finance",
-      "description": "SolStar makes it possible for anyone to use crypto\u2014even your grandpa!\r\n\r\nAll you need to get started is a credit card. Skip the confusing steps above and dive in right away with a secure, approachable tool that makes crypto fun. You can add SolStar Tip Bot to your Discord, check your balance, and send a tip to a friend all within a few minutes.",
-      "one_liner": "Buy and send crypto to friends on Discord.",
+      "name": "Star",
+      "slug": "star",
+      "website": "https://buildwithstar.com",
+      "description": "Star makes game development accessible to anyone with an idea. Using AI, you can create complex, playable games without writing code - just describe what you want and iterate. We're building the future of creative tools for the next generation of game makers.",
+      "one_liner": "Make games with AI - no coding required",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "Consumer",
       "subindustry": "Consumer -> Gaming",
       "industries": [
@@ -6057,18 +6057,18 @@
       ],
       "locations": "Monterey, CA, USA; Remote",
       "tags": [
-        "Fintech",
-        "Crypto / Web3",
         "Consumer",
-        "Community",
-        "No-code"
+        "Gaming",
+        "No-code",
+        "Creator Economy",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1661282140.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccb9b78ee502d1956206444281fb6c33ae78f0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/967b50f500638e1217a027ad53fa0c2fd82dd532.png"
     },
     {
       "id": 26663,
@@ -6175,7 +6175,7 @@
       "id": 26660,
       "name": "Chordio",
       "slug": "chordio",
-      "website": "https://chordio.com",
+      "website": "https://designrails.com",
       "description": "Chordio is an AI-powered design review tool that helps product teams catch issues early, reduce QA grunt work,  and ship polished interfaces with confidence.\r\n\r\nIt works across Figma (plugin) and web (Chrome extension), so it's easy to incorporate into an existing design-development workflow. \r\n",
       "one_liner": "AI-powered design reviews that guard your standards",
       "batch": "Summer 2022",
@@ -8114,5 +8114,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-11-17T18:01:10.723431"
+  "fetched_at": "2025-11-18T00:02:48.101699"
 }

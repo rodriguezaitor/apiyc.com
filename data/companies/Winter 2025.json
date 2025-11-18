@@ -1084,7 +1084,7 @@
       "one_liner": "AI performance monitoring for factory workers",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -2979,7 +2979,7 @@
       "one_liner": "Online Reinforcement Learning for AI Agents",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -3755,14 +3755,14 @@
     },
     {
       "id": 30222,
-      "name": "General Agency",
-      "slug": "general-agency",
-      "website": "https://heytessa.ai",
-      "description": "We are building Tessa, an AI coworker that can autonomously learn and master the usage of web-based tools, just like a human does. \r\n\r\nTo accomplish this, we are building a novel neural architecture that enables autonomous self-improvement in AI agents. So far, we've achieved a state-of-the-art success rate of 93% on the WebVoyager benchmark.\r\n\r\nWe are working to automate workflows in several verticals, including property management & real estate, financial services, and consulting.",
-      "one_liner": "AI coworkers that can learn and act just like a human",
+      "name": "Altrina",
+      "slug": "altrina",
+      "website": "https://altrina.com",
+      "description": "We are building Altrina, a platform to solve the information and process bottlenecks in human organizations, so teams of 10,000 can operate with the efficiency of a startup.\r\n\r\nTo accomplish this, we've pioneered the concept of AI auto-alignment - the autonomous learning and continual application of user preferences for agentic processes.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
+      "one_liner": "The Operating System for Knowledge Work",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -3771,9 +3771,11 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "Menlo Park, CA, USA",
       "tags": [
         "Artificial Intelligence",
         "Hard Tech",
@@ -3786,7 +3788,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736185270.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/33ed5cc65a127b902a3c0f29f59e767a7082abf1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png"
     },
     {
       "id": 30221,
@@ -5357,5 +5359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-11-17T18:01:12.988238"
+  "fetched_at": "2025-11-18T00:02:50.399243"
 }

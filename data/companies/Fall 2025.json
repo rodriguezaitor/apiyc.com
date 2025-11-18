@@ -3604,8 +3604,8 @@
       "name": "Questom",
       "slug": "questom",
       "website": "https://www.questom.ai",
-      "description": "AI sales and support for the custom merchandise industry. We automate quoting, customer service, and follow-ups through voice, chat, and email agents.",
-      "one_liner": "AI Sales and Support for Merch Companies",
+      "description": "A unified AI workforce for wholesale that handles every workflow from quote to delivery and becomes the system of record that replaces CRM and ERP entirely.",
+      "one_liner": "Agentic OS for Wholesalers",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3622,8 +3622,6 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "B2B",
-        "Customer Success",
-        "E-commerce",
         "Customer Service",
         "AI Assistant"
       ],
@@ -3732,6 +3730,40 @@
       "is_top_company": false,
       "launched_at": 1762405247.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab0621356dad2e93ac6c0e1b6a09ff4607f0968f.png"
+    },
+    {
+      "id": 30873,
+      "name": "Land.dev",
+      "slug": "landdev",
+      "website": "https://land.dev",
+      "description": "America has a land problem. \r\n\r\nWe are spending more, and building less. \r\n\r\nAmerican real estate developers waste their time navigating data scattered across 23,000 jurisdictions. An apartment builder must check dozens of different databases, parse hundreds of PDFs, and still might miss a critical detail buried in an ancient document.\r\n\r\nWe use AI to normalize the country\u2019s land data into one source of truth, so developers can focus on building.",
+      "one_liner": "Solving America's Land Problem with AI",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction",
+      "industries": [
+        "Real Estate and Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Computer Vision",
+        "Real Estate",
+        "Construction",
+        "Search",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1760060442.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0cd199ee92c06360cbaaa00fb788735a6999cf4.png"
     },
     {
       "id": 30871,
@@ -4449,7 +4481,7 @@
       "name": "Parrot",
       "slug": "parrot",
       "website": "https://parrotapp.com/",
-      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $75K MRR doubling every 2 months with power users averaging 49 mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $78K MRR doubling every 2 months with power users averaging 49 mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
       "one_liner": "TikTok for language learning",
       "batch": "Fall 2025",
       "status": "Active",
@@ -5085,7 +5117,7 @@
       "slug": "goldbridge",
       "website": "",
       "description": "We\u2019re building the financial OS for a trillion dollar vertical. Banking + intelligence + automation, custom-built for real estate owners & operators.",
-      "one_liner": "The AI-Powered CFO for Real Estate",
+      "one_liner": "Ramp for Real Estate",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -5100,11 +5132,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
         "Finance",
         "Proptech",
-        "Neobank"
+        "Neobank",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5148,5 +5180,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-17T18:01:13.315079"
+  "fetched_at": "2025-11-18T00:02:50.703740"
 }

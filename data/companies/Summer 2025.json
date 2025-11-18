@@ -5130,11 +5130,11 @@
       "name": "Cactus",
       "slug": "cactus",
       "website": "https://www.cactuscompute.com/",
-      "description": "App developers can now deploy private, local, offline AI models in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. It is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
-      "one_liner": "Kernels & Engine for running AI on phones",
+      "description": "CUDA for phones & consumer hardware: Cactus is used by 3k+ developers and 100+ products to run AI locally on consumer hardware. It is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
+      "one_liner": "Kernels & Engine for running AI on consumer devices.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -5143,7 +5143,9 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -5411,5 +5413,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-17T18:01:12.677688"
+  "fetched_at": "2025-11-18T00:02:50.079295"
 }

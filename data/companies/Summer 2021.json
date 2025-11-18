@@ -3111,43 +3111,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef214a749c163e81772f2ba192fdf4eeec23bbb3.png"
     },
     {
-      "id": 24556,
-      "name": "Revery AI",
-      "slug": "revery-ai",
-      "website": "https://revery.ai",
-      "description": "We are building the TikTok for fashion \u2014 a platform for creators to showcase their works, gain traction and build their brands. \r\n\r\n### Reverie is powered by two pieces of core technology:\r\n- An AI-enhanced design tool for creators to turn their design ideas into e-commerce quality product images very efficiently.\r\n- An AI-powered Virtual Dressing Room to create professional fashion photography directly from product images. Both fashion creators and other users can easily style outfits on different models.\r\n\r\nWith our core tech, we are building an active community of fashion creators (designers, stylists, influencers, bloggers, artists, casting directors, etc..) who produce original designs and engaging content around the published pieces. The social media platform will provide a streamlined path for fashion creators to experiment with their ideas and build traction. \r\n\r\nWe want to eventually become the default choice for anyone who wants to launch their fashion label, and have the future Off-White, Balenciaga, Rick Oven, etc. originate from Reverie. Our team combines deep expertise in technology (AI Phds) and the fashion industry (Community builder). Our Virtual Dressing room is live with top retailers (such as Neiman Marcus) and has ~1M ARR. We are backed by YCombinator, TSVC, Cabra VC, and other amazing angels with retail experience and connections. Join us to reshape the fashion industry!",
-      "one_liner": "Tiktok for fashion - where designers show their work + build traction",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Social",
-      "industries": [
-        "Consumer",
-        "Social"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Emeryville, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Social",
-        "E-commerce",
-        "Creator Economy"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1626437229.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c68ee72bd5c4a9c174f54d28949fe5d5b2e74f2.png"
-    },
-    {
       "id": 24555,
       "name": "RMFG",
       "slug": "rmfg",
@@ -12282,6 +12245,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/593fb7f4f1c40576ebfc7c47219cb0acee69aea7.png"
     },
     {
+      "id": 24556,
+      "name": "Revery AI",
+      "slug": "revery-ai",
+      "website": "https://revery.ai",
+      "description": "We are building the TikTok for fashion \u2014 a platform for creators to showcase their works, gain traction and build their brands. \r\n\r\n### Reverie is powered by two pieces of core technology:\r\n- An AI-enhanced design tool for creators to turn their design ideas into e-commerce quality product images very efficiently.\r\n- An AI-powered Virtual Dressing Room to create professional fashion photography directly from product images. Both fashion creators and other users can easily style outfits on different models.\r\n\r\nWith our core tech, we are building an active community of fashion creators (designers, stylists, influencers, bloggers, artists, casting directors, etc..) who produce original designs and engaging content around the published pieces. The social media platform will provide a streamlined path for fashion creators to experiment with their ideas and build traction. \r\n\r\nWe want to eventually become the default choice for anyone who wants to launch their fashion label, and have the future Off-White, Balenciaga, Rick Oven, etc. originate from Reverie. Our team combines deep expertise in technology (AI Phds) and the fashion industry (Community builder). Our Virtual Dressing room is live with top retailers (such as Neiman Marcus) and has ~1M ARR. We are backed by YCombinator, TSVC, Cabra VC, and other amazing angels with retail experience and connections. Join us to reshape the fashion industry!",
+      "one_liner": "Tiktok for fashion - where designers show their work + build traction",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Social",
+      "industries": [
+        "Consumer",
+        "Social"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Emeryville, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Social",
+        "E-commerce",
+        "Creator Economy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1626437229.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c68ee72bd5c4a9c174f54d28949fe5d5b2e74f2.png"
+    },
+    {
       "id": 24498,
       "name": "Levo",
       "slug": "levo",
@@ -13420,5 +13420,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-11-17T18:01:08.917779"
+  "fetched_at": "2025-11-18T00:02:46.209659"
 }
