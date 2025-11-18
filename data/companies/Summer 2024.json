@@ -635,7 +635,7 @@
       "one_liner": "Automated AI Safety and Red Teaming Tools",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -647,16 +647,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Trust & Safety"
+        "Trust & Safety",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722983007.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad4e9323d0b345b07ab2d18cb012014c12ea80e4.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/891f7922e63f2da067ca4b670b5dd1e0cc43bea1.png"
     },
     {
       "id": 29960,
@@ -967,7 +967,7 @@
       "one_liner": "Automate hospital reporting and prevent patient harm with AI",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -980,14 +980,14 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "Digital Health",
         "Healthcare",
-        "Healthcare IT",
-        "AI"
+        "Healthcare IT"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1722645222.0,
@@ -2664,7 +2664,7 @@
       "slug": "refactor",
       "website": "https://refactor.co",
       "description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
-      "one_liner": "Helping enterprises build safe and compliant LLM apps/agents",
+      "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,\u2026",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -2679,10 +2679,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Healthcare",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4774,16 +4774,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1716255604.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a704debd59a1fbf8c3e8d8edd73861b4f0054d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c74ff87f3dfbb5392eebf85ad2a0b29ffd7073fa.png"
     },
     {
       "id": 29710,
@@ -8291,5 +8291,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-18T00:02:47.368052"
+  "fetched_at": "2025-11-18T06:01:08.823909"
 }
