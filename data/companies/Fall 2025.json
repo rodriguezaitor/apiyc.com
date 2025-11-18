@@ -1331,40 +1331,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9c79cb57463cbdc422676b0d9eee7efef195b6a.png"
     },
     {
-      "id": 30961,
-      "name": "Arcten",
-      "slug": "arcten",
-      "website": "https://arcten.com",
-      "description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics\u2014all on one platform.",
-      "one_liner": "Building the platform for companies to ship AI agents fast",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "API",
-        "Enterprise",
-        "Infrastructure"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1761245566.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png"
-    },
-    {
       "id": 30960,
       "name": "Metorial",
       "slug": "metorial",
@@ -1401,8 +1367,8 @@
       "name": "Kalpa Labs",
       "slug": "kalpa-labs",
       "website": "https://kalpalabs.ai/",
-      "description": "We're building the next frontier of speech models that can pass the turing test over long conversations along with state-of-the-art infra for your voice agents. ",
-      "one_liner": "Frontier Speech models",
+      "description": "We're building the next frontier of speech models. Generalist speech models that unlock in-context learning & strong instruction following for speech models alongside unifying existing speech capabilities like speech to text, text to speech, voice cloning, etc.",
+      "one_liner": "Scaling Generalist Speech models",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1417,8 +1383,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Speech Recognition",
+        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -3932,7 +3898,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759390917.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/23447cb4c65dffc842d8078d9534fab1c71d7b30.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1852e5cb028f22711eec19617730fcb1dae1e9b4.png"
     },
     {
       "id": 30865,
@@ -5180,5 +5146,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-18T06:01:12.138252"
+  "fetched_at": "2025-11-18T12:01:18.612105"
 }
