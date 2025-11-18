@@ -3762,8 +3762,8 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent provides guardrails that make AI products secure and compliant.\r\n\r\nIt's a suite of purpose-trained small language models that run at runtime to protect, verify, and redact data flowing through AI systems.\r\n\r\n- GUARD detects and blocks unsafe inputs, prompt injections, and malicious tool calls before they reach your models\r\n- VERIFY grounds and validates outputs against enterprise sources to ensure every generation is factual and policy-aligned\r\n- REDACT removes sensitive data (PII, PHI, secrets) to maintain privacy and compliance\r\n\r\nSuperagent integrates via API, SDKs, CLI, MCP, and web Playground, with a unified dashboard for policies, logs, and compliance visibility.",
-      "one_liner": "Security and compliance for AI products",
+      "description": "Superagent identifies catastrophic failures in AI systems before they reach customers or regulators.\r\n\r\nWe run a fully managed test service that maps where your models, agents, and workflows can cause legal, security, or customer harm, then build and execute targeted test suites around those risks. The tests cover security, compliance, and product-critical failure modes, and produce structured, audit-ready evidence that enterprise buyers require.\r\n\r\nMost customers use Superagent to prove their AI products are safe to deploy and to maintain that assurance as the systems evolve.",
+      "one_liner": "Safety and compliance testing for AI",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -3789,7 +3789,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701445003.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5fb7dd012389ddf81869040550578bb786988ed.png"
     },
     {
       "id": 29373,
@@ -6004,19 +6004,19 @@
     },
     {
       "id": 29284,
-      "name": "Starlight Charging",
-      "slug": "starlight-charging",
-      "website": "https://www.starlightcharging.com",
-      "description": "Starlight Charging offers ultra-low-cost EV-charging to condos and apartments. Our power-balancing software enables our network of installers to install chargers without expensive infrastructure upgrades, cutting the cost by 10x compared to any other option.\r\n\r\nThrough Starlight's Partner Program, electricians and small business owners can create their own charging network and generate passive income with owner-operated charging stations using Starlight battle-tested software.",
-      "one_liner": "Ultra-low-cost EV charging for condos and apartments",
+      "name": "Avery",
+      "slug": "avery",
+      "website": "https://www.callavery.com",
+      "description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager\u2019s toolkit with a two-way contact center to provide an excellent resident experience.",
+      "one_liner": "AI Contact Center for Residential Property Managers",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 3,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Energy",
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
       "industries": [
-        "Industrials",
-        "Energy"
+        "Real Estate and Construction",
+        "Housing and Real Estate"
       ],
       "regions": [
         "United States of America",
@@ -6024,18 +6024,17 @@
       ],
       "locations": "Austin, TX, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Real Estate",
         "Proptech",
-        "Climate",
-        "Energy",
-        "Electric Vehicles",
-        "Automotive"
+        "Telecommunications"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705435157.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ce99b082d93cdf76a1aadb5261e20db561d02df.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9858815bbd831276cdcb1d662f0a88316f786e6.png"
     },
     {
       "id": 29283,
@@ -8266,5 +8265,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-18T12:01:17.208720"
+  "fetched_at": "2025-11-18T18:01:10.550445"
 }
