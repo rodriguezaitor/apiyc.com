@@ -2163,7 +2163,7 @@
       "one_liner": "Open-source dev tools and infrastructure for MCP.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -2174,7 +2174,13 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "Open Source",
+        "Infrastructure"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -2964,19 +2970,12 @@
         "Healthcare IT"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Health Tech",
-        "B2B",
-        "Healthcare",
-        "Infrastructure",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752533752.0,
@@ -5270,10 +5269,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Customer Success",
-        "AI"
+        "Sales"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5413,5 +5413,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-18T18:01:12.495161"
+  "fetched_at": "2025-11-19T00:02:58.005598"
 }

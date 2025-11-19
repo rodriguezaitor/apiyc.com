@@ -755,8 +755,8 @@
       "name": "Simbie AI",
       "slug": "simbie-ai",
       "website": "http://www.simbie.ai",
-      "description": "",
-      "one_liner": "Clinically-intelligent AI Voice Agents for Healthcare",
+      "description": "Simbie AI voice agents are EHR-integrated and answer SMB medical practices' phones and call their patients for them. They handle both admin (scheduling) and clinical (results) tasks. Simbie is powering the return to independent medicine\u201450% of care delivered today\u2014as doctors and patients badly want. After years of healthcare consolidation that left patients worse off and physician burnout surging, we're giving SMB the (infinite) scale to compete with hospitals, without the overhead.",
+      "one_liner": "AI Voice Staff for SMB Medical Practices",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 5,
@@ -773,9 +773,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Health Tech"
+        "Health Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2731,15 +2731,15 @@
       "name": "Gleam",
       "slug": "gleam",
       "website": "https://joingleam.com",
-      "description": "Gleam is an AI platform that helps clinical research sites, sponsors, and CROs get to bring life-saving products to market faster.",
-      "one_liner": "AI for Clinical Research",
+      "description": "Gleam automates data entry for clinical research sites.",
+      "one_liner": "AI Data Entry for Clinical Research",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
       "industries": [
-        "Healthcare"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -3743,7 +3743,7 @@
       "one_liner": "Making cancer detection as easy as a pregnancy test",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 16,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Diagnostics",
       "industries": [
@@ -3756,13 +3756,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Computer Vision",
         "Biotech",
         "Healthcare",
-        "Diagnostics",
-        "AI"
+        "Diagnostics"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6383,7 +6383,7 @@
       "one_liner": "The operating system for inbound B2B revenue",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 11,
+      "team_size": 65,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -7380,5 +7380,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-11-18T18:01:11.395265"
+  "fetched_at": "2025-11-19T00:02:56.746850"
 }
