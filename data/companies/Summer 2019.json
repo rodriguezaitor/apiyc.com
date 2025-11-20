@@ -3266,16 +3266,15 @@
       "name": "Plotdrive",
       "slug": "plotdrive",
       "website": "https://plotdrive.com",
-      "description": "We're building the world's first AI that actually remembers your entire book - an intelligent writing companion that transforms how stories get finished. Our mission is to solve the #1 reason books die unfinished: writers losing track of their own stories across hundreds of pages. Founded by brothers who've pushed creative boundaries across poker, VR gaming, and interactive storytelling, we combine deep technical expertise with an obsessive focus on what writers actually need. Our CEO, a former world-class poker player, brings the same strategic depth that won millions to ensuring every writer can finally type \"The End.\" We're a team of rebellious optimists who've already helped authors break through decade-long blocks and publish books they thought would never see the light of day. The printing press gave stories reach. We're giving them wings.",
-      "one_liner": "AI that remembers your book & writes like you",
+      "description": "Plotdrive is the first continuous production system for narrative \u2014 infrastructure that transforms how long-form stories move from imagination to completion. Most books don\u2019t fail for lack of talent; they fail when the workflow collapses somewhere between page 80 and page 300.\r\n\r\nFounded by brothers with backgrounds in high-stakes poker, VR, and narrative systems, we built what we couldn\u2019t find: an engine that holds the entire shape of a story while authors work inside it. Writers see 4\u20135\u00d7 gains in throughput without losing their voice. Manuscripts that sat untouched for years finally reach the finish line. Authors are using Plotdrive to break decade-long blocks. Publishers are using it to rethink how story pipelines should operate when continuity, context, and editorial craft can finally scale.\r\n\r\nThe printing press made distribution industrial. We\u2019re making completion industrial \u2014 creating the foundational layer for how narrative gets made at scale.",
+      "one_liner": "AI that remembers your book and helps you finish it",
       "batch": "Summer 2019",
       "status": "Active",
       "team_size": 4,
-      "industry": "Consumer",
+      "industry": "B2B",
       "subindustry": "Consumer -> Content",
       "industries": [
-        "Consumer",
-        "Content"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -3286,7 +3285,7 @@
       "locations": "Los Angeles, CA, USA",
       "tags": [
         "Entertainment",
-        "Marketing",
+        "Media",
         "Creator Economy",
         "AI",
         "AI Assistant"
@@ -5959,5 +5958,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-11-20T12:01:24.613224"
+  "fetched_at": "2025-11-20T18:01:18.541531"
 }

@@ -4622,7 +4622,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1704737122.0,
@@ -6018,13 +6018,13 @@
       ],
       "locations": "Austin, TX, USA",
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
         "Proptech",
-        "Telecommunications"
+        "Telecommunications",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705435157.0,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-20T12:01:22.683613"
+  "fetched_at": "2025-11-20T18:01:15.748370"
 }

@@ -2691,7 +2691,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.com",
-      "description": "Embedder combines documentation indexing, hardware-aware code generation and autonomous debugging to eliminate the tedious parts of firmware development.",
+      "description": "Embedder is an AI-powered firmware generation platform that writes, tests, and debugs firmware on both physical and simulated hardware. Supporting 20+ MCU/SoC platforms, it accelerates embedded systems development across semiconductors, automotive, medical devices, aerospace, IoT, and consumer electronics.",
       "one_liner": "Cursor for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5406,5 +5406,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-20T12:01:24.909174"
+  "fetched_at": "2025-11-20T18:01:18.969999"
 }
