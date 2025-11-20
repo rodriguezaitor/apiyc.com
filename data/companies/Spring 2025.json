@@ -165,39 +165,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1589548b774d33ca4f20c5020467a9627f9c13.png"
     },
     {
-      "id": 30558,
-      "name": "BitPatrol",
-      "slug": "bitpatrol",
-      "website": "https://www.bitpatrol.io/",
-      "description": "Leverage cutting-edge AI to detect exposed credentials in real time and protect your organization from high-impact data breaches.",
-      "one_liner": "AI-powered code security",
-      "batch": "Spring 2025",
-      "status": "Active",
-      "team_size": 1,
-      "industry": "B2B",
-      "subindustry": "B2B -> Security",
-      "industries": [
-        "B2B",
-        "Security"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "DevSecOps",
-        "Machine Learning",
-        "Cybersecurity"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1747422859.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a49803acbbc34d447ce47d0129bde3f02dd6b0ec.png"
-    },
-    {
       "id": 30557,
       "name": "Aegis",
       "slug": "aegis",
@@ -264,7 +231,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746647881.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b61a9c6976c89879b6647cf5de4a9c135cae19d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3aa0d95916d3b4131e5082f239f41e897c5e822.png"
     },
     {
       "id": 30554,
@@ -4311,7 +4278,7 @@
       "one_liner": "24/7 Global Stock Exchange",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 6,
       "industry": "Fintech",
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
@@ -4586,6 +4553,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png"
     },
     {
+      "id": 30558,
+      "name": "BitPatrol",
+      "slug": "bitpatrol",
+      "website": "https://www.bitpatrol.io/",
+      "description": "Leverage cutting-edge AI to detect exposed credentials in real time and protect your organization from high-impact data breaches.",
+      "one_liner": "AI-powered code security",
+      "batch": "Spring 2025",
+      "status": "Acquired",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "DevSecOps",
+        "Machine Learning",
+        "Cybersecurity"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1747422859.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a49803acbbc34d447ce47d0129bde3f02dd6b0ec.png"
+    },
+    {
       "id": 30447,
       "name": "Caucus",
       "slug": "caucus",
@@ -4648,5 +4648,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-19T18:01:12.107374"
+  "fetched_at": "2025-11-20T00:02:58.420741"
 }

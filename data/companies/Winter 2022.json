@@ -4271,7 +4271,7 @@
         "Compliance",
         "Trust & Safety"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7390,7 +7390,7 @@
         "Architecture",
         "Infrastructure"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -8431,41 +8431,6 @@
       "is_top_company": false,
       "launched_at": 1642208334.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f84e00a73b712ac5b6de5e0cec130ff847c1a3e3.png"
-    },
-    {
-      "id": 25486,
-      "name": "Dioptra",
-      "slug": "dioptra",
-      "website": "https://dioptra.ai/",
-      "description": "We help founders and in-house counsels streamline their contract negotiations to close deals faster. We do this by building your contract negotiation playbooks and automating them with AI. ",
-      "one_liner": "Automated contract review with AI",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Legal",
-      "industries": [
-        "B2B",
-        "Legal"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Generative AI",
-        "Legal",
-        "LegalTech"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1638819953.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8983a589f2875e25661e87e8de4126fdc3b5d46d.png"
     },
     {
       "id": 25480,
@@ -12496,6 +12461,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fefd038c884eb2ec297216fef362234e54c0d4ee.png"
     },
     {
+      "id": 25486,
+      "name": "Dioptra",
+      "slug": "dioptra",
+      "website": "https://dioptra.ai/",
+      "description": "We help founders and in-house counsels streamline their contract negotiations to close deals faster. We do this by building your contract negotiation playbooks and automating them with AI. ",
+      "one_liner": "Automated contract review with AI",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Generative AI",
+        "Legal",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1638819953.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8983a589f2875e25661e87e8de4126fdc3b5d46d.png"
+    },
+    {
       "id": 25433,
       "name": "JumpWire",
       "slug": "jumpwire",
@@ -13819,5 +13819,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-19T18:01:09.327376"
+  "fetched_at": "2025-11-20T00:02:51.439090"
 }

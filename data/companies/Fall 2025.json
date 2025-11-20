@@ -1964,7 +1964,7 @@
       "name": "Imagine AI",
       "slug": "imagine-ai",
       "website": "https://imagineai.me",
-      "description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). The idea came after a YC partner told us: founders at B2B companies are experts at their jobs, but consistently struggle to turn that expertise into marketing that drives revenue.\r\n\r\nWe launched in mid-July, now serve 40+ paying customers including 19 YC companies (Conduit W24, AthenaHQ W25, Bilanc W24, etc) plus VCs, global franchises, and ghostwriting agencies. Achieving minimum 30%-70% week to week growth.\r\n\r\n\ud83d\udca1 Results:\r\n$10 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe\u2019re not just another AI tool.\r\n\r\nWe\u2019re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n\ud83d\udcc5 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n\ud83d\udd17 Connect with Sky: https://www.linkedin.com/in/skyyang/",
+      "description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). The idea came after a YC partner told us: founders at B2B companies are experts at their jobs, but consistently struggle to turn that expertise into marketing that drives revenue.\r\n\r\nWe launched in mid-July, now serve 40+ paying customers (Series-A,B and seed stage companies plus VCs, global franchises, and ghostwriting agencies). Achieving minimum 30%-70% week to week growth.\r\n\r\n\ud83d\udca1 Results:\r\n$10 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe\u2019re not just another AI tool.\r\n\r\nWe\u2019re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n\ud83d\udcc5 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n\ud83d\udd17 Connect with Sky: https://www.linkedin.com/in/skyyang/",
       "one_liner": "Your AI Clone for B2B Content",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4445,8 +4445,8 @@
       "name": "MOVEdot",
       "slug": "movedot",
       "website": "https://www.movedot.ai/",
-      "description": "Our platform allows engineers to automate the post processing of sensor data then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
-      "one_liner": "AI Agents for Sensor Data Analysis",
+      "description": "Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards. Our agents provide up to 10x efficiency when analyzing collected data and internal documentation.",
+      "one_liner": "AI Agents for Hardware Engineering",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 10,
@@ -4460,12 +4460,13 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Hardware",
         "Manufacturing",
-        "AI",
         "Automotive",
         "Industrial"
       ],
@@ -4474,7 +4475,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759431340.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ded2bf087bf8cb3bfc1892bfe645a7a09f0b265.png"
     },
     {
       "id": 30848,
@@ -5180,5 +5181,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-19T18:01:11.806948"
+  "fetched_at": "2025-11-20T00:02:57.649027"
 }

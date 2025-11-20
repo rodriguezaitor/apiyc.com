@@ -3848,7 +3848,7 @@
       "name": "Cardinal Gray",
       "slug": "cardinal-gray",
       "website": "https://www.cardinalgray.com/",
-      "description": "When a lender gives out a car loan, they need to file a lien with their borrower\u2019s DMV. This is difficult because the process varies by state and county. We\u2019ve leveraged LLMs to help lenders automate lien filings for over $500M of loans.",
+      "description": "When a lender gives out a car loan, they need to file a lien with their borrower\u2019s DMV. This is difficult because the process varies by state and county. We\u2019ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
       "one_liner": "Automating lenders' interactions with the DMV",
       "batch": "Summer 2023",
       "status": "Active",
@@ -3865,10 +3865,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Enterprise Software",
         "Consumer Finance",
         "Automation",
-        "AI",
         "Automotive"
       ],
       "stage": "Early",
@@ -7380,5 +7380,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-11-19T18:01:10.857264"
+  "fetched_at": "2025-11-20T00:02:55.243174"
 }
