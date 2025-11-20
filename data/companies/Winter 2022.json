@@ -1849,11 +1849,11 @@
       "name": "Finku",
       "slug": "finku",
       "website": "http://finku.id",
-      "description": "We allow our users to create a single view of their finances from 22 banks, investment platforms and e-wallets to help them get control of their finances. We offer the most comprehensive account integrations and personal finance tools in Indonesia. ",
-      "one_liner": "Personal finance platform for Indonesia",
+      "description": "Finku is an AI powered personal finance app (budget & money manager) focused on geographies without Open Banking, such as Indonesia. \r\n\r\nFinku makes it easy for users to learn about their spending behaviors and recommends ways for user to achieve their goals faster (i.e saving more, etc.). Finku has helped 1 million Indonesian by offering a more seamless and innovative method of storing financial transactions, by processing these data-points & offering insightful suggestions for users, by providing access to a virtual financial assistant, hence creating a rewarding & sticky experience for our users.\r\n\r\nFinku is backed by B Capital, Partech, Golden Gate Ventures, Goodwater Capital, Trihill Capital and YCombinator.",
+      "one_liner": "AI powered personal finance app for Indonesia",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 50,
+      "team_size": 20,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -1867,7 +1867,8 @@
       ],
       "locations": "Jakarta, Jakarta, Indonesia",
       "tags": [
-        "Fintech"
+        "Fintech",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -4732,39 +4733,6 @@
       "is_top_company": false,
       "launched_at": 1644868857.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e1e36c83b26eee167ac29306733958a30cb80c5.png"
-    },
-    {
-      "id": 25727,
-      "name": "Sendme, Inc",
-      "slug": "sendme-inc",
-      "website": "http://www.sendme.ng",
-      "description": "Sendme is an on-demand provider of clean meat to individuals and food businesses. We built a chatbot that lets customers place orders for meat on WhatsApp and they get it within 3hours.\r\n",
-      "one_liner": "On demand provider of meat to households and food businesses",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 40,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Food and Beverage",
-      "industries": [
-        "Consumer",
-        "Food and Beverage"
-      ],
-      "regions": [
-        "Nigeria",
-        "Africa"
-      ],
-      "locations": "Ibadan, YO, Nigeria",
-      "tags": [
-        "Artificial Intelligence",
-        "E-commerce",
-        "Food Tech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1647096815.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c98dced59610300acc8ef34b03a4e422bc6059.png"
     },
     {
       "id": 25726,
@@ -13084,6 +13052,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb90812208727df3e8e0f20948c7862b9feae31.png"
     },
     {
+      "id": 25727,
+      "name": "Sendme, Inc",
+      "slug": "sendme-inc",
+      "website": "http://www.sendme.ng",
+      "description": "Sendme is an on-demand provider of clean meat to individuals and food businesses. We built a chatbot that lets customers place orders for meat on WhatsApp and they get it within 3hours.\r\n",
+      "one_liner": "On demand provider of meat to households and food businesses",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 40,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Food and Beverage",
+      "industries": [
+        "Consumer",
+        "Food and Beverage"
+      ],
+      "regions": [
+        "Nigeria",
+        "Africa"
+      ],
+      "locations": "Ibadan, YO, Nigeria",
+      "tags": [
+        "Artificial Intelligence",
+        "E-commerce",
+        "Food Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1647096815.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c98dced59610300acc8ef34b03a4e422bc6059.png"
+    },
+    {
       "id": 25723,
       "name": "Aklimate",
       "slug": "aklimate",
@@ -13819,5 +13820,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-20T00:02:51.439090"
+  "fetched_at": "2025-11-20T06:01:20.668745"
 }

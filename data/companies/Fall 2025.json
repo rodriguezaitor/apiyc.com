@@ -3732,40 +3732,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab0621356dad2e93ac6c0e1b6a09ff4607f0968f.png"
     },
     {
-      "id": 30873,
-      "name": "Land.dev",
-      "slug": "landdev",
-      "website": "https://land.dev",
-      "description": "America has a land problem. \r\n\r\nWe are spending more, and building less. \r\n\r\nAmerican real estate developers waste their time navigating data scattered across 23,000 jurisdictions. An apartment builder must check dozens of different databases, parse hundreds of PDFs, and still might miss a critical detail buried in an ancient document.\r\n\r\nWe use AI to normalize the country\u2019s land data into one source of truth, so developers can focus on building.",
-      "one_liner": "Solving America's Land Problem with AI",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction",
-      "industries": [
-        "Real Estate and Construction"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Computer Vision",
-        "Real Estate",
-        "Construction",
-        "Search",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1760060442.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0cd199ee92c06360cbaaa00fb788735a6999cf4.png"
-    },
-    {
       "id": 30871,
       "name": "PlayVision",
       "slug": "playvision",
@@ -4842,8 +4808,8 @@
       "name": "Digipals",
       "slug": "digipals",
       "website": "https://www.digipals.app/",
-      "description": "Social media has become more media and less social. When I open up Facebook and Instagram, I don\u2019t see any of my friends on it anymore - it\u2019s one third ads, one third content from strangers on the internet, and one third AI slop. My friends are no longer on social media - I either meet up with them IRL or catch up with them in group chats.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM \r\n\r\nWe\u2019re building the future of social in the age of AI where digipals (ambient ai agents that have full context over your location, calendar, group chats, photos, and relationship history with your friends) act as the atomic units of human coordination. Your digipal gets full context over who you are, when you're available, and what you like. It then talks with your friends\u2019 digipals to suggest hangouts when everyone is free, find restaurants and coffee shops nearby, make dinner reservations using AI calls, split bills based on the receipt, and nudge posting photo memories after hanging out.\r\n\r\nBy removing the friction for human connection, we believe that AI can be used to deepen human relationships by allowing us to spend more time with friends IRL and through staying close to their life updates and memories in group chats.",
-      "one_liner": "Building the Future of Social in the Age of AI",
+      "description": "Social networks are dead. Social media became more media than social. My friends aren't on social media anymore - it's one third ads, one third content from strangers, and one third AI slop. Our social lives are fragmented across dozens of apps: WhatsApp, Instagram, Find My, Google Calendar, Splitwise. We're building Digipals: ambient AI agents that live in your group chats with full context over your location, calendar, relationships, and photos, that write code to generate custom widgets to help us build better friendships. Digipals is the first AI-native social operating system and the last social platform anyone will ever need.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM ",
+      "one_liner": "Building the future of Social in the age of AI",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -4859,11 +4825,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Social Media",
         "Social",
-        "Social Network",
-        "AI"
+        "Social Network"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5181,5 +5147,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-20T00:02:57.649027"
+  "fetched_at": "2025-11-20T06:01:21.747236"
 }
