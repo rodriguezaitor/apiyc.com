@@ -2962,7 +2962,7 @@
       "status": "Active",
       "team_size": 8,
       "industry": "B2B",
-      "subindustry": "Consumer -> Home and Personal",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
         "Marketing"
@@ -3272,7 +3272,7 @@
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "Consumer -> Content",
+      "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
@@ -5958,5 +5958,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-11-21T12:01:31.131629"
+  "fetched_at": "2025-11-21T18:01:09.699680"
 }

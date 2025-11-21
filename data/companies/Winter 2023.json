@@ -1160,7 +1160,7 @@
       "slug": "benchmark",
       "website": "https://withbenchmark.com/",
       "description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
-      "one_liner": "The trusted AI platform for investment firms",
+      "one_liner": "Decision infrastructure for investment firms",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 6,
@@ -1176,9 +1176,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Finance",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5894,7 +5894,7 @@
       "one_liner": "Fast, Transparent Patient Experiences",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 85,
+      "team_size": 135,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5908,7 +5908,7 @@
       "tags": [
         "Healthcare"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -9337,5 +9337,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-11-21T12:01:28.354238"
+  "fetched_at": "2025-11-21T18:01:06.916696"
 }

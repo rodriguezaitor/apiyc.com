@@ -963,7 +963,7 @@
       "slug": "pharos",
       "website": "https://pharos.health/",
       "description": "Pharos automates hospital quality reporting, saving millions in labour costs and helping to prevent avoidable patient harm. \r\n\r\nToday, clinicians spend thousands of hours manually pulling complex facts out of medical records for mandatory reporting and quality improvement.\r\n\r\nOur AI pulls those facts out of unstructured medical records automatically. We automate reporting and show staff where avoidable patient harm is happening.",
-      "one_liner": "Automate hospital reporting and prevent patient harm with AI",
+      "one_liner": "Helping hospitals identify and prevent avoidable harm using AI",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 5,
@@ -979,8 +979,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2725,7 +2725,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Consumer",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "Consumer -> Content",
       "industries": [
         "Consumer",
         "Content"
@@ -3732,7 +3732,7 @@
       "slug": "winfunc",
       "website": "https://winfunc.com",
       "description": "Winfunc (winfunc.com) is an AI Hacker for Codebases - it automatically finds, verifies, and patches security vulnerabilities in codebases, just like a human security engineer would. \r\n\r\nWinfunc can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.",
-      "one_liner": "ai-powered security for mission critical systems",
+      "one_liner": "ai-powered security engineering for mission critical systems",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -5494,7 +5494,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -8255,5 +8255,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-21T12:01:29.121027"
+  "fetched_at": "2025-11-21T18:01:07.638738"
 }
