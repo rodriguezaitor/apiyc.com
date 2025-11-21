@@ -984,7 +984,7 @@
       "one_liner": "chrt is a logistics platform for time-critical shipping",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -1086,10 +1086,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Marketing",
-        "Advertising",
-        "SEO",
-        "AI"
+        "Artificial Intelligence",
+        "Sales",
+        "SEO"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1875,14 +1874,14 @@
     },
     {
       "id": 30488,
-      "name": "Theta Software",
-      "slug": "theta-software",
-      "website": "https://thetasoftware.ai/",
+      "name": "Theta",
+      "slug": "theta",
+      "website": "https://thetasoftware.com",
       "description": "",
-      "one_liner": "Self-Learning for AI Agents",
+      "one_liner": "Specialized AI for Every Job",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1894,10 +1893,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Reinforcement Learning",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2580,7 +2579,7 @@
       "slug": "voiceos",
       "website": "https://voiceos.com",
       "description": "VoiceOS turns voice into a seamless, universal interface to 10x productivity \u2014 a true voice operating system for the next era of computing.\r\n\r\nIt works across any app, letting users speak naturally to dictate, edit, and write text instantly. Whether writing an email, revising a document, or grasping complex information, VoiceOS transforms voice into the most powerful productivity tool, bridging the gap between thought and expression.",
-      "one_liner": "Voice Interface for Productivity",
+      "one_liner": "The Voice Interface Company",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -4648,5 +4647,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-21T00:03:00.348825"
+  "fetched_at": "2025-11-21T06:01:04.514813"
 }
