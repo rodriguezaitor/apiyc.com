@@ -368,11 +368,11 @@
       "name": "InspectMind AI",
       "slug": "inspectmind-ai",
       "website": "https://www.inspectmind.ai",
-      "description": "InspectMind AI is transforming how construction, engineering, and real estate professionals conduct field inspections. Our AI-driven platform automates report writing, reducing manual effort by up to 80%. InspectMind AI enables users to generate high-quality inspection reports in minutes instead of hours.\r\n\r\nWe provide industry-specific report templates for job site observations, forensic evaluations, structural assessments, mold inspections, and more. Our platform streamlines the entire inspection workflow, ensuring faster project delivery, improved accuracy, and seamless collaboration.\r\n",
-      "one_liner": "AI-powered site inspections and automated field reports.",
+      "description": "An AI agent that catch issues in drawings before they become costly rework and dely\r\n",
+      "one_liner": "AI agent for construction drawings review",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 3,
       "industry": "Real Estate and Construction",
       "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
@@ -3813,7 +3813,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701093428.0,
@@ -4718,10 +4718,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Digital Health",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5929,7 +5929,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708365250.0,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-20T18:01:15.748370"
+  "fetched_at": "2025-11-21T00:02:57.110850"
 }

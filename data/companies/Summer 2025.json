@@ -2886,7 +2886,7 @@
       "name": "IronLedger.ai",
       "slug": "ironledger-ai",
       "website": "https://ironledger.ai",
-      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate more than $70K of accounting costs annually for almost 35K multifamily units. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
+      "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 35K multifamily units. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
       "one_liner": "AI agents for property accounting",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2905,11 +2905,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Real Estate",
         "Finance",
-        "Construction"
+        "Construction",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5406,5 +5406,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-20T18:01:18.969999"
+  "fetched_at": "2025-11-21T00:02:59.306918"
 }

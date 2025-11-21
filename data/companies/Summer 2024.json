@@ -1350,7 +1350,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1718839098.0,
@@ -2720,16 +2720,16 @@
       "name": "Palmier",
       "slug": "palmier",
       "website": "https://www.palmier.io",
-      "description": "Your army of AI coding agents at your fingertips.\r\n\r\nPalmier is a remote AI coding agent that can debug issues, implement features, draft designs, review pull requests, and more, in a remote sandbox environment. Spin up one or multiple Palmier agents at the same time, running in parallel with their own context, and watch your productivity skyrocket.\r\n\r\nFor more info, reach out to us at founders@palmier.io",
-      "one_liner": "Remote AI Coding Agent",
+      "description": "Palmier is building SixSeven Labs, am AI-native storyboard and video creation platform. We help creators, brands, and teams turn scripts and ideas into cinematic videos, complete with scenes, shots, and consistent visual style. Edit storyboard, generate images and footage with leading AI models, and build high-quality videos faster and easier than ever.",
+      "one_liner": "From idea to cinematic videos in seconds",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "B2B",
+      "industry": "Consumer",
       "subindustry": "B2B -> Productivity",
       "industries": [
-        "B2B",
-        "Productivity"
+        "Consumer",
+        "Content"
       ],
       "regions": [
         "United States of America",
@@ -2738,9 +2738,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
         "SaaS",
-        "B2B"
+        "Consumer",
+        "Video"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3076,8 +3076,8 @@
       "name": "Brighterway",
       "slug": "brighterway",
       "website": "https://www.brighterway.ai/",
-      "description": "At Brighterway, we use AI to speed up the medical record review process for physicians in medlegal exams. Physicians spend hours reviewing thousands of pages of medical documents\u2013 our technology highlights the information that is most relevant to a doctor's specialty, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a doctor's specialty, so they can focus on what matters most.",
-      "one_liner": "Streamlining the record review process for physicians in medlegal\u2026",
+      "description": "At Brighterway, we use AI to speed up the medical record review process in the Workers' Compensation Industry. Physicians and claims handlers spend hours reviewing thousands of pages of medical documents\u2013 our technology highlights the information that is most relevant to a doctor's specialty or a given injury, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a given claim, so they can focus on what matters most.",
+      "one_liner": "Streamlining the medical record review process in workers comp",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 14,
@@ -3436,42 +3436,6 @@
       "is_top_company": false,
       "launched_at": 1722311835.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png"
-    },
-    {
-      "id": 29763,
-      "name": "Piggy Robotics",
-      "slug": "piggy-robotics",
-      "website": "https://rigmanic.com/",
-      "description": "We build humanoid home robots powered by artificial muscles. Compared to motor-driven robots, ours are lighter, softer, safer, and stronger for their weight. Richard dropped out of medicine at Oxford and Chenny left her Oxford PhD in computer science to build the full stack\u2014from custom actuators to embodied AI. We went from zero hardware experience to a full humanoid prototype in just 2 months.",
-      "one_liner": "Humanoid robots that do your chores for the price of an iPhone!",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 12,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
-      "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Smart Home Assistants",
-        "Robotics",
-        "AI",
-        "Home Automation"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1756389316.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb8bcc76da3e91c1a436eea5e5eec4075f3deb89.png"
     },
     {
       "id": 29761,
@@ -8292,5 +8256,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-20T18:01:15.259250"
+  "fetched_at": "2025-11-21T00:02:57.397497"
 }

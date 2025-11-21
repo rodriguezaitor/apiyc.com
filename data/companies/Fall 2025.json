@@ -171,7 +171,7 @@
       "name": "Openroll",
       "slug": "openroll",
       "website": "https://www.openroll.com",
-      "description": "Openroll gives companies real-time intelligence on compensation, what competitors pay, who they\u2019re targeting, and how they\u2019re expanding.\r\n\r\nInstead of guessing, Openroll helps you win the talent game with hard data and actionable insights.\r\n\r\nLearn more at https://www.openroll.com",
+      "description": "Openroll is building the AI-powered workspace for compensation teams.\r\n\r\nTrillions in salaries are still set with spreadsheets and gut-feeling. Openroll automates the manual work and surfaces real peer pay, misalignments, and at-risk talent. We\u2019re here to redefine how the world sets salaries.\r\n\r\nLearn more at https://www.openroll.com",
       "one_liner": "The world's first Agentic compensation platform",
       "batch": "Fall 2025",
       "status": "Active",
@@ -187,10 +187,10 @@
       ],
       "locations": "Stockholm, Stockholm County, Sweden",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "HR Tech",
-        "Data Visualization",
-        "AI"
+        "Data Visualization"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -733,8 +733,8 @@
       "name": "Bluma",
       "slug": "bluma",
       "website": "https://www.getbluma.com",
-      "description": "Bluma makes it effortless for SaaS founders to launch TikTok and Instagram organic campaigns that actually go viral.\r\n\r\nShare us viral faceless videos you would like to recreate and we\u2019ll make them into scalable ad templates. Or choose from our growing library of templates like Peter Griffin explainers and slideshows.\r\n\r\nThese templates generate thousands of videos each month that promote your product. Then we handle posting across a network of accounts.\r\n\r\n\ud83d\udce9 Contact us at alisa@getbluma.com to set up a call.",
-      "one_liner": "Automating Short-Form Video Ads at Scale",
+      "description": "Bluma is Canva for short-form video ads.\r\n\r\nWe automate your entire consumer marketing strategy with content templates, generating on brand videos on autopilot.\r\n\r\nEverything an agency would plan, script, produce, and edit, Bluma automates end-to-end and at scale.\r\n\r\n\ud83d\udce9 Contact us at https://www.getbluma.com/book-call to set up a call.",
+      "one_liner": "Canva for Short-Form Video Ads",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -750,11 +750,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Social Media",
         "Video",
-        "Marketing",
-        "AI"
+        "Marketing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5079,6 +5079,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     },
     {
+      "id": 29763,
+      "name": "Piggy Robotics",
+      "slug": "piggy-robotics",
+      "website": "https://rigmanic.com/",
+      "description": "We build humanoid home robots powered by artificial muscles. Compared to motor-driven robots, ours are lighter, softer, safer, and stronger for their weight. Richard dropped out of medicine at Oxford and Chenny left her Oxford PhD in computer science to build the full stack\u2014from custom actuators to embodied AI. We went from zero hardware experience to a full humanoid prototype in just 2 months.",
+      "one_liner": "Humanoid robots that do your chores for the price of an iPhone!",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 15,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Smart Home Assistants",
+        "Robotics",
+        "AI",
+        "Home Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1756389316.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb8bcc76da3e91c1a436eea5e5eec4075f3deb89.png"
+    },
+    {
       "id": 29161,
       "name": "Goldbridge",
       "slug": "goldbridge",
@@ -5147,5 +5183,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-20T18:01:19.842907"
+  "fetched_at": "2025-11-21T00:02:59.831067"
 }
