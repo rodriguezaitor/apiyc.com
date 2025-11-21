@@ -642,10 +642,9 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "",
       "tags": [
         "SaaS",
         "Trust & Safety",
@@ -3731,12 +3730,12 @@
       "id": 29750,
       "name": "winfunc",
       "slug": "winfunc",
-      "website": "https://asterisk.so",
-      "description": "Asterisk (asterisk.so) is an AI Hacker for Codebases - it automatically finds, verifies, and patches security vulnerabilities in codebases, just like a human security engineer would. Asterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives. \r\nAsterisk has autonomously discovered vulnerabilities in Google, Hoppscotch, and others.",
-      "one_liner": "AI Hacker for Codebases",
+      "website": "https://winfunc.com",
+      "description": "Winfunc (winfunc.com) is an AI Hacker for Codebases - it automatically finds, verifies, and patches security vulnerabilities in codebases, just like a human security engineer would. \r\n\r\nWinfunc can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.",
+      "one_liner": "ai-powered security for mission critical systems",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -3759,7 +3758,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723094847.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13b545a54f6c045d5fa9984cd597323e2738fea2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/758cce64094ba9a7250a8b613b368074620a74f5.png"
     },
     {
       "id": 29749,
@@ -8256,5 +8255,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-21T06:01:03.773694"
+  "fetched_at": "2025-11-21T12:01:29.121027"
 }
