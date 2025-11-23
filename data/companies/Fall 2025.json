@@ -1997,7 +1997,7 @@
       "name": "Anto Biosciences",
       "slug": "anto-biosciences",
       "website": "https://www.anto.bio/",
-      "description": "Anto Biosciences is building the first foundation model for microbial communities, making the gut microbiome computable for the first time. We predict drug toxicity and efficacy across diverse populations and fix drugs so they work for everyone \u2014 solving the hidden root cause of most drug failures. \r\n\r\nFounded by Arvid (Broad Institute of MIT and Harvard; Nature-published researcher who pioneered quality-aware, goal-directed sparsification) and David (Harvard Medical School Gastroenterology, J&J), second-time founders who published the breakthrough at leading machine learning AI conferences and Nature. \r\n\r\nWe've caught a $1B cancer drug that worked in China but failed clinical trials in the U.S. With the help of our model, we are the first ones to know exactly why.\r\n\r\nAnto is backed by Y Combinator (F25). https://www.anto.bio/",
+      "description": "Anto Biosciences is building a foundation model for microbial communities, making the gut microbiome computable for the first time. We predict drug toxicity and efficacy across diverse populations and fix drugs so they work for everyone \u2014 solving the hidden root cause of most drug failures. \r\n\r\nFounded by Arvid (Broad Institute of MIT and Harvard; Nature-published researcher who pioneered quality-aware, goal-directed sparsification) and David (Harvard Medical School Gastroenterology, J&J), second-time founders who published the breakthrough at leading machine learning AI conferences and Nature. \r\n\r\nWe've caught a $1B cancer drug that worked in China but failed clinical trials in the U.S. With the help of our model, we are the first ones to know exactly why.\r\n\r\nAnto is backed by Y Combinator (F25). https://www.anto.bio/",
       "one_liner": "A multimodal foundation model for microbial communities.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2013,11 +2013,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Biotech",
         "Genomics",
-        "Drug discovery"
+        "Drug discovery",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3004,7 +3004,7 @@
       "name": "Sciloop",
       "slug": "sciloop",
       "website": "https://sciloop.dev",
-      "description": "Sciloop automates research, turning seed ideas into publication-ready papers. Its AI generates hypotheses, runs experiments, analyzes results, and writes findings\u2014helping researchers make faster, high-quality discoveries with minimal setup.",
+      "description": "We\u2019re building Sciloop, an AI Scientist that automates the full ML research loop: hypothesis generation, experiment design, execution, analysis, and iteration. We\u2019re IPhO medalists who dropped out of MIT after two years of ML research at CSAIL to pursue our mission of accelerating science.",
       "one_liner": "Fully automated scientific discovery",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4544,7 +4544,7 @@
       "name": "Structured AI",
       "slug": "structured-ai",
       "website": "https://www.getstructured.ai/",
-      "description": "Structured AI understands building codes, standards, drawing, and project requirements to generate and update the technical documents that normally take weeks to complete. Its AI agents live inside software tools like Revit, Word, Excel, and SharePoint that mechanical, electrical, civil, and structural engineers already use. \r\n",
+      "description": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders.\r\n\r\n\u2699\ufe0f Automates QA/QC across mechanical, electrical, structural and more\r\n\ud83e\udde9 Used by multi-disciplinary design firms to deliver projects faster with less risk\r\n\ud83d\ude80 Mission: Free engineers to focus on creative design, not repetitive admin",
       "one_liner": "AI workforce for construction design engineering",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4561,7 +4561,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759212406.0,
@@ -5176,5 +5176,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-22T18:01:08.077378"
+  "fetched_at": "2025-11-23T00:03:12.387116"
 }

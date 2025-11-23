@@ -1064,8 +1064,8 @@
       "name": "TapEngage",
       "slug": "tapengage",
       "website": "http://tapengage.com",
-      "description": null,
-      "one_liner": "Tablet ad network, acquired by Dropbox in July 2012",
+      "description": "",
+      "one_liner": "Touch-friendly marketing, acquired by Dropbox",
       "batch": "Summer 2011",
       "status": "Acquired",
       "team_size": 2,
@@ -1088,7 +1088,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1326789574.0,
-      "logo_url": "/company/thumb/missing.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f8322001e5c21ab69bf80d5c18f9323d677e241.png"
     },
     {
       "id": 118,
@@ -1930,5 +1930,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-11-22T18:01:08.929790"
+  "fetched_at": "2025-11-23T00:03:18.069551"
 }
