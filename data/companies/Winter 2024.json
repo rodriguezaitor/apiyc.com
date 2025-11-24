@@ -636,8 +636,8 @@
       "name": "Dragoneye",
       "slug": "dragoneye",
       "website": "https://dragoneye.ai/",
-      "description": "Dragoneye helps devs build powerful apps and features that use images and videos. With our cutting-edge AI tech, folks can recognize things in the world with high accuracy and deep granularity - more than 13K classes - right out of the box. No more arduous process of annotating any training data or doing any machine learning work themselves.\r\n\r\nTry out our demo today at https://dashboard.dragoneye.ai/!",
-      "one_liner": "More detailed object recognition than Google and Amazon",
+      "description": "Dragoneye helps devs build their custom video detection models in less than 5 minutes. These models can then be used to power apps and features that use images and videos. No more arduous process of annotating any training data or doing any machine learning work themselves.\r\n\r\nTry out our demo today at https://playground.dragoneye.ai/ !",
+      "one_liner": "Custom video detection models in less than 5 minutes",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -653,9 +653,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Computer Vision",
+        "AI",
         "ML"
       ],
       "stage": "Early",
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-23T18:01:02.727610"
+  "fetched_at": "2025-11-24T00:03:04.596035"
 }
