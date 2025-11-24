@@ -2902,8 +2902,8 @@
       "name": "Kestrel AI",
       "slug": "kestrel-ai",
       "website": "https://usekestrel.ai/",
-      "description": "Kestrel helps teams using Kubernetes detect, investigate, and fix issues without manual firefighting. It monitors cluster health and security 24/7, finds root causes, and generates ready-to-apply YAML fixes - so incidents get resolved in seconds instead of hours.",
-      "one_liner": "AI-Native Kubernetes Ops & Security Platform",
+      "description": "Kestrel helps cloud-native teams detect, investigate, and fix issues without manual firefighting. It monitors cloud and kubernetes infrastructure health and security 24/7, finds root causes, and generates ready-to-apply fixes - so incidents get resolved in seconds instead of hours.",
+      "one_liner": "AI-Native Cloud Incident Response Platform",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2920,9 +2920,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "SaaS",
         "Security",
         "Kubernetes",
+        "Cloud Computing",
         "Infrastructure"
       ],
       "stage": "Early",
@@ -5177,5 +5177,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-24T06:01:36.568995"
+  "fetched_at": "2025-11-24T12:01:16.548693"
 }
