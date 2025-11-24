@@ -204,8 +204,8 @@
       "name": "Fixpoint",
       "slug": "fixpoint",
       "website": "https://fixpoint.co/",
-      "description": "Fixpoint helps AI training data companies hire the expert humans that create AI training data. We handle sourcing, vetting, and all HR for expert annotator teams, so our customers can focus just on creating training data.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
-      "one_liner": "Source and manage experts for AI training jobs",
+      "description": "Fixpoint is Deel for human data annotation: automating the sourcing, vetting, and management of data labelers.\r\n\r\nIt used to be a manual process to staff people on AI training data or eval projects - but Fixpoint leverages AI to staff people and create data better, cheaper, and faster. This includes a network of pre-vetted experts, AI-automated vetting, and annotator management + payroll.",
+      "one_liner": "Deel for human data annotation",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -668,7 +668,7 @@
       "slug": "forge-robotics",
       "website": "https://forge-robotics.com",
       "description": "Forge Robotics is changing the way that metal parts are fabricated. We are enabling a future where our intelligent robotic system completes all steps needed to take raw metal stock and transform it into fully welded parts. \r\n\r\nBeginning with welding, we are building a robot-mounted vision system and AI feature detection that creates a real-time 3D map and tells the arm exactly where to go at every instant.",
-      "one_liner": "A robotics intelligence layer for metal fabrication",
+      "one_liner": "A robotics intelligence system for metal fabrication",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -693,7 +693,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1762659715.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c02750d438079c212fed98a30cb270db92c521c3.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc718543c8da7c7d1c6d5308ecd4cde3ca18269c.png"
     },
     {
       "id": 30990,
@@ -1433,7 +1433,7 @@
       "name": "Absurd",
       "slug": "absurd",
       "website": "https://tryabsurd.com/",
-      "description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ views across 6 launch videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+      "description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ views across 6 videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
       "one_liner": "Absurd AI Marketing Videos",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1614,9 +1614,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Computational Storage",
-        "Video"
+        "Video",
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2302,8 +2303,8 @@
       "name": "Thesis",
       "slug": "thesis",
       "website": "https://thesislabs.ai",
-      "description": "Thesis is an applied research lab. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
-      "one_liner": "The scientific discovery engine.",
+      "description": "Thesis is an applied research lab, accelerating AI R&D. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing in AI.",
+      "one_liner": "The AI R&D engine.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2395,7 +2396,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759942019.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/88a76602e15d6bde1447f1d7066e3a3e3708bea1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png"
     },
     {
       "id": 30922,
@@ -2952,11 +2953,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Analytics",
-        "Market Research",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3004,8 +3005,8 @@
       "name": "Sciloop",
       "slug": "sciloop",
       "website": "https://sciloop.dev",
-      "description": "We\u2019re building Sciloop, an AI Scientist that automates the full ML research loop: hypothesis generation, experiment design, execution, analysis, and iteration. We\u2019re IPhO medalists who dropped out of MIT after two years of ML research at CSAIL to pursue our mission of accelerating science.",
-      "one_liner": "Fully automated scientific discovery",
+      "description": "Sciloop is building an AI Co-Scientist that automates experimentation and analysis for machine learning researchers, allowing them to test ideas far faster than today\u2019s tools allow. We are Bilal and Osman, International Physics Olympiad medalists and the only Pakistanis admitted to MIT in our respective years, with several years of hands-on ML research experience inside MIT CSAIL. We have built large-scale training pipelines, worked with terabyte-scale datasets, and seen the research bottleneck firsthand while contributing to scientific ML projects. We left MIT to solve this problem directly and are now building a system that can eventually accelerate scientific discovery itself.\r\nhttps://sciloop.dev ",
+      "one_liner": "AI Co-Scientist that automates ML experimentation and analysis.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3021,10 +3022,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI-powered Drug Discovery",
         "Machine Learning",
         "SaaS",
-        "Cloud Computing",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4923,7 +4922,9 @@
       "tags": [
         "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "B2B",
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5176,5 +5177,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-24T00:03:08.851251"
+  "fetched_at": "2025-11-24T06:01:36.568995"
 }
