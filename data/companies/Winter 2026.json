@@ -1,6 +1,38 @@
 {
   "data": [
     {
+      "id": 31183,
+      "name": "Patientdesk.ai",
+      "slug": "patientdeskai",
+      "website": "https://patientdesk.ai/",
+      "description": "",
+      "one_liner": "AI voice agent for patient calls & admin workflows",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Customer Service",
+        "Call Center",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1764074488.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1817be5549646fb9b2b3d779a9bab1f85f130917.png"
+    },
+    {
       "id": 31137,
       "name": "Luel",
       "slug": "luel",
@@ -173,5 +205,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-11-25T12:01:33.366078"
+  "fetched_at": "2025-11-25T18:01:14.605119"
 }
