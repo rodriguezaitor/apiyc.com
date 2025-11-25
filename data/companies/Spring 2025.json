@@ -349,16 +349,10 @@
         "Infrastructure"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Search",
-        "Infrastructure"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -2929,7 +2923,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746827982.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2803b99a0f6ad3a6257fd02f86b580fc76eee42e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/434f06dd5cbc21fd8688f57eddd151366b355c44.png"
     },
     {
       "id": 30449,
@@ -3723,7 +3717,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747120968.0,
@@ -4647,5 +4641,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-11-24T18:01:24.117699"
+  "fetched_at": "2025-11-25T00:02:41.314282"
 }

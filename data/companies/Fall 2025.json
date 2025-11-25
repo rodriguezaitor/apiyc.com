@@ -1335,8 +1335,8 @@
       "name": "Arcten",
       "slug": "arcten",
       "website": "https://arcten.com",
-      "description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics\u2014all on one platform.",
-      "one_liner": "Ship AI agents without building infrastructure",
+      "description": "Arcten helps companies ship copilots that execute actions for users inside their product. You can add AI copilots to your product in minutes, connect them to your company\u2019s information, and track how they\u2019re performing -- all in one place.",
+      "one_liner": "Add drop-in, production-ready copilots to your applications",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1351,10 +1351,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "SaaS",
         "B2B",
-        "API",
+        "Customer Success",
         "Enterprise",
-        "Infrastructure",
         "AI"
       ],
       "stage": "Early",
@@ -2471,7 +2471,7 @@
       "name": "Lexi",
       "slug": "lexi",
       "website": "https://getlexi.io/",
-      "description": "At Lexi, we are building AI-powered associates for law firms. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
+      "description": "At Lexi, we are building AI associates for Corporate Law. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
       "one_liner": "AI Associates for Corporate Law",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2491,10 +2491,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
+        "SaaS",
         "B2B",
         "Legal",
-        "LegalTech",
-        "AI"
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2731,7 +2731,7 @@
       "name": "Articulate",
       "slug": "articulate",
       "website": "https://usearticulate.com",
-      "description": "We help construction and solar contractors eliminate delays, confusion, and rework. We audit designs for code compliance before construction starts, detect clashes early, and automatically generate RFIs from drawings. We also accelerate takeoffs, estimating, and trade package alignment so preconstruction teams can move faster with fewer errors. \r\n\r\nFrom RFIs to permits to supplier updates, everything runs automatically so teams can focus on building, not waiting. \r\n\r\nWe integrate with Procore, Outlook, Gmail, Bluebeam, Autodesk, and other tools you already use. \r\n\r\nTeams use us to:\r\n- Save $3,000,000 per project\r\n- Catch design and coordination errors before they happen\r\n- Verify code and permits instantly\r\n- Align trade packages and scopes automatically\r\n- Speed up takeoffs, estimating, and procurement\r\n- Get real-time updates from every crew\r\n\r\nContact us founders@usearticulate.com to learn more!",
+      "description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts.\u2028We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with:\u2028Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
       "one_liner": "Automatic Construction Drawing Clash Detection ",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3954,6 +3954,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Developer Tools",
         "Robotic Process Automation",
         "B2B",
         "Workflow Automation"
@@ -4411,7 +4412,7 @@
       "slug": "movedot",
       "website": "https://www.movedot.ai/",
       "description": "Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards. Our agents provide up to 10x efficiency when analyzing collected data and internal documentation.",
-      "one_liner": "AI Agents for Hardware Engineering",
+      "one_liner": "AI Agents for Hardware Testing",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 10,
@@ -4429,9 +4430,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Manufacturing",
+        "AI",
         "Automotive",
         "Industrial"
       ],
@@ -4440,7 +4441,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759431340.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ded2bf087bf8cb3bfc1892bfe645a7a09f0b265.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/27061067f085dc8708e42c7c5cc69e587d7dbdc3.png"
     },
     {
       "id": 30848,
@@ -5073,6 +5074,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     },
     {
+      "id": 30569,
+      "name": "Fifth Door",
+      "slug": "fifth-door",
+      "website": "https://fifthdoor.com",
+      "description": "Fifth Door unlocks the power of imagination by making it easy for everyone to create, share, and play games anywhere, with anyone. We exist to stimulate the creativity, connection, and joy that people get when they play games.\r\n",
+      "one_liner": "Create and play games with AI",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": null,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer",
+        "Gaming",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1764014092.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccb42373fb1495367c087cca6ae092d6da20baba.png"
+    },
+    {
       "id": 29763,
       "name": "Piggy Robotics",
       "slug": "piggy-robotics",
@@ -5177,5 +5211,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-24T18:01:23.334056"
+  "fetched_at": "2025-11-25T00:02:40.998609"
 }

@@ -8543,40 +8543,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b0dfdeb1c9238884730f0ea6e15baf17611120.png"
     },
     {
-      "id": 25472,
-      "name": "Ozone",
-      "slug": "ozone",
-      "website": "https://ozone.pro",
-      "description": "Ozone is the world\u2019s first collaborative video editor in the cloud. We are making the world a more creative place by building the next generation of creative tools.",
-      "one_liner": "Figma for video",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "Consumer",
-      "subindustry": "Consumer",
-      "industries": [
-        "Consumer"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Productivity",
-        "Collaboration",
-        "Design Tools"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1648660054.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/91e83d954beb45df9be14abf04cf2403d8a8572c.png"
-    },
-    {
       "id": 25451,
       "name": "Instant Labs",
       "slug": "instant-labs",
@@ -13497,6 +13463,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cf15b2614d9edde0b8a838c17ad93d43e934e83.png"
     },
     {
+      "id": 25472,
+      "name": "Ozone",
+      "slug": "ozone",
+      "website": "https://ozone.pro",
+      "description": "Ozone is the world\u2019s first collaborative video editor in the cloud. We are making the world a more creative place by building the next generation of creative tools.",
+      "one_liner": "Figma for video",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 8,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Productivity",
+        "Collaboration",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1648660054.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/91e83d954beb45df9be14abf04cf2403d8a8572c.png"
+    },
+    {
       "id": 25404,
       "name": "Castia",
       "slug": "castia",
@@ -13820,5 +13820,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-24T18:01:16.967786"
+  "fetched_at": "2025-11-25T00:02:38.590597"
 }
