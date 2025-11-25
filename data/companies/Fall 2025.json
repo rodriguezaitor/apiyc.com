@@ -206,7 +206,7 @@
       "slug": "fixpoint",
       "website": "https://fixpoint.co/",
       "description": "Fixpoint is Deel for human data annotation: automating the sourcing, vetting, and management of data labelers.\r\n\r\nIt used to be a manual process to staff people on AI training data or eval projects - but Fixpoint leverages AI to staff people and create data better, cheaper, and faster. This includes a network of pre-vetted experts, AI-automated vetting, and annotator management + payroll.",
-      "one_liner": "Deel for human data annotation",
+      "one_liner": "Deel for human data annotators",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3604,8 +3604,8 @@
       "name": "Questom",
       "slug": "questom",
       "website": "https://www.questom.ai",
-      "description": "A unified AI workforce for wholesale that handles every workflow from quote to delivery and becomes the system of record that replaces CRM and ERP entirely.",
-      "one_liner": "Agentic OS for Wholesalers",
+      "description": "We build AI sales agents that handle the messy, everyday conversations B2B companies rely on, answering inbound calls and emails, asking the right questions, pulling pricing and catalog rules, generating quotes, and sending structured orders into your backend systems.",
+      "one_liner": "AI Sales Agents for B2B Sales",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3622,6 +3622,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "B2B",
+        "Sales",
         "Customer Service",
         "AI Assistant"
       ],
@@ -5212,5 +5213,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-25T06:01:11.581811"
+  "fetched_at": "2025-11-25T12:01:24.149765"
 }
