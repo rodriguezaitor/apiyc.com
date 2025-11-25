@@ -138,7 +138,7 @@
       "name": "Rivet",
       "slug": "rivet-design",
       "website": "https://rivet.design/",
-      "description": "Rivet is a visual tool that sits above a codebase. It's a bridge that lets product designers own any UI change to the software they work on. \r\n\r\nDesigners use Rivet today to shortcut painful design handoffs and just make any visual change themselves. This saves time for designers and engineers and makes it radically easier to build software with great design and taste. \r\n\r\nThis becomes the next design tool because it lets designers break out of static tools and prototype like frontend engineers.  Use real components from your existing codebase to design remarkably complex interactions, and then ship it yourself.  ",
+      "description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces design handoffs by letting designers just do it themselves. The tool helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC F25 are Rivet customers.\r\n\r\nLearn more at rivet.design",
       "one_liner": "Rivet helps product designers change software without coding.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -157,7 +157,8 @@
       "tags": [
         "Artificial Intelligence",
         "Design",
-        "Design Tools"
+        "Design Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5211,5 +5212,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-25T00:02:40.998609"
+  "fetched_at": "2025-11-25T06:01:11.581811"
 }
