@@ -1660,7 +1660,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1673552937.0,
@@ -1704,7 +1704,7 @@
       "slug": "primevault",
       "website": "https://www.primevault.com",
       "description": "PrimeVault is the all-in-one digital asset and stablecoin platform for enterprises and financial institutions. Built for modern finance, PrimeVault combines secure wallets, programmable treasury, compliance, and market access in one seamless solution. \r\n\r\nWith robust security and modular infrastructure, PrimeVault empowers institutions to issue, manage, and move digital assets at scale.\r\n\r\nDiscover how we makes digital asset finance simple at primevault.com.",
-      "one_liner": "Infrastructure powering elite digital asset operations",
+      "one_liner": "Infrastructure powering stablecoin and digital finance",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 11,
@@ -4553,7 +4553,7 @@
       "name": "Voltic",
       "slug": "voltic",
       "website": "https://volticshipping.com/",
-      "description": "We are working to reduce greenhouse gas emissions in the shipping industry by replacing fuel with solar panels. Solar-powered cargo ships have the potential to eliminate 2.2% of global CO2 production, while simultaneously cutting shipping costs by 50-75% depending on route. We are making a boat that is both greener and cheaper. ",
+      "description": "Voltic is launching US-built cargo ships that are 4x more profitable than diesel vessels. \r\n\r\nWe have $100M+ in sales to companies including the largest US shipping company and the largest global shipper by volume. We are on pace for our first commercial deployment in early 2026. The team previously started two shipping lines and has decades of experience in maritime innovation. Our patented battery & solar tech stack was spun out of MIT\u2019s Ocean Engineering department. We are backed by top investors like the largest maritime VC in the world. ",
       "one_liner": "Electric cargo ships",
       "batch": "Summer 2022",
       "status": "Active",
@@ -8114,5 +8114,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2025-11-26T12:01:18.495554"
+  "fetched_at": "2025-11-26T18:01:11.180142"
 }

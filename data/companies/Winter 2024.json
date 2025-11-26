@@ -4460,11 +4460,11 @@
     },
     {
       "id": 29347,
-      "name": "Ragas",
-      "slug": "ragas",
-      "website": "https://www.ragas.io",
-      "description": "The fragmented and proprietary evaluation tools today are leading to significant inefficiencies and confusion among developers. The world needs a standard everyone can rely on and that is why we are building Ragas as the open-source standard. \r\n\r\n\r\nWe have 4k stars on GitHub, 1.3k members in our discord community, and over 80+ external contributors. We also have partnerships with key AI companies like Langchain, Llamaindex, Arize, Weaviate and more to help create a standard.\r\n\r\n\r\nWe already process 5 million evaluations monthly for engineers from companies like AWS, Microsoft, Databricks, and Moody\u2019s and it is growing at 70% month over month.\r\n\r\nWe are building LLM application testing and evaluation infrastructure for Enterprises.\r\n",
-      "one_liner": "Building the open source standard for evaluating LLM Applications",
+      "name": "Vibrant Labs",
+      "slug": "vibrant-labs",
+      "website": "https://vibrantlabs.com/",
+      "description": "We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ",
+      "one_liner": "RL environments for long horizon AI Agents",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -4482,17 +4482,17 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709606147.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f96276163c8da1e965a42a8d981ff344509c39.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b03fadf62fa443c473d34c31148c9785ea34dceb.png"
     },
     {
       "id": 29346,
@@ -5039,7 +5039,7 @@
       "one_liner": "LLM Security and Compliance",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 3,
+      "team_size": null,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -5051,10 +5051,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Security",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-26T12:01:17.632742"
+  "fetched_at": "2025-11-26T18:01:10.200812"
 }

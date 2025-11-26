@@ -2237,7 +2237,7 @@
       "slug": "cortex-ai",
       "website": "https://cortexrobot.ai/",
       "description": "Cortex AI builds the world\u2019s most diverse and large-scale real-world workplace robot & egocentric dataset \u2014 where the physical world becomes the next training and evaluation set for embodied AI.\r\n\r\nWe power frontier labs developing robotics foundation models and general-purpose robots by providing the data they need:\r\n1\ufe0f\u20e3 Egocentric Data \u2014 real-workplace human video with hand/body pose, depth, and subtask labels.\r\n2\ufe0f\u20e3 Robot Data \u2014 trajectories collected from manipulators and humanoids in real industry settings.\r\n3\ufe0f\u20e3 Human-in-the-Loop Rollouts & Evals \u2014 real-world deployments with remote operators who recover robots when they fail, capturing data that feeds back into training and continuously improves models.\r\n\r\nAdditionally, through the Cortex Marketplace, workplaces get paid to host data-collection and evaluation sessions, while labs access the in-the-wild data that truly matters. This draws on Lucas\u2019s previous experience as co-founder of Carousell, a C2C marketplace that scaled to a $1B+ valuation.",
-      "one_liner": "Large-scale real-world robot & egocentric data for embodied AI",
+      "one_liner": "Large-scale real-world robot & human data for embodied AI",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2255,9 +2255,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning",
-        "Robotics",
-        "AI"
+        "Robotics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4452,7 +4452,7 @@
       "name": "Parrot",
       "slug": "parrot",
       "website": "https://parrotapp.com/",
-      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $78K MRR doubling every 2 months with power users averaging 49 mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $101K MRR doubling every 2 months with power users scrolling for 6 hours/week on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
       "one_liner": "TikTok for language learning",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4943,7 +4943,7 @@
       "name": "Nori",
       "slug": "nori",
       "website": "https://nori.ai",
-      "description": "Nori takes *all* of your health data\u2014Apple Health, Oura, Whoop, Peloton, nutrition apps, Garmin, MyChart, blood tests from Function Health, Superpower\u2014all feeding your personal health AI.\r\n\r\nWith Nori, you get health advice that's personalized to you, practical and achievable, and based on proven, evidence-backed approaches.\r\n\r\nWho it\u2019s for: People who want weight loss, better energy, or faster recovery\u2014starting with iOS users",
+      "description": "Nori takes *all* of your health data\u2014Apple Health, Oura, Whoop, Peloton, nutrition apps, Garmin, MyChart, blood tests from your doctor or services like Superpower\u2014all feeding your personal health AI.\r\n\r\nWith Nori, you get health advice that's personalized to you, practical and achievable, and based on proven, evidence-backed approaches.\r\n\r\nWho it\u2019s for: People who want weight loss, better energy, or faster recovery\u2014starting with iOS users",
       "one_liner": "Mint.com for Health\u2014All your health data + personal health coach",
       "batch": "Fall 2025",
       "status": "Active",
@@ -5215,5 +5215,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-26T12:01:21.783820"
+  "fetched_at": "2025-11-26T18:01:14.487836"
 }
