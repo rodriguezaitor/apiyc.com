@@ -134,7 +134,7 @@
       "name": "PathPilot",
       "slug": "pathpilot",
       "website": "https://www.getpathpilot.com/",
-      "description": "Fintechs, banks, and other institutions managing financial services face constant pressure to reduce costs, enhance customer experience, and ensure regulatory compliance. PathPilot provides the speed of pre-built AI agents combined with the flexibility of full customization. This enables internal teams to remain in full control\u2014designing, deploying, and governing AI solutions independently, without reliance on external vendors.",
+      "description": "PathPilot is the AI platform powering the next generation of financial operations.\r\nWe build fintech-specialized AI agents that automate the most critical and manual workflows \u2014 loan origination, customer support, onboarding, collections, and regulatory oversight \u2014 so financial institutions can scale with confidence.",
       "one_liner": "AI platform helping fintech/bank teams scale efficiently",
       "batch": "Summer 2024",
       "status": "Active",
@@ -150,14 +150,14 @@
       ],
       "locations": "San Jose, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Finance",
         "B2B",
-        "Customer Support"
+        "Customer Support",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724891975.0,
@@ -6935,7 +6935,7 @@
       "slug": "pre",
       "website": "https://buildwithpre.com",
       "description": "Pre is an AI-powered execution system for startup founders who are serious about building real companies.\r\nSet a 10-week goal, connect your tools, and get pushed to do your highest-impact work every week.\r\nPre doesn\u2019t track effort\u2026 it tracks outcomes, and it holds you to a higher standard.",
-      "one_liner": "The AI execution advisor that keeps ambitious founders focused,\u2026",
+      "one_liner": "The AI accountability agent for startup founders",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-25T18:01:12.485185"
+  "fetched_at": "2025-11-26T00:02:52.829744"
 }

@@ -2499,7 +2499,7 @@
         "LegalTech"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758861304.0,
@@ -2608,8 +2608,8 @@
       "name": "Rovr",
       "slug": "rovr",
       "website": "https://www.withrovr.com/",
-      "description": "In Stealth.",
-      "one_liner": "Stealth",
+      "description": "Rovr streamlines engineering operations by automating intake, triage, routing, and cross-team coordination. It replaces internal forms, manual Slack triage, and scattered docs with an AI front desk that understands requests, assigns owners, updates context, and posts status changes directly into Slack. Rovr\u2019s built-in ops CRM gives teams a single system of record for eng requests \u2014 from tooling access to platform incidents to dev-infra workflows \u2014 reducing operational drag across the entire org.",
+      "one_liner": "AI Ops Engine that runs your engineering workflows",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2620,9 +2620,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "Developer Tools",
         "B2B",
@@ -5214,5 +5215,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-25T18:01:13.154081"
+  "fetched_at": "2025-11-26T00:02:55.756361"
 }
