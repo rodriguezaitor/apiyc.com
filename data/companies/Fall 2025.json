@@ -188,11 +188,11 @@
       ],
       "locations": "Stockholm, Stockholm County, Sweden",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "HR Tech",
         "Data Visualization",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -540,7 +540,7 @@
       "one_liner": "Carbon Fiber Manufacturing at the Speed of Software",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -831,7 +831,7 @@
       "slug": "telemetron-ai",
       "website": "https://www.telemetron.ai/",
       "description": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). \r\n\r\nOur platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
-      "one_liner": "Customer Support Platform Built for Hardware",
+      "one_liner": "support platform that understands hardware",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1933,8 +1933,8 @@
       "name": "Expected Parrot",
       "slug": "expected-parrot",
       "website": "https://www.expectedparrot.com",
-      "description": "We help companies simulate their stakeholders and explore pricing, product, marketing, communications and other high-impact business decisions at scale. We have an open-source library and interactive applications for designing custom agents representing your target audiences and conducting interviews and surveys with them using LLMs of your choice to generate answers. Results are returned as detailed datasets with built-in analytical methods. Everything is cached and reproducible, and you can automatically send the same surveys to real human respondents to calibrate agents and validate answers at any time. You can use your own API keys for LLMs or get a unified key from E[P] that provides access to all available models and comes with $25 in credits for API calls to get started.",
-      "one_liner": "Simulate your stakeholders.",
+      "description": "We help companies simulate their customers and explore pricing, product, marketing, communications and other high-impact business decisions at scale. We have an open-source library and no-code web app for designing custom agents and conducting interviews and surveys with them using LLMs of your choice to generate results and reports. Everything is cached and reproducible, and you can automatically send the same surveys to human respondents to calibrate your agents and validate answers at any time.",
+      "one_liner": "Simulate your customers with AI agents.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 5,
@@ -3077,7 +3077,7 @@
       "slug": "allus-ai",
       "website": "https://allus.ai",
       "description": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. ",
-      "one_liner": "Transforming manufacturing with next-gen Vision Foundation Model",
+      "one_liner": "Transforming manufacturing with our next-gen Vision Foundation Model",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -3093,11 +3093,11 @@
       ],
       "locations": "Atlanta, GA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
         "Computer Vision",
-        "Manufacturing",
-        "AI"
+        "Manufacturing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3308,7 +3308,7 @@
       "name": "Mod AI",
       "slug": "mod-ai",
       "website": "https://usemod.ai",
-      "description": "We build AI agents that automate the accounts payable process for enterprises.\r\n\r\nDesigned to imitate accounts payable clerks, our AI agents read emails and find valid invoices, extract data from any document format, perform matching with purchase orders and receipts, route invoices organization-wide for approval, and sync directly with your ERP or accounting system. \r\n\r\nWe're the only AP automation solution on the market that's already leveraging the latest AI vision models instead of outdated OCR technology, achieving 94% higher accuracy than industry leaders and helping our users see an 83% reduction in time spent.",
+      "description": "Mod AI helps enterprises automate their accounts payable with AI agents. Our agents imitate AP clerks, handling vendor communication, fraud detection, advanced GL coding + 3-way matching, and exceptions. \r\n\r\nIn just 49 days, we built a compliant platform from scratch and closed 6 enterprise contracts ($165k cARR), helping customers reduce labor costs by 83%. 4 of these customers are also participating in our seed round!\r\n\r\nEvan & Jeet are multi-time founders from LinkedIn, Amazon, and Adyen, that met studying CS at UIUC.",
       "one_liner": "AI Agents for Accounts Payable",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4125,15 +4125,15 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
-        "Finance"
+        "Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761342337.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6b08ce8aca208a12d25814139b7745b30544200.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8e0c09c51f4da48f69bd8d711a166171d7420a4.png"
     },
     {
       "id": 30858,
@@ -5215,5 +5215,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-26T18:01:14.487836"
+  "fetched_at": "2025-11-27T00:02:53.603955"
 }

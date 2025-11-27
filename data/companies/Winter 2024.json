@@ -3762,8 +3762,8 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent identifies catastrophic failures in AI systems before they reach customers or regulators.\r\n\r\nWe run a fully managed test service that maps where your models, agents, and workflows can cause legal, security, or customer harm, then build and execute targeted test suites around those risks. The tests cover security, compliance, and product-critical failure modes, and produce structured, audit-ready evidence that enterprise buyers require.\r\n\r\nMost customers use Superagent to prove their AI products are safe to deploy and to maintain that assurance as the systems evolve.",
-      "one_liner": "Safety and compliance testing for AI",
+      "description": "Superagent makes AI products safe and compliant.\r\n\r\nWe provide defense models and adversarial tests that prevent safety and compliance failures in AI agents and give companies the proof they need for enterprise deals. \r\n\r\nOur small language models, Guard, Redact, and Verify, run inside agents to stop prompt injections, data leaks, and unsafe outputs. Our tests measure prompt resistance, data protection, and factual accuracy so teams know how their system behaves under pressure.",
+      "one_liner": "Defense models and adversarial tests for AI products",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-26T18:01:10.200812"
+  "fetched_at": "2025-11-27T00:02:49.502887"
 }
