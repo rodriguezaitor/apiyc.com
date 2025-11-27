@@ -66,7 +66,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1762532179.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3bc97204b0d665ad12d9be818e42b4dccfcd7ba.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c896e2a98ef03115005ed5ae8acd4500d7eea752.png"
     },
     {
       "id": 31020,
@@ -207,7 +207,7 @@
       "slug": "fixpoint",
       "website": "https://fixpoint.co/",
       "description": "Fixpoint is Deel for human data annotation: automating the sourcing, vetting, and management of data labelers.\r\n\r\nIt used to be a manual process to staff people on AI training data or eval projects - but Fixpoint leverages AI to staff people and create data better, cheaper, and faster. This includes a network of pre-vetted experts, AI-automated vetting, and annotator management + payroll.",
-      "one_liner": "Deel for human data annotators",
+      "one_liner": "Deel for human data annotation",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -316,8 +316,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Investments",
-        "AI"
+        "Artificial Intelligence",
+        "Investments"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2441,7 +2441,7 @@
       "slug": "compyle",
       "website": "https://compyle.ai",
       "description": "Compyle is a less autonomous coding agent that asks before it acts. We're like Cursor or Claude Code - but you won't need to rewrite your codebase every time you use it for more than a small task.\r\n\r\nWe built Compyle because we were frustrated with the direction other coding agents are headed. They're all racing to be more autonomous, running for hours without human input.\r\n\r\nThis doesn't work for real production code. When agents run autonomously, they make countless small decisions that pile up in your codebase. Engineers lose ownership - they don't know what was implemented, can't effectively debug or maintain it, and struggle to build on top of it. The code becomes a black box, and they're forced to throw it away.\r\n\r\nCompyle keeps engineers in the driver's seat.",
-      "one_liner": "Lovable for Software Engineers",
+      "one_liner": "The coding agent that actually collaborates with you",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3093,11 +3093,11 @@
       ],
       "locations": "Atlanta, GA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
         "Computer Vision",
-        "Manufacturing"
+        "Manufacturing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4841,7 +4841,7 @@
       "slug": "mixy",
       "website": "https://usemixy.com",
       "description": "Live out your DJ dreams with Mixy, the mind-blowing music app that lets you mash-up any song in seconds.\r\n\r\n\u2055 Add your songs\r\n\u2055 Instantly blend vocals and beats\r\n\u2055 Play and share your mashup anywhere\r\n\r\nThere\u2019s no limit to your imagination!\r\n\r\n\u2055 Launched to #1 in Music on June 19th\r\n\u2055 1.5M users in 3 months\r\n\u2055 15M mashups made and growing",
-      "one_liner": "Make Mashups",
+      "one_liner": "Make mashups without knowing how to DJ",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -4856,11 +4856,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Entertainment",
         "Social",
-        "Music",
-        "AI"
+        "Music"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5215,5 +5215,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-27T00:02:53.603955"
+  "fetched_at": "2025-11-27T06:01:04.774809"
 }
