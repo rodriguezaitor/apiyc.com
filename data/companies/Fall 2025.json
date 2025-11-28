@@ -1173,7 +1173,7 @@
       "slug": "karumi",
       "website": "https://www.karumi.ai/",
       "description": "Karumi is an AI agent that joins a live video call with your prospects to deliver personalized product demos, 24/7, in any language.\r\n\r\nIt bridges the gap between your landing page and your sales team by engaging visitors at the peak of their interest, turning curiosity into conversion. For those not ready to talk to sales but eager to explore, Karumi offers the next generation of interactive, self-guided demos.",
-      "one_liner": "AI-powered product demos",
+      "one_liner": "Personalized demos at scale, powered by AI",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1184,16 +1184,14 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Sales",
-        "AI"
+        "Sales"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1715,8 +1713,8 @@
       ],
       "locations": "Palo Alto, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Robotics"
+        "Robotics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2050,11 +2048,11 @@
       ],
       "locations": "Toronto, ON, Canada",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Legal",
-        "LegalTech"
+        "LegalTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2306,10 +2304,10 @@
       "slug": "thesis",
       "website": "https://thesislabs.ai",
       "description": "Thesis is an applied research lab, accelerating AI R&D. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing in AI.",
-      "one_liner": "The AI R&D engine.",
+      "one_liner": "The scientific discovery engine.",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -4576,7 +4574,7 @@
       "name": "Uplane",
       "slug": "uplane",
       "website": "https://uplane.com",
-      "description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nWe\u2019ve grown from $0 to $29k MRR in only 4 months. Our largest customer recently fired their ad agency at an all-time performance high, just to work with us. Now they get 20 times as many ads per month as before. And the landing pages we generate convert up to 3-times as well as the status quo. Even the best marketing managers in the world can\u2019t beat AI at personalization and A/B testing.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.",
+      "description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nWe\u2019ve grown from $0 to $29k MRR in only 4 months. Our largest customer recently fired their ad agency at an all-time performance high, just to work with us. Now they get 20 times as many ads per month as before. The landing pages we generate convert up to 3-times as well as the status quo. Even the best marketing managers in the world can\u2019t beat AI at personalization and A/B testing.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.",
       "one_liner": "Replace marketing agencies with AI",
       "batch": "Fall 2025",
       "status": "Active",
@@ -5216,5 +5214,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-28T00:03:09.321819"
+  "fetched_at": "2025-11-28T06:01:07.413516"
 }
