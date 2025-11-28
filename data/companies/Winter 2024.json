@@ -3031,11 +3031,11 @@
       "name": "Raindrop",
       "slug": "raindrop",
       "website": "https://www.raindrop.ai",
-      "description": "Monitor your AI agents the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI agents.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
+      "description": "Monitor your AI agents the right way.\r\n\r\nAI engineers use Raindrop to get alerts about silent failures in their AI agents.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
       "one_liner": "Sentry for AI Agents",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3058,7 +3058,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710985617.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3e2bf71a524fc1733a500d6d8cfd497e6fc9f2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/53f3136371147d755b0a7f4891db765c11734499.png"
     },
     {
       "id": 29400,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-11-27T18:01:05.796484"
+  "fetched_at": "2025-11-28T00:03:07.659127"
 }

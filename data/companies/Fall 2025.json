@@ -1050,10 +1050,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Enterprise",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1933,7 +1933,7 @@
       "name": "Expected Parrot",
       "slug": "expected-parrot",
       "website": "https://www.expectedparrot.com",
-      "description": "Expected Parrot lets companies simulate their customers with AI agents to explore pricing, product, marketing, communications and other high-impact business decisions at scale. We have an open-source library and no-code web app for designing custom agents and conducting interviews and surveys with them using LLMs of your choice to generate results and reports. Everything is cached and reproducible, and you can automatically send the same surveys to human respondents to calibrate your agents and validate answers at any time.",
+      "description": "Expected Parrot helps companies simulate their customers with AI agents to explore pricing, product, marketing, communications and other high-impact business decisions at scale. Our open-source library and no-code web app let you design custom agent personas and conduct interviews and surveys with them using LLMs of your choice to generate results and reports. Everything is cached and reproducible, and you can automatically send the same surveys to human respondents to validate results at any time.",
       "one_liner": "Simulate your customers with AI agents.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4188,11 +4188,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4576,11 +4576,11 @@
       "name": "Uplane",
       "slug": "uplane",
       "website": "https://uplane.com",
-      "description": "Uplane uses AI to automate digital advertising.\r\n\r\nUplane's AI platform creates thousands of ad campaigns with matching landing pages for each one, and allocates budgets across Meta, Google, TikTok and more. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.\r\n\r\nThe team has deep founder-market fit: Julius managed a 7-digit monthly ad budget at one of the biggest ad spenders in Europe; Marvin has an academic background in Data Science (Imperial, Harvard) and led growth analytics & operations at a unicorn; Lukas was Head of Engineering at two YC startups, Blair (S19) and Fastgen (W23).",
-      "one_liner": "Automate digital advertising with AI",
+      "description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nWe\u2019ve grown from $0 to $29k MRR in only 4 months. Our largest customer recently fired their ad agency at an all-time performance high, just to work with us. Now they get 20 times as many ads per month as before. And the landing pages we generate convert up to 3-times as well as the status quo. Even the best marketing managers in the world can\u2019t beat AI at personalization and A/B testing.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.",
+      "one_liner": "Replace marketing agencies with AI",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
@@ -4593,10 +4593,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Advertising"
+        "Analytics",
+        "Advertising",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5215,5 +5216,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-27T18:01:06.556952"
+  "fetched_at": "2025-11-28T00:03:09.321819"
 }
