@@ -75,18 +75,19 @@
     },
     {
       "id": 26307,
-      "name": "TradeX",
+      "name": "Mindbase",
       "slug": "tradex",
-      "website": "http://tradexapp.co/",
-      "description": "TradeX is an exchange to trade on the outcome of events that affect your everyday life. We are the world\u2019s most simplified derivative exchange, where you can trade on yes or no (whether an event will happen). \r\n\r\nTradeX allows people to trade on what matters to them. Examples: Climate change, transportation, currencies, GDP, omicron cases, inflation rate, movie launch, next president & much more.\r\n\r\nOur USP: Allowing people to trade on what they know rather than studying company financials or worrying about market conditions. We are making opinions investable.\r\n\r\nOur MOTO: What do you do with your opinion? Believe in it. ",
-      "one_liner": "Exchange to trade on outcome of events.",
+      "website": "https://mymindbase.ai",
+      "description": "Mindbase is an AI cloning platform that empowers individuals, especially influencers, founders, and creators, to replicate their entire mind and create a digital twin. This isn't just a chatbot; it's a living, breathing digital version of yourself that can think, talk, and interact 24/7, complete with your actual voice, tone, and personality.\r\n\r\nWhat makes Mindbase truly powerful is its ability to ingest your entire body of work\u2014from podcasts and YouTube videos to blogs and social media content\u2014automatically updating and learning to capture your true style, phrasing, and depth. This digital clone can then be distributed everywhere you need to be, embeddable on your website, courses, SMS, WhatsApp, and even phone calls, ensuring your audience can connect with you anytime, anywhere.\r\n\r\nEach Mindbase clone comes equipped with its own email, phone number, and WhatsApp, marking a significant leap in how humans can communicate, scale their presence, and build a lasting legacy. Beyond just interaction, Mindbase provides a full analytics dashboard, offering deep insights into conversations, trends, FAQs, and user engagement, all while ensuring your data remains private and encrypted. It's a scalable, authentic digital extension of you, designed to grow with your audience and unlock limitless possibilities for engagement and impact.",
+      "one_liner": "AI Clone for scalable, authentic engagement with your entire audience",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 7,
-      "industry": "Consumer",
-      "subindustry": "Consumer",
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Productivity"
       ],
       "regions": [
         "India",
@@ -13818,5 +13819,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-11-28T06:01:06.283065"
+  "fetched_at": "2025-11-28T12:01:27.130624"
 }

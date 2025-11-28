@@ -6987,11 +6987,11 @@
       "name": "Trigger.dev",
       "slug": "trigger-dev",
       "website": "https://trigger.dev",
-      "description": "Trigger.dev is the open source platform for building AI workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple\u2019s App of the Year.",
+      "description": "Trigger.dev is the open source platform for building AI agents and workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple\u2019s App of the Year.",
       "one_liner": "Build and deploy fully\u2011managed AI agents and workflows",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -7006,11 +7006,11 @@
       ],
       "locations": "London, England, United Kingdom",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -9337,5 +9337,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-11-28T06:01:06.585994"
+  "fetched_at": "2025-11-28T12:01:28.666225"
 }
