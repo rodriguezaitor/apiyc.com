@@ -605,7 +605,7 @@
     },
     {
       "id": 30993,
-      "name": "DiligenceSquared Inc.",
+      "name": "DiligenceSquared",
       "slug": "diligencesquared-inc",
       "website": "https://diligencesquared.com/",
       "description": "DiligenceSquared delivers AI-powered market due diligence for investment decisions - like the $500k McKinsey reports, but automated, auditable, and at a fraction of the cost.\r\n\r\nWhen Private Equity funds evaluate deals, they pay firms like McKinsey, BCG, and Bain $500K-$1M for market due diligence. The process takes weeks, and the output is a static PowerPoint that's impossible to audit. A single large-cap PE fund can spend >$30M annually on this and the total market is $10B per year.\r\n\r\nOur AI agents conduct expert interviews and synthesize insights with every claim linked to source transcripts. No black box, no \"trust me\" slides, and no 10x mark-up for human labor.\r\n\r\nFrederik bought these reports as a Principal at Blackstone. Soren sold them as a Principal at BCG. Harshil is a repeat founder and former Software Engineer at Google. We've seen both sides and know what matters in due diligence - and now we automate it.\r\n\r\nOur clients already include 8 leading private equity funds with over $2.4 trillion in combined AUM.",
@@ -630,7 +630,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1762366564.0,
@@ -971,8 +971,8 @@
       "name": "Rovi Health",
       "slug": "rovi-health",
       "website": "https://www.rovi.health",
-      "description": "We deliver high-quality, fairly-priced healthcare to employees through text. Employers cut 10\u201320% of healthcare spend. Employees get concierge care they love.\r\n\r\nOur AI-enabled virtual care treats common conditions over text or video. For in-person care, our AI agents search across all in-network providers using millions of price and quality data points, recommend the best options, then coordinate scheduling. Employees get rewarded for choosing high-value care through copay reimbursements.\r\n\r\nWe've already contracted to roll out to thousands of employees across multiple employers for the 2025-2026 plan year.\r\n\r\nWe're on a mission to build member-aligned, AI-native health insurance, starting with cost containment.",
-      "one_liner": "AI care concierge providing text-based healthcare to employees",
+      "description": "We deliver high-quality, cost-effective healthcare to employees through text. Employers cut 10\u201320% of healthcare spend. Employees get concierge care that improves outcomes.\r\n\r\nOur AI agents analyze clinical data to spot upcoming care. We treat common conditions through our virtual clinic. For more complex care, our agents find the best in-network providers using millions of price and quality data points, and handle end-to-end appointment booking. Employees are rewarded for choosing high-value care through copay reimbursements.\r\n\r\nWe're rolling out to thousands of employees across multiple employers for the 2025-2026 plan year. Our goal is to build AI-native infrastructure that powers the next-generation of health insurance, starting with cost containment.",
+      "one_liner": "AI healthcare concierge for employees",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -1090,10 +1090,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Synthetic Biology",
         "Crowdsourcing",
         "Drug discovery",
-        "AI",
         "Biotechnology"
       ],
       "stage": "Early",
@@ -1438,8 +1438,8 @@
       "id": 30958,
       "name": "Absurd",
       "slug": "absurd",
-      "website": "https://tryabsurd.com/",
-      "description": "Absurd (YC F25) makes AI Brand and Performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ organic views across all videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+      "website": "https://absurd.com/",
+      "description": "Absurd (YC F25) makes AI Brand and Performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ organic views across all videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at absurd.com",
       "one_liner": "AI Brand and Performance ads at scale",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1770,7 +1770,7 @@
       "name": "Zalos",
       "slug": "zalos",
       "website": "https://www.zalos.ai/",
-      "description": "*Eliminate your Finance Operations grunt work n!*\r\n\u26a1Computer Agent logs into existing systems (e.g., ERP, Accounting, other CFO systems)\r\n\u26a1Automates Finance processes (e.g., pricing, billing, month-end)\r\n\u26a1Uploads & submits in your system (e.g., create journal entry)\r\n\r\n*The Blockers \u279c Your Finance Systems:*\r\nFinance Operations is buried in repetitive tasks, driving:\r\n\u274c Lack finance visibility for decision-making\r\n\u274c Wasted time by in-house or outsourced teams\r\n\u274c Mistakes and delays from human-driven processes\r\n\r\nBarriers to FinOps automation have included:\r\n\ud83d\udea8 Legacy ERPs with limited AI\r\n\ud83d\udea8 Authentication-protected websites & portals\r\n\ud83d\udea8 Too many Finance Systems that lack full integrations\r\n\r\nIt doesn\u2019t have to be this way.\r\n\r\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\r\n*The Breakthrough \u279c Zalos:*\r\n\r\nZalos Agents run your rule-based processes, using your existing Finance applications:\r\n\u2b50 Our agents automate processes based on simple instructions (e.g., Screen Recording, PDFs)\r\n\u2b50 Native handling of ERPs or other applications (e.g., 2FA, Captcha)\r\n\u2b50 Superior performance from our FinOps libraries (e.g., Data Extraction & Harmonization, Reconciliation, etc.)\r\n\r\nCustomer story:\r\nFROM: In the Bay area, a Finance Manager was wasting 8 days (!) per month:\r\n\u2716\ufe0f Downloads transactions from Corporate Credit Cards & legacy Banks\r\n\u2716\ufe0f Uploads into NetSuite and manually categorizes 100s of transactions\r\n\r\nUSING ZALOS: Finance Manager schedules \u2018run process\u2019 weekly:\r\n\u2714\ufe0f Zalos handles 2FA to download & submit required transactions\r\n\u2714\ufe0f Zalos operates NetSuite to categorize >60% outstanding transactions\r\n\r\n*\r\n\r\nNo browser required: Zalos works silently in the background, whilst continuously improving itself. \r\n\r\nGaining 2 days per week was transformational. The Finance Manager could\r\n\ud83d\udfea Reduce financial risks with closer inspection (e.g., debt covenants) \r\n\ud83d\udfea Catch cash leakages by spotting suppliers being paid at generous terms\r\n\ud83d\udfea Be a strategic partner to the CEO & business with better analysis\r\n\r\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\r\nZalos transforms your Finance Operations:\r\n\u2611\ufe0f Scale without headcount - don\u2019t let Operations teams be a bottleneck\r\n\u2611\ufe0f Smarter every day, with evals & RL-finetuning driving a self-performing system\r\n\u2611\ufe0f Built for Enterprise-grade security and screen records every automation for audit\r\n\r\n\u27a1Interested? Request demo here: https://www.zalos.ai/contact-us\r\n",
+      "description": "*Eliminate your Finance Operations grunt work!*\r\n\u26a1Computer Agent logs into existing systems (e.g., ERP, Accounting, other CFO systems)\r\n\u26a1Automates Finance processes (e.g., pricing, billing, month-end)\r\n\u26a1Uploads & submits in your system (e.g., create journal entry)\r\n\r\n*The Blockers \u279c Your Finance Systems:*\r\nFinance Operations is buried in repetitive tasks, driving:\r\n\u274c Lack finance visibility for decision-making\r\n\u274c Wasted time by in-house or outsourced teams\r\n\u274c Mistakes and delays from human-driven processes\r\n\r\nBarriers to FinOps automation have included:\r\n\ud83d\udea8 Legacy ERPs with limited AI\r\n\ud83d\udea8 Authentication-protected websites & portals\r\n\ud83d\udea8 Too many Finance Systems that lack full integrations\r\n\r\nIt doesn\u2019t have to be this way.\r\n\r\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\r\n*The Breakthrough \u279c Zalos:*\r\n\r\nZalos Agents run your rule-based processes, using your existing Finance applications:\r\n\u2b50 Our agents automate processes based on simple instructions (e.g., Screen Recording, PDFs)\r\n\u2b50 Native handling of ERPs or other applications (e.g., 2FA, Captcha)\r\n\u2b50 Superior performance from our FinOps libraries (e.g., Data Extraction & Harmonization, Reconciliation, etc.)\r\n\r\nCustomer story:\r\nFROM: In the Bay area, a Finance Manager was wasting 8 days (!) per month:\r\n\u2716\ufe0f Downloads transactions from Corporate Credit Cards & legacy Banks\r\n\u2716\ufe0f Uploads into NetSuite and manually categorizes 100s of transactions\r\n\r\nUSING ZALOS: Finance Manager schedules \u2018run process\u2019 weekly:\r\n\u2714\ufe0f Zalos handles 2FA to download & submit required transactions\r\n\u2714\ufe0f Zalos operates NetSuite to categorize >60% outstanding transactions\r\n\r\n*\r\n\r\nNo browser required: Zalos works silently in the background, whilst continuously improving itself. \r\n\r\nGaining 2 days per week was transformational. The Finance Manager could\r\n\ud83d\udfea Reduce financial risks with closer inspection (e.g., debt covenants) \r\n\ud83d\udfea Catch cash leakages by spotting suppliers being paid at generous terms\r\n\ud83d\udfea Be a strategic partner to the CEO & business with better analysis\r\n\r\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\r\nZalos transforms your Finance Operations:\r\n\u2611\ufe0f Scale without headcount - don\u2019t let Operations teams be a bottleneck\r\n\u2611\ufe0f Smarter every day, with evals & RL-finetuning driving a self-performing system\r\n\u2611\ufe0f Built for Enterprise-grade security and screen records every automation for audit\r\n\r\n\u27a1Interested? Request demo here: https://www.zalos.ai/contact-us\r\n",
       "one_liner": "Computer Agents for Finance tasks like reconciliation, in your system!",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1972,7 +1972,7 @@
       "name": "Imagine AI",
       "slug": "imagine-ai",
       "website": "https://imagineai.me",
-      "description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). The idea came after a YC partner told us: founders at B2B companies are experts at their jobs, but consistently struggle to turn that expertise into marketing that drives revenue.\r\n\r\nWe launched in mid-July, now serve 40+ paying customers (Series-A,B and seed stage companies plus VCs, global franchises, and ghostwriting agencies). Achieving minimum 30%-70% week to week growth.\r\n\r\n\ud83d\udca1 Results:\r\n$10 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe\u2019re not just another AI tool.\r\n\r\nWe\u2019re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n\ud83d\udcc5 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n\ud83d\udd17 Connect with Sky: https://www.linkedin.com/in/skyyang/",
+      "description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). \r\n\r\nWe launched in mid-July, now serve 40+ paying customers (Series-A,B and seed stage companies plus VCs, global franchises, and ghostwriting agencies). Achieving minimum 30%-70% week to week growth.\r\n\r\n\ud83d\udca1 Results:\r\n$20 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe\u2019re not just another AI tool.\r\n\r\nWe\u2019re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n\ud83d\udcc5 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n\ud83d\udd17 Connect with Sky: https://www.linkedin.com/in/skyyang/",
       "one_liner": "Your AI Clone for B2B Content",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2226,8 +2226,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AI-Enhanced Learning",
-        "Generative AI",
-        "AI"
+        "Artificial Intelligence",
+        "Generative AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4177,7 +4177,7 @@
       "slug": "aspect-inc",
       "website": "https://aspect.inc",
       "description": "When footage comes off a camera, media content teams spend hours organizing their project, syncing across business tools, assembling rough drafts, reviewing for changes, and sending the right links to the right people and stakeholders.\r\n\r\nAspect is an AI platform that understands a team\u2019s video library and business workflows better than humans. The platform automates the entire enterprise production process, so  instead of managing corporate back-office tasks, creatives can focus on what they love while companies achieve higher ROI on their content.",
-      "one_liner": "AI platform for enterprise media content",
+      "one_liner": "AI system of record for enterprise media content",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -4192,11 +4192,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media",
-        "AI"
+        "Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4438,9 +4438,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Manufacturing",
+        "AI",
         "Automotive",
         "Industrial"
       ],
@@ -4449,7 +4449,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759431340.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a24e34c93f51f4d0c676b259df0de95b9cd72fa.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff366b5cf4ba792d472cf1af716e033566ff24ff.png"
     },
     {
       "id": 30848,
@@ -5179,11 +5179,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
         "Finance",
         "Proptech",
-        "Neobank"
+        "Neobank",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5227,5 +5227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-30T00:03:11.373410"
+  "fetched_at": "2025-11-30T06:01:09.082327"
 }
