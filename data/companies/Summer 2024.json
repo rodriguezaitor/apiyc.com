@@ -1708,8 +1708,8 @@
       "name": "Orca",
       "slug": "orcaengine",
       "website": "https://orcaengine.ai",
-      "description": "Simplifine is making Orca, the open-source AI game engine, so you don't need to give your years to make a game. We are integrating a chat bot, with complete access to Godot. The chatbot can:\r\n\r\nRead/edit/create/delete files\r\nUnderstand the entire project as context\r\nCreate images and keep consistency across images created\r\nEdit Godot native objects, e.g. nodes, scenes, ...",
-      "one_liner": "Jet engine for game development",
+      "description": "Orca is an open source AI Agent for game development that enables everyone to make video games without learning coding, game engines, or art. We are integrating a chat bot, with complete access to Godot. The chatbot can:\r\n\r\nRead/edit/create/delete files\r\nUnderstand the entire project as context\r\nCreate images and keep consistency across images created\r\nCreate 2D characters and animations\r\nEdit Godot native objects, e.g. nodes, scenes, ...",
+      "one_liner": "AI Agent for Game Development",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -1725,9 +1725,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
         "Consumer",
         "Gaming",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1735,7 +1735,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1723501563.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c43be54d93fe3569a81f9840b0bb15401e733.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png"
     },
     {
       "id": 29825,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-11-30T06:01:05.280402"
+  "fetched_at": "2025-11-30T12:01:08.297767"
 }
