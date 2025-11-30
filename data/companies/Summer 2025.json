@@ -2681,7 +2681,7 @@
       "name": "Embedder",
       "slug": "embedder",
       "website": "https://www.embedder.com",
-      "description": "Embedder is an AI-powered firmware generation platform that writes, tests, and debugs firmware on both physical and simulated hardware. Supporting 20+ MCU/SoC platforms, it accelerates embedded systems development across semiconductors, automotive, medical devices, aerospace, IoT, and consumer electronics.",
+      "description": "Embedder is a coding agent that can write, test, and debug firmware on both physical and simulated hardware. Supporting 20+ MCU/SoC platforms, it accelerates embedded systems development across semiconductors, automotive, medical devices, aerospace, IoT, and consumer electronics.",
       "one_liner": "Cursor for Firmware",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2698,10 +2698,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Hardware",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5394,5 +5394,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-11-29T18:01:15.065402"
+  "fetched_at": "2025-11-30T00:03:10.561628"
 }

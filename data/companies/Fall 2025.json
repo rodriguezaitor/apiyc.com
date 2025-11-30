@@ -322,8 +322,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Investments"
+        "Investments",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -582,8 +582,7 @@
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
-        "B2B",
-        "Marketing"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -592,10 +591,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
+        "B2B",
         "Video",
         "Media",
-        "Advertising",
-        "Enterprise Software"
+        "Creator Economy"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1671,8 +1670,8 @@
       "name": "Lua Global Inc",
       "slug": "lua-global-inc",
       "website": "https://heylua.ai/",
-      "description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you\u2019ve been on our website you\u2019ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n",
-      "one_liner": "The unified agent platform for mid-market & enterprise",
+      "description": "Lua is the mid-market agent platform.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you\u2019ve been on our website you\u2019ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n",
+      "one_liner": "The mid-market agent platform",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 5,
@@ -2327,7 +2326,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3694,8 +3693,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Security",
-        "AI"
+        "Artificial Intelligence",
+        "Security"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3710,7 +3709,7 @@
       "slug": "iriscal",
       "website": "https://textiris.com/",
       "description": "Iris connects all your calendars and inboxes in one place with a built in personal assistant. It connects with Gmail, Google Calendar, Maps, and more to understand your context - what you\u2019re working on, who you\u2019re meeting, and where you need to be - and intelligently organizes your time around what actually matters. \r\n\r\nUnlike assistants that just schedule events, Iris learns your rhythm and automates your workflow: drafting emails, moving meetings, blocking focus time, and coordinating across accounts, all with your approval. \r\n\r\nWe\u2019re building the next generation of personal AI, one that keeps you ahead.",
-      "one_liner": "All your calendars and inboxes, powered by an intelligent assistant.",
+      "one_liner": "The Digital Extension of Yourself",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3760,10 +3759,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Sports Tech",
         "Computer Vision",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4161,9 +4160,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4246,7 +4245,7 @@
       "slug": "hyperspell",
       "website": "https://hyperspell.com",
       "description": "Hyperspell (YC F25) gives AI agents memory.\r\n\r\nIt connects to tools like Slack, Gmail, Notion, and Drive so agents can recall, reason, and remember across company knowledge. Developers use Hyperspell\u2019s API to turn disconnected agents into AI coworkers that understand their work. Conor and Manu founded Hyperspell after building their own workplace agent and seeing how limited AI is without memory. They have over 15 years of experience in machine learning and have scaled API-based products to $30M ARR.",
-      "one_liner": "Memory for AI Agents.",
+      "one_liner": "Memory for AI Agents",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -4264,11 +4263,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Machine Learning",
         "B2B",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4439,9 +4438,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Manufacturing",
-        "AI",
         "Automotive",
         "Industrial"
       ],
@@ -4450,7 +4449,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759431340.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ad8784036266f947e8e47f209e0174d27244850.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a24e34c93f51f4d0c676b259df0de95b9cd72fa.png"
     },
     {
       "id": 30848,
@@ -4481,7 +4480,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758577465.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f00f4b531cfdb83446f322df9e4f749afb8b0179.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ada36353c9ee05d690e49a75df0aab404df3a63d.png"
     },
     {
       "id": 30847,
@@ -5228,5 +5227,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-29T18:01:15.896560"
+  "fetched_at": "2025-11-30T00:03:11.373410"
 }
