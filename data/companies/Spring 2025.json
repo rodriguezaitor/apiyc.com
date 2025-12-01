@@ -3095,8 +3095,8 @@
       "name": "TypeOS",
       "slug": "typeos",
       "website": "https://TypeOS.com",
-      "description": "TypeOS lets you write, edit and format Google Docs with AI. Take any article, video or file across the web and make it your own, without ever switching tabs.",
-      "one_liner": "AI In Google Docs and your Browser",
+      "description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
+      "one_liner": "AI writing you control with your taste.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -3110,14 +3110,14 @@
       ],
       "locations": "",
       "tags": [
-        "Education",
+        "Artificial Intelligence",
+        "Reinforcement Learning",
         "Consumer",
         "B2B",
-        "Productivity",
-        "AI"
+        "Productivity"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745137302.0,
@@ -4644,5 +4644,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-12-01T00:04:12.885772"
+  "fetched_at": "2025-12-01T06:01:14.981033"
 }

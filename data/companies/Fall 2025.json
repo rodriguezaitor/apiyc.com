@@ -523,11 +523,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Health Tech",
         "Healthcare",
-        "Healthcare IT",
-        "AI"
+        "Healthcare IT"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1021,10 +1021,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1438,8 +1438,8 @@
       "name": "Absurd",
       "slug": "absurd",
       "website": "https://absurd.com/",
-      "description": "Absurd makes AI Brand and Performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ organic views across all videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at absurd.com",
-      "one_liner": "AI Brand and Performance ads at scale",
+      "description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ organic views across all videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time \u2014 commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at absurd.com",
+      "one_liner": "AI Brand and Performance Ads at Scale",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -1751,11 +1751,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "DevSecOps",
         "B2B",
-        "Open Source",
-        "AI"
+        "Open Source"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2004,8 +2004,8 @@
       "name": "Anto Biosciences",
       "slug": "anto-biosciences",
       "website": "https://www.anto.bio/",
-      "description": "Anto Biosciences is building a foundation model for microbial communities, making the gut microbiome computable for the first time. We predict drug toxicity and efficacy across diverse populations and fix drugs so they work for everyone \u2014 solving the hidden root cause of most drug failures. \r\n\r\nFounded by Arvid (Broad Institute of MIT and Harvard; Nature-published researcher who pioneered quality-aware, goal-directed sparsification) and David (Harvard Medical School Gastroenterology, J&J), second-time founders who published the breakthrough at leading machine learning AI conferences and Nature. \r\n\r\nWe've caught a $1B cancer drug that worked in China but failed clinical trials in the U.S. With the help of our model, we are the first ones to know exactly why.\r\n\r\nAnto is backed by Y Combinator (F25). https://www.anto.bio/",
-      "one_liner": "A multimodal foundation model for microbial communities.",
+      "description": "Anto is building a foundation model for microbial communities, making the gut microbiome computable for the first time. We predict drug toxicity and efficacy across diverse populations and fix drugs so they work for everyone \u2014 solving the hidden root cause of most drug failures. \r\n\r\nFounded by Arvid (Broad Institute of MIT and Harvard; Nature-published researcher who pioneered quality-aware, goal-directed sparsification) and David (Harvard Medical School Gastroenterology, J&J), second-time founders who published the breakthrough at leading machine learning AI conferences and Nature. ",
+      "one_liner": "A Foundation Model for Microbial Communities.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2339,7 +2339,7 @@
       "name": "Play Health",
       "slug": "play-health",
       "website": "http://playhealth.com",
-      "description": "Play Health is building a perimenopause care platform to provide women with the tools they need to find relief from symptoms fast. It is led by technical, second-time, YC-backed founders Andrea Mazzocchi, PhD and Ian Miller, with an exit and a unicorn between them.\r\n\r\nToday, over 30 million women in the U.S. are experiencing perimenopause symptoms, spending an estimated $15B+ annually on symptom management across supplements, testing, primary care visits, and specialists - yet most leave frustrated with generic solutions that don't work. \r\n\r\nOur comprehensive perimenopause care platform is designed to grow with our users' needs. We\u2019ve started with personalized, perimenopause-specific tracking, at-home hormone testing, and AI-driven analytics that deliver actionable insights. We then layer on services our users are already seeking - telemedicine, nutrition coaching, and specialized care - while connecting all their data, results, and protocols in one place.  As we scale, every interaction enriches our dataset, creating a flywheel: better insights and personalization for users, while positioning us to build advanced women's health predictive models and partner with pharma companies developing new therapeutics and standards of care.",
+      "description": "Play Health is building a perimenopause care platform to provide women and their providers with the tools they need to relieve symptoms fast. It is led by technical, second-time, YC-backed founders Andrea Mazzocchi, PhD and Ian Miller, with an exit and a unicorn between them.\r\n\r\nOver 30 million women in the U.S. are experiencing perimenopause symptoms, spending an estimated $15B+ annually on symptom management.  Despite this most only receive generic solutions and struggle to find effective symptom relief.\r\n\r\nWe're bringing evidence-based perimenopause care to women through partnerships with medical practices and employer and health benefits programs. Our platform integrates personalized symptom, medication, and lifestyle data to generate AI-powered insights and  clinical protocols, enabling providers to deliver specialized care.\r\n\r\nEvery clinical interaction enriches our longitudinal dataset allowing us to create better outcomes for patients, deeper insights for providers, and expand into women\u2019s health broadly. This also enables us to partner with pharma and biotech companies developing therapeutics and diagnostics for women's health.",
       "one_liner": "Perimenopause Care Platform",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2347,8 +2347,7 @@
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Consumer Health and Wellness",
       "industries": [
-        "Healthcare",
-        "Consumer Health and Wellness"
+        "Healthcare"
       ],
       "regions": [
         "United States of America",
@@ -2369,7 +2368,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1760457684.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/29eb0f5753137c426de6bf374fee2c8296e363cb.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/757bc1cfa9101d42dcc0cd813d53a54fd8552a06.png"
     },
     {
       "id": 30924,
@@ -2393,9 +2392,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2560,11 +2559,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "LegalTech",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2820,10 +2819,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "B2B",
         "Productivity",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3095,18 +3094,18 @@
       ],
       "locations": "Atlanta, GA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "SaaS",
         "Computer Vision",
-        "Manufacturing",
-        "AI"
+        "Manufacturing"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761108820.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/71ad9848dee44fa1e200195ee6353abc91a10e19.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e556d72ba8162e6d77731f52ccea802c98b54fa3.png"
     },
     {
       "id": 30894,
@@ -3163,10 +3162,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Open Source",
-        "Cloud Computing",
-        "AI"
+        "Cloud Computing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3360,12 +3359,12 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Design Tools"
+        "Design Tools",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758754473.0,
@@ -3559,9 +3558,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3758,10 +3757,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Sports Tech",
         "Computer Vision",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3893,11 +3892,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3995,11 +3994,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Analytics",
-        "Monitoring"
+        "Monitoring",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4191,11 +4190,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4455,7 +4454,7 @@
       "name": "Parrot",
       "slug": "parrot",
       "website": "https://parrotapp.com/",
-      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $101K MRR doubling every 2 months with power users scrolling for 6 hours/week on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
+      "description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $102K MRR doubling every 2 months with power users scrolling for 6 hours/week on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we\u2019re building the first language platform that actually works.",
       "one_liner": "TikTok for language learning",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4479,18 +4478,18 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1758577465.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ada36353c9ee05d690e49a75df0aab404df3a63d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d19734bc98923c187a6b5dd16c4ee4be8eacc37.png"
     },
     {
       "id": 30847,
       "name": "Brickwise",
       "slug": "brickwise",
       "website": "https://www.brickwiseai.com",
-      "description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving payments.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
+      "description": "We've built an AI property manager that automates maintenance for real estate agents. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving payments.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
       "one_liner": "AI property manager for landlords and estate agents",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "Real Estate and Construction",
       "subindustry": "Real Estate and Construction -> Housing and Real Estate",
       "industries": [
@@ -4732,8 +4731,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Design"
+        "Design",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4919,7 +4918,7 @@
       "name": "Fernstone",
       "slug": "fernstone",
       "website": "https://www.fernstone.com",
-      "description": "Fernstone is an AI-powered insurance brokerage for high risk businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Bryant, James\u2019 classmate from high school, was a Software Engineer at SentiLink and Google.\r\n",
+      "description": "Fernstone is an AI-powered insurance brokerage for high-risk businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba\u2019s largest customers like JB Hunt and Kimberly Clark. James created and led Traba\u2019s Enterprise function, growing it to 25% of company revenue. Bryant, James\u2019 classmate from high school, was a Software Engineer at SentiLink and Google.\r\n",
       "one_liner": "AI-powered insurance brokerage for high-risk businesses.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -5224,5 +5223,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-01T00:04:12.349186"
+  "fetched_at": "2025-12-01T06:01:14.167095"
 }
