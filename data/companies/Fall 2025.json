@@ -507,7 +507,7 @@
       "slug": "lunabill",
       "website": "https://lunabill.com/",
       "description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for the 80% of the daily workload of a healthcare billing team, with each call averaging 30 minutes.\r\n\r\nSince our launch in July we are now at $764K in contracted ARR, of which $428K is live revenue and the rest will go live by January 2026. Our customers see a 10x increase in claims followed up per biller in the first week and we have converted 100% of pilots to paying customers. We have automated 50,000+ calls and signed partnerships with top healthcare leaders like UC health systems, Mayo, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David founded Skiesoft, Taiwan\u2019s biggest healthcare AI scribe company, used by 120k+ healthcare professionals. He also worked as a data scientist at UCSF, building models to audit medical-coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.\r\n",
-      "one_liner": "AI Voice callers for healthcare billing teams.",
+      "one_liner": "AI Voice callers for healthcare billing teams",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -756,11 +756,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Social Media",
         "Video",
-        "Marketing",
-        "AI"
+        "Marketing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -937,7 +937,7 @@
       "name": "Miniswap",
       "slug": "miniswap",
       "website": "https://miniswap.gg/",
-      "description": "Miniswap a marketplace for the $20B tabletop games industry, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding what you want on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 20,000 unique miniatures. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $20B in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to expand its wedge into adjacent categories, bringing greater transparency, simplicity, and connectivity into additional tabletop games and collectibles verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer and early modern history. They have been best friends ever since. ",
+      "description": "Miniswap a marketplace for complex hobbies, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding what you want on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 20,000 unique miniatures. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $20B in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to bringing greater transparency, simplicity, and connectivity into adjacent verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer and early modern history. They have been best friends ever since. ",
       "one_liner": "The Marketplace for Complex Hobbies",
       "batch": "Fall 2025",
       "status": "Active",
@@ -2292,10 +2292,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Design",
-        "Design Tools",
-        "AI"
+        "Design Tools"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2613,7 +2613,7 @@
       "slug": "rovr",
       "website": "https://www.withrovr.com/",
       "description": "Rovr streamlines engineering operations by automating intake, triage, routing, and cross-team coordination. It replaces internal forms, manual Slack triage, and scattered docs with an AI front desk that understands requests, assigns owners, updates context, and posts status changes directly into Slack. Rovr\u2019s built-in ops CRM gives teams a single system of record for eng requests \u2014 from tooling access to platform incidents to dev-infra workflows \u2014 reducing operational drag across the entire org.",
-      "one_liner": "AI Ops Engine that runs your engineering workflows",
+      "one_liner": "AI FDE Engine that runs your engineering workflows",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -2629,9 +2629,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2820,10 +2820,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "B2B",
         "Productivity",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3544,7 +3544,7 @@
       "slug": "hypercubic",
       "website": "https://www.hypercubic.ai/",
       "description": "Hypercubic is an AI-native maintenance and modernization platform for COBOL and mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s\u201390s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems to future-proof the backbone of the global economy.\r\n\r\n\r\nLearn more at hypercubic.ai",
-      "one_liner": "AI to maintain and modernize COBOL/mainframes.",
+      "one_liner": "AI to maintain and modernize COBOL.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3559,9 +3559,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4175,7 +4175,7 @@
       "name": "Aspect",
       "slug": "aspect-inc",
       "website": "https://aspect.inc",
-      "description": "When footage comes off a camera, media content teams spend hours organizing their project, syncing across business tools, assembling rough drafts, reviewing for changes, and sending the right links to the right people and stakeholders.\r\n\r\nAspect is an AI platform that understands a team\u2019s video library and business workflows better than humans. The platform automates the entire enterprise production process, so  instead of managing corporate back-office tasks, creatives can focus on what they love while companies achieve higher ROI on their content.",
+      "description": "When footage comes off a camera, media teams spend hours organizing their project, syncing across business tools, assembling rough drafts, reviewing for changes, and sending the right links to the right people and stakeholders.\r\n\r\nAspect is an AI platform that understands a team\u2019s video library and business workflows better than humans. The platform automates the entire enterprise production process, so  instead of managing back-office tasks, creatives can focus on what they love while companies achieve higher ROI on their content.",
       "one_liner": "AI system of record for enterprise media content",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4867,11 +4867,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
         "Entertainment",
         "Social",
-        "Music",
-        "AI"
+        "Music"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4955,7 +4955,7 @@
       "slug": "nori",
       "website": "https://nori.ai",
       "description": "Nori is a concierge-level AI health coach in your pocket. \r\n\r\nIt takes all of your health data\u2014Apple Health, medical records, wearables, everything\u2014and boils it down into a personalized daily plan.\r\n\r\nUsers love it: \u201cIt's truly one of the best apps and I check it first every day. Since using Nori, I've been limiting devices in bed and eating earlier\u2014and I'll be damned if it's not working... I started getting more deep sleep, my resting HR dropped to 43, my recovery improved.\u201d\u2014Jen, Nori user\"\r\n",
-      "one_liner": "Nori is a concierge-level AI health coach in your pocket",
+      "one_liner": "AI health coach in your pocket",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
@@ -4973,11 +4973,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer Health Services",
         "Health Tech",
         "Digital Health",
-        "Health & Wellness",
-        "AI"
+        "Health & Wellness"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5075,11 +5075,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Robotic Process Automation",
         "Logistics",
         "Retail",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5143,9 +5143,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Smart Home Assistants",
         "Robotics",
-        "AI",
         "Home Automation"
       ],
       "stage": "Early",
@@ -5224,5 +5224,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-11-30T18:01:08.226387"
+  "fetched_at": "2025-12-01T00:04:12.349186"
 }
