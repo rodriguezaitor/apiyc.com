@@ -102,6 +102,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73f3aa66598c20f8f95198d12fb07e005357d63.png"
     },
     {
+      "id": 31080,
+      "name": "Didit",
+      "slug": "didit",
+      "website": "https://didit.me/",
+      "description": "Didit is an AI-native, developer-first identity verification platform that makes KYC, AML, and fraud prevention instant, flexible, and transparent, with a seamless user experience and more than 70% lower costs.",
+      "one_liner": "AI-native, developer-first identity verification platform",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 12,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Identity",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1764601102.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png"
+    },
+    {
       "id": 31062,
       "name": "Hlabs",
       "slug": "hlabs",
@@ -205,5 +240,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-01T12:01:31.233216"
+  "fetched_at": "2025-12-01T18:01:15.122637"
 }

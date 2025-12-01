@@ -1072,7 +1072,7 @@
       "name": "Exonic",
       "slug": "exonic",
       "website": "https://exonic.ai",
-      "description": "Exonic is building a global network of intelligence to cure all disease.\r\n\r\nWe are the first drug discovery company open to everyone.\r\n\r\nToday drug discovery is siloed - secretive, adversarial institutions in glass towers.\r\n\r\nBiological AI is changing the rules. Every day drug discovery becomes more of a computational problem.\r\n\r\nExonic is turning drug discovery into an open, meritocratic tournament.\r\n\r\nWe are advised by world leaders in bio AI, including the former Head of AI at Ginkgo Bioworks, and the first author of Evo (cover of Science). \r\n\r\nAll of the best biological AI models are open source. And on Exonic, you can combine them, prompt them, and share your innovative workflows without writing a single line of code. \r\n\r\nUsing Exonic Studio, we just beat a state-of-the-art benchmark in liver cancer (HepG2) synthetic enhancer design, validated in our wet lab.\r\n\r\nThe platform just went live - you can start right now.\r\n\r\nWe are turning the internet into a drug discovery powerhouse.",
+      "description": "Exonic is building a global network of intelligence to cure disease.\r\n\r\nWe are the first drug discovery company open to everyone.\r\n\r\nToday drug discovery is siloed - secretive, adversarial institutions in glass towers.\r\n\r\nBiological AI is changing the rules. Every day drug discovery becomes more of a computational problem.\r\n\r\nExonic is turning drug discovery into an open, meritocratic tournament.\r\n\r\nWe are advised by world leaders in bio AI, including the former Head of AI at Ginkgo Bioworks, and the first author of Evo (cover of Science). \r\n\r\nAll of the best biological AI models are open source. And on Exonic, you can combine them, prompt them, and share your innovative workflows without writing a single line of code. \r\n\r\nUsing Exonic Studio, we just beat a state-of-the-art benchmark in liver cancer (HepG2) synthetic enhancer design, validated in our wet lab.\r\n\r\nThe platform just went live - you can start right now.\r\n\r\nWe are turning the internet into a drug discovery powerhouse.",
       "one_liner": "Crowdsourcing drug discovery.",
       "batch": "Fall 2025",
       "status": "Active",
@@ -1620,10 +1620,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Computational Storage",
         "Video",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1719,15 +1719,15 @@
       ],
       "locations": "Palo Alto, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Robotics"
+        "Robotics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761067885.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f2a6591f096e6356bfe5a8702040b4f6d445544.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48ccf720589ff151d68e0ac6f27d06b351f3fb69.png"
     },
     {
       "id": 30946,
@@ -1751,11 +1751,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "DevSecOps",
         "B2B",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2310,7 +2310,7 @@
       "slug": "thesis",
       "website": "https://thesislabs.ai",
       "description": "Thesis is building the engine for discovery. Our aim is to help uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved.\r\n\r\nThesis empowers:\r\n\u2022 Climate and risk teams to predict rare weather events and protect lives.\r\n\u2022 Industry teams to uncover deep patterns in massive datasets.\r\n\u2022 Pure scientists to reveal hidden structures and relationships in nature.\r\n\u2022 Frontier research labs to push the boundaries of what\u2019s scientifically possible.\r\n\u2022 Hedge funds to spin up one-shot models that find alpha and compound it.\r\n\u2022 Creative teams to build models that generate full-length Netflix films.\r\n\r\nThesis lets anyone build powerful machine learning models for anything they can imagine. The mission is to democratize invention by putting machine intelligence in everyone\u2019s hands.\r\n\r\nEvery major breakthrough in the next decade, in science, industry, or AI, will be built on systems like Thesis. \r\n\r\nWe intend to define that category.",
-      "one_liner": "The AI discovery engine.",
+      "one_liner": "The scientific discovery engine.",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2325,7 +2325,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3844,7 +3844,7 @@
       "name": "Norra",
       "slug": "norra",
       "website": "https://www.norra.io",
-      "description": "Nursing facilities are bleeding money and staff time due to operational chaos. They have zero visibility into their equipment and operations, leading to over-purchasing, equipment failures, and nurses spending hours hunting for things instead of caring for patients.\r\n\r\nNorra creates a real-time view of everything happening in the facility. We use AI and autonomous tracking to transform operational chaos into proactive decision-making. Instead of reacting to equipment failures or over-purchasing because they can't find what they own, facilities get actionable insights that prevent waste before it happens.",
+      "description": "Norra helps nursing facilities manage equipment operations. Every year, ~$80 billion are spent on medical equipment like beds, concentrators, and wheelchairs, but nursing facilities continue to operate with zero visibility. This leads to $15 billion in waste every year. We use physical trackers and AI agents to eliminate this.",
       "one_liner": "Automating equipment operations for nursing facilities",
       "batch": "Fall 2025",
       "status": "Active",
@@ -3860,9 +3860,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Hardware",
         "Health Tech",
-        "Healthcare",
-        "AI"
+        "Logistics",
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4174,7 +4176,7 @@
       "name": "Aspect",
       "slug": "aspect-inc",
       "website": "https://aspect.inc",
-      "description": "When footage comes off a camera, media teams spend hours organizing their project, syncing across business tools, assembling rough drafts, reviewing for changes, and sending the right links to the right people and stakeholders.\r\n\r\nAspect is an AI platform that understands a team\u2019s video library and business workflows better than humans. The platform automates the entire enterprise production process, so  instead of managing back-office tasks, creatives can focus on what they love while companies achieve higher ROI on their content.",
+      "description": "When footage comes off a camera today, media teams still lose hours dumping files into generic storage, renaming and sorting folders, hunting for past shots, assembling rough cuts by hand, and passing around review links in Slack and email.\r\n\r\nAspect is an AI-native video file system that understands a team\u2019s library and day-to-day workflows. Today, teams use Aspect to migrate footage from Dropbox/Drive/servers into a single library, search it through chat (\u201cshow me where Dr. Brown used a robotic forcep\u201d), leave timestamped feedback and mark up frames, generate rough draft sequences, and automatically route the right clips into tools like ClickUp and Slack. The platform offloads the organizing, searching and routing work, so teams can spend more time making content and companies can achieve a higher ROI on their library.",
       "one_liner": "AI system-of-record for enterprise media content",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4436,9 +4438,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Manufacturing",
-        "AI",
         "Automotive",
         "Industrial"
       ],
@@ -5223,5 +5225,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-01T12:01:21.864625"
+  "fetched_at": "2025-12-01T18:01:13.638653"
 }
