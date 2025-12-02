@@ -100,9 +100,9 @@
       "id": 30357,
       "name": "Vantel",
       "slug": "vantel",
-      "website": "https://vantel.ai/",
-      "description": "Vantel builds AI software for commercial insurance brokers.\r\n\r\nOur first product doubles their productivity by automating policy analysis and contract review.",
-      "one_liner": "AI Software for Commercial Insurance Brokers",
+      "website": "https://vantel.com/",
+      "description": "AI-native operating system for commercial insurance brokerages.",
+      "one_liner": "AI Platform for Commercial Insurance Brokerages",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -116,13 +116,17 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Documents",
+        "Insurance",
+        "CRM"
+      ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738065592.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc647dd0c7dae0df2edd49f137d03e3894442886.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/882e8b4377acdc7c7f1830babf0cd1f7b2e00058.png"
     },
     {
       "id": 30356,
@@ -2372,7 +2376,7 @@
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare Services",
+      "subindustry": "Healthcare",
       "industries": [
         "Healthcare"
       ],
@@ -5352,5 +5356,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-12-02T12:01:16.213572"
+  "fetched_at": "2025-12-02T18:01:13.944987"
 }

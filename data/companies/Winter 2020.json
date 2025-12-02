@@ -3662,43 +3662,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b949041fc34a7a6df68747d882e4e62e59539dd.png"
     },
     {
-      "id": 13147,
-      "name": "Replicate",
-      "slug": "replicate",
-      "website": "https://replicate.com",
-      "description": "",
-      "one_liner": "Run machine learning models in the cloud",
-      "batch": "Winter 2020",
-      "status": "Active",
-      "team_size": 36,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Machine Learning",
-        "Community",
-        "Open Source",
-        "AI"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1647283616.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/256be79b4f9ac851425e3bf2a60af5ae33ca72ba.png"
-    },
-    {
       "id": 13144,
       "name": "Datasaur",
       "slug": "datasaur",
@@ -5647,6 +5610,43 @@
       "is_top_company": false,
       "launched_at": 1583912447.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/afe13310a848a2ef138ab3158074979910802e67.png"
+    },
+    {
+      "id": 13147,
+      "name": "Replicate",
+      "slug": "replicate",
+      "website": "https://replicate.com",
+      "description": "",
+      "one_liner": "Run machine learning models in the cloud",
+      "batch": "Winter 2020",
+      "status": "Acquired",
+      "team_size": 36,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Machine Learning",
+        "Community",
+        "Open Source",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1647283616.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/256be79b4f9ac851425e3bf2a60af5ae33ca72ba.png"
     },
     {
       "id": 13146,
@@ -7752,5 +7752,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
     }
   ],
-  "fetched_at": "2025-12-02T12:01:13.778521"
+  "fetched_at": "2025-12-02T18:01:11.435366"
 }
