@@ -2366,16 +2366,15 @@
       "name": "Cenote",
       "slug": "cenote",
       "website": "https://www.joincenote.com/",
-      "description": "Cenote uses AI to automate the back office for medical practices \u2014 eliminating the bottlenecks that often delay patient care and clinic revenue.\r\n\r\nTypically, practices hire teams to manually extract patient info from hundreds to thousands of faxes a week. This slow process risks losing patients to faster competitors. Cenote\u2019s software streamlines this workflow. \r\n\r\nThere are 330,000 medical practices in the U.S Capturing $50,000 per practice presents a $16.5 Billion opportunity.\r\n\r\nThe team behind Cenote\u2014Kofi, Ajani, and Kristy\u2014met in San Francisco and bring deep expertise in building scalable solutions for highly-regulated industries such as climate and gov tech.",
-      "one_liner": "Automate back office tasks for medical clinics",
+      "description": "Cenote builds AI sales reps for online health clinics and deploys them for abandoned-cart and win-back campaigns.\r\n\r\nToday, digital and telehealth clinics rely on generic text blasts or human follow-up for speed-to-lead and customer reactivation. Since the lead has often gone cold and the outreach isn\u2019t personalized, conversion is frequently below 1%.\r\n\r\nCenote\u2019s AI agents reach out immediately, communicate on the patient\u2019s preferred schedule, and operate across channels\u2014dramatically increasing conversion rates and unlocking revenue that otherwise goes unrealized.",
+      "one_liner": "AI agents that convert and retain patients for digital clinics",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare Services",
       "industries": [
-        "Healthcare",
-        "Healthcare Services"
+        "Healthcare"
       ],
       "regions": [
         "United States of America",
@@ -2383,11 +2382,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Robotic Process Automation",
         "Health Tech",
         "B2B",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5353,5 +5352,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-12-02T00:02:58.339412"
+  "fetched_at": "2025-12-02T06:01:18.806532"
 }

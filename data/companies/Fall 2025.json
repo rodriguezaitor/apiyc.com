@@ -455,9 +455,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "No-code",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -589,11 +589,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Video",
         "Media",
-        "Creator Economy"
+        "Creator Economy",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2325,7 +2325,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3162,10 +3162,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Open Source",
-        "Cloud Computing"
+        "Cloud Computing",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3387,15 +3387,10 @@
         "Content"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "Video",
-        "Creator Economy"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3844,7 +3839,7 @@
       "name": "Norra",
       "slug": "norra",
       "website": "https://www.norra.io",
-      "description": "Norra helps nursing facilities manage equipment operations. Every year, ~$80 billion are spent on medical equipment like beds, concentrators, and wheelchairs, but nursing facilities continue to operate with zero visibility. This leads to $15 billion in waste every year. We use physical trackers and AI agents to eliminate this.",
+      "description": "Norra helps nursing facilities manage equipment operations. Every year, ~$80 billion are spent on medical equipment like beds, concentrators, and wheelchairs. Nursing facilities continue to operate with zero visibility which leads to $15 billion in equipment waste every year. We use physical trackers and AI agents to eliminate this.",
       "one_liner": "Automating equipment operations for nursing facilities",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4226,10 +4221,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Biotech",
         "Compliance",
+        "AI",
         "Biotechnology"
       ],
       "stage": "Early",
@@ -4670,9 +4665,9 @@
       ],
       "locations": "Stockholm, Stockholm County, Sweden",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Construction"
+        "Construction",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5225,5 +5220,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-02T00:02:58.626753"
+  "fetched_at": "2025-12-02T06:01:19.130144"
 }
