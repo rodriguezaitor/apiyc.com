@@ -219,17 +219,17 @@
       "id": 26290,
       "name": "Mono",
       "slug": "mono-2",
-      "website": "https://www.cuentamono.com/",
-      "description": "We offer a corporate bank account that integrates with accounting, tax and payroll systems allowing SMEs owners in LatAm manage their business in just one place.",
-      "one_liner": "A bank account that integrates LatAm SMEs' finances and operations.",
+      "website": "https://mono.la",
+      "description": "Mono provides an API-first platform that lets any company in LatAm offer financial capabilities, wallets, real-time payouts (Bre-B), Visa cards, and multi-rail bank transfer without becoming a fintech.",
+      "one_liner": "Embedded finance infrastructure for LatAm enterprises.",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 18,
+      "team_size": 30,
       "industry": "Fintech",
-      "subindustry": "Fintech -> Banking and Exchange",
+      "subindustry": "Fintech -> Payments",
       "industries": [
         "Fintech",
-        "Banking and Exchange"
+        "Payments"
       ],
       "regions": [
         "Colombia",
@@ -240,6 +240,7 @@
       "locations": "Bogot\u00e1, Bogota, Colombia; Remote",
       "tags": [
         "Fintech",
+        "Payments",
         "Neobank"
       ],
       "stage": "Early",
@@ -13813,5 +13814,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-12-01T18:01:12.503953"
+  "fetched_at": "2025-12-02T00:02:53.909689"
 }

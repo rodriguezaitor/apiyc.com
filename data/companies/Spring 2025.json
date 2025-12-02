@@ -4346,18 +4346,12 @@
         "Operations"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Compliance",
-        "Automation",
-        "Call Center",
-        "Operations"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748272733.0,
@@ -4644,5 +4638,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-12-01T18:01:13.758553"
+  "fetched_at": "2025-12-02T00:02:59.307062"
 }

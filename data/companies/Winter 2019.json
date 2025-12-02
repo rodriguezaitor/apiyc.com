@@ -937,41 +937,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bbbc0b138970d664365f112bc20022470751139.png"
     },
     {
-      "id": 12264,
-      "name": "Frubana Inc",
-      "slug": "frubana-inc",
-      "website": "https://www.frubana.com",
-      "description": "",
-      "one_liner": "The everything store for restaurants in LATAM.",
-      "batch": "Winter 2019",
-      "status": "Active",
-      "team_size": 384,
-      "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "regions": [
-        "Brazil",
-        "Latin America",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "S\u00e3o Paulo, SP, Brazil",
-      "tags": [
-        "Fintech",
-        "B2B",
-        "Logistics"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1543988071.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de610cdaa1b45fc16f2be037082405d108ec145d.png"
-    },
-    {
       "id": 12263,
       "name": "Rune",
       "slug": "rune",
@@ -5481,6 +5446,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a864736635415469c6ff1a5b71a52b880d8e38c1.png"
     },
     {
+      "id": 12264,
+      "name": "Frubana Inc",
+      "slug": "frubana-inc",
+      "website": "https://www.frubana.com",
+      "description": "",
+      "one_liner": "The everything store for restaurants in LATAM.",
+      "batch": "Winter 2019",
+      "status": "Inactive",
+      "team_size": 384,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "Brazil",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "S\u00e3o Paulo, SP, Brazil",
+      "tags": [
+        "Fintech",
+        "B2B",
+        "Logistics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1543988071.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de610cdaa1b45fc16f2be037082405d108ec145d.png"
+    },
+    {
       "id": 12258,
       "name": "Datamode",
       "slug": "datamode",
@@ -6558,5 +6558,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-12-01T18:01:13.344613"
+  "fetched_at": "2025-12-02T00:02:57.437307"
 }

@@ -1692,7 +1692,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "Los Angeles, CA, USA",
       "tags": [
         "Marketplace"
       ],
@@ -4734,8 +4734,8 @@
       "name": "SID",
       "slug": "sid",
       "website": "https://www.sid.ai",
-      "description": "We make it easy for developers to connect data to their LLM apps. Instead of spending months on integrations and retrieval pipelines, Reworkd's AgentGPT added our button in an afternoon and let thousands of people connect their Notion, email and Drive instantly.\r\n\r\nEvery single AI company is building data retrieval. Currently, they're doing this from scratch \u2013 we don't think they should have to. Just like OpenAI made working with LLMs as simple as an API call, SID makes it easy for every AI company to access data the same way.",
-      "one_liner": "Serverless RAG to connect AI to company, industry, or person-specific\u2026",
+      "description": "SID is an AI research lab based in San Francisco. We train models that can retrieve and reason over any data source.",
+      "one_liner": "AI research lab for retrieval",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 4,
@@ -4746,10 +4746,15 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Infrastructure",
+        "AI"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -5102,7 +5107,7 @@
       ],
       "locations": "",
       "tags": [],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7384,5 +7389,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-12-01T18:01:13.195465"
+  "fetched_at": "2025-12-02T00:02:56.830748"
 }
