@@ -2723,7 +2723,7 @@
       "name": "Palmier",
       "slug": "palmier",
       "website": "https://www.palmier.io",
-      "description": "Palmier is building SixSeven Labs, am AI-native storyboard and video creation platform. We help creators, brands, and teams turn scripts and ideas into cinematic videos, complete with scenes, shots, and consistent visual style. Edit storyboard, generate images and footage with leading AI models, and build high-quality videos faster and easier than ever.",
+      "description": "Palmier is building an AI-native storyboard and video creation platform. We help creators, brands, and teams turn scripts and ideas into cinematic videos, complete with scenes, shots, and consistent visual style. Edit storyboard, generate images and footage with leading AI models, and build high-quality videos faster and easier than ever.",
       "one_liner": "From idea to cinematic videos in seconds",
       "batch": "Summer 2024",
       "status": "Active",
@@ -2740,10 +2740,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Consumer",
-        "Video"
+        "Video",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8259,5 +8259,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-12-03T06:01:05.931431"
+  "fetched_at": "2025-12-03T12:01:13.925796"
 }
