@@ -978,7 +978,7 @@
       "one_liner": "Transparent, AI-powered healthcare TPA.",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 8,
       "industry": "Healthcare",
       "subindustry": "Healthcare",
       "industries": [
@@ -1314,38 +1314,40 @@
     },
     {
       "id": 29465,
-      "name": "GoldenBasis",
-      "slug": "goldenbasis",
-      "website": "https://www.goldenbasis.com",
-      "description": "GoldenBasis makes modern back-office software for brokerages like Schwab or Fidelity, and we\u2019re starting with asset transfers. Every year, $1.1 trillion in assets are transferred between brokerages using decades-old software. Brokerages hire thousands of people to compensate but still lose revenue from abandoned transfers. We solve this problem by automating back-office workflows with AI.",
-      "one_liner": "Modern back-office software for brokerages",
+      "name": "Polar",
+      "slug": "polar",
+      "website": "https://www.polarfi.com",
+      "description": "Polar helps remote workers, freelancers, and ship crew manage their USD earnings globally. Using Polar, you can:\r\n1. Get a U.S. bank account in minutes with just your phone and local ID\r\n2. Send money to 120+ countries faster and cheaper than alternatives\r\n3. Earn 2-6% interest on USD savings\r\n4. Invest in gold, Bitcoin, and Ethereum 24/7, starting with $1",
+      "one_liner": "The smarter way to manage USD earnings globally",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
       "industry": "Fintech",
-      "subindustry": "Fintech -> Banking and Exchange",
+      "subindustry": "Fintech -> Consumer Finance",
       "industries": [
         "Fintech",
-        "Banking and Exchange"
+        "Consumer Finance"
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "San Francisco, CA, USA; Remote",
       "tags": [
         "Fintech",
-        "API",
-        "Enterprise Software",
-        "Infrastructure",
-        "Operations"
+        "Crypto / Web3",
+        "Investing",
+        "Remittances",
+        "Neobank"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1708655609.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b502f86e93aee645281246992225fb07dc00ad38.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67ca9f40a361ea65885c3e75244352a9f9f8a46.png"
     },
     {
       "id": 29463,
@@ -8259,5 +8261,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-03T00:02:53.593388"
+  "fetched_at": "2025-12-03T06:01:05.545048"
 }
