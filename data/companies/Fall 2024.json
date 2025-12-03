@@ -2245,8 +2245,8 @@
       "name": "Raycaster",
       "slug": "raycaster",
       "website": "https://raycaster.ai",
-      "description": "Raycaster is the enterprise AI engine for life sciences. From speeding up regulatory approval and manufacturing tech transfer, Raycaster advances the Industry 4.0 initiatives with world's leading life sciences companies. ",
-      "one_liner": "Enterprise AI for life sciences",
+      "description": "Raycaster is regulatory intelligence for biopharma documents - think Cursor for regulated content, helping medical writers and CMC teams draft, edit, and review submissions much faster.",
+      "one_liner": "AI for life sciences documents",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 3,
@@ -2264,10 +2264,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Biotech",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2625,7 +2625,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730739931.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/25be37475616d06861cf90a8c0fa61b3c3cf29ae.png"
     },
     {
       "id": 30023,
@@ -3017,5 +3017,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-12-02T18:01:18.133377"
+  "fetched_at": "2025-12-03T00:02:55.028691"
 }

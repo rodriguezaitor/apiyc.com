@@ -240,7 +240,7 @@
       "name": "Bear",
       "slug": "bear",
       "website": "https://usebear.ai",
-      "description": "We help companies get recommended by AI agents, and convert that traffic into high-intent leads.\r\n\r\nWhen someone asks ChatGPT, Claude, Perplexity, or any other agent for product recommendations, we make sure our customers are the ones that show up.\r\n\r\nAnd when those users click through, Bear tells our customers exactly who landed on their site and which AI agent sent them, turning this into one of the highest-intent acquisition channels ever discovered.",
+      "description": "Bear helps companies capture and convert the highest-intent leads on the internet - visitors clicking from ChatGPT, Perplexity, and other AI agents. Bear owns the entire funnel from agent discovery to conversion. ",
       "one_liner": "Marketing Stack for AI Agents",
       "batch": "Fall 2025",
       "status": "Active",
@@ -289,9 +289,9 @@
       ],
       "locations": "San Mateo, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1323,9 +1323,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "FinOps",
         "Compliance",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -1871,8 +1871,8 @@
       "name": "Scott AI",
       "slug": "scott-ai",
       "website": "https://tryscott.ai",
-      "description": "Scott AI is the agentic workspace where teams align on specs before any codegen runs.\r\n\r\nTeams use multiple coding agents. Different agents will have different strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent on a critical DB migrations in parallel. These execution agents can\u2019t be used for plan alignment because they are biased to their own tool. Scott is the missing layer that will link agent agnostic high-level intent to code agent workloads. Teams will use Scott as their shared decision layer to structure plans, surface tradeoffs, and empower developers to determine which parts of the plan each coding agent should handle.",
-      "one_liner": "Agentic Workspace for Software Spec Design",
+      "description": "Scott AI is the agentic workspace where teams align before any codegen runs.\r\n\r\nTeams use multiple coding agents. Different agents will continue to evolve to have different strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent on a critical DB migrations. These execution agents cannot be the alignment layer because they are biased to their own tool, they are not neutral. Scott is the neutral, agent agnostic decision layer for the age of multi agent building. Teams will use Scott as their decision workspace to finally ditch google docs and notion as their primary alignment layer.",
+      "one_liner": "Agentic Workspace for Engineering Team Alignment",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2754,11 +2754,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Construction",
         "B2B",
         "Workflow Automation",
-        "Architecture",
-        "AI"
+        "Architecture"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3453,9 +3453,9 @@
       ],
       "locations": "Mountain View, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
-        "Design Tools"
+        "Design Tools",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3686,8 +3686,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Security"
+        "Security",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3855,11 +3855,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Health Tech",
         "Logistics",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3889,11 +3889,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4206,7 +4206,7 @@
       "slug": "scoop",
       "website": "https://scooplabs.ai",
       "description": "We\u2019re building AI agents that speed up drug trials by automating the manual consolidation and document prep required for every IND submission. Today, biotechs spend months stitching together reports from contractors and internal teams just to file and get to their first-in-human trial.",
-      "one_liner": "AI-Platform replacing pharma consultants",
+      "one_liner": "Automating regulatory submissions for life sciences",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -4221,10 +4221,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
         "Biotech",
         "Compliance",
-        "AI",
         "Biotechnology"
       ],
       "stage": "Early",
@@ -4433,9 +4433,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Manufacturing",
+        "AI",
         "Automotive",
         "Industrial"
       ],
@@ -5220,5 +5220,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-02T18:01:14.332898"
+  "fetched_at": "2025-12-03T00:02:54.378116"
 }
