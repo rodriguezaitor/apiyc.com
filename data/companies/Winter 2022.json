@@ -5616,11 +5616,11 @@
       "name": "Cotera",
       "slug": "cotera",
       "website": "https://cotera.co",
-      "description": "Cotera is an AI platform that helps companies understand what their customers are telling them. We integrate directly with the data warehouse, which allows us to derive actionable insights with the full context of all a company's data.",
-      "one_liner": "AI for customer experience.",
+      "description": "Cotera is an AI agent platform that connects directly to your data warehouse and APIs, enabling businesses to build agents that take actions across their systems. With built-in tools, a visual workflow editor, and fine-grained control, teams can deploy agents at scale for use cases like intelligent ticket routing, voice-of-customer analysis, and proactive customer health monitoring.",
+      "one_liner": "The fastest way to build an AI agent",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -5628,12 +5628,12 @@
         "Analytics"
       ],
       "regions": [
-        "United Kingdom",
-        "Europe",
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "London, England, United Kingdom",
+      "locations": "New York, NY, USA",
       "tags": [
         "Artificial Intelligence",
         "Analytics",
@@ -5644,7 +5644,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1642161735.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68e9104206256340ae04a4b5732c8e4eb8354637.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da86c6270a952e3754642d98f2af8c61324b171.png"
     },
     {
       "id": 25679,
@@ -6404,7 +6404,7 @@
       "status": "Active",
       "team_size": 35,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
         "Engineering, Product and Design"
@@ -13814,5 +13814,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-12-03T12:01:11.530981"
+  "fetched_at": "2025-12-03T18:01:04.439946"
 }
