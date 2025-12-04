@@ -1188,18 +1188,12 @@
         "Sales"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Sales",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1761723346.0,
@@ -4187,11 +4181,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5253,5 +5247,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-04T06:01:32.937615"
+  "fetched_at": "2025-12-04T12:01:26.888043"
 }

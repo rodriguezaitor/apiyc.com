@@ -547,12 +547,12 @@
       "id": 23599,
       "name": "Shepherd",
       "slug": "shepherd",
-      "website": "https://withshepherd.com",
+      "website": "https://shepherdinsurance.com",
       "description": "",
-      "one_liner": "Modernizing insurance for commercial construction",
+      "one_liner": "Modernizing commercial insurance",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 60,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -568,7 +568,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Construction",
-        "Insurance"
+        "Insurance",
+        "Energy"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -11537,5 +11538,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-12-04T06:01:26.618482"
+  "fetched_at": "2025-12-04T12:01:21.598280"
 }
