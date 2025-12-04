@@ -1760,8 +1760,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Data Labeling"
+        "AIOps",
+        "Reinforcement Learning",
+        "Data Labeling",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6231,16 +6233,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "Travel",
-        "AI"
+        "Travel"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1721868567.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c29a51fe4495bb246b4aafa097f950601ff7e364.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/509f2048cdd77eab05ee8a3d68e8bbc31e9d9af1.png"
     },
     {
       "id": 29653,
@@ -6882,18 +6884,11 @@
         "Healthcare"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Machine Learning",
-        "Digital Health",
-        "Healthcare",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -8259,5 +8254,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-12-03T18:01:06.452481"
+  "fetched_at": "2025-12-04T00:02:56.673999"
 }

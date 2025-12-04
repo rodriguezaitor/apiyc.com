@@ -2477,8 +2477,8 @@
       "name": "Alai",
       "slug": "alai",
       "website": "https://getalai.com",
-      "description": "Alai  helps tech professionals create high quality presentations faster using AI. For example, a product manager can enter their proposal in plaintext and get polished slide options without spending hours on design.",
-      "one_liner": "Create high quality presentations faster using AI",
+      "description": "Alai makes it easy and quick to create high quality presentations with AI. Our users bring in their context and get a great first draft with 4 options for each slide in minutes. Alai has a responsive canvas made up of high-level build blocks which makes it easy for both humans and AI to iterate together to get to a polished presentation.",
+      "one_liner": "Create high quality presentations quickly using AI",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 5,
@@ -2491,7 +2491,10 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Productivity"
+      ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -3211,11 +3214,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
         "Computer Vision",
         "B2B",
-        "Video"
+        "Video",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -3863,8 +3866,8 @@
       "name": "Browser Buddy",
       "slug": "browser-buddy",
       "website": "https://www.browserbuddy.com/",
-      "description": "Browser Buddy is a personalized feed of thoughtful quotes, essays, and articles to make your phone-time more meaningful. ",
-      "one_liner": "A for-you page for the Internet",
+      "description": "Tell Browser Buddy your interests and goals to find useful writing from the best thinkers on the Internet. ",
+      "one_liner": "An AI buddy that curates your information diet ",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -4696,7 +4699,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1702859345.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f825e68bedd9d6fae6a9628ae002227d27ab4d2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png"
     },
     {
       "id": 29339,
@@ -6658,7 +6661,7 @@
       "one_liner": "The AI-native automated testing platform",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -8261,5 +8264,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-03T18:01:06.079151"
+  "fetched_at": "2025-12-04T00:02:56.183304"
 }

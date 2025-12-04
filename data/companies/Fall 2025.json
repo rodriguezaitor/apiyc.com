@@ -338,7 +338,7 @@
       "slug": "markit",
       "website": "https://markittrade.com",
       "description": "MarkIt builds AI agents that work directly inside the workflows trade professionals use every day \u2014 Excel, PDFs, broker portals, and more. \r\nFrom defensible classification, ACE report audits, and a self-updating system of record, it serves trade professionals end to end with agents intelligent enough to work in the complex environment. \r\n\r\nMarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations in the growingly intense world of Global Trade.",
-      "one_liner": "AI Agents for Trade Compliance",
+      "one_liner": "AI Agents for Trade Compliance - Saving Companies from Tariffs",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3586,9 +3586,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4155,9 +4155,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4258,11 +4258,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Machine Learning",
         "B2B",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5085,6 +5085,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png"
     },
     {
+      "id": 30591,
+      "name": "Autonomous Technologies Group",
+      "slug": "autonomous-technologies-group",
+      "website": "https://becomeautonomous.com/",
+      "description": "",
+      "one_liner": "Superintelligent financial advisor",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Consumer Finance",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1764806109.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1418e292df2ccff4d9598566261526adff42355d.png"
+    },
+    {
       "id": 30569,
       "name": "Fifth Door",
       "slug": "fifth-door",
@@ -5220,5 +5253,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-03T18:01:09.622109"
+  "fetched_at": "2025-12-04T00:03:00.311489"
 }
