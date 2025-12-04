@@ -3897,8 +3897,8 @@
       "name": "Orange Slice",
       "slug": "orange-slice",
       "website": "https://orangeslice.ai",
-      "description": "Orange Slice uses AI agents to crawl the internet for temporal signals/firmographic data that help sales teams find high-intent prospects by continuously monitoring the internet for buying signals and firmographic changes.\r\n\r\nOur agents scan millions of data sources - including company websites, news articles, job postings, press releases, and social media - to detect meaningful events such as leadership changes, product launches, funding rounds, hiring trends, and more. These insights are transformed into actionable sales signals that indicate a company\u2019s likelihood to purchase your product.\r\n\r\nWith Orange Slice, revenue teams can prioritize outreach, personalize messaging, and dramatically improve conversion rates by engaging the right accounts at the right time - based on what\u2019s actually happening, not just static firmographics.",
-      "one_liner": "AI agents that find you customers who already want to buy",
+      "description": "Orange Slice is a spreadsheet where every column is TypeScript\u2014and AI writes it for you. Describe what you want in chat (\"find the CEO's LinkedIn and get their email\"), and we generate the code, create the columns, and run it across thousands of rows. Our fully-typed SDK has 100+ enrichments built in: LinkedIn, contact info, company data, web scraping, AI research. Columns automatically execute in dependency order. No workflow builders\u2014just describe it or code it.",
+      "one_liner": "Typescript-based sales workflow builder",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4296,7 +4296,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753480338.0,
@@ -5397,5 +5397,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-12-04T00:02:59.539891"
+  "fetched_at": "2025-12-04T06:01:32.028089"
 }
