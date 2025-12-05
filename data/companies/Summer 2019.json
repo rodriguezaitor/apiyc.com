@@ -3577,38 +3577,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d1d486d4edef6bd293253ef438f3cf9c1880507.png"
     },
     {
-      "id": 12502,
-      "name": "Bun",
-      "slug": "bun",
-      "website": "https://bun.sh",
-      "description": "Bun is an incredibly fast all-in-one toolkit for building, installing, running, and testing JavaScript and TypeScript. We were born out of frustration with the fragmented, slow JavaScript ecosystem and are on a mission to make JavaScript development faster and more productive.",
-      "one_liner": "Bun is an incredibly fast all-in-one JavaScript toolkit",
-      "batch": "Summer 2019",
-      "status": "Active",
-      "team_size": 13,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "Open Source"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1746486339.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cf9201e83fba23f5038d47b722860fb10f40642.png"
-    },
-    {
       "id": 12454,
       "name": "Prenda",
       "slug": "prenda",
@@ -3715,7 +3683,7 @@
       "one_liner": "Your startup's all-in-one recruiting solution",
       "batch": "Summer 2019",
       "status": "Active",
-      "team_size": 25,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
@@ -3733,7 +3701,7 @@
         "B2B",
         "Recruiting"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4483,6 +4451,38 @@
       "is_top_company": false,
       "launched_at": 1554325626.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a599a24d933d5f21dc134891224337e7ef167a.png"
+    },
+    {
+      "id": 12502,
+      "name": "Bun",
+      "slug": "bun",
+      "website": "https://bun.sh",
+      "description": "Bun is an incredibly fast all-in-one toolkit for building, installing, running, and testing JavaScript and TypeScript. We were born out of frustration with the fragmented, slow JavaScript ecosystem and are on a mission to make JavaScript development faster and more productive.",
+      "one_liner": "Bun is an incredibly fast all-in-one JavaScript toolkit",
+      "batch": "Summer 2019",
+      "status": "Acquired",
+      "team_size": 13,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Open Source"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1746486339.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cf9201e83fba23f5038d47b722860fb10f40642.png"
     },
     {
       "id": 12425,
@@ -5958,5 +5958,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814065dd8c67cf86a199d92c81f0ecc107a14be0.png"
     }
   ],
-  "fetched_at": "2025-12-05T00:03:04.310008"
+  "fetched_at": "2025-12-05T06:01:09.154122"
 }
