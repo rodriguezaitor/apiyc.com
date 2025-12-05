@@ -515,7 +515,7 @@
       "one_liner": "Build software that never breaks",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -2916,16 +2916,15 @@
       "name": "Doe",
       "slug": "doe",
       "website": "https://doe.so/",
-      "description": "Doe embeds intelligent, task\u2011specific AI agents inside private\u2011equity\u2011owned service groups, starting with dental service organizations. The platform plugs into practice management, ERP, communication tools, and supplier catalogs to run procurement, approvals, scheduling, and analytics end\u2011to\u2011end, delivering immediate EBITDA lift and data visibility.",
-      "one_liner": "Autonomous AI workforce for PE roll-ups",
+      "description": "Doe is where AI agents actually do your work. Connect your tools, tell Doe what you need, and agents handle it. When you want to do something yourself, Doe makes you faster and smarter. The boring stuff disappears. Everything else gets better.",
+      "one_liner": "The boring stuff, handled. Everything else, supercharged.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "B2B",
       "industries": [
-        "B2B",
-        "Operations"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -2933,11 +2932,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "SaaS",
-        "Procurement",
-        "Data Visualization",
-        "AI"
+        "Productivity",
+        "Data Visualization"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3332,16 +3331,16 @@
       "name": "Tesora",
       "slug": "tesora",
       "website": "https://tesora.ai",
-      "description": "Tesora builds Digital Employees for manufacturers. Our sourcing analyst handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before.  ",
-      "one_liner": "Digital employees for manufacturing operations",
+      "description": "Tesora builds AI-Native Software for Operations and Finance Teams at enterprises, manufacturers, distributors, small and mid-market businesses.",
+      "one_liner": "AI-Native Software for Operations and Finance Teams",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Supply Chain and Logistics"
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -3349,10 +3348,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Supply Chain",
-        "Procurement"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4826,7 +4824,7 @@
       "slug": "acrely",
       "website": "https://www.acrely.ai",
       "description": "Acrely enables enterprises to build and deploy enterprise-grade voice agents. With both cloud and on-prem offerings, Acrely empowers organizations to leverage AI for customer service, sales, operations, and more.",
-      "one_liner": "AI CSR + Dispatch for HVAC",
+      "one_liner": "Enterprise Voice Agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4841,7 +4839,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "AI"
+        "Artificial Intelligence"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5397,5 +5395,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-12-04T18:01:13.410146"
+  "fetched_at": "2025-12-05T00:03:04.695472"
 }

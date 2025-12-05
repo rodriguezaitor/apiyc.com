@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 31215,
+      "name": "Bubble Lab",
+      "slug": "bubble-lab",
+      "website": "https://bubblelab.ai/",
+      "description": "Bubble Lab is an open-source Typescript-native workflow automation platform. Unlike tools that use proprietary JSON, you describe a workflow in natural language, and instantly get both a visual flow and fully-typed TypeScript code side-by-side. It offers built-in observability, testability, and scalability out of the box. \r\n",
+      "one_liner": "Open-source, Typescript-native agentic workflow builder ",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [
+        "Developer Tools",
+        "Workflow Automation",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1764881455.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png"
+    },
+    {
       "id": 31183,
       "name": "Patientdesk.ai",
       "slug": "patientdeskai",
@@ -240,5 +273,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-04T18:01:23.563478"
+  "fetched_at": "2025-12-05T00:03:14.665031"
 }

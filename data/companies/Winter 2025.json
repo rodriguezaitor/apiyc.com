@@ -1694,7 +1694,7 @@
       "one_liner": "AI-native commercial insurance brokerage",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 25,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -1707,9 +1707,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2280,7 +2280,7 @@
       "one_liner": "Prediction markets for businesses",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 8,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -5361,5 +5361,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-12-04T18:01:13.822967"
+  "fetched_at": "2025-12-05T00:03:05.108146"
 }
