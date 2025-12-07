@@ -49,16 +49,14 @@
         "Consumer"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Productivity",
+        "AI",
         "Note-taking"
       ],
       "stage": "Early",
@@ -308,5 +306,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-07T06:01:08.453822"
+  "fetched_at": "2025-12-07T12:01:24.905807"
 }

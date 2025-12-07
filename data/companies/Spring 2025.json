@@ -1093,7 +1093,7 @@
       "name": "Janus",
       "slug": "janus",
       "website": "https://www.withjanus.com/",
-      "description": "Janus evaluates AI agents in high-fidelity simulation environments before launch, catching failures in reasoning, compliance, tool usage, and performance. \r\n\r\nThe resulting datasets benchmark products and feed post-training loops to continuously improve performance over time.",
+      "description": "Janus automates AI evaluations by using high-fidelity simulation environments, catching failures in reasoning, compliance, tool usage, and performance. \r\n\r\nThe resulting datasets benchmark products and feed post-training loops to continuously improve performance over time.",
       "one_liner": "Battle-Test AI Agents with Simulation Environments",
       "batch": "Spring 2025",
       "status": "Active",
@@ -1111,9 +1111,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
+        "Artificial Intelligence",
         "Developer Tools",
-        "Monitoring",
-        "AI"
+        "Monitoring"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4631,5 +4631,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-12-07T06:01:05.465627"
+  "fetched_at": "2025-12-07T12:01:16.685598"
 }
