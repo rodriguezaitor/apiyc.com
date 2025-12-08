@@ -3569,7 +3569,7 @@
         "Conversational AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1693007377.0,
@@ -4900,9 +4900,9 @@
       "id": 28836,
       "name": "CORE",
       "slug": "heysol",
-      "website": "https://heysol.ai/",
-      "description": "CORE is an open-source unified, persistent memory layer for all your AI tools. Your context follows you from Cursor to Claude to ChatGPT to Claude Code. One knowledge graph remembers who said what, when, and why. Connect once, remember everywhere. Stop managing context and start building.",
-      "one_liner": "Build your personal memory system to power your AI apps.",
+      "website": "https://getcore.me",
+      "description": "CORE gives your AI tools persistent memory and the ability to act in the apps you use.\r\n\r\n\u2705 Remember everything across Claude, Cursor, ChatGPT, Claude Code\r\n\u2705 Take actions in Linear, GitHub, Slack, Gmail, Google Sheets\r\n\u2705 Connect once, works everywhere via MCP\r\n\u2705 Your data, your control: open-source and self-hostable",
+      "one_liner": "Memory + Actions for Your AI Tools",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -4918,10 +4918,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "SaaS",
-        "AI"
+        "SaaS"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7389,5 +7389,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-12-08T00:03:15.673856"
+  "fetched_at": "2025-12-08T06:01:20.803165"
 }

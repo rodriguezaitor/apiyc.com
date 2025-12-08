@@ -1372,7 +1372,7 @@
       "one_liner": "The infra layer for AI integrations.",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1385,7 +1385,7 @@
       "locations": "Remote",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759440132.0,
@@ -2930,7 +2930,7 @@
       "id": 30901,
       "name": "Sanctum",
       "slug": "sanctum",
-      "website": "https://heysanctum.com/",
+      "website": "https://withsanctum.com/",
       "description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
       "one_liner": "Catch software issues with user simulations",
       "batch": "Fall 2025",
@@ -5243,5 +5243,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-08T00:03:18.151320"
+  "fetched_at": "2025-12-08T06:01:23.256010"
 }
