@@ -4161,7 +4161,7 @@
       "name": "Aspect",
       "slug": "aspect-inc",
       "website": "https://aspect.inc",
-      "description": "With our visual understanding engine & platform, Aspect primarily serves both enterprise content teams and data teams at AI labs.\r\n\r\nFor enterprise:\r\nAspect deeply understands a team's visual (video, 3D, multimodal docs) libraries and day-to-day workflows, performing clip search, rough drafting, and automated review.\r\n\r\nFor research:\r\nAspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
+      "description": "With our visual understanding engine & platform, Aspect data teams at AI labs.\r\n\r\nAspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
       "one_liner": "AI Visual Understanding for Multimodal Data ",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4177,11 +4177,11 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Computer Vision",
         "B2B",
         "Video",
-        "Media",
-        "AI"
+        "Media"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5020,16 +5020,10 @@
         "Manufacturing and Robotics"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Deep Learning",
-        "Reinforcement Learning",
-        "Robotics",
-        "Automation"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -5243,5 +5237,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-08T12:01:25.029444"
+  "fetched_at": "2025-12-08T18:01:19.161491"
 }
