@@ -535,41 +535,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1313424ffcccb181d4a78eec0cde6b8bcab2da6d.png"
     },
     {
-      "id": 10,
-      "name": "The Muse",
-      "slug": "the-muse",
-      "website": "http://themuse.com",
-      "description": "The Muse is a values-based careers site that helps Gen Z and millennial candidates find a career path and search for jobs at companies whose people, benefits, and values align with their unique professional needs. For employers, our marketplace results in a more efficient hiring process that results in better \"matches\" - and therefore better retention.",
-      "one_liner": "The Muse is values-based job search & hiring for 7M+ monthly",
-      "batch": "Winter 2012",
-      "status": "Active",
-      "team_size": 60,
-      "industry": "B2B",
-      "subindustry": "B2B -> Recruiting and Talent",
-      "industries": [
-        "B2B",
-        "Recruiting and Talent"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Marketplace",
-        "SaaS",
-        "Recruiting"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1322045574.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb7ca44603c00a75f64928d565e780f76a618ec7.png"
-    },
-    {
       "id": 7,
       "name": "42Floors",
       "slug": "42floors",
@@ -2120,7 +2085,42 @@
       "is_top_company": false,
       "launched_at": 1322045594.0,
       "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 10,
+      "name": "The Muse",
+      "slug": "the-muse",
+      "website": "http://themuse.com",
+      "description": "The Muse is a values-based careers site that helps Gen Z and millennial candidates find a career path and search for jobs at companies whose people, benefits, and values align with their unique professional needs. For employers, our marketplace results in a more efficient hiring process that results in better \"matches\" - and therefore better retention.",
+      "one_liner": "The Muse is values-based job search & hiring for 7M+ monthly",
+      "batch": "Winter 2012",
+      "status": "Inactive",
+      "team_size": 60,
+      "industry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
+      "industries": [
+        "B2B",
+        "Recruiting and Talent"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Marketplace",
+        "SaaS",
+        "Recruiting"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1322045574.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb7ca44603c00a75f64928d565e780f76a618ec7.png"
     }
   ],
-  "fetched_at": "2025-12-09T18:01:14.272047"
+  "fetched_at": "2025-12-10T00:02:56.033328"
 }

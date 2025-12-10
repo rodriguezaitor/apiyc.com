@@ -10666,39 +10666,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png"
     },
     {
-      "id": 25305,
-      "name": "Railbird",
-      "slug": "railbird",
-      "website": "https://www.railbirdexchange.com/",
-      "description": "At Railbird, we are building a prediction market exchange designed to hedge and mitigate risk for the services sector. The Railbird team has years of experience analyzing companies in the service sector and has seen firsthand how little opportunity there is to hedge risk in volatile markets like hospitality, tourism, recreation, entertainment, and sports. The platform is designed to be open to all traders.",
-      "one_liner": "A futures market for events.",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 8,
-      "industry": "Fintech",
-      "subindustry": "Fintech",
-      "industries": [
-        "Fintech"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Fintech",
-        "Marketplace"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1645141573.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e6d4ea5d981a729d0ce6ebe8a84504111445b16.png"
-    },
-    {
       "id": 25304,
       "name": "Kapital Bank",
       "slug": "kapital-bank",
@@ -12596,6 +12563,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5080bb4e9d3cbdac8c35addffff537031b3acee.png"
     },
     {
+      "id": 25305,
+      "name": "Railbird",
+      "slug": "railbird",
+      "website": "https://www.railbirdexchange.com/",
+      "description": "At Railbird, we are building a prediction market exchange designed to hedge and mitigate risk for the services sector. The Railbird team has years of experience analyzing companies in the service sector and has seen firsthand how little opportunity there is to hedge risk in volatile markets like hospitality, tourism, recreation, entertainment, and sports. The platform is designed to be open to all traders.",
+      "one_liner": "A futures market for events.",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 8,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Fintech",
+        "Marketplace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1645141573.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e6d4ea5d981a729d0ce6ebe8a84504111445b16.png"
+    },
+    {
       "id": 25271,
       "name": "Alfie",
       "slug": "alfie",
@@ -13812,5 +13812,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-12-09T18:01:05.450947"
+  "fetched_at": "2025-12-10T00:02:47.113137"
 }
