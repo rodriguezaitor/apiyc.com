@@ -1,6 +1,37 @@
 {
   "data": [
     {
+      "id": 31233,
+      "name": "Chasi",
+      "slug": "chasi",
+      "website": "https://chasi.co/",
+      "description": "Chasi helps equipment dealers grow, nurture, and retain customers with 24/7 VIP treatment across all channels. Chasi\u2019s AI agents act as executive assistants for every sales and support rep, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nAt a typical equipment dealer, 60% of headcount sits in sales and support, yet teams lose one-third of their day to admin, 70% of customer interactions are still stuck on the phone, fleets run at only 50-60% utilization, most locations have no after-hours or weekend coverage, and the aftermarket is almost entirely reactive. Chasi plugs this revenue leak by keeping units rented or sold, automatically following up on every lead, and proactively driving the right parts and service before machines fail, so equipment businesses can keep building, breaking, and moving the world!",
+      "one_liner": "AI Concierge for Equipment sales, service & rentals",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "SaaS",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1765343151.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f00390c0a223102a56fdf65295fa18a5bdaf56c.png"
+    },
+    {
       "id": 31230,
       "name": "o11",
       "slug": "o11",
@@ -340,5 +371,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-10T00:02:58.994135"
+  "fetched_at": "2025-12-10T06:01:19.838483"
 }
