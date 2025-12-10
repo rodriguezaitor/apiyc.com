@@ -5,7 +5,7 @@
       "name": "Chasi",
       "slug": "chasi",
       "website": "https://chasi.co/",
-      "description": "Chasi helps equipment dealers grow, nurture, and retain customers with 24/7 VIP treatment across all channels. Chasi\u2019s AI agents act as executive assistants for every sales and support rep, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nAt a typical equipment dealer, 60% of headcount sits in sales and support, yet teams lose one-third of their day to admin, 70% of customer interactions are still stuck on the phone, fleets run at only 50-60% utilization, most locations have no after-hours or weekend coverage, and the aftermarket is almost entirely reactive. Chasi plugs this revenue leak by keeping units rented or sold, automatically following up on every lead, and proactively driving the right parts and service before machines fail, so equipment businesses can keep building, breaking, and moving the world!",
+      "description": "Chasi helps equipment dealers grow and retain customers with 24/7 VIP treatment across all channels. Chasi\u2019s AI agents act as executive assistants for sales and support reps, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nAt a typical equipment dealer, half of the headcount sits in sales and support, more than one-third of their day is spent on admin work, despite that fleets run under 60% utilization, most locations have no after-hours or weekend coverage, and the aftermarket is almost entirely reactive. Chasi plugs this revenue leak by keeping units rented or sold, automatically following up on every lead, and proactively driving the right parts and service before machines fail. ",
       "one_liner": "AI Concierge for Equipment sales, service & rentals",
       "batch": "Winter 2026",
       "status": "Active",
@@ -197,6 +197,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08b4ca96925b2e8c409dfbed108a0b4f3808348.png"
     },
     {
+      "id": 31133,
+      "name": "Skillsync",
+      "slug": "skillsync",
+      "website": "https://skillsync.wiki",
+      "description": "Skillsync helps companies find engineers based on their code. It creates structured skill profiles of developers based on their open source contributions on GitHub. Using a Cursor-like interface, companies can search for specific capabilities like \"deployed custom neural nets on edge\" then qualify, shortlist and engage with engineers already building in their domain.",
+      "one_liner": "Find anyone in open source",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Human Resources",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Recruiting",
+        "Open Source",
+        "HR Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1765356952.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png"
+    },
+    {
       "id": 31121,
       "name": "AVoice",
       "slug": "avoice",
@@ -371,5 +405,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-10T06:01:19.838483"
+  "fetched_at": "2025-12-10T12:01:29.608973"
 }

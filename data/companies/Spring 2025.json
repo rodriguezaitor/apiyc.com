@@ -2276,27 +2276,28 @@
       "name": "HABIT",
       "slug": "habit",
       "website": "https://habitrobotics.com",
-      "description": "HABIT will deploy on-demand robotic labor to you \u2014 and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical (the $45B car wash and auto detailing market) is high cost, labor intensive, and already offered in thousands of locations across America.",
-      "one_liner": "Reshaping neighborhood services with robotics.",
+      "description": "Every month, our robots greet thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
+      "one_liner": "Conversational robots for physical businesses.",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
       "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
+        "B2B",
+        "Retail"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "El Segundo, CA, USA",
       "tags": [
-        "Hard Tech",
+        "Artificial Intelligence",
         "Robotics",
         "Consumer",
         "B2B",
-        "AI"
+        "Retail"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2769,7 +2770,7 @@
       "one_liner": "Evals and environments for computer use and software engineering work",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4631,5 +4632,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-12-10T06:01:11.811645"
+  "fetched_at": "2025-12-10T12:01:23.769511"
 }
