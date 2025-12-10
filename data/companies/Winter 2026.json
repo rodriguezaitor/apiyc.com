@@ -5,7 +5,7 @@
       "name": "Chasi",
       "slug": "chasi",
       "website": "https://chasi.co/",
-      "description": "Chasi helps equipment dealers grow and retain customers with 24/7 VIP treatment across all channels. Chasi\u2019s AI agents act as executive assistants for sales and support reps, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nAt a typical equipment dealer, half of the headcount sits in sales and support, more than one-third of their day is spent on admin work, despite that fleets run under 60% utilization, most locations have no after-hours or weekend coverage, and the aftermarket is almost entirely reactive. Chasi plugs this revenue leak by keeping units rented or sold, automatically following up on every lead, and proactively driving the right parts and service before machines fail. ",
+      "description": "Chasi helps equipment dealers grow and retain customers with 24/7 VIP treatment across all channels. Chasi\u2019s AI agents act as executive assistants for sales and support reps, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nOver half of dealer payroll goes to sales and support, but a third of that team\u2019s time is lost to admin. Fleets still run under 60% utilization, most branches lack after-hours coverage, and the aftermarket is largely reactive. Chasi plugs these revenue leaks by keeping units rented or sold, chasing every lead, and driving the right parts and service before machines fail.",
       "one_liner": "AI Concierge for Equipment sales, service & rentals",
       "batch": "Winter 2026",
       "status": "Active",
@@ -231,6 +231,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png"
     },
     {
+      "id": 31130,
+      "name": "MirageDoodle, Inc.",
+      "slug": "miragedoodle-inc",
+      "website": "https://miragedoodle.com/",
+      "description": "At MirageDoodle, we\u2019re building coordinated AI agents that live inside cities\u2019 cross-department development review workflows\u2014doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters.\r\n\r\nMirageDoodle provides expert-level guidance in minutes based on precedents, helping cities and design firms navigate an increasingly complex, fragmented regulatory environment\r\n\r\nWe serve as strategic partners to forward-thinking cities and design firms across the country.",
+      "one_liner": "AI-native workspace for municipal development review",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Generative AI",
+        "GovTech",
+        "Real Estate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1765384359.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png"
+    },
+    {
       "id": 31121,
       "name": "AVoice",
       "slug": "avoice",
@@ -405,5 +437,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-10T12:01:29.608973"
+  "fetched_at": "2025-12-10T18:01:26.198131"
 }

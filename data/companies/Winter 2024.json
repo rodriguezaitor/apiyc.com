@@ -7516,14 +7516,14 @@
     },
     {
       "id": 29179,
-      "name": "Driver AI",
-      "slug": "driver-ai",
+      "name": "Driver",
+      "slug": "driver",
       "website": "https://www.driverai.com/",
-      "description": "Driver AI is the new way to write technical documentation. It helps everyone in an organization write interactive documents to explain millions of lines of code in minutes instead of months.\r\n\r\nWHO: We partner with chip manufacturing, enterprise IT, and software product development teams.\r\n\r\nWHY: Traditionally, these teams spend millions and wait months (sometimes years) to understand their complex technology infrastructure well enough to build on top of it. \r\n\r\nTHE DRIVER DIFFERENCE: Instead, Driver AI is a tool that explains complex codebases in minutes vs. months. This enables teams to rapidly accelerate the technical discovery process and save significant resources. \r\n\r\nHOW IT WORKS: Driver AI works by digesting a codebase, organizing it for analysis, and harnessing Large Language Models (LLMs) to generate interactive explanations for executives, product and technology leaders, and developers.\r\n\r\n\"Driver AI is a paradigm shift for managing our complex software delivery pipeline.\" - Executive Vice President, Global Semiconductor Company",
-      "one_liner": "Understand millions of lines of code in minutes.",
+      "description": "Driver is the context layer that translates your codebase into shared, structured understanding. By computing context ahead of time, Driver delivers symbol\u2011complete documentation, architecture maps, and history guides so teams and agents can reason across an entire codebase without guesswork.",
+      "one_liner": "Context for Codebases",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 11,
+      "team_size": 13,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -7540,7 +7540,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706885806.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6034119b98e2931dff82142dcd69ad4993b8c77.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea81e9c37c41aa8296991408bceb179678f02b16.png"
     },
     {
       "id": 29177,
@@ -8276,5 +8276,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-10T12:01:19.966046"
+  "fetched_at": "2025-12-10T18:01:14.817585"
 }
