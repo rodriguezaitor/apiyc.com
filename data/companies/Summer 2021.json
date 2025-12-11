@@ -10221,41 +10221,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c56e9d679598dde2fac7eb56c0066090a29bcb2.png"
     },
     {
-      "id": 23860,
-      "name": "Positional",
-      "slug": "positional",
-      "website": "https://www.positional.com",
-      "description": "Start, grow, and scale your inbound marketing and SEO strategy with a toolset optimized for results \u2014 not vanity metrics. Our goal is to connect the workflow from end to end, from keyword research to analytics, and the actions that users take that ultimately drive revenue for a business.",
-      "one_liner": "A modern platform for content marketing & SEO.",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B -> Marketing",
-      "industries": [
-        "B2B",
-        "Marketing"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Charleston, SC, USA; Hoboken, NJ, USA",
-      "tags": [
-        "SaaS",
-        "Marketing",
-        "SEO"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1625660571.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75fcad3beb96d8a2706d8564e5d492e75be91b66.png"
-    },
-    {
       "id": 23845,
       "name": "Agap\u00e9",
       "slug": "agape",
@@ -11631,6 +11596,41 @@
       "is_top_company": false,
       "launched_at": 1624571976.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/948a1172adcc312a1fb3800c8c220af61d46efdf.png"
+    },
+    {
+      "id": 23860,
+      "name": "Positional",
+      "slug": "positional",
+      "website": "https://www.positional.com",
+      "description": "Start, grow, and scale your inbound marketing and SEO strategy with a toolset optimized for results \u2014 not vanity metrics. Our goal is to connect the workflow from end to end, from keyword research to analytics, and the actions that users take that ultimately drive revenue for a business.",
+      "one_liner": "A modern platform for content marketing & SEO.",
+      "batch": "Summer 2021",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Charleston, SC, USA; Hoboken, NJ, USA",
+      "tags": [
+        "SaaS",
+        "Marketing",
+        "SEO"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1625660571.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75fcad3beb96d8a2706d8564e5d492e75be91b66.png"
     },
     {
       "id": 22763,
@@ -13421,5 +13421,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-12-11T00:02:53.578774"
+  "fetched_at": "2025-12-11T06:01:11.597744"
 }

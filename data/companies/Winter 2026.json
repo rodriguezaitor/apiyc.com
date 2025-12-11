@@ -10,10 +10,10 @@
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
-      "industry": "Industrials",
-      "subindustry": "Industrials",
+      "industry": "B2B",
+      "subindustry": "B2B",
       "industries": [
-        "Industrials"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -263,6 +263,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png"
     },
     {
+      "id": 31123,
+      "name": "21st",
+      "slug": "21st",
+      "website": "https://21st.dev",
+      "description": "",
+      "one_liner": "Product design and prototyping tool for AI native teams",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1765422527.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png"
+    },
+    {
       "id": 31121,
       "name": "AVoice",
       "slug": "avoice",
@@ -437,5 +470,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-11T00:03:08.726088"
+  "fetched_at": "2025-12-11T06:01:25.338573"
 }
