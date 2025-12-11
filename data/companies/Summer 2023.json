@@ -195,43 +195,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a9169e160dd38d456fe04d3f659d2d15573346d.png"
     },
     {
-      "id": 29154,
-      "name": "Catamaran",
-      "slug": "catamaran",
-      "website": "https://www.trycatamaran.com",
-      "description": "Catamaran uses AI to help people make clearer, faster decisions about risk. Our platform brings all internal and external risk data into one easy-to-understand workspace. By automating data gathering, checking, and scenario testing, we help insurers, reinsurers, brokers, and investors quickly understand and manage their risks. Catamaran also provides a regulated marketplace to easily buy, sell, and manage insurance coverage.",
-      "one_liner": "The AI-powered risk decision platform ",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Insurance",
-      "industries": [
-        "Fintech",
-        "Insurance"
-      ],
-      "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "London, England, United Kingdom",
-      "tags": [
-        "Machine Learning",
-        "Finance",
-        "Analytics",
-        "Insurance",
-        "Investing"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1687023200.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0af944f6ad96c6f8c2095e8c485de560a528833.png"
-    },
-    {
       "id": 29153,
       "name": "Coba",
       "slug": "coba",
@@ -6515,6 +6478,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78827e9e8ab6d62b5e66b11dffea9ae771b7d97a.png"
     },
     {
+      "id": 29154,
+      "name": "Catamaran",
+      "slug": "catamaran",
+      "website": "https://www.trycatamaran.com",
+      "description": "Catamaran uses AI to help people make clearer, faster decisions about risk. Our platform brings all internal and external risk data into one easy-to-understand workspace. By automating data gathering, checking, and scenario testing, we help insurers, reinsurers, brokers, and investors quickly understand and manage their risks. Catamaran also provides a regulated marketplace to easily buy, sell, and manage insurance coverage.",
+      "one_liner": "The AI-powered risk decision platform ",
+      "batch": "Summer 2023",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Insurance",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "London, England, United Kingdom",
+      "tags": [
+        "Machine Learning",
+        "Finance",
+        "Analytics",
+        "Insurance",
+        "Investing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1687023200.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0af944f6ad96c6f8c2095e8c485de560a528833.png"
+    },
+    {
       "id": 29136,
       "name": "Autotab",
       "slug": "autotab",
@@ -7390,5 +7390,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-12-10T18:01:16.401776"
+  "fetched_at": "2025-12-11T00:02:56.953824"
 }

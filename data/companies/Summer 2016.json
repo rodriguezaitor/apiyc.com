@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "id": 1266,
+      "name": "Meesho",
+      "slug": "meesho",
+      "website": "http://www.meesho.com",
+      "description": "Meesho is India\u2019s only true online marketplace, altering the status quo to make e-commerce inclusive and accessible for the next billion users. With a vision to enable 100 million small businesses, including individual entrepreneurs, to succeed online, Meesho is democratising internet commerce and bringing a range of products and new customers online. The Meesho marketplace provides sellers access to millions of customers, selections from over 30 categories, pan-India logistics, payment services and customer support capabilities to efficiently run their businesses. \r\n\r\n",
+      "one_liner": "Democratizing internet commerce for everyone in India",
+      "batch": "Summer 2016",
+      "status": "Public",
+      "team_size": 1450,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "India",
+        "South Asia",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Bengaluru, KA, India",
+      "tags": [
+        "E-commerce",
+        "Retail"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1461732013.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e219c412cfa3b69bc5211d8d7473cf06bfe6593.png"
+    },
+    {
       "id": 1433,
       "name": "Bird",
       "slug": "bird",
@@ -66,40 +100,6 @@
       "is_top_company": true,
       "launched_at": 1461732014.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f6b19c9a7bb7ba979f8935bcd2e5bd32b954069.png"
-    },
-    {
-      "id": 1266,
-      "name": "Meesho",
-      "slug": "meesho",
-      "website": "http://www.meesho.com",
-      "description": "Meesho is India\u2019s only true online marketplace, altering the status quo to make e-commerce inclusive and accessible for the next billion users. With a vision to enable 100 million small businesses, including individual entrepreneurs, to succeed online, Meesho is democratising internet commerce and bringing a range of products and new customers online. The Meesho marketplace provides sellers access to millions of customers, selections from over 30 categories, pan-India logistics, payment services and customer support capabilities to efficiently run their businesses. \r\n\r\n",
-      "one_liner": "Democratizing internet commerce for everyone in India",
-      "batch": "Summer 2016",
-      "status": "Active",
-      "team_size": 1450,
-      "industry": "B2B",
-      "subindustry": "B2B -> Retail",
-      "industries": [
-        "B2B",
-        "Retail"
-      ],
-      "regions": [
-        "India",
-        "South Asia",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Bengaluru, KA, India",
-      "tags": [
-        "E-commerce",
-        "Retail"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": true,
-      "launched_at": 1461732013.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e219c412cfa3b69bc5211d8d7473cf06bfe6593.png"
     },
     {
       "id": 1352,
@@ -3346,5 +3346,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-12-10T18:01:21.639231"
+  "fetched_at": "2025-12-11T00:03:03.111804"
 }
