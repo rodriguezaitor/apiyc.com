@@ -5938,40 +5938,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/552447facd8d9e007c6306d2f307ff1eee8ac30a.png"
     },
     {
-      "id": 22823,
-      "name": "June",
-      "slug": "june",
-      "website": "http://june.so",
-      "description": "June is a plug & play product analytics for B2B SaaS. \r\n\r\nIt automatically generates graphs of the metrics you should track, lets you view your company-level metrics, and zoom into them! ",
-      "one_liner": "June is the new way to do product analytics",
-      "batch": "Winter 2021",
-      "status": "Active",
-      "team_size": 6,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Analytics",
-        "Data Visualization"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614364832.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f5da22c38acb9a212882198584da041113894b.png"
-    },
-    {
       "id": 22806,
       "name": "Per Diem",
       "slug": "per-diem",
@@ -10686,6 +10652,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/57cf46a8c4c907e8200f99b2e7300f6218f56fdc.png"
     },
     {
+      "id": 22823,
+      "name": "June",
+      "slug": "june",
+      "website": "http://june.so",
+      "description": "June is a plug & play product analytics for B2B SaaS. \r\n\r\nIt automatically generates graphs of the metrics you should track, lets you view your company-level metrics, and zoom into them! ",
+      "one_liner": "June is the new way to do product analytics",
+      "batch": "Winter 2021",
+      "status": "Inactive",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Analytics",
+        "Data Visualization"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614364832.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f5da22c38acb9a212882198584da041113894b.png"
+    },
+    {
       "id": 22784,
       "name": "Huddlefire",
       "slug": "huddlefire",
@@ -11538,5 +11538,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-12-11T12:01:13.268450"
+  "fetched_at": "2025-12-11T18:01:11.466276"
 }
