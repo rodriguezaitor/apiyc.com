@@ -99,6 +99,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png"
     },
     {
+      "id": 31214,
+      "name": "Pocket",
+      "slug": "pocket",
+      "website": "https://heypocket.com/",
+      "description": "Pocket is a tiny AI device that lives on your phone and turns everything you say and hear into clear notes, action items, and search. We combine custom hardware, AI, and software to build the best note-taking experience for people who talk and move fast",
+      "one_liner": "The world's best AI note-taking device and app",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 6,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [
+        "Hardware",
+        "Productivity",
+        "AI",
+        "Note-taking"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1764996860.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b428e32efe17d32eca49b716cb0a2375cd4f5ef3.png"
+    },
+    {
       "id": 31207,
       "name": "Caretta",
       "slug": "caretta",
@@ -539,5 +572,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-12T12:01:21.749089"
+  "fetched_at": "2025-12-12T18:01:22.843179"
 }

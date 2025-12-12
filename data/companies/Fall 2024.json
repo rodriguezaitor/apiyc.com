@@ -475,11 +475,11 @@
     },
     {
       "id": 30111,
-      "name": "Foundry",
-      "slug": "foundry",
-      "website": "https://www.foundryrl.com/",
-      "description": "We\u2019re building browser-native infrastructure that makes software creation production-ready end-to-end. Today\u2019s AI tools can scaffold code, but they fail on the critical workflows that actually get products into production \u2014 provisioning, auth, QA, and compliance \u2014 all of which happen inside the browser.\r\n\r\nOur system makes these workflows deterministic, reproducible, and automatable, so both agents and humans can go from idea to a production-ready app. The opportunity is massive: billions of dollars of value locked up in workflows that today block non-technical founders and slow technical teams. We\u2019re building the infrastructure layer that makes production possible.",
-      "one_liner": "Infrastructure to ship real apps with AI - end-to-end in the browser",
+      "name": "x1",
+      "slug": "x1",
+      "website": "https://www.x1.new",
+      "description": "x1 helps anyone build a real, native iOS app \u2014 step by step.\r\n\r\nYou describe what you want to build, and x1 generates a clear plan that takes you from idea to App Store. Each step ships a real feature and explains how the pieces fit together.\r\n\r\nInstead of asking AI to one-shot an entire app, x1 guides it through the build \u2014 the first tool that teaches you and builds with you.",
+      "one_liner": "Personal Trainer for Building iOS Apps",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 1,
@@ -494,8 +494,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "AI-Enhanced Learning",
         "Developer Tools",
         "Generative AI",
+        "No-code",
         "Automation"
       ],
       "stage": "Early",
@@ -3017,5 +3019,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-12-12T12:01:17.208848"
+  "fetched_at": "2025-12-12T18:01:19.690829"
 }
