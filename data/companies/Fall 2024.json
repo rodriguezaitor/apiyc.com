@@ -1760,8 +1760,8 @@
       "name": "RiskCube",
       "slug": "riskcube",
       "website": "https://riskcube.com",
-      "description": "RiskCube helps venture-backed startups to compare business insurance, buy the right coverage online, and manage policies all in one place.\r\n\r\nIf you're a startup looking to buy insurance, please reach out.",
-      "one_liner": "AI-native insurance brokerage to compare, buy, and manage coverage.",
+      "description": "Problem: Venture-backed startups are underserved by traditional brokers and limited to single-quote MGAs, leading to opaque pricing and suboptimal coverage.\r\n\r\nSolution: RiskCube is an independent, AI-native brokerage that provides founders with multi-carrier quote comparison, enabling transparent, data-driven insurance decisions.\r\n\r\nUnfair Advantage: Our platform is built on proprietary risk models designed by our founder, a risk & insurance expert and former member of the WTW Risk & Analytics division. This expertise allows us to identify and price startup risks that generalist brokers miss.\r\n\r\nResult: We leverage AI and quantitative analysis to ensure compliance and reduce total cost of risk.",
+      "one_liner": "AI-Powered Insurance Comparison for Startups.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -1777,9 +1777,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2621,7 +2621,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730739931.0,
@@ -3017,5 +3017,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-12-11T18:01:14.075321"
+  "fetched_at": "2025-12-12T00:03:06.005342"
 }

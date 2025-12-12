@@ -2789,7 +2789,7 @@
         "Genomics"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1624485672.0,
@@ -10358,39 +10358,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2e06a383cc8407d77b06a0c887415abd235111b.png"
     },
     {
-      "id": 23818,
-      "name": "Mentorcam",
-      "slug": "mentorcam",
-      "website": "https://mentor.cam/",
-      "description": "Mentorcam is a marketplace for 1:1 business and career advice.",
-      "one_liner": "Mentorship from leaders of the world's best companies",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 9,
-      "industry": "Education",
-      "subindustry": "Education",
-      "industries": [
-        "Education"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Los Angeles, CA, USA",
-      "tags": [
-        "Education",
-        "Marketplace"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1625011707.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c424b9e11855dda2b15ef56ceb072abeab32de6.png"
-    },
-    {
       "id": 23817,
       "name": "Epsilon3",
       "slug": "epsilon3-inc",
@@ -13354,6 +13321,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cc6779879fc885a8441efdd67bf2a960f7783c7.png"
     },
     {
+      "id": 23818,
+      "name": "Mentorcam",
+      "slug": "mentorcam",
+      "website": "https://mentor.cam/",
+      "description": "Mentorcam is a marketplace for 1:1 business and career advice.",
+      "one_liner": "Mentorship from leaders of the world's best companies",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 9,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Education",
+        "Marketplace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1625011707.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c424b9e11855dda2b15ef56ceb072abeab32de6.png"
+    },
+    {
       "id": 23727,
       "name": "Hyperseed",
       "slug": "hyperseed",
@@ -13421,5 +13421,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-12-11T18:01:11.303078"
+  "fetched_at": "2025-12-12T00:02:55.983646"
 }

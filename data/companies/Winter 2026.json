@@ -365,6 +365,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png"
     },
     {
+      "id": 31091,
+      "name": "Sonarly",
+      "slug": "sonarly",
+      "website": "https://sonarly.dev",
+      "description": "We'd like to automate monitoring. To advance that mission, we're building Sonarly.\r\n\r\nCoding agents are amazingly good at building software. But they struggle fixing production bugs because they lack the right context for them. We give them that context, eliminating the time you spend on bug detection, session replay, issue description, and endlessly copy-pasting logs to your AI agent.",
+      "one_liner": "Production-bug context for AI agents",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Generative AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1765492562.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png"
+    },
+    {
       "id": 31080,
       "name": "Didit",
       "slug": "didit",
@@ -503,5 +535,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-11T18:01:15.260436"
+  "fetched_at": "2025-12-12T00:03:10.651547"
 }
