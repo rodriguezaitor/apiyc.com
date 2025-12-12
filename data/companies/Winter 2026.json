@@ -99,39 +99,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png"
     },
     {
-      "id": 31214,
-      "name": "Pocket",
-      "slug": "pocket",
-      "website": "https://heypocket.com/",
-      "description": "Pocket is a tiny AI device that lives on your phone and turns everything you say and hear into clear notes, action items, and search. We combine custom hardware, AI, and software to build the best note-taking experience for people who talk and move fast",
-      "one_liner": "The world's best AI note-taking device and app",
-      "batch": "Winter 2026",
-      "status": "Active",
-      "team_size": 6,
-      "industry": "Consumer",
-      "subindustry": "Consumer",
-      "industries": [
-        "Consumer"
-      ],
-      "regions": [
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "",
-      "tags": [
-        "Hardware",
-        "Productivity",
-        "AI",
-        "Note-taking"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1764996860.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b428e32efe17d32eca49b716cb0a2375cd4f5ef3.png"
-    },
-    {
       "id": 31207,
       "name": "Caretta",
       "slug": "caretta",
@@ -365,6 +332,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png"
     },
     {
+      "id": 31101,
+      "name": "LegalOS",
+      "slug": "legalos",
+      "website": "https://www.legalos.ai",
+      "description": "LegalOS is an AI-powered immigration law firm for complex U.S. work visas. \r\n\r\nOur AI agents generate a USCIS-ready petition package in 24\u201348 hours, including forms, support letters, and a structured evidence memo.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience and a near-100% approval rate, so companies get both speed and reliability. LegalOS already supports O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions and has a 100% approval rate so far across all visa categories.",
+      "one_liner": "The AI-powered immigration law firm for complex work visas",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "B2B",
+        "Legal",
+        "HR Tech",
+        "Immigration",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1765500266.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/08c53bbd673e3022b474ab6c387588bceea5b021.png"
+    },
+    {
       "id": 31091,
       "name": "Sonarly",
       "slug": "sonarly",
@@ -535,5 +539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     }
   ],
-  "fetched_at": "2025-12-12T00:03:10.651547"
+  "fetched_at": "2025-12-12T06:01:14.715244"
 }
