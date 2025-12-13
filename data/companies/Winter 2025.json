@@ -4079,11 +4079,11 @@
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 6,
-      "industry": "B2B",
-      "subindustry": "B2B -> Security",
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Defense",
       "industries": [
-        "B2B",
-        "Security"
+        "Industrials",
+        "Defense"
       ],
       "regions": [
         "Unspecified"
@@ -5367,5 +5367,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-12-13T06:01:10.006091"
+  "fetched_at": "2025-12-13T12:01:11.472701"
 }
