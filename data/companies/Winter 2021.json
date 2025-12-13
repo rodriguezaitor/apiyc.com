@@ -5155,10 +5155,10 @@
       "status": "Active",
       "team_size": 5,
       "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "subindustry": "Industrials -> Defense",
       "industries": [
         "Industrials",
-        "Manufacturing and Robotics"
+        "Defense"
       ],
       "regions": [
         "United States of America",
@@ -11538,5 +11538,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-12-13T00:02:51.147191"
+  "fetched_at": "2025-12-13T06:01:05.141346"
 }

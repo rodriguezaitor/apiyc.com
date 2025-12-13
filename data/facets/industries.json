@@ -1,11 +1,11 @@
 {
   "data": {
-    "B2B": 2805,
+    "B2B": 2804,
     "Consumer": 861,
     "Healthcare": 650,
     "Fintech": 601,
     "Engineering, Product and Design": 574,
-    "Industrials": 327,
+    "Industrials": 328,
     "Infrastructure": 248,
     "Productivity": 220,
     "Marketing": 155,
@@ -23,9 +23,9 @@
     "Consumer Health and Wellness": 113,
     "Content": 113,
     "Social": 112,
-    "Security": 107,
+    "Security": 106,
     "Food and Beverage": 94,
-    "Manufacturing and Robotics": 87,
+    "Manufacturing and Robotics": 86,
     "Human Resources": 85,
     "Housing and Real Estate": 83,
     "Consumer Finance": 82,
@@ -55,9 +55,10 @@
     "Office Management": 24,
     "Automotive": 21,
     "Virtual and Augmented Reality": 21,
-    "Drones": 20,
+    "Drones": 19,
     "Unspecified": 18,
-    "Job and Career Services": 17
+    "Job and Career Services": 17,
+    "Defense": 3
   },
-  "fetched_at": "2025-12-13T00:02:56.542788"
+  "fetched_at": "2025-12-13T06:01:21.108533"
 }
