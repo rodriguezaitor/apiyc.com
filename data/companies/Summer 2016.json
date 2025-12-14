@@ -337,17 +337,17 @@
       "id": 1300,
       "name": "ApolloShield",
       "slug": "apolloshield",
-      "website": "http://www.apolloshield.com",
+      "website": "https://www.apolloshield.com",
       "description": "Detect and safely block unwanted drone intrusions. Track down and arrest unauthorized operators.\r\n\r\nDeveloped by experts from Israel Defense Forces and currently serving more than 25 countries, ApolloShield is the world leader in detecting and blocking drone intrusions, as well as tracking down and arresting unauthorized drone operators.\r\n\r\n",
       "one_liner": "ApolloShield is a system that detects unwanted drones and drives them\u2026",
       "batch": "Summer 2016",
       "status": "Active",
       "team_size": null,
       "industry": "Industrials",
-      "subindustry": "Industrials -> Drones",
+      "subindustry": "Industrials -> Defense",
       "industries": [
         "Industrials",
-        "Drones"
+        "Defense"
       ],
       "regions": [
         "Israel",
@@ -3346,5 +3346,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2025-12-14T06:01:09.996350"
+  "fetched_at": "2025-12-14T12:01:19.925867"
 }
