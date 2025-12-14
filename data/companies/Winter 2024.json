@@ -2413,11 +2413,11 @@
     },
     {
       "id": 29422,
-      "name": "Ultra",
-      "slug": "ultra-2",
-      "website": "https://useultra.ai",
-      "description": "Ultra helps ambitious students achieve their wildest dreams. Starting with college admissions, Ultra will become the ultimate career coach to the new AI generation of workers. ",
-      "one_liner": "Advisor for Ambitious Students",
+      "name": "Deep24",
+      "slug": "deep24",
+      "website": "",
+      "description": "Deep24 is a coach that syncs with all your data source, understanding you and then coming up with plans to improve your life. ",
+      "one_liner": "AI coach for your entire life",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -2427,13 +2427,13 @@
         "Education"
       ],
       "regions": [
-        "Unspecified"
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "",
       "tags": [
-        "Education",
         "Recruiting",
-        "Social Media",
+        "Health & Wellness",
         "Social Network",
         "AI Assistant"
       ],
@@ -2442,7 +2442,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1709700135.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d85b7456dc7e4c2d7c275cc4d26b2dda52f21bf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png"
     },
     {
       "id": 29421,
@@ -8275,5 +8275,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-14T00:03:29.965617"
+  "fetched_at": "2025-12-14T06:01:02.297750"
 }
