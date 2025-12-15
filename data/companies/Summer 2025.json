@@ -352,9 +352,9 @@
     },
     {
       "id": 30797,
-      "name": "Veritus Agent",
-      "slug": "veritus-agent",
-      "website": "https://www.veritusagent.ai",
+      "name": "Veritus",
+      "slug": "veritus",
+      "website": "https://www.veritus.com",
       "description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
       "one_liner": "AI agents for the consumer lending industry",
       "batch": "Summer 2025",
@@ -374,16 +374,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Lending"
+        "Lending",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753735109.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b301b9f0345d2f7e32e073734be71f290ed3ea40.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a784e9084818b8c7af26cd462448e7fd4415c18b.png"
     },
     {
       "id": 30796,
@@ -3708,10 +3708,10 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Cloud Computing",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5392,5 +5392,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-12-14T18:01:04.439724"
+  "fetched_at": "2025-12-15T00:03:11.548287"
 }
