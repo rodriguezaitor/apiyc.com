@@ -2512,11 +2512,11 @@
     },
     {
       "id": 29419,
-      "name": "Lumetric",
-      "slug": "lumetric",
-      "website": "https://lumetric.ai/",
-      "description": "From connecting to your data and apps to giving your agent its own phone number and email, we make it fast and simple for everyone to build and talk to powerful AI agents.",
-      "one_liner": "Build AI agents in minutes",
+      "name": "Luminate",
+      "slug": "luminate",
+      "website": "https://useluminate.com/",
+      "description": "Building is easy. Knowing what to build is hard. Luminate replaces assumptions with agent-native simulations. Get deep user insights in minutes and build the features your users actually need.",
+      "one_liner": "Build smarter by simulating your users",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -2531,17 +2531,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Workflow Automation",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705627336.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6cac19e623e13addf32db802747c6b73371a9bd.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f5e85947e0f5be2f00354f246bc170bdba9b1d4.png"
     },
     {
       "id": 29418,
@@ -3026,10 +3025,10 @@
       ],
       "locations": "Los Angeles, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hard Tech",
         "Robotics",
-        "Logistics"
+        "Logistics",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -6149,11 +6148,11 @@
       "name": "Basalt",
       "slug": "basalt",
       "website": "https://basalt.space/",
-      "description": "Basalt Tech is a spacecraft OS company based in San Francisco. We're building Dispatch: An OS which allows different types of satellites to work together, and produces optimized instructions for fleets of spacecraft. The company is founded by Max Bhatti and Alex Choi, lead engineers at the MIT CubeSat program. Previously, the duo worked as systems engineers at SpaceX, and the UK Ministry of Defense. Basalt Tech recently received its seed investment as part of the Y Combinator W24 batch, and is currently in technical development.",
-      "one_liner": "Autonomy in space, for every mission",
+      "description": "Basalt is building self-flying satellite constellations for enterprise customers, no prior aerospace experience or expertise needed!  Powered by our spacecraft OS, Basalt provides a seamless experience, enabling users to fly and stream data from their own tailored satellite constellation from an app on their phones or laptops.  \r\n\r\nThe company is founded by Max Bhatti and Alex Choi, lead engineers at the MIT CubeSat program. Previously, the duo worked as systems engineers at SpaceX, and the UK Ministry of Defense. Basalt Tech recently received its seed investment as part of the Y Combinator W24 batch, and is currently in technical development.",
+      "one_liner": "Constellations as a Service",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -6885,10 +6884,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Productivity",
         "Open Source",
         "Enterprise",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7547,11 +7545,11 @@
       "name": "Onyx",
       "slug": "onyx",
       "website": "https://www.onyx.app/",
-      "description": "Onyx is the open source generative AI platform connected to your company\u2019s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
-      "one_liner": "Open Source AI Assistant and Enterprise Search",
+      "description": "Onyx is the open source chat UI connected to your company\u2019s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
+      "one_liner": "Open Source AI Chat",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 13,
+      "team_size": 20,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -8276,5 +8274,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-15T18:01:16.955837"
+  "fetched_at": "2025-12-16T00:03:10.428323"
 }
