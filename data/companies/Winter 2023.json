@@ -6806,40 +6806,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png"
     },
     {
-      "id": 27687,
-      "name": "Layup",
-      "slug": "layup",
-      "website": "http://www.layuplabs.ai",
-      "description": "With a unique second cursor that integrates directly into your UI, Layup delivers real-time, adaptive assistance, completely transforming user engagement. We save product and support teams countless hours that would otherwise be spent creating in-app guides and other product documentation.",
-      "one_liner": "Guide your users. Right in your product.",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1673145828.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d162414e7da7d9f7f180a8019180442aee9578fb.png"
-    },
-    {
       "id": 27686,
       "name": "DrDroid",
       "slug": "drdroid",
@@ -9231,6 +9197,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56aa131dd560ee00989a8c4028dc2124530d47a2.png"
     },
     {
+      "id": 27687,
+      "name": "Layup",
+      "slug": "layup",
+      "website": "http://www.layuplabs.ai",
+      "description": "With a unique second cursor that integrates directly into your UI, Layup delivers real-time, adaptive assistance, completely transforming user engagement. We save product and support teams countless hours that would otherwise be spent creating in-app guides and other product documentation.",
+      "one_liner": "Guide your users. Right in your product.",
+      "batch": "Winter 2023",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1673145828.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d162414e7da7d9f7f180a8019180442aee9578fb.png"
+    },
+    {
       "id": 27684,
       "name": "Struct",
       "slug": "struct",
@@ -9333,5 +9333,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-12-16T12:01:11.182588"
+  "fetched_at": "2025-12-16T18:01:22.669460"
 }
