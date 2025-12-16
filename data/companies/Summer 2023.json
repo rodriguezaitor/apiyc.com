@@ -1576,11 +1576,11 @@
       "name": "HappyRobot",
       "slug": "happyrobot",
       "website": "https://happyrobot.ai",
-      "description": "Happyrobot's voice AI agents automate inbound and outbound phone calls in the logistics industry.\r\n\r\nFreight brokers, 3PLs, carriers and other enterprises connect their information systems to our AI agents to handle check calls, load updates, payment status, appointment scheduling or even sales negotiations.",
-      "one_liner": "AI Communication. Built for Logistics.",
+      "description": "HappyRobot is the AI-native operating system for the real economy, closing the circuit between intelligence and action. By combining real-time truth, specialized AI workers, and an orchestrating intelligence, HappyRobot manages complex, mission-critical work with true autonomy. Acting as a central brain, the OS compounds intelligence over time, optimizes decisions at every level, and continuously improves as it operates. Starting with supply chain and industrial-scale operations, HappyRobot enables enterprises to run with greater resilience and speed, while humans focus on strategy, creativity, and values.",
+      "one_liner": "Intelligence that runs your operations. ",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 45,
+      "team_size": 98,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -1598,12 +1598,12 @@
         "Logistics",
         "AI Assistant"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1687482573.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd3e59db650540efed4a5b4af9e1693188ca3a4d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47218a3fdf0ae3764de7b6e9b0084c42bf9b6707.png"
     },
     {
       "id": 29053,
@@ -2635,7 +2635,7 @@
       "slug": "bolto",
       "website": "https://www.bolto.com",
       "description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
-      "one_liner": "AI Powered All-In-One Global HR + Recruiting ",
+      "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 6,
@@ -2651,9 +2651,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Recruiting",
-        "HR Tech"
+        "HR Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7390,5 +7390,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-12-16T00:03:11.839326"
+  "fetched_at": "2025-12-16T06:01:13.029215"
 }
