@@ -1580,7 +1580,7 @@
       "one_liner": "Intelligence that runs your operations. ",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 98,
+      "team_size": 70,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -1598,7 +1598,7 @@
         "Logistics",
         "AI Assistant"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3501,7 +3501,7 @@
         "Conversational AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1693007377.0,
@@ -3913,8 +3913,8 @@
       "name": "Repaint",
       "slug": "repaint",
       "website": "https://repaint.com",
-      "description": "Repaint is an AI web designer. It lets you create custom professional websites just by chatting with AI. You describe what you want\u2014pages, style, content\u2014and Repaint builds it. It's great for startup marketing websites, small businesses, portfolios, nonprofits and more.",
-      "one_liner": "AI for building websites",
+      "description": "Repaint lets you build a website by chatting in plain English. As you describe your business and the changes you want, Repaint turns those messages into design, layout, and content on a live site. It\u2019s built for small businesses, independent professionals, and anyone who doesn\u2019t want to deal with code or heavy design tools. Our vision is to make a new type of software creation that's accessible to everyone.",
+      "one_liner": "Build a website by chatting with AI",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -3930,18 +3930,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Chatbot",
         "Design",
-        "Web Development"
+        "Web Development",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1690825892.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/03dfcca42cc18ab05a66bfb1ac760c686411352a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a40c666dc622907d8af3f29f4b78c554dba156c9.png"
     },
     {
       "id": 28881,
@@ -6151,8 +6151,8 @@
       "name": "Cardinal",
       "slug": "trycardinal",
       "website": "https://www.trycardinal.ai/",
-      "description": "Cardinal helps enterprises turn complex documents into structured, reliable data.",
-      "one_liner": "helping you crush outbound",
+      "description": "Infrastructure that lets modern AI teams design, execute, and crush GTM.",
+      "one_liner": "GTM for fast-moving companies",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -7390,5 +7390,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2025-12-17T00:02:44.932373"
+  "fetched_at": "2025-12-17T06:01:09.270935"
 }
