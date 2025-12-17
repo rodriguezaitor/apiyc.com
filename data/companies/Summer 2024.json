@@ -491,15 +491,16 @@
       "name": "Mica AI",
       "slug": "mica-ai",
       "website": "https://usemica.com/",
-      "description": "Mica\u2019s AI agents replace the team that resolves data pipeline exceptions \u2014 the messy edge cases that orchestration tools like Airflow, dbt, or Fivetran can\u2019t fix. These failures require human judgment and context that rules can\u2019t capture.\r\n\r\nWhen a pipeline hits bad or incomplete data, Mica does what a human would: it inspects the records, pulls context from internal databases, checks company docs, looks up information in external systems, and takes the correct action to get the pipeline moving again.\r\n\r\nThe result: your data pipelines scale without scaling your headcount. Mica turns exception handling from a manual bottleneck into an automated background process.",
-      "one_liner": "Replace the humans resolving data pipeline exceptions",
+      "description": "Mica's AI agents replace the data ops teams fixing bad data.\r\n\r\nWhen bad or missing data breaks the pipeline, and orchestration, retries, and monitoring fail, painful manual review work kicks in, pulling humans in to investigate and patch data issues across systems. Mica does what those humans do: gathering the right information from internal docs and external systems, reasoning across context, and resolving errors autonomously to get the pipeline moving again.\r\n\r\nThe result: dramatically reduce time, cost, and operational drag as your data pipelines scale without scaling ops headcount. Mica turns judgment-heavy data fixes from a manual bottleneck into an automated background process with full auditability.\r\n",
+      "one_liner": "Replace the humans fixing bad data",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Operations",
       "industries": [
-        "B2B"
+        "B2B",
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -507,10 +508,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "Enterprise Software",
-        "AI"
+        "Data Science",
+        "Data Engineering",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8243,5 +8243,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-12-16T18:01:23.635500"
+  "fetched_at": "2025-12-17T00:02:43.897029"
 }

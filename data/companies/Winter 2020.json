@@ -4901,42 +4901,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4d680463f8fee3408726becdad9bccd8e14c8a1.png"
     },
     {
-      "id": 12638,
-      "name": "Milo",
-      "slug": "milo",
-      "website": "http://www.joinmilo.com",
-      "description": "Milo is the Family AI. We give busy parents back time + mindshare by tackling the daily details with a behind the scenes co-pilot. By pairing a human in the loop with the latest in LLM capabilities we're able to effectively build a copilot for detailed, high context and noisy tasks, via a simple conversational SMS interface.",
-      "one_liner": "The Family AI - a copilot for parents to tackle the invisible load of\u2026",
-      "batch": "Winter 2020",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Home and Personal",
-      "industries": [
-        "Consumer",
-        "Home and Personal"
-      ],
-      "regions": [
-        "United States of America",
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Vancouver, BC, Canada; Seattle, WA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Conversational AI",
-        "AI Assistant"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1584247822.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f077c8b6cd781f4ee1702dc34cee59ceb845e8bd.png"
-    },
-    {
       "id": 12581,
       "name": "Genecis Bio",
       "slug": "genecis-bio",
@@ -7748,7 +7712,43 @@
       "is_top_company": false,
       "launched_at": 1584138995.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9980ce54defe188c491d271fa9b0710384aa9ae.png"
+    },
+    {
+      "id": 12638,
+      "name": "Milo",
+      "slug": "milo",
+      "website": "http://www.joinmilo.com",
+      "description": "Milo is the Family AI. We give busy parents back time + mindshare by tackling the daily details with a behind the scenes co-pilot. By pairing a human in the loop with the latest in LLM capabilities we're able to effectively build a copilot for detailed, high context and noisy tasks, via a simple conversational SMS interface.",
+      "one_liner": "The Family AI - a copilot for parents to tackle the invisible load of\u2026",
+      "batch": "Winter 2020",
+      "status": "Inactive",
+      "team_size": 4,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Home and Personal",
+      "industries": [
+        "Consumer",
+        "Home and Personal"
+      ],
+      "regions": [
+        "United States of America",
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Vancouver, BC, Canada; Seattle, WA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Conversational AI",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1584247822.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f077c8b6cd781f4ee1702dc34cee59ceb845e8bd.png"
     }
   ],
-  "fetched_at": "2025-12-16T18:01:24.663346"
+  "fetched_at": "2025-12-17T00:02:44.595580"
 }

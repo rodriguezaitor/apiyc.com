@@ -528,9 +528,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Design"
+        "Design",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -2200,7 +2200,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753390612.0,
@@ -5352,5 +5352,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-12-16T18:01:26.668526"
+  "fetched_at": "2025-12-17T00:02:46.287543"
 }

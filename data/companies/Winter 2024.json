@@ -3773,8 +3773,8 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent makes AI products safe and compliant.\r\n\r\nWe provide defense models and adversarial tests that prevent safety and compliance failures in AI agents and give companies the proof they need for enterprise deals. \r\n\r\nOur small language models, Guard, Redact, and Verify, run inside agents to stop prompt injections, data leaks, and unsafe outputs. Our tests measure prompt resistance, data protection, and factual accuracy so teams know how their system behaves under pressure.",
-      "one_liner": "Defense models and adversarial tests for AI products",
+      "description": "Superagent helps developers make their AI apps safe.\r\n\r\nWe provide:\r\n- An SDK with guardrails for runtime protection \u2014 stops data leaks, blocks harmful actions\r\n- Red teaming assessments to surface failures\r\n- A safety page to prove it to your customers\r\n\r\nPowered by a safety agent that runs in your environment \u2014 works with any model.",
+      "one_liner": "Making AI apps safe",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -8274,5 +8274,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-16T18:01:23.139223"
+  "fetched_at": "2025-12-17T00:02:43.557521"
 }
