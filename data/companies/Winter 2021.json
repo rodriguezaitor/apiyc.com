@@ -2690,7 +2690,7 @@
       "tags": [
         "Fintech"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3257,7 +3257,7 @@
       "one_liner": "Canada's digital health clinic for men",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 50,
+      "team_size": 70,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Consumer Health and Wellness",
       "industries": [
@@ -3275,7 +3275,7 @@
         "Consumer",
         "Digital Health"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3492,8 +3492,8 @@
       "name": "Reclaim Protocol",
       "slug": "reclaim-protocol",
       "website": "https://reclaimprotocol.org",
-      "description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications at the industry lowest costs.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
-      "one_liner": "Industry's first sub-dollar user data verification company!",
+      "description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
+      "one_liner": "User data verification across Employment, Academic Creds, Retail\u2026",
       "batch": "Winter 2021",
       "status": "Active",
       "team_size": 26,
@@ -3511,13 +3511,13 @@
       ],
       "locations": "Hyderabad, Telangana, India; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Finance",
         "Identity",
-        "Compliance"
+        "Compliance",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1616635998.0,
@@ -11538,5 +11538,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-12-17T12:01:11.275991"
+  "fetched_at": "2025-12-17T18:01:07.430358"
 }
