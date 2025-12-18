@@ -3366,7 +3366,7 @@
       "one_liner": "AI that makes compliance effortless",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 15,
+      "team_size": 33,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -3387,7 +3387,7 @@
         "Cybersecurity",
         "AI"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3873,8 +3873,8 @@
       "name": "Browser Buddy",
       "slug": "browser-buddy",
       "website": "https://www.browserbuddy.com/",
-      "description": "Get an AI-curated feed of quotes and snippets for any topic you're interested in. ",
-      "one_liner": "An AI buddy that curates your information diet ",
+      "description": "Find great essays for any topic you're interested in. ",
+      "one_liner": "A recommendation system for great Internet writing",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -3890,8 +3890,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Consumer",
-        "AI"
+        "Artificial Intelligence",
+        "Consumer"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -6007,7 +6007,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705177845.0,
@@ -6707,7 +6707,7 @@
       "one_liner": "The most accurate API to parse documents",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 18,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -6726,7 +6726,7 @@
         "Enterprise Software",
         "Search"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -8275,5 +8275,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-18T12:01:31.094567"
+  "fetched_at": "2025-12-18T18:01:15.951058"
 }
