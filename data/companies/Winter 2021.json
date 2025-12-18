@@ -1362,6 +1362,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c19e5f223f5e07fad692fb4bea179778c08b018.png"
     },
     {
+      "id": 23434,
+      "name": "Broad",
+      "slug": "broad",
+      "website": "http://www.broad.app",
+      "description": "Broad is building global financial products that enable life without borders.",
+      "one_liner": "The multicurrency account and card for Brazilians",
+      "batch": "Winter 2021",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "London, England, United Kingdom; Remote",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1614182017.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4db2474262802865fe1aa9cf299865700280ea6e.png"
+    },
+    {
       "id": 23433,
       "name": "Estoca",
       "slug": "estoca",
@@ -9832,39 +9865,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ff762d9008ae52914e56724b09462b7d75da5e7.png"
     },
     {
-      "id": 23434,
-      "name": "Broad",
-      "slug": "broad",
-      "website": "http://www.broad.app",
-      "description": "Broad is building global financial products that enable life without borders.",
-      "one_liner": "The multicurrency account and card for Brazilians",
-      "batch": "Winter 2021",
-      "status": "Inactive",
-      "team_size": 5,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Banking and Exchange",
-      "industries": [
-        "Fintech",
-        "Banking and Exchange"
-      ],
-      "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "London, England, United Kingdom; Remote",
-      "tags": [
-        "Fintech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1614182017.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4db2474262802865fe1aa9cf299865700280ea6e.png"
-    },
-    {
       "id": 23400,
       "name": "Dressd",
       "slug": "dressd",
@@ -11538,5 +11538,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2025-12-18T00:02:57.458480"
+  "fetched_at": "2025-12-18T06:01:02.810207"
 }

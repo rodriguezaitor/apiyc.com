@@ -5374,11 +5374,11 @@
       "name": "voize",
       "slug": "voize",
       "website": "https://voize.de/",
-      "description": "At voize, we\u2019re revolutionizing the healthcare industry with AI: Nurses simply speak their documentation into their smartphones, and our AI automatically generates the correct entries. This saves each nurse an average of 39 minutes per day, improves the quality of documentation, and makes their daily work much more rewarding.\r\n\r\nvoize is YCombinator-funded, already in use at over 600 senior care homes, and has grown by 100% in the last 90 days. Our customers save over 3.5 million hours annually \u2013 time spent on people instead of paperwork.\r\n\r\nBut this is just the beginning. With our self-developed voize AI, we\u2019re transforming not only the healthcare industry, but also have the potential to create value in many other sectors \u2013 from healthcare to inspections.",
-      "one_liner": "App for healthcare workers to fill out forms using speech",
+      "description": "At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people. \r\n\r\nWe\u2019re changing that by building the AI companion that frees nurses from admin, giving them back up to 30% of time. We don\u2019t replace humans - we support and amplify their impact. Today, 1,500+ care facilities trust voize, and over 100,000 nurses rely on our AI companion** to ease their daily workload.\r\n\r\nOur mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs.",
+      "one_liner": "We build the AI companion for nurses, to create time for care.",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 75,
+      "team_size": 85,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -5394,10 +5394,11 @@
       "locations": "Berlin, Berlin, Germany",
       "tags": [
         "Machine Learning",
+        "Speech Recognition",
         "Healthcare",
         "NLP"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -13812,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-12-18T00:02:56.536881"
+  "fetched_at": "2025-12-18T06:01:01.947680"
 }

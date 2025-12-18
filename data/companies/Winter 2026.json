@@ -134,6 +134,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b428e32efe17d32eca49b716cb0a2375cd4f5ef3.png"
     },
     {
+      "id": 31209,
+      "name": "AxionOrbital Space",
+      "slug": "axionorbital-space",
+      "website": "https://axionorbital.space/",
+      "description": "AxionOrbital Space builds foundation models that enable continuous visibility through clouds and darkness. Legacy optical satellites are rendered useless 70% of the time by weather and night cycles, while Synthetic Aperture Radar (SAR) produces data that is unintelligible to humans and breaks standard vision pipelines.\r\n\r\nWe solve this by translating raw radar backscatter into analysis-ready optical imagery in real-time. Our proprietary architecture uses deterministic one-step diffusion to transform complex radar signals into clear, photorealistic images. This enables persistent, 24/7 situational awareness for defense, commodities trading, and disaster response, guaranteeing visibility even when the sky is blocked.",
+      "one_liner": "Foundation models for 24/7 Earth Observation",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Deep Learning",
+        "Satellites",
+        "Weather"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1766035351.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff7ea0a2705181cece299bd5b340009989058d59.png"
+    },
+    {
       "id": 31207,
       "name": "Caretta",
       "slug": "caretta",
@@ -234,6 +267,37 @@
       "is_top_company": false,
       "launched_at": 1764074488.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1817be5549646fb9b2b3d779a9bab1f85f130917.png"
+    },
+    {
+      "id": 31177,
+      "name": "Prana",
+      "slug": "prana-health",
+      "website": "https://pranahealth.io",
+      "description": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits.\r\n\r\nMost AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.\r\n\r\nSafety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer <60 minute access to a physician, 24/7, for a fraction of the cost of traditional care.\r\n\r\nThe Team:\r\n - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments.\r\n- Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals.\r\n- Sanjit Menon (CMO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine.\r\n\r\nTraction: Live in beta with early users.",
+      "one_liner": "An AI primary care doctor in your pocket",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Consumer Health and Wellness",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Health Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1766024605.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6fd6b3bc7fb91c70acd850ce7a537f0e519187f.png"
     },
     {
       "id": 31137,
@@ -641,7 +705,39 @@
       "is_top_company": false,
       "launched_at": 1765688555.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d26d24c61924267537a4115164b26aa781fed0d.png"
+    },
+    {
+      "id": 30905,
+      "name": "Travo",
+      "slug": "travo",
+      "website": "https://www.travoai.com/",
+      "description": "We are building the most accurate and comprehensive real estate data set for RV parks and similar niche asset classes.\r\n\r\nTravo is the one stop shop for anyone working in real estate to search any property or parcel of land and instantly access rental comps, ownership, zoning and financials. With our data, we build the best informed AI applications for real estate private equity firms, developers, and brokers.",
+      "one_liner": "We use AI to collect and analyze real estate data",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction",
+      "industries": [
+        "Real Estate and Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Real Estate",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1766027196.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/deeed8a6efc77a26be86d84cd2f8f691af1cf633.png"
     }
   ],
-  "fetched_at": "2025-12-18T00:03:08.043273"
+  "fetched_at": "2025-12-18T06:01:13.555251"
 }
