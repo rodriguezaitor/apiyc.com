@@ -1855,11 +1855,11 @@
       "name": "Confident AI",
       "slug": "confident-ai",
       "website": "https://confident-ai.com",
-      "description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+      "description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (12.6k stars, >3m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
       "one_liner": "Open-Source Unit Testing for LLM Applications",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -1872,10 +1872,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5368,5 +5368,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-12-18T06:01:06.796197"
+  "fetched_at": "2025-12-18T12:01:33.929859"
 }
