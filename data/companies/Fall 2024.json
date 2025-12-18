@@ -182,8 +182,8 @@
     },
     {
       "id": 30124,
-      "name": "Careforce (prev. Helpcare AI)",
-      "slug": "careforce-prev-helpcare-ai",
+      "name": "Careforce",
+      "slug": "careforce",
       "website": "https://careforce.ai/",
       "description": "Careforce builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
       "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
@@ -197,16 +197,18 @@
         "Healthcare IT"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "Oakland, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Healthcare",
         "Healthcare IT",
-        "Call Center"
+        "Call Center",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3019,5 +3021,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2025-12-17T18:01:09.771774"
+  "fetched_at": "2025-12-18T00:03:04.585601"
 }

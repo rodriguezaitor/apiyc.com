@@ -7191,38 +7191,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ea1172de26f49fc99e9067a628878010268cd4e.png"
     },
     {
-      "id": 24167,
-      "name": "Kindamagical",
-      "slug": "kindamagical",
-      "website": "https://www.kindamagical.com",
-      "description": "Kindamagical is a recording + editing studio for making product content. We help users record, produce, and share product GIFs in minutes, that would otherwise take hours to produce with traditional tools.",
-      "one_liner": "Create + share amazing product GIFs in minutes \u26a1\ufe0f",
-      "batch": "Summer 2021",
-      "status": "Active",
-      "team_size": 1,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Mill Valley, CA, USA; Remote",
-      "tags": [
-        "Design Tools"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1645711662.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a9c79dac3c9f7267080966bb57a5b86525bfe43.png"
-    },
-    {
       "id": 24166,
       "name": "SafeBeat",
       "slug": "safebeat",
@@ -12803,6 +12771,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab9214122c1f44be841827f0b43c68e15d29f063.png"
     },
     {
+      "id": 24167,
+      "name": "Kindamagical",
+      "slug": "kindamagical",
+      "website": "https://www.kindamagical.com",
+      "description": "Kindamagical is a recording + editing studio for making product content. We help users record, produce, and share product GIFs in minutes, that would otherwise take hours to produce with traditional tools.",
+      "one_liner": "Create + share amazing product GIFs in minutes \u26a1\ufe0f",
+      "batch": "Summer 2021",
+      "status": "Inactive",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Mill Valley, CA, USA; Remote",
+      "tags": [
+        "Design Tools"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1645711662.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a9c79dac3c9f7267080966bb57a5b86525bfe43.png"
+    },
+    {
       "id": 24163,
       "name": "Commery",
       "slug": "commery",
@@ -13421,5 +13421,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-12-17T18:01:07.222909"
+  "fetched_at": "2025-12-18T00:02:56.926986"
 }
