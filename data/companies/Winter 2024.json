@@ -3387,7 +3387,7 @@
         "Cybersecurity",
         "AI"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6726,7 +6726,7 @@
         "Enterprise Software",
         "Search"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7517,29 +7517,31 @@
       "id": 29179,
       "name": "Driver",
       "slug": "driver",
-      "website": "https://www.driverai.com/",
+      "website": "https://www.driver.ai/",
       "description": "Driver is the context layer that translates your codebase into shared, structured understanding. By computing context ahead of time, Driver delivers symbol\u2011complete documentation, architecture maps, and history guides so teams and agents can reason across an entire codebase without guesswork.",
       "one_liner": "Context for Codebases",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 13,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
         "B2B"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "Austin, TX, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1706885806.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea81e9c37c41aa8296991408bceb179678f02b16.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c0d2da4481d3ddf8dc17ba19ceb222de4b0560c.png"
     },
     {
       "id": 29177,
@@ -8275,5 +8277,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-19T12:01:15.364868"
+  "fetched_at": "2025-12-19T18:01:07.906469"
 }

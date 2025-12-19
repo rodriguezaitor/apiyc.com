@@ -674,6 +674,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
     },
     {
+      "id": 31036,
+      "name": "Mantis Biotechnology",
+      "slug": "mantis-biotechnology",
+      "website": "https://mantisbiotech.com/",
+      "description": "Mantis provides the foundational infrastructure layer that enables companies to build human-in-computer models. We unify fragmented data sources, simulate human anatomy and physiology, and validate against real-world outcomes.\r\n\r\nFrom motion capture and biometric sensors to medical imaging and training logs, our platform transforms disparate data into validated digital twins ready for production applications.",
+      "one_liner": "The Infrastructure Powering Human-In-Computer Models",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Sports Tech",
+        "Biotech",
+        "Architecture",
+        "Biotechnology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1766166166.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f0d946db9933a1c8727f6d2f1866d63131273c1.png"
+    },
+    {
       "id": 30927,
       "name": "Oxus",
       "slug": "oxus",
@@ -739,5 +774,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/deeed8a6efc77a26be86d84cd2f8f691af1cf633.png"
     }
   ],
-  "fetched_at": "2025-12-19T12:01:19.901731"
+  "fetched_at": "2025-12-19T18:01:11.891250"
 }
