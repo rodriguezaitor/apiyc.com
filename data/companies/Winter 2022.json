@@ -494,40 +494,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f429c16ee024d738c1b758e7c2d0ca5d811f204b.png"
     },
     {
-      "id": 26253,
-      "name": "AiSupervision",
-      "slug": "aisupervision",
-      "website": "https://www.aisupervision.com",
-      "description": "We make the operating system to track, manage and improve production in factories with many workers. We automate what the best supervisors would do if they watched everything that\u2019s happening inside your factory.",
-      "one_liner": "The operating system for factory production lines",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 13,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
-      "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
-      ],
-      "regions": [
-        "Germany",
-        "Europe",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Mannheim, BW, Germany",
-      "tags": [
-        "Manufacturing",
-        "Industrial"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1645099380.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ef38ec95af8ac6ef83269792c5ba62d68d01e59.png"
-    },
-    {
       "id": 26243,
       "name": "Phoenix Hydrogen",
       "slug": "phoenix-hydrogen",
@@ -12665,6 +12631,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/626415af75443e687263cca4e8f8d9dfff7e9e95.png"
     },
     {
+      "id": 26253,
+      "name": "AiSupervision",
+      "slug": "aisupervision",
+      "website": "https://www.aisupervision.com",
+      "description": "We make the operating system to track, manage and improve production in factories with many workers. We automate what the best supervisors would do if they watched everything that\u2019s happening inside your factory.",
+      "one_liner": "The operating system for factory production lines",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 13,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "Germany",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mannheim, BW, Germany",
+      "tags": [
+        "Manufacturing",
+        "Industrial"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1645099380.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ef38ec95af8ac6ef83269792c5ba62d68d01e59.png"
+    },
+    {
       "id": 26238,
       "name": "Flike",
       "slug": "flike",
@@ -13813,5 +13813,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2025-12-18T18:01:13.958808"
+  "fetched_at": "2025-12-19T00:03:01.897050"
 }
