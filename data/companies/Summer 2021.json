@@ -5228,11 +5228,11 @@
       "name": "LemFi",
       "slug": "lemfi",
       "website": "https://lemfi.com",
-      "description": "LemFi is a digital bank for the African diaspora. There are over 20 million African immigrants in North America and Europe with many running businesses back home and we provide multi-currency accounts to help manage their unique banking needs.",
-      "one_liner": "LemFi banks the world's emerging market immigrants.",
+      "description": "LemFi makes everyday financial services fair, simple and accessible for people overlooked by traditional banks, starting with those who live and work across borders",
+      "one_liner": "Fair, simple and accessible financial services",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 250,
+      "team_size": 500,
       "industry": "Fintech",
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
@@ -5241,22 +5241,20 @@
       ],
       "regions": [
         "United Kingdom",
-        "Nigeria",
         "Europe",
-        "Africa",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "London, England, United Kingdom; Abuja, Federal Capital Territory, Nigeria",
+      "locations": "London, England, United Kingdom",
       "tags": [
         "Fintech"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1625501227.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/79689fa1d53bc3e057e9bc878f709559b945d584.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bd8ebdc83b1a3ba26ec46a9b2b53cac70a95a80.png"
     },
     {
       "id": 24371,
@@ -13421,5 +13419,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2025-12-20T12:01:06.970050"
+  "fetched_at": "2025-12-20T18:01:06.929077"
 }
