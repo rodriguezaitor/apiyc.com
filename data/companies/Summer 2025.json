@@ -2708,10 +2708,10 @@
     },
     {
       "id": 30689,
-      "name": "b-12",
-      "slug": "b-12",
+      "name": "b12 Labs",
+      "slug": "b12-labs",
       "website": "https://b12-labs.com/",
-      "description": "b-12 is an AI copilot that plans how to create and test new molecules for chemists. We're like a GPS for chemistry, helping pharma companies plan the recipes for new drugs, accelerating early-stage drug discovery from years to months. \r\nAndres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (750+ citations), and won the best paper award at the NeurIPS AI for Science conference.\r\nZlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. He has an extensive network of hundreds of chemists across Europe.\r\nWe are publishing a groundbreaking paper in Nature demonstrating our AI's ability to optimally plan chemical recipes. We run paid pilots with big pharma companies showing that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the usual 8-12 iteration cycle.",
+      "description": "b12 is an AI copilot that plans how to create and test new molecules for chemists. We're like a GPS for chemistry, helping pharma companies plan the recipes for new drugs, accelerating early-stage drug discovery from years to months. \r\nAndres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (750+ citations), and won the best paper award at the NeurIPS AI for Science conference.\r\nZlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. He has an extensive network of hundreds of chemists across Europe.\r\nWe are publishing a groundbreaking paper in Nature demonstrating our AI's ability to optimally plan chemical recipes. We run paid pilots with big pharma companies showing that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the usual 8-12 iteration cycle.",
       "one_liner": "Chemical Copilot for Pharma and Biotech",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2736,7 +2736,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753004647.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a76216fdba4f1c2c1e164dfb8851692bcc330c5.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/64c9b960693fdd85d6fb6be6fefc443ca4ab80af.png"
     },
     {
       "id": 30688,
@@ -5353,5 +5353,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-12-20T00:02:52.996886"
+  "fetched_at": "2025-12-20T06:01:06.079017"
 }
