@@ -600,14 +600,14 @@
     },
     {
       "id": 12281,
-      "name": "Withfriends",
-      "slug": "withfriends",
-      "website": "https://withfriends.co",
-      "description": "Withfriends makes it easy for any small business to offer memberships, so that your community can subscribe to support your business. Simply connect us to your online store or point-of-sale, and we'll offer memberships to your customers during checkout. We've found 1 in 20 customers will choose to become members, bringing your business an additional 45% in revenue.",
-      "one_liner": "Withfriends makes it easy to offer memberships for your small business",
+      "name": "Pools (fka Withfriends)",
+      "slug": "pools-fka-withfriends",
+      "website": "https://pools.events",
+      "description": "Pools makes it easy for art, music, and other cultural communities to build memberships around their events. Inspired by the same methodology that museums have used to grow support, the platform leverages the checkout of tickets sales to upsell attendees into a membership with automated discounts, advance access, or members-only benefits.",
+      "one_liner": "Pools is a memberships platform for event organizers",
       "batch": "Winter 2019",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 2,
       "industry": "Consumer",
       "subindustry": "Consumer -> Social",
       "industries": [
@@ -631,7 +631,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1544068972.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c539024b47b2012732eb609e66899574b579a30.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1c7715701f5ea6fecf38416ed93411a6268bac1.png"
     },
     {
       "id": 12280,
@@ -6558,5 +6558,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-12-19T18:01:08.850754"
+  "fetched_at": "2025-12-20T00:02:52.184192"
 }

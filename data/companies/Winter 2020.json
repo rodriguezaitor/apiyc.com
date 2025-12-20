@@ -4034,7 +4034,7 @@
         "Advertising",
         "AI"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4074,40 +4074,6 @@
       "is_top_company": false,
       "launched_at": 1579635113.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/96f673cac4ff8f2e5fd5fc81d0fd40a9e6767804.png"
-    },
-    {
-      "id": 13105,
-      "name": "Factored Quality",
-      "slug": "factored-quality",
-      "website": "https://www.factoredquality.com/",
-      "description": "Factored Quality is a digital QC management tool that brings all quality and compliance operations together in a single unified platform. \r\n\r\nWe help 100+ brands like Brooklinen, The Honest Company, Dr. Squatch, and Canopy Humidifiers run QC, Supplier Audits, and Compliance Testing anywhere in the world.",
-      "one_liner": "Helping 100+ brands bring all quality and compliance operations\u2026",
-      "batch": "Winter 2020",
-      "status": "Active",
-      "team_size": 20,
-      "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "New York, NY, USA; Remote",
-      "tags": [
-        "SaaS",
-        "Supply Chain"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1589993357.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eabc6dba9b2a0e33f2d5e33a93d1f2d97e03940.png"
     },
     {
       "id": 13104,
@@ -5676,6 +5642,40 @@
       "is_top_company": false,
       "launched_at": 1584229476.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3dafb6a330856d4ad26439ff3d8f51fea13507.png"
+    },
+    {
+      "id": 13105,
+      "name": "Factored Quality",
+      "slug": "factored-quality",
+      "website": "https://www.factoredquality.com/",
+      "description": "Factored Quality is a digital QC management tool that brings all quality and compliance operations together in a single unified platform. \r\n\r\nWe help 100+ brands like Brooklinen, The Honest Company, Dr. Squatch, and Canopy Humidifiers run QC, Supplier Audits, and Compliance Testing anywhere in the world.",
+      "one_liner": "Helping 100+ brands bring all quality and compliance operations\u2026",
+      "batch": "Winter 2020",
+      "status": "Acquired",
+      "team_size": 20,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "SaaS",
+        "Supply Chain"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1589993357.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eabc6dba9b2a0e33f2d5e33a93d1f2d97e03940.png"
     },
     {
       "id": 13100,
@@ -7750,5 +7750,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f077c8b6cd781f4ee1702dc34cee59ceb845e8bd.png"
     }
   ],
-  "fetched_at": "2025-12-19T18:01:08.413689"
+  "fetched_at": "2025-12-20T00:02:50.953355"
 }
