@@ -4522,10 +4522,11 @@
         "Artificial Intelligence",
         "B2B",
         "Logistics",
-        "Supply Chain"
+        "Supply Chain",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753218115.0,
@@ -5353,5 +5354,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-12-22T06:01:12.070845"
+  "fetched_at": "2025-12-22T12:01:25.330036"
 }
