@@ -742,6 +742,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f0d946db9933a1c8727f6d2f1866d63131273c1.png"
     },
     {
+      "id": 31030,
+      "name": "Haladir",
+      "slug": "haladir",
+      "website": "https://www.haladir.com/",
+      "description": "RLVR changed the game for post-training. We're here to build and supply the next-generation of coding data and RL environments using model checking languages and formal verification. In a world where solid coding data is becoming increasingly sparse, Haladir provides the data and environments needed to build the next generation of coding models.",
+      "one_liner": "Rooting Formal Methods into CodeGen RL & Data",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Data Engineering"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1766374394.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/891b1ae1a3af72452ca88d9f14e1dbe9e18217c6.png"
+    },
+    {
       "id": 31003,
       "name": "Voltair",
       "slug": "voltair",
@@ -840,5 +873,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/deeed8a6efc77a26be86d84cd2f8f691af1cf633.png"
     }
   ],
-  "fetched_at": "2025-12-22T00:03:01.452338"
+  "fetched_at": "2025-12-22T06:01:20.630852"
 }
