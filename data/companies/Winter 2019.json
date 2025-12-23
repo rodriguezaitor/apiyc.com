@@ -1854,11 +1854,11 @@
       "name": "Heart Aerospace",
       "slug": "heart-aerospace",
       "website": "http://www.heartaerospace.com",
-      "description": "Heart makes electric airplanes. We\u2019re based in Sweden, and we\u2019re developing a 19-passenger aircraft (EASA CS-23/FAA Part 23 certifiable). The plane will have an all-electric range of 250 miles and a backup generator for reserves and range extension. \r\n\r\nWe have signed LOIs with Scandinavian Airlines SAS (the biggest airline in northern Europe), BRA and Wideroe for 86+ planes.",
+      "description": "Heart makes electric airplanes. ",
       "one_liner": "Heart makes electric airplanes with an all-electric range of 250 miles",
       "batch": "Winter 2019",
       "status": "Active",
-      "team_size": 130,
+      "team_size": 50,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -1866,12 +1866,12 @@
         "Aviation and Space"
       ],
       "regions": [
-        "Sweden",
-        "Europe",
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Gothenburg, V\u00e4stra G\u00f6taland County, Sweden",
+      "locations": "Los Angeles, CA, USA",
       "tags": [
         "Climate",
         "Electric Vehicles",
@@ -6558,5 +6558,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2025-12-22T18:01:07.302266"
+  "fetched_at": "2025-12-23T00:02:59.451270"
 }

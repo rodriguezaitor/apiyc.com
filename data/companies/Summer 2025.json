@@ -2276,7 +2276,7 @@
       "one_liner": "Automates insurance claims and stops incorrect payouts",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 10,
       "industry": "Fintech",
       "subindustry": "Fintech -> Insurance",
       "industries": [
@@ -3019,7 +3019,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752184530.0,
@@ -3521,8 +3521,8 @@
       "name": "Skope",
       "slug": "skope",
       "website": "https://useskope.com",
-      "description": "",
-      "one_liner": "",
+      "description": "Skope builds AI agents for law firms that perform a variety of tasks to increase efficiency from bulk data extraction and filling out templates to drafting and reviewing documents. We will help your law firm make more money, with AI.",
+      "one_liner": "Build a more profitable law firm with AI.",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3537,8 +3537,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "B2B"
+        "B2B",
+        "Legal",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5354,5 +5355,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2025-12-22T18:01:07.853088"
+  "fetched_at": "2025-12-23T00:02:59.731652"
 }

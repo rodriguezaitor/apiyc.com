@@ -5570,8 +5570,8 @@
     },
     {
       "id": 27820,
-      "name": "LaunchFlow / infra.new",
-      "slug": "launchflow-infra-new",
+      "name": "infra.new",
+      "slug": "infranew",
       "website": "https://infra.new",
       "description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
       "one_liner": "AI Agent for Cloud Infrastructure",
@@ -5590,11 +5590,11 @@
       ],
       "locations": "Remote",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "B2B",
-        "Cloud Computing",
-        "AI"
+        "Cloud Computing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -9334,5 +9334,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2025-12-22T18:01:05.130373"
+  "fetched_at": "2025-12-23T00:02:58.337607"
 }
