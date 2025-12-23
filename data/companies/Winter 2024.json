@@ -4873,19 +4873,19 @@
     },
     {
       "id": 29332,
-      "name": "Double",
-      "slug": "double-2",
-      "website": "https://double.finance/",
-      "description": "Double lets anyone design and invest in their own stock index that\u2019s advised, managed and tax optimized by Double. \r\n",
-      "one_liner": "Design Your Own Stock Index",
+      "name": "Pillar",
+      "slug": "trypillar",
+      "website": "https://trypillar.com/",
+      "description": "Your help center shouldn't be an afterthought. Pillar keeps yours alive and accurate, letting users self-help with trusted answers embedded right where they need them.",
+      "one_liner": "The Intelligent Help Center",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 5,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Asset Management",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
-        "Fintech",
-        "Asset Management"
+        "B2B",
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -4895,18 +4895,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Fintech",
-        "Finance",
-        "Investing",
-        "Consumer Finance",
-        "Stocks"
+        "Customer Success",
+        "Customer Service",
+        "Customer Support",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1701750687.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f32f8929416ea7e7dec6aec9f7e546f9a682df2.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3765a4b3a407691f524ffa2f1b9c994e62781a26.png"
     },
     {
       "id": 29330,
@@ -8277,5 +8276,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2025-12-23T00:02:58.498017"
+  "fetched_at": "2025-12-23T06:03:42.299864"
 }
