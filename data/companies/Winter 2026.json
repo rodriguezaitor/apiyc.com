@@ -108,10 +108,11 @@
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 6,
-      "industry": "Consumer",
-      "subindustry": "Consumer",
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
       "industries": [
-        "Consumer"
+        "B2B",
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -121,9 +122,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Productivity",
+        "AI",
         "Note-taking"
       ],
       "stage": "Early",
@@ -331,6 +332,40 @@
       "is_top_company": false,
       "launched_at": 1766024605.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6fd6b3bc7fb91c70acd850ce7a537f0e519187f.png"
+    },
+    {
+      "id": 31175,
+      "name": "Pax Historia",
+      "slug": "pax-historia",
+      "website": "https://www.paxhistoria.co",
+      "description": "Pax Historia is an alternate-history sandbox game where players choose a country, a moment in time, and rewrite the course of history. What if Rome never fell? What if the Soviet Union survived? What if Genghis Khan ruled for another generation?\r\n\r\nWe go beyond history, too. What if aliens invaded Earth? What if you were a college dropout creating a tech startup? The ability to create, edit, and copy custom maps, actors, historical context, and more means that users can play nearly any scenario they can imagine.\r\n\r\nIn the last four months we've organically built a passionate fanbase of tens of thousands of daily active players and we're excited to expand on this early start. Consider joining us to help build vastly better tools for creators and experiences for players.",
+      "one_liner": "The first AI-powered grand strategy platform",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Marketplace",
+        "Consumer",
+        "Gaming"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1766621024.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58aceddc6b7af2ca2c35058e943baf719c91fe1c.png"
     },
     {
       "id": 31141,
@@ -904,5 +939,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/deeed8a6efc77a26be86d84cd2f8f691af1cf633.png"
     }
   ],
-  "fetched_at": "2025-12-25T00:03:09.518527"
+  "fetched_at": "2025-12-25T06:01:21.814557"
 }
