@@ -2050,16 +2050,16 @@
       "name": "General Trajectory",
       "slug": "general-trajectory",
       "website": "https://www.generaltrajectory.com/",
-      "description": "General Trajectory is building AI for the physical world.\r\n\r\nWe are training vision-language-action (VLA) models across different embodiments to automate valuable labor starting with palletization, sorting, picking, and packing.",
-      "one_liner": "Reasoning models for robotics",
+      "description": "General Trajectory is using AI to solve the world's most important problems, from autonomous defense to scientific R&D.",
+      "one_liner": "AI for the physical world",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 1,
-      "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
+        "Industrials",
+        "Manufacturing and Robotics"
       ],
       "regions": [
         "United States of America",
@@ -2068,8 +2068,6 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Robotics",
-        "Supply Chain",
-        "Automation",
         "AI"
       ],
       "stage": "Early",
@@ -2077,7 +2075,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738545890.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/39af9ebada08269c20a6c0cbdecb740d7018d9bc.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c79fb57c52ab75fc14e93779100504407b5e064.png"
     },
     {
       "id": 30275,
@@ -2496,7 +2494,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1740392812.0,
@@ -5368,5 +5366,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2025-12-24T18:01:09.255488"
+  "fetched_at": "2025-12-25T00:03:03.197540"
 }
