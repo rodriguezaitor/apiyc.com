@@ -3891,7 +3891,7 @@
       "name": "Dari",
       "slug": "dari",
       "website": "https://usedari.com",
-      "description": "An automation platform where users can reliably automate web workflows using natural language prompts.\r\n\r\nWe handle two-factor authentication and deterministic playback of workflows, ensuring your workflows don't break. ",
+      "description": "A platform where users can automate web workflows using natural language prompts.\r\n\r\nWe handle deterministic playback of browser workflows and fall back to LLMs where necessary, ensuring reliability. ",
       "one_liner": "An API to build the most reliable browser use agents",
       "batch": "Fall 2025",
       "status": "Active",
@@ -5191,5 +5191,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-26T00:03:02.794838"
+  "fetched_at": "2025-12-26T06:01:16.970423"
 }
