@@ -604,6 +604,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/08c53bbd673e3022b474ab6c387588bceea5b021.png"
     },
     {
+      "id": 31094,
+      "name": "Lexius",
+      "slug": "lexius",
+      "website": "https://www.lexius.ai",
+      "description": "We turn existing store security cameras into an AI system that catches shoplifting in real time and alerts staff before thieves leave.",
+      "one_liner": "AI Crime Detection",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Retail",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Computer Vision"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1766833804.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png"
+    },
+    {
       "id": 31091,
       "name": "Sonarly",
       "slug": "sonarly",
@@ -938,5 +971,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/deeed8a6efc77a26be86d84cd2f8f691af1cf633.png"
     }
   ],
-  "fetched_at": "2025-12-27T06:01:06.528134"
+  "fetched_at": "2025-12-27T12:01:24.596169"
 }
