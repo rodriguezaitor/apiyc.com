@@ -3700,8 +3700,8 @@
       "name": "Aden",
       "slug": "aden",
       "website": "https://adenhq.com/",
-      "description": "Aden is an AI-native, multi-agent ERP platform built for operations leaders to unify their business systems, streamline processes, and efficiently manage objectives. Highly customizable and rapidly deployable, Aden boosts Key Performance Indicators (KPIs) with declarative solutions and intelligent AI agents. \r\n\r\nCurrently, Aden helps over 100 operationally-focused businesses, including supply chain control towers of major global corporations, IT departments of major financial institutions, and other high-impact companies, elevate their efficiency, automate workflows, and scale beyond manual operations. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "one_liner": "Hire Aden to run your business operations at scale",
+      "description": "Aden provides real-time financial governance for AI agents in production. Aden replaces opaque API bills with precise control and serves as a drop-in SDK that enables engineering teams to track unit economics per feature, enforce hard budget caps to prevent runaway loops, and generate SOC2-ready audit logs instantly. We bridge the gap between engineering velocity and financial safety.",
+      "one_liner": "Scale AI agents profitably",
       "batch": "Winter 2020",
       "status": "Active",
       "team_size": 12,
@@ -3719,9 +3719,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Enterprise",
-        "Infrastructure"
+        "Developer Tools",
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7750,5 +7750,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f077c8b6cd781f4ee1702dc34cee59ceb845e8bd.png"
     }
   ],
-  "fetched_at": "2025-12-27T00:02:54.637745"
+  "fetched_at": "2025-12-27T06:01:04.057377"
 }
