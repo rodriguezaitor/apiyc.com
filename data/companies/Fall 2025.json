@@ -1563,17 +1563,17 @@
       "id": 30950,
       "name": "Narrative",
       "slug": "usenarrative",
-      "website": "http://www.narrative.video",
-      "description": "Narrative is the AI video understanding infrastructure. We let language models understand thousands of hours of video just as easily as they understand text.",
-      "one_liner": "The infrastructure for AI video processing ",
+      "website": "http://www.narrative-sports.com",
+      "description": "Narrative automates the creation and distribution of high-quality sports highlight videos for broadcasters, teams, and leagues.",
+      "one_liner": "AI-Powered Sports Highlights",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
-        "Infrastructure"
+        "Marketing"
       ],
       "regions": [
         "United States of America",
@@ -1581,10 +1581,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Computational Storage",
-        "Video",
-        "Infrastructure",
-        "AI"
+        "Artificial Intelligence",
+        "Sports Tech",
+        "B2B",
+        "Video"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5191,5 +5191,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-28T18:01:11.261288"
+  "fetched_at": "2025-12-29T00:03:36.050374"
 }

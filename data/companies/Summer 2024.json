@@ -6703,9 +6703,9 @@
       "id": 29634,
       "name": "Random Labs",
       "slug": "random-labs",
-      "website": "",
-      "description": "We are building a fully local opensource software engineer. Software thrives on opensource tools and it's only right that this technology be built for all to use.",
-      "one_liner": "Random labs is building fully open source software agents",
+      "website": "https://randomlabs.ai",
+      "description": "Random Labs is building Slate. Slate is a coding agent designed to work with you for long hours on hard problems.",
+      "one_liner": "Random labs is building long running autonomous coding agents.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": null,
@@ -6720,9 +6720,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -8245,5 +8245,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2025-12-28T18:01:07.419689"
+  "fetched_at": "2025-12-29T00:03:32.313124"
 }
