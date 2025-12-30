@@ -3123,10 +3123,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
         "Open Source",
-        "Cloud Computing",
-        "AI"
+        "Cloud Computing"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3997,7 +3997,7 @@
       "one_liner": "The voice interface that works proactively for you",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4008,12 +4008,12 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Workflow Automation",
-        "Productivity",
-        "AI"
+        "Productivity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4687,8 +4687,8 @@
       "name": "Lapis",
       "slug": "lapis",
       "website": "https://www.trylapis.com/",
-      "description": "Lapis is an AI growth assistant for marketing agencies.\r\n\r\nWe help businesses understand the full buyer journey from discovery to purchase on organic (Google and AI search) and paid media channels (Google, LinkedIn, Meta, TikTok).\r\n\r\nWe do this through a custom RL environment that's fine-tuned to capture a business' specific context.",
-      "one_liner": "AI Growth Assistant for Marketing Agencies",
+      "description": "Lapis is an AI growth marketer\r\n\r\nWe help businesses run targeted ad campaigns on LinkedIn, Google, ChatGPT, and Meta to help them get customers.",
+      "one_liner": "AI Growth Marketer",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 4,
@@ -5191,5 +5191,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2025-12-29T18:01:10.423172"
+  "fetched_at": "2025-12-30T00:03:19.974054"
 }

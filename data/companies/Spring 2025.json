@@ -4011,16 +4011,16 @@
       "name": "BitBoard",
       "slug": "bitboard",
       "website": "https://bitboard.work/",
-      "description": "BitBoard lets healthcare providers hire AI agents for repetitive administrative work within their existing tools and systems.\r\n\r\nBitBoard agents are already recovering thousands of hours previously spent on tedious tasks like reviewing intake forms and updating patient charts.\r\n\r\nThe founders were early employees at Forward, where they delivered primary care across the US with support from thousands of remote contractors handling manual administrative tasks. AI agents are finally capable enough to help.",
-      "one_liner": "The AI workforce for healthcare operations.",
+      "description": "BitBoard is an AI-first spreadsheet that lets you build, update, and analyze spreadsheets via agent chat. Handle complex modeling and analysis 10x faster without giving up direct cell-level control when you need it.\r\n\r\nWe wanted the most capable agent and seamless UX, so we built an agent and spreadsheet to work together instead of bolting chat onto a legacy app.",
+      "one_liner": "The best way to use AI for spreadsheets.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare Services",
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
       "industries": [
-        "Healthcare",
-        "Healthcare Services"
+        "B2B",
+        "Operations"
       ],
       "regions": [
         "United States of America",
@@ -4028,16 +4028,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Healthcare",
-        "Operations",
-        "AI"
+        "Artificial Intelligence",
+        "Finance",
+        "B2B",
+        "Analytics",
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1746992332.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f783a2b5cb286e4aab0c053b944fef2a3dede92.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png"
     },
     {
       "id": 30405,
@@ -4637,5 +4639,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2025-12-29T18:01:10.726707"
+  "fetched_at": "2025-12-30T00:03:20.896867"
 }
