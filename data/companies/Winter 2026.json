@@ -66,6 +66,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png"
     },
     {
+      "id": 31223,
+      "name": "Arzule",
+      "slug": "arzule",
+      "website": "https://www.arzule.com",
+      "description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, AutoGen, and custom stacks, finds coordination failures, and generates a corrected trace with a replayable path for how the workflow should have proceeded. It provides debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to restore forward progress. Arzule also provides labeled multi-agent coordination data that support debugging, benchmarking, evaluation, and the development of more reliable multi-agent systems.",
+      "one_liner": "Debugging and labeling to improve multi-agent coordination",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Data Labeling"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767154035.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png"
+    },
+    {
       "id": 31215,
       "name": "Bubble Lab",
       "slug": "bubble-lab",
@@ -1035,5 +1069,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/deeed8a6efc77a26be86d84cd2f8f691af1cf633.png"
     }
   ],
-  "fetched_at": "2025-12-31T00:02:57.722665"
+  "fetched_at": "2025-12-31T06:01:17.699179"
 }
