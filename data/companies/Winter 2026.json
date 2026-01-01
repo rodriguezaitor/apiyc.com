@@ -304,6 +304,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0464bfc1a158571ff22902856b269f9c0f52001.png"
     },
     {
+      "id": 31191,
+      "name": "Clice AI",
+      "slug": "clice-ai",
+      "website": "https://www.clice.ai",
+      "description": "Clice is the AI powered communication layer that works for any business built on relationships. It unifies email, calendar, and CRM into one intelligent workflow engine that understands context and keeps work moving without manual effort.\r\n\r\nTeams across industries use Clice to manage follow-ups, schedule meetings, organize client records, draft messages, and keep their communication channels clean and responsive. Anyone who works with clients, partners, or stakeholders can plug Clice into their CRM and get an AI teammate that handles the repetitive operational load.\r\n\r\nClice connects to the systems you already use and keeps everything organized while you focus on the work that actually moves the business forward.",
+      "one_liner": "The communication layer for every relationship-driven business",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Productivity",
+        "CRM",
+        "Automation",
+        "Email"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767260558.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b70bf211f4ebf5c82ae3b52b372c4acc569be0d.png"
+    },
+    {
       "id": 31183,
       "name": "Patientdesk.ai",
       "slug": "patientdeskai",
@@ -1069,5 +1104,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png"
     }
   ],
-  "fetched_at": "2026-01-01T06:01:18.823202"
+  "fetched_at": "2026-01-01T12:01:16.302994"
 }
