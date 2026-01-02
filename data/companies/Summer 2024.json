@@ -4688,8 +4688,8 @@
       "name": "Benchify",
       "slug": "benchify",
       "website": "https://www.benchify.com",
-      "description": "Benchify handles the middle mile of codegen ensuring that generated code just works and is instantly executable. It\u2019s a one-line SDK call between LLM clients and sandboxes to deliver instant code repair, accelerated bundling, and observability.\r\n",
-      "one_liner": "Instantly Repair LLM-Generated Code",
+      "description": "Benchify provides an execution layer for healthcare contracts, applying contract logic across audits, claim processing, and optimization. Payments are calculated correctly today, while contract performance becomes measurable and improvable over time.",
+      "one_liner": "Executable healthcare contracts",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 4,
@@ -4704,9 +4704,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8245,5 +8245,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-01T18:01:06.646477"
+  "fetched_at": "2026-01-02T00:02:52.288092"
 }

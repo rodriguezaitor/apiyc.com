@@ -770,6 +770,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png"
     },
     {
+      "id": 31088,
+      "name": "RunAnywhere",
+      "slug": "runanywhere",
+      "website": "https://www.runanywhere.ai/",
+      "description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
+      "one_liner": "The default way of running On-Device AI at Scale",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Enterprise",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767296079.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png"
+    },
+    {
       "id": 31080,
       "name": "Didit",
       "slug": "didit",
@@ -1104,5 +1137,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png"
     }
   ],
-  "fetched_at": "2026-01-01T18:01:14.194745"
+  "fetched_at": "2026-01-02T00:03:01.188283"
 }
