@@ -590,7 +590,7 @@
       "name": "Lumari",
       "slug": "lumari",
       "website": "https://www.lumari.io/",
-      "description": "Lumari enables supply chain teams to automate tactical work using custom-trained AI digital workers across supply chain procurement and sourcing.",
+      "description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
       "one_liner": "AI Digital Workers for Supply Chain",
       "batch": "Spring 2025",
       "status": "Active",
@@ -613,7 +613,7 @@
         "Operations"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747084472.0,
@@ -4639,5 +4639,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-01-02T00:02:56.127003"
+  "fetched_at": "2026-01-02T06:01:23.942327"
 }
