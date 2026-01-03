@@ -2630,42 +2630,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a19487f9d6235e1c02dd412720eb77f6dbaa38bd.png"
     },
     {
-      "id": 25966,
-      "name": "Sendo",
-      "slug": "sendo",
-      "website": "https://sendo.dev",
-      "description": "We're making it easy, cheap and fun for startups to build on SMS again. Sendo is the most developer-friendly SMS API, with great documentation, a fast dashboard, helpful monitoring features, easier 10DLC compliance and much more.\r\n\r\nSave 40%+ compared to Twilio and other options, and get started sending messages in 1-2 days instead of waiting weeks for your 10DLC campaigns to get approved.",
-      "one_liner": "The best SMS/RCS API for startups",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 1,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "New York, NY, USA; Remote",
-      "tags": [
-        "Developer Tools",
-        "Messaging",
-        "API",
-        "SMS"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1644542792.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b175061a073988c7d7a903c9e5517ba9daf8a8b3.png"
-    },
-    {
       "id": 25965,
       "name": "Vobi",
       "slug": "vobi",
@@ -12767,6 +12731,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4080cdbc25e0833a1c37e7cb78ce01ff0a6683fd.png"
     },
     {
+      "id": 25966,
+      "name": "Sendo",
+      "slug": "sendo",
+      "website": "https://sendo.dev",
+      "description": "We're making it easy, cheap and fun for startups to build on SMS again. Sendo is the most developer-friendly SMS API, with great documentation, a fast dashboard, helpful monitoring features, easier 10DLC compliance and much more.\r\n\r\nSave 40%+ compared to Twilio and other options, and get started sending messages in 1-2 days instead of waiting weeks for your 10DLC campaigns to get approved.",
+      "one_liner": "The best SMS/RCS API for startups",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "New York, NY, USA; Remote",
+      "tags": [
+        "Developer Tools",
+        "Messaging",
+        "API",
+        "SMS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1644542792.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b175061a073988c7d7a903c9e5517ba9daf8a8b3.png"
+    },
+    {
       "id": 25921,
       "name": "Nophin",
       "slug": "nophin",
@@ -13812,5 +13812,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-01-02T18:01:04.973553"
+  "fetched_at": "2026-01-03T00:02:59.439629"
 }
