@@ -1,6 +1,38 @@
 {
   "data": [
     {
+      "id": 31263,
+      "name": "Veriad",
+      "slug": "veriad",
+      "website": "https://veriad.ai",
+      "description": "Veriad is an AI compliance officer for enterprises. Our agent analyzes documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies. ",
+      "one_liner": "AI compliance officer",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Compliance",
+        "Marketing"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767420715.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a713774c85daa51c5353d80d0b599eae5069e05.png"
+    },
+    {
       "id": 31233,
       "name": "Chasi",
       "slug": "chasi",
@@ -1138,5 +1170,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png"
     }
   ],
-  "fetched_at": "2026-01-03T12:01:18.845700"
+  "fetched_at": "2026-01-03T18:01:21.823952"
 }
