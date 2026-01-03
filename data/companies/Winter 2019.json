@@ -4186,16 +4186,16 @@
       "name": "Overview",
       "slug": "overview",
       "website": "https://overview.ai",
-      "description": "Overview is a company that takes the cutting edge in computer vision and deep learning and applies it to previously unsolvable manufacturing inspection problems. We are truly a full stack company. We install physical cameras into the facility, run inference on the edge and manage massive deployments. Overview also streams gigabytes of video/image data to the cloud for our web platform to give customers advanced insights and analytics. ",
-      "one_liner": "AI vision sensors for manufacturing",
+      "description": "Here\u2019s a secret between you and me: even the world\u2019s largest manufacturers, companies like Tesla and Toyota, waste billions of dollars every year making products with quality issues. Building high-quality things at scale is incredibly hard. It doesn\u2019t just happen because you hire smart people or buy good machines. It requires seeing problems early, understanding them deeply, and acting in real time, something factories were never designed to do.\r\n\r\nAt Overview.ai, we\u2019re changing that. We build custom hardware, edge AI, and software systems that give manufacturers real visibility into how their products are actually being made. Our technology helps catch defects earlier, reduce waste, and fundamentally improve how factories operate. This work matters, not just for our customers, but for keeping American manufacturing competitive in a world that\u2019s moving faster every year.",
+      "one_liner": "Reshaping industrial quality with AI, hardware, and software",
       "batch": "Winter 2019",
       "status": "Active",
-      "team_size": 15,
-      "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "team_size": 40,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
-        "B2B",
-        "Operations"
+        "Industrials",
+        "Manufacturing and Robotics"
       ],
       "regions": [
         "United States of America",
@@ -4205,11 +4205,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Deep Learning",
         "IoT",
-        "Computer Vision"
+        "Computer Vision",
+        "Manufacturing"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6558,5 +6560,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2026-01-03T00:03:03.989423"
+  "fetched_at": "2026-01-03T06:01:06.352646"
 }
