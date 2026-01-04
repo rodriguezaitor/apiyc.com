@@ -1892,7 +1892,7 @@
       "name": "attimet",
       "slug": "attimet",
       "website": "https://attimet.com/",
-      "description": "We\u2019re building a research lab that puts its ideas to the test in one of the most complex, information-rich environments in the world: the financial markets.\r\n\r\nMuch of trading still depends on hand-crafted signals and intuition. We\u2019re approaching it differently - from first principles. We design systems that learn, adapt, and improve with data. Our infrastructure is built to accelerate research: fast iteration loops, real-time feedback, and direct connection between ideas and outcomes.\r\n\r\nWe\u2019re starting with liquid markets like equities and options - high-dimensional, dynamic systems where traditional pipelines break down. Our goal isn\u2019t just to model them better - it\u2019s to build a platform for experimentation, where every result tightens the loop between theory and practice.\r\n\r\nIf you care about learning systems, clean abstractions, and applying research in the wild - we\u2019re hiring.",
+      "description": "We\u2019re a research lab that puts its ideas to the test in one of the most complex, information-rich environments in the world: the financial markets.\r\n\r\nIf you care about learning systems, clean abstractions, and applying research in the wild - we\u2019re hiring.",
       "one_liner": "we predict stuff",
       "batch": "Fall 2024",
       "status": "Active",
@@ -1908,12 +1908,12 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Finance",
-        "Trading"
+        "Trading",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1728431199.0,
@@ -3021,5 +3021,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
     }
   ],
-  "fetched_at": "2026-01-03T18:01:18.619840"
+  "fetched_at": "2026-01-04T00:04:07.225432"
 }
