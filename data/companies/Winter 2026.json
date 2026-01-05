@@ -370,6 +370,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0464bfc1a158571ff22902856b269f9c0f52001.png"
     },
     {
+      "id": 31192,
+      "name": "SideKit",
+      "slug": "sidekit",
+      "website": "https://appsidekit.com",
+      "description": "It's never been easier to turn ideas into apps, it should be just as easy to take those apps to production. SideKit provides one SDK to manage app versions, set feature flags and install privacy-first analytics to track usage.\r\n\r\nUpdate broke your paywall? One click to block the version. Made a breaking change and don't want users on your old version? One click to set a minimum version. Version gating is also completely free regardless of how many users you have.",
+      "one_liner": "One package to take your mobile app to production. ",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "API",
+        "Enterprise Software",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767593677.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/923f7727ac47ca154e697215a6b4b67fabe575b0.png"
+    },
+    {
       "id": 31191,
       "name": "Clice AI",
       "slug": "clice-ai",
@@ -1238,5 +1271,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png"
     }
   ],
-  "fetched_at": "2026-01-05T06:03:05.354975"
+  "fetched_at": "2026-01-05T12:01:32.014311"
 }
