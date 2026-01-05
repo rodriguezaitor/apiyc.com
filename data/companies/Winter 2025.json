@@ -1233,7 +1233,7 @@
         "Industrial"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1736647566.0,
@@ -3503,7 +3503,7 @@
       "one_liner": "We help defense firms win more contracts with the Pentagon",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 13,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -5263,7 +5263,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1738883676.0,
@@ -5364,5 +5364,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2026-01-05T12:01:24.875048"
+  "fetched_at": "2026-01-05T18:01:16.026178"
 }
