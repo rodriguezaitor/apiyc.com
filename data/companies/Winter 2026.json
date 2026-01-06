@@ -5,8 +5,8 @@
       "name": "Veriad",
       "slug": "veriad",
       "website": "https://veriad.ai",
-      "description": "Veriad is an AI compliance officer for enterprises. Our agent analyzes documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies. ",
-      "one_liner": "AI compliance officer",
+      "description": "Veriad is building AI compliance officers for enterprises. Our agent analyze documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies.\r\n",
+      "one_liner": "AI compliance officers",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -566,6 +566,40 @@
       "is_top_company": false,
       "launched_at": 1766621024.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58aceddc6b7af2ca2c35058e943baf719c91fe1c.png"
+    },
+    {
+      "id": 31145,
+      "name": "RamAIn",
+      "slug": "ramain",
+      "website": "https://ramain.ai",
+      "description": "RamAIn is your real-life Jarvis that works out-of-the-box on your favorite applications including WhatsApp Desktop, Outlook and more. Just tell it what to do sit back and watch it work just like you, intelligently simulating mouse and keyboard clicks to achieve your goals.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces allowing them to intelligently use the computer super-duper fast. ",
+      "one_liner": "Super Fast Computer Use Agents",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767663208.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png"
     },
     {
       "id": 31141,
@@ -1304,5 +1338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png"
     }
   ],
-  "fetched_at": "2026-01-06T00:03:24.161252"
+  "fetched_at": "2026-01-06T06:01:14.824294"
 }
