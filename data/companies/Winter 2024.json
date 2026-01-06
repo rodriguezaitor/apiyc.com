@@ -5262,38 +5262,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/858c3c063dfedd813fbec2ad5e3c30a120380f2c.png"
     },
     {
-      "id": 29313,
-      "name": "Selera Medical",
-      "slug": "selera-medical",
-      "website": "http://www.seleramedical.com",
-      "description": "Heart failure impacts millions worldwide and is associated with poor quality of life and high mortality rates. Because the heart cannot pump efficiently, fluids buildup around the body. Fluid overload is the main driver behind patient symptoms (shortness of breath, fatigue, chest pain, etc.) and hospitalizations. Our minimally invasive device leverages the body's innate fluid management system to offload trapped fluid and prevent subsequent rounds of buildup. The one-time procedure has sustained effect -- keeping patients healthier, happier, and out of the hospital.",
-      "one_liner": "One-time, device-based treatment for heart failure",
-      "batch": "Winter 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Medical Devices",
-      "industries": [
-        "Healthcare",
-        "Medical Devices"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Mountain View, CA, USA",
-      "tags": [
-        "Medical Devices",
-        "Healthcare"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1709140378.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3093de2ebffff30f196a9a5caee36a78c8971282.png"
-    },
-    {
       "id": 29312,
       "name": "OneGrep",
       "slug": "onegrep",
@@ -7978,6 +7946,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/708de5f70d1c62cfdbd2dc173bb1fb905166fb19.png"
     },
     {
+      "id": 29313,
+      "name": "Selera Medical",
+      "slug": "selera-medical",
+      "website": "http://www.seleramedical.com",
+      "description": "Heart failure impacts millions worldwide and is associated with poor quality of life and high mortality rates. Because the heart cannot pump efficiently, fluids buildup around the body. Fluid overload is the main driver behind patient symptoms (shortness of breath, fatigue, chest pain, etc.) and hospitalizations. Our minimally invasive device leverages the body's innate fluid management system to offload trapped fluid and prevent subsequent rounds of buildup. The one-time procedure has sustained effect -- keeping patients healthier, happier, and out of the hospital.",
+      "one_liner": "One-time, device-based treatment for heart failure",
+      "batch": "Winter 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Medical Devices",
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Mountain View, CA, USA",
+      "tags": [
+        "Medical Devices",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1709140378.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3093de2ebffff30f196a9a5caee36a78c8971282.png"
+    },
+    {
       "id": 29311,
       "name": "Engines",
       "slug": "engines",
@@ -8275,5 +8275,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-05T18:01:12.822942"
+  "fetched_at": "2026-01-06T00:03:20.478013"
 }

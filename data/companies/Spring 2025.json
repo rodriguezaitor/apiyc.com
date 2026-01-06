@@ -2416,8 +2416,8 @@
       "name": "Photonium",
       "slug": "photonium",
       "website": "https://www.photoniumoptics.com/",
-      "description": "Photonium automates optical system design. Think of us as Cadence or Synopsys chip design automation, but for optics instead of semiconductors. We handle the full design workflow\u2014from optimization and verification to sourcing\u2014for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology for semiconductor fabrication.",
-      "one_liner": "AI-Driven Optical System Design",
+      "description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack \u2014\u00a0from optimization, verification, sourcing, to prototyping \u2014 for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
+      "one_liner": "AI-Powered Optical Consulting & Software",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 2,
@@ -2431,13 +2431,19 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Machine Learning",
+        "B2B",
+        "Manufacturing"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748388578.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff2fd0b8e2a6e3d9320055214a0e22da17a8b8e.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f9f89a3e11065395408b656b79f12f0fd9868a1.png"
     },
     {
       "id": 30464,
@@ -4639,5 +4645,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-01-05T18:01:17.042432"
+  "fetched_at": "2026-01-06T00:03:22.211587"
 }

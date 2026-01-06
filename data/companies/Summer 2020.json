@@ -2131,41 +2131,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ebdc405c3ca51343a4618334a44bd440fb598ca.png"
     },
     {
-      "id": 22001,
-      "name": "Tydo",
-      "slug": "polyops",
-      "website": "https://www.tydo.com",
-      "description": "Tydo\u2019s Customer Intelligence Platform is a complete data warehouse built for AI powered customer insights. No engineer required.",
-      "one_liner": "Turn your data into intelligence",
-      "batch": "Summer 2020",
-      "status": "Active",
-      "team_size": 14,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Los Angeles, CA, USA",
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "E-commerce"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1598737634.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48848c19693fc99f897c757145ed09f04881b72f.png"
-    },
-    {
       "id": 21998,
       "name": "WareIQ",
       "slug": "wareiq",
@@ -6323,6 +6288,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc264b0b6f839f5faf89e3ec342647c95c5e075c.png"
     },
     {
+      "id": 22001,
+      "name": "Tydo",
+      "slug": "polyops",
+      "website": "https://www.tydo.com",
+      "description": "Tydo\u2019s Customer Intelligence Platform is a complete data warehouse built for AI powered customer insights. No engineer required.",
+      "one_liner": "Turn your data into intelligence",
+      "batch": "Summer 2020",
+      "status": "Inactive",
+      "team_size": 14,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Los Angeles, CA, USA",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "E-commerce"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1598737634.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48848c19693fc99f897c757145ed09f04881b72f.png"
+    },
+    {
       "id": 21999,
       "name": "In Stock",
       "slug": "in-stock",
@@ -7135,5 +7135,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a33828d64de96681db180b14fa6000e9e935b1b.png"
     }
   ],
-  "fetched_at": "2026-01-05T18:01:14.670297"
+  "fetched_at": "2026-01-06T00:03:21.250911"
 }
