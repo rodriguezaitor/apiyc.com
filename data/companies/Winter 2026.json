@@ -327,7 +327,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1767518366.0,
@@ -1303,7 +1303,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1765688555.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5dc4c6090df4a19a92481a7d237d695670dda4a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ef6321fc8ffb8fd690924b10e0ae586c89b1c7.png"
     },
     {
       "id": 30905,
@@ -1338,5 +1338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png"
     }
   ],
-  "fetched_at": "2026-01-06T06:01:14.824294"
+  "fetched_at": "2026-01-06T12:01:28.386883"
 }
