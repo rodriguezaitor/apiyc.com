@@ -33,6 +33,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a713774c85daa51c5353d80d0b599eae5069e05.png"
     },
     {
+      "id": 31241,
+      "name": "Corelayer",
+      "slug": "corelayer",
+      "website": "https://www.corelayer.com",
+      "description": "We\u2019re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to query data to debug production issues. We monitor both data and infrastructure for anomalies and use AI agents to debug and suggest fixes for issues.\r\n\r\nData is especially sensitive in regulated industries, so we offer hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building large-scale data infrastructure together at Goldman Sachs.",
+      "one_liner": "AI on-call engineer that debugs using data",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767713346.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png"
+    },
+    {
       "id": 31233,
       "name": "Chasi",
       "slug": "chasi",
@@ -1293,17 +1326,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Compliance"
+        "Compliance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1765688555.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ef6321fc8ffb8fd690924b10e0ae586c89b1c7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ece043321e153a7271fa8a0ce88ad2f409b18fe3.png"
     },
     {
       "id": 30905,
@@ -1338,5 +1371,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png"
     }
   ],
-  "fetched_at": "2026-01-06T12:01:28.386883"
+  "fetched_at": "2026-01-06T18:01:19.374793"
 }

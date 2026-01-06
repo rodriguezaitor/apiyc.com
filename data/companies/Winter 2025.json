@@ -3012,8 +3012,8 @@
       "name": "Swerve",
       "slug": "swerve",
       "website": "https://www.getswerve.com/",
-      "description": "Swerve is an app where you can make & watch fun videos with your friends.\r\nSnap a quick video, and choose what you want to see next. Swerve makes it happen!",
-      "one_liner": "Make & Watch Fun Videos",
+      "description": "",
+      "one_liner": "Chat with AI Characters",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -3028,9 +3028,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
         "Consumer",
         "Entertainment",
-        "Video",
         "AI"
       ],
       "stage": "Early",
@@ -3038,7 +3039,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753392491.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7521fa284ab03a79fdf871bf804b26c6ce46dcc6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/756ce7de62795d0a5985463eaff07dec98a3a6d4.png"
     },
     {
       "id": 30244,
@@ -5364,5 +5365,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2026-01-06T12:01:22.428062"
+  "fetched_at": "2026-01-06T18:01:14.292651"
 }

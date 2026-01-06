@@ -1183,7 +1183,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1673633463.0,
@@ -6886,7 +6886,7 @@
       "one_liner": "Build and deploy fully\u2011managed AI agents and workflows",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -6907,7 +6907,7 @@
         "Open Source",
         "AI"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7687,7 +7687,7 @@
         "Open Source",
         "API"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -9334,5 +9334,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
     }
   ],
-  "fetched_at": "2026-01-06T12:01:18.758379"
+  "fetched_at": "2026-01-06T18:01:11.196692"
 }
