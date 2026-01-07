@@ -7517,39 +7517,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b01925c3fe10e55b7ea30eed61c9a2d82f29d3.png"
     },
     {
-      "id": 27201,
-      "name": "Lavo Life Sciences",
-      "slug": "lavo-life-sciences",
-      "website": "https://www.lavo.ai/",
-      "description": "Lavo Life Sciences runs simulations of drug molecules on computers. Pharma companies use these simulations to guide their experiments and ultimately save time and money in the lab. This will de-risk and expedite clinical trials and FDA approval.",
-      "one_liner": "AI for drug formulation",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 3,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Drug Discovery and Delivery",
-      "industries": [
-        "Healthcare",
-        "Drug Discovery and Delivery"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "AI-powered Drug Discovery",
-        "Machine Learning",
-        "Biotech",
-        "Drug discovery"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1674082073.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
-    },
-    {
       "id": 26884,
       "name": "AlphaWatch AI",
       "slug": "alphawatch-ai",
@@ -9332,7 +9299,40 @@
       "is_top_company": false,
       "launched_at": 1674525873.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png"
+    },
+    {
+      "id": 27201,
+      "name": "Lavo Life Sciences",
+      "slug": "lavo-life-sciences",
+      "website": "https://www.lavo.ai/",
+      "description": "Lavo Life Sciences runs simulations of drug molecules on computers. Pharma companies use these simulations to guide their experiments and ultimately save time and money in the lab. This will de-risk and expedite clinical trials and FDA approval.",
+      "one_liner": "AI for drug formulation",
+      "batch": "Winter 2023",
+      "status": "Inactive",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "AI-powered Drug Discovery",
+        "Machine Learning",
+        "Biotech",
+        "Drug discovery"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1674082073.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-01-06T18:01:11.196692"
+  "fetched_at": "2026-01-07T00:02:52.325032"
 }
