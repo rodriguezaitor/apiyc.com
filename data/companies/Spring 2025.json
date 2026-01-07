@@ -2003,11 +2003,11 @@
       "name": "Lucis",
       "slug": "lucis",
       "website": "https://www.lucis.life",
-      "description": "Think Function Health for Europe. We combine medical expertise and AI to transform regular blood testing into actionable insights to help people live healthier, longer.\r\nIn four months in Paris, we've achieved $400K ARR, secured partnerships with France's leading lab networks, and partnered with key health influencers, proving our playbook works and scales rapidly. We are currently opening 4 new countries across Europe.",
+      "description": "Think Function Health for Europe. We combine medical expertise and AI to transform regular blood testing into actionable insights to help people live healthier, longer.\r\n",
       "one_liner": "Function Health for Europe ",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 13,
+      "team_size": 17,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Consumer Health and Wellness",
       "industries": [
@@ -2015,17 +2015,19 @@
         "Consumer Health and Wellness"
       ],
       "regions": [
+        "France",
+        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
+      "locations": "Paris, \u00cele-de-France, France",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1745363793.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/359d9ca968b446f5bb5893d0fb0178e3c6ce80be.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7c86075dc463745a297d1580339e2396abc55ba.png"
     },
     {
       "id": 30480,
@@ -4645,5 +4647,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-01-07T06:01:13.697906"
+  "fetched_at": "2026-01-07T12:01:17.234850"
 }

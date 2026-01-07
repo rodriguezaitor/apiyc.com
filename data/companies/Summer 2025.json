@@ -1138,8 +1138,8 @@
     },
     {
       "id": 30756,
-      "name": "Nottelabs",
-      "slug": "nottelabs",
+      "name": "Notte",
+      "slug": "notte",
       "website": "https://www.notte.cc/",
       "description": "Nottelabs offers a platform to build and deploy enterprise-grade browser agents. We help companies cut costs and save time by automating repetitive tasks. Unlike others, we provide agents, tools, and infrastructure through a single API, making us the fastest path to reliable web AI agents in production.",
       "one_liner": "Reliable Web Agents for Enterprise",
@@ -1157,9 +1157,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5343,5 +5343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-07T06:01:12.055141"
+  "fetched_at": "2026-01-07T12:01:15.587782"
 }
