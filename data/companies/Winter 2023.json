@@ -7256,12 +7256,12 @@
       "id": 27667,
       "name": "StackAI",
       "slug": "stackai",
-      "website": "https://www.stack.ai",
-      "description": "With Stack AI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use Stack AI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
-      "one_liner": "AI Agents for the Enterprise",
+      "website": "https://www.stack-ai.com",
+      "description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
+      "one_liner": "The Enterprise AI Transformation Platform",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 29,
+      "team_size": 55,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -7269,9 +7269,7 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
+        "America / Canada"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
@@ -7279,7 +7277,7 @@
         "Enterprise",
         "Automation"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -9334,5 +9332,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-01-07T00:02:52.325032"
+  "fetched_at": "2026-01-07T06:01:08.130143"
 }

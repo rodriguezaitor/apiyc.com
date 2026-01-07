@@ -1104,6 +1104,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png"
     },
     {
+      "id": 31078,
+      "name": "Tensol",
+      "slug": "tensol",
+      "website": "https://www.tensol.ai",
+      "description": "Tensol is the AI-native operating system for hospitality. We replace legacy hotel ERPs and back-office software with one system that runs guest communications, bookings, reviews, procurement, and invoicing in a single place, where AI agents answer guest messages, send quotes and confirmations, update bookings, respond to reviews, and log everything directly in the system.\r\n\r\nWe\u2019re starting with guest communications and review management, where AI agents handle inbound guest requests and reviews end-to-end, making front-office teams 3x more productive, resolving 80% of inquiries automatically, increasing upsells and brand reputation.",
+      "one_liner": "AI-native Hospitality Operating System",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767743432.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png"
+    },
+    {
       "id": 31077,
       "name": "Panta",
       "slug": "panta",
@@ -1277,7 +1310,7 @@
       "slug": "haladir",
       "website": "https://www.haladir.com/",
       "description": "RLVR changed the game for post-training. We're here to build and supply the next-generation of coding data and RL environments using model checking languages and formal verification. In a world where solid coding data is becoming increasingly sparse, Haladir provides the data and environments needed to build the next generation of coding models.",
-      "one_liner": "Rooting Formal Methods into CodeGen RL & Data",
+      "one_liner": "Rooting Formal Methods into Codegen RL & Data",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -1404,8 +1437,8 @@
     },
     {
       "id": 30635,
-      "name": "Galactic Resource Utilization Space, Inc.",
-      "slug": "galactic-resource-utilization-space-inc",
+      "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
+      "slug": "galactic-resource-utilization-space-inc-gru-space",
       "website": "https://gru.space",
       "description": "GRU builds off-planet habitats using in-situ resource utilization technology, turning local material into building material. Our first habitat will be a hotel on the Moon for space tourists, aiming to open 2032.\r\n\r\nIn 2029, our demo mission will turn lunar regolith into bricks and demonstrate our modular pressurized habitat system. A second mission will begin laying the hotel\u2019s foundation in a lunar cave. A third mission will open the first lunar hotel.\r\n\r\nWe don\u2019t stop at Moon hotels. GRU\u2019s long-term plan:\r\n\r\n1. Build the first hotel on the Moon. GRU solves off\u2011world surface habitation.\r\n2. Build America\u2019s first Moon base: roads, mass drivers, warehouses, and physical infrastructure.\r\n3. Repeat on Mars and build the first cities there.\r\n4. Own property on the Moon and Mars as these economies grow.\r\n5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond\u2014reaching our final form: Galactic Resource Utilization.\r\n\r\nGRU Space is backed by investors in SpaceX + Anduril, and is part of Nvidia\u2019s Inception program.",
       "one_liner": "Building the First Hotel on the Moon",
@@ -1437,5 +1470,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee5f921620382e78c7f4ce4082b655aed675702d.png"
     }
   ],
-  "fetched_at": "2026-01-07T00:03:03.800023"
+  "fetched_at": "2026-01-07T06:01:19.642126"
 }

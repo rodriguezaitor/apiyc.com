@@ -2796,42 +2796,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78fb6a9f034f5447cc3472b66f6c660fdf0cfa60.png"
     },
     {
-      "id": 28966,
-      "name": "Pincites",
-      "slug": "pincites",
-      "website": "https://www.pincites.com/",
-      "description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
-      "one_liner": "Close deals faster with AI for contract negotiation",
-      "batch": "Summer 2023",
-      "status": "Active",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Legal",
-      "industries": [
-        "B2B",
-        "Legal"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Menlo Park, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Legal",
-        "LegalTech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1688690921.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/66314affa2a18460ebaf6082abe1eba1272e5498.png"
-    },
-    {
       "id": 28960,
       "name": "Apoxy",
       "slug": "apoxy",
@@ -6618,6 +6582,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf0019c6ad5bec3a367e3a88e2bc4f39705513aa.png"
     },
     {
+      "id": 28966,
+      "name": "Pincites",
+      "slug": "pincites",
+      "website": "https://www.pincites.com/",
+      "description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
+      "one_liner": "Close deals faster with AI for contract negotiation",
+      "batch": "Summer 2023",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Menlo Park, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Legal",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1688690921.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/66314affa2a18460ebaf6082abe1eba1272e5498.png"
+    },
+    {
       "id": 28790,
       "name": "Watto AI",
       "slug": "watto-ai",
@@ -7390,5 +7390,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-07T00:02:54.607262"
+  "fetched_at": "2026-01-07T06:01:10.413283"
 }
