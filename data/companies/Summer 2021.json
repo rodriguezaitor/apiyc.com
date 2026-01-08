@@ -9114,30 +9114,26 @@
       "name": "DolarApp",
       "slug": "dolarapp",
       "website": "https://www.dolarapp.com/",
-      "description": "DolarApp lets people in LatAm (currently Mexico, Argentina and Colombia) dollarize their everyday finances. Users can go from peso to dollar USDc (and back) in seconds, save in USDc, send and receive payments in the United States without the hassle, top up their accounts with crypto and pay with an international Mastercard at the best rates.\r\n\r\nDolarApp was started by 3 ex Revolut guys: Fernando and Alvaro led the 2 largest P&Ls in Revolut (Crypto and Subscriptions), and worked in LatAm as consultants for BCG; Zach led the Crypto and Remittances products at Revolut, and started an identity verification startup using crypto years ago.",
-      "one_liner": "Latin America's global financial app",
+      "description": "DolarApp provides access to U.S. Financial Services to affluent consumers in Latin America: local and international transfers, transparent exchange rates, savings in digital dollars, investment in US stocks & ETFs, and international payments with a credit card \u2013\u00a0without hidden fees.\r\n\r\nDolarApp was started by Alvaro, Zach and Fernando, who worked together at Revolut. They are all engineers by background, and they all started their careers in consulting.",
+      "one_liner": "The Financial App for affluent consumers in Latin America.",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 50,
+      "team_size": 100,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
         "Fintech"
       ],
       "regions": [
-        "Mexico",
-        "United States of America",
-        "Latin America",
-        "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Mexico City, CDMX, Mexico; Wilmington, DE, USA; Remote",
+      "locations": "",
       "tags": [
         "Fintech",
         "Crypto / Web3"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -10515,18 +10511,13 @@
         "Payments"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Miami, FL, USA; Remote",
-      "tags": [
-        "Fintech",
-        "B2B"
-      ],
+      "locations": "Remote",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1626880377.0,
@@ -13419,5 +13410,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-07T18:01:11.767181"
+  "fetched_at": "2026-01-08T00:02:57.847264"
 }

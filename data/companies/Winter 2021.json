@@ -691,7 +691,7 @@
       "one_liner": "The lightest electric aircraft motors in the world.",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 40,
+      "team_size": 58,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -4166,7 +4166,7 @@
         "Logistics",
         "Supply Chain"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4215,7 +4215,7 @@
       "one_liner": "For whatever you build.",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 8,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -4627,7 +4627,7 @@
       "one_liner": "The Most-Loved IT Documentation Platform",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 28,
+      "team_size": 26,
       "industry": "B2B",
       "subindustry": "B2B -> Operations",
       "industries": [
@@ -4643,14 +4643,15 @@
       "locations": "Fort Collins, CO, USA; Remote",
       "tags": [
         "SaaS",
-        "B2B"
+        "B2B",
+        "Workflow Automation"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1616195137.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe59bf79400d08cf1699c0ed05913ffda85a5b89.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ba8db5b4e296b92db2134ccf3bd13ad06d81a85.png"
     },
     {
       "id": 22935,
@@ -11536,5 +11537,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2026-01-07T18:01:12.166439"
+  "fetched_at": "2026-01-08T00:02:58.331497"
 }

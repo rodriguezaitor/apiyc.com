@@ -132,6 +132,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png"
     },
     {
+      "id": 31227,
+      "name": "Sequence Markets",
+      "slug": "sequence-markets",
+      "website": "https://sequencemkts.com/",
+      "description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
+      "one_liner": "Smarter and faster trade execution for digital assets",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Cryptocurrency"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767826402.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/564c0c8ad6b1cf6c6c24454e941feb323039e055.png"
+    },
+    {
       "id": 31223,
       "name": "Arzule",
       "slug": "arzule",
@@ -1470,5 +1502,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee5f921620382e78c7f4ce4082b655aed675702d.png"
     }
   ],
-  "fetched_at": "2026-01-07T18:01:21.759415"
+  "fetched_at": "2026-01-08T00:03:09.687256"
 }

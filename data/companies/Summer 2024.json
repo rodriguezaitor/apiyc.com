@@ -1306,7 +1306,7 @@
         "Logistics"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717601253.0,
@@ -2360,7 +2360,7 @@
       "one_liner": "Self Improving Software",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -8238,5 +8238,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-07T18:01:13.323467"
+  "fetched_at": "2026-01-08T00:02:59.731535"
 }
