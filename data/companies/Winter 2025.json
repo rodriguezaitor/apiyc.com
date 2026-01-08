@@ -255,7 +255,7 @@
       "id": 30351,
       "name": "ThirdLayer",
       "slug": "thirdlayer",
-      "website": "https://thirdlayer.inc",
+      "website": "https://joindex.com",
       "description": "ThirdLayer is an applied research and product lab building the next interface for human\u2013AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy\u2014spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent \u2014 it\u2019s a foundation for:\r\n\r\n\u25cf Long-term, cross-modal memory grounded in real workflows\r\n\u25cf A new interaction layer to replace static UI with a collaborative canvas \r\n\u25cf Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.",
       "one_liner": "Building Dex, the AI Browser Copilot",
       "batch": "Winter 2025",
@@ -3930,11 +3930,11 @@
       "name": "Contrario",
       "slug": "contrario",
       "website": "https://contrario.ai",
-      "description": "Contrario is a managed hiring network helping growth-stage startups and enterprises fill hard roles fast. We fill critical roles faster with AI-powered expert recruiters who deliver high-signal candidates quickly. Unlike a typical marketplace, Contrario white-glove delivers top candidates by pairing proprietary AI models with recruiter workflows to filter noise and surface only the best-fit talent.",
-      "one_liner": "AI-powered recruiting for startups",
+      "description": "Contrario fills critical roles faster with a network of AI-powered expert recruiters. Companies trust Contrario from pre-seed to post-IPO for their most important hires including engineering, GTM, ops, product design, and more. ",
+      "one_liner": "Hire the best talent for your startup",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
@@ -5275,24 +5275,29 @@
       "name": "Overstand Labs",
       "slug": "overstand-labs",
       "website": "https://overstandlabs.com",
-      "description": "If you\u2019re a founder and feel like you\u2014or your exec team\u2014are too far removed from the customer, Overstand is here to help. We\u2019re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you\u2019re needed most and take action that drives impact. \ud83d\ude80",
-      "one_liner": "We help business leaders get back into Founder Mode",
+      "description": "Overstand is an on-demand data and insights team for customer communications. We unify Slack, email, calls, and operational data, then surface the signals that matter \u2014 customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
+      "one_liner": "The on-demand data team for medium-to-large enterprises",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 4,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Analytics",
       "industries": [
         "B2B",
-        "Productivity"
+        "Analytics"
       ],
       "regions": [
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Data Engineering",
+        "Conversational AI"
+      ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1724369845.0,
@@ -5359,5 +5364,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2026-01-08T00:03:03.040625"
+  "fetched_at": "2026-01-08T06:01:22.433843"
 }
