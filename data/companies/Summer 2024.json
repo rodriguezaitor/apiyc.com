@@ -6410,10 +6410,10 @@
     },
     {
       "id": 29646,
-      "name": "Corgi",
-      "slug": "corgi",
+      "name": "Corgi Insurance",
+      "slug": "corgi-insurance",
       "website": "https://corgi.insure",
-      "description": "Corgi is the AI financial infrastructure company. ",
+      "description": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We\u2019re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
       "one_liner": "Corgi is building an AI financial infrastructure company",
       "batch": "Summer 2024",
       "status": "Active",
@@ -6430,9 +6430,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8238,5 +8238,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-08T12:01:16.683020"
+  "fetched_at": "2026-01-08T18:01:44.850217"
 }

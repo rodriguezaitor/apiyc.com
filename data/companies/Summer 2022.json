@@ -2432,11 +2432,11 @@
     },
     {
       "id": 27046,
-      "name": "Accountable",
-      "slug": "accountable",
-      "website": "https://accountablevr.com",
-      "description": "Issue employee cards, match properties to charges instantly, sync to your PMS and accounting platform, and close your books faster.",
-      "one_liner": "Smarter spending for vacation rental managers",
+      "name": "Atlas",
+      "slug": "atlaswork",
+      "website": "https://atlaswork.ai",
+      "description": "Atlas is an AI platform that automates the manual financial and operational reporting workflows used by Real Estate firms.\r\n\r\nReal Estate is the world's largest asset class, yet it runs on manual spreadsheets. \r\n\r\nAtlas is an AI engine that instantly ingests messy real estate documents from any system, structures the data, and audits it to catch revenue leakage, errors, and opportunities affecting returns.\r\n\r\nAtlas supports firms across Real Estate including development/construction, asset management, property management, and operations.",
+      "one_liner": "AI Financial Auditing & Reporting for Enterprise Real Estate Firms",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 2,
@@ -2454,14 +2454,16 @@
       ],
       "locations": "New York, NY, USA; Remote",
       "tags": [
-        "Neobank"
+        "Artificial Intelligence",
+        "Real Estate",
+        "Construction"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1659966857.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/323d47d0b3477034af07fd730c958a7ad3507427.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b43ecf0808f334d17e126970a590f4a2bbc9c662.png"
     },
     {
       "id": 27042,
@@ -4673,7 +4675,7 @@
         "Sports Tech",
         "Gaming"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -8108,5 +8110,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-08T12:01:17.152896"
+  "fetched_at": "2026-01-08T18:01:45.027003"
 }

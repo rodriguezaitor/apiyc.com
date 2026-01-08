@@ -2867,8 +2867,8 @@
       "name": "Adni",
       "slug": "adni",
       "website": "https://www.adni.ai/",
-      "description": "Adni is the first AI-powered super app for healthcare workers. 150K+ healthcare workers use Adni to find jobs, buy gear, connect with peers, store credentials, and more.\r\n\r\nLeading organizations, like Penn Medicine, MedPro, and PRN Healthcare, use Adni\u2019s clinician network, AI voice agents, and white-labeled talent experience software to hire, onboard, and engage healthcare talent faster and cheaper.",
-      "one_liner": "Super app for healthcare workers",
+      "description": "Adni is the first AI-powered super app for healthcare workers. Healthcare workers use Adni to autonomously find jobs, buy gear, connect with peers, manage credentials, and more.\r\n\r\nLeading organizations, like Penn Medicine, MedPro, and PRN Healthcare, use Adni\u2019s clinician network, AI voice agents, and white-labeled talent experience software to hire, onboard, and engage healthcare talent faster and cheaper.",
+      "one_liner": "AI-powered super app for healthcare workers",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 5,
@@ -4231,14 +4231,14 @@
     },
     {
       "id": 24461,
-      "name": "Fizz",
-      "slug": "fizz",
-      "website": "https://www.joinfizz.com/",
-      "description": "Fizz is the #1 money app for young adults. Whether you want to build credit, manage your money or have no idea where to start, Fizz is there to help you every step of the way.\r\n\r\nDownload the app for free to check your credit score, get personalized spending insights and take fun bite-sized courses. Become a Fizz Member to take your finances to the next level with a debit card that builds credit. With no interest and daily autopay that prevents you from overspending, the Fizz Card is the ultimate financial hack. Fizz is backed by Kleiner Perkins, SV Angel, Y Combinator, and the founders of eight Unicorns.",
-      "one_liner": "Fizz is the #1 money app for young adults.",
+      "name": "Mine (formerly Fizz)",
+      "slug": "mine",
+      "website": "https://usemine.com/",
+      "description": "Mine is the personal finance app designed to help you get ahead.\r\n\r\nFounded on the idea that financial independence begins with ownership \u2014 of your money, your momentum, and your decisions.\r\n\r\nWe make the credit-builder thousands know and love, with budgeting and spend tracking features meant to help your money be the best version of itself. We\u2019re also the makers of MoneyGPT, the money assistant that\u2019s got your back.\r\n\r\nYoung people today are stepping into a financial world built for someone else\u2019s life.\r\n\r\nWe give young adults the confidence and control to take charge of their financial journey with simple tools, smart guidance, and a system that works for the path you choose.\r\n\r\nLet\u2019s build your future together. Get started at usemine.com\r\n\r\nBacked by Kleiner Perkins, SV Angel, Liquid 2 Ventures, and the founders of Handshake, Postmates, Public.com, Motive and many more.",
+      "one_liner": "The AI personal finance company. ",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 18,
       "industry": "Fintech",
       "subindustry": "Fintech -> Consumer Finance",
       "industries": [
@@ -4255,14 +4255,15 @@
       "tags": [
         "Fintech",
         "Consumer",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1628179251.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e4810b0d5ea5c395c4d22402c3bc4436041fbc9.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7a0d14910b74597e1e70723a08a579e8dafe145.png"
     },
     {
       "id": 24459,
@@ -9133,7 +9134,7 @@
         "Fintech",
         "Crypto / Web3"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -13410,5 +13411,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-08T12:01:14.560270"
+  "fetched_at": "2026-01-08T18:01:44.160810"
 }
