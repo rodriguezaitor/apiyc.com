@@ -5562,11 +5562,11 @@
       "name": "Topo",
       "slug": "topo",
       "website": "https://www.topo.io/",
-      "description": "We are helping B2B companies reach the right leads with an AI sales agent custom trained on their knowledge.\r\n\r\n\r\n\r\nThe goal is to reproduce the behavior of a sales top performers:\r\n\r\n- They know the product, the industry, the pain points, and the company's value proposition perfectly (trained on datas from your knowledge base, calls transcript, CRM...). \r\n\r\n- They will find the right leads, ready to buy, based on buying signals in the industry-specific channels (Linkedin, G2, Github...) or on the company's website visitors.\r\n\r\n\r\nThat's exactly what the agent can do!\r\n\r\nThink of it as an expert SDR in your industry, ramp up in minutes. ",
-      "one_liner": "AI sales agent custom trained for each company to reach the best leads",
+      "description": "We are helping B2B companies reach the right leads with an AI Outbound agent. \r\n\r\n\r\n\r\nThe goal is to reproduce the behavior of a sales top performers:\r\n\r\n- They know the product, the industry, the pain points, and the company's value proposition perfectly (trained on datas from your knowledge base, calls transcript, CRM...). \r\n\r\n- They will find the right leads, ready to buy, based on buying signals in the industry-specific channels (Linkedin, G2, Github...) or on the company's website visitors.\r\n\r\n\r\nThat's exactly what the agent can do!\r\n\r\nThink of it as an expert SDR in your industry, ramp up in minutes. ",
+      "one_liner": "AI Agents for outbound working by your side",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -5575,15 +5575,13 @@
       ],
       "regions": [
         "France",
-        "Europe",
-        "Remote",
-        "Partly Remote"
+        "Europe"
       ],
       "locations": "Paris, \u00cele-de-France, France",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Sales"
+        "Sales",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8275,5 +8273,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-08T06:01:18.903941"
+  "fetched_at": "2026-01-08T12:01:16.174562"
 }
