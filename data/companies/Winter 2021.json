@@ -3833,11 +3833,11 @@
       "name": "Stoke Space",
       "slug": "stoke-space",
       "website": "https://www.stokespace.com/",
-      "description": "Stoke Space delivers goods to and from orbit using 100% reusable rockets designed to fly daily.",
-      "one_liner": "We\u2019re on a mission, and it starts with 100% reusable rockets.",
+      "description": "Nova: Radically improving access to and from orbit. We\u2019re unlocking the space economy by harnessing the power of full and rapid reusability with Nova, our 100% reusable rocket. Nova offers affordable access to, through, and from space with a 20x reduced cost to orbit.\r\n\r\nOur reusable upper-stage vehicle delivers on-demand access to any orbit at any time. Its unmatched capabilities enable dynamic space operations, including capture, reposition, long-dwell operations, and return of assets, as well as space cargo and logistics missions. ",
+      "one_liner": "Seamless mobility to, through, and from space. It starts with 100%\u2026",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 85,
+      "team_size": 305,
       "industry": "Industrials",
       "subindustry": "Industrials -> Aviation and Space",
       "industries": [
@@ -3846,19 +3846,21 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
         "Space Exploration",
         "Satellites"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1627316480.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b6ec112b5b27c2252e3d1392c3e444d8ddbd451.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/930cdbab49fcc209d66a86a198f3f5d1afe0f9a8.png"
     },
     {
       "id": 23042,
@@ -11537,5 +11539,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2026-01-08T18:01:44.346973"
+  "fetched_at": "2026-01-09T00:03:00.811749"
 }

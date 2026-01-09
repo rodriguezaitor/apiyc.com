@@ -2435,16 +2435,16 @@
       "name": "Atlas",
       "slug": "atlaswork",
       "website": "https://atlaswork.ai",
-      "description": "Atlas is an AI platform that automates the manual financial and operational reporting workflows used by Real Estate firms.\r\n\r\nReal Estate is the world's largest asset class, yet it runs on manual spreadsheets. \r\n\r\nAtlas is an AI engine that instantly ingests messy real estate documents from any system, structures the data, and audits it to catch revenue leakage, errors, and opportunities affecting returns.\r\n\r\nAtlas supports firms across Real Estate including development/construction, asset management, property management, and operations.",
-      "one_liner": "AI Financial Auditing & Reporting for Enterprise Real Estate Firms",
+      "description": "Atlas helps enterprise real estate firms managing $50M+ make real-time decisions by unifying their data. \r\n\r\nCurrently, analysts at a $100M real estate portfolio spend 60+ hours a month manually copying and pasting exports from incompatible systems into a master spreadsheet. This process slows decision-making and costs up to 10% of Net Operating Income (NOI) annually. \r\n\r\nAtlas ingests these chaotic file exports to automatically unify the data, audit for financial leakage, and generate real-time reporting. It replaces weeks of manual work with instant truth.",
+      "one_liner": "AI Asset Manager for Real Estate ",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 2,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Banking and Exchange",
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
       "industries": [
-        "Fintech",
-        "Banking and Exchange"
+        "Real Estate and Construction",
+        "Housing and Real Estate"
       ],
       "regions": [
         "United States of America",
@@ -2454,9 +2454,9 @@
       ],
       "locations": "New York, NY, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
-        "Construction"
+        "Construction",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8110,5 +8110,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-08T18:01:45.027003"
+  "fetched_at": "2026-01-09T00:03:02.649926"
 }
