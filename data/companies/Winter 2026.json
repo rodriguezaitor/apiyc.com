@@ -1,6 +1,37 @@
 {
   "data": [
     {
+      "id": 31273,
+      "name": "SpotPay",
+      "slug": "spotpay",
+      "website": "https://www.spotpay.ai/",
+      "description": "SpotPay is a global borderless neobank. We give users one account that works for everything payments related: receiving money from abroad, paying locally, spending anywhere with the SpotPay card and saving and earning on their balance.",
+      "one_liner": "Cross-border Personal Finance on Stablecoins",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767931304.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/86338b0909975d76f85bd358ddf08742a3e504aa.png"
+    },
+    {
       "id": 31263,
       "name": "Veriad",
       "slug": "veriad",
@@ -633,6 +664,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58aceddc6b7af2ca2c35058e943baf719c91fe1c.png"
     },
     {
+      "id": 31173,
+      "name": "Laurence",
+      "slug": "laurence",
+      "website": "https://trylaurence.com",
+      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nStarting with Amazon, we're currently managing $2.5M in live ad spend while delivering 30% increased return on ad spend",
+      "one_liner": "The digital brain for advertising",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Reinforcement Learning",
+        "Advertising",
+        "Trading"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1767919574.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png"
+    },
+    {
       "id": 31145,
       "name": "RamAIn",
       "slug": "ramain",
@@ -1073,7 +1137,7 @@
       "name": "Kita",
       "slug": "kita",
       "website": "https://www.usekita.com/",
-      "description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don\u2019t exist, and a borrower\u2019s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files from these markets and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending in emerging markets. We are hyperlocalized around the signals that actually drive lending outcomes in markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe secured a six-figure paid pilot with a Philippine lender the week we built our prototype. Since then, we\u2019ve expanded with customers across multiple Southeast Asian markets, shipped new features continuously, and grown roughly 30% MoM.\r\n\r\nWe\u2019re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+      "description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don\u2019t exist, and a borrower\u2019s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending in emerging markets. We are hyperlocalized around the signals that actually drive lending outcomes in markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe secured a six-figure paid pilot with a Philippine lender the week we built our prototype. Since then, we\u2019ve expanded with customers across multiple Southeast Asian markets, shipped new features continuously, and grown roughly 30% MoM.\r\n\r\nWe\u2019re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
       "one_liner": "Turn documents into signals for lenders in emerging markets",
       "batch": "Winter 2026",
       "status": "Active",
@@ -1502,5 +1566,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee5f921620382e78c7f4ce4082b655aed675702d.png"
     }
   ],
-  "fetched_at": "2026-01-09T00:03:12.298427"
+  "fetched_at": "2026-01-09T06:01:13.711603"
 }
