@@ -1190,41 +1190,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png"
     },
     {
-      "id": 28119,
-      "name": "Fabius",
-      "slug": "fabius",
-      "website": "https://fabius.io",
-      "description": "Fabius helps sales leaders understand and improve their reps' performance by analyzing customer calls with AI. Companies like Airbyte and Fermat use us to score every call and identify when a customer hasn\u2019t been properly qualified.\r\n\r\nFabius helps drive decisions within sales, including:\r\n- Disqualify a deal: Reps work on deals that will never close. We identify the deals that won't be successful and make sure reps don't waste time on them.\r\n- Need to strengthen the business case for a deal: We tell managers and reps when a deal has a weak business case and show them how to uncover more business value in the deal.",
-      "one_liner": "AI to improve Sales Calls",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Sales",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "SaaS",
-        "B2B",
-        "Sales",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1671052963.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3146a62c7afd679b4aadd44a003d88caa00ec656.png"
-    },
-    {
       "id": 28118,
       "name": "Vocode",
       "slug": "vocode",
@@ -8415,6 +8380,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1a38009f747692e81bd13516e12a87a399aead1.png"
     },
     {
+      "id": 28119,
+      "name": "Fabius",
+      "slug": "fabius",
+      "website": "https://fabius.io",
+      "description": "Fabius helps sales leaders understand and improve their reps' performance by analyzing customer calls with AI. Companies like Airbyte and Fermat use us to score every call and identify when a customer hasn\u2019t been properly qualified.\r\n\r\nFabius helps drive decisions within sales, including:\r\n- Disqualify a deal: Reps work on deals that will never close. We identify the deals that won't be successful and make sure reps don't waste time on them.\r\n- Need to strengthen the business case for a deal: We tell managers and reps when a deal has a weak business case and show them how to uncover more business value in the deal.",
+      "one_liner": "AI to improve Sales Calls",
+      "batch": "Winter 2023",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "SaaS",
+        "B2B",
+        "Sales",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1671052963.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3146a62c7afd679b4aadd44a003d88caa00ec656.png"
+    },
+    {
       "id": 28113,
       "name": "Interlock",
       "slug": "interlock",
@@ -9332,5 +9332,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-01-09T12:01:12.070621"
+  "fetched_at": "2026-01-09T18:01:16.135461"
 }

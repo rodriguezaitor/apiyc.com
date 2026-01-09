@@ -2668,7 +2668,7 @@
       "slug": "gleam",
       "website": "https://joingleam.com",
       "description": "Gleam automates data entry for clinical research sites.",
-      "one_liner": "AI Data Entry for Clinical Research",
+      "one_liner": "Automating Data Entry for Clinical Trials",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 4,
@@ -2685,9 +2685,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Biotech",
-        "Healthcare",
-        "AI"
+        "Healthcare"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4987,11 +4987,11 @@
       "name": "Solve Intelligence",
       "slug": "solve-intelligence",
       "website": "https://www.solveintelligence.com/",
-      "description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney draft, prosecute, and harvest high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition.",
+      "description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney draft, prosecute, and harvest high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition, as well as claim charts for patent litigation, freedom to operate analysis, and more.",
       "one_liner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 21,
+      "team_size": 25,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -5003,7 +5003,7 @@
       ],
       "locations": "",
       "tags": [],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -7390,5 +7390,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-09T12:01:13.986980"
+  "fetched_at": "2026-01-09T18:01:16.748401"
 }
