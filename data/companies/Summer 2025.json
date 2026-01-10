@@ -42,7 +42,7 @@
       "one_liner": "The modern factory for fast, low-cost metals. ",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 8,
       "industry": "Industrials",
       "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
@@ -3002,7 +3002,7 @@
       "one_liner": "Firmware in minutes, not months - rigorously tested on real hardware",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3010,9 +3010,10 @@
         "Engineering, Product and Design"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -3385,8 +3386,8 @@
       "name": "Sagekit",
       "slug": "sagekit",
       "website": "https://sagekit.com",
-      "description": "Meet Sage, your AI personal assistant. Sage can manage your Gmail inbox, log invoices in Google Sheets, find leads on LinkedIn, or sync data across apps. Sage handles the task now, and can save it as a shortcut to run on autopilot.",
-      "one_liner": "AI personal assistant",
+      "description": "Sagekit is an AI workspace where chat and documents are deeply connected. Think ChatGPT meets Notion. Chat with AI, research topics with web and Reddit data, and build real documents you and AI can both edit\u2014all in one workspace.",
+      "one_liner": "AI workspace where chat and documents are deeply connected",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -3402,10 +3403,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Productivity",
         "Automation",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5342,5 +5343,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-09T18:01:17.160155"
+  "fetched_at": "2026-01-10T00:03:02.413479"
 }

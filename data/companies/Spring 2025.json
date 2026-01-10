@@ -3606,10 +3606,10 @@
     },
     {
       "id": 30426,
-      "name": "Approval AI",
-      "slug": "approval-ai",
-      "website": "https://getapproval.ai",
-      "description": "Approval AI is an AI-powered mortgage co-pilot that automates the most complex parts of getting a mortgage: rate shopping, negotiation, and paperwork, all in one place. We automate what brokers and loan officers do, and hand those tools directly to the buyer.",
+      "name": "Ralo",
+      "slug": "ralo",
+      "website": "https://www.ralo.com/",
+      "description": "Ralo is an AI-powered mortgage co-pilot that automates the most complex parts of getting a mortgage: rate shopping, negotiation, and paperwork, all in one place. We automate what brokers and loan officers do, and hand those tools directly to the buyer.",
       "one_liner": "One-click mortgage: AI shops, negotiates, and handles your application",
       "batch": "Spring 2025",
       "status": "Active",
@@ -3626,16 +3626,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Consumer",
-        "AI"
+        "Consumer"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1744861920.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e03bf91580d0265ba53d615ffca014e6017c8053.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png"
     },
     {
       "id": 30425,
@@ -4644,5 +4644,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-01-09T18:01:17.568261"
+  "fetched_at": "2026-01-10T00:03:03.977600"
 }
