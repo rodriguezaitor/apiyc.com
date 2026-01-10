@@ -2853,19 +2853,18 @@
     },
     {
       "id": 13231,
-      "name": "QueryPie",
-      "slug": "querypie",
+      "name": "QueryPie AI",
+      "slug": "querypie-ai",
       "website": "https://www.querypie.com",
-      "description": "QueryPie is the enterprise-ready solution for governing AI-powered access in modern data environments. With native Model Context Protocol (MCP) support and verified integrations with tools like Slack, GitHub, and AWS, QueryPie sets a new standard for secure, centralized access governance.\r\nAs a unified access governance platform based on Zero Trust principles, QueryPie enables organizations to manage and monitor access to databases, servers, Kubernetes clusters, and internal web applications with precision and ease.\r\nTrusted by over 130 enterprises and fully compliant with global standards such as ISMS, PCI-DSS, and GDPR, QueryPie empowers organizations to build secure and scalable data access control frameworks.\r\nWith built-in support for AI infrastructure, QueryPie seamlessly connects large language models (LLMs), AI agents, and MCP servers through a centralized control layer\u2014ensuring that all automated workflows across SaaS tools, cloud environments, and internal systems remain secure, auditable, and compliant.",
-      "one_liner": "QueryPie: Secure Enterprise AI Platform",
+      "description": "QueryPie AI is an enterprise AI platform designed to securely operate AI agents in enterprise environments. Built on an MCP-based architecture, it connects internal data and diverse business systems while enforcing access control and centralized management. This enables organizations to execute AI Transformation (AX) with security as a foundation and extend AI adoption into practical automation and tangible business outcomes.",
+      "one_liner": "QueryPie AIP - Enterprise Ready Agentic AI Platform",
       "batch": "Winter 2020",
       "status": "Active",
-      "team_size": 97,
+      "team_size": 70,
       "industry": "B2B",
-      "subindustry": "B2B -> Security",
+      "subindustry": "B2B",
       "industries": [
-        "B2B",
-        "Security"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -2876,16 +2875,14 @@
       "locations": "San Mateo, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Compliance",
-        "Security",
-        "Cybersecurity"
+        "AI"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1606270339.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/734a6a33e019411f619b73219afce2e9d4af8ef7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cd5d778a431fee3fe10378b90678afded63d808.png"
     },
     {
       "id": 13224,
@@ -7749,5 +7746,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f077c8b6cd781f4ee1702dc34cee59ceb845e8bd.png"
     }
   ],
-  "fetched_at": "2026-01-10T12:01:07.511296"
+  "fetched_at": "2026-01-10T18:01:04.560281"
 }
