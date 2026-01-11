@@ -1642,7 +1642,7 @@
         "Conversational AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751772864.0,
@@ -2557,7 +2557,7 @@
       "one_liner": "Database of every product on the internet",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Retail",
       "industries": [
@@ -2574,7 +2574,7 @@
         "E-commerce"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752182938.0,
@@ -4357,40 +4357,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b509b40e2c3c32e42ebe7d8742a534de91515647.png"
     },
     {
-      "id": 30620,
-      "name": "Bidflow",
-      "slug": "bidflow",
-      "website": "https://usebidflow.com",
-      "description": "We help electrical contractors do electrical estimates way faster using AI. Electrical contractors submit RFPs (request for proposals) to win contracts to jobs like building the electrical infrastructure for a new data center, and they compete with other electrical contractors to win these jobs. The process of submitting these RFPs take a majority of an electrical contractors time, specifically in providing an estimate for the job, and Bidflow aims to optimize the redundant paperwork that goes into this process.",
-      "one_liner": "AI Copilot for Electrical Estimating",
-      "batch": "Summer 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Construction",
-      "industries": [
-        "Real Estate and Construction",
-        "Construction"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "SaaS",
-        "Construction",
-        "Infrastructure",
-        "AI Assistant"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1754285936.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
-    },
-    {
       "id": 30619,
       "name": "Shor",
       "slug": "shor",
@@ -5343,5 +5309,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-10T18:01:06.207876"
+  "fetched_at": "2026-01-11T00:04:05.431167"
 }
