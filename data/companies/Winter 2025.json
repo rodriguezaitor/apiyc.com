@@ -2719,16 +2719,16 @@
       "name": "Olive",
       "slug": "olive",
       "website": "https://fromolive.com",
-      "description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-      "one_liner": "Build admin dashboards with a prompt.",
+      "description": "Olive learns your hiring bar as you review candidates and gives you suggestions to find the best talent.",
+      "one_liner": "AI Applicant Screening",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Recruiting and Talent"
       ],
       "regions": [
         "United States of America",
@@ -2737,8 +2737,9 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
-        "B2B"
+        "B2B",
+        "Recruiting",
+        "Talent Acquisition"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5364,5 +5365,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2026-01-11T00:04:05.154249"
+  "fetched_at": "2026-01-11T06:01:01.911613"
 }

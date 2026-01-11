@@ -199,8 +199,8 @@
       "name": "Arzule",
       "slug": "arzule",
       "website": "https://www.arzule.com",
-      "description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace with a replayable path for how the workflow should have proceeded. It provides debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to restore forward progress. Arzule also provides labeled multi-agent coordination data that support debugging, benchmarking, evaluation, and the development of more reliable multi-agent systems.",
-      "one_liner": "Debugging and labeling to improve multi-agent coordination",
+      "description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace. Users can approve or deny the correction so Arzule learns what \u201cgood\u201d looks like in the context of the current project. It provides observability, debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to improve costs, efficiency, and quality. Additionally, Arzule is currently offering early access to synthetic creation and labeling of multi-agent coordination tasks for companies who reach out.",
+      "one_liner": "Debugging multi-agent coordination",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -699,8 +699,8 @@
       "name": "Arcline",
       "slug": "arcline",
       "website": "https://www.arcline-ai.com/",
-      "description": "Fast and predictable AI-native legal services designed for startups: If you\u2019re a founder tired of spending $ X0k+ and months on a priced round, MSA, ESOP, product compliance, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline\u2019s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe\u2019re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
-      "one_liner": "Fire your law firm: Cheaper and faster AI native lawyers for startups",
+      "description": "Fast and predictable AI-native legal services designed for startups: If you\u2019re a founder tired of spending $ X0k+ and months on ESOP, contracts, compliance, corporate, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline\u2019s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe\u2019re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
+      "one_liner": "AI-native lawyers working at startup speed and cost",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 5,
@@ -1634,5 +1634,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-11T00:04:09.963230"
+  "fetched_at": "2026-01-11T06:01:06.742346"
 }
