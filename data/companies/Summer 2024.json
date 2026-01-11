@@ -2029,7 +2029,7 @@
       "name": "Vendra",
       "slug": "vendra",
       "website": "https://vendra-marketplace.io/",
-      "description": "Vendra Marketplace makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and Vendra automates the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra-marketplace.io and submit an RFQ today!",
+      "description": "Vendra makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and we automate the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra.io and submit an RFQ today!",
       "one_liner": "Custom Parts, Manufactured in America \ud83c\uddfa\ud83c\uddf8",
       "batch": "Summer 2024",
       "status": "Active",
@@ -2040,9 +2040,10 @@
         "Industrials"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": true,
@@ -8238,5 +8239,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-11T06:00:59.751286"
+  "fetched_at": "2026-01-11T12:01:13.850010"
 }
