@@ -409,7 +409,7 @@
       "one_liner": "Computer use agents to automate all back-office work",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Productivity",
       "industries": [
@@ -420,9 +420,11 @@
         "Unspecified"
       ],
       "locations": "",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence"
+      ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1759173987.0,
@@ -5125,5 +5127,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-01-12T06:02:05.582052"
+  "fetched_at": "2026-01-12T12:01:29.479179"
 }
