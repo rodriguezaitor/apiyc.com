@@ -331,11 +331,11 @@
     },
     {
       "id": 31212,
-      "name": "Constellation",
-      "slug": "constellation",
+      "name": "Constellation Space",
+      "slug": "constellation-space",
       "website": "https://constellation-io.com/",
-      "description": "ConstellationOS uses environmental and antenna telemetry to predict satellite link failures before they happen. By shifting ground stations from reactive emergency handoffs to proactive scheduling, we eliminate manual overhead and the high cost of data loss for spacecraft operators.",
-      "one_liner": "AI for satellite mission assurance.",
+      "description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic\u2014zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
+      "one_liner": "The Operating System for Space.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -351,9 +351,9 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Satellites",
-        "Aerospace",
-        "AI"
+        "Aerospace"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -997,6 +997,39 @@
       "is_top_company": false,
       "launched_at": 1765384359.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png"
+    },
+    {
+      "id": 31129,
+      "name": "Verdex",
+      "slug": "verdex",
+      "website": "https://www.verdexai.com/",
+      "description": "Verdex uses satellite imagery and weather data to create a persistent, time-anchored record of what happens on every acre. This turns land into a measurable asset whose outcomes can be audited objectively at scale.\r\n\r\nVerdex is built to replace manual field inspections in insurance verification and risk management.",
+      "one_liner": "Asset Intelligence for Farmland",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Agriculture",
+      "industries": [
+        "Industrials",
+        "Agriculture"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Insurance",
+        "Agriculture"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768239774.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1120bcf00706a94884c56902a7b3d67ae4dc02dc.png"
     },
     {
       "id": 31123,
@@ -1735,5 +1768,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-12T12:01:34.395792"
+  "fetched_at": "2026-01-12T18:01:15.419593"
 }
