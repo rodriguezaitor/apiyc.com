@@ -101,7 +101,7 @@
       "name": "Corelayer",
       "slug": "corelayer",
       "website": "https://www.corelayer.com",
-      "description": "We\u2019re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to query data to debug production issues. We monitor both data and infrastructure for anomalies and use AI agents to debug and suggest fixes for issues.\r\n\r\nData is especially sensitive in regulated industries, so we offer hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building large-scale data infrastructure together at Goldman Sachs.",
+      "description": "We\u2019re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
       "one_liner": "AI on-call engineer that debugs using data",
       "batch": "Winter 2026",
       "status": "Active",
@@ -118,9 +118,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -800,8 +800,8 @@
       "name": "Arcline",
       "slug": "arcline",
       "website": "https://www.arcline-ai.com/",
-      "description": "Fast and predictable AI-native legal services designed for startups: If you\u2019re a founder tired of spending $ X0k+ and months on ESOP, contracts, compliance, corporate, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline\u2019s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe\u2019re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
-      "one_liner": "AI-native lawyers working at startup speed and cost",
+      "description": "If you\u2019re tired of spending $ X0k+ and months on ESOP, contracts, compliance, fundraising, cross-border work, employment, or tech, we built Arcline for you. \r\n\r\nArcline\u2019s 50+ AI-native lawyers works at startup speed and price. So you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe\u2019re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nThink of us as your fractional in-house legal team, ready to deploy when needed. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
+      "one_liner": "AI-native lawyers handling startup legal work in hours",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 5,
@@ -819,11 +819,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Marketplace",
         "Compliance",
         "Legal",
-        "LegalTech",
-        "AI"
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1735,5 +1735,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-12T00:03:32.664461"
+  "fetched_at": "2026-01-12T06:02:07.717162"
 }
