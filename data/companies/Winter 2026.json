@@ -665,6 +665,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1e5043a0ffc6163892286ad2ffa62ff671b9be8.png"
     },
     {
+      "id": 31178,
+      "name": "Cardboard",
+      "slug": "cardboard",
+      "website": "https://cardboard.sh",
+      "description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (\u201c3 variants\u201d, \u201c30s hook\u201d, \u201ctestimonials\u201d) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an \u201cAI director\u201d inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can\u2019t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we\u2019re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it\u2019s collaborative, fast, and does the tedious parts for you.",
+      "one_liner": "Agentic video editor",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Video",
+        "Media"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768162565.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png"
+    },
+    {
       "id": 31177,
       "name": "Prana",
       "slug": "prana-health",
@@ -734,7 +767,7 @@
       "name": "Laurence",
       "slug": "laurence",
       "website": "https://trylaurence.com",
-      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nStarting with Amazon, we're currently managing $2.5M in live ad spend while delivering 30% increased return on ad spend",
+      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nWe're currently managing $2.5M in live Amazon Ad spend while lowering advertising cost of spend by 30%",
       "one_liner": "The digital brain for advertising",
       "batch": "Winter 2026",
       "status": "Active",
@@ -750,10 +783,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Reinforcement Learning",
         "Advertising",
-        "Trading"
+        "Trading",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -938,7 +971,7 @@
       "name": "AutoSitu",
       "slug": "autositu",
       "website": "https://autositu.com/",
-      "description": "At AutoSitu (formerly MirageDoodle), we\u2019re building coordinated AI agents that live inside cities\u2019 cross-department development review workflows\u2014doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters.\r\n\r\nAutoSitu provides expert-level guidance in minutes based on precedents, helping cities and design firms navigate an increasingly complex, fragmented regulatory environment\r\n\r\nWe serve as strategic partners to forward-thinking cities and design firms across the country.",
+      "description": "At AutoSitu (formerly MirageDoodle), we build coordinated AI agents that operate inside real-world development review workflows.\r\n\r\nWe handle the first 50% of the problem, performing code checks and ensuring technical correctness, but we also know correctness isn\u2019t the finish line. AutoSitu tackles the latter 50% by analyzing patterns from past projects to anticipate issues, align expectations, and reduce costly re-submittals.\r\n\r\nAutoSitu helps public- and private-sector teams navigate an increasingly complex, fragmented regulatory environment.",
       "one_liner": "AI-native workspace for municipal development review",
       "batch": "Winter 2026",
       "status": "Active",
@@ -1702,5 +1735,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-11T18:01:16.768019"
+  "fetched_at": "2026-01-12T00:03:32.664461"
 }
