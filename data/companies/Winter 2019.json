@@ -879,8 +879,8 @@
       "name": "Mars Auto",
       "slug": "mars-auto",
       "website": "https://marsauto.com",
-      "description": "Mars Auto is building autonomous trucks to completely automate warehouse-to-warehouse truck operations.",
-      "one_liner": "Autonomous trucks for warehouse-to-warehouse shipping",
+      "description": "Mars Auto is building autonomous trucks to fully automate long-haul freight shipping.",
+      "one_liner": "Autonomous trucks to fully automate long-haul freight shipping",
       "batch": "Winter 2019",
       "status": "Active",
       "team_size": 15,
@@ -896,7 +896,9 @@
       ],
       "locations": "Seoul, South Korea",
       "tags": [
-        "Autonomous Trucking"
+        "Artificial Intelligence",
+        "Autonomous Trucking",
+        "Robotics"
       ],
       "stage": "Growth",
       "is_hiring": false,
@@ -6560,5 +6562,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2026-01-13T06:01:03.891774"
+  "fetched_at": "2026-01-13T12:01:19.348854"
 }
