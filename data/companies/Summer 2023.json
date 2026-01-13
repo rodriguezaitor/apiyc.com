@@ -398,7 +398,7 @@
         "ML"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1688493255.0,
@@ -4286,15 +4286,16 @@
       "name": "Arcimus",
       "slug": "arcimus",
       "website": "https://www.arcimus.com/",
-      "description": "We track thousands of signals across the world to find people who need your product, just tell us who your perfect customer is and we'll get you a list. (Don't limit yourself to basic filters like revenue or size)\r\n\r\nSome things we can track: \r\n- Brand new online degree programs\r\n- Law firms expanding\r\n- Companies hiring their first sales reps\r\n\r\nreally anything, try us \ud83d\ude0e",
-      "one_liner": "Find who needs your product",
+      "description": "We send founders and heads of recruiting a steady flow of engineers filtered with real engineering judgment.",
+      "one_liner": "A stream of engineering candidates who ship.",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B",
+      "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
-        "B2B"
+        "B2B",
+        "Recruiting and Talent"
       ],
       "regions": [
         "United States of America",
@@ -4302,10 +4303,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "B2B",
-        "Sales"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5327,18 +5327,18 @@
       ],
       "locations": "New York, NY, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
         "Deep Learning",
         "Developer Tools",
         "Cloud Computing",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689189501.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/16f24156219bac0f48e878f7b176d11721bc6958.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/765d8a1a78a1c5939f354a26be87d3c1c1696290.png"
     },
     {
       "id": 28811,
@@ -7390,5 +7390,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-12T18:01:08.678252"
+  "fetched_at": "2026-01-13T00:02:46.461482"
 }

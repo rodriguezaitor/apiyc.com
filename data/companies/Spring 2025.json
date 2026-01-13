@@ -3258,36 +3258,39 @@
     },
     {
       "id": 30438,
-      "name": "Beluga Labs",
-      "slug": "beluga-labs",
+      "name": "Beluga",
+      "slug": "beluga",
       "website": "https://www.belugalabs.ai/",
-      "description": "The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.\r\n\r\nBeluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.",
-      "one_liner": "Rippling for Content Creators",
+      "description": "Using our 7+ years of influencer marketing experience to help companies run their influencer campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
+      "one_liner": "Influencer marketing that converts",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "B2B -> Marketing",
       "industries": [
         "B2B",
-        "Operations"
+        "Marketing"
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Fintech",
-        "Creator Economy",
-        "AI"
+        "Artificial Intelligence",
+        "Marketing",
+        "Advertising",
+        "Creator Economy"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1748129784.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/50d42478a34c0d5bf559cd697f4f613bc54bad1d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/11644b045eb253141d3efc6875010730a886df27.png"
     },
     {
       "id": 30437,
@@ -4645,5 +4648,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-01-12T18:01:11.345019"
+  "fetched_at": "2026-01-13T00:02:49.162711"
 }

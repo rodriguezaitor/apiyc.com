@@ -1452,39 +1452,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3127fdf5e5c4be37c6ea79ff2812b08ce513d40.png"
     },
     {
-      "id": 29459,
-      "name": "Lumona",
-      "slug": "lumona",
-      "website": "https://www.lumona.ai",
-      "description": "Lumona is an AI-enabled search engine featuring insights from social media. When you\u2019re looking to buy a new phone, instead of adding reddit to the end of your search and opening tabs of threads that take forever to get through, you can search on Lumona to get all of that processed for you on one page so you can make the best decision while saving time.",
-      "one_liner": "AI-enabled search engine featuring insights from social media.",
-      "batch": "Winter 2024",
-      "status": "Active",
-      "team_size": 1,
-      "industry": "Consumer",
-      "subindustry": "Consumer",
-      "industries": [
-        "Consumer"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "Cambridge, MA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Consumer",
-        "Search"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1704065772.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d72c3d83183445e4992cb58763a5f76c303afd5.png"
-    },
-    {
       "id": 29457,
       "name": "Datacurve",
       "slug": "datacurve",
@@ -7746,6 +7713,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fada29ae63edf87d4cbd62fa52e4d06cd8363eb.png"
     },
     {
+      "id": 29459,
+      "name": "Lumona",
+      "slug": "lumona",
+      "website": "https://www.lumona.ai",
+      "description": "Lumona is an AI-enabled search engine featuring insights from social media. When you\u2019re looking to buy a new phone, instead of adding reddit to the end of your search and opening tabs of threads that take forever to get through, you can search on Lumona to get all of that processed for you on one page so you can make the best decision while saving time.",
+      "one_liner": "AI-enabled search engine featuring insights from social media.",
+      "batch": "Winter 2024",
+      "status": "Inactive",
+      "team_size": 1,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Cambridge, MA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Consumer",
+        "Search"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1704065772.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d72c3d83183445e4992cb58763a5f76c303afd5.png"
+    },
+    {
       "id": 29449,
       "name": "Fileforge",
       "slug": "fileforge",
@@ -8278,5 +8278,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-12T18:01:07.179228"
+  "fetched_at": "2026-01-13T00:02:44.928013"
 }

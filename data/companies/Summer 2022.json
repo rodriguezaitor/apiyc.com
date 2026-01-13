@@ -3338,40 +3338,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/385a0231f7ab5d980e79ffdfbfa16bc2183b283d.png"
     },
     {
-      "id": 26862,
-      "name": "Pulppo",
-      "slug": "pulppo",
-      "website": "https://www.pulppo.com",
-      "description": "Pulppo is building Shopify for the real estate brokerages in Latin America. We provide them with performance analytics software, automatic online property listings, a valuation tool and a CRM. We will charge 20% of the 166 billions dollars in annual commissions they generate.\u00a0\r\nFrom our integrated tool we automate non-value added activities, and give visibility and transparency to agents (CRM) and customers (buyer collaboration, seller dashboard). By integrating the entire process, we empower agents to deliver an improved customer journey and more efficient process.",
-      "one_liner": "Shopify for Real Estate Agents in LATAM",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 29,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-      "industries": [
-        "Real Estate and Construction",
-        "Housing and Real Estate"
-      ],
-      "regions": [
-        "Mexico",
-        "Latin America",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Mexico City, CDMX, Mexico",
-      "tags": [
-        "Real Estate",
-        "Proptech"
-      ],
-      "stage": "Early",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1652269934.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e253fb534aa462b015973594492ef7bc2c27096.png"
-    },
-    {
       "id": 26861,
       "name": "100x",
       "slug": "100x",
@@ -6884,6 +6850,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f9b88ea0ac50da754bbb784bc3e860890a742e2.png"
     },
     {
+      "id": 26862,
+      "name": "Pulppo",
+      "slug": "pulppo",
+      "website": "https://www.pulppo.com",
+      "description": "Pulppo is building Shopify for the real estate brokerages in Latin America. We provide them with performance analytics software, automatic online property listings, a valuation tool and a CRM. We will charge 20% of the 166 billions dollars in annual commissions they generate.\u00a0\r\nFrom our integrated tool we automate non-value added activities, and give visibility and transparency to agents (CRM) and customers (buyer collaboration, seller dashboard). By integrating the entire process, we empower agents to deliver an improved customer journey and more efficient process.",
+      "one_liner": "Shopify for Real Estate Agents in LATAM",
+      "batch": "Summer 2022",
+      "status": "Acquired",
+      "team_size": 29,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "regions": [
+        "Mexico",
+        "Latin America",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Mexico City, CDMX, Mexico",
+      "tags": [
+        "Real Estate",
+        "Proptech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1652269934.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e253fb534aa462b015973594492ef7bc2c27096.png"
+    },
+    {
       "id": 26811,
       "name": "Payload",
       "slug": "payload",
@@ -8110,5 +8110,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-12T18:01:07.921506"
+  "fetched_at": "2026-01-13T00:02:45.754372"
 }

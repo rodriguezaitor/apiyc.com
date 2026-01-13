@@ -1006,7 +1006,7 @@
       "one_liner": "AI that finds your perfect customers",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 11,
+      "team_size": 5,
       "industry": "B2B",
       "subindustry": "B2B -> Sales",
       "industries": [
@@ -2826,37 +2826,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a037b1acaa5b376575f5e3e8a1fdf2e7e2057ddc.png"
     },
     {
-      "id": 30016,
-      "name": "Zeroframe",
-      "slug": "zeroframe",
-      "website": "https://zeroframe.ai",
-      "description": "",
-      "one_liner": "Pushing the boundaries of AI",
-      "batch": "Fall 2024",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1730323819.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
-    },
-    {
       "id": 30014,
       "name": "Clarus",
       "slug": "clarus",
@@ -3020,7 +2989,38 @@
       "is_top_company": false,
       "launched_at": 1728969633.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png"
+    },
+    {
+      "id": 30016,
+      "name": "Zeroframe",
+      "slug": "zeroframe",
+      "website": "https://zeroframe.ai",
+      "description": "",
+      "one_liner": "Pushing the boundaries of AI",
+      "batch": "Fall 2024",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1730323819.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-12T18:01:13.845835"
+  "fetched_at": "2026-01-13T00:02:51.733041"
 }
