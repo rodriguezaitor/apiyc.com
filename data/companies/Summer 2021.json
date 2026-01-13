@@ -4811,9 +4811,9 @@
     },
     {
       "id": 24395,
-      "name": "Paperbook",
-      "slug": "paperbook",
-      "website": "https://paperbook.io",
+      "name": "Miniloop",
+      "slug": "miniloop",
+      "website": "https://miniloop.ai",
       "description": "Paperbook is the intelligent platform that continuously audits, cleans, and maintains your knowledge base by detecting outdated content, inconsistencies, and structural issues before they impact customers or support teams.",
       "one_liner": "Intelligent knowledge base platform",
       "batch": "Summer 2021",
@@ -4832,7 +4832,7 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -4840,7 +4840,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1625260950.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeb0b93729cedfebdf93df84ed65027afb41f806.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeed5cd44236d1a01c6e9a140c5fea1bd7489cac.png"
     },
     {
       "id": 24391,
@@ -13411,5 +13411,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-13T12:01:17.690578"
+  "fetched_at": "2026-01-13T18:02:02.958909"
 }

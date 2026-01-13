@@ -567,16 +567,16 @@
       "name": "Clice AI",
       "slug": "clice-ai",
       "website": "https://www.clice.ai",
-      "description": "Clice is the AI powered communication layer that works for any business built on relationships. It unifies email, calendar, and CRM into one intelligent workflow engine that understands context and keeps work moving without manual effort.\r\n\r\nTeams across industries use Clice to manage follow-ups, schedule meetings, organize client records, draft messages, and keep their communication channels clean and responsive. Anyone who works with clients, partners, or stakeholders can plug Clice into their CRM and get an AI teammate that handles the repetitive operational load.\r\n\r\nClice connects to the systems you already use and keeps everything organized while you focus on the work that actually moves the business forward.",
-      "one_liner": "The communication layer for every relationship-driven business",
+      "description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
+      "one_liner": "Personal AI agents for your team that coordinate with each other",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Sales",
+      "subindustry": "B2B -> Productivity",
       "industries": [
         "B2B",
-        "Sales"
+        "Productivity"
       ],
       "regions": [
         "United States of America",
@@ -586,7 +586,9 @@
       "tags": [
         "B2B",
         "Productivity",
-        "Automation"
+        "Sales",
+        "Automation",
+        "Operations"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -825,6 +827,72 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png"
     },
     {
+      "id": 31163,
+      "name": "Opalite Health",
+      "slug": "opalite-health",
+      "website": "http://opalitehealth.com/",
+      "description": "Opalite makes it easy for healthcare providers to communicate with non-English speaking patients. We\u2019re built to work inside existing clinical workflows, so providers can communicate in real time without waiting for an interpreter or delaying care. \r\n\r\nOpalite is available instantly, 24/7, and replaces traditional interpretation services with software that\u2019s more reliable and saves millions of dollars per year.\r\n\r\nWe've built a voice AI system that is the safest, most compliant, and most accurate medical interpreter in the world.",
+      "one_liner": "Solving language barriers in healthcare",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Palo Alto, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Health Tech",
+        "Digital Health",
+        "Healthcare"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768325224.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/486a2091ac156a249fa74de7d7c575fedb03c889.png"
+    },
+    {
+      "id": 31152,
+      "name": "Ishiki Labs",
+      "slug": "ishiki-labs",
+      "website": "https://www.ishikilabs.ai/",
+      "description": "We're building Fern - a multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment \u2014 proactively guiding you in the moment when needed, and staying out of the way when not.",
+      "one_liner": "Building the Future of Multimodal AI",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Generative AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768297786.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png"
+    },
+    {
       "id": 31146,
       "name": "Arcline",
       "slug": "arcline",
@@ -1049,16 +1117,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Insurance",
-        "Agriculture"
+        "Agriculture",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1768239774.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1120bcf00706a94884c56902a7b3d67ae4dc02dc.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2d57e5242b045e9e94aed1a55a2e5654b0b3108.png"
     },
     {
       "id": 31123,
@@ -1231,6 +1299,42 @@
       "is_top_company": false,
       "launched_at": 1765500266.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/85e872135272bf3527b0349fdcaf59c29b227c47.png"
+    },
+    {
+      "id": 31098,
+      "name": "10x Science",
+      "slug": "10x-science",
+      "website": "https://10xscience.com",
+      "description": "Our mission at 10x Science is to enable biopharmaceutical development to keep pace with AI-powered drug discovery. \r\n\r\nThanks to AI, the front end of drug discovery is flooding the pipeline with new drug candidates. However, current solutions for drug development are unable to resolve drug complexity and cannot keep up with modern demand. Our platform is the unlock for this bottleneck. \r\n\r\nBy applying modern AI to the development stage, specifically to protein characterization and quality assessment, we provide an end-to-end solution to dramatically speed up and scale up the preparation of candidates for the clinic. \r\n\r\nOur team is composed of Stanford University researchers from a Nobel Laureate's lab with 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next-generation of modern AI drug development. ",
+      "one_liner": "The AI-native platform for next-generation protein characterization.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Biotech",
+        "Enterprise Software",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768312668.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png"
     },
     {
       "id": 31094,
@@ -1798,5 +1902,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-13T12:01:22.030160"
+  "fetched_at": "2026-01-13T18:02:05.923103"
 }
