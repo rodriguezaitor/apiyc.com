@@ -7762,7 +7762,7 @@
       "name": "Arroyo",
       "slug": "arroyo",
       "website": "https://www.arroyo.dev",
-      "description": "Arroyo is a serverless stream processing platform built on top of the open-source Arroyo streaming engine. We allow companies to transform, filter, aggregate, and join their Kafka streams in real-time just by writing SQL. We charge purely based on usage, with no fixed costs or clusters to manage.",
+      "description": "Arroyo is a serverless stream processing platform built on top of the open-source Arroyo streaming engine. We allow companies to transform, filter, aggregate, and join their Kafka streams in real-time just by writing SQL. We charge purely based on usage, with no fixed costs or clusters to manage.\r\n\r\nIn 2025, Arroyo was acquired by Cloudflare and now powers Cloudflare Pipelines",
       "one_liner": "Cloud-native stream processing",
       "batch": "Winter 2023",
       "status": "Acquired",
@@ -9332,5 +9332,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-01-13T00:02:44.555812"
+  "fetched_at": "2026-01-13T06:01:02.633319"
 }

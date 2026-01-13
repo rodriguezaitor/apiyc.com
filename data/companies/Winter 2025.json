@@ -1628,8 +1628,8 @@
       "name": "Outlit",
       "slug": "outlit",
       "website": "https://outlit.ai/",
-      "description": "See how customers find you, use your product, and convert to paid.",
-      "one_liner": "Account-level Customer Journey for PLG SaaS",
+      "description": "Understand how customers find you, use your product, and convert to paid.",
+      "one_liner": "Account-level Customer Journey",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 2,
@@ -2980,8 +2980,8 @@
       "name": "Osmosis",
       "slug": "osmosis",
       "website": "https://osmosis.ai/",
-      "description": "Osmosis enables AI self-improvement through real-time reinforcement learning. ",
-      "one_liner": "Online Reinforcement Learning for AI Agents",
+      "description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
+      "one_liner": "Reinforcement Learning for AI Agents",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 6,
@@ -2996,7 +2996,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1737656598.0,
@@ -5359,5 +5359,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2026-01-13T00:02:47.824069"
+  "fetched_at": "2026-01-13T06:01:04.345679"
 }

@@ -476,6 +476,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png"
     },
     {
+      "id": 30792,
+      "name": "Bizzy AI",
+      "slug": "geo-ai",
+      "website": "https://www.usebizzy.com/",
+      "description": "Bizzy handles your calls, captures and qualifies leads, and books appointments directly into your CRM. It understands your services better than a receptionist would, routes and escalates calls, and syncs with your existing tools to incorporate complex workflows, all so your team can focus on servicing leads, not qualifying them.",
+      "one_liner": "Bizzy works 24/7 so you never miss a lead.",
+      "batch": "Summer 2025",
+      "status": "Active",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Workflow Automation",
+        "Sales",
+        "Marketing",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768273014.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1bb9d080fb903ceaca051fee53ae9b28b4bb593.png"
+    },
+    {
       "id": 30791,
       "name": "Spotlight Realty",
       "slug": "spotlight-realty",
@@ -2102,7 +2136,7 @@
         "Infrastructure"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1756070413.0,
@@ -2515,7 +2549,7 @@
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
       "description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
-      "one_liner": "Human-Layer Breach and Attack Breach Simulation",
+      "one_liner": "Human-Layer Breach and Attack Simulation",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2531,9 +2565,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4251,11 +4285,11 @@
     },
     {
       "id": 30623,
-      "name": "Pharmie AI",
-      "slug": "pharmie-ai",
-      "website": "https://www.pharmie.app/",
-      "description": "Pharmie is an AI assistant for pharmacies. It can pick up calls, process prescriptions, handle insurance follow-ups, and even help upsell specific drugs and services. Pharmacies can get 50+ phone calls a day, and missing phone calls means lost revenue from filling prescriptions.\r\n\r\nPharmacy workflows are complex and custom to each pharmacy's needs. Generic tools are not enough, which is why AI agents can handle tasks end-to-end that previously could not be automated. We are constantly evolving Pharmie to become a suite of agents that supercharge your pharmacy.\r\n\r\nIn the future, pharmacies will evolve into patient care centers, bridging the gaps in access caused by today\u2019s overburdened healthcare system. Successful pharmacies will use AI to optimize their operations, resulting in a higher quality patient experience traditional pharmacies cannot match.",
-      "one_liner": "The first AI pharmacy technician",
+      "name": "Playgent",
+      "slug": "playgent",
+      "website": "https://useplaygent.com",
+      "description": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke.\r\n\r\nPlaygent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications.\r\n\r\nTeams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
+      "one_liner": "Sandboxes for AI agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -4272,15 +4306,15 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "SaaS",
-        "Health Tech",
-        "AI Assistant"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754457298.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d229305f98494015f6e3f083bec99ca9e83082a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ad8d62052816b9ab3349fc92ba2137b2b1edb02.png"
     },
     {
       "id": 30622,
@@ -4375,11 +4409,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "B2B",
         "HR Tech",
-        "Payroll",
-        "AI"
+        "Payroll"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5304,5 +5338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-13T00:02:48.163666"
+  "fetched_at": "2026-01-13T06:01:04.194752"
 }

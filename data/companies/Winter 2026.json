@@ -798,8 +798,8 @@
       "name": "Laurence",
       "slug": "laurence",
       "website": "https://trylaurence.com",
-      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nWe're currently managing $2.5M in live Amazon Ad spend while lowering advertising cost of spend by 30%",
-      "one_liner": "The digital brain for advertising",
+      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints. Our models systematically price bids, allocate budgets, and adjust targeting based on observed conversion signals and uncertainty.\r\n\r\nStarting with Amazon, we are automating $2.5M in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
+      "one_liner": "Automating performance advertising with quantitative models",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -814,10 +814,8 @@
       ],
       "locations": "",
       "tags": [
-        "Reinforcement Learning",
         "Advertising",
-        "Trading",
-        "AI"
+        "Trading"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1800,5 +1798,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-13T00:02:53.408276"
+  "fetched_at": "2026-01-13T06:01:06.564670"
 }
