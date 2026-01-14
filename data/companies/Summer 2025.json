@@ -3709,7 +3709,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn\u2019t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That\u2019s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
+      "description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn\u2019t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That\u2019s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
       "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3725,10 +3725,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps"
+        "DevOps",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4193,16 +4193,16 @@
       "name": "ContextFort",
       "slug": "contextfort",
       "website": "https://contextfort.ai/",
-      "description": "ContextFort is bringing the power of AI to the three trillion dollar construction industry, starting with an AI co-pilot that reviews every revision of your architectural and structural drawings in minutes\u2014not weeks.\r\n\r\nOur Software:\r\n\u2022 Detects missing or conflicting dimensions across sheets\r\n\u2022 Highlights overlay mismatches between versions\r\n\u2022 Checks if an issue is already resolved in the latest set\r\n\u2022 Auto-drafts spec-compliant RFIs so you hit \u201csend,\u201d not \u201ctype\u201d\r\n\r\nContractors save 2-3 weeks per project, cut costly rework, and keep schedules on track.",
-      "one_liner": "Helping construction contractors find errors in blueprints",
+      "description": "ContextFort gives security teams visibility and controls for AI browser agents.\r\nIt\u2019s a Chrome extension that:\r\nDetects when an AI agent takes control of the browser\r\nRecords every action during the session (pages visited, clicks, text entry) \r\nProvides controls to prevent risky actions and cross-site data leakage",
+      "one_liner": "Visibility and Controls for Browser Agents",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Construction",
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
       "industries": [
-        "Real Estate and Construction",
-        "Construction"
+        "B2B",
+        "Security"
       ],
       "regions": [
         "United States of America",
@@ -4210,15 +4210,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Construction"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753951898.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bb8bde8646cf10a60dc7d32e6b9b4e39c4a7557.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6087e1f0e34063f0cc8f7a39962c8cbe63788444.png"
     },
     {
       "id": 30625,
@@ -5338,5 +5338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-14T12:01:20.068673"
+  "fetched_at": "2026-01-14T18:01:22.722816"
 }

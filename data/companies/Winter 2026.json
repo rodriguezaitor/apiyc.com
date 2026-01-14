@@ -1,6 +1,41 @@
 {
   "data": [
     {
+      "id": 31276,
+      "name": "Ritivel",
+      "slug": "ritivel",
+      "website": "https://www.ritivel.com",
+      "description": "Ritivel turns raw clinical trial data into FDA submission documents in minutes. Traditionally, medical writers spend 8-12 weeks manually compiling data; our system uses study protocol and statistical outputs to instantly generate these reports with full traceability to the source data.\r\n\r\nClinical development is pharma's biggest bottleneck. Despite rising R&D, trial timelines have increased 33% over the last decade. Accelerating clinical timelines by 20% unlocks hundreds of millions in additional revenue per drug by extending patent life. \r\n\r\nGeneric AI fails in pharma due to a lack of traceability, with only 28% of pilots reaching production - the FDA requires traceability for all claims. Our proprietary engine solves this with word-level traceability, linking every generated sentence to clinical evidence. We deploy 100% on-premise to keep sensitive patient data within the client's infrastructure, making us a trusted AI partner for pharma.\r\n\r\nWe automate the most complex parts of CSRs (clinical narratives and biostatistical analysis). Our high-quality output, validated by senior regulatory writers, costs 1/100th of human writing. We're built by experts from Microsoft, Kearney, and IQVIA - combining deep AI engineering with regulatory expertise to solve the \"last mile\" of drug development\u2014a problem generic AI wrappers can't solve because they don't understand the standards or FDA requirements.",
+      "one_liner": "We turn clinical trial data into FDA submission documents in minutes",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare IT",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Compliance",
+        "Enterprise Software",
+        "Regtech",
+        "Biotechnology"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768402832.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png"
+    },
+    {
       "id": 31273,
       "name": "SpotPay",
       "slug": "spotpay",
@@ -1935,5 +1970,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-14T12:01:26.770814"
+  "fetched_at": "2026-01-14T18:01:25.006345"
 }

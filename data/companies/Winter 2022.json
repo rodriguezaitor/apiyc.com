@@ -2566,11 +2566,11 @@
       "name": "Shaped",
       "slug": "shaped",
       "website": "https://shaped.ai",
-      "description": "Increase engagement, conversion, and revenue with a configurable search and recommendation system that adapts in real-time.",
-      "one_liner": "The fastest path to relevant recommendations and search",
+      "description": "Connect your data. Train your models. Query text, user or session context and retrieve relevant results in milliseconds. Explore our case studies to see how we\u2019ve helped leading brands drive significant engagement and revenue: https://www.shaped.ai/case-study. ",
+      "one_liner": "The real-time retrieval engine for search, feeds, and agents.",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 12,
+      "team_size": 25,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -2583,10 +2583,8 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "API",
         "Search",
+        "AI",
         "Recommendation System"
       ],
       "stage": "Early",
@@ -13811,5 +13809,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-01-14T12:01:14.580039"
+  "fetched_at": "2026-01-14T18:01:20.685111"
 }
