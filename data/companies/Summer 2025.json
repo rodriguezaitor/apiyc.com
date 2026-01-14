@@ -1670,7 +1670,7 @@
         "Conversational AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1751772864.0,
@@ -3709,7 +3709,7 @@
       "name": "Janet AI",
       "slug": "tryjanet",
       "website": "https://tryjanet.ai",
-      "description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn\u2019t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That\u2019s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
+      "description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn\u2019t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That\u2019s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
       "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3725,10 +3725,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4524,10 +4524,10 @@
     },
     {
       "id": 30614,
-      "name": "Gaus",
-      "slug": "gaus",
-      "website": "https://www.joingaus.com/",
-      "description": "Gaus is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Gaus gives every active investor an AI investment advisor working around the clock to surface their next great investment. We\u2019re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don\u2019t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
+      "name": "Astor",
+      "slug": "astor",
+      "website": "https://www.joinastor.com/",
+      "description": "Astor is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Astor gives every active investor an AI investment advisor working around the clock to surface their next great investment. We\u2019re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don\u2019t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
       "one_liner": "AI advisor for retail investors",
       "batch": "Summer 2025",
       "status": "Active",
@@ -4554,7 +4554,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754607917.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46613747d4e524395d78d130167310be1c6c0303.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b5fdcf24f0c61830898968d03a605cac559df3.png"
     },
     {
       "id": 30613,
@@ -5338,5 +5338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-13T18:02:04.241118"
+  "fetched_at": "2026-01-14T00:03:02.160639"
 }

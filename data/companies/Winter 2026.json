@@ -128,6 +128,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed78fd7caa59335d26e6924d7cd9e597c6f6f2a8.png"
     },
     {
+      "id": 31243,
+      "name": "Scout Out",
+      "slug": "scout-out",
+      "website": "https://scoutout.ai/",
+      "description": "Scout Out helps clients hire the right builder by turning building plans into fast, comparable bids.\r\n\r\nToday, every contractor who wants to bid on a project has to independently estimate material and labor quantities. That makes bidding slow, expensive, and inconsistent \u2014 and homeowners often end up comparing apples to oranges.\r\n\r\nScout Out automates this step. We use computer vision trained on building plans to generate standardized material and labor takeoffs once, in-house. We then share those takeoffs with vetted contractors, so everyone is bidding on the same scope.\r\n\r\nThe result: homeowners get more bids, faster turnaround, and clearer pricing \u2014 without asking each contractor to redo the same estimation work.\r\n\r\nWe\u2019re starting in Los Angeles, helping homeowners rebuild after the Palisades and Eaton fires.",
+      "one_liner": "Find someone to build your building",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction",
+      "industries": [
+        "Real Estate and Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Real Estate",
+        "Construction",
+        "Proptech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768343791.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbc4def34ee35f1be5646ba1619e18503ee7b982.png"
+    },
+    {
       "id": 31241,
       "name": "Corelayer",
       "slug": "corelayer",
@@ -1902,5 +1935,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-13T18:02:05.923103"
+  "fetched_at": "2026-01-14T00:03:04.492505"
 }

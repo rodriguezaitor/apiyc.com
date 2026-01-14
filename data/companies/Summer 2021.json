@@ -4814,8 +4814,8 @@
       "name": "Miniloop",
       "slug": "miniloop",
       "website": "https://miniloop.ai",
-      "description": "Paperbook is the intelligent platform that continuously audits, cleans, and maintains your knowledge base by detecting outdated content, inconsistencies, and structural issues before they impact customers or support teams.",
-      "one_liner": "Intelligent knowledge base platform",
+      "description": "Miniloop is a workflow engine for building reliable AI systems. It turns one-off prompts into structured, reusable workflows with enforced context, typed outputs, and safe re-runs, making AI dependable in production environments.",
+      "one_liner": "AI workflow engine for reliable systems",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 2,
@@ -4832,7 +4832,7 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "AI",
+        "Artificial Intelligence",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -13411,5 +13411,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-13T18:02:02.958909"
+  "fetched_at": "2026-01-14T00:03:00.267067"
 }
