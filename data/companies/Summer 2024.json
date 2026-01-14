@@ -3862,16 +3862,16 @@
       "name": "Lumenary",
       "slug": "lumenary",
       "website": "https://try.solar",
-      "description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
+      "description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
       "one_liner": "Build working software exceedingly fast in Solar",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 3,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Analytics",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Analytics"
       ],
       "regions": [
         "United States of America",
@@ -3880,8 +3880,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
-        "Automation"
+        "Finance",
+        "Analytics",
+        "Big Data",
+        "Data Engineering"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8239,5 +8241,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-14T06:01:10.133107"
+  "fetched_at": "2026-01-14T12:01:17.088246"
 }

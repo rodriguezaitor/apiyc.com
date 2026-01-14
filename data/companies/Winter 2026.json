@@ -899,7 +899,7 @@
       "name": "Ishiki Labs",
       "slug": "ishiki-labs",
       "website": "https://www.ishikilabs.ai/",
-      "description": "We're building multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment \u2014 proactively guiding you in the moment when needed, and staying out of the way when not. \r\n\r\nOur first version, Fern-0.1 listens, doesn't interrupt, and gives you a second opinion exactly when you need it. You can delegate it tasks real time as they come up\u2014instead of going home and doing them yourself. It has on par latency as ChatGPT and Gemini.",
+      "description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
       "one_liner": "Building the Future of Multimodal AI",
       "batch": "Winter 2026",
       "status": "Active",
@@ -1935,5 +1935,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-14T06:01:19.685572"
+  "fetched_at": "2026-01-14T12:01:26.770814"
 }
