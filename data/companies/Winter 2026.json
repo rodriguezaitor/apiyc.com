@@ -601,7 +601,7 @@
       "slug": "clice-ai",
       "website": "https://www.clice.ai",
       "description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-      "one_liner": "Personal AI agents for your team that coordinate with each other",
+      "one_liner": "AI clones of people that can coordinate with each other",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -899,7 +899,7 @@
       "name": "Ishiki Labs",
       "slug": "ishiki-labs",
       "website": "https://www.ishikilabs.ai/",
-      "description": "We're building Fern - a multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment \u2014 proactively guiding you in the moment when needed, and staying out of the way when not.",
+      "description": "We're building multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment \u2014 proactively guiding you in the moment when needed, and staying out of the way when not. \r\n\r\nOur first version, Fern-0.1 listens, doesn't interrupt, and gives you a second opinion exactly when you need it. You can delegate it tasks real time as they come up\u2014instead of going home and doing them yourself. It has on par latency as ChatGPT and Gemini.",
       "one_liner": "Building the Future of Multimodal AI",
       "batch": "Winter 2026",
       "status": "Active",
@@ -914,9 +914,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Deep Learning",
-        "Generative AI"
+        "Generative AI",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1101,7 +1101,7 @@
       "name": "AutoSitu",
       "slug": "autositu",
       "website": "https://autositu.com/",
-      "description": "At AutoSitu (formerly MirageDoodle), we build coordinated AI agents that operate inside real-world development review workflows.\r\n\r\nWe handle the first 50% of the problem, performing code checks and ensuring technical correctness, but we also know correctness isn\u2019t the finish line. AutoSitu tackles the latter 50% by analyzing patterns from past projects to anticipate issues, align expectations, and reduce costly re-submittals.\r\n\r\nAutoSitu helps public- and private-sector teams navigate an increasingly complex, fragmented regulatory environment.",
+      "description": "At Autositu, we\u2019re building coordinated AI agents that live inside cities\u2019 cross-department development review workflows\u2014doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. Autositu provides expert-level guidance and catch issues in minutes, helping cities and design firms navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
       "one_liner": "AI-native workspace for municipal development review",
       "batch": "Winter 2026",
       "status": "Active",
@@ -1935,5 +1935,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-14T00:03:04.492505"
+  "fetched_at": "2026-01-14T06:01:19.685572"
 }
