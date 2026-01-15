@@ -43,7 +43,7 @@
       "slug": "shofo",
       "website": "https://shofo.ai/",
       "description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
-      "one_liner": "Scraping and labeling social media posts to curate training datasets",
+      "one_liner": "Scraping hard to access social media posts to curate training datasets",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -59,18 +59,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Social Media",
         "API",
         "Data Labeling",
-        "Big Data"
+        "Big Data",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1768432806.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1aad9ee57557732efcdcbdc3474874eab470647.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9566cdfda9270bfc837554b877f4b2dd16bdba0d.png"
     },
     {
       "id": 31285,
@@ -779,7 +779,7 @@
       "slug": "clice-ai",
       "website": "https://www.clice.ai",
       "description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-      "one_liner": "AI clones of people that can coordinate with each other",
+      "one_liner": "AI assistants for employees, operating in one Slack-like workspace",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -797,9 +797,8 @@
       "tags": [
         "B2B",
         "Productivity",
-        "Sales",
         "Automation",
-        "Operations"
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1047,7 +1046,7 @@
       "slug": "laurence",
       "website": "https://trylaurence.com",
       "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints. Our models systematically price bids, allocate budgets, and adjust targeting based on observed conversion signals and uncertainty.\r\n\r\nStarting with Amazon, we are automating $2.5M in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
-      "one_liner": "Automating performance advertising with quantitative models",
+      "one_liner": "Automated orchestration for digital advertising",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -1441,10 +1440,10 @@
     },
     {
       "id": 31128,
-      "name": "Cumulus",
-      "slug": "cumulus",
+      "name": "Cumulus Labs",
+      "slug": "cumulus-labs",
       "website": "https://cumuluslabs.io",
-      "description": "Cumulus (YC W26) is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged for what they use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
+      "description": "Cumulus Labs is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged by physical resource use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
       "one_liner": "The Optimized GPU Cloud",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2246,5 +2245,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-15T06:01:04.316667"
+  "fetched_at": "2026-01-15T12:01:23.250670"
 }
