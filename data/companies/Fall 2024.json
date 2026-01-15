@@ -1764,8 +1764,8 @@
       "name": "RiskCube",
       "slug": "riskcube",
       "website": "https://riskcube.com",
-      "description": "Problem: Venture-backed startups are underserved by the traditional insurance market and limited to single-quote MGAs, leading to opaque pricing and suboptimal coverage.\r\n\r\nSolution: RiskCube is an independent, AI-native comparison platform that provides founders with multi-carrier quote comparison, enabling transparent, data-driven insurance decisions.\r\n\r\nUnfair Advantage: Our platform is built on proprietary risk models designed by our founder, a risk & insurance expert and former member of the WTW Risk & Analytics division. This expertise allows us to identify and price startup risks that generalist brokers miss.\r\n\r\nResult: We leverage AI and quantitative analysis to ensure compliance and reduce total cost of risk for venture-backed startups. ",
-      "one_liner": "AI-powered startup insurance, backed by human expertise.",
+      "description": "Problem: Venture-backed startups are underserved by the traditional insurance market and limited to single-quote insurance carrier, leading to opaque pricing and suboptimal coverage.\r\n\r\nSolution: RiskCube is an independent, AI-native comparison platform that provides founders with multi-carrier quote comparison, enabling transparent, data-driven insurance decisions.\r\n\r\nUnfair Advantage: Our platform is built on proprietary risk models designed by our founder, a risk & insurance expert and former member of the WTW Risk & Analytics division. This expertise allows us to identify and price startup risks that generalist brokers miss.\r\n\r\nResult: We leverage AI and quantitative analysis to ensure compliance and reduce total cost of risk for venture-backed startups. ",
+      "one_liner": "AI-native insurance firm for startups.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -1781,9 +1781,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Insurance",
-        "AI"
+        "Insurance"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2440,14 +2440,14 @@
     },
     {
       "id": 30032,
-      "name": "Coblocks",
-      "slug": "coblocks",
-      "website": "https://coblocks.ai",
-      "description": "Coblocks is a thoughtfully-designed data platform that helps teams write queries and automate workflows faster. \r\n\r\nWe understand the columns, tables, and relationships in your data and use them to help anyone on your team build pipelines with AI, SQL and Python. Think of us like Zapier plus Cursor for data engineering.\r\n\r\nHere\u2019s how we\u2019re different:\r\n\r\n\u2022 All-in-one: You can get started in 2 minutes \u2013\u00a0no setup or configuration required. We have one-click integrations, warehousing, transformation, and schedules all built in.\r\n\u2022 Seamless integrations: Plug in your Postgres database, Stripe transactions, Hubspot leads, or any other data source, without writing code to keep things in sync.\r\n\u2022 Thoughtful AI: We love Cursor and we love data \u2013 we combined the two to help you write accurate queries. We use existing metadata to help you create new datasets, connect sources, fix errors, or edit in place.\r\n\u2022 Collaborative: Easily share data and discover what others in your org have built as a starting place for your analysis. Wrap common blocks of logic with templates so your team never has to start from zero.\r\n\u2022 Resilient and Scalable: Our compute engine is lightning-fast for queries and builds. Git and branching are built-in for both code and data, so you can time-travel backwards when things break. You can start with GBs and grow to TBs.",
-      "one_liner": "Build data pipelines in minutes with AI",
+      "name": "Darkgrade",
+      "slug": "darkgrade",
+      "website": "https://darkgrade.com",
+      "description": "We're building a protocol for large language models to directly interface with image sensors.",
+      "one_liner": "Let your camera understand the world",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -2456,14 +2456,16 @@
       ],
       "regions": [
         "United States of America",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Analytics",
-        "Data Science",
-        "Big Data",
-        "Data Engineering",
+        "Consumer",
+        "Social Media",
+        "Video",
+        "Media",
         "AI"
       ],
       "stage": "Early",
@@ -2471,7 +2473,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1731328761.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/46707ad38f8fd59e85067d699fe9815eaa71b3c8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf1e283f1a8e74b7c9244bcefc83ec5c868e45ed.png"
     },
     {
       "id": 30031,
@@ -3022,5 +3024,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-14T18:01:24.340229"
+  "fetched_at": "2026-01-15T00:03:08.401743"
 }
