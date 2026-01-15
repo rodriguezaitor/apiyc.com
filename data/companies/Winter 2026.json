@@ -70,7 +70,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1768432806.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9566cdfda9270bfc837554b877f4b2dd16bdba0d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png"
     },
     {
       "id": 31285,
@@ -570,6 +570,37 @@
       "is_top_company": false,
       "launched_at": 1764996860.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40243105666a4c27ba6bf5c2de6902054f3ae17.png"
+    },
+    {
+      "id": 31213,
+      "name": "Byteport",
+      "slug": "byteport",
+      "website": "https://byteport.io/",
+      "description": "",
+      "one_liner": "Global upload acceleration for 1GB-100TB files.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768498499.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/462f2cba50e8812c9f84433bea456da30ecab7fa.png"
     },
     {
       "id": 31212,
@@ -2245,5 +2276,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-15T12:01:23.250670"
+  "fetched_at": "2026-01-15T18:04:10.366332"
 }
