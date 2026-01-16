@@ -609,7 +609,7 @@
       "slug": "constellation-space",
       "website": "https://constellation-io.com/",
       "description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic\u2014zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
-      "one_liner": "The Operating System for Space.",
+      "one_liner": "AI for Space Mission Assurance. ",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -625,9 +625,9 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Satellites",
-        "Aerospace"
+        "Aerospace",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2310,5 +2310,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-16T00:03:20.965575"
+  "fetched_at": "2026-01-16T06:01:10.880613"
 }

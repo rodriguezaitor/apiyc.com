@@ -3469,19 +3469,19 @@
     },
     {
       "id": 29760,
-      "name": "Modern Realty",
-      "slug": "modern-realty",
-      "website": "https://modernrealty.io",
-      "description": "The future of homebuying.",
-      "one_liner": "The AI Native Real Estate Brokerage.",
+      "name": "Mage Legal",
+      "slug": "mage-legal",
+      "website": "https://magelegal.com",
+      "description": "Comprehensive AI coverage across your entire data room. Surface red and yellow flags, draft memos, compare redlines, and ensure nothing falls through the cracks.",
+      "one_liner": "Automatic AI Legal Diligence",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+      "industry": "B2B",
+      "subindustry": "B2B -> Legal",
       "industries": [
-        "Real Estate and Construction",
-        "Housing and Real Estate"
+        "B2B",
+        "Legal"
       ],
       "regions": [
         "United States of America",
@@ -3490,9 +3490,8 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Real Estate",
-        "Consumer",
-        "Consumer Products",
+        "Legal",
+        "LegalTech",
         "AI"
       ],
       "stage": "Early",
@@ -8241,5 +8240,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-16T00:03:12.111807"
+  "fetched_at": "2026-01-16T06:01:07.556062"
 }

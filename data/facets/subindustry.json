@@ -25,8 +25,8 @@
     "Healthcare": 89,
     "Industrials -> Manufacturing and Robotics": 89,
     "B2B -> Human Resources": 85,
-    "Real Estate and Construction -> Housing and Real Estate": 84,
     "Fintech -> Consumer Finance": 83,
+    "Real Estate and Construction -> Housing and Real Estate": 83,
     "Fintech -> Credit and Lending": 74,
     "B2B -> Recruiting and Talent": 73,
     "Consumer -> Gaming": 71,
@@ -37,9 +37,9 @@
     "Fintech -> Insurance": 55,
     "Healthcare -> Diagnostics": 54,
     "Industrials -> Climate": 52,
+    "B2B -> Legal": 51,
     "Fintech -> Asset Management": 51,
     "Healthcare -> Drug Discovery and Delivery": 51,
-    "B2B -> Legal": 50,
     "Consumer -> Apparel and Cosmetics": 49,
     "Real Estate and Construction -> Construction": 46,
     "Healthcare -> Medical Devices": 43,
@@ -60,5 +60,5 @@
     "Consumer -> Job and Career Services": 17,
     "Industrials -> Defense": 9
   },
-  "fetched_at": "2026-01-16T00:03:27.239768"
+  "fetched_at": "2026-01-16T06:01:13.080295"
 }
