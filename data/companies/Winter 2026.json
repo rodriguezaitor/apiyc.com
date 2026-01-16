@@ -504,6 +504,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png"
     },
     {
+      "id": 31219,
+      "name": "Voxel Energy",
+      "slug": "voxel-energy",
+      "website": "https://voxelenergy.com/",
+      "description": "The best grid connection is no grid connection. Voxel captures, stores, and consumes solar energy onsite without the grid, completely bypassing utility connection delays. By leveraging the vast supply of second-life EV batteries with our novel DC microgrid architecture, we drastically reduce engineering overhead and time-to-power.",
+      "one_liner": "Energy independent data centers with solar and repurposed batteries. ",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Renewable Energy",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768576763.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74fcdd0e430ec52b7926e6bf7ffe4e4cbb1b2571.png"
+    },
+    {
       "id": 31215,
       "name": "Bubble Lab",
       "slug": "bubble-lab",
@@ -2310,5 +2342,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-16T12:01:13.910526"
+  "fetched_at": "2026-01-16T18:01:14.520488"
 }

@@ -2073,7 +2073,11 @@
         "Partly Remote"
       ],
       "locations": "San Francisco, CA, USA",
-      "tags": [],
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -3024,5 +3028,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-16T12:01:12.880225"
+  "fetched_at": "2026-01-16T18:01:13.478699"
 }
