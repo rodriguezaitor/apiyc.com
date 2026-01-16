@@ -1950,7 +1950,7 @@
       "one_liner": "Mahaana is first & only licensed digital wealth manager in Pakistan",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 30,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -8568,41 +8568,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4093c59629c7638e73b36eb069911e0922c140.png"
     },
     {
-      "id": 25448,
-      "name": "HypaHub",
-      "slug": "hypahub",
-      "website": "https://www.hypahub.com",
-      "description": "HypaHub is a Cloud-Based Bioinformatics and AI Platform. It is the first HIPAA-compliant Bioinformatics SaaS that runs natively on users' clouds, providing both operation- and price-transparency. \r\n\r\nOur product is a one-stop shop to access complex technologies designed for scientists building data applications or performing data analytics to extract insights. It automates the creation and manages the operation of computing resources, eliminating the need for enterprises to set up and maintain a high-end R&D cloud infrastructure.",
-      "one_liner": "A Cloud-Based Bioinformatics and AI Platform ",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 6,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Sunnyvale, CA, USA",
-      "tags": [
-        "Machine Learning",
-        "Biotech",
-        "Analytics"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1654727846.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a364403fcd1dfaabe90af51ec8af68eac5364cf.png"
-    },
-    {
       "id": 25447,
       "name": "Myria",
       "slug": "myria",
@@ -12316,6 +12281,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8983a589f2875e25661e87e8de4126fdc3b5d46d.png"
     },
     {
+      "id": 25448,
+      "name": "HypaHub",
+      "slug": "hypahub",
+      "website": "https://www.hypahub.com",
+      "description": "HypaHub is a Cloud-Based Bioinformatics and AI Platform. It is the first HIPAA-compliant Bioinformatics SaaS that runs natively on users' clouds, providing both operation- and price-transparency. \r\n\r\nOur product is a one-stop shop to access complex technologies designed for scientists building data applications or performing data analytics to extract insights. It automates the creation and manages the operation of computing resources, eliminating the need for enterprises to set up and maintain a high-end R&D cloud infrastructure.",
+      "one_liner": "A Cloud-Based Bioinformatics and AI Platform ",
+      "batch": "Winter 2022",
+      "status": "Acquired",
+      "team_size": 6,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Sunnyvale, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "Biotech",
+        "Analytics"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1654727846.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a364403fcd1dfaabe90af51ec8af68eac5364cf.png"
+    },
+    {
       "id": 25433,
       "name": "JumpWire",
       "slug": "jumpwire",
@@ -13809,5 +13809,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-01-15T18:04:01.085403"
+  "fetched_at": "2026-01-16T00:03:09.623823"
 }

@@ -2181,7 +2181,7 @@
       "name": "mcp-use",
       "slug": "mcp-use",
       "website": "https://mcp-use.com",
-      "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+      "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT.\r\nOur library has over 4M downloads and 8,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
       "one_liner": "Open-source dev tools and infrastructure for MCP.",
       "batch": "Summer 2025",
       "status": "Active",
@@ -2208,7 +2208,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1752861544.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png"
     },
     {
       "id": 30709,
@@ -3255,7 +3255,7 @@
       "one_liner": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Infrastructure",
       "industries": [
@@ -4966,7 +4966,7 @@
       "id": 30582,
       "name": "Pingo AI",
       "slug": "pingo-ai",
-      "website": "https://mypingoai.com",
+      "website": "https://pingo.ai",
       "description": "Pingo AI is an AI language learning app that helps users build fluency through speaking. It immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo \u2014 a companion who understands your goals, remembers your progress, and keeps you motivated.",
       "one_liner": "AI companion that helps you learn languages",
       "batch": "Summer 2025",
@@ -4984,7 +4984,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753741789.0,
@@ -5338,5 +5338,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-15T18:04:05.554527"
+  "fetched_at": "2026-01-16T00:03:15.049922"
 }
