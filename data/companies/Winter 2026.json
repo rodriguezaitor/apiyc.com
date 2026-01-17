@@ -43,7 +43,7 @@
       "slug": "shofo",
       "website": "https://shofo.ai/",
       "description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
-      "one_liner": "Scraping hard to access social media posts to curate training datasets",
+      "one_liner": "Scraping and labeling social media posts to curate training datasets",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -59,11 +59,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Social Media",
         "API",
         "Data Labeling",
-        "Big Data"
+        "Big Data",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2108,10 +2108,10 @@
     },
     {
       "id": 31051,
-      "name": "Sarah AI",
-      "slug": "sarah-ai",
-      "website": "https://hellosarah.ai/",
-      "description": "Sarah AI is building the AI-native operating system for consumer goods brands\u2014an autonomous supply-chain brain that replaces legacy ERPs and actually runs the business. Founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data, Analytics & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CompSci), we\u2019re backed by YC (W26).\r\n\r\nIn our first month full-time, we\u2019ve raised $1.6M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: give CPG brands completely hands-free supply chains that run themselves through Sarah, their AI ops assistant.\r\n\r\nWe\u2019re now growing a small, world-class team of builders excited to reinvent how physical goods companies operate\u2014end-to-end, autonomous, and AI-first. If you want to work on hard problems, ship fast, and define the future of autonomous operations, you\u2019ll feel right at home here.",
+      "name": "Corvera",
+      "slug": "corvera",
+      "website": "https://www.corvera.ai/",
+      "description": "Corvera is building the AI-native operating system for consumer goods brands\u2014an autonomous supply-chain brain that replaces legacy ERPs and actually runs the business. Founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data, Analytics & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CompSci), we\u2019re backed by YC (W26).\r\n\r\nIn our first month full-time, we\u2019ve raised $1.6M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: give CPG brands completely hands-free supply chains that run themselves through Sarah, their AI ops assistant.\r\n\r\nWe\u2019re now growing a small, world-class team of builders excited to reinvent how physical goods companies operate\u2014end-to-end, autonomous, and AI-first. If you want to work on hard problems, ship fast, and define the future of autonomous operations, you\u2019ll feel right at home here.",
       "one_liner": "AI Agents for CPG ops",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2136,7 +2136,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1763141207.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png"
     },
     {
       "id": 31036,
@@ -2373,5 +2373,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-17T00:03:04.457984"
+  "fetched_at": "2026-01-17T06:01:19.964465"
 }

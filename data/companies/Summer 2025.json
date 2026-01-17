@@ -2543,8 +2543,8 @@
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
-      "one_liner": "Human-Layer Breach and Attack Simulation",
+      "description": "GhostEye simulates AI-powered attacks like deepfakes, vishing, and personalized phishing so your team's seen them before real ones hit.",
+      "one_liner": "Phishing training for the AI era",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2560,9 +2560,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Cybersecurity",
-        "AI"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5339,5 +5339,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-17T00:02:58.602730"
+  "fetched_at": "2026-01-17T06:01:14.224935"
 }

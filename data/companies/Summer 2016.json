@@ -1433,41 +1433,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8788d5415324d0f1dfe2e0b95fa2c476ae31c275.png"
     },
     {
-      "id": 1188,
-      "name": "CareRev",
-      "slug": "carerev",
-      "website": "https://www.carerev.com",
-      "description": "CareRev is a technology platform empowering healthcare professionals to take control of their careers. CareRev provides a direct line between healthcare facilities and local clinical talent, cutting out the middleman and enabling professionals to work where and when they want. Together, we\u2019re building the local, resilient, flexible healthcare workforce of the future. For more information, visit carerev.com or follow us on LinkedIn.",
-      "one_liner": "Seamlessly connecting healthcare facilities and professionals through\u2026",
-      "batch": "Summer 2016",
-      "status": "Active",
-      "team_size": 275,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare Services",
-      "industries": [
-        "Healthcare",
-        "Healthcare Services"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Remote, OR, USA; Remote",
-      "tags": [
-        "Marketplace",
-        "Healthcare",
-        "Enterprise Software"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1461182717.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/065c0b2204b133ab1f8cc1cc930565f852af43b4.png"
-    },
-    {
       "id": 1184,
       "name": "Vetcove",
       "slug": "vetcove",
@@ -2159,6 +2124,41 @@
       "is_top_company": false,
       "launched_at": 1461182720.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5da41c09db80f115b730dfa9fbebb5c61a866cab.png"
+    },
+    {
+      "id": 1188,
+      "name": "CareRev",
+      "slug": "carerev",
+      "website": "https://www.carerev.com",
+      "description": "CareRev is a technology platform empowering healthcare professionals to take control of their careers. CareRev provides a direct line between healthcare facilities and local clinical talent, cutting out the middleman and enabling professionals to work where and when they want. Together, we\u2019re building the local, resilient, flexible healthcare workforce of the future. For more information, visit carerev.com or follow us on LinkedIn.",
+      "one_liner": "Seamlessly connecting healthcare facilities and professionals through\u2026",
+      "batch": "Summer 2016",
+      "status": "Acquired",
+      "team_size": 275,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Healthcare Services",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote, OR, USA; Remote",
+      "tags": [
+        "Marketplace",
+        "Healthcare",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1461182717.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/065c0b2204b133ab1f8cc1cc930565f852af43b4.png"
     },
     {
       "id": 1187,
@@ -3346,5 +3346,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2026-01-17T00:03:02.889825"
+  "fetched_at": "2026-01-17T06:01:18.414800"
 }
