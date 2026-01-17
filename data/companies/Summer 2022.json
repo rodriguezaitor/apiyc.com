@@ -5274,43 +5274,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4973d6115fc1220d3b06c0d5b8280d217651cc1.png"
     },
     {
-      "id": 26723,
-      "name": "CustomerOS",
-      "slug": "customeros",
-      "website": "https://customeros.ai",
-      "description": "CustomerOS uncovers high-fit leads who are engaging directly with your brand but not yet in your sales funnel. By lead scoring your pipeline against your ICP we build data-driven profiles of your best customers and provide a real-time ICP-fit indicator so your team doesn't waste time on low-value/high-cost leads. This ensures you're spending your CAC acquiring customers who are primed to renew year after year and expand as they grow.\r\n\r\nThe Top 10% of SaaS companies generate 87% of all market returns. CustomerOS gives you the data and tooling to compete with the top 10%.",
-      "one_liner": "Uncover high-fit leads already silently engaging with your brand",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 10,
-      "industry": "B2B",
-      "subindustry": "B2B -> Sales",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "London, England, United Kingdom; Remote",
-      "tags": [
-        "B2B",
-        "Sales",
-        "Marketing",
-        "Advertising",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1657624994.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b255dba5cc6178830e11a1fe8f76f6d0c86367.png"
-    },
-    {
       "id": 26722,
       "name": "Boundo",
       "slug": "boundo",
@@ -7801,6 +7764,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/66d4cb68e2a9b002d6e82fe002cef40a30254971.png"
     },
     {
+      "id": 26723,
+      "name": "CustomerOS",
+      "slug": "customeros",
+      "website": "https://customeros.ai",
+      "description": "CustomerOS uncovers high-fit leads who are engaging directly with your brand but not yet in your sales funnel. By lead scoring your pipeline against your ICP we build data-driven profiles of your best customers and provide a real-time ICP-fit indicator so your team doesn't waste time on low-value/high-cost leads. This ensures you're spending your CAC acquiring customers who are primed to renew year after year and expand as they grow.\r\n\r\nThe Top 10% of SaaS companies generate 87% of all market returns. CustomerOS gives you the data and tooling to compete with the top 10%.",
+      "one_liner": "Uncover high-fit leads already silently engaging with your brand",
+      "batch": "Summer 2022",
+      "status": "Inactive",
+      "team_size": 10,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "London, England, United Kingdom; Remote",
+      "tags": [
+        "B2B",
+        "Sales",
+        "Marketing",
+        "Advertising",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1657624994.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b255dba5cc6178830e11a1fe8f76f6d0c86367.png"
+    },
+    {
       "id": 26715,
       "name": "Ruleset",
       "slug": "ruleset",
@@ -8110,5 +8110,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-16T18:01:07.569801"
+  "fetched_at": "2026-01-17T00:02:56.136547"
 }

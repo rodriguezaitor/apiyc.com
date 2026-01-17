@@ -1205,6 +1205,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png"
     },
     {
+      "id": 31153,
+      "name": "Perfectly",
+      "slug": "perfectly",
+      "website": "http://perfectly.so/",
+      "description": "Perfectly is the first ever end-to-end AI recruiting agency.\r\n\r\nWe learn your deep hiring preferences via our intake, then we source and outreach to thousands of candidates that fit exactly what you're looking for. \r\n\r\nThen candidates conduct an AI screen that can be reused for future jobs, and are delivered straight to the hiring manager's portal for interviews. \r\n\r\nRecruiting is broken because information between candidates, hiring managers, and recruiters is lost at every step.\r\n\r\nWe realized the opposite could be true: The more you tell us, the more accurately our algorithm can match you. That's how we build trust.",
+      "one_liner": "The AI-native Recruiting Operating System",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Recruiting"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768534230.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13607170eb2ca92be8c6b3fe617797b6b16e279a.png"
+    },
+    {
       "id": 31152,
       "name": "Ishiki Labs",
       "slug": "ishiki-labs",
@@ -2342,5 +2373,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-16T18:01:14.520488"
+  "fetched_at": "2026-01-17T00:03:04.457984"
 }
