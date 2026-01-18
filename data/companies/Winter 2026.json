@@ -1007,6 +1007,42 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png"
     },
     {
+      "id": 31179,
+      "name": "Jinba",
+      "slug": "jinba",
+      "website": "https://jinba.io",
+      "description": "Jinba lets enterprise teams vibe-code AI workflows instead of drag and drop. Describe what you need in plain language, and your whole company can start using it immediately. No engineers required. Enterprise-grade permissions, audit logging, and on-prem deployment built in. We serve 40,000 enterprise users at major financial institutions.\r\n\r\nBuild something your colleagues want.",
+      "one_liner": "Automate any enterprise workflow through chat",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "Workflow Automation",
+        "Enterprise",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768673344.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e1ea09f9ebfce235fbcbc7d7e58d95f1f735597.png"
+    },
+    {
       "id": 31178,
       "name": "Cardboard",
       "slug": "cardboard",
@@ -2111,8 +2147,8 @@
       "name": "Corvera",
       "slug": "corvera",
       "website": "https://www.corvera.ai/",
-      "description": "Corvera is building the AI-native operating system for consumer goods brands\u2014an autonomous supply-chain brain that replaces legacy ERPs and actually runs the business. Founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data, Analytics & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CompSci), we\u2019re backed by YC (W26).\r\n\r\nIn our first month full-time, we\u2019ve raised $1.6M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: give CPG brands completely hands-free supply chains that run themselves through Sarah, their AI ops assistant.\r\n\r\nWe\u2019re now growing a small, world-class team of builders excited to reinvent how physical goods companies operate\u2014end-to-end, autonomous, and AI-first. If you want to work on hard problems, ship fast, and define the future of autonomous operations, you\u2019ll feel right at home here.",
-      "one_liner": "AI Agents for CPG ops",
+      "description": "Corvera is the fully autonomous command centre managing ops for fast-growing retail brands. We help brands cut wastage, improve margins, and maximise revenue, with an AI workforce that knows exactly how CPG brands work. \r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data, Analytics & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CompSci).\r\n\r\nIn our first month full-time, we\u2019ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.",
+      "one_liner": "Fully autonomous operations for CPG brands",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -2123,13 +2159,16 @@
         "Operations"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
         "SaaS",
-        "B2B"
+        "B2B",
+        "Supply Chain",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2373,5 +2412,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-17T18:01:01.998785"
+  "fetched_at": "2026-01-18T00:04:03.836983"
 }
