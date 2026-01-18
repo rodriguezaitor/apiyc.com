@@ -625,37 +625,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21edd589862cd64f905545df119c53426538c8d.png"
     },
     {
-      "id": 29962,
-      "name": "General Analysis",
-      "slug": "general-analysis",
-      "website": "https://generalanalysis.com",
-      "description": "General Analysis provides a comprehensive suite of AI safety tools, including red-teaming frameworks, interpretability techniques, and more. As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks\u2014financial, ethical, and otherwise\u2014where errors can lead to substantial consequences. To address these challenges, we offer access to novel tools and methodologies designed to systematically find model failure-modes and enhance model robustness.",
-      "one_liner": "Automated AI Safety and Red Teaming Tools",
-      "batch": "Summer 2024",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "SaaS",
-        "Trust & Safety",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1722983007.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/891f7922e63f2da067ca4b670b5dd1e0cc43bea1.png"
-    },
-    {
       "id": 29960,
       "name": "Void",
       "slug": "void",
@@ -8240,5 +8209,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-18T00:03:56.668533"
+  "fetched_at": "2026-01-18T06:01:02.985083"
 }

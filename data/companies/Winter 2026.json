@@ -1335,6 +1335,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png"
     },
     {
+      "id": 31149,
+      "name": "EigenPal",
+      "slug": "eigenpal",
+      "website": "https://www.eigenpal.com/",
+      "description": "EigenPal.com automates your document processing workflows with AI. KYC docs, invoices, claims, shipping forms, contracts, receipts, loan docs - we automate that. Works on messy scans, handwritten forms, third-party docs. Powerful workflow builder and team functionality. On-prem ready or use our cloud.",
+      "one_liner": "AI Document Workflows for Enterprises",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": null,
+      "industry": "B2B",
+      "subindustry": "B2B -> Operations",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Documents",
+        "Artificial Intelligence",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768698065.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2b1d5849be66ecb8111d6f209625734882c46e5.png"
+    },
+    {
       "id": 31146,
       "name": "Arcline",
       "slug": "arcline",
@@ -1376,8 +1409,8 @@
       "name": "RamAIn",
       "slug": "ramain",
       "website": "https://ramain.ai",
-      "description": "RamAIn can automate any super complex, intelligent and repetitive process across applications (Windows + Mac + Browser + Desktop) super-duper fast. It doesn\u2019t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-      "one_liner": "Super fast computer-use agents to automate anything.",
+      "description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Windows + Mac + Browser + Desktop) super-duper fast. It doesn\u2019t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+      "one_liner": "Super fast computer-use agents to automate complex workflows.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -1394,9 +1427,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2412,5 +2445,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-18T00:04:03.836983"
+  "fetched_at": "2026-01-18T06:01:09.208049"
 }
