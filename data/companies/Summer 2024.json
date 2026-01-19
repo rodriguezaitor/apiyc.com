@@ -1460,11 +1460,11 @@
       "name": "Voker",
       "slug": "voker",
       "website": "https://voker.ai",
-      "description": "Voker is a no-code platform that empowers product teams to build AI features in minutes without involving engineers. Companies like Lull.com and Dutch.com are using our platform to improve their consumer experience and retention.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.\r\n\r\nVoker is built for product specialists who know they can delight their users with AI but can't spend engineering bandwidth on building those features. By making AI accessible and practical, Voker helps these businesses profit from this new wave of innovation. ",
-      "one_liner": "No-Code AI Builder",
+      "description": "Voker is the analytics platform for monitoring and improving your AI agents. Companies like Lull.com and Dutch.com use our SDK to build better AI.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.",
+      "one_liner": "Analytics for AI Agents",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -1481,8 +1481,8 @@
       "tags": [
         "Artificial Intelligence",
         "Developer Tools",
-        "Workflow Automation",
-        "No-code"
+        "Analytics",
+        "Big Data"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5243,8 +5243,8 @@
       "name": "Kenley",
       "slug": "kenley",
       "website": "https://kenley.ai/",
-      "description": "Kenley is an AI-powered workspace for consulting firms.\r\n\r\nWith Kenley, firms can use their institutional knowledge to power critical workflows\u2014from drafting proposal decks to scaling due diligence research\u2014so consultants can focus on excellence.\r\n\r\n\r\n*AnswerGrid, Inc. doing business as Kenley\r\n\r\n\r\n\r\n\u2e3b\r\nKenley was founded by Bolu Ben-Adeola and Noah Ohrner. \r\n\r\nBolu is the Co-Founder and CEO of Kenley. Before Kenley, he built ML infrastructure for the fixed-income markets at Bloomberg and led teams at Palantir, South Korea, tackling problems in heavy industry manufacturing.\r\n\r\nNoah is the Co-Founder and CTO of Kenley. Before Kenley, he graduated with a first class degree from the University of Cambridge and was a tech lead on Foundry Security at Palantir.",
-      "one_liner": "AI for Consulting",
+      "description": "",
+      "one_liner": "AI Agents for Advisory & Financial Services.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -5260,9 +5260,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Productivity"
+        "Finance",
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8209,5 +8210,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-18T18:00:57.933196"
+  "fetched_at": "2026-01-19T00:03:05.740086"
 }
