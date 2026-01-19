@@ -3980,8 +3980,8 @@
       "name": "Menza",
       "slug": "menza",
       "website": "https://menza.ai/",
-      "description": "At Menza, we help consumer brands see what they need to know, when they need to know it. With 24/7 data monitoring, Menza finds insights for our customers that they would have otherwise missed.\r\n\r\nData should make decisions easier, not more complicated.",
-      "one_liner": "The 24/7 Data Analyst for Consumer Brands",
+      "description": "Menza connects to all your data, answers any questions you have and emails you when something needs attention, before it becomes a problem.",
+      "one_liner": "Your 24/7 Data Analyst",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 3,
@@ -3997,8 +3997,8 @@
       ],
       "locations": "Remote",
       "tags": [
-        "Artificial Intelligence",
         "Data Visualization",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -5209,9 +5209,9 @@
       "id": 28816,
       "name": "Contour",
       "slug": "contour",
-      "website": "https://trycontour.com",
-      "description": "Contour is a voice AI platform for financial institutions. It handles voice and chat conversations for collections and support with deep banking knowledge and built-in compliance guardrails. ",
-      "one_liner": "Voice AI for Financial Institutions",
+      "website": "",
+      "description": "",
+      "one_liner": "",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -5224,7 +5224,7 @@
         "United States of America",
         "America / Canada"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "New York, NY, USA",
       "tags": [
         "Generative AI",
         "B2B",
@@ -7390,5 +7390,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-19T12:01:21.426946"
+  "fetched_at": "2026-01-19T18:01:07.940130"
 }
