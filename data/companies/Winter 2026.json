@@ -73,6 +73,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png"
     },
     {
+      "id": 31287,
+      "name": "DAIVIN!",
+      "slug": "daivin",
+      "website": "https://www.daivin.tech/",
+      "description": "DAIVIN! builds Tankless Dive Gear that unlocks breath autonomy in extreme environments. Starting from Underwater Environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in Space, Air and on Land and replace them with Water!",
+      "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Defense",
+      "industries": [
+        "Industrials",
+        "Defense"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Fuel Cells",
+        "Aerospace",
+        "Maritime"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768898093.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/296158eb3d177c4c4d841962da8368230f473660.png"
+    },
+    {
       "id": 31285,
       "name": "GrazeMate",
       "slug": "grazemate",
@@ -940,15 +975,14 @@
       "slug": "clice-ai",
       "website": "https://www.clice.ai",
       "description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-      "one_liner": "AI assistants for employees, operating in one Slack-like workspace",
+      "one_liner": "",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B",
       "industries": [
-        "B2B",
-        "Productivity"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -956,10 +990,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
-        "Productivity",
-        "Automation",
-        "AI Assistant"
+        "Reinforcement Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1085,12 +1116,10 @@
         "Defense"
       ],
       "regions": [
-        "United Kingdom",
-        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "London, England, United Kingdom",
+      "locations": "",
       "tags": [
         "Hardware",
         "Swarm AI",
@@ -1574,7 +1603,7 @@
       "name": "DroneTector",
       "slug": "dronetector",
       "website": "https://www.dronetector.com/",
-      "description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what\u2019s truly in your airspace. ",
+      "description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
       "one_liner": "Technology to detect and track hostile drones",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2105,6 +2134,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png"
     },
     {
+      "id": 31089,
+      "name": "Lance",
+      "slug": "lance",
+      "website": "https://www.lance.live",
+      "description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack.",
+      "one_liner": "AI Agents built for Hospitality",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Customer Service",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768895498.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png"
+    },
+    {
       "id": 31088,
       "name": "RunAnywhere",
       "slug": "runanywhere",
@@ -2608,5 +2670,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-20T06:02:07.667367"
+  "fetched_at": "2026-01-20T12:01:26.752403"
 }
