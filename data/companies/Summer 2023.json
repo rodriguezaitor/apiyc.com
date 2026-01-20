@@ -3035,16 +3035,15 @@
       "name": "Glade",
       "slug": "glade",
       "website": "https://gladestudio.ai/",
-      "description": "Glade is revolutionizing gaming with AI-driven worlds. Our debut title, Cursed Crown, is an anime-inspired multiplayer ARPG set in Alder, where players bridge cultural divides between fractured regions, guided by a deep narrative and responsive AI characters. Unite Alder, explore its mysteries, and restore harmony through cultural understanding.",
-      "one_liner": "Building the next generation of video games using AI",
+      "description": "Glade is helping everyone build games with AI. GladeCore powers over 50 studios and developers with local AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
+      "one_liner": "Build games at the speed of thought",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 8,
-      "industry": "Consumer",
-      "subindustry": "Consumer -> Gaming",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
       "industries": [
-        "Consumer",
-        "Gaming"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -3054,11 +3053,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
         "Consumer",
         "Entertainment",
-        "Gaming",
-        "AI"
+        "Gaming"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5412,7 +5411,7 @@
       "name": "Readily",
       "slug": "readily",
       "website": "https://readily.co",
-      "description": "Readily is using AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care.  In 15 months, we grew 150x mostly through word-of-moth, with 198% NDR and 0% churn so far.  Healthcare organizations using Readily have cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
+      "description": "Readily uses AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care. We've helped $B healthcare organizations cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
       "one_liner": "AI Compliance Platform for Healthcare Organizations",
       "batch": "Summer 2023",
       "status": "Active",
@@ -5428,11 +5427,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Compliance",
         "Healthcare",
-        "Regtech"
+        "Regtech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7396,5 +7395,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-20T00:03:03.700627"
+  "fetched_at": "2026-01-20T06:02:01.715950"
 }
