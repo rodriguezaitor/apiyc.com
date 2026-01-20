@@ -304,6 +304,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0dabfec2f533f2142f1c315fccba6afcb525ef1.png"
     },
     {
+      "id": 31244,
+      "name": "Crow",
+      "slug": "crow",
+      "website": "https://www.usecrow.ai/",
+      "description": "Crow lets users control your app through chat. Connect Crow's AI agent to your product, and users can type what they want instead of clicking through menus.\r\n\r\nCrow connects to your APIs and data sources, navigates your UI, and executes real actions. Set guardrails, define workflows, track every interaction, and deploy in under a week\u2014no rebuilding required.",
+      "one_liner": "Let users control your app through chat",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Chatbot",
+        "Enterprise",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768862675.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png"
+    },
+    {
       "id": 31243,
       "name": "Scout Out",
       "slug": "scout-out",
@@ -1505,6 +1539,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png"
     },
     {
+      "id": 31144,
+      "name": "DroneTector",
+      "slug": "dronetector",
+      "website": "https://www.dronetector.com/",
+      "description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what\u2019s truly in your airspace. ",
+      "one_liner": "Technology to detect and track hostile drones",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Drones",
+      "industries": [
+        "Industrials",
+        "Drones"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Hard Tech",
+        "Drones"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768863894.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7e290287e83867619ff9db96fe93dcb0dcc7e36.png"
+    },
+    {
       "id": 31141,
       "name": "OctaPulse",
       "slug": "octapulse",
@@ -2512,5 +2577,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-19T18:01:13.935056"
+  "fetched_at": "2026-01-20T00:03:10.825780"
 }

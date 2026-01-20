@@ -5412,8 +5412,8 @@
       "name": "Readily",
       "slug": "readily",
       "website": "https://readily.co",
-      "description": "Readily helps healthcare organizations find and close compliance gaps in hours not weeks. We do that by connecting over 100,000 pages of policies, and regulations, enabling staff to conduct research, analysis, and audits faster. This saves them hours of work, boosts readiness, and helps them avoid costly violations.",
-      "one_liner": "Compliance Tools for Healthcare Organizations",
+      "description": "Readily is using AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care.  In 15 months, we grew 150x mostly through word-of-moth, with 198% NDR and 0% churn so far.  Healthcare organizations using Readily have cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
+      "one_liner": "AI Compliance Platform for Healthcare Organizations",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 8,
@@ -5423,11 +5423,17 @@
         "Healthcare"
       ],
       "regions": [
-        "Remote",
-        "Partly Remote"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Compliance",
+        "Healthcare",
+        "Regtech"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -7390,5 +7396,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-19T18:01:07.940130"
+  "fetched_at": "2026-01-20T00:03:03.700627"
 }

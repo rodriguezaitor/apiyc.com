@@ -3026,7 +3026,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1704780983.0,
@@ -4341,8 +4341,8 @@
       "name": "Aether",
       "slug": "aether",
       "website": "https://www.aethergtm.com/",
-      "description": "Aether is a building measurement platform for home-services contractors and insurance carriers, delivering roof, exterior, interior, and property measurement reports.\r\n\r\n\r\n",
-      "one_liner": "Aether turns imagery and video into building measurements. ",
+      "description": "Aether is an AI-native sales platform for home services that replaces fragmented tools and autonomously executes sales workflows end-to-end.\r\n\r\nAether's current focus is on helping roofing, and exteriors (gutters, windows, painting) focused companies. \r\n\r\n\r\n",
+      "one_liner": "AI sales platform for home services",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 8,
@@ -4360,8 +4360,8 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "Artificial Intelligence",
-        "CRM"
+        "CRM",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8273,5 +8273,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-19T18:01:06.482092"
+  "fetched_at": "2026-01-20T00:03:01.934439"
 }
