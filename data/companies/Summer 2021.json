@@ -1563,7 +1563,7 @@
         "Climate"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1625586568.0,
@@ -7918,7 +7918,7 @@
       "name": "Strive Math",
       "slug": "strive-math",
       "website": "https://www.strivemath.com/",
-      "description": "Strive is an online coding school for kids (8-16). We help students start and commit to their coding journeys by making coding fun and exciting. We focus, above all else, on making the process of learning joyful. \r\n\r\n- We\u2019re starting with coding, but we\u2019re building the content and platform to redefine **STEM education globally** by teaching math, science, and other school subjects **through coding.**\r\n- We believe we can only make education joyful if we ourselves are joyful, so creating a fun and exciting work environment is one of our core values. We\u2019re a remote-first company with teachers and employees from South Africa, Singapore, India, the USA, and the Philippines.\r\n- **We\u2019re a well-funded startup backed by YCombinator and early investors of Spotify and Facebook.**",
+      "description": "Strive is an online coding & math school for kids (8-16). We help students start and commit to their coding and math journeys by making the subjects fun and exciting. We focus, above all else, on making the process of learning joyful.\r\n\r\n- We\u2019re starting with coding, but we\u2019re building the content and platform to redefine **STEM education globally** by teaching math, science, and other school subjects **through coding.**\r\n- We believe we can only make education joyful if we ourselves are joyful, so creating a fun and exciting work environment is one of our core values. We\u2019re a remote-first company with teachers and employees from South Africa, Singapore, India, the USA, and the Philippines.\r\n- **We\u2019re a well-funded startup backed by YCombinator and early investors of Spotify and Facebook.**",
       "one_liner": "Online Coding School for Kids 8-16",
       "batch": "Summer 2021",
       "status": "Active",
@@ -13411,5 +13411,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-20T12:01:18.896447"
+  "fetched_at": "2026-01-20T18:02:22.155535"
 }
