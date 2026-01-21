@@ -1679,11 +1679,11 @@
       "name": "Pave",
       "slug": "pave",
       "website": "https://www.paveai.com/",
-      "description": "We turn your Google Analytics data in actionable insights + reports with our data science AI algorithm.\n\nWe're a Y Combinator-backed company, and our users include Four Seasons Private Residences and Scribd.",
+      "description": "We turn your Google Analytics data in actionable insights + reports with our data science AI algorithm.\r\n\r\nWe're a Y Combinator-backed company, and our users include Four Seasons Private Residences and Scribd.",
       "one_liner": "Pave analyzes Google Analytics + marketing data and sends you reports\u2026",
       "batch": "Winter 2016",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Analytics",
       "industries": [
@@ -1692,18 +1692,20 @@
       ],
       "regions": [
         "Canada",
-        "America / Canada"
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
       ],
-      "locations": "Kitchener, ON, Canada",
+      "locations": "Toronto, ON, Canada; Remote",
       "tags": [
         "Analytics"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1447568415.0,
-      "logo_url": "/company/thumb/missing.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3716a09550a1b2c2c7a45343cc359f6817528cf.png"
     },
     {
       "id": 1038,
@@ -4020,5 +4022,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2026-01-21T12:01:18.322669"
+  "fetched_at": "2026-01-21T18:10:25.266788"
 }
