@@ -504,6 +504,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png"
     },
     {
+      "id": 31236,
+      "name": "Balance",
+      "slug": "getbalance",
+      "website": "https://getbalance.ai",
+      "description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\nWe currently have 20 customers in Europe and growing +20% MoM",
+      "one_liner": "Full-Stack AI Accounting",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Fintech",
+        "Automation",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768976472.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2096fe98e5cb289362ddf9936e4dfe3407ee0f.png"
+    },
+    {
       "id": 31233,
       "name": "Chasi",
       "slug": "chasi",
@@ -1237,7 +1269,7 @@
       "id": 31177,
       "name": "Prana",
       "slug": "prana-health",
-      "website": "https://pranahealth.io",
+      "website": "https://pranadoc.com",
       "description": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits.\r\n\r\nMost AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.\r\n\r\nSafety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer <60 minute access to a physician, 24/7, for a fraction of the cost of traditional care.\r\n\r\nThe Team:\r\n - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments.\r\n- Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals.\r\n- Sanjit Menon (CMO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine.\r\n\r\nTraction: Live in beta with early users.",
       "one_liner": "An AI primary care doctor in your pocket",
       "batch": "Winter 2026",
@@ -1321,7 +1353,7 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Reinforcement Learning",
-        "Security"
+        "Cybersecurity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1335,8 +1367,8 @@
       "name": "Laurence",
       "slug": "laurence",
       "website": "https://trylaurence.com",
-      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints. Our models systematically price bids, allocate budgets, and adjust targeting based on observed conversion signals and uncertainty.\r\n\r\nStarting with Amazon, we are automating $2.5M in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
-      "one_liner": "Automating performance advertising with quantitative models",
+      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints.\r\n\r\nOur models systematically price bids, allocate budgets, and adjust targeting based on observed conversion signals and uncertainty.\r\n\r\nStarting with sellers on Amazon, we are automating millions in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
+      "one_liner": "Automated performance marketing for brands on Amazon",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -1351,6 +1383,7 @@
       ],
       "locations": "",
       "tags": [
+        "Marketing",
         "Advertising",
         "Trading"
       ],
@@ -1596,8 +1629,8 @@
       "name": "Arcline",
       "slug": "arcline",
       "website": "https://www.arcline-ai.com/",
-      "description": "If you\u2019re tired of spending $ X0k+ and months on ESOP, contracts, compliance, fundraising, cross-border work, employment, or tech, we built Arcline for you. \r\n\r\nArcline\u2019s 50+ AI-native lawyers works at startup speed and price. So you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe\u2019re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nThink of us as your fractional in-house legal team, ready to deploy when needed. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
-      "one_liner": "AI-native lawyers handling startup legal work in hours",
+      "description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline\u2019s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe\u2019ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline\u2019s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe\u2019ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
+      "one_liner": "We handle your startup\u2019s legal work, with elite lawyers & same-day\u2026",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 5,
@@ -2064,8 +2097,8 @@
       "name": "LegalOS",
       "slug": "legalos",
       "website": "https://www.legalos.ai",
-      "description": "LegalOS is an AI-powered immigration law firm for complex U.S. work visas. \r\n\r\nOur AI agents generate a USCIS-ready petition package in 24\u201348 hours, including forms, support letters, and a structured evidence memo.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience and a near-100% approval rate, so companies get both speed and reliability. LegalOS already supports O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions and has a 100% approval rate so far across all visa categories.",
-      "one_liner": "The AI-powered immigration law firm for complex work visas",
+      "description": "LegalOS is an AI-native immigration law firm that combines cutting-edge technology with 40+ years of legal expertise.\r\n\r\nWe\u2019ve studied 12,000 successful petitions to design our process - which allows us to deliver top-quality visa applications in as quickly as 48 hours. Our specialized AI agents draft petition narratives, compile evidence, and anticipate USCIS objections - work that traditionally takes attorneys weeks, if not months.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience, so companies get both speed and reliability. We support O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions.\r\n\r\nOur unique approach works. We\u2019ve filed dozens of visa applications and have a 100% approval rate so far.\r\n\r\nThe U.S. processes 1M+ work visas annually\u2014a market where incumbents still operate on fax machines, email, and 1990s case management software. We're building the modern immigration law firm.",
+      "one_liner": "The AI-powered law firm for complex work visas",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 3,
@@ -2734,5 +2767,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-21T06:02:02.139919"
+  "fetched_at": "2026-01-21T12:01:20.376234"
 }

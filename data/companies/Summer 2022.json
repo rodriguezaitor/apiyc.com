@@ -460,11 +460,11 @@
       "name": "Cambio",
       "slug": "cambio-2",
       "website": "https://www.cambio.ai/",
-      "description": "Cambio is the AI-powered commercial real estate operations platform, built by real estate investors for real estate investors. Cambio automatically collects building data via LLMs to empower mission critical workflows like capital planning and compliance. For instance, Cambio's AI models ingest building data (age, asset class, size, location, etc.) to generate retrofit recommendations and predict ROI. We're working with the largest commercial real estate private equity firms globally like Beacon Capital Partners and Madison International Realty, with a 100% RFP win rate. Our founding team collectively has two decades of commercial real estate experience across KKR, Oxford Properties Group, JPMorgan and Goldman Sachs. We are building the solution we wished we had while working at these funds.",
-      "one_liner": "Real estate capital planning and compliance made simple",
+      "description": "Cambio is the AI-native commercial real estate operations platform, built by real estate investors for real estate investors. Cambio automatically collects building data via LLMs and agentic workflows to empower mission critical tasks like capital planning and compliance. For instance, Cambio's AI models ingest and reason across thousands of pages of unstructured building data to generate retrofit recommendations and predict ROI. We're working with the largest commercial real estate private equity firms globally like Principal Real Estate, Nuveen Real Estate, BGO, LaSalle Investment Management, Oxford Properties Group, Madison International Realty and Beacon Capital Partners. Our founding team collectively has two decades of commercial real estate experience across KKR, Oxford Properties Group, JPMorgan and Goldman Sachs. We are building the solution we wished we had while working at these funds.",
+      "one_liner": "AI-native commercial real estate operations",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 16,
+      "team_size": 60,
       "industry": "Real Estate and Construction",
       "subindustry": "Real Estate and Construction",
       "industries": [
@@ -474,13 +474,13 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Remote",
+      "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Real Estate",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Growth",
       "is_hiring": true,
@@ -8110,5 +8110,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-21T06:01:56.683980"
+  "fetched_at": "2026-01-21T12:01:13.964679"
 }
