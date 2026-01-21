@@ -305,6 +305,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/be31930e3dbc1a85dbabae911121196fb26497df.png"
     },
     {
+      "id": 31255,
+      "name": "Grade",
+      "slug": "grade",
+      "website": "https://usegrade.com",
+      "description": "",
+      "one_liner": "Payroll for performance",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Fintech",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768947933.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3fbbdee9ae0feaf204527fcbe07f7aaa7227d70.png"
+    },
+    {
       "id": 31247,
       "name": "Fed10",
       "slug": "fed10",
@@ -507,8 +539,8 @@
       "name": "o11",
       "slug": "o11",
       "website": "https://o11.ai",
-      "description": "o11 brings bulge bracket level speed and output quality to capital markets firms of any size. Seamlessly integrated into every Microsoft 365 tool, it transforms your documents and models into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision.",
-      "one_liner": "The AI Platform for Capital Market Firms",
+      "description": "o11 brings extreme operational efficiency to firms of any size. Seamlessly integrated into every Microsoft 365 tool, o11 transforms your documents, decks, spreadsheets, and files into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision. We're the first company to build a full-featured AI native execution layer within the entire Microsoft 365 suite.\r\n\r\no11's services are available to financial firms, enterprise organizations, and Office 365 power users.\r\n\r\n",
+      "one_liner": "The Most Integrated M365 AI Suite",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -524,11 +556,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
         "Finance",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1265,6 +1297,38 @@
       "is_top_company": false,
       "launched_at": 1766621024.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58aceddc6b7af2ca2c35058e943baf719c91fe1c.png"
+    },
+    {
+      "id": 31174,
+      "name": "Hex Security",
+      "slug": "hex-security",
+      "website": "https://hex.co",
+      "description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
+      "one_liner": "Agentic Offensive Security at Scale",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Reinforcement Learning",
+        "Security"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1768943987.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eeec264f5e3f65c3e3967f6e59d05484a1db9f80.png"
     },
     {
       "id": 31173,
@@ -2508,7 +2572,7 @@
       "name": "Voltair",
       "slug": "voltair",
       "website": "https://voltairlabs.com/",
-      "description": "Voltair builds drones that charge on transmission power lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic electrification and wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we\u2019ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+      "description": "Voltair builds drones that charge on transmission power lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic electrification and wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we\u2019ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
       "one_liner": "Self Charging Drones",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2670,5 +2734,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-20T18:02:29.180658"
+  "fetched_at": "2026-01-21T00:03:11.524055"
 }

@@ -3575,10 +3575,10 @@
       "slug": "maintouch",
       "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
       "description": "We're the ONLY platform to help you rank on both SEO and AI Search. I grew up working at my family's 9 figure SEO agency and learned how to automate everything. That's what we do for people now.",
-      "one_liner": "the system of action for marketing",
+      "one_liner": "Scale SEO and AI SEO from one platform.",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 6,
+      "team_size": 11,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -5953,8 +5953,8 @@
       "name": "Metoro",
       "slug": "metoro",
       "website": "https://metoro.io",
-      "description": "Metoro is an observability platform specifically for service architectures running in Kubernetes.\r\n\r\nWith no code changes or instrumentation you can get total observability into you clusters and the apps running inside of them. The entire installation takes < 10 minutes.\r\n\r\nOut of the box you get:\r\nTraces,\r\nMetrics (infrastructure, application and language level),\r\nLogs,\r\nContinuous profiling,\r\nRegression tracking,\r\nNetwork traffic inspection,\r\nInfrastructure monitoring,\r\nAlerting,\r\nAutomated diagnostics",
-      "one_liner": "Instant in-depth observability for services running in kubernetes",
+      "description": "Metoro is an AI SRE for teams running on Kubernetes. Run one command to get autonomous root causing and automatic fix PRs. Batteries included, telemetry is set up automatically. Go from nothing to production ready in < 5 minutes.",
+      "one_liner": "AI SRE For Teams on Kubernetes",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": null,
@@ -5973,7 +5973,7 @@
         "Developer Tools",
         "Kubernetes",
         "DevOps",
-        "Infrastructure"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7395,5 +7395,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-20T18:02:24.379227"
+  "fetched_at": "2026-01-21T00:03:04.641314"
 }
