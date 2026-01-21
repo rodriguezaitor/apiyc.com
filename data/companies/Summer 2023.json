@@ -4180,11 +4180,11 @@
       "name": "Corgea",
       "slug": "corgea",
       "website": "https://www.corgea.com/",
-      "description": "Corgea helps engineers ship code and not vulnerabilities. It's an AI-powered SAST, unlike traditional SAST with tons of false positives, Corgea can find vulnerabilities like business logic flaws, API vulnerabilities, and broken authentication with little false positives (<5%). It also writes security fixes for engineers to approve.",
-      "one_liner": "Corgea finds, and fixes insecure code. ",
+      "description": "Corgea is an autonomous application security platform that finds and validates vulnerabilities, then generates safe code fixes developers can apply in their existing workflow. In production customers like Zapier and Yageo, see ~20% more true positives and ~90% fewer false positives (vs their prior tooling), reducing triage and speeding remediation without adding headcount.\r\n",
+      "one_liner": "Corgea finds, and fixes insecure code and packages autonomously. ",
       "batch": "Summer 2023",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -4199,11 +4199,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
         "Security",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7395,5 +7395,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-21T00:03:04.641314"
+  "fetched_at": "2026-01-21T06:01:57.274415"
 }

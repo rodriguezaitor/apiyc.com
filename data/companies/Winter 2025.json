@@ -1600,11 +1600,11 @@
       "name": "Mesh",
       "slug": "mesh-2",
       "website": "http://www.usemesh.com",
-      "description": "Mesh is building your AI finance co-worker. Nandini and Erin worked together for 5+ years at Carta, and helped grow the fund accounting business from $20M to $100M ARR. Leveraging their insights from Carta, they\u2019re now automating accounting workflows for other companies.",
-      "one_liner": "Building your AI finance co-worker",
+      "description": "Mesh helps finance teams close with confidence when vendor spend is variable and invoices don\u2019t reflect true spend for that period.\r\n\r\nWe use AI to understand and consolidate vendor and stakeholder context \u2014 across emails, internal messages, and historical invoices \u2014 into a clear view of incurred, prepaid, and incoming vendor costs. This gives teams early, reliable visibility into true spend, so budgets, runway, and close are driven by actual business activity rather than invoice timing or manual guesswork.\r\n\r\nMesh is built for finance teams managing large, complex vendor bases where spend is unpredictable and timing mismatches create risk at month-end.",
+      "one_liner": "Know where your money is going, regardless of when invoices arrive",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Finance and Accounting",
       "industries": [
@@ -1612,10 +1612,16 @@
         "Finance and Accounting"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "FinOps",
+        "Fintech",
+        "Finance"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -5361,5 +5367,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2026-01-21T00:03:06.612850"
+  "fetched_at": "2026-01-21T06:01:58.701613"
 }

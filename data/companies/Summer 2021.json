@@ -1884,8 +1884,8 @@
       "name": "idemeum",
       "slug": "idemeum",
       "website": "https://www.idemeum.com",
-      "description": "Idemeum is an Endpoint Protection Platform that combines multiple security products in one. \r\n\r\nWith idemeum Allowlisting you can allow only trusted software on your endpoints and block everything else, including ransomware. With idemeum Endpoint Privilege Management you can eliminate local admin rights and automate user elevation requests. With idemeum Just-in-time Privileged Access you can secure privileged access to workstations, servers, and Microsoft cloud tenants.",
-      "one_liner": "Endpoint Protection Platform",
+      "description": "AI agents analyze every application execution on Windows and macOS. You decide what is allowed to run. ",
+      "one_liner": "AI-powered Application Control",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": 10,
@@ -13411,5 +13411,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-21T00:03:01.359237"
+  "fetched_at": "2026-01-21T06:01:54.975893"
 }
