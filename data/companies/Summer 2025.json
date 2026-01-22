@@ -1648,7 +1648,7 @@
       "one_liner": "AI-Native BPO for travel & transport",
       "batch": "Summer 2025",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B",
       "industries": [
@@ -1660,8 +1660,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Travel",
-        "AI",
         "Conversational AI"
       ],
       "stage": "Early",
@@ -3742,8 +3742,8 @@
       "id": 30648,
       "name": "Janet AI",
       "slug": "tryjanet",
-      "website": "https://tryjanet.ai",
-      "description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn\u2019t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That\u2019s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
+      "website": "https://janet.ai",
+      "description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn\u2019t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That\u2019s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out janet.ai to get started today!",
       "one_liner": "The AI-Native Jira",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3759,10 +3759,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "DevOps",
-        "AI"
+        "DevOps"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5372,5 +5372,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-22T00:03:20.792698"
+  "fetched_at": "2026-01-22T06:01:55.391470"
 }
