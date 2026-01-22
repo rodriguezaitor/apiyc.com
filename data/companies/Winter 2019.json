@@ -3842,41 +3842,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bfbb1071a34d969fc17410d80d00fc916230dcb.png"
     },
     {
-      "id": 11936,
-      "name": "Pachama",
-      "slug": "pachama",
-      "website": "http://pachama.com",
-      "description": "Pachama is a leading climate-tech company harnessing cutting-edge technologies such as computer vision and satellites to drive funding to effective reforestation and conservation projects that sequester carbon, enhance biodiversity and enrich local communities around the world.\r\n\r\nThrough a tech-verified marketplace that counts as customer the likes of Amazon, Airbnb, Netflix and Nespresso, the company drives capital to forests in Brazil, Mexico, India, the USA and beyond. The company is backed by top investors such as Bill Gates' BEV, Chis Sacca's LowerCarbon, Amazon Climate Pledge among others. \r\n\r\nThe company is fully remote and driven by a strong sense of purpose.",
-      "one_liner": "Restoring nature to solve climate change.",
-      "batch": "Winter 2019",
-      "status": "Active",
-      "team_size": 85,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Climate",
-      "industries": [
-        "Industrials",
-        "Climate"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Carbon Capture and Removal",
-        "Machine Learning",
-        "Climate"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1541036076.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e55b15f7dfd0751a774fd43cb72476048b30df9.png"
-    },
-    {
       "id": 11935,
       "name": "AllSome Fulfillment",
       "slug": "allsome-fulfillment",
@@ -5153,6 +5118,41 @@
       "is_top_company": false,
       "launched_at": 1541037694.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/132ea338ea9bd6d3a9d47eb6a3cddf9613fbff62.png"
+    },
+    {
+      "id": 11936,
+      "name": "Pachama",
+      "slug": "pachama",
+      "website": "http://pachama.com",
+      "description": "Pachama is a leading climate-tech company harnessing cutting-edge technologies such as computer vision and satellites to drive funding to effective reforestation and conservation projects that sequester carbon, enhance biodiversity and enrich local communities around the world.\r\n\r\nThrough a tech-verified marketplace that counts as customer the likes of Amazon, Airbnb, Netflix and Nespresso, the company drives capital to forests in Brazil, Mexico, India, the USA and beyond. The company is backed by top investors such as Bill Gates' BEV, Chis Sacca's LowerCarbon, Amazon Climate Pledge among others. \r\n\r\nThe company is fully remote and driven by a strong sense of purpose.",
+      "one_liner": "Restoring nature to solve climate change.",
+      "batch": "Winter 2019",
+      "status": "Acquired",
+      "team_size": 85,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Climate",
+      "industries": [
+        "Industrials",
+        "Climate"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Carbon Capture and Removal",
+        "Machine Learning",
+        "Climate"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1541036076.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e55b15f7dfd0751a774fd43cb72476048b30df9.png"
     },
     {
       "id": 11931,
@@ -6562,5 +6562,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2026-01-21T18:10:22.287568"
+  "fetched_at": "2026-01-22T00:03:20.515040"
 }

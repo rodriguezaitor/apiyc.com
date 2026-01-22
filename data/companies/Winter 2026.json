@@ -274,37 +274,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a713774c85daa51c5353d80d0b599eae5069e05.png"
     },
     {
-      "id": 31260,
-      "name": "Coevolved",
-      "slug": "coevolved",
-      "website": "https://www.coevolved.ai",
-      "description": "A next generation multi-agent framework for designing, deploying, and scaling agent systems with clear, composable architectures. Built to make multi-agent systems fast, observable, and production ready from day one, with support for fully managed inference.",
-      "one_liner": "Incredibly Fast Multi-Agent Orchestration and Execution",
-      "batch": "Winter 2026",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "AIOps",
-        "Generative AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1768253497.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/be31930e3dbc1a85dbabae911121196fb26497df.png"
-    },
-    {
       "id": 31255,
       "name": "Grade",
       "slug": "grade",
@@ -1630,7 +1599,7 @@
       "slug": "arcline",
       "website": "https://www.arcline-ai.com/",
       "description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline\u2019s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe\u2019ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline\u2019s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe\u2019ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-      "one_liner": "We handle your startup\u2019s legal work, with elite lawyers & same-day\u2026",
+      "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 5,
@@ -1758,6 +1727,43 @@
       "is_top_company": false,
       "launched_at": 1766417530.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/23da3a492d96b19d0437b960a02a4a3614f0c79c.png"
+    },
+    {
+      "id": 31140,
+      "name": "CodeWisp",
+      "slug": "codewisp",
+      "website": "https://codewisp.net/",
+      "description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game\u2019s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
+      "one_liner": "Anyone can easily create real web games with AI",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer",
+        "Gaming",
+        "Web Development",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769035149.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbb4da2e7614c1fd4c6c439a1afa51661f2fb7dc.png"
     },
     {
       "id": 31137,
@@ -2767,5 +2773,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-21T18:10:27.358822"
+  "fetched_at": "2026-01-22T00:03:22.557577"
 }

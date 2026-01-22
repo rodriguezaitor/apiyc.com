@@ -2743,18 +2743,12 @@
         "Healthcare"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Health Tech",
-        "Dental"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1732046929.0,
@@ -2801,16 +2795,16 @@
       "name": "Riveter AI",
       "slug": "riveter-ai",
       "website": "https://www.riveterhq.com/",
-      "description": "Riveter is bringing the power of Perplexity to the scale of the spreadsheet. Their AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can\u2019t handle large amounts of data at once. And they\u2019re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter\u2019s web browsing can go further\u2014even reading PDFs and images that may contain answers. \r\n\r\nWith Riveter, anyone can automate complex, auditable web research\u2026 without coding. \r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
-      "one_liner": "Thousands of AI search agents running in parallel ",
+      "description": "Riveter is Lovable for web scraping. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us them enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can\u2019t handle large amounts of data at once. And they\u2019re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter\u2019s web browsing can go further\u2014even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+      "one_liner": "Lovable for web scraping",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Productivity"
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -3028,5 +3022,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-21T18:10:26.789197"
+  "fetched_at": "2026-01-22T00:03:22.336805"
 }

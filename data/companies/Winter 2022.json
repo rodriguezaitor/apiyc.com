@@ -7841,16 +7841,16 @@
       "name": "haddock",
       "slug": "haddock",
       "website": "https://haddock.app",
-      "description": "haddock is a fintech SaaS that helps restaurants improve their margins thanks to real-time cost control. We use Artificial Intelligence and Optical Character Recognition to digitize documents, export all data, and bring it to the restaurant in real-time.\r\nIt is as simple as taking a picture of an invoice and uploading it. We also integrate with several different POS, making it even easier. We help discover restaurants\u2019 P&L, margins, price variations, and many more business insights. Thanks to haddock restaurants can control price variations and make better business decisions based on real-time updated data.",
-      "one_liner": "SaaS helping restaurants improve their margins through cost control.",
+      "description": "haddock is a restaurant operations platform that combines a category-leading System of Record with AI-powered Systems of Action. It centralizes all operational and financial data into a single source of truth, and uses AI agents to autonomously execute workflows such as reconciliation, invoice validation, and incident resolution. By reducing manual work and dependence on scarce talent, haddock helps restaurants improve margins, accuracy, and operational control at scale.",
+      "one_liner": "AI agents to run restaurant operations",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 20,
+      "team_size": 40,
       "industry": "B2B",
-      "subindustry": "B2B -> Office Management",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
-        "Office Management"
+        "Finance and Accounting"
       ],
       "regions": [
         "Spain",
@@ -7858,11 +7858,13 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Barcelona, CT, Spain; CT, Spain",
+      "locations": "Barcelona, CT, Spain",
       "tags": [
         "Fintech",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13806,5 +13808,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-01-21T18:10:18.496342"
+  "fetched_at": "2026-01-22T00:03:18.919992"
 }
