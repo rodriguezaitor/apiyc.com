@@ -3341,11 +3341,11 @@
       "name": "Emergent",
       "slug": "emergent",
       "website": "https://emergent.sh",
-      "description": "Emergent is the AI coding platform builders use to create production-ready software. \r\n\r\nDescribe what you want in the chat, and our coding agents handle everything else: frontend design, database architecture, backend logic, authentication, payments, deployment, and automatic scaling.\r\n\r\nWe've grown to 700,000+ users and $10M ARR in just 2 months because we solved the real problem: the best software comes from people who understand the problems.",
-      "one_liner": "Build apps with AI - think it, describe it, ship it",
+      "description": "Emergent builds autonomous coding agents that replace traditional software development by generating, testing, and deploying production applications directly from plain-language intent. Our systems run in production at global scale and are used to build millions of real applications. \r\n\r\nSince our public launch, Emergent has reached $50M ARR in 7 months making us one of the fastest-growing startups in the world. 5M+ users across 190+ countries have built 6M+ applications on Emergent. We've raised $100M from Khosla Ventures, SoftBank, Google, Lightspeed India, Prosus Ventures, Together Fund, and Y Combinator. ",
+      "one_liner": "AI app builder that turns your ideas into monetizable software.",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 15,
+      "team_size": null,
       "industry": "Consumer",
       "subindustry": "Consumer",
       "industries": [
@@ -3359,16 +3359,17 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "B2B",
-        "No-code",
-        "AI"
+        "Artificial Intelligence",
+        "Generative AI",
+        "Consumer",
+        "No-code"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1739780863.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e081696fc0cc8dbda980f6f75b2fbf039add725f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png"
     },
     {
       "id": 29764,
@@ -8213,5 +8214,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-22T12:01:22.378282"
+  "fetched_at": "2026-01-22T18:02:11.245414"
 }

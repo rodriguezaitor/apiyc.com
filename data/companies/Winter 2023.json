@@ -7624,6 +7624,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f48c426b67826bae7fd3fded6bfc3e891fd72d2.png"
     },
     {
+      "id": 28096,
+      "name": "OpenInt",
+      "slug": "openint",
+      "website": "https://openint.dev",
+      "description": "OpenInt helps teams ship product integrations in hours, not weeks, using no or low code. Read and write data using unified APIs or sync it straight to your database. ",
+      "one_liner": "Open Source Embedded Product Integrations",
+      "batch": "Winter 2023",
+      "status": "Acquired",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Open Source",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1673267479.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a1ff68627d7db644256cf5b89e938213258bed.png"
+    },
+    {
       "id": 28081,
       "name": "DAGWorks Inc.",
       "slug": "dagworks-inc",
@@ -8480,40 +8514,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc7c9f809980c4c0462aa8ad39e4f211d37121ab.png"
     },
     {
-      "id": 28096,
-      "name": "OpenInt",
-      "slug": "openint",
-      "website": "https://openint.dev",
-      "description": "OpenInt helps teams ship product integrations in hours, not weeks, using no or low code. Read and write data using unified APIs or sync it straight to your database. ",
-      "one_liner": "Open Source Embedded Product Integrations",
-      "batch": "Winter 2023",
-      "status": "Inactive",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "regions": [
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Remote",
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Open Source",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1673267479.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a1ff68627d7db644256cf5b89e938213258bed.png"
-    },
-    {
       "id": 28082,
       "name": "Sorted",
       "slug": "sorted",
@@ -9331,5 +9331,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-01-22T12:01:21.455450"
+  "fetched_at": "2026-01-22T18:02:10.305809"
 }

@@ -669,6 +669,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/74fcdd0e430ec52b7926e6bf7ffe4e4cbb1b2571.png"
     },
     {
+      "id": 31217,
+      "name": "Polymath",
+      "slug": "polymath",
+      "website": "https://polymathlabs.ai/",
+      "description": "In order for AI to better serve people and create value in the economy, agents need to act more reliably and autonomously across long horizons. We're building the infrastructure to get there.\r\n\r\nCurrent AI agents excel at tasks in controlled settings under human supervision. However, the highest value work unfolds over days or weeks, requires fluency across dozens of tools, and the ability to navigate changing conditions. \r\n\r\nPolymath creates production-grade RL environments where agents tackle realistic tasks over extended time horizons, and success is measured by real outcomes. We work with frontier labs to develop and scale environments that expand the frontier of what agents are capable of.\r\n\r\nWe're starting with software engineering, but plan to extend to other domains with the same level of depth and nuance. We envision a future where reliable, autonomous agents can amplify what people can accomplish alone, enabling humanity to tackle the most difficult problems and accelerate progress.",
+      "one_liner": "Long-horizon RL",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Big Data",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769103780.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c545b8b7ad963df7730383e8097d2cc637c5a105.png"
+    },
+    {
       "id": 31215,
       "name": "Bubble Lab",
       "slug": "bubble-lab",
@@ -2504,6 +2537,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png"
     },
     {
+      "id": 31054,
+      "name": "ARC Prize Foundation",
+      "slug": "arc-prize-foundation",
+      "website": "https://arcprize.org/",
+      "description": "ARC Prize builds AI benchmarks that measure general intelligence. Our benchmarks are used by OpenAI, Anthropic, Google DeepMind, and xAI.\r\n\r\nWe believe that AGI requires more than just scaling up existing AI models. It demands a fundamental shift towards systems capable of genuine fluid intelligence, the ability to adapt to novel challenges and solve problems efficiently, much like humans do.",
+      "one_liner": "AI benchmarks that measure general intelligence and inspire new ideas",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Industrials",
+      "subindustry": "Industrials",
+      "industries": [
+        "Industrials"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769103962.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cfa6fd37255bf3036179eb9d4770661d2f35d12.png"
+    },
+    {
       "id": 31051,
       "name": "Corvera",
       "slug": "corvera",
@@ -2773,5 +2840,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-22T12:01:30.709455"
+  "fetched_at": "2026-01-22T18:02:19.525762"
 }
