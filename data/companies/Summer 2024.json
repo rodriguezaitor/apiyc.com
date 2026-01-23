@@ -1279,7 +1279,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717601253.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfc2d8a638a32f3a3c4f934a80bb1c1aa96b85ea.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2384790520f737ca83307104dd02d53860b9a68.png"
     },
     {
       "id": 29841,
@@ -7886,7 +7886,7 @@
       "name": "Central",
       "slug": "central",
       "website": "https://centralhq.com",
-      "description": "Central kills back-office work for startups. While HR/payroll platforms give you software to figure it out, Central actually does all the work using AI agents and human experts: payroll, benefits, compliance, accounting, taxes, and more. That's 10+ hours back every month. \r\n\r\nThousands of founders trust Central, including high-growth companies like Magic Patterns, Wordware, and Bitesight.\r\n\r\nLearn more and start for free at centralhq.com",
+      "description": "Central kills back-office work for startups. While HR/payroll platforms give you software to figure it out, Central actually does all the work using AI agents and human experts: payroll, benefits, compliance, accounting, taxes, and more. That's 10+ hours back every month. \r\n\r\nThousands of founders trust Central. Learn more and start for free at centralhq.com",
       "one_liner": "Payroll, benefits, state compliance & other bullsh*t for startups",
       "batch": "Summer 2024",
       "status": "Active",
@@ -7905,11 +7905,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
         "HR Tech",
-        "Payroll"
+        "Payroll",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8214,5 +8214,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-22T18:02:11.245414"
+  "fetched_at": "2026-01-23T00:03:32.114017"
 }

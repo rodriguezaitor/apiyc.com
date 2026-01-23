@@ -3331,6 +3331,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f96ddb243962497e60383676b01ce3b0cd4cb76.png"
     },
     {
+      "id": 30883,
+      "name": "hillclimb",
+      "slug": "hillclimb",
+      "website": "https://hillclimb.com",
+      "description": "We derive training data from the world's brightest minds, enabling LLMs to achieve state-of-the-art model performance.",
+      "one_liner": "The world's first human superintelligence community",
+      "batch": "Fall 2025",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Reinforcement Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1759385382.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png"
+    },
+    {
       "id": 30882,
       "name": "AtlasGrid",
       "slug": "atlasgrid",
@@ -5086,5 +5117,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-01-22T18:02:15.183522"
+  "fetched_at": "2026-01-23T00:03:35.823011"
 }

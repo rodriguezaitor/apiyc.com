@@ -5889,7 +5889,7 @@
       "one_liner": "Automated time tracking and billing for law firms.",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Legal",
       "industries": [
@@ -5902,13 +5902,13 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Legal",
-        "AI"
+        "Legal"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1705177845.0,
@@ -6403,11 +6403,11 @@
       "name": "Alex",
       "slug": "alex-com",
       "website": "https://alex.com",
-      "description": "Alex is an AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+      "description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
       "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 27,
+      "team_size": 30,
       "industry": "B2B",
       "subindustry": "B2B -> Recruiting and Talent",
       "industries": [
@@ -6420,11 +6420,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Recruiting",
-        "HR Tech"
+        "HR Tech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8277,5 +8277,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-22T18:02:10.778149"
+  "fetched_at": "2026-01-23T00:03:31.665677"
 }

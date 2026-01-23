@@ -73,6 +73,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png"
     },
     {
+      "id": 31292,
+      "name": "Aurorin CAD",
+      "slug": "aurorin-cad",
+      "website": "https://aurorincad.com",
+      "description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's and 90's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
+      "one_liner": "We help hardware companies ship faster",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769109612.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png"
+    },
+    {
       "id": 31287,
       "name": "DAIVIN!",
       "slug": "daivin",
@@ -304,6 +337,39 @@
       "is_top_company": false,
       "launched_at": 1768947933.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png"
+    },
+    {
+      "id": 31252,
+      "name": "Moda",
+      "slug": "moda",
+      "website": "https://modaflows.com",
+      "description": "Moda is an analytics platform for AI products that helps teams understand what users are actually trying to do inside LLM-powered conversations. We turn raw chats and agent traces into clustered intents, friction points, and trends so teams can make better product decisions without reading logs.",
+      "one_liner": "Product analytics for AI-powered products.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Analytics",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Analytics",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769121297.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png"
     },
     {
       "id": 31247,
@@ -833,6 +899,40 @@
       "is_top_company": false,
       "launched_at": 1766273553.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png"
+    },
+    {
+      "id": 31210,
+      "name": "Mendral",
+      "slug": "mendral",
+      "website": "https://mendral.com/",
+      "description": "Mendral\u00a0is an AI DevOps Engineer that observes, diagnoses, acts, and learns continuously. It autonomously handles CI failures, flaky tests, slow builds, broken releases, and code reviews, improving with every build and run. Over time, Mendral evolves into a self-improving delivery system that manages performance, quality, security, and compliance, all without manual intervention.",
+      "one_liner": "AI DevOps Engineer",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "DevOps"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769123342.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb8ab79d58a9a62e857747309cac10d5d41fbb2.png"
     },
     {
       "id": 31209,
@@ -1385,6 +1485,7 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Marketing",
         "Advertising",
         "Trading"
@@ -1832,6 +1933,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08b4ca96925b2e8c409dfbed108a0b4f3808348.png"
     },
     {
+      "id": 31135,
+      "name": "RoboDock",
+      "slug": "robodock",
+      "website": "https://www.robodock.tech/",
+      "description": "RoboDock automates charging for electric and autonomous vehicle fleets by orchestrating when and how vehicles charge, then physically executing charging with robotics. We turn fleet depots from manually operated sites into autonomous, self-optimizing systems that lower operational costs and increase vehicle uptime.",
+      "one_liner": "Enabling autonomous EV and AV depot operations",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "SaaS",
+        "Robotics",
+        "Energy",
+        "Electric Vehicles",
+        "Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769119894.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d6ce96c0e4a1cbd7e0458649e2af7fa551e2bfb.png"
+    },
+    {
       "id": 31133,
       "name": "Skillsync",
       "slug": "skillsync",
@@ -1864,6 +2000,38 @@
       "is_top_company": false,
       "launched_at": 1765356952.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png"
+    },
+    {
+      "id": 31132,
+      "name": "MouseCat",
+      "slug": "mousecat",
+      "website": "https://www.mousecat.ai",
+      "description": "MouseCat enables companies to automatically detect, investigate, and mitigate emerging fraud trends",
+      "one_liner": "The AI Toolkit for Risk Teams",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Fraud Detection"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769108383.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/71e74a47767755403f90f1778ab3ab410649c82e.png"
     },
     {
       "id": 31130,
@@ -2238,6 +2406,35 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png"
     },
     {
+      "id": 31092,
+      "name": "Axis",
+      "slug": "axis-2",
+      "website": "https://axisanalysis.com",
+      "description": "Axis is building a model-driven analysis platform for the commodities trading industry. Commodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy (Crude, Refined Products, Natural Gas, Petroleum) across the globe. Due to the size of these markets, commodities traders monitor data sources spanning prices and derivatives, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an analytical layer for these markets, allowing a trader or analyst to deploy models for monitoring information relevant to their strategy. \r\n",
+      "one_liner": "Models for Monitoring Commodities Markets",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Fintech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769120993.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png"
+    },
+    {
       "id": 31091,
       "name": "Sonarly",
       "slug": "sonarly",
@@ -2541,7 +2738,7 @@
       "name": "ARC Prize Foundation",
       "slug": "arc-prize-foundation",
       "website": "https://arcprize.org/",
-      "description": "ARC Prize builds AI benchmarks that measure general intelligence. Our benchmarks are used by OpenAI, Anthropic, Google DeepMind, and xAI.\r\n\r\nWe believe that AGI requires more than just scaling up existing AI models. It demands a fundamental shift towards systems capable of genuine fluid intelligence, the ability to adapt to novel challenges and solve problems efficiently, much like humans do.",
+      "description": "ARC Prize builds AI benchmarks that measure general intelligence. Our benchmark, ARC-AGI, has been used by OpenAI, Anthropic, Google DeepMind, and xAI.\r\n\r\nFounded by Mike Knoop and Francois Chollet, we inspire open source artificial general intelligence (AGI) research through benchmarks (the ARC-AGI series), global competitions, research grants, community, and content, we exist to guide researchers, industry, and regulators on the path to AGI.\r\n\r\nWe believe that AGI requires more than just scaling up existing AI models. It demands a fundamental shift towards systems capable of genuine fluid intelligence, the ability to adapt to novel challenges and solve problems efficiently, much like humans do.",
       "one_liner": "AI benchmarks that measure general intelligence and inspire new ideas",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2840,5 +3037,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-22T18:02:19.525762"
+  "fetched_at": "2026-01-23T00:03:40.032270"
 }
