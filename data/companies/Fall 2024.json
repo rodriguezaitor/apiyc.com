@@ -2150,16 +2150,16 @@
       "name": "Vespper",
       "slug": "vespper",
       "website": "https://vespper.com/?utm_source=ycombinator.com",
-      "description": "Vespper is an AI document authoring platform for regulatory professionals in pharma, med-tech and biotech companies. ",
-      "one_liner": "AI document authoring platform for regulatory professionals in life\u2026",
+      "description": "The AI-native document editor for long-form content. Create, edit and review with full end-to-end traceability and full searchability of your source documents.\r\nPerfect for regulatory, compliance and legal professionals.",
+      "one_liner": "The first AI-native document editor for long-form content",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
-      "industry": "Healthcare",
-      "subindustry": "Healthcare -> Healthcare IT",
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
       "industries": [
-        "Healthcare",
-        "Healthcare IT"
+        "B2B",
+        "Productivity"
       ],
       "regions": [
         "Remote",
@@ -2167,10 +2167,10 @@
       ],
       "locations": "Remote",
       "tags": [
-        "Health Tech",
         "B2B",
+        "Productivity",
         "Healthcare",
-        "Healthcare IT",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -3022,5 +3022,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-24T06:01:05.941436"
+  "fetched_at": "2026-01-24T12:01:15.361802"
 }
