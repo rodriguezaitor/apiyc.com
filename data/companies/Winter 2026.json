@@ -244,6 +244,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png"
     },
     {
+      "id": 31274,
+      "name": "Pollinate",
+      "slug": "pollinate",
+      "website": "https://www.pollinate.tech/",
+      "description": "Bad ERP data and no purpose-built tools mean the supply chain runs on spreadsheets or expensive custom built solutions.\r\n\r\nWe're solving this problem, starting with procurement teams, to automate three way matching of supplier invoices, using raw invoices from their email to match against purchase orders and landing receipts across ERP systems to make reconciliation frictionless.\r\n\r\nLearn more at pollinate.tech",
+      "one_liner": "AI Agents for the supply chain.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Logistics",
+        "Supply Chain",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769216179.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a91425bc13e71d0ca296b97834e36834cea9ce3a.png"
+    },
+    {
       "id": 31273,
       "name": "SpotPay",
       "slug": "spotpay",
@@ -502,6 +535,37 @@
       "is_top_company": false,
       "launched_at": 1768343791.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbc4def34ee35f1be5646ba1619e18503ee7b982.png"
+    },
+    {
+      "id": 31242,
+      "name": "Booko",
+      "slug": "booko",
+      "website": "https://bookoapp.com",
+      "description": "\u2028Booko helps appointment-based businesses make more money by dynamically pricing their time. Unlike physical inventory, unsold hours disappear forever, yet most service businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold. ",
+      "one_liner": "Dynamic pricing for service businesses",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Machine Learning",
+        "SaaS"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769199393.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e9ec4aa927e0e98329effde763de82fc90df7c1.png"
     },
     {
       "id": 31241,
@@ -3037,5 +3101,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-24T00:03:09.608939"
+  "fetched_at": "2026-01-24T06:01:06.269903"
 }

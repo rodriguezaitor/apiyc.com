@@ -9,7 +9,7 @@
       "one_liner": "A Roomba for weeds on a farm. ",
       "batch": "Winter 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 5,
       "industry": "Industrials",
       "subindustry": "Industrials -> Agriculture",
       "industries": [
@@ -2286,7 +2286,7 @@
       "slug": "strike",
       "website": "http://tradestrike.app",
       "description": "Still in stealth, reach out to learn more!",
-      "one_liner": "Prediction markets for businesses",
+      "one_liner": "Regulated futures exchange",
       "batch": "Winter 2025",
       "status": "Active",
       "team_size": 8,
@@ -2301,7 +2301,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Marketplace"
+        "Fintech",
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5366,5 +5367,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png"
     }
   ],
-  "fetched_at": "2026-01-24T00:03:08.152703"
+  "fetched_at": "2026-01-24T06:01:02.475389"
 }

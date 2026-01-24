@@ -1279,7 +1279,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1717601253.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2384790520f737ca83307104dd02d53860b9a68.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/440e576eac66f206c0037de7c2f3a9c086c18840.png"
     },
     {
       "id": 29841,
@@ -7228,8 +7228,8 @@
       "name": "Cheers",
       "slug": "cheers",
       "website": "https://www.cheers.tech",
-      "description": "AI assistants are the new way customers find local services. When someone asks ChatGPT for a plumber, AI recommends based on reputation, not ads. This is GEO (Generative Engine Optimization).\r\n\r\nCheers is the full-stack GEO platform for service businesses. We analyze what AI sees, build your optimization strategy, and give your team tools to dominate AI recommendations.\r\n\r\nVivint generated 70,000+ reviews in 5 months with Cheers and now dominates AI recommendations in every market they operate.",
-      "one_liner": "We help service businesses win local search on ChatGPT",
+      "description": "AI assistants are replacing search for local businesses. When someone asks ChatGPT for a plumber or hotel recommendations, reviews are the primary training signal, especially in local markets where other data is sparse. This is GEO (Generative Engine Optimization).\r\n\r\nCheers is the full-stack GEO platform for local service businesses. We audit AI visibility, build optimization plans (schema markup, citation fixes, review strategy), and give frontline teams NFC tools to generate reviews with employee-level attribution.\r\n\r\nVivint generated 70,000+ five-star reviews in 5 months. They now rank #1 on ChatGPT and Google Search across their markets.",
+      "one_liner": "Win local search on ChatGPT & other LLMs",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -8214,5 +8214,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-24T00:03:07.005847"
+  "fetched_at": "2026-01-24T06:00:59.741942"
 }
