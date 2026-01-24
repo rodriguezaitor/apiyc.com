@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 809,
+      "name": "EquipmentShare",
+      "slug": "equipmentshare",
+      "website": "https://www.equipmentshare.com",
+      "description": "EquipmentShare delivers cloud solutions for the construction industry. We provide a better equipment rental experience, fleet tracking software and hardware security solutions to help contractors work smarter. ",
+      "one_liner": "Cloud solutions for the construction industry.",
+      "batch": "Winter 2015",
+      "status": "Public",
+      "team_size": 5400,
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Construction",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Columbia, MO, USA",
+      "tags": [
+        "Construction"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": true,
+      "launched_at": 1416306934.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad05853522c217d92c372ba8883ff6b45dd83d99.png"
+    },
+    {
       "id": 810,
       "name": "GitLab",
       "slug": "gitlab",
@@ -66,39 +99,6 @@
       "is_top_company": false,
       "launched_at": 1416306600.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c16f624e7c7aac96877a792583de496fc66b4a02.png"
-    },
-    {
-      "id": 809,
-      "name": "EquipmentShare",
-      "slug": "equipmentshare",
-      "website": "https://www.equipmentshare.com",
-      "description": "EquipmentShare delivers cloud solutions for the construction industry. We provide a better equipment rental experience, fleet tracking software and hardware security solutions to help contractors work smarter. ",
-      "one_liner": "Cloud solutions for the construction industry.",
-      "batch": "Winter 2015",
-      "status": "Active",
-      "team_size": 5400,
-      "industry": "Real Estate and Construction",
-      "subindustry": "Real Estate and Construction -> Construction",
-      "industries": [
-        "Real Estate and Construction",
-        "Construction"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Columbia, MO, USA",
-      "tags": [
-        "Construction"
-      ],
-      "stage": "Growth",
-      "is_hiring": true,
-      "is_nonprofit": false,
-      "is_top_company": true,
-      "launched_at": 1416306934.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad05853522c217d92c372ba8883ff6b45dd83d99.png"
     },
     {
       "id": 767,
@@ -3699,5 +3699,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2026-01-23T18:01:25.358431"
+  "fetched_at": "2026-01-24T00:03:09.164109"
 }

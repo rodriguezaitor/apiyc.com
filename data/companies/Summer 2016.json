@@ -773,11 +773,11 @@
       "name": "Miso",
       "slug": "miso",
       "website": "http://miso.kr",
-      "description": "Miso makes booking services as easy as buying products online. We offer over 70 different services ranging from cleaning to moving to interior remodeling, repair and installation. We have fulfilled more than 4 million bookings and operate at over a $140 million GMV run rate. ",
+      "description": "Miso makes booking services as easy as buying products online. We offer over 1,000 different services ranging from cleaning to moving to interior remodeling, lessons and more. We have fulfilled more than $1.5 billion in transactions serving over 1.5 million households.",
       "one_liner": "We make booking services as easy as buying products online.",
       "batch": "Summer 2016",
       "status": "Active",
-      "team_size": 60,
+      "team_size": 100,
       "industry": "Consumer",
       "subindustry": "Consumer -> Home and Personal",
       "industries": [
@@ -790,9 +790,12 @@
       ],
       "locations": "Seoul, South Korea",
       "tags": [
-        "Marketplace"
+        "Artificial Intelligence",
+        "Marketplace",
+        "Home Services",
+        "AI Assistant"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -3346,5 +3349,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2026-01-23T18:01:25.940943"
+  "fetched_at": "2026-01-24T00:03:09.387963"
 }

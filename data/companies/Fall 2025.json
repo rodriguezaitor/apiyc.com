@@ -2094,15 +2094,10 @@
         "Healthcare"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Machine Learning",
-        "Computer Vision",
-        "Health Tech"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4598,8 +4593,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Design",
-        "AI"
+        "Artificial Intelligence",
+        "Design"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5117,5 +5112,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-01-23T18:01:23.167328"
+  "fetched_at": "2026-01-24T00:03:08.283853"
 }

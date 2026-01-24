@@ -707,7 +707,7 @@
       "name": "Voxel Energy",
       "slug": "voxel-energy",
       "website": "https://voxelenergy.com/",
-      "description": "The best grid connection is no grid connection. Voxel captures, stores, and consumes solar energy onsite without the grid, completely bypassing utility connection delays. By leveraging the vast supply of second-life EV batteries with our novel DC microgrid architecture, we drastically reduce engineering overhead and time-to-power.",
+      "description": "The best grid connection is no grid connection. Voxel data centers capture, store, and consume solar energy onsite without the grid, completely bypassing utility connection delays. By leveraging the vast supply of second-life EV batteries with our novel DC microgrid architecture, we drastically reduce engineering overhead and time-to-power.",
       "one_liner": "Energy independent data centers with solar and repurposed batteries. ",
       "batch": "Winter 2026",
       "status": "Active",
@@ -723,9 +723,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Renewable Energy",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2471,7 +2471,7 @@
       "name": "Lance",
       "slug": "lance",
       "website": "https://www.lance.live",
-      "description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack.",
+      "description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack. Trusted by hotel groups with 50+ hotels across Marriott, Hyatt, and Hilton.",
       "one_liner": "AI Agents built for Hospitality",
       "batch": "Winter 2026",
       "status": "Active",
@@ -3037,5 +3037,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-23T18:01:26.461402"
+  "fetched_at": "2026-01-24T00:03:09.608939"
 }

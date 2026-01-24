@@ -6741,7 +6741,7 @@
       "name": "Codes Health",
       "slug": "codes-health",
       "website": "https://www.getcodeshealth.com/",
-      "description": "Codes automates patient record collection. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for those who need them. ",
+      "description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs law firms, providers, and more. ",
       "one_liner": "Perfect medical histories. ",
       "batch": "Summer 2024",
       "status": "Active",
@@ -6757,11 +6757,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "LegalTech"
+        "LegalTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8214,5 +8214,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-23T18:01:20.028758"
+  "fetched_at": "2026-01-24T00:03:07.005847"
 }
