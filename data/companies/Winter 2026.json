@@ -43,7 +43,7 @@
       "slug": "shofo",
       "website": "https://shofo.ai/",
       "description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
-      "one_liner": "Scraping and labeling social media posts to curate training datasets",
+      "one_liner": "Common Crawl for Videos",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -59,11 +59,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Social Media",
         "API",
         "Data Labeling",
-        "Big Data",
-        "AI"
+        "Big Data"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3137,5 +3137,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-24T18:01:10.822140"
+  "fetched_at": "2026-01-25T00:04:04.891032"
 }
