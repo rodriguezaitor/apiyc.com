@@ -178,6 +178,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png"
     },
     {
+      "id": 31283,
+      "name": "Librar Labs",
+      "slug": "librar-labs",
+      "website": "https://www.librarlabs.com",
+      "description": "AI for inventory starting with libraries. Librar speed up the manual & boring work, so librarians can build reading culture and community.\r\n\r\nA complete library system for any collection.\r\n\r\n",
+      "one_liner": "Intelligence for physical knowledge starting with libraries",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Machine Learning",
+        "Computer Vision",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769303203.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png"
+    },
+    {
       "id": 31278,
       "name": "Zymbly",
       "slug": "zymbly",
@@ -508,7 +539,7 @@
       "name": "Scout Out",
       "slug": "scout-out",
       "website": "https://scoutout.ai/",
-      "description": "Scout Out helps clients hire the right builder by turning building plans into fast, comparable bids.\r\n\r\nToday, every contractor who wants to bid on a project has to independently estimate material and labor quantities. That makes bidding slow, expensive, and inconsistent \u2014 and homeowners often end up comparing apples to oranges.\r\n\r\nScout Out automates this step. We use computer vision trained on building plans to generate standardized material and labor takeoffs once, in-house. We then share those takeoffs with vetted contractors, so everyone is bidding on the same scope.\r\n\r\nThe result: homeowners get more bids, faster turnaround, and clearer pricing \u2014 without asking each contractor to redo the same estimation work.\r\n\r\nWe\u2019re starting in Los Angeles, helping homeowners rebuild after the Palisades and Eaton fires.",
+      "description": "ScoutOut helps residential contractors estimate jobs faster and submit clearer, more competitive proposals.\r\n\r\nToday, every contractor bidding a residential remodel or rebuild has to manually interpret plans, calculate material and labor quantities, and assemble a proposal from scratch. The process is slow, inconsistent, and expensive \u2014 and small differences in scope often decide who wins the job.\r\n\r\nScoutOut automates this workflow. We use computer vision trained on residential building plans to generate structured material and labor takeoffs, which contractors can review, customize, price, and turn into professional proposals. Instead of starting from zero on every bid, contractors start with a standardized, high-quality estimate they can trust.\r\n\r\nThe result: contractors bid faster, price more consistently, and submit clearer proposals \u2014 helping them win more residential remodeling and contracting jobs with less overhead.\r\n\r\nWe\u2019re starting in Los Angeles, working closely with residential contractors on remodels and post-fire rebuilds following the Palisades and Eaton fires.",
       "one_liner": "Find someone to build your building",
       "batch": "Winter 2026",
       "status": "Active",
@@ -524,13 +555,13 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
         "Construction",
-        "Proptech"
+        "Proptech",
+        "AI"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1768343791.0,
@@ -3137,5 +3168,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-25T00:04:04.891032"
+  "fetched_at": "2026-01-25T06:01:18.195500"
 }
