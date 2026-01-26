@@ -2106,11 +2106,11 @@
       "name": "Casco",
       "slug": "casco",
       "website": "https://casco.com",
-      "description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
-      "one_liner": "Autonomous security testing for AI systems",
+      "description": "Casco performs autonomous security testing for your web apps, APIs, infrastructure, and AI systems. Human supervision optionally available. Use Casco for year-round security and get a penetration test report for your SOC2 and ISO27001 compliance certifications. \r\n\r\nTrusted by 100+ companies from enterprises to fast-moving startups, such as Gusto, CrewAI, Novig, and Delve.\r\n\r\nHack yourself at: https://casco.com\r\n\r\n---\r\n\r\nWe already secure software deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
+      "one_liner": "Autonomous security testing for web apps, APIs, cloud, and AI systems",
       "batch": "Spring 2025",
       "status": "Active",
-      "team_size": 8,
+      "team_size": 9,
       "industry": "B2B",
       "subindustry": "B2B -> Security",
       "industries": [
@@ -2795,11 +2795,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning",
         "Recruiting",
         "Market Research",
-        "Data Labeling",
-        "AI"
+        "Data Labeling"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4654,5 +4654,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-01-26T00:03:43.172541"
+  "fetched_at": "2026-01-26T06:02:29.258216"
 }

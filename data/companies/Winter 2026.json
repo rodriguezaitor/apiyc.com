@@ -342,7 +342,7 @@
       "id": 31263,
       "name": "Veriad",
       "slug": "veriad",
-      "website": "https://veriad.ai",
+      "website": "https://veriad.com",
       "description": "Veriad is building AI compliance officers for enterprises. Our agent analyze documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies.\r\n",
       "one_liner": "AI compliance officers",
       "batch": "Winter 2026",
@@ -773,11 +773,11 @@
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": null,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
-        "Industrials",
-        "Manufacturing and Robotics"
+        "B2B",
+        "Supply Chain and Logistics"
       ],
       "regions": [
         "Netherlands",
@@ -785,9 +785,9 @@
       ],
       "locations": "Amsterdam, NH, Netherlands",
       "tags": [
+        "Artificial Intelligence",
         "Robotics",
-        "Logistics",
-        "AI"
+        "Logistics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -801,16 +801,15 @@
       "name": "Arzule",
       "slug": "arzule",
       "website": "https://www.arzule.com",
-      "description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace. Users can approve or deny the correction so Arzule learns what \u201cgood\u201d looks like in the context of the current project. It provides observability, debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to improve costs, efficiency, and quality. Additionally, Arzule is currently offering early access to synthetic creation and labeling of multi-agent coordination tasks for companies who reach out.",
-      "one_liner": "Debugging multi-agent coordination",
+      "description": "Arzule is a partnership intelligence platform for B2B SaaS teams. It continuously monitors the SaaS ecosystem for new features, integrations, and product changes, and uses AI agents to identify strategic partnership opportunities as they emerge, such as integration, distribution, technology, or ecosystem partnerships. Arzule is personalized to each company\u2019s product, positioning, and roadmap, so searches are always run with your business in mind. Instead of static lists or manual research, Arzule builds deep, living profiles of companies and explains which partnerships matter, why they make sense now, and what strategic leverage they unlock. The result is faster, higher-quality partnership decisions without missed opportunities or repetitive research.",
+      "one_liner": "AI agents for strategic partnership research in B2B SaaS.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B",
       "industries": [
-        "B2B",
-        "Engineering, Product and Design"
+        "B2B"
       ],
       "regions": [
         "United States of America",
@@ -820,7 +819,7 @@
       "tags": [
         "SaaS",
         "B2B",
-        "Data Labeling",
+        "Market Research",
         "AI"
       ],
       "stage": "Early",
@@ -867,7 +866,7 @@
       "name": "Polymath",
       "slug": "polymath",
       "website": "https://polymathlabs.ai/",
-      "description": "In order for AI to better serve people and create value in the economy, agents need to act more reliably and autonomously across long horizons. We're building the infrastructure to get there.\r\n\r\nCurrent AI agents excel at tasks in controlled settings under human supervision. However, the highest value work unfolds over days or weeks, requires fluency across dozens of tools, and the ability to navigate changing conditions. \r\n\r\nPolymath creates production-grade RL environments where agents tackle realistic tasks over extended time horizons, and success is measured by real outcomes. We work with frontier labs to develop and scale environments that expand the frontier of what agents are capable of.\r\n\r\nWe're starting with software engineering, but plan to extend to other domains with the same level of depth and nuance. We envision a future where reliable, autonomous agents can amplify what people can accomplish alone, enabling humanity to tackle the most difficult problems and accelerate progress.",
+      "description": "In order for AI to better serve people and create value in the economy, agents need to act more reliably and autonomously across long horizons. We're building the infrastructure to get there.\r\n\r\nCurrent AI agents excel at tasks in controlled settings under human supervision. However, the highest value work unfolds over days or weeks, requires fluency across dozens of tools, and the ability to navigate changing conditions. \r\n\r\nPolymath creates production-grade RL environments where agents tackle realistic tasks over extended time horizons, and success is measured by real outcomes. We work with frontier labs to develop and scale environments that expand the frontier of what agents are capable of.\r\n\r\nWe're starting with software engineering environments, but plan to extend to other domains as well. We envision a future where reliable, autonomous agents can amplify what people can accomplish alone, enabling humanity to tackle the most difficult problems and accelerate progress.",
       "one_liner": "Long-horizon RL",
       "batch": "Winter 2026",
       "status": "Active",
@@ -893,7 +892,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1769103780.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c545b8b7ad963df7730383e8097d2cc637c5a105.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png"
     },
     {
       "id": 31215,
@@ -1292,6 +1291,39 @@
       "is_top_company": false,
       "launched_at": 1767260558.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b70bf211f4ebf5c82ae3b52b372c4acc569be0d.png"
+    },
+    {
+      "id": 31187,
+      "name": "Fenrock AI",
+      "slug": "fenrock-ai",
+      "website": "https://fenrock.ai/",
+      "description": "We help highly regulated financial institutions and fintechs prevent financial crimes. With our AI agents, you can process 10X compliance workload per analyst, with bullet-proof audit logs for regulators!",
+      "one_liner": "The most powerful AI agents for Financial Crime Compliance",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Compliance",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769406704.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7bfc4f2a50855932b3ccc009741f624abb34a91.png"
     },
     {
       "id": 31185,
@@ -2360,6 +2392,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png"
     },
     {
+      "id": 31108,
+      "name": "Strand AI",
+      "slug": "strand-ai",
+      "website": "https://strandai.com",
+      "description": "",
+      "one_liner": "Curated multimodal datasets for biology AI",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769406494.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png"
+    },
+    {
       "id": 31107,
       "name": "BaseFrame",
       "slug": "baseframe",
@@ -2566,9 +2629,9 @@
       "id": 31091,
       "name": "Sonarly",
       "slug": "sonarly",
-      "website": "https://sonarly.dev",
-      "description": "We'd like to automate monitoring. To advance that mission, we're building Sonarly.\r\n\r\nCoding agents are amazingly good at building software. But they struggle fixing production bugs because they lack the right context for them. We give them that context, eliminating the time you spend on bug detection, session replay, issue description, and endlessly copy-pasting logs to your AI agent.",
-      "one_liner": "Production-bug context for AI agents",
+      "website": "https://sonarly.com",
+      "description": "We\u2019d like to automate monitoring. To advance that mission, we\u2019re building Sonarly.\r\n\r\nSoftware has two phases: build time and run time. Coding agents are getting great at build time, but production is still a mess of charts, logs, and noisy alerts. Sonarly triages production alerts, deduping - prioritizing, and attaching the missing context - so teams can trust what pages them and fix the right issue fast. As you deploy new code, Sonarly keeps alerts and investigations up to date automatically.",
+      "one_liner": "Start trusting your production alerts.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -2931,6 +2994,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png"
     },
     {
+      "id": 31040,
+      "name": "CatchBack Cards",
+      "slug": "catchback-cards",
+      "website": "https://catchbackcards.com",
+      "description": "CatchBack Cards is a mobile app and website platform for maximizing the thrill of collecting Pokemon and Sports cards. We allow collectors to create custom mystery packs with personalized chases and customized odds with cryptographically trusted tooling. Users can rip open digital packs and get physical cards shipped to them, receive buyback offers on cards pulled from their mystery packs sent straight to Venmo and PayPal, and buy/sell cards in our $1 marketplace.\r\n",
+      "one_liner": "a platform for maximizing the thrill of collecting trading cards",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Crypto / Web3",
+        "Consumer",
+        "NFT"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769404688.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0644b8171c881f538c641dd16d392e4a337d36f5.png"
+    },
+    {
       "id": 31036,
       "name": "Mantis Biotechnology",
       "slug": "mantis-biotechnology",
@@ -3201,5 +3297,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-26T00:03:45.059421"
+  "fetched_at": "2026-01-26T06:02:32.151425"
 }
