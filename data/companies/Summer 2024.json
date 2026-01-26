@@ -2814,12 +2814,12 @@
       "id": 29782,
       "name": "Laminar",
       "slug": "laminar",
-      "website": "https://www.lmnr.ai/",
-      "description": "Laminar is an open-source platform which provides observability, text analytics, evals and prompt chain management for AI agent. \r\n\r\n",
-      "one_liner": "Open-source all-in-one platform for engineering AI products",
+      "website": "https://laminar.sh",
+      "description": "Laminar is open-source observability for AI agents. Trace complex workflows, replay and debug agent runs, and detect anomalies across trajectories at scale.",
+      "one_liner": "Understand why your AI agent breaks. Iterate fast to fix it.",
       "batch": "Summer 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 6,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -2833,10 +2833,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8215,5 +8215,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-26T12:01:20.465658"
+  "fetched_at": "2026-01-26T18:02:15.307451"
 }

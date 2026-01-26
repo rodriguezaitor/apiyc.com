@@ -2691,15 +2691,10 @@
         "Healthcare IT"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "New York, NY, USA",
-      "tags": [
-        "SaaS",
-        "Scheduling",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -4655,5 +4650,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-01-26T12:01:23.458581"
+  "fetched_at": "2026-01-26T18:02:16.885764"
 }

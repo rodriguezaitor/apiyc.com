@@ -845,16 +845,16 @@
       "name": "KorrAI",
       "slug": "korrai",
       "website": "https://www.korrai.com",
-      "description": "KorrAI helps asset owners and property insurers see hidden risks in critical infrastructure before they become costly failures. We use satellite data and AI to remotely monitor mines, railways, data centers, and other complex assets making infrastructure risk visible, early, and actionable.",
-      "one_liner": "KorrAI monitors infrastructure risk with satellite imagery and AI",
+      "description": "KorrAI provides an AI-native workspace for remote desktop risk studies across construction, infrastructure, and mining projects.\r\nOur platform, TRAIL, enables insurers, asset owners, and builders to evaluate site and construction risk in hours instead of weeks by unifying geospatial data, geotechnical reports, catastrophe model outputs, and engineering context into one traceable system.",
+      "one_liner": "AI-native workspace for end-to-end desktop studies",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 17,
-      "industry": "Fintech",
-      "subindustry": "Fintech -> Insurance",
+      "industry": "Real Estate and Construction",
+      "subindustry": "Real Estate and Construction -> Construction",
       "industries": [
-        "Fintech",
-        "Insurance"
+        "Real Estate and Construction",
+        "Construction"
       ],
       "regions": [
         "Canada",
@@ -910,11 +910,11 @@
       "name": "GovDash",
       "slug": "govdash",
       "website": "https://govdash.com/",
-      "description": "GovDash is an AI platform that assists government contractors with capture, proposal development, contract management & more\u2014in one place.\r\n\r\nAutomate BD workflows across the Capture Cloud, Proposal Cloud, and Contract Cloud.",
-      "one_liner": "AI platform for winning government contracts.",
+      "description": "GovDash helps modern government contractors win work faster and execute successfully after award, using one AI-native platform across capture, proposals, and post-award.",
+      "one_liner": "AI platform to win and run government contracts",
       "batch": "Winter 2022",
       "status": "Active",
-      "team_size": 28,
+      "team_size": 56,
       "industry": "Government",
       "subindustry": "Government",
       "industries": [
@@ -928,11 +928,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Generative AI",
-        "GovTech",
-        "AI"
+        "GovTech"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -13807,5 +13807,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-01-26T12:01:18.903622"
+  "fetched_at": "2026-01-26T18:02:14.462273"
 }

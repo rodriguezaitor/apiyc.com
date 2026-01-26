@@ -2676,7 +2676,7 @@
       "name": "iollo",
       "slug": "iollo",
       "website": "https://iollo.com",
-      "description": "We're building Quinn at iollo, an AI scientist that analyzes multimodal biological data (multi-omics, imaging, etc.) to discover new biology in hours, work that typically takes teams of scientists years. Quinn translates these discoveries into accelerated development of novel therapeutic strategies and interventions for extending healthspan.",
+      "description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
       "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
       "batch": "Summer 2022",
       "status": "Active",
@@ -2695,10 +2695,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Biotech",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -5088,7 +5088,7 @@
         "Oncology"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1656454958.0,
@@ -6191,7 +6191,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1658875414.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7493506d888638a86c5583212d333be4e4b6b49.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6aca6b5b0b9f6220fccaff77654ee7c479236f62.png"
     },
     {
       "id": 26564,
@@ -8108,5 +8108,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-26T12:01:20.761368"
+  "fetched_at": "2026-01-26T18:02:15.480469"
 }
