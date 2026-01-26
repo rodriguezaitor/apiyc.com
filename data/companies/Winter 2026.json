@@ -802,7 +802,7 @@
       "slug": "arzule",
       "website": "https://www.arzule.com",
       "description": "Arzule is a partnership intelligence platform for B2B SaaS teams. It continuously monitors the SaaS ecosystem for new features, integrations, and product changes, and uses AI agents to identify strategic partnership opportunities as they emerge, such as integration, distribution, technology, or ecosystem partnerships. Arzule is personalized to each company\u2019s product, positioning, and roadmap, so searches are always run with your business in mind. Instead of static lists or manual research, Arzule builds deep, living profiles of companies and explains which partnerships matter, why they make sense now, and what strategic leverage they unlock. The result is faster, higher-quality partnership decisions without missed opportunities or repetitive research.",
-      "one_liner": "AI agents for strategic partnership research in B2B SaaS.",
+      "one_liner": "AI agents for strategic partnership research",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -817,10 +817,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Market Research",
-        "AI"
+        "Market Research"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2663,7 +2663,7 @@
       "slug": "lance",
       "website": "https://www.lance.live",
       "description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack. Trusted by hotel groups with 50+ hotels across Marriott, Hyatt, and Hilton.",
-      "one_liner": "AI Agents built for Hospitality",
+      "one_liner": "AI Voice Agent for Hotel Operations",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 3,
@@ -3297,5 +3297,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-26T06:02:32.151425"
+  "fetched_at": "2026-01-26T12:01:25.384573"
 }
