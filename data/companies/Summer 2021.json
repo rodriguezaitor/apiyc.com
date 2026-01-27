@@ -10091,18 +10091,20 @@
       "one_liner": "We help Accountants automate work and serve their customers online",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 28,
+      "team_size": 75,
       "industry": "B2B",
-      "subindustry": "B2B -> Productivity",
+      "subindustry": "B2B -> Finance and Accounting",
       "industries": [
         "B2B",
-        "Productivity"
+        "Finance and Accounting"
       ],
       "regions": [
+        "Mexico",
+        "Latin America",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "Remote",
+      "locations": "Monterrey, N.L., Mexico",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
@@ -13410,5 +13412,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-26T18:02:14.643702"
+  "fetched_at": "2026-01-27T00:03:16.224646"
 }

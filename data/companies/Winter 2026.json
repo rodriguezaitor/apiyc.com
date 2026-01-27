@@ -77,7 +77,7 @@
       "name": "Aurorin CAD",
       "slug": "aurorin-cad",
       "website": "https://aurorincad.com",
-      "description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's and 90's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
+      "description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
       "one_liner": "We help hardware companies ship faster",
       "batch": "Winter 2026",
       "status": "Active",
@@ -93,10 +93,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Hard Tech",
         "Hardware",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -539,8 +539,8 @@
       "name": "Scout Out",
       "slug": "scout-out",
       "website": "https://scoutout.ai/",
-      "description": "ScoutOut helps residential contractors estimate jobs faster and submit clearer, more competitive proposals.\r\n\r\nToday, every contractor bidding a residential remodel or rebuild has to manually interpret plans, calculate material and labor quantities, and assemble a proposal from scratch. The process is slow, inconsistent, and expensive \u2014 and small differences in scope often decide who wins the job.\r\n\r\nScoutOut automates this workflow. We use computer vision trained on residential building plans to generate structured material and labor takeoffs, which contractors can review, customize, price, and turn into professional proposals. Instead of starting from zero on every bid, contractors start with a standardized, high-quality estimate they can trust.\r\n\r\nThe result: contractors bid faster, price more consistently, and submit clearer proposals \u2014 helping them win more residential remodeling and contracting jobs with less overhead.\r\n\r\nWe\u2019re starting in Los Angeles, working closely with residential contractors on remodels and post-fire rebuilds following the Palisades and Eaton fires.",
-      "one_liner": "Find someone to build your building",
+      "description": "Scout Out helps residential contractors estimate jobs faster and submit clearer, more competitive proposals.\r\n\r\nToday, every contractor bidding a residential remodel or rebuild has to manually interpret plans, calculate material and labor quantities, and assemble a proposal from scratch. The process is slow, inconsistent, and expensive \u2014 and small differences in scope often decide who wins the job.\r\n\r\nScoutOut automates this workflow. We use computer vision trained on residential building plans to generate structured material and labor takeoffs, which contractors can review, customize, price, and turn into professional proposals. Instead of starting from zero on every bid, contractors start with a standardized, high-quality estimate they can trust.\r\n\r\nThe result: contractors bid faster, price more consistently, and submit clearer proposals \u2014 helping them win more residential remodeling and contracting jobs with less overhead.\r\n\r\nWe\u2019re starting in Los Angeles, working closely with residential contractors on remodels and post-fire rebuilds following the Palisades and Eaton fires.",
+      "one_liner": "AI generated proposals for residential construction projects",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 1,
@@ -555,10 +555,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Real Estate",
         "Construction",
-        "Proptech",
-        "AI"
+        "Proptech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1629,8 +1629,8 @@
       "name": "Laurence",
       "slug": "laurence",
       "website": "https://trylaurence.com",
-      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints.\r\n\r\nOur models systematically price bids, allocate budgets, and adjust targeting based on observed conversion signals and uncertainty.\r\n\r\nStarting with sellers on Amazon, we are automating millions in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
-      "one_liner": "Automated performance marketing for brands on Amazon",
+      "description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints.\r\n\r\nWe use customers' existing ad copy and use reinforcement learning and train our own LLMs to run ads on autopilot, harvesting profits when we\u2019re confident and borrowing signals from similar keywords when data is sparse.\r\n\r\nStarting with brands on Amazon, we are automating millions in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
+      "one_liner": "RL for performance marketing",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -1645,10 +1645,10 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Marketing",
         "Advertising",
-        "Trading"
+        "Trading",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1759,6 +1759,40 @@
       "is_top_company": false,
       "launched_at": 1768420792.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png"
+    },
+    {
+      "id": 31154,
+      "name": "Orthogonal",
+      "slug": "orthogonal",
+      "website": "https://orthogonal.sh",
+      "description": "Orthogonal is where AI agents find and pay for APIs. Instead of managing dozens of API keys, accounts, and billing relationships, agents use a single MCP or SDK to access hundreds of paid APIs on demand.\r\n\r\nAPI providers list once and earn per request. Developers fund one account and we handle payments, auth, and routing. The API economy was built for humans; Orthogonal makes it work for agents.",
+      "one_liner": "Agentic Payments for APIs",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Crypto / Web3",
+        "Payments",
+        "API",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769466101.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec4d813cd81be3598547a305102414461123fea9.png"
     },
     {
       "id": 31153,
@@ -3135,7 +3169,7 @@
       "name": "Voltair",
       "slug": "voltair",
       "website": "https://voltairlabs.com/",
-      "description": "Voltair builds drones that charge on transmission power lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic electrification and wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we\u2019ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+      "description": "Voltair builds drones that charge on transmission lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we\u2019ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
       "one_liner": "Self Charging Drones",
       "batch": "Winter 2026",
       "status": "Active",
@@ -3297,5 +3331,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-26T18:02:17.955426"
+  "fetched_at": "2026-01-27T00:03:19.247341"
 }
