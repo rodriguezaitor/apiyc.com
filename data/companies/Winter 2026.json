@@ -1096,6 +1096,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/45756da0fcb8d428dd8a6d3aaccf624ef98863b9.png"
     },
     {
+      "id": 31208,
+      "name": "Oximy",
+      "slug": "oximy",
+      "website": "https://oximy.com",
+      "description": "Oximy helps enterprises understand and manage AI usage across their workforce.\r\n\r\nUsed by security, finance, and transformation teams to track adoption, control spend, and manage governance as AI scales.",
+      "one_liner": "The system of record for enterprise AI usage.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Security",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769530723.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f253ec2ac4c62d3fd349aefdf584c9074cae87d.png"
+    },
+    {
       "id": 31207,
       "name": "Caretta",
       "slug": "caretta",
@@ -2395,6 +2428,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png"
     },
     {
+      "id": 31120,
+      "name": "Kyten Technologies",
+      "slug": "kyten-technologies",
+      "website": "https://kytentech.com",
+      "description": "Kyten Technologies builds custom, turnkey battery packs for air, sea, and space vehicles. \r\n100,000+ autonomous vehicles are coming to the air, sea, and space, but the legacy supply chain can't keep up. \r\nDuring our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
+      "one_liner": "Custom, turnkey battery packs for aerospace vehicles",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "industries": [
+        "Industrials",
+        "Manufacturing and Robotics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "Seattle, WA, USA",
+      "tags": [
+        "Energy Storage",
+        "Hardware",
+        "Drones",
+        "Manufacturing",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769535029.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/966b1340bdeb6a7d80ba3f1c34c89a62f57a4bff.png"
+    },
+    {
       "id": 31112,
       "name": "Burt",
       "slug": "burt",
@@ -3364,5 +3432,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-27T12:01:27.763489"
+  "fetched_at": "2026-01-27T18:02:44.552528"
 }

@@ -2829,11 +2829,11 @@
     },
     {
       "id": 30686,
-      "name": "The Interface",
-      "slug": "the-interface",
+      "name": "Interface",
+      "slug": "theinterface",
       "website": "https://www.theinterface.com",
-      "description": "The Interface enables anyone to create, interact, and share on the fly \u2014 from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
-      "one_liner": "The foundations for AI-native media",
+      "description": "Interface is a frontier research lab focused on high-fidelity human simulation. We build systems that model human appearance, behavior, and interaction for world-model research.",
+      "one_liner": "The frontier lab for human simulation",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 2,
@@ -2858,7 +2858,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754968088.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/810308579f6f68ad3885b631328af1d0668015af.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png"
     },
     {
       "id": 30685,
@@ -3481,10 +3481,10 @@
     },
     {
       "id": 30659,
-      "name": "Keystone",
-      "slug": "keystone",
-      "website": "https://withkeystone.com",
-      "description": "Keystone gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
+      "name": "Proliferate",
+      "slug": "proliferate",
+      "website": "https://proliferate.com",
+      "description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
       "one_liner": "The autonomous engineering organization",
       "batch": "Summer 2025",
       "status": "Active",
@@ -3511,7 +3511,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1749673205.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/33b2701b136a0fb7150275fcc0a29e01f3ca4320.png"
     },
     {
       "id": 30656,
@@ -5373,5 +5373,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-27T12:01:24.068444"
+  "fetched_at": "2026-01-27T18:02:41.104017"
 }

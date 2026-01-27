@@ -814,7 +814,7 @@
       "id": 30101,
       "name": "BrowserBook",
       "slug": "browserbook",
-      "website": "https://browserbook.com",
+      "website": "https://www.browserbook.com",
       "description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
       "one_liner": "The Browser Automation IDE",
       "batch": "Fall 2024",
@@ -834,11 +834,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Robotic Process Automation",
         "SaaS",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3022,5 +3022,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-27T12:01:28.032846"
+  "fetched_at": "2026-01-27T18:02:45.105408"
 }
