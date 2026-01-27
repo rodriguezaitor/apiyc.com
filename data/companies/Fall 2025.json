@@ -1228,38 +1228,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc8f9d4d6337ea663afc0947984b8597189cd0a.png"
     },
     {
-      "id": 30963,
-      "name": "Waffer",
-      "slug": "waffer",
-      "website": "https://waffer.ai",
-      "description": "Video creation is stuck between uncontrollable AI generators and complex pro tools. Waffer lets you produce and direct animated graphics videos with the ease of a text prompt, while offering the same amount of control as Adobe After Effects.",
-      "one_liner": "Lovable for Animated Graphics Videos",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 1,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "Unspecified"
-      ],
-      "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Video",
-        "Marketing",
-        "Advertising"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1760645046.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75057b31da1f157ea0dcbb87bdf889bd2cb7791d.png"
-    },
-    {
       "id": 30962,
       "name": "Denki",
       "slug": "denki",
@@ -3536,39 +3504,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/81175075c72341af5dddb09d4bca172f70accf41.png"
     },
     {
-      "id": 30876,
-      "name": "Velum Labs",
-      "slug": "velum-labs",
-      "website": "https://www.velum-labs.com/",
-      "description": "Velum is an open-source firewall for content-level access control across documents, databases, and applications. Admins define policies, and we apply them in real time across your entire stack to control what each recipient sees.\r\n\r\nOur firewall sits between your data sources and consumers (LLMs, users, vendors), enforcing policies on every request. We understand meaning in text, documents, and databases to detect sensitive information based on your policies, then apply recipient-specific controls without blocking workflows.\r\n\r\nCreate policies in natural language. Teams write rules that define what's sensitive and who should access it, and Velum enforces them consistently across all systems. When authorization changes, we can reveal tokenized data just-in-time for approved recipients, maintaining both security and utility.\r\n\r\nWe integrate directly into your existing infrastructure. For AI workflows, we intercept prompts, responses, and retrievals to prevent sensitive information from leaking into or out of models. For enterprise systems like Salesforce, SAP, or Workday, we extend policy enforcement to exports, reports, and syncs.\r\n\r\nVelum is designed for scale and compliance. We provide encryption and structure-preserving tokenization for high-throughput pipelines, with multi-cloud deployment options and configurable data residency per tenant to meet your compliance requirements.",
-      "one_liner": "Firewall that controls access to information across AI and humans",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Machine Learning",
-        "Security",
-        "Open Source",
-        "Privacy"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1762847882.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png"
-    },
-    {
       "id": 30875,
       "name": "Veria Labs",
       "slug": "veria-labs",
@@ -5098,5 +5033,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-01-27T00:03:18.089110"
+  "fetched_at": "2026-01-27T06:01:44.423479"
 }
