@@ -280,7 +280,7 @@
       "name": "Pollinate",
       "slug": "pollinate",
       "website": "https://www.pollinate.tech/",
-      "description": "Supply chains still run on spreadsheets and inboxes because ERPs are rigid and the data is messy.\r\n\r\nWe start with procurement, by automating three-way match: extracting supplier invoices from email and matching them to the correct PO and receipt across ERPs.\r\n\r\nLearn more at pollinate.tech",
+      "description": "Supply chains still run on spreadsheets and inboxes because ERPs are rigid and the data is messy. We're solving this problem by building an ontology where agents can operate and provide outcomes for our customers.\r\n\r\nWe start with procurement, by automating three-way match: extracting supplier invoices from email and matching them to the correct PO and receipt across ERPs.\r\n\r\nLearn more at pollinate.tech",
       "one_liner": "AI Agents for the supply chain.",
       "batch": "Winter 2026",
       "status": "Active",
@@ -297,9 +297,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Logistics",
-        "Supply Chain",
-        "AI"
+        "Supply Chain"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1265,11 +1265,11 @@
     },
     {
       "id": 31191,
-      "name": "Clice AI",
-      "slug": "clice-ai",
+      "name": "Clice",
+      "slug": "clice",
       "website": "https://www.clice.ai",
-      "description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-      "one_liner": "",
+      "description": "",
+      "one_liner": "Reinforcement learning environments for long horizon agent journeys",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -3101,8 +3101,8 @@
       "name": "Haladir",
       "slug": "haladir",
       "website": "https://www.haladir.com/",
-      "description": "RLVR changed the game for post-training. We're here to build and supply the next-generation of coding data and RL environments using model checking languages and formal verification. In a world where solid coding data is becoming increasingly sparse, Haladir provides the data and environments needed to build the next generation of coding models.",
-      "one_liner": "Rooting Formal Methods into Codegen RL & Data",
+      "description": "Haladir is an AI-powered mainframe modernization suite that helps enterprises understand and transform their legacy systems. Our first product, Rosetta, automatically generates comprehensive documentation from COBOL codebases, enabling teams to understand millions of lines of legacy code without months of manual analysis. Our second product, Exodus, translates COBOL to modern languages like Java and C# .NET while preserving business logic through property-based testing, formal verification, and custom models.",
+      "one_liner": "AI-Enabled Mainframe Modernization and Code Translation.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -3118,16 +3118,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Machine Learning",
-        "Reinforcement Learning",
-        "Data Engineering"
+        "Data Engineering",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1766374394.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/891b1ae1a3af72452ca88d9f14e1dbe9e18217c6.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png"
     },
     {
       "id": 31023,
@@ -3365,5 +3364,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-27T06:01:47.377512"
+  "fetched_at": "2026-01-27T12:01:27.763489"
 }

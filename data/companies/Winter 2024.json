@@ -3707,8 +3707,8 @@
       "name": "Superagent",
       "slug": "superagent",
       "website": "https://superagent.sh/",
-      "description": "Superagent helps developers make their AI apps safe.\r\n\r\nWe provide:\r\n- An SDK with guardrails for runtime protection \u2014 stops data leaks, blocks harmful actions\r\n- Red teaming assessments to surface failures\r\n- A safety page to prove it to your customers\r\n\r\nPowered by a safety agent that runs in your environment \u2014 works with any model.",
-      "one_liner": "Making AI apps safe",
+      "description": "Superagent helps developers make their AI apps safe.\r\n\r\nWe offer:\r\n- Red team testing \u2014 specialized attack agents probe your production AI for data leaks, harmful outputs, and unwanted actions\r\n- Structured reports with findings, evidence, and remediation guidance\r\n- A Safety Page to prove it to your customers \u2014 use it in sales, procurement reviews, and security questionnaires\r\n\r\nBuilt for companies selling AI into enterprises and regulated industries.",
+      "one_liner": "Red teaming for AI agents",
       "batch": "Winter 2024",
       "status": "Active",
       "team_size": 2,
@@ -8277,5 +8277,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-27T06:01:41.166485"
+  "fetched_at": "2026-01-27T12:01:21.354885"
 }
