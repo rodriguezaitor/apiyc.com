@@ -2867,7 +2867,7 @@
       "name": "Adni",
       "slug": "adni",
       "website": "https://www.adni.ai/",
-      "description": "Healthcare workers use Adni to autonomously find jobs, buy gear, connect with peers, manage credentials, and more. Leading organizations, like Penn Medicine, MedPro, and PRN Healthcare, use Adni\u2019s clinician network and AI voice agents to source, screen, and engage healthcare talent faster and cheaper.\r\n\r\nBacked by Y Combinator, Flare Capital, Liquid 2 Ventures, Fresco Capital, Augment Ventures, Crista Galli Ventures, and more.",
+      "description": "Healthcare workers use Adni's AI career assistant, Allie, to autonomously find jobs, buy gear, connect with peers, manage credentials, and more. Leading organizations, like Penn Medicine, MedPro, and PRN Healthcare, use Adni\u2019s clinician network and AI voice agents to source, screen, and engage healthcare talent faster and cheaper.\r\n\r\nBacked by Y Combinator, Flare Capital, Liquid 2 Ventures, Fresco Capital, Augment Ventures, Crista Galli Ventures, and more.",
       "one_liner": "AI career platform for healthcare workers",
       "batch": "Summer 2021",
       "status": "Active",
@@ -2885,9 +2885,9 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Marketplace",
         "SaaS",
-        "B2B",
         "Recruiting",
         "Healthcare"
       ],
@@ -3660,7 +3660,7 @@
       "one_liner": "Automated e2e screenshot testing without writing or maintaining tests",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 5,
+      "team_size": 15,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -3677,7 +3677,7 @@
         "Hard Tech",
         "SaaS"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -13412,5 +13412,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-28T12:01:14.098649"
+  "fetched_at": "2026-01-28T18:03:12.577419"
 }

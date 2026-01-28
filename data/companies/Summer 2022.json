@@ -3796,7 +3796,7 @@
         "AI Assistant"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1654731943.0,
@@ -5541,7 +5541,7 @@
         "Telecommunications"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1655301986.0,
@@ -6163,8 +6163,8 @@
       "name": "Wolfia",
       "slug": "wolfia",
       "website": "https://wolfia.com",
-      "description": "We help sales, security, and support teams get answers in seconds without depending on subject-matter experts.\r\n\r\nOur AI agent connects to every source that already holds the truth (Google Drive, Notion, Slack, email, website, trust center, SOC 2 docs, etc.). It keeps that knowledge graph fresh on its own and drafts, validates, and formats responses to customer questions, security questionnaires, and RFPs, all in the background, so your team just reviews and ships.",
-      "one_liner": "We help sales and security teams answer customer questions",
+      "description": "We help security, legal and sales teams get answers in seconds without depending on subject-matter experts.\r\n\r\nOur AI agent connects to every source that already holds the truth (Google Drive, Notion, Slack, email, website, trust center, SOC 2 docs, etc.). It keeps that knowledge graph fresh on its own and drafts, validates, and formats responses to customer questions, security questionnaires, and RFPs, all in the background, so your team just reviews and ships.",
+      "one_liner": "We help security, legal and sales teams answer customer questions",
       "batch": "Summer 2022",
       "status": "Active",
       "team_size": 7,
@@ -6183,8 +6183,9 @@
       "locations": "Austin, TX, USA; Remote",
       "tags": [
         "Generative AI",
+        "Security",
         "Sales",
-        "Sales Enablement"
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8108,5 +8109,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-28T12:01:15.930384"
+  "fetched_at": "2026-01-28T18:03:14.381945"
 }

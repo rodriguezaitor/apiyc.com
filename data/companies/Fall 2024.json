@@ -154,8 +154,8 @@
       "name": "Synth",
       "slug": "synth-3",
       "website": "https://www.usesynth.ai",
-      "description": "You share production/eval traces for your AI software and sync your code. Synth asynchronously runs experiments to develop, improve, and maintain your software and hands code/prompts/models off to your team. Designed for teams building vertical AI software/agents.",
-      "one_liner": "We build Research Engineering Agents",
+      "description": "Integrate your existing production code - in any language or framework - with apis that make it easy to optimize prompts from production traffic or development benchmarks",
+      "one_liner": "Prompt Optimization for Any Agent",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -171,6 +171,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Reinforcement Learning"
       ],
       "stage": "Early",
@@ -2189,7 +2190,7 @@
       "one_liner": "Build AI applications and automations for supply chain operations",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 1,
+      "team_size": 3,
       "industry": "B2B",
       "subindustry": "B2B -> Supply Chain and Logistics",
       "industries": [
@@ -3022,5 +3023,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-28T12:01:21.884439"
+  "fetched_at": "2026-01-28T18:03:20.284129"
 }
