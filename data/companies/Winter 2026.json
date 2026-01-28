@@ -867,7 +867,7 @@
       "name": "Polymath",
       "slug": "polymath",
       "website": "https://polymathlabs.ai/",
-      "description": "In order for AI to better serve people and create value in the economy, agents need to act more reliably and autonomously across long horizons. We're building the infrastructure to get there.\r\n\r\nCurrent AI agents excel at tasks in controlled settings under human supervision. However, the highest value work unfolds over days or weeks, requires fluency across dozens of tools, and the ability to navigate changing conditions. \r\n\r\nPolymath creates production-grade RL environments where agents tackle realistic tasks over extended time horizons, and success is measured by real outcomes. We work with frontier labs to develop and scale environments that expand the frontier of what agents are capable of.\r\n\r\nWe're starting with software engineering environments, but plan to extend to other domains as well. We envision a future where reliable, autonomous agents can amplify what people can accomplish alone, enabling humanity to tackle the most difficult problems and accelerate progress.",
+      "description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. \r\n\r\nWe believe that the primary bottleneck to getting agents to perform reliably across long horizons is the quality, complexity, and scale of RL environments.\r\n\r\nWe're building the infrastructure to produce high-fidelity training and evaluation environments at scale, providing frontier labs with the building blocks they need to make the next breakthrough.",
       "one_liner": "Long-horizon RL",
       "batch": "Winter 2026",
       "status": "Active",
@@ -1122,7 +1122,7 @@
         "Enterprise Software"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1769530723.0,
@@ -1591,6 +1591,39 @@
       "is_top_company": false,
       "launched_at": 1766024605.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6fd6b3bc7fb91c70acd850ce7a537f0e519187f.png"
+    },
+    {
+      "id": 31176,
+      "name": "Rhizome AI",
+      "slug": "rhizome-ai",
+      "website": "https://rhizomeai.com/",
+      "description": "$8 trillion dollars of market cap needs to know what the FDA thinks. Rhizome AI makes that happen. \r\n\r\nUsers ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. The data is pulled from terabytes of authoritative regulatory & clinical databases. \r\n\r\nChetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document & imaging processing, closing $7m as the technical lead. \r\n\r\nBeing so plugged into the AI world, he saw lots of AI drug discovery companies, but very few AI companies focused on bringing those drugs to market. Talking to people, it quickly became clear that a big, expensive barrier was understanding FDA thinking. \r\n\r\nRhizome\u2019s first product, Rhizome Ask, went from launch to six-figures in revenue during 2025.",
+      "one_liner": "Always know what the FDA thinks",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 1,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Jersey City, NJ, USA; Remote",
+      "tags": [
+        "SaaS",
+        "Biotech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769550752.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bcee7f777db1539a455395ef7d0f4174a507995.png"
     },
     {
       "id": 31175,
@@ -2449,9 +2482,6 @@
       ],
       "locations": "Seattle, WA, USA",
       "tags": [
-        "Energy Storage",
-        "Hardware",
-        "Drones",
         "Manufacturing",
         "Aerospace"
       ],
@@ -3432,5 +3462,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-27T18:02:44.552528"
+  "fetched_at": "2026-01-28T00:03:06.787871"
 }

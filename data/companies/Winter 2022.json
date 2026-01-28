@@ -10055,43 +10055,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4227cb01a0152cba77ed3792cf3513cba3e07e77.png"
     },
     {
-      "id": 25320,
-      "name": "Wingback",
-      "slug": "wingback",
-      "website": "https://www.wingback.com/",
-      "description": "Wingback provides tools and APIs for SaaS pricing and packaging. We are infrastructure that allows SaaS startups to deploy any set of features of their product using any pricing model. It enables non-technical teams to implement pricing and packaging changes and execute product-led growth campaigns without engineering involvement.",
-      "one_liner": "Wingback provides tools and APIs for SaaS pricing and packaging.",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 12,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "San Francisco, CA, USA; Remote",
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "API",
-        "Enterprise",
-        "Infrastructure"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1639087626.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de4dd6debd3ed51accf437ceb7b1b316e5fc5f36.png"
-    },
-    {
       "id": 25319,
       "name": "Samos Insurance",
       "slug": "samos-insurance",
@@ -10445,7 +10408,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1648055687.0,
@@ -11388,8 +11351,8 @@
       "name": "Andi",
       "slug": "andi",
       "website": "https://andisearch.com",
-      "description": "Instead of just links, Andi gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n\u2705  Answer questions\r\n\ud83e\udde0  Find, summarize and explain information\r\n\ud83d\udd0d  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\n",
-      "one_liner": "Search for the next generation using generative AI",
+      "description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n\u2705  Answer questions\r\n\ud83e\udde0  Find, summarize and explain information\r\n\ud83d\udd0d  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\n",
+      "one_liner": "AI Search for the Next Generation",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 2,
@@ -11407,11 +11370,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Consumer",
         "API",
-        "Search"
+        "Search",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -13733,6 +13696,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d5821bc4ff8ad8ac82401a9ffd37cd8adb868bc.png"
     },
     {
+      "id": 25320,
+      "name": "Wingback",
+      "slug": "wingback",
+      "website": "https://www.wingback.com/",
+      "description": "Wingback provides tools and APIs for SaaS pricing and packaging. We are infrastructure that allows SaaS startups to deploy any set of features of their product using any pricing model. It enables non-technical teams to implement pricing and packaging changes and execute product-led growth campaigns without engineering involvement.",
+      "one_liner": "Wingback provides tools and APIs for SaaS pricing and packaging.",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 12,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "San Francisco, CA, USA; Remote",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "API",
+        "Enterprise",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1639087626.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/de4dd6debd3ed51accf437ceb7b1b316e5fc5f36.png"
+    },
+    {
       "id": 25278,
       "name": "Pelm",
       "slug": "pelm",
@@ -13807,5 +13807,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-01-27T18:02:36.844894"
+  "fetched_at": "2026-01-28T00:02:58.941288"
 }

@@ -3276,8 +3276,8 @@
       "name": "Thunder Compute",
       "slug": "thunder-compute",
       "website": "https://www.thundercompute.com",
-      "description": "Self-serve GPUs in VS Code with persistent storage, snapshots, and hot-swappable hardware, with prices 80% lower than AWS.",
-      "one_liner": "Launch GPU instances in one click for 80% less",
+      "description": "One-click GPU instances with persistent storage, snapshots, and hot-swappable hardware, with the lowest prices anywhere.",
+      "one_liner": "The world's cheapest GPU cloud",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 4,
@@ -3293,11 +3293,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Data Science",
         "Cloud Computing",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8215,5 +8215,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-27T18:02:38.746566"
+  "fetched_at": "2026-01-28T00:03:00.891411"
 }

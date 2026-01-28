@@ -147,7 +147,7 @@
       "one_liner": "Pierre is a new, opinionated, git platform.",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 9,
+      "team_size": 10,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -168,7 +168,7 @@
         "Productivity",
         "Collaboration"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -6402,8 +6402,8 @@
       "name": "Backdrop",
       "slug": "backdrop",
       "website": "https://www.joinbackdrop.com",
-      "description": "We are an expense management and payments platform for the entertainment industry, which still rely on spreadsheets and paper receipts to manage the $650B+ they spend each year. ",
-      "one_liner": "Vertical SaaS for $650B+ Film, TV, Music & Event Production Industry ",
+      "description": "",
+      "one_liner": "Building what\u2019s next with AI.",
       "batch": "Winter 2023",
       "status": "Active",
       "team_size": 2,
@@ -6418,11 +6418,10 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "Entertainment",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -9331,5 +9330,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-01-27T18:02:38.029290"
+  "fetched_at": "2026-01-28T00:03:00.170218"
 }

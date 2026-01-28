@@ -3779,11 +3779,11 @@
     },
     {
       "id": 28885,
-      "name": "Telophase",
-      "slug": "telophase",
-      "website": "https://telophase.dev",
+      "name": "Hiro",
+      "slug": "hiro",
+      "website": "https://hiro.is",
       "description": "",
-      "one_liner": "Reach vulnerability inbox-zero",
+      "one_liner": "Your first security hire",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 2,
@@ -5333,7 +5333,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1689189501.0,
@@ -7395,5 +7395,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-27T18:02:39.774242"
+  "fetched_at": "2026-01-28T00:03:01.927368"
 }
