@@ -686,8 +686,8 @@
       "name": "Simbie AI",
       "slug": "simbie-ai",
       "website": "http://www.simbie.ai",
-      "description": "Simbie AI voice agents are EHR-integrated and answer SMB medical practices' phones and call their patients for them. They handle both admin (scheduling) and clinical (results) tasks. Simbie is powering the return to independent medicine\u201450% of care delivered today\u2014as doctors and patients badly want. After years of healthcare consolidation that left patients worse off and physician burnout surging, we're giving SMB the (infinite) scale to compete with hospitals, without the overhead.",
-      "one_liner": "AI Voice Staff for SMB Medical Practices",
+      "description": "",
+      "one_liner": "We get patients to their next appointment",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 5,
@@ -704,9 +704,9 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Health Tech",
-        "AI"
+        "Health Tech"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -7395,5 +7395,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-28T18:03:15.085979"
+  "fetched_at": "2026-01-29T00:04:17.506099"
 }

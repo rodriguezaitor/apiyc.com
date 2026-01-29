@@ -458,9 +458,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "SaaS",
         "GovTech",
-        "B2B"
+        "B2B",
+        "Legal",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2468,8 +2470,8 @@
       "name": "Kyten Technologies",
       "slug": "kyten-technologies",
       "website": "https://kytentech.com",
-      "description": "Kyten Technologies builds custom, turnkey battery packs for air, sea, and space vehicles. \r\n100,000+ autonomous vehicles are coming to the air, sea, and space, but the legacy supply chain can't keep up. \r\nDuring our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
-      "one_liner": "Custom, turnkey battery packs for aerospace vehicles",
+      "description": "Kyten Technologies is building a factory to manufacture custom aerospace-grade battery packs. \r\n100,000+ drones, submarines, and satellites are being built in the US, but the legacy supply chain can't keep up. \r\nDuring our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
+      "one_liner": "Custom aerospace-grade battery pack factory",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -3496,5 +3498,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-28T18:03:19.765556"
+  "fetched_at": "2026-01-29T00:04:22.113818"
 }

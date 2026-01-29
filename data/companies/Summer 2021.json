@@ -9387,11 +9387,11 @@
       "name": "Archbee",
       "slug": "archbee",
       "website": "https://www.archbee.com",
-      "description": "We help your team build documentation portals. We provide the CMS, publishing and hosting infrastructure. All that's left for you is to focus on the content. Then your users actually get questions answered by LLM tech.",
-      "one_liner": "Answer user and dev questions with documentation (using Generative AI)",
+      "description": "Build beautiful knowledge portals that are easy to navigate, search, share and contribute to.",
+      "one_liner": "TURN STATIC DOCS INTO INSTANT ANSWERS",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 10,
+      "team_size": 12,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -9404,13 +9404,13 @@
         "Remote",
         "Fully Remote"
       ],
-      "locations": "Bucharest, Bucharest, Romania; Bucharest, Romania; Remote",
+      "locations": "Bucharest, Bucharest, Romania; Remote",
       "tags": [
         "Developer Tools",
         "B2B"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1627303283.0,
@@ -13412,5 +13412,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-01-28T18:03:12.577419"
+  "fetched_at": "2026-01-29T00:04:15.102210"
 }

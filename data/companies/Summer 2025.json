@@ -2531,15 +2531,15 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1754954871.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41742610e9abf1c307890c4206c045f1bce68bce.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cbae55e86532c01c20d7392309f9280f190548.png"
     },
     {
       "id": 30696,
       "name": "GhostEye",
       "slug": "ghosteye",
       "website": "https://ghosteye.ai",
-      "description": "GhostEye simulates AI-powered attacks like deepfakes, vishing, and personalized phishing so your team's seen them before real ones hit.",
-      "one_liner": "Phishing Simulations for the AI era",
+      "description": "GhostEye prepares your team for the attacks happening right now, not the ones from five years ago.",
+      "one_liner": "Security awareness built like a real attack",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2928,8 +2928,8 @@
       "name": "Louiza Labs",
       "slug": "louiza-labs",
       "website": "https://louiza-labs.com",
-      "description": "Delivering real-world patient insights into actionable data for pharma and downstream industries.\r\n\r\nWe deliver real-world patient insights that explain the primary reasons drugs fail commercially: lack of effectiveness, poor adherence, and payer resistance. Focusing on women's health drugs + GLP-1's.\r\n\r\n",
-      "one_liner": "AI Powered Patient Insights ",
+      "description": "Synthesizing  real-world patient insights into actionable data for post-market pharmaceuticals.\r\n\r\nWe deliver real-world patient insights to pharmaceutical teams that explain the primary reasons drugs fail commercially: lack of effectiveness, poor adherence, and payer resistance. \r\n\r\nFocusing initially on women's health drugs + GLP-1's.\r\n\r\n",
+      "one_liner": "AI Powered Patient Insights + Pharmcuetical Intelligence",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -5373,5 +5373,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-28T18:03:16.405568"
+  "fetched_at": "2026-01-29T00:04:18.825045"
 }

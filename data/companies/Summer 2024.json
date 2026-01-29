@@ -7331,7 +7331,7 @@
       "name": "Superunit",
       "slug": "superunit",
       "website": "http://superunit.ai",
-      "description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies\u2014faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with several background screening organizations and are processing thousands of verifications per month.",
+      "description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies\u2014faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with background screeners and banks to process thousands of verifications per month.",
       "one_liner": "Faster, more profitable background checks with AI",
       "batch": "Summer 2024",
       "status": "Active",
@@ -7349,9 +7349,10 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "Artificial Intelligence",
-        "Machine Learning",
         "SaaS",
-        "B2B"
+        "B2B",
+        "HR Tech",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8215,5 +8216,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-01-28T18:03:14.044499"
+  "fetched_at": "2026-01-29T00:04:16.523339"
 }
