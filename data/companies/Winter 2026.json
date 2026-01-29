@@ -871,7 +871,7 @@
       "name": "Polymath",
       "slug": "polymath",
       "website": "https://polymathlabs.ai/",
-      "description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. \r\n\r\nWe believe that the primary bottleneck to getting agents to perform reliably across long horizons is the quality, complexity, and scale of RL environments.\r\n\r\nWe're building the infrastructure to produce high-fidelity training and evaluation environments at scale, providing frontier labs with the building blocks they need to make the next breakthrough.",
+      "description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting agents to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe're building environment factories to produce high-fidelity training and evaluation environments at scale, providing frontier labs with the building blocks they need to make the next breakthrough.",
       "one_liner": "Long-horizon RL",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2119,7 +2119,8 @@
       "tags": [
         "Robotics",
         "Computer Vision",
-        "Food Tech"
+        "Food Tech",
+        "Maritime"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3030,7 +3031,7 @@
       "name": "Hlabs",
       "slug": "hlabs",
       "website": "https://www.hlaboratories.com",
-      "description": "Robotics is going to be one of the largest industries the world has ever seen, but right now teams have to build so much in house just to get something to move. Hlabs is making a plug-and-play ecosystem of robotic parts with simple opensource software libraries to reduce the complexity in building a robot.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\nFrom the first launch in October 2025 over 40 robotics companies have placed orders for the actuator control product. Hlabs is targeting Q1 '26 for the release of several additional plug-and-play products including an Nvidia Jetson powered main board, a low cost expandable camera system, and wireless communication/video module to make every robot wireless out of the box.\r\n\r\n",
+      "description": "Robotics is going to be one of the largest industries the world has ever seen, but right now teams have to build so much in house just to get something to move. Hlabs is working on bringing robotics manufacturing back to the USA.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\n",
       "one_liner": "Developer friendly robotics",
       "batch": "Winter 2026",
       "status": "Active",
@@ -3046,10 +3047,10 @@
       ],
       "locations": "Austin, TX, USA",
       "tags": [
+        "Artificial Intelligence",
         "Hardware",
         "Robotics",
-        "Electronics",
-        "AI"
+        "Electronics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3498,5 +3499,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-29T00:04:22.113818"
+  "fetched_at": "2026-01-29T06:09:49.274835"
 }
