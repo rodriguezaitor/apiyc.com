@@ -1507,40 +1507,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3c3a99ff41b4e029c9cc8c8084119c4e97eb919.png"
     },
     {
-      "id": 26042,
-      "name": "Pigeon",
-      "slug": "pigeon-2",
-      "website": "https://www.usepigeon.io",
-      "description": "Pigeon is a relationship based technology platform that facilitates the creation and management of loans between friends, family, loved ones, and anyone who trusts one another.\r\n\r\nBy providing smarter ways for people to mix money with their relationships, Pigeon seeks to empower individuals to borrow and lend money with the people they trust.",
-      "one_liner": "Simplifying loans with your friends & family.",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "Fintech",
-      "subindustry": "Fintech",
-      "industries": [
-        "Fintech"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Miami, FL, USA; Remote",
-      "tags": [
-        "Fintech",
-        "Consumer",
-        "LegalTech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1643783750.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b139123800489407f058e0b228890ae6c0af4d3a.png"
-    },
-    {
       "id": 26041,
       "name": "The Ankler",
       "slug": "the-ankler",
@@ -12689,6 +12655,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4080cdbc25e0833a1c37e7cb78ce01ff0a6683fd.png"
     },
     {
+      "id": 26042,
+      "name": "Pigeon",
+      "slug": "pigeon-2",
+      "website": "https://www.usepigeon.io",
+      "description": "Pigeon is a relationship based technology platform that facilitates the creation and management of loans between friends, family, loved ones, and anyone who trusts one another.\r\n\r\nBy providing smarter ways for people to mix money with their relationships, Pigeon seeks to empower individuals to borrow and lend money with the people they trust.",
+      "one_liner": "Simplifying loans with your friends & family.",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 5,
+      "industry": "Fintech",
+      "subindustry": "Fintech",
+      "industries": [
+        "Fintech"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Miami, FL, USA; Remote",
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "LegalTech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1643783750.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b139123800489407f058e0b228890ae6c0af4d3a.png"
+    },
+    {
       "id": 25966,
       "name": "Sendo",
       "slug": "sendo",
@@ -13807,5 +13807,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-01-29T12:03:40.155491"
+  "fetched_at": "2026-01-29T18:06:53.990534"
 }

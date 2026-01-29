@@ -643,7 +643,7 @@
       "name": "Balance",
       "slug": "getbalance",
       "website": "https://getbalance.ai",
-      "description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\nWe currently have 20 customers in Europe and growing +20% MoM",
+      "description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\n",
       "one_liner": "Full-Stack AI Accounting",
       "batch": "Winter 2026",
       "status": "Active",
@@ -659,9 +659,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2503,7 +2503,7 @@
       "name": "Burt",
       "slug": "burt",
       "website": "https://www.trainburt.com/",
-      "description": "We help teams fine tune and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models like gpt-5 and claude are impressive and have their place but for your most important tasks you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.",
+      "description": "We help teams train and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models are impressive and have their place but at production scale and usage you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.\r\n\r\nWe've helped teams build small, specialized LLMs/VLMs that outperform SOTA models like gemini-3-flash/pro while being 10x faster and cheaper. ",
       "one_liner": "Easily fine tune and deploy specialized models",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2519,9 +2519,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
-        "Reinforcement Learning"
+        "Reinforcement Learning",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3499,5 +3499,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-29T12:03:46.690781"
+  "fetched_at": "2026-01-29T18:07:01.698698"
 }

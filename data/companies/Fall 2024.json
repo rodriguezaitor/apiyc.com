@@ -2613,31 +2613,32 @@
     },
     {
       "id": 30024,
-      "name": "Upshift",
-      "slug": "upshift",
-      "website": "https://upshift.dev",
-      "description": "Upshift is an asynchronous coding agent workspace to help your software development lifecycle.\r\n\r\nAccess Claude Code and other agents in a shared team environment, so you can explore them easily, share prompt techniques, and unlock the value of asynchronous AI in your organization.\r\n\r\nYou can use Upshift today to automate dependency bumps, tidy up sprawling debt code, and handle routine pull requests.",
-      "one_liner": "Cloud workspace for coding agents",
+      "name": "Crouton",
+      "slug": "crouton",
+      "website": "https://usecrouton.com",
+      "description": "Crouton is the living map of your organization.\r\n\r\nIt\u2019s for founders and operators at growing companies who need to understand how people, teams, roles, and ownership actually fit together.\r\n\r\nToday they piece this together from org charts, Notion docs, spreadsheets, Slack, and memory and then redo it every time something changes.",
+      "one_liner": "The living map of your organization",
       "batch": "Fall 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
+      "subindustry": "B2B -> Operations",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Operations"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "New York, NY, USA",
       "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730739931.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/25be37475616d06861cf90a8c0fa61b3c3cf29ae.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/23fc8154fa836adeef8240d282c8bf38c8c6f549.png"
     },
     {
       "id": 30023,
@@ -3023,5 +3024,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-01-29T12:03:47.130745"
+  "fetched_at": "2026-01-29T18:07:02.203057"
 }
