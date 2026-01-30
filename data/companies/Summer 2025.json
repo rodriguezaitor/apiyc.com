@@ -2776,15 +2776,10 @@
         "Analytics"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "AIOps",
-        "Generative AI",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -2929,7 +2924,7 @@
       "slug": "louiza-labs",
       "website": "https://louiza-labs.com",
       "description": "Synthesizing  real-world patient insights into actionable data for post-market pharmaceuticals.\r\n\r\nWe deliver real-world patient insights to pharmaceutical teams that explain the primary reasons drugs fail commercially: lack of effectiveness, poor adherence, and payer resistance. \r\n\r\nFocusing initially on women's health drugs + GLP-1's.\r\n\r\n",
-      "one_liner": "AI Powered Patient Insights for Pharmaceuticall Intelligence",
+      "one_liner": "AI Powered Patient Insights for Pharmaceutical Intelligence",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -5373,5 +5368,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-01-30T00:04:22.668194"
+  "fetched_at": "2026-01-30T06:10:33.511041"
 }

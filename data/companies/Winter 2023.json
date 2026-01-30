@@ -7479,14 +7479,14 @@
     },
     {
       "id": 26884,
-      "name": "AlphaWatch AI",
-      "slug": "alphawatch-ai",
-      "website": "https://alphawatch.ai",
-      "description": "Alphawatch AI powers real-world market intelligence for Fortune 500s, $100B+ AUM investment funds, and global pharmaceutical leaders.\r\n\r\nWe combine proprietary data with AI-driven, on-the-ground collection, reaching real operators in real time to surface forward-looking insights that inform billion-dollar market entries, acquisitions, and strategic decisions.",
-      "one_liner": "Primary & Market Research",
+      "name": "RaptorGrid",
+      "slug": "raptorgrid",
+      "website": "https://raptorgrid.com",
+      "description": "RaptorGrid generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
+      "one_liner": "AI Employees for Finance",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 7,
+      "team_size": 10,
       "industry": "Fintech",
       "subindustry": "Fintech",
       "industries": [
@@ -7496,9 +7496,9 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Fully Remote"
+        "Partly Remote"
       ],
-      "locations": "New York, NY, USA; Remote",
+      "locations": "New York, NY, USA",
       "tags": [
         "Generative AI",
         "Finance",
@@ -7511,7 +7511,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1675123352.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/023671fb6254cfaca19b56741b1b6b230aeb6a64.png"
     },
     {
       "id": 26837,
@@ -9330,5 +9330,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-01-30T00:04:19.621731"
+  "fetched_at": "2026-01-30T06:10:30.438638"
 }
