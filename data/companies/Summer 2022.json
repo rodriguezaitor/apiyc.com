@@ -1985,7 +1985,7 @@
       "name": "Lamin",
       "slug": "lamin",
       "website": "https://lamin.ai",
-      "description": "Query, trace, and validate datasets and models at scale.\r\n\r\nAutomate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
+      "description": "Query, trace, and validate datasets and models at scale. Automate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
       "one_liner": "Open data framework for biology",
       "batch": "Summer 2022",
       "status": "Active",
@@ -1997,12 +1997,10 @@
         "Healthcare IT"
       ],
       "regions": [
-        "Germany",
-        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "Munich, BY, Germany",
+      "locations": "",
       "tags": [
         "Developer Tools",
         "Machine Learning",
@@ -3392,18 +3390,18 @@
       ],
       "locations": "Kyiv, Ukraine; Remote",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Enterprise",
         "Big Data",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1659698356.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c238653d6d11d74bfeda7930d08d87818ac2d50f.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png"
     },
     {
       "id": 26859,
@@ -8109,5 +8107,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-30T06:10:31.480995"
+  "fetched_at": "2026-01-30T12:02:49.579192"
 }

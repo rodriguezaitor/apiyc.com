@@ -935,8 +935,8 @@
       "name": "Bubble Lab",
       "slug": "bubble-lab",
       "website": "https://bubblelab.ai/",
-      "description": "Bubble Lab is an open-source Typescript-native workflow automation platform. Unlike tools that use proprietary JSON, you describe a workflow in natural language, and instantly get both a visual flow and fully-typed TypeScript code side-by-side. It offers built-in observability, testability, and scalability out of the box. \r\n",
-      "one_liner": "Open-source, Typescript-native agentic workflow builder ",
+      "description": "Bubble Lab (YC W'26) lets operations teams build production workflows in minutes, just by prompting. \r\n\r\nAlready trusted by thousands of professionals in BizOps, SalesOps, and RevOps who are saving hundreds of hours from manual work by automating processes across the tools they use daily.",
+      "one_liner": "Prompt once, automate forever.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -952,9 +952,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Workflow Automation"
+        "Workflow Automation",
+        "Operations",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3561,5 +3561,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-30T06:10:36.847669"
+  "fetched_at": "2026-01-30T12:02:55.913794"
 }
