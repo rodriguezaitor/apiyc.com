@@ -1836,7 +1836,7 @@
       "id": 31154,
       "name": "Orthogonal",
       "slug": "orthogonal",
-      "website": "https://orthogonal.sh",
+      "website": "https://orthogonal.com",
       "description": "APIs weren\u2019t built for agents. Orthogonal fixes that. Developers and agents get instant access to hundreds of APIs through our MCP or SDK. No API key management, no billing headaches, pay as you go. API providers list once and become instantly discoverable.",
       "one_liner": "Agentic Payments for APIs",
       "batch": "Winter 2026",
@@ -2135,7 +2135,7 @@
       "slug": "codewisp",
       "website": "https://codewisp.net/",
       "description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game\u2019s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
-      "one_liner": "Anyone can easily create real web games with AI",
+      "one_liner": "Anyone can create real games with AI",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 3,
@@ -2867,7 +2867,7 @@
       "name": "Ruma Care",
       "slug": "ruma-care",
       "website": "https://rumacare.com",
-      "description": "Ruma Care automates prior authorizations - we\u2019re starting with clinics that administer the most expensive specialty medications.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients\u2019 insurance after administration. \r\n\r\nBecause they\u2019re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, providers don\u2019t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting insurance. \r\n\r\nWe do this in three ways: \r\n1 For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
+      "description": "Ruma Care automates prior authorizations - we\u2019re starting with clinics that administer the most expensive specialty medications.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients\u2019 insurance. \r\n\r\nBecause they\u2019re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, providers don\u2019t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting insurance. \r\n\r\nWe do this in three ways: \r\n1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
       "one_liner": "We help clinics get patients on biologics faster",
       "batch": "Winter 2026",
       "status": "Active",
@@ -2891,7 +2891,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1769561054.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/96d6cbd2dad919f1782589f2fb4568b9499bf534.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/34241c57767208be0982fd04163c52d69a91a82c.png"
     },
     {
       "id": 31083,
@@ -3162,6 +3162,40 @@
       "is_top_company": false,
       "launched_at": 1763141207.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png"
+    },
+    {
+      "id": 31048,
+      "name": "FullSeam",
+      "slug": "fullseam",
+      "website": "https://www.fullseam.com",
+      "description": "FullSeam is an AI employee for finance and accounting teams. It logs into a company's accounting, billing, banking, and CRM tools and completes routine tasks typically done manually \u2014 like accounts receivable, accounts payable, billing, and updating financial records.",
+      "one_liner": "FullSeam is an AI employee for finance and accounting teams.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Finance and Accounting",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [
+        "FinOps",
+        "Fintech",
+        "SaaS",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769713322.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png"
     },
     {
       "id": 31040,
@@ -3499,5 +3533,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-29T18:07:01.698698"
+  "fetched_at": "2026-01-30T00:04:25.838875"
 }
