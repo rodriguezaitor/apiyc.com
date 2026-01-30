@@ -2701,8 +2701,8 @@
       "name": "Kobalt Labs",
       "slug": "kobalt-labs",
       "website": "https://www.kobaltlabs.com/",
-      "description": "Kobalt has built an AI copilot to automate manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt\u2019s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
-      "one_liner": "AI copilot to automate risk ops for fintechs and banks",
+      "description": "Automate and strengthen manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt\u2019s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
+      "one_liner": "AI-powered risk and compliance for financial institutions",
       "batch": "Summer 2023",
       "status": "Active",
       "team_size": 5,
@@ -2713,10 +2713,14 @@
         "Operations"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Banking as a Service",
+        "Fintech"
+      ],
       "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
@@ -7395,5 +7399,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-01-30T12:02:50.503672"
+  "fetched_at": "2026-01-30T18:05:26.828170"
 }

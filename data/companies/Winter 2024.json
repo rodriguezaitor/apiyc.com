@@ -4745,7 +4745,7 @@
       "name": "Decipher AI",
       "slug": "decipher-ai",
       "website": "https://getdecipher.com",
-      "description": "Decipher learns from session replays and writes reliable tests that prevent regressions on all your product flows. Plus get alerted when a bug hits production users.",
+      "description": "Decipher AI generates your E2E tests, maintains them as you ship, and catches issues before customers do. Plus, get alerted when users hit live bugs.\r\n\r\nUsed by the fastest shipping companies including Bilt, Arize, and Vial.",
       "one_liner": "QA agents that write tests 10x faster with zero maintenance",
       "batch": "Winter 2024",
       "status": "Active",
@@ -4766,7 +4766,7 @@
         "Developer Tools",
         "B2B",
         "Enterprise Software",
-        "Monitoring"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8277,5 +8277,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-30T12:02:48.655148"
+  "fetched_at": "2026-01-30T18:05:25.157236"
 }
