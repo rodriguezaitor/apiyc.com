@@ -468,7 +468,7 @@
       "one_liner": "The full-stack AI ad company",
       "batch": "Fall 2025",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 4,
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
@@ -481,10 +481,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Video",
         "Marketing",
-        "Advertising",
-        "AI"
+        "Advertising"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2055,7 +2055,8 @@
         "Healthcare"
       ],
       "regions": [
-        "Unspecified"
+        "Remote",
+        "Partly Remote"
       ],
       "locations": "",
       "tags": [],
@@ -4964,5 +4965,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-01-31T12:01:23.939772"
+  "fetched_at": "2026-01-31T18:01:20.211775"
 }

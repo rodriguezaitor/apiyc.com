@@ -1792,6 +1792,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png"
     },
     {
+      "id": 31167,
+      "name": "Stilta",
+      "slug": "stilta",
+      "website": "https://stilta.com",
+      "description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world\u2019s most important challenges, but the tools to protect innovation haven\u2019t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don\u2019t solve trust and integration in legal-grade workflows.\r\n\r\nWe\u2019re four engineers from McKinsey/QuantumBlack who\u2019ve spent the last few years building and deploying AI for large organizations. We\u2019re building Stilta because the practitioners protecting the world\u2019s most valuable ideas deserve tools that match the stakes. We\u2019re already live with paying customers in both Europe and the US. ",
+      "one_liner": "Cursor for patent practitioners",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "LegalTech",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769876849.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png"
+    },
+    {
       "id": 31164,
       "name": "Compresr",
       "slug": "compresr",
@@ -3595,5 +3626,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-31T12:01:25.079852"
+  "fetched_at": "2026-01-31T18:01:22.627090"
 }
