@@ -5993,38 +5993,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/967b50f500638e1217a027ad53fa0c2fd82dd532.png"
     },
     {
-      "id": 26663,
-      "name": "Denormalized",
-      "slug": "denormalized",
-      "website": "https://www.denormalized.io/",
-      "description": "Denormalized is a serverless real-time data platform that allows users to query data quickly while eliminating the need to manage complex infrastructure. It enhances developer productivity by automating schema inference from sample data and simplifying data stream creation allowing engineers to go from idea to production fast. Denormalized supports SQL for data transformations without needing complex stream processing systems like Flink.",
-      "one_liner": "serverless platform for real-time data",
-      "batch": "Summer 2022",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Analytics",
-        "Infrastructure"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1658936956.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b63e1460304048d366b7e3939ef213373a7766f2.png"
-    },
-    {
       "id": 26662,
       "name": "Paces",
       "slug": "paces",
@@ -8042,6 +8010,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75317513ffcf6008b389c1e9fada5072394a8511.png"
     },
     {
+      "id": 26663,
+      "name": "Denormalized",
+      "slug": "denormalized",
+      "website": "https://www.denormalized.io/",
+      "description": "Denormalized is a serverless real-time data platform that allows users to query data quickly while eliminating the need to manage complex infrastructure. It enhances developer productivity by automating schema inference from sample data and simplifying data stream creation allowing engineers to go from idea to production fast. Denormalized supports SQL for data transformations without needing complex stream processing systems like Flink.",
+      "one_liner": "serverless platform for real-time data",
+      "batch": "Summer 2022",
+      "status": "Inactive",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Analytics",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1658936956.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b63e1460304048d366b7e3939ef213373a7766f2.png"
+    },
+    {
       "id": 26659,
       "name": "Weltio",
       "slug": "weltio",
@@ -8107,5 +8107,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-01-30T18:05:25.954476"
+  "fetched_at": "2026-01-31T00:04:13.549752"
 }

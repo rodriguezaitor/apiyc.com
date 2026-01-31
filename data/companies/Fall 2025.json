@@ -2836,40 +2836,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png"
     },
     {
-      "id": 30901,
-      "name": "Sanctum",
-      "slug": "sanctum",
-      "website": "https://withsanctum.com/",
-      "description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
-      "one_liner": "Catch software issues with user simulations",
-      "batch": "Fall 2025",
-      "status": "Active",
-      "team_size": 2,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Developer Tools",
-        "B2B",
-        "Analytics",
-        "Infrastructure",
-        "AI"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1762303410.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png"
-    },
-    {
       "id": 30900,
       "name": "LogosGuard",
       "slug": "logosguard",
@@ -4998,5 +4964,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-01-30T18:05:29.202554"
+  "fetched_at": "2026-01-31T00:04:16.710821"
 }

@@ -4777,8 +4777,8 @@
     },
     {
       "id": 29333,
-      "name": "Lemon Slice",
-      "slug": "lemon-slice",
+      "name": "LemonSlice",
+      "slug": "lemonslice",
       "website": "https://www.lemonslice.com",
       "description": "Lemon Slice is a frontier AI research and product lab building the future of interactive video. Our interactive avatar models allow you to turn a voice agent into an engaging video call. \r\n",
       "one_liner": "Give your voice agents a face",
@@ -4796,9 +4796,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Consumer",
-        "Video",
-        "AI"
+        "Video"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8277,5 +8277,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-30T18:05:25.157236"
+  "fetched_at": "2026-01-31T00:04:12.734527"
 }

@@ -509,7 +509,7 @@
       "name": "Squid",
       "slug": "squid",
       "website": "https://squid.energy",
-      "description": "",
+      "description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
       "one_liner": "AI-powered grid planning in your browser \ud83e\udd91 (squid.energy)",
       "batch": "Winter 2026",
       "status": "Active",
@@ -521,9 +521,10 @@
         "Energy"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
-      "locations": "",
+      "locations": "San Francisco, CA, USA",
       "tags": [
         "SaaS",
         "Energy",
@@ -1755,7 +1756,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1768943987.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eeec264f5e3f65c3e3967f6e59d05484a1db9f80.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/814cf30167622bfb5c6d35815a24f51d91529f3b.png"
     },
     {
       "id": 31173,
@@ -2991,8 +2992,8 @@
       "name": "Didit",
       "slug": "didit",
       "website": "https://didit.me/",
-      "description": "Didit is an AI-native, developer-first identity verification platform that makes KYC, AML, and fraud prevention instant, flexible, and transparent, with a seamless user experience and more than 70% lower costs.",
-      "one_liner": "AI-native, developer-first identity verification platform",
+      "description": "Didit is an all-in-one identity platform that lets humans prove who they are starting with a face scan. It powers the fastest identity verification in the market, fights fraud by default, and unifies all identity checks with simple pay-per-use pricing.",
+      "one_liner": "All-in-one identity platform for fast human verification.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 12,
@@ -3010,9 +3011,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Identity",
-        "AI"
+        "Identity"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3594,5 +3595,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-30T18:05:32.230393"
+  "fetched_at": "2026-01-31T00:04:19.773567"
 }
