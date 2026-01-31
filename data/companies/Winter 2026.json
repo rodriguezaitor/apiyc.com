@@ -3332,7 +3332,7 @@
       "name": "Haladir",
       "slug": "haladir",
       "website": "https://www.haladir.com/",
-      "description": "Haladir is an AI-powered mainframe modernization suite that helps enterprises understand and transform their legacy systems. Our first product, Rosetta, automatically generates comprehensive documentation from COBOL codebases, enabling teams to understand millions of lines of legacy code without months of manual analysis. Our second product, Exodus, translates COBOL to modern languages like Java and C# .NET while preserving business logic through property-based testing, formal verification, and custom models.",
+      "description": "Haladir is an AI-powered mainframe modernization suite that helps enterprises understand and transform their legacy systems. Our docs product generates comprehensive documentation from COBOL codebases, enabling teams to understand millions of lines of legacy code without months of manual analysis. Our translation tool migrates COBOL and other legacy languages to modern languages like Java and C# .NET while preserving business logic through property-based testing, formal verification, and custom models.",
       "one_liner": "AI-Enabled Mainframe Modernization and Code Translation.",
       "batch": "Winter 2026",
       "status": "Active",
@@ -3595,5 +3595,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-31T06:05:24.497440"
+  "fetched_at": "2026-01-31T12:01:25.079852"
 }

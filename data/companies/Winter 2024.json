@@ -2719,7 +2719,7 @@
         "Finance",
         "B2B"
       ],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -4029,14 +4029,14 @@
     },
     {
       "id": 29363,
-      "name": "Lytix",
-      "slug": "lytix",
-      "website": "https://lytix.co/",
-      "description": "Lytix is Datadog for LLMs. We give developers time, money and certainty when building with AI. Developers are using lytix to build custom evaluations, identify opportunities to save money, and optimize their KPIs. Our approach has helped customers reduce errors by up to 85%.",
-      "one_liner": "DataDog for LLMs, turnkey solution for n=1 custom evaluations",
+      "name": "Solari AI",
+      "slug": "solari-ai",
+      "website": "https://www.usesolari.ai/",
+      "description": "Solari gives non-technical team members access to agents that work right out of the box. ",
+      "one_liner": "Gives non-technical team members agents that work right out of the box",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -4050,15 +4050,17 @@
       "locations": "New York, NY, USA",
       "tags": [
         "Artificial Intelligence",
-        "Developer Tools",
-        "Analytics"
+        "Workflow Automation",
+        "Team Collaboration",
+        "Chatbots",
+        "No-code"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1710554488.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/068d4a57daee96d896a98ada71a651a2d39135bf.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af699b82335feb5991d34bb94bb5e75f4fb1bbf.png"
     },
     {
       "id": 29362,
@@ -7412,7 +7414,7 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [],
-      "stage": "Early",
+      "stage": "Growth",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -8277,5 +8279,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-01-31T06:05:18.493328"
+  "fetched_at": "2026-01-31T12:01:22.277612"
 }
