@@ -1484,7 +1484,8 @@
       "tags": [
         "Customer Service",
         "Call Center",
-        "Conversational AI"
+        "Conversational AI",
+        "AI Assistant"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1633,7 +1634,7 @@
       "name": "Prana",
       "slug": "prana-health",
       "website": "https://pranadoc.com",
-      "description": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits.\r\n\r\nMost AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.\r\n\r\nSafety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer <60 minute access to a physician, 24/7, for a fraction of the cost of traditional care.\r\n\r\nThe Team:\r\n - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments.\r\n- Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals.\r\n- Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine.\r\n\r\nTraction: Live in beta with early users.",
+      "description": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits.\r\n\r\nMost AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.\r\n\r\nSafety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care.\r\n\r\nThe Team:\r\n - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments.\r\n- Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals.\r\n- Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine.\r\n\r\nTraction: Live in beta with early users.",
       "one_liner": "An AI primary care doctor in your pocket",
       "batch": "Winter 2026",
       "status": "Active",
@@ -1812,8 +1813,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "LegalTech",
-        "AI"
+        "Artificial Intelligence",
+        "LegalTech"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1896,8 +1897,8 @@
       "name": "Q2Q",
       "slug": "q2q",
       "website": "https://www.tryq2q.com/",
-      "description": "Here's the problem: deal sourcing is tedious and requires 3-4 separate tools. We speed up sourcing for search funds and PE firms by finding prospects and preparing outreach messages to these potential acquisitions. In one platform, you can:\r\n\r\n1) Research market niches to refine your investment thesis\r\n2) Search for leads in our constantly-growing database\r\n3) Design custom campaigns with personalized messaging\r\n4) See inbound interest and track all prospects/communications in our CRM",
-      "one_liner": "We help private equity firms find potential acquisitions faster",
+      "description": "Q2Q is the AI-native outbound engine for deal sourcing. Tell us the types of companies you want to buy, and we'll get qualified meetings booked for you. \r\n\r\nYou can think of Q2Q as your personal team of AI interns. You give us your buying criteria, and we'll go out and find companies, write personalized emails, and get first calls booked with business owners for you. As the human in the loop, you'll approve messages before we send. Q2Q handles the sourcing work so you can focus on evaluating great deals.",
+      "one_liner": "We help private equity teams find acquisition targets faster",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -1913,10 +1914,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3626,5 +3627,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-01-31T18:01:22.627090"
+  "fetched_at": "2026-02-01T00:04:29.765137"
 }
