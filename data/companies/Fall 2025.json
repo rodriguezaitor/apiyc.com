@@ -3745,8 +3745,8 @@
       "name": "The Context Company",
       "slug": "the-context-company",
       "website": "https://thecontext.company",
-      "description": "Ship reliable agents with confidence.\r\n\r\nAI agents often fail quietly, picking the wrong tools, looping, hallucinating, and more. The Context Company tells developers when and exactly where their agents fail so issues can be uncovered and fixed fast.\r\n\r\nIt combines traditional observability across traces, tool calls, latency, and costs with the ability to uncover silent failures that standard monitoring misses.\r\n\r\nGet started with less than 10 lines of code.",
-      "one_liner": "Semantic observability for AI agents to help teams fix failures fast",
+      "description": "Understand user patterns and find silent failures in your AI agents.\r\n\r\nThe Context Company helps teams analyze AI agent conversations to surface user behavior patterns, performance trends, and moments where agents struggle - so teams know what\u2019s working, what\u2019s not, and what to improve next.\r\n\r\nWe turn raw conversations into structured signals: topic clustering, user feedback analysis, custom pattern tracking, and alerts. All alongside traditional observability like traces, tool calls, latency, and costs.\r\n\r\nGet started in less than 10 lines of code.",
+      "one_liner": "Monitor AI agents and understand user behavior",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -3762,11 +3762,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Analytics",
-        "Monitoring",
-        "AI"
+        "Monitoring"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4965,5 +4965,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-02-01T00:04:28.653796"
+  "fetched_at": "2026-02-01T06:12:49.932657"
 }
