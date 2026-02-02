@@ -441,8 +441,8 @@
       "name": "Moda",
       "slug": "moda",
       "website": "https://modaflows.com",
-      "description": "Moda is an analytics platform for AI products that helps teams understand what users are actually trying to do inside LLM-powered conversations. We turn raw chats and agent traces into clustered intents, friction points, and trends so teams can make better product decisions without reading logs.",
-      "one_liner": "Product analytics for AI-powered products.",
+      "description": "Moda alerts you when things go wrong with your AI agents.",
+      "one_liner": "Sentry for AI.",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -458,9 +458,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Analytics",
-        "AI"
+        "Analytics"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3627,5 +3627,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-01T18:02:09.171698"
+  "fetched_at": "2026-02-02T00:04:20.737662"
 }
