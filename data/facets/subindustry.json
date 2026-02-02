@@ -5,8 +5,8 @@
     "B2B -> Infrastructure": 257,
     "B2B -> Productivity": 218,
     "B2B -> Marketing": 157,
+    "Consumer": 154,
     "Fintech": 154,
-    "Consumer": 153,
     "Healthcare -> Healthcare IT": 138,
     "B2B -> Operations": 135,
     "B2B -> Supply Chain and Logistics": 131,
@@ -15,7 +15,7 @@
     "B2B -> Analytics": 128,
     "B2B -> Finance and Accounting": 127,
     "Consumer -> Home and Personal": 127,
-    "Education": 126,
+    "Education": 125,
     "Fintech -> Payments": 123,
     "Consumer -> Content": 113,
     "Healthcare -> Consumer Health and Wellness": 113,
@@ -60,5 +60,5 @@
     "Unspecified": 18,
     "Industrials -> Defense": 9
   },
-  "fetched_at": "2026-02-02T06:17:43.282565"
+  "fetched_at": "2026-02-02T12:04:18.298195"
 }
