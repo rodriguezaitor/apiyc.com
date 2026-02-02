@@ -1237,7 +1237,7 @@
       "slug": "caretta",
       "website": "https://www.caretta.so",
       "description": "Caretta is a Sales Intelligence for revenue teams. It joins reps in live calls, helping them handle information requests, questions, and objections in real time. Caretta lives in Slack to join the team conversation.\r\n\r\nCaretta gets smarter automatically: every call expands its knowledge base and objection library, turning conversations into compounding organizational advantage.",
-      "one_liner": "24/7 Sales Intelligence ",
+      "one_liner": "Realtime AI for Sales Calls",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -1948,10 +1948,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3057,6 +3057,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/34241c57767208be0982fd04163c52d69a91a82c.png"
     },
     {
+      "id": 31084,
+      "name": "Bits",
+      "slug": "bits-2",
+      "website": "https://usebits.com",
+      "description": "Bittie (app.usebits.com) connects AI to your browser. We integrate with 1password so that Bittie can log into and use all the websites you do. Try it out using our app (app.usebits.com) or extension (http://app.usebits.com/extension-beta)",
+      "one_liner": "Autonomous browser with native authentication",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Deep Learning"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770051535.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6833895347d41bbde540b70e33634ce1811c3856.png"
+    },
+    {
       "id": 31083,
       "name": "Kita",
       "slug": "kita",
@@ -3696,5 +3728,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-02T12:04:11.471131"
+  "fetched_at": "2026-02-02T18:07:55.753468"
 }

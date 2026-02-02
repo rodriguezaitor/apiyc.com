@@ -3100,8 +3100,8 @@
       "name": "Soff",
       "slug": "soff",
       "website": "https://soff.ai",
-      "description": "Manufacturers use Soff to grow revenue by auto-creating quotes and automating communication with customers & suppliers.",
-      "one_liner": "AI for Manufacturers Sales",
+      "description": "Distributors & Manufacturers use Soff to grow revenue through Soff's sales agents that process quotes, orders and handles all communication with customers, co-workers & suppliers.",
+      "one_liner": "AI Agents for Distributors",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 3,
@@ -3117,11 +3117,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Sales",
         "Manufacturing",
-        "Supply Chain"
+        "Supply Chain",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8216,5 +8216,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-02-02T12:04:05.944976"
+  "fetched_at": "2026-02-02T18:07:49.482480"
 }

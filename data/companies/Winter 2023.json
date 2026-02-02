@@ -1847,14 +1847,14 @@
     },
     {
       "id": 28080,
-      "name": "Swishjam",
-      "slug": "swishjam",
-      "website": "https://swishjam.com",
-      "description": "Swishjam takes web and product analytics a step further by connecting to all of your disparate systems, stitching that data into your product analytics data, and giving you a complete view of your SaaS business and your customers.",
-      "one_liner": "All-in-one digital analytics for SaaS companies",
+      "name": "Tagsafe",
+      "slug": "tagsafe",
+      "website": "http://www.tagsafe.io",
+      "description": "",
+      "one_liner": "",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 2,
+      "team_size": null,
       "industry": "B2B",
       "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
@@ -9330,5 +9330,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-02-02T12:04:05.233949"
+  "fetched_at": "2026-02-02T18:07:48.643383"
 }
