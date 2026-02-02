@@ -704,6 +704,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png"
     },
     {
+      "id": 31239,
+      "name": "Fort",
+      "slug": "fort",
+      "website": "https://fort.cx",
+      "description": "Fort is a wearable that tracks strength training for people who care about longevity.\r\n\r\nOther wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
+      "one_liner": "Wearable that tracks strength",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Consumer Electronics",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer Health Services",
+        "Consumer",
+        "Digital Health",
+        "Health & Wellness"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769992231.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ceb9d2604899970735943a3433bb4f01caee05e.png"
+    },
+    {
       "id": 31236,
       "name": "Balance",
       "slug": "getbalance",
@@ -2797,6 +2831,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png"
     },
     {
+      "id": 31097,
+      "name": "REV1",
+      "slug": "rev1",
+      "website": "https://rev1.so",
+      "description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
+      "one_liner": "Shortening hardware design cycles by automating post-CAD work",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Design",
+        "Manufacturing",
+        "Enterprise Software"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1769993376.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png"
+    },
+    {
       "id": 31094,
       "name": "Lexius",
       "slug": "lexius",
@@ -3627,5 +3696,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-02T00:04:20.737662"
+  "fetched_at": "2026-02-02T06:17:40.493902"
 }

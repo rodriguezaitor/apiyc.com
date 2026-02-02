@@ -1054,8 +1054,8 @@
       "name": "Dayflow",
       "slug": "dayflow",
       "website": "https://www.dayflow.so",
-      "description": "",
-      "one_liner": "A timeline of your day, automatically.",
+      "description": "Dayflow is building productivity tools that increase the amount of (human) agency in the world. ",
+      "one_liner": "Generate a detailed log of everything you've worked on, automatically.",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 2,
@@ -1070,9 +1070,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -8216,5 +8216,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-02-02T00:04:13.892410"
+  "fetched_at": "2026-02-02T06:17:38.274581"
 }
