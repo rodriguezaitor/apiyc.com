@@ -889,6 +889,34 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff8ea6145bd2655e4c3aad9c3d5e8252e1b412d0.png"
     },
     {
+      "id": 24842,
+      "name": "FirstIgnite",
+      "slug": "firstignite",
+      "website": "https://firstignite.com",
+      "description": "FirstIgnite builds AI powered business intelligence tools.",
+      "one_liner": "AI-Powered Business Development for Scientific Organizations",
+      "batch": "Summer 2021",
+      "status": "Active",
+      "team_size": 9,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Remote",
+      "tags": [],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1624624276.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6093f8dee5d8e445d2bff9f30caeb8397b0ec2eb.png"
+    },
+    {
       "id": 24841,
       "name": "Aviator",
       "slug": "aviator",
@@ -10634,34 +10662,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/878138d78cf12a2804dbaa8d5ac3805115d3d5b8.png"
     },
     {
-      "id": 24842,
-      "name": "FirstIgnite",
-      "slug": "firstignite",
-      "website": "https://firstignite.com",
-      "description": "FirstIgnite builds AI powered business intelligence tools.",
-      "one_liner": "AI-Powered Business Development for Scientific Organizations",
-      "batch": "Summer 2021",
-      "status": "Acquired",
-      "team_size": 9,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Remote",
-      "tags": [],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1624624276.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6093f8dee5d8e445d2bff9f30caeb8397b0ec2eb.png"
-    },
-    {
       "id": 24830,
       "name": "GamerPay",
       "slug": "gamerpay",
@@ -13412,5 +13412,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-02-03T12:04:16.459801"
+  "fetched_at": "2026-02-03T18:13:13.503162"
 }

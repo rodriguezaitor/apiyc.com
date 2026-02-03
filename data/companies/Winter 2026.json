@@ -38,6 +38,36 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png"
     },
     {
+      "id": 31303,
+      "name": "Condor Energy",
+      "slug": "condor-energy",
+      "website": "",
+      "description": "Condor helps large electricity consumers - C&I and data centers - cut electricity costs by helping the grid.\r\nWe are former electricity traders and energy systems experts building our AI-powered software. Our clients use Condor to control their electricity costs, to steer their consumption based on reliable forecasts and to conduct profitable investments. ",
+      "one_liner": "Energy system enabling reliable, cheap and sustainable electricity\u2026",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Energy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770133131.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5751db10a61d10ff4226cc9aa0b10f70ff87bb6d.png"
+    },
+    {
       "id": 31300,
       "name": "Shofo",
       "slug": "shofo",
@@ -1263,6 +1293,40 @@
       "is_top_company": false,
       "launched_at": 1765447039.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b2cec49b6c47c5edddfb78c96e58a79924a1032.png"
+    },
+    {
+      "id": 31206,
+      "name": "Samora AI",
+      "slug": "samora-ai",
+      "website": "https://samora.ai/",
+      "description": "Samora runs multilingual voice operations for organizations with high-volume calling without requiring engineering teams, call centers, or AI expertise.\r\n\r\nMany important tasks still depend on phone calls, including customer support, outreach, follow-ups, screening, and intake. But voice AI often fails in production because real callers interrupt, go off-script, switch languages mid-sentence, and speak in local dialects. Teams also worry about safety and compliance, especially when an agent can accidentally make the wrong promise.\r\n\r\nSamora solves this with voice agents that sound local and follow strict rules. Samora agents handle inbound and outbound calls, collect information, and update internal systems like CRMs, ticketing tools, and ATS platforms. When a call becomes sensitive or uncertain, the agent hands off to a human. It can also follow up over WhatsApp, SMS, or email when needed.\r\n\r\nWith Samora, teams get:\r\n1. Voice agents that work in real conversations, including dialects and code-switching\r\n2. Strict safety controls so agents don\u2019t make unauthorized offers, discounts, or promises\r\n3. Calls that result in completed actions, system updates, and safe human handoff",
+      "one_liner": "Multilingual voice agents with safe human escalation when needed",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 8,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "B2B",
+        "AI",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770130182.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eaba07a75fd30d319628002a37abd8993ba036e.png"
     },
     {
       "id": 31205,
@@ -3160,7 +3224,7 @@
       "name": "Kita",
       "slug": "kita",
       "website": "https://www.usekita.com/",
-      "description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don\u2019t exist, and a borrower\u2019s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe secured a six-figure paid pilot with a Philippine lender the week we built our prototype. Since then, we\u2019ve expanded with customers across multiple Southeast Asian markets, shipped new features continuously, and grown roughly 30% MoM.\r\n\r\nWe\u2019re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+      "description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don\u2019t exist, and a borrower\u2019s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe\u2019re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
       "one_liner": "Turn documents into signals for lenders",
       "batch": "Winter 2026",
       "status": "Active",
@@ -3795,5 +3859,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-03T12:04:23.310943"
+  "fetched_at": "2026-02-03T18:13:21.584287"
 }

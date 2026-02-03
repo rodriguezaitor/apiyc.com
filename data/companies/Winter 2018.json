@@ -1357,7 +1357,7 @@
         "Marketplace",
         "Sports Tech"
       ],
-      "stage": "Growth",
+      "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
@@ -2739,7 +2739,7 @@
         "Security"
       ],
       "stage": "Growth",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1509562863.0,
@@ -4888,5 +4888,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df5faaf3a1b84d44ea388d53291a399c7f6c297.png"
     }
   ],
-  "fetched_at": "2026-02-03T12:04:21.495069"
+  "fetched_at": "2026-02-03T18:13:19.372156"
 }

@@ -1396,11 +1396,11 @@
       "name": "Superbar",
       "slug": "superbar",
       "website": "http://www.superbar.ai",
-      "description": "Superbar is the AI-powered search and answer bar built to fix ecommerce conversion. It connects to your product catalog, blogs, videos, and customer reviews to deliver instant, high-converting search results and answers\u2014trained specifically to sell your products. No dev work needed. Just plug it in.\r\n",
-      "one_liner": "Search & Answers Superbar for E-Commerce",
+      "description": "Superbar instantly answers questions on your website and drives conversions 24/7.\u2028It's like having a top salesperson on every page.\r\n",
+      "one_liner": "Sales AI for your Website",
       "batch": "Summer 2022",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 7,
       "industry": "B2B",
       "subindustry": "B2B -> Marketing",
       "industries": [
@@ -1417,12 +1417,11 @@
       "tags": [
         "SaaS",
         "B2B",
-        "E-commerce",
         "Marketing",
         "Enterprise"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1656364678.0,
@@ -8107,5 +8106,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c07bd32af8c505350f6f299e82710d7ff784503.png"
     }
   ],
-  "fetched_at": "2026-02-03T12:04:18.243213"
+  "fetched_at": "2026-02-03T18:13:15.732386"
 }
