@@ -1633,7 +1633,7 @@
       "id": 31178,
       "name": "Cardboard",
       "slug": "cardboard",
-      "website": "https://cardboard.sh",
+      "website": "https://usecardboard.com",
       "description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (\u201c3 variants\u201d, \u201c30s hook\u201d, \u201ctestimonials\u201d) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an \u201cAI director\u201d inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can\u2019t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we\u2019re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it\u2019s collaborative, fast, and does the tedious parts for you.",
       "one_liner": "Agentic video editor",
       "batch": "Winter 2026",
@@ -1650,10 +1650,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Video",
-        "Media"
+        "Media",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2221,6 +2221,40 @@
       "is_top_company": false,
       "launched_at": 1768863894.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7e290287e83867619ff9db96fe93dcb0dcc7e36.png"
+    },
+    {
+      "id": 31142,
+      "name": "Beyond Reach Labs",
+      "slug": "beyond-reach-labs",
+      "website": "https://www.beyondreachlabs.com",
+      "description": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit.\r\n\r\nMitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.\r\n\r\nThe collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts.\r\n\r\nIf you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all.\r\n\r\nBut at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.\r\n",
+      "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Space Exploration",
+        "Satellites",
+        "Aerospace"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770079967.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a23843346ae92181428153349c06ed7c8d8a5a0b.png"
     },
     {
       "id": 31141,
@@ -2792,6 +2826,40 @@
       "is_top_company": false,
       "launched_at": 1765500266.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/85e872135272bf3527b0349fdcaf59c29b227c47.png"
+    },
+    {
+      "id": 31100,
+      "name": "Sentrial",
+      "slug": "sentrial",
+      "website": "https://sentrial.com/",
+      "description": "Sentrial is the observability platform for AI agents in production. \r\n\r\nWhen your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",
+      "one_liner": "Production Monitoring for AI Agents",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AIOps",
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770083112.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/26000be4ea55d3ad362449bab44a79ad483eaba7.png"
     },
     {
       "id": 31098,
@@ -3727,5 +3795,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-03T00:05:43.476203"
+  "fetched_at": "2026-02-03T06:12:17.309461"
 }

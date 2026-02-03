@@ -2170,11 +2170,11 @@
     },
     {
       "id": 30710,
-      "name": "mcp-use",
-      "slug": "mcp-use",
-      "website": "https://mcp-use.com",
-      "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT.\r\nOur library has over 4M downloads and 8,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
-      "one_liner": "Open-source dev tools and infrastructure for MCP.",
+      "name": "Manufact (formerly mcp-use)",
+      "slug": "manufact",
+      "website": "https://manufact.com",
+      "description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
+      "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2189,11 +2189,11 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "Open Source",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5370,5 +5370,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-02-03T00:05:42.172540"
+  "fetched_at": "2026-02-03T06:12:14.862473"
 }
