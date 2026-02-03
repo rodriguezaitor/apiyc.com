@@ -2324,8 +2324,8 @@
       "name": "Clidey",
       "slug": "clidey",
       "website": "https://clidey.com",
-      "description": "Clidey is building WhoDB (https://whodb.com)\r\n\r\nComing soon.",
-      "one_liner": "Removing the application layer completely",
+      "description": "WhoDB is an open-source platform for modeling organizations and running decisions on top of their data.\r\n\r\nIt lets teams define their core entities (customers, accounts, assets, workflows), the relationships between them, and the rules and objectives that govern how decisions should be made. WhoDB continuously ingests operational data and keeps this model up to date in real time.\r\n\r\nInstead of building dashboards, writing ad-hoc queries, or maintaining scattered business logic, teams express decisions declaratively\u2014what should happen, under what conditions, and with what constraints. WhoDB evaluates those decisions automatically as data changes and produces actions, recommendations, or state updates.\r\n\r\nEverything is transparent and inspectable: data models, decision logic, and outcomes are fully auditable and can be extended in code. The system is open source and runs in your own environment.",
+      "one_liner": "Model your organization. Run it in real time.",
       "batch": "Spring 2025",
       "status": "Active",
       "team_size": 4,
@@ -2352,7 +2352,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1747802459.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaee1ea603a9cd9e2411a3a9821c8820cdfb0f90.png"
     },
     {
       "id": 30467,
@@ -4643,5 +4643,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e470a808656775379182b4abad93b0d9dcb9e5b.png"
     }
   ],
-  "fetched_at": "2026-02-03T06:12:15.999114"
+  "fetched_at": "2026-02-03T12:04:21.796402"
 }
