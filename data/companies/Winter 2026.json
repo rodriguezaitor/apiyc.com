@@ -673,8 +673,8 @@
       "name": "Booko",
       "slug": "booko",
       "website": "https://bookoapp.com",
-      "description": "\u2028Booko helps appointment-based businesses make more money by dynamically pricing their time. Unlike physical inventory, unsold hours disappear forever, yet most service businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold. ",
-      "one_liner": "Dynamic pricing for service businesses",
+      "description": "Booko helps businesses that sell bookable time slots make more money by dynamically pricing their time. Unlike physical inventory, unsold time slots disappear forever, yet most time-slot-based businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold.",
+      "one_liner": "Dynamic pricing for businesses selling time slots",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -1428,6 +1428,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d74562fedba22811a7ce25c1922d244abfba883.png"
     },
     {
+      "id": 31203,
+      "name": "sitefire",
+      "slug": "sitefire",
+      "website": "https://sitefire.ai",
+      "description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify the content that drives AI visibility, and recommend actions that work: third-party sites, UGC content, and new blog posts. But we don\u2019t stop there. sitefire synthesizes the top-cited web pages into AI-optimized, ready-to-publish web pages. You just publish and start winning leads.",
+      "one_liner": "Marketing suite for the agentic web.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Marketing",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Marketing",
+        "Enterprise",
+        "Search"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770178936.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d810cf9fbc8197e7a14f659b8561b30bc2fc6e4c.png"
+    },
+    {
       "id": 31200,
       "name": "Ressl AI",
       "slug": "ressl-ai",
@@ -1928,7 +1961,7 @@
       "name": "Stilta",
       "slug": "stilta",
       "website": "https://stilta.com",
-      "description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world\u2019s most important challenges, but the tools to protect innovation haven\u2019t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don\u2019t solve trust and integration in legal-grade workflows.\r\n\r\nWe\u2019re four engineers from McKinsey/QuantumBlack who\u2019ve spent the last few years building and deploying AI for large organizations. We\u2019re building Stilta because the practitioners protecting the world\u2019s most valuable ideas deserve tools that match the stakes. We\u2019re already live with paying customers in both Europe and the US. ",
+      "description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world\u2019s most important challenges, but the tools to protect innovation haven\u2019t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don\u2019t solve trust and integration in legal-grade workflows.\r\n\r\nWe\u2019re four engineers from McKinsey/QuantumBlack who\u2019ve spent the last few years building and deploying AI for large organizations. Now we are building Stilta because the practitioners protecting the world\u2019s most valuable ideas deserve tools that match the stakes. We\u2019re already live with paying customers in both Europe and the US. ",
       "one_liner": "Cursor for patent practitioners",
       "batch": "Winter 2026",
       "status": "Active",
@@ -1944,8 +1977,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "LegalTech"
+        "LegalTech",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3252,7 +3285,7 @@
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1770051535.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6833895347d41bbde540b70e33634ce1811c3856.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png"
     },
     {
       "id": 31083,
@@ -3326,8 +3359,8 @@
       "name": "Tensol",
       "slug": "tensol",
       "website": "https://www.tensol.ai",
-      "description": "",
-      "one_liner": "Multi-agent systems orchestration",
+      "description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Your AI employee has full context of your company, is running 24/7 and can monitor Slack, track Sentry errors, update your CRM. We handle the setup and deployment of isolated VMs, no need for a Mac mini, a dedicated phone number or a devOps engineer.\r\n\r\nTensol also lets you create specialized AI employees for different jobs, like engineering, sales, and support, from a simple UI. You can connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations and a quick OAuth flow that takes about two minutes. Each AI employee also gets its own dedicated identity, so it can operate like a real teammate.",
+      "one_liner": "AI Employees for Startups, Built on OpenClaw",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -3343,10 +3376,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Enterprise Software",
-        "Infrastructure",
-        "AI"
+        "Productivity",
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -3386,6 +3419,39 @@
       "is_top_company": false,
       "launched_at": 1766956081.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dff0894649ff29064b020845633a9ebb22c2e9de.png"
+    },
+    {
+      "id": 31064,
+      "name": "Origin",
+      "slug": "origin-bio",
+      "website": "https://origin.bio/",
+      "description": "Designing novel regulatory DNA (e.g., enhancers and promoters) to program precise therapeutic gene expression patterns - for diseases like cancer, CNS disorders and more. We're building the largest proprietary dataset of synthetic regulatory sequences across diverse cell-states.",
+      "one_liner": "AI for safer cell & gene therapies",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "AI-powered Drug Discovery",
+        "Gene Therapy",
+        "Cell Therapy"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770167044.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0bdde9261c1483c617c9ca235a7378e3d7ba10.png"
     },
     {
       "id": 31062,
@@ -3894,5 +3960,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-04T00:04:27.279616"
+  "fetched_at": "2026-02-04T06:11:28.537971"
 }

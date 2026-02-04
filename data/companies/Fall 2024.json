@@ -154,8 +154,8 @@
       "name": "Synth",
       "slug": "synth-3",
       "website": "https://www.usesynth.ai",
-      "description": "Integrate your existing production code - in any language or framework - with apis that make it easy to optimize prompts from production traffic or development benchmarks",
-      "one_liner": "Prompt Optimization for Any Agent",
+      "description": "Choose a coding agent harness, model, and task dataset and optimize context and prompts to get the best performance for long-horizon tasks",
+      "one_liner": "Prompt and Context Optimization for Coding Agents",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -171,8 +171,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Reinforcement Learning"
+        "Reinforcement Learning",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -444,11 +444,11 @@
     },
     {
       "id": 30112,
-      "name": "BookMyFlight",
-      "slug": "bookmyflight",
-      "website": "https://bookmyflight.ai",
+      "name": "Vaya",
+      "slug": "vaya",
+      "website": "https://flyvaya.com",
       "description": "",
-      "one_liner": "We make booking a flight as easy as booking an Uber.",
+      "one_liner": "Discover your next vacation for less.",
       "batch": "Fall 2024",
       "status": "Active",
       "team_size": 2,
@@ -464,17 +464,15 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
-        "Travel",
-        "Booking",
-        "AI Assistant"
+        "Consumer",
+        "Travel"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1730227120.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8debb481982ada27879515605e46ee4194bc15f1.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ba9e1699223ad05f5f5256e9857a9efd08cf0f5.png"
     },
     {
       "id": 30111,
@@ -3024,5 +3022,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png"
     }
   ],
-  "fetched_at": "2026-02-04T00:04:29.016046"
+  "fetched_at": "2026-02-04T06:11:29.013472"
 }

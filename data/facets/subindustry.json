@@ -4,7 +4,7 @@
     "B2B": 532,
     "B2B -> Infrastructure": 258,
     "B2B -> Productivity": 218,
-    "B2B -> Marketing": 157,
+    "B2B -> Marketing": 158,
     "Consumer": 154,
     "Fintech": 154,
     "Healthcare -> Healthcare IT": 138,
@@ -36,8 +36,8 @@
     "Industrials -> Aviation and Space": 60,
     "Fintech -> Insurance": 54,
     "Healthcare -> Diagnostics": 54,
+    "Healthcare -> Drug Discovery and Delivery": 53,
     "B2B -> Legal": 52,
-    "Healthcare -> Drug Discovery and Delivery": 52,
     "Industrials -> Climate": 52,
     "Fintech -> Asset Management": 51,
     "Consumer -> Apparel and Cosmetics": 49,
@@ -60,5 +60,5 @@
     "Unspecified": 18,
     "Industrials -> Defense": 9
   },
-  "fetched_at": "2026-02-04T00:04:36.311278"
+  "fetched_at": "2026-02-04T06:11:30.915908"
 }
