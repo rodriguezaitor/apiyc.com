@@ -1181,23 +1181,28 @@
       "name": "Senso",
       "slug": "senso",
       "website": "http://www.senso.ai",
-      "description": "Senso is building an AI-powered knowledge base for customer support, starting in the Credit Union space.  Our product reduces contact time by over 10x by enabling support teams to make decisions about customer requests in seconds.  Bringing service automation to the financial services industry is a $6B opportunity, and we\u2019re building for all regulated industries where Senso's founders have spent over a decade building enterprise software.  ",
-      "one_liner": "AI-Powered Knowledge Base for Customer Support",
+      "description": "Senso is building the infrastructure for the agentic web.\r\n\r\nAs AI agents replace websites as the primary interface for discovery, decisions, and commerce, enterprises need a new way to control how agents understand, reason over, and act on their data. \r\n\r\nSenso enables companies to register agent-first domains, ingest first-party enterprise data, and publish verified, structured ground truth that AI agents can safely answer from, recommend with, and transact against. \r\n\r\nOur platform continuously evaluates how models use this context and adapts it to gain authority across leading LLMs.\r\n\r\nWe are building the System of Record for Verified AI\u2014powering AI discovery, agentic commerce, and post-transaction resolution across regulated and enterprise environments. ",
+      "one_liner": "Control what AI says about you",
       "batch": "Winter 2024",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 8,
       "industry": "B2B",
-      "subindustry": "B2B -> Analytics",
+      "subindustry": "B2B",
       "industries": [
-        "B2B",
-        "Analytics"
+        "B2B"
       ],
       "regions": [
+        "Canada",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "AI Assistant"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -8277,5 +8282,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/173b47e676be258f330e690587eca7beae572634.png"
     }
   ],
-  "fetched_at": "2026-02-04T06:11:26.753175"
+  "fetched_at": "2026-02-04T12:03:57.727256"
 }

@@ -2605,8 +2605,8 @@
       "name": "Redapto",
       "slug": "redapto",
       "website": "https://www.redapto.com/",
-      "description": "Redapto builds self-improving systems for customer support teams that boost CSAT, NRR, and drive repeat purchases.\r\n\r\nSupport quality plateau because agents and QA are static. Less than 5% of interactions are reviewed, missing SOP gaps, hallucinations, and outdated knowledge. Redapto audits 100% of interactions to detect issues, run custom evals, and auto-update SOPs, training, and knowledge bases so teams continuously improve.\r\n\r\nWe\u2019re applied researchers who\u2019ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20\u00d7. ",
-      "one_liner": "Self-improving systems for Customer Support Teams",
+      "description": "",
+      "one_liner": "",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -2621,9 +2621,9 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "B2B",
-        "Customer Support",
-        "AI"
+        "Customer Support"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4965,5 +4965,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-02-04T06:11:27.918176"
+  "fetched_at": "2026-02-04T12:03:59.429797"
 }
