@@ -5220,18 +5220,18 @@
         "B2B"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
+        "United Kingdom",
+        "Europe",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "London, England, United Kingdom",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "Machine Learning",
-        "NLP",
-        "AI"
+        "NLP"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -5641,37 +5641,6 @@
       "is_top_company": false,
       "launched_at": 1676918637.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/82ec739461b339d9ec575319f0ea12411f9e30bd.png"
-    },
-    {
-      "id": 27815,
-      "name": "OfOne",
-      "slug": "ofone",
-      "website": "https://www.of.one",
-      "description": "OfOne is building software to automate order taking at fast-food drive-thrus. Using conversational AI, we help restaurant chains operate more efficiently and level-up their customer experience.\r\n\r\nOfOne can answer questions, intelligently upsell - like suggesting ice cream on a hot day - and always says please and thank you.\r\n\r\nThere are 200,000 drive-thrus in the US and they are the industry's largest order channel.\r\n\r\nOur mission is to deliver human centric experiences that help restaurant operators prosper, deliver delight for their customers, and empower their workers.",
-      "one_liner": "AI-powered order taker for restaurant drive-thrus",
-      "batch": "Winter 2023",
-      "status": "Active",
-      "team_size": 5,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Generative AI",
-        "Restaurant Tech"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1675101964.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f20cb0518a4682de040512f68325cefe65fca72.png"
     },
     {
       "id": 27814,
@@ -6538,14 +6507,14 @@
     },
     {
       "id": 27696,
-      "name": "SelectIQ",
-      "slug": "selectiq",
-      "website": "https://www.selectiq.com",
-      "description": "SelectIQ addresses the primary bottleneck in drug development: recruiting patients into clinical trials.\r\n\r\nWe analyze electronic health records to help doctors find clinical trials for their patients, and to help trial sites find patients for their studies. 72% of doctors want to inform their patients of clinical trials, but only 5% do. We're on a mission to close that gap, ultimately bringing safer, more effective drugs to the patients who need them.",
+      "name": "Novelcare",
+      "slug": "novelcare",
+      "website": "https://www.novel.care",
+      "description": "Novelcare addresses the primary bottleneck in drug development: recruiting patients into clinical trials.\r\n\r\nWe analyze electronic health records to help doctors find clinical trials for their patients, and to help trial sites find patients for their studies. 72% of doctors want to inform their patients of clinical trials, but only 5% do. We're on a mission to close that gap, ultimately bringing safer, more effective drugs to the patients who need them.",
       "one_liner": "Empowering every doctor and every patient to participate in research",
       "batch": "Winter 2023",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 5,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Drug Discovery and Delivery",
       "industries": [
@@ -6556,22 +6525,22 @@
         "United States of America",
         "America / Canada",
         "Remote",
-        "Partly Remote"
+        "Fully Remote"
       ],
-      "locations": "New York, NY, USA",
+      "locations": "New York, NY, USA; Remote",
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Enterprise Software",
-        "AI"
+        "Enterprise Software"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1677470068.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/50326873077f3e33f3d72f4e252a9c35ba7c9de4.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c996f3a2f99cc3139f3821e758390c21efe8183.png"
     },
     {
       "id": 27695,
@@ -8066,6 +8035,37 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4995777223c0a6941873d356643ed969835aea5.png"
     },
     {
+      "id": 27815,
+      "name": "OfOne",
+      "slug": "ofone",
+      "website": "https://www.of.one",
+      "description": "OfOne is building software to automate order taking at fast-food drive-thrus. Using conversational AI, we help restaurant chains operate more efficiently and level-up their customer experience.\r\n\r\nOfOne can answer questions, intelligently upsell - like suggesting ice cream on a hot day - and always says please and thank you.\r\n\r\nThere are 200,000 drive-thrus in the US and they are the industry's largest order channel.\r\n\r\nOur mission is to deliver human centric experiences that help restaurant operators prosper, deliver delight for their customers, and empower their workers.",
+      "one_liner": "AI-powered order taker for restaurant drive-thrus",
+      "batch": "Winter 2023",
+      "status": "Acquired",
+      "team_size": 5,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Generative AI",
+        "Restaurant Tech"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1675101964.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f20cb0518a4682de040512f68325cefe65fca72.png"
+    },
+    {
       "id": 27809,
       "name": "EdgeBit",
       "slug": "edgebit",
@@ -9330,5 +9330,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png"
     }
   ],
-  "fetched_at": "2026-02-03T18:13:14.446029"
+  "fetched_at": "2026-02-04T00:04:20.581715"
 }

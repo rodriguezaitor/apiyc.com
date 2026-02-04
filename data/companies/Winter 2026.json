@@ -176,8 +176,8 @@
       "name": "GrazeMate",
       "slug": "grazemate",
       "website": "https://grazemate.com",
-      "description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nAt the push of a button, our AI drones fly to a paddock, position themselves around the herd and guide them to new paddocks. Instead of a full day mustering with helicopters, motorbikes, and horses, farmers use GrazeMate.\r\n\r\nWe work with the world's largest cattle ranches, giving them complete visibility into their operations. While our drones herd cattle autonomously, they simultaneously estimate animal weights, measure grass biomass, monitoring water levels, and detect sick animals. We're building physical AI that gives farmers superhuman capabilities - managing thousands of livestock across massive distances from their phone.",
-      "one_liner": "Robot Cowboys that Muster Cattle with AI Drones",
+      "description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nAt the push of a button, our AI drones fly to a paddock, position themselves around the herd and guide them to new paddocks. Instead of a full day mustering with helicopters, motorbikes, and horses, ranchers use GrazeMate.\r\n\r\nWe work with the world's largest cattle ranches, giving them complete visibility into their operations. While our drones herd cattle autonomously, they simultaneously estimate animal weights, measure grass biomass, monitoring water levels, and detect sick animals. We're building physical AI that gives farmers superhuman capabilities - managing thousands of livestock across massive distances from their phone.",
+      "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -401,6 +401,40 @@
       "is_top_company": false,
       "launched_at": 1769793909.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png"
+    },
+    {
+      "id": 31264,
+      "name": "Vela",
+      "slug": "vela",
+      "website": "https://tryvela.ai/ps",
+      "description": "Vela is the AI Scheduling Assistant built to handle the ambiguity that breaks scheduling. It has taste: it knows to prioritize a client over an internal catch-up, and it understands \"Let's do early next week\" without setting specific parameters. You just add Vela to the conversation, and it handles the white-glove negotiation as a member of your team, even at scale.\r\n\r\nToday, Vela is already used by professionals with the most complicated scheduling workflows. Enterprise recruiters are using Vela to schedule thousands of multi-party interviews and large sales teams rely on Vela to coordinate cross-functional calls.",
+      "one_liner": "The AI Scheduling Assistant that truly knows you.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 4,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Recruiting",
+        "Calendar",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770142827.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png"
     },
     {
       "id": 31263,
@@ -3140,17 +3174,18 @@
         "Infrastructure"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
+      "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "Enterprise",
-        "AI"
+        "IoT",
+        "Open Source",
+        "Enterprise"
       ],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1767296079.0,
@@ -3859,5 +3894,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-03T18:13:21.584287"
+  "fetched_at": "2026-02-04T00:04:27.279616"
 }

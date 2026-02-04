@@ -742,40 +742,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f782f3d1b55afea0d827dcd48c4e76f570dc36c1.png"
     },
     {
-      "id": 600,
-      "name": "DevCycle",
-      "slug": "devcycle",
-      "website": "http://devcycle.com",
-      "description": "DevCycle empowers development teams with seamless management of code deployment and feature releases. Our flexible and integrated Feature Management solution, specifically designed for developers, grants teams full control over their feature flags while preventing the accumulation of tech debt. With our scalable and cost-efficient platform, teams can focus on what truly matters\u2014building exceptional software\u2014without being bogged down by the complexities of feature management.\r\n\r\nPreviously known as Taplytics, born at Y Combinator in Silicon Valley as an A/B Testing and Experimentation solution for product and marketing teams, we have evolved into DevCycle, a trusted Feature Management Solution utilized by some of the world's largest brands. Serving millions of end-users and launching billions of events, we understand the demands of high-scale operations.",
-      "one_liner": "Feature Flag Management Built for Developers",
-      "batch": "Winter 2014",
-      "status": "Active",
-      "team_size": 55,
-      "industry": "B2B",
-      "subindustry": "B2B -> Engineering, Product and Design",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "regions": [
-        "Canada",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "locations": "Toronto, ON, Canada",
-      "tags": [
-        "SaaS",
-        "B2B"
-      ],
-      "stage": "Growth",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1384978789.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d251539438cb0eef66e90304a3ff25d30dfcf607.png"
-    },
-    {
       "id": 588,
       "name": "CodeNow",
       "slug": "codenow",
@@ -1580,6 +1546,40 @@
       "is_top_company": false,
       "launched_at": 1384978832.0,
       "logo_url": "/company/thumb/missing.png"
+    },
+    {
+      "id": 600,
+      "name": "DevCycle",
+      "slug": "devcycle",
+      "website": "http://devcycle.com",
+      "description": "DevCycle empowers development teams with seamless management of code deployment and feature releases. Our flexible and integrated Feature Management solution, specifically designed for developers, grants teams full control over their feature flags while preventing the accumulation of tech debt. With our scalable and cost-efficient platform, teams can focus on what truly matters\u2014building exceptional software\u2014without being bogged down by the complexities of feature management.\r\n\r\nPreviously known as Taplytics, born at Y Combinator in Silicon Valley as an A/B Testing and Experimentation solution for product and marketing teams, we have evolved into DevCycle, a trusted Feature Management Solution utilized by some of the world's largest brands. Serving millions of end-users and launching billions of events, we understand the demands of high-scale operations.",
+      "one_liner": "Feature Flag Management Built for Developers",
+      "batch": "Winter 2014",
+      "status": "Acquired",
+      "team_size": 55,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Canada",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "Toronto, ON, Canada",
+      "tags": [
+        "SaaS",
+        "B2B"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1384978789.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d251539438cb0eef66e90304a3ff25d30dfcf607.png"
     },
     {
       "id": 599,
@@ -2415,5 +2415,5 @@
       "logo_url": "/company/thumb/missing.png"
     }
   ],
-  "fetched_at": "2026-02-03T18:13:23.929934"
+  "fetched_at": "2026-02-04T00:04:29.938144"
 }
