@@ -965,6 +965,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/564c0c8ad6b1cf6c6c24454e941feb323039e055.png"
     },
     {
+      "id": 31225,
+      "name": "Ditto Biosciences",
+      "slug": "ditto-biosciences",
+      "website": "https://www.dittobio.com/",
+      "description": "Ditto Bio discovers drugs for autoimmune diseases by harnessing parasite biology. Viruses, ticks, and worms have experimented over millions of years to create proteins that control the human immune system. We use AI to identify these proteins and engineer them into next-generation autoimmune therapies.",
+      "one_liner": "Evolutionary therapies for autoimmune disease",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Drug Discovery and Delivery",
+      "industries": [
+        "Healthcare",
+        "Drug Discovery and Delivery"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Biotech",
+        "Therapeutics",
+        "Drug discovery"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770234545.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d5b227bb99dde80a75d7008740db6747b12af69.png"
+    },
+    {
       "id": 31224,
       "name": "Servo7",
       "slug": "servo7",
@@ -1596,7 +1629,7 @@
       "name": "Maywood",
       "slug": "maywood",
       "website": "https://maywoodai.com/",
-      "description": "Maywood is an AI software platform that lets investment banks automate their entire dealmaking workflow. \r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
+      "description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
       "one_liner": "AI for M&A",
       "batch": "Winter 2026",
       "status": "Active",
@@ -3264,8 +3297,8 @@
       "name": "Lance",
       "slug": "lance",
       "website": "https://www.lance.live",
-      "description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack. Trusted by hotel groups with 50+ hotels across Marriott, Hyatt, and Hilton.",
-      "one_liner": "AI Voice Agent for Hotel Operations",
+      "description": "AI Agents for Hotel Operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack. Trusted by hotel groups with 50+ hotels across Marriott, Hyatt, and Hilton.",
+      "one_liner": "AI Agent Built for Hotel Operations",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 3,
@@ -3327,6 +3360,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png"
     },
     {
+      "id": 31087,
+      "name": "Lucent",
+      "slug": "lucent",
+      "website": "https://lucenthq.com",
+      "description": "Lucent automatically watches your user sessions and alerts you when users hit bugs or UX issues. You're recording thousands of sessions but nobody's watching them. Lucent does - catching silent issues breaking your product that you'd otherwise never know about.",
+      "one_liner": "AI that automatically watches your session replays to detect bugs.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "B2B",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770303004.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b309a5cff7d85c233aaac20ea8209b1c0736a6e.png"
+    },
+    {
       "id": 31085,
       "name": "Ruma Care",
       "slug": "ruma-care",
@@ -3362,8 +3427,8 @@
       "name": "Bits",
       "slug": "bits-2",
       "website": "https://usebits.com",
-      "description": "Bittie (app.usebits.com) connects AI to your browser. We integrate with 1password so that Bittie can log into and use all the websites you do. Try it out using our app (app.usebits.com) or extension (http://app.usebits.com/extension-beta)",
-      "one_liner": "Autonomous browser with native authentication",
+      "description": "Get your personal OpenClaw instance on the cloud and connected to your Slack or other messaging app in 3 minutes. Pre-installed security features and common skills. ",
+      "one_liner": "Fast and Safe OpenClaw on the cloud",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -3994,6 +4059,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png"
     },
     {
+      "id": 30715,
+      "name": "Autumn AI",
+      "slug": "autumn-ai",
+      "website": "https://autumnai.com",
+      "description": "Autumn is building the first real-time signal intelligence platform for GTM teams. We monitor posts, commits, blogs, and announcements, surfacing buying signals the moment they appear. Define your ICP and the signals that matter, and we deliver a condensed, real-time feed filtered by intents.",
+      "one_liner": "Stalk your prospects at scale.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Sales",
+        "Search",
+        "AI Assistant"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770313792.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png"
+    },
+    {
       "id": 30635,
       "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
       "slug": "galactic-resource-utilization-space-inc-gru-space",
@@ -4062,5 +4161,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-05T12:04:54.618554"
+  "fetched_at": "2026-02-05T18:12:25.636189"
 }

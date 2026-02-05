@@ -5320,7 +5320,7 @@
         "India"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1643865753.0,
@@ -6219,8 +6219,8 @@
       "name": "PermitFlow",
       "slug": "permitflow",
       "website": "http://www.permitflow.com",
-      "description": "Intuitive workflow software that helps general contractors and developers identify the optimal permitting process and needed application forms for a particular project, and then easily fill the relevant paperwork to prepare a robust application package.",
-      "one_liner": "TurboTax for Construction Permitting",
+      "description": "Intuitive AI platform that helps general contractors and developers manage their preconstruction process",
+      "one_liner": "Construction's AI Platform",
       "batch": "Winter 2022",
       "status": "Active",
       "team_size": 80,
@@ -6240,7 +6240,8 @@
       "tags": [
         "GovTech",
         "Construction",
-        "Proptech"
+        "Proptech",
+        "AI"
       ],
       "stage": "Growth",
       "is_hiring": true,
@@ -13805,5 +13806,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-02-05T12:04:46.223921"
+  "fetched_at": "2026-02-05T18:12:19.915585"
 }
