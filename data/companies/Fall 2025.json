@@ -882,8 +882,8 @@
       "name": "Freeport Markets",
       "slug": "freeport-markets",
       "website": "https://www.freeportmarkets.com/",
-      "description": "Freeport is the DeFi brokerage for wealth-oriented investors who want safe yields, no fees, and differentiated investment options. Get exposure to curated onchain enterprises, pre-IPO companies, structured credit, and other alternative digital assets.",
-      "one_liner": "DeFi Brokerage for Real Assets",
+      "description": "Freeport allows you to turn tweets into meaningful alpha. Get news as soon as it brakes with the associated trade. Scroll, Trade, and use Perps all in one app!",
+      "one_liner": "Turn tweets into trades",
       "batch": "Fall 2025",
       "status": "Active",
       "team_size": 2,
@@ -899,11 +899,11 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Crypto / Web3",
         "Investing",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1354,7 +1354,7 @@
       "name": "Absurd",
       "slug": "absurd",
       "website": "https://absurd.com/",
-      "description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 300K+ organic views.\r\n\r\nCompanies like Replit, Brex, Whop, Reforge, and Micro1 use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
+      "description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Replit, Brex, Whop, Reforge, and Micro1 use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
       "one_liner": "AI Brand and Performance Ads at Scale",
       "batch": "Fall 2025",
       "status": "Active",
@@ -4965,5 +4965,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png"
     }
   ],
-  "fetched_at": "2026-02-04T18:11:06.480106"
+  "fetched_at": "2026-02-05T00:05:36.406577"
 }

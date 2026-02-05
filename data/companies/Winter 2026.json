@@ -674,7 +674,7 @@
       "slug": "booko",
       "website": "https://bookoapp.com",
       "description": "Booko helps businesses that sell bookable time slots make more money by dynamically pricing their time. Unlike physical inventory, unsold time slots disappear forever, yet most time-slot-based businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold.",
-      "one_liner": "Dynamic pricing for businesses selling time slots",
+      "one_liner": "Dynamic pricing for businesses that sell time slots",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -1556,6 +1556,39 @@
       "is_top_company": false,
       "launched_at": 1767260558.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15b7b6ab2a29ad8ce788a73a92e36fd7733b6a.png"
+    },
+    {
+      "id": 31188,
+      "name": "Maywood",
+      "slug": "maywood",
+      "website": "https://maywoodai.com/",
+      "description": "The Maywood platform empowers investment banks and buyers with AI agents that automate deck generation, streamline due diligence, and provide advanced research to buy and sell companies",
+      "one_liner": "AI for M&A",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "Remote",
+        "Partly Remote"
+      ],
+      "locations": "",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Generative AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770247865.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/25766f301c649782f67a8e41bd075b4e72544918.png"
     },
     {
       "id": 31187,
@@ -3960,5 +3993,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-04T18:11:08.081816"
+  "fetched_at": "2026-02-05T00:05:38.706250"
 }

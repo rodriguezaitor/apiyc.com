@@ -10,8 +10,8 @@
     "Healthcare -> Healthcare IT": 138,
     "B2B -> Operations": 135,
     "B2B -> Supply Chain and Logistics": 131,
-    "B2B -> Sales": 130,
     "B2B -> Retail": 129,
+    "B2B -> Sales": 129,
     "B2B -> Analytics": 127,
     "B2B -> Finance and Accounting": 127,
     "Consumer -> Home and Personal": 127,
@@ -30,7 +30,7 @@
     "B2B -> Recruiting and Talent": 73,
     "Fintech -> Credit and Lending": 73,
     "Consumer -> Gaming": 71,
-    "Fintech -> Banking and Exchange": 67,
+    "Fintech -> Banking and Exchange": 68,
     "Healthcare -> Healthcare Services": 67,
     "Healthcare -> Therapeutics": 64,
     "Industrials -> Aviation and Space": 60,
@@ -40,7 +40,7 @@
     "Healthcare -> Drug Discovery and Delivery": 53,
     "Industrials -> Climate": 52,
     "Fintech -> Asset Management": 51,
-    "Consumer -> Apparel and Cosmetics": 49,
+    "Consumer -> Apparel and Cosmetics": 50,
     "Real Estate and Construction -> Construction": 47,
     "Consumer -> Consumer Electronics": 43,
     "Healthcare -> Medical Devices": 43,
@@ -60,5 +60,5 @@
     "Unspecified": 18,
     "Industrials -> Defense": 9
   },
-  "fetched_at": "2026-02-04T18:11:14.620438"
+  "fetched_at": "2026-02-05T00:05:47.651152"
 }

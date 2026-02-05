@@ -1111,8 +1111,8 @@
       "name": "Glide",
       "slug": "glide",
       "website": "https://www.glideapps.com",
-      "description": "Glide is a web-based app builder that allows non-programmers to quickly create powerful and beautiful apps by combining prebuilt components with a familiar spreadsheet model.\r\n\r\nApp development has barely changed in 30 years. Glide will bring app development out of the Dark Ages, making it web-based, collaborative, and fun. Think of Google Docs or Figma but for building apps.\r\n\r\nWe believe that almost all apps can be built 10-100x faster, with higher quality, by starting with the data model and generating a polished app from high-level components that users customize.\r\n\r\nOur mission is to make it easy and fun for anyone to build amazing apps without code. In ten years, we want the majority of apps worldwide to have been built with Glide.\r\n\r\nWe're four technical founders with expertise in native mobile frameworks, developer tools, and product design. We've worked together for 5-10 years, and were all early employees at Xamarin, a mobile developer tools startup acquired by Microsoft in 2016.",
-      "one_liner": "Create the app your business needs, without coding.",
+      "description": "Glide is a web-based app builder that allows non-programmers to quickly create powerful and beautiful internal business apps by starting from scratch, starting with a prompt, or starting with a spreadsheet. \r\n\r\nFor 30 years, app development had barely changed. When Glide launched, we brought app development out of the Dark Ages, making it web-based, collaborative, accessible, and fun. \r\n\r\nToday, the influence of AI on coding has propelled app development even further. And Glide has risen to the occasion. The next generation of Glide gives users an AI-first method for building internal business software without worrying about granular-level control, security, authentication, database infrastructure, or deployment woes. \r\n\r\nOur mission is to become the operating system for your business by helping you turn all of your operational spreadsheets and data into beautiful, intelligent apps. \r\n\r\nWe're three technical founders with expertise in native mobile frameworks, developer tools, and product design. We've worked together for 5-10 years, and were all early employees at Xamarin, a mobile developer tools startup acquired by Microsoft in 2016.",
+      "one_liner": "Glide turns spreadsheets into beautiful, intelligent apps.",
       "batch": "Winter 2019",
       "status": "Active",
       "team_size": 46,
@@ -1130,10 +1130,14 @@
       ],
       "locations": "San Francisco, CA, USA; Remote",
       "tags": [
-        "No-code"
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "No-code",
+        "Enterprise Software"
       ],
       "stage": "Growth",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1543977295.0,
@@ -2530,8 +2534,8 @@
       "name": "Bunkerhill Health",
       "slug": "bunkerhill-health",
       "website": "http://bunkerhillhealth.com",
-      "description": "Bunkerhill is a Sequoia/Felicis/YC-backed company whose goal is to increase the adoption of AI in healthcare, in order to help doctors catch deadly diseases earlier.\r\n\r\n\r\nBunkerhill Health has built a consortium of research institutions (Stanford, Johns Hopkins, Harvard, etc.), who develop and validate AI algorithms seamlessly under our legal umbrella (less than one week of setup time for a new project when using the Bunkerhill consortium, versus a year or more for projects outside the consortium). Bunkerhill then manages the FDA clearance and commercial sales process for the algorithms that these institutions develop and validate with us.\r\n\r\n\r\nWe\u2019ve signed commercial contracts and deployed algorithms with the world\u2019s leading health systems\u2014UCSF, Mayo Clinic, Georgetown/MedStar, and several others. These algorithms help doctors identify patients earlier than has otherwise been possible, leading to better treatment outcomes (early clinical screening for heart disease, pancreatic cancer, etc.)\r\n\r\n\r\nWe\u2019re backed by world class investors: Sequoia, Felicis, SVAngel, Optum Ventures, Max Levchin (co-founder of PayPal and Affirm), YC, DCVC, and Pacific8.",
-      "one_liner": "We bring AI algorithms, built by researchers everywhere, to the clinic",
+      "description": "Bunkerhill Health's mission is to increase the rate of creation and adoption of Al in healthcare. We are building a platform, Carebricks, for health systems to create, share, and deploy Al agents for clinical and operational tasks. Backed by Sequoia.",
+      "one_liner": "Bunkerhill Health is building the system of action for health systems",
       "batch": "Winter 2019",
       "status": "Active",
       "team_size": 30,
@@ -2547,11 +2551,10 @@
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
+      "locations": "San Francisco, CA, USA",
       "tags": [
-        "Marketplace",
-        "Healthcare IT",
-        "AI"
+        "Artificial Intelligence",
+        "Health Tech"
       ],
       "stage": "Growth",
       "is_hiring": true,
@@ -6562,5 +6565,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c874030e9d4a007e733955f5d821cc505392b10.png"
     }
   ],
-  "fetched_at": "2026-02-04T18:11:05.323067"
+  "fetched_at": "2026-02-05T00:05:34.830880"
 }
