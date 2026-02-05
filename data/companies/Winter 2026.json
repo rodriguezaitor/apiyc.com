@@ -1581,8 +1581,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Reinforcement Learning",
-        "AI"
+        "Artificial Intelligence",
+        "Reinforcement Learning"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1596,11 +1596,11 @@
       "name": "Maywood",
       "slug": "maywood",
       "website": "https://maywoodai.com/",
-      "description": "The Maywood platform empowers investment banks and buyers with AI agents that automate deck generation, streamline due diligence, and provide advanced research to buy and sell companies",
+      "description": "Maywood is an AI software platform that lets investment banks automate their entire dealmaking workflow. \r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
       "one_liner": "AI for M&A",
       "batch": "Winter 2026",
       "status": "Active",
-      "team_size": 0,
+      "team_size": 4,
       "industry": "Fintech",
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
@@ -1608,11 +1608,18 @@
         "Banking and Exchange"
       ],
       "regions": [
+        "United States of America",
+        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "",
-      "tags": [],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Finance",
+        "B2B"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -4055,5 +4062,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-05T06:14:53.641088"
+  "fetched_at": "2026-02-05T12:04:54.618554"
 }

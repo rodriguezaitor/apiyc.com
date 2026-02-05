@@ -1251,15 +1251,15 @@
       "slug": "oway",
       "website": "https://www.shipoway.com",
       "description": "Oway is an AI-driven freight platform that turns America\u2019s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America\u2019s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway\u2019s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America\u2019s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
-      "one_liner": "The First AI Infrastructure Layer for America\u2019s Empty Truck Space",
+      "one_liner": "AI Infrastructure for America\u2019s Empty Truck Space",
       "batch": "Summer 2024",
       "status": "Active",
       "team_size": 10,
       "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "subindustry": "B2B -> Infrastructure",
       "industries": [
         "B2B",
-        "Supply Chain and Logistics"
+        "Infrastructure"
       ],
       "regions": [
         "United States of America",
@@ -1269,11 +1269,10 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Machine Learning",
-        "Marketplace",
+        "Artificial Intelligence",
         "B2B",
-        "Ridesharing",
-        "Logistics"
+        "Logistics",
+        "Infrastructure"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -8216,5 +8215,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cf2cff5039ac20f139cd495d3537b825c8ac73.png"
     }
   ],
-  "fetched_at": "2026-02-05T06:14:49.524699"
+  "fetched_at": "2026-02-05T12:04:48.659353"
 }
