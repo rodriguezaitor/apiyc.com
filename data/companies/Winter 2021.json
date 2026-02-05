@@ -409,19 +409,19 @@
     },
     {
       "id": 23629,
-      "name": "Tackle",
-      "slug": "tackle",
-      "website": "https://www.timetackle.com/",
+      "name": "AXAR AI",
+      "slug": "axar-ai",
+      "website": "https://www.axar.ai/",
       "description": "",
-      "one_liner": "Time tracking on autopilot",
+      "one_liner": "Multi-agent orchestration platform",
       "batch": "Winter 2021",
       "status": "Active",
-      "team_size": 3,
+      "team_size": 41,
       "industry": "B2B",
-      "subindustry": "B2B -> Operations",
+      "subindustry": "B2B -> Engineering, Product and Design",
       "industries": [
         "B2B",
-        "Operations"
+        "Engineering, Product and Design"
       ],
       "regions": [
         "United States of America",
@@ -431,16 +431,16 @@
       ],
       "locations": "Mountain View, CA, USA",
       "tags": [
-        "Artificial Intelligence",
+        "Developer Tools",
         "B2B",
-        "Operations"
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1616475313.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d69f6925d4c16dd2a677cb6f9d9c595a18a19b.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/794ee05d86b9d2eb7ecf39001d3b513d95c5541b.png"
     },
     {
       "id": 23613,
@@ -11540,5 +11540,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98d5999e4507df5f73229bb5fb875b5a30a9818.png"
     }
   ],
-  "fetched_at": "2026-02-05T00:05:31.540174"
+  "fetched_at": "2026-02-05T06:14:48.530519"
 }

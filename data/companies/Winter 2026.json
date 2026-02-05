@@ -68,6 +68,40 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5751db10a61d10ff4226cc9aa0b10f70ff87bb6d.png"
     },
     {
+      "id": 31302,
+      "name": "Resonate",
+      "slug": "resonate",
+      "website": "https://resonate.audio",
+      "description": "Building new products around information transformation, generative social content, and generative UI.\r\n\r\nResonate Chat - https://www.resonate.audio - The best voice mesaging experience. Period.\r\nResonate Create - http://resonatecreate.com - Advanced Agentic Video platform\r\n\r\nGrowing these products. Many more in the works!",
+      "one_liner": "The first AI-native messaging platform.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer",
+      "industries": [
+        "Consumer"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Consumer",
+        "Video",
+        "Social",
+        "Creator Economy",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770250805.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c775eab2b9c5660b9a550410cd6c913383d47ef4.png"
+    },
+    {
       "id": 31300,
       "name": "Shofo",
       "slug": "shofo",
@@ -1578,13 +1612,9 @@
         "Partly Remote"
       ],
       "locations": "",
-      "tags": [
-        "Artificial Intelligence",
-        "Fintech",
-        "Generative AI"
-      ],
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1770247865.0,
@@ -2824,6 +2854,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/966b1340bdeb6a7d80ba3f1c34c89a62f57a4bff.png"
     },
     {
+      "id": 31119,
+      "name": "ZeroSettle",
+      "slug": "zerosettle",
+      "website": "https://zerosettle.io",
+      "description": "",
+      "one_liner": "Bypass the App Store tax and enable web-based purchases",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Sales",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cryptocurrency"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770252325.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df1cb7001d68c800f9bb4a4a4b48f8d7a27e4699.png"
+    },
+    {
       "id": 31112,
       "name": "Burt",
       "slug": "burt",
@@ -3993,5 +4055,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-05T00:05:38.706250"
+  "fetched_at": "2026-02-05T06:14:53.641088"
 }
