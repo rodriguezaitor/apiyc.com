@@ -2149,8 +2149,8 @@
       "name": "Hyprnote",
       "slug": "hyprnote",
       "website": "https://hyprnote.com",
-      "description": "Hyprnote is the first open-source AI notetaker for the enterprise. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
-      "one_liner": "Open-source AI notetaker for the enterprise",
+      "description": "Hyprnote is a privacy-first AI note app for meetings that listens in the background, transcribes what\u2019s said, and turns messy conversations into clean, searchable notes and summaries, all while keeping your data on your own computer so you can work offline and focus on the conversation instead of typing.",
+      "one_liner": "AI meeting notes without strings attached",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -2167,7 +2167,7 @@
       "locations": "",
       "tags": [],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1755302445.0,
@@ -5375,5 +5375,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-02-06T12:04:12.339138"
+  "fetched_at": "2026-02-06T18:09:37.305636"
 }

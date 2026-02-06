@@ -565,7 +565,7 @@
       "name": "BeeSafe AI",
       "slug": "beesafe-ai",
       "website": "https://beesafe.ai/",
-      "description": "BeeSafe AI\u00a0is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and law enforcement to intercept scammers mid-transaction and prevent victim losses.",
+      "description": "BeeSafe AI\u00a0is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and government agencies to intercept scammers mid-transaction and prevent victim losses.",
       "one_liner": "Stopping Scams Before They Reach Your Customers",
       "batch": "Winter 2026",
       "status": "Active",
@@ -582,11 +582,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Security",
         "Cybersecurity",
         "Fraud Prevention",
-        "Fraud Detection",
-        "AI"
+        "Fraud Detection"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -4257,5 +4257,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-06T12:04:14.295096"
+  "fetched_at": "2026-02-06T18:09:39.661577"
 }
