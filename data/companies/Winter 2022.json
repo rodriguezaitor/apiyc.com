@@ -1972,38 +1972,6 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b573fe2d4fa36278805b5ce4e7a83e0b292772c.png"
     },
     {
-      "id": 25996,
-      "name": "Marathon Education",
-      "slug": "marathon-education",
-      "website": "https://www.marathon.edu.vn",
-      "description": "Marathon Education provides live interactive tutoring classes to K-12 students in Vietnam, we're the fastest-growing edtech player disrupting the $5bn offline tutoring market by allowing students to learn online with the best teachers in large-class or small-class format.\r\n\r\nThe company is founded by Duc, former education private equity investor at TPG Capital - where Duc invested in K-12 education and edtech businesses in Vietnam & Southeast Asia. Duc co-founded Marathon with Tung - serial tech entrepreneur in Vietnam who grew his last startup - Christina's to 500 employees across 8 cities. ",
-      "one_liner": "We provide live after-school tutoring to K-12 students in Vietnam",
-      "batch": "Winter 2022",
-      "status": "Active",
-      "team_size": 20,
-      "industry": "Education",
-      "subindustry": "Education",
-      "industries": [
-        "Education"
-      ],
-      "regions": [
-        "Vietnam",
-        "Southeast Asia",
-        "Remote",
-        "Fully Remote"
-      ],
-      "locations": "Ho Chi Minh City, Ho Chi Minh City, Vietnam; Ho Chi Minh City, Vietnam; Remote",
-      "tags": [
-        "Education"
-      ],
-      "stage": "Early",
-      "is_hiring": false,
-      "is_nonprofit": false,
-      "is_top_company": false,
-      "launched_at": 1640927442.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f39eb9e04c034ebceea283b64680639bfbddc32.png"
-    },
-    {
       "id": 25995,
       "name": "Workflow86",
       "slug": "workflow86",
@@ -12688,6 +12656,38 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b139123800489407f058e0b228890ae6c0af4d3a.png"
     },
     {
+      "id": 25996,
+      "name": "Marathon Education",
+      "slug": "marathon-education",
+      "website": "https://www.marathon.edu.vn",
+      "description": "Marathon Education provides live interactive tutoring classes to K-12 students in Vietnam, we're the fastest-growing edtech player disrupting the $5bn offline tutoring market by allowing students to learn online with the best teachers in large-class or small-class format.\r\n\r\nThe company is founded by Duc, former education private equity investor at TPG Capital - where Duc invested in K-12 education and edtech businesses in Vietnam & Southeast Asia. Duc co-founded Marathon with Tung - serial tech entrepreneur in Vietnam who grew his last startup - Christina's to 500 employees across 8 cities. ",
+      "one_liner": "We provide live after-school tutoring to K-12 students in Vietnam",
+      "batch": "Winter 2022",
+      "status": "Inactive",
+      "team_size": 20,
+      "industry": "Education",
+      "subindustry": "Education",
+      "industries": [
+        "Education"
+      ],
+      "regions": [
+        "Vietnam",
+        "Southeast Asia",
+        "Remote",
+        "Fully Remote"
+      ],
+      "locations": "Ho Chi Minh City, Ho Chi Minh City, Vietnam; Ho Chi Minh City, Vietnam; Remote",
+      "tags": [
+        "Education"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1640927442.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f39eb9e04c034ebceea283b64680639bfbddc32.png"
+    },
+    {
       "id": 25966,
       "name": "Sendo",
       "slug": "sendo",
@@ -13806,5 +13806,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/56a5d674cbbe0a0ce907c60a5ff53cf0839e530e.png"
     }
   ],
-  "fetched_at": "2026-02-05T18:12:19.915585"
+  "fetched_at": "2026-02-06T00:03:16.236048"
 }

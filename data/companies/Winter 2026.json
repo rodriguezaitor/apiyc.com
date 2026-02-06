@@ -568,6 +568,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png"
     },
     {
+      "id": 31248,
+      "name": "BeeSafe AI",
+      "slug": "beesafe-ai",
+      "website": "https://beesafe.ai/",
+      "description": "BeeSafe AI\u00a0is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and law enforcement to intercept scammers mid-transaction and prevent victim losses.",
+      "one_liner": "Stopping Scams Before They Reach Your Customers",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Security",
+        "Cybersecurity",
+        "Fraud Prevention",
+        "Fraud Detection",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770327115.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png"
+    },
+    {
       "id": 31247,
       "name": "Fed10",
       "slug": "fed10",
@@ -2496,7 +2531,7 @@
       "slug": "octapulse",
       "website": "https://www.tryoctapulse.com/",
       "description": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry.\r\n\r\nAquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We\u2019ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle.\r\n\r\n We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.\r\n",
-      "one_liner": "Computer vision to automate fish farming from hatchery to harvest",
+      "one_liner": "Robotics and computer vision to automate fish farming from hatchery\u2026",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -2795,11 +2830,11 @@
     },
     {
       "id": 31123,
-      "name": "21st",
-      "slug": "21st",
-      "website": "https://21st.dev",
-      "description": "",
-      "one_liner": "Ai programming tools",
+      "name": "1code by 21st.dev",
+      "slug": "1code-by-21stdev",
+      "website": "https://1code.dev",
+      "description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
+      "one_liner": "Orchestration Layer for coding agents",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 3,
@@ -4161,5 +4196,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-05T18:12:25.636189"
+  "fetched_at": "2026-02-06T00:03:22.190747"
 }

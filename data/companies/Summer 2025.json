@@ -1544,7 +1544,9 @@
         "Partly Remote"
       ],
       "locations": "Mexico City, CDMX, Mexico",
-      "tags": [],
+      "tags": [
+        "Artificial Intelligence"
+      ],
       "stage": "Early",
       "is_hiring": true,
       "is_nonprofit": false,
@@ -1891,8 +1893,8 @@
       "name": "Omnara",
       "slug": "omnara",
       "website": "https://omnara.com",
-      "description": "Omnara brings Claude Code to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
-      "one_liner": "Mobile & Voice Interface for Claude Code",
+      "description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
+      "one_liner": "Mobile & Voice Interface for Claude Code & Codex",
       "batch": "Summer 2025",
       "status": "Active",
       "team_size": 3,
@@ -1908,8 +1910,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
-        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -2928,7 +2930,7 @@
       "name": "Louiza Labs",
       "slug": "louiza-labs",
       "website": "https://www.louizalabs.co",
-      "description": "Assemble pharma publication-grade evidence 100x faster\r\n\r\nWe synthesize real-world and published evidence into literature reviews for post-market pharma teams (HEOR, medical affairs, market access) to prove post-market drug safety and efficacy \u2014 in days, not months.\r\n\r\nFocusing initially on women's health drugs + GLP-1's.\r\n\r\n",
+      "description": "Assemble pharma publication-grade evidence 100x faster\r\n\r\nWe synthesize real-world and published evidence into literature reviews for  pharma teams to prove drug safety and efficacy \u2014 in days, not months. Focusing initially on women's health drugs + GLP-1's.\r\n\r\nBuilt by a team of NVIDIA engineers, Apple Engineers, and Harvard Med Students.\r\n\r\n",
       "one_liner": "Hebbia for Pharmaceutical Evidence",
       "batch": "Summer 2025",
       "status": "Active",
@@ -5373,5 +5375,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-02-05T18:12:23.742690"
+  "fetched_at": "2026-02-06T00:03:20.373173"
 }
