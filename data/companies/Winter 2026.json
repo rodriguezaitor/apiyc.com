@@ -83,19 +83,12 @@
         "Consumer"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada"
+        "Unspecified"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Consumer",
-        "Video",
-        "Social",
-        "Creator Economy",
-        "AI"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1770250805.0,
@@ -954,11 +947,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
         "Finance",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2390,6 +2383,41 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2b1d5849be66ecb8111d6f209625734882c46e5.png"
     },
     {
+      "id": 31147,
+      "name": "Salus",
+      "slug": "salus",
+      "website": "https://www.usesalus.ai/",
+      "description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it\u2019s about to execute. Salus does that.\r\n\r\nWe\u2019ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",
+      "one_liner": "Guardrails to validate your agent's actions before they execute",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "B2B",
+        "API",
+        "Infrastructure"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770354850.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c6ac09e3c5b1ea11b328571a796a96107e4570.png"
+    },
+    {
       "id": 31146,
       "name": "Arcline",
       "slug": "arcline",
@@ -2830,11 +2858,11 @@
     },
     {
       "id": 31123,
-      "name": "1code by 21st.dev",
-      "slug": "1code-by-21stdev",
+      "name": "1code (21st.dev)",
+      "slug": "1code-21stdev",
       "website": "https://1code.dev",
       "description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
-      "one_liner": "Orchestration Layer for coding agents",
+      "one_liner": "Orchestration layer for coding agents",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 3,
@@ -3151,16 +3179,16 @@
       "locations": "San Francisco, CA, USA",
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Developer Tools",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1770083112.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/26000be4ea55d3ad362449bab44a79ad483eaba7.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b7bb4a4c603e5aceea61b58a68a6d3b7156a9d9.png"
     },
     {
       "id": 31098,
@@ -4196,5 +4224,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-06T00:03:22.190747"
+  "fetched_at": "2026-02-06T06:13:27.791063"
 }
