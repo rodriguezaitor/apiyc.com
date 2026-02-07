@@ -99,7 +99,7 @@
       "name": "Shofo",
       "slug": "shofo",
       "website": "https://shofo.ai/",
-      "description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
+      "description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every video across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
       "one_liner": "Common Crawl for Videos",
       "batch": "Winter 2026",
       "status": "Active",
@@ -116,11 +116,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Social Media",
         "API",
         "Data Labeling",
-        "Big Data"
+        "Big Data",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1878,16 +1878,16 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "Enterprise Software",
-        "Semiconductors",
-        "AI"
+        "Semiconductors"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1767637338.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1e5043a0ffc6163892286ad2ffa62ff671b9be8.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9acdb09765b62086883672feeb576e191249bff.png"
     },
     {
       "id": 31180,
@@ -4358,5 +4358,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-07T00:04:58.204769"
+  "fetched_at": "2026-02-07T06:07:56.683387"
 }

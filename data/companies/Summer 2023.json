@@ -3880,7 +3880,7 @@
       "name": "Repaint",
       "slug": "repaint",
       "website": "https://repaint.com",
-      "description": "Repaint lets you build a website by chatting in plain English. As you describe your business and the changes you want, Repaint turns those messages into design, layout, and content on a live site. It\u2019s built for small businesses, independent professionals, and anyone who doesn\u2019t want to deal with code or heavy design tools. Our vision is to make a new type of software creation that's accessible to everyone.",
+      "description": "Repaint lets you build professional websites by chatting with AI. It interviews you and searches information to plan your website. Then it builds it. You can edit anything through AI chat, and directly publish to a custom domain. It lets non-coders build sites without learning coding or a heavy design tool. Our vision is to make a new type of software creation that's accessible to the masses.",
       "one_liner": "Build a website by chatting with AI",
       "batch": "Summer 2023",
       "status": "Active",
@@ -3897,11 +3897,11 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
         "Chatbot",
         "Design",
-        "Web Development",
-        "AI"
+        "Web Development"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -7401,5 +7401,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6abe17a364c1113dea922a968293da0024ff5af.png"
     }
   ],
-  "fetched_at": "2026-02-07T00:04:54.087708"
+  "fetched_at": "2026-02-07T06:07:53.970787"
 }
