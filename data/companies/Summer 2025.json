@@ -381,7 +381,7 @@
         "AI"
       ],
       "stage": "Early",
-      "is_hiring": true,
+      "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1753735109.0,
@@ -4099,7 +4099,7 @@
       "id": 30634,
       "name": "bitrig",
       "slug": "bitrig",
-      "website": "https://www.bitrig.app",
+      "website": "https://bitrig.com",
       "description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, Apple's UI framework for building modern iOS apps, and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
       "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
       "batch": "Summer 2025",
@@ -5375,5 +5375,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png"
     }
   ],
-  "fetched_at": "2026-02-06T18:09:37.305636"
+  "fetched_at": "2026-02-07T00:04:55.755099"
 }

@@ -528,6 +528,39 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png"
     },
     {
+      "id": 31253,
+      "name": "Maven",
+      "slug": "maven",
+      "website": "https://www.trymaven.com",
+      "description": "Infrastructure for voice-native commerce. Add secure, conversational checkout to AI agents with a single API.",
+      "one_liner": "Payment infrastructure built for voice",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Developer Tools",
+        "Fintech",
+        "SaaS",
+        "Conversational AI"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770422490.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png"
+    },
+    {
       "id": 31252,
       "name": "Moda",
       "slug": "moda",
@@ -1030,16 +1063,16 @@
       "name": "Servo7",
       "slug": "servo7",
       "website": "https://servo7.com",
-      "description": "Traditional warehouse automation is broken. It's expensive, it takes forever to implement, and it's not flexible. Many warehouses are stuck with automation systems that have become \"old iron\" after their operations changed slightly.\r\n\r\nWe train and deploy robots to automate warehouse tasks. The robot learns new tasks on the job and improves over time.\r\n\r\nInstead of writing off the automation, our robots increase in value over time.",
-      "one_liner": "Autonomous Warehouse Robots",
+      "description": "You\u2019re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don\u2019t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We\u2019re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
+      "one_liner": "Industry Robots - Ready to Work",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": null,
-      "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Manufacturing and Robotics",
       "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
+        "Industrials",
+        "Manufacturing and Robotics"
       ],
       "regions": [
         "Netherlands",
@@ -1047,9 +1080,11 @@
       ],
       "locations": "Amsterdam, NH, Netherlands",
       "tags": [
-        "Artificial Intelligence",
         "Robotics",
-        "Logistics"
+        "Logistics",
+        "Manufacturing",
+        "Automation",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1554,6 +1589,38 @@
       "is_top_company": false,
       "launched_at": 1770178936.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d810cf9fbc8197e7a14f659b8561b30bc2fc6e4c.png"
+    },
+    {
+      "id": 31201,
+      "name": "Robby",
+      "slug": "robby",
+      "website": "https://tryrobby.com",
+      "description": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour.\r\n\r\nOur team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves.\r\n\r\nVineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+      "one_liner": "Agentic revenue growth for home service businesses.",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 3,
+      "industry": "B2B",
+      "subindustry": "B2B -> Productivity",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "San Francisco, CA, USA",
+      "tags": [
+        "Artificial Intelligence",
+        "Home Services"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770411161.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d0e4c250082b6d92fda2c96cf3af7a535c03a5.png"
     },
     {
       "id": 31200,
@@ -3054,11 +3121,43 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png"
     },
     {
+      "id": 31109,
+      "name": "Beacon Health",
+      "slug": "beacon-health",
+      "website": "https://www.beaconhealth.ai/",
+      "description": "Beacon Health (YC W26) is building AI agents for primary care - starting with value-based care.\r\n\r\n\r\nPrimary care is the primary source of care for 200M Americans but physicians don\u2019t have the bandwidth to manage their patient panels  - preventative screenings, prior authorizations, referrals, and risk adjustment, all important work that steals time from patients. \r\n\r\nOur Al agents handle workflows for them directly in their EHR. We own them from end to end - putting their value based care on autopilot. We\u2019re on a mission is to bring joy back to primary care.",
+      "one_liner": "AI Agents for Primary Care",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare",
+      "industries": [
+        "Healthcare"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "locations": "New York, NY, USA",
+      "tags": [
+        "Health Tech",
+        "Primary Care",
+        "AI"
+      ],
+      "stage": "Early",
+      "is_hiring": true,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770418074.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d74523afde78b3ac3597bb4170a5287e3f38c36.png"
+    },
+    {
       "id": 31108,
       "name": "Strand AI",
       "slug": "strand-ai",
       "website": "https://strandai.com",
-      "description": "",
+      "description": "Strand AI builds foundation models that predict missing biological data from measured readouts.",
       "one_liner": "Curated multimodal datasets for biology AI",
       "batch": "Winter 2026",
       "status": "Active",
@@ -3075,6 +3174,8 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
         "Biotech"
       ],
       "stage": "Early",
@@ -4257,5 +4358,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-06T18:09:39.661577"
+  "fetched_at": "2026-02-07T00:04:58.204769"
 }

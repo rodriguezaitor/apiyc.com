@@ -7849,7 +7849,7 @@
       "slug": "soco",
       "website": "https://socosearch.com/",
       "description": "Soco: You talk to it, it brings you hundreds of products.",
-      "one_liner": "Conversational AI shopping",
+      "one_liner": "Visual AI shopping",
       "batch": "Summer 2021",
       "status": "Active",
       "team_size": null,
@@ -7867,10 +7867,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Chatbot",
         "Retail",
+        "AI",
         "AI Assistant"
       ],
       "stage": "Early",
@@ -7952,11 +7952,11 @@
       "name": "VitalStrata",
       "slug": "vitalstrata",
       "website": "https://www.vitalstrata.com",
-      "description": "Automate and scale post-discharge follow-up calls with AI coordinators that specialize in transition of care.",
-      "one_liner": "AI coordinators for post-discharge follow-up calls",
+      "description": "Boost coding accuracy, uncover hidden prospective signals, and increase audit-defensibility of MAO risk adjustment operations with VitalStrata's RAF Precision AI.",
+      "one_liner": "AI for risk adjustment integrity ",
       "batch": "Summer 2021",
       "status": "Active",
-      "team_size": 2,
+      "team_size": 1,
       "industry": "Healthcare",
       "subindustry": "Healthcare -> Healthcare IT",
       "industries": [
@@ -7972,8 +7972,8 @@
       "locations": "New York, NY, USA; Remote",
       "tags": [
         "Health Tech",
-        "Telehealth",
         "Healthcare",
+        "Health Insurance",
         "Healthcare IT"
       ],
       "stage": "Early",
@@ -13414,5 +13414,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b6574cc19556c5eb8c4d3f21246af0c375546b.png"
     }
   ],
-  "fetched_at": "2026-02-06T18:09:32.602412"
+  "fetched_at": "2026-02-07T00:04:50.836201"
 }
