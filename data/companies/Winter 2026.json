@@ -240,8 +240,8 @@
       "name": "Librar Labs",
       "slug": "librar-labs",
       "website": "https://www.librarlabs.com",
-      "description": "AI for inventory starting with libraries. Librar speed up the manual & boring work, so librarians can build reading culture and community.\r\n\r\nA complete library system for any collection.\r\n\r\n",
-      "one_liner": "Intelligence for physical knowledge starting with libraries",
+      "description": "AI for librarians. Librar speed up the manual & boring work, so librarians can build reading culture and community.\r\n\r\nThe worlds first AI-librarian.\r\n\r\n",
+      "one_liner": "Intelligence for physical knowledge starting with libraries. Worlds\u2026",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -255,9 +255,9 @@
       ],
       "locations": "",
       "tags": [
+        "Artificial Intelligence",
         "Machine Learning",
-        "Computer Vision",
-        "AI"
+        "Computer Vision"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -1240,20 +1240,13 @@
         "Consumer"
       ],
       "regions": [
-        "United States of America",
-        "America / Canada",
         "Remote",
         "Partly Remote"
       ],
-      "locations": "San Francisco, CA, USA",
-      "tags": [
-        "Hardware",
-        "Productivity",
-        "AI",
-        "Note-taking"
-      ],
+      "locations": "",
+      "tags": [],
       "stage": "Early",
-      "is_hiring": false,
+      "is_hiring": true,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1764996860.0,
@@ -1728,7 +1721,7 @@
       "one_liner": "AI for M&A",
       "batch": "Winter 2026",
       "status": "Active",
-      "team_size": 4,
+      "team_size": 5,
       "industry": "Fintech",
       "subindustry": "Fintech -> Banking and Exchange",
       "industries": [
@@ -1743,10 +1736,10 @@
       ],
       "locations": "New York, NY, USA",
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Finance",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": true,
@@ -1888,6 +1881,38 @@
       "is_top_company": false,
       "launched_at": 1767637338.0,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9acdb09765b62086883672feeb576e191249bff.png"
+    },
+    {
+      "id": 31181,
+      "name": "Synthetic Sciences",
+      "slug": "synthetic-sciences",
+      "website": "https://syntheticsciences.ai/",
+      "description": "We\u2019re building the infrastructure for a future AI co-scientist, starting with computational research domains. Our thesis is that capable AI scientists require two things built in tandem: (1) a human-centric product suite that generates high-quality process data, and (2) the research infrastructure to turn that data into increasingly autonomous systems. We\u2019re creating the product and training infrastructure needed for research agents that can execute the full scientific loop.\r\n\r\nSynthetic Sciences Web is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading \u2192 hypotheses \u2192 methods \u2192 experimentation \u2192 results \u2192 drafting, even while they sleep. In parallel, we develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows.",
+      "one_liner": "AI co-scientists that run research end-to-end",
+      "batch": "Winter 2026",
+      "status": "Active",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "locations": "",
+      "tags": [
+        "Developer Tools",
+        "Reinforcement Learning",
+        "Workflow Automation"
+      ],
+      "stage": "Early",
+      "is_hiring": false,
+      "is_nonprofit": false,
+      "is_top_company": false,
+      "launched_at": 1770489645.0,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d12b5cddde967f28e71a5bdfa173bbd8e7a0b10c.png"
     },
     {
       "id": 31180,
@@ -3463,7 +3488,7 @@
       "slug": "sonarly",
       "website": "https://sonarly.com",
       "description": "We\u2019d like to automate monitoring. To advance that mission, we\u2019re building Sonarly.\r\n\r\nSoftware has two phases: build time and run time. Coding agents are getting great at build time, but production is still a mess of charts, logs, and noisy alerts. Sonarly triages production alerts, deduping - prioritizing, and attaching the missing context - so teams can trust what pages them and fix the right issue fast. As you deploy new code, Sonarly keeps alerts and investigations up to date automatically.",
-      "one_liner": "Start trusting your production alerts.",
+      "one_liner": "The AI engineer for production",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 2,
@@ -4358,5 +4383,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-07T18:02:36.165470"
+  "fetched_at": "2026-02-08T00:08:31.810015"
 }
