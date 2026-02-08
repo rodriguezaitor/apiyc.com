@@ -240,8 +240,8 @@
       "name": "Librar Labs",
       "slug": "librar-labs",
       "website": "https://www.librarlabs.com",
-      "description": "AI for librarians. Librar speed up the manual & boring work, so librarians can build reading culture and community.\r\n\r\nThe worlds first AI-librarian.\r\n\r\n",
-      "one_liner": "Intelligence for physical knowledge starting with libraries. Worlds\u2026",
+      "description": "AI for inventory starting with libraries. Librar speed up the manual & boring work, so librarians can build reading culture and community.\r\n\r\nA complete library system for any collection.\r\n\r\n",
+      "one_liner": "Intelligence for physical knowledge starting with libraries - worlds\u2026",
       "batch": "Winter 2026",
       "status": "Active",
       "team_size": 4,
@@ -255,9 +255,9 @@
       ],
       "locations": "",
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
@@ -2529,18 +2529,18 @@
       ],
       "locations": "San Francisco, CA, USA",
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
         "API",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "stage": "Early",
       "is_hiring": false,
       "is_nonprofit": false,
       "is_top_company": false,
       "launched_at": 1770354850.0,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c6ac09e3c5b1ea11b328571a796a96107e4570.png"
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab475a73fae950cedb2c238eb5a23d6a709d5cb2.png"
     },
     {
       "id": 31146,
@@ -4383,5 +4383,5 @@
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png"
     }
   ],
-  "fetched_at": "2026-02-08T00:08:31.810015"
+  "fetched_at": "2026-02-08T06:12:53.678157"
 }
